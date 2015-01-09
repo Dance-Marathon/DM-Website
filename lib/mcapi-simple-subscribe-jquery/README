@@ -1,0 +1,47 @@
+MCAPI Simple Subscribe Example code
+-------------------------------------------------------------------------------
+Version: 1.3
+Requires: PHP 5+
+Support: http://groups.google.com/group/mailchimp-api-discuss/topics
+Author: Aarron Walter
+Also available via:
+    * Building Findable Websites book by Aaron Walter 
+        - http://buildingfindablewebsites.com/code.php
+    * SitePoint 
+        - http://www.sitepoint.com/article/use-ajax-php-build-mailing-list
+
+2010-07-20 - Updated to use JQuery instead of Prototype 
+             * thanks to Joel Lisenby - http://www.joellisenby.com/
+
+
+===== About =====
+This example shows the most basic case of subscribing a new subscriber to 
+one of your MailChimp lists.
+
+===== Using this Example =====
+1)  Unzip the whole package and drop it into a directory on a PHP 4+ enabled 
+    webserver.
+
+2)  Edit the "inc/store-address.php" file:
+    Line 24: replace "your_apikey" with an API Key retrieved from here:
+				http://admin.mailchimp.com/account/api/
+    
+    Line 27: replace "my_list_unique_id" with the List Unique Id obtained by
+    		 going to:
+    		 	 http://admin.mailchimp.com/lists/
+			 Click the "settings" link for the list - the Unique Id is at the 
+    		 bottom of that page. 
+
+3) Try it!
+
+
+===== Usage Notes =====
+This example uses MailChimp's MCAPI wrapper. As such, when comparing the 
+documentation available online to it, you should ignore the $api_key 
+parameter - the API wrappers we offer automatically handle that after you login
+once.
+
+
+===== License =====
+Part of the code from the book Building Findable Websites: Web Standards, SEO, and Beyondby Aarron Walter (aarron@buildingfindablewebsites.com)http://buildingfindablewebsites.comDistrbuted under Creative Commons licensehttp://creativecommons.org/licenses/by-sa/3.0/us/
+-------------------------------------------------------------------------------

@@ -1,0 +1,134 @@
+/*
+    START MATT GERSTMAN TOUCHED THIS
+*/
+
+.sf-menu, .sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+@media(min-width:768px) {
+
+    /*** ESSENTIAL STYLES ***/
+    .sf-menu li {
+    	position: relative;
+    }
+    .sf-menu ul {
+    	position: absolute;
+    	display: none;
+    	top: 100%;
+    	left: 0;
+    	z-index: 99;
+    }
+    .sf-menu > li {
+    	float: left;
+    }
+    .sf-menu li:hover > ul,
+    .sf-menu li.sfHover > ul {
+    	display: block;
+    }
+
+    .sf-menu a {
+    	display: block;
+    	position: relative;
+    }
+    .sf-menu ul ul {
+    	top: 0;
+    	left: 100%;
+    }
+}
+
+/*
+    END MATT GERSTMAN TOUCHED THIS
+*/
+
+
+/*** SKIN ***/
+.sf-menu ul {
+	min-width: 12em; /* allow long menu items to determine submenu width */
+	*width: 12em; /* no auto sub width for IE7, see white-space comment below */
+}
+.sf-menu a {
+	text-decoration: none;
+	zoom: 1; /* IE7 */
+}
+.sf-menu li {
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 26px;
+	letter-spacing: 0.05em;
+	white-space: nowrap; /* no need for Supersubs plugin */
+	*white-space: normal; /* ...unless you support IE7 (let it wrap) */
+}
+.sf-menu li a {
+	color:#fff;
+	font-weight: 700;
+	font-size: 16px;
+    padding: 20px 15px;
+    letter-spacing: 0;
+    text-transform: uppercase;
+    position: relative;
+	display: block;
+}
+.sf-menu li:hover,
+.sf-menu li.sfHover {
+	background: #f79b63;
+	/* only transition out, not in */
+	-webkit-transition: none;
+	transition: none;
+}
+.sf-menu li ul {
+	background: #f79b63;
+  border: none;
+  border-radius: 0px;
+  padding-top: 4px;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.sf-menu li ul li ul {
+  padding-top: 0;
+}
+.sf-menu li ul li a {
+  color: #fff;
+  padding: 8px 16px;
+  display: block;
+  clear: both;
+  font-size: 14px;
+  font-weight: normal;
+  text-transform: none;
+  line-height: 1.428571429;
+  white-space: nowrap;
+}
+
+.sf-menu li ul li a:hover,
+.sf-menu li ul li a:focus {
+  color: #fff;
+  background-color: #f37021;
+}
+
+.sf-menu .open > a,
+.sf-menu .open > a:hover,
+.sf-menu .open > a:focus {
+  background-color: #f79b63;
+}
+
+/*
+    START MATT GERSTMAN TOUCHED THIS
+*/
+
+@media (max-width:768px) {
+  .sf-menu{
+    margin: 15px 0;
+  }
+}
+
+@media(max-width:992px) {
+    .sf-menu li a {
+        padding: 20px 12px;
+    }
+}
+
+/*
+    END MATT GERSTMAN TOUCHED THIS
+*/
