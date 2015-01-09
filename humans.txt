@@ -1,0 +1,7 @@
+/* ABOUT THIS FILE */
+  Description: We Are People, Not Machines
+  More informations: <http://humanstxt.org/>
+
+/* TEAM */
+Tech Overall:   Alex Migdall
+Helper:         Matt Gerstman
