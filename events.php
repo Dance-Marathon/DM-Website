@@ -26,6 +26,7 @@
 						<li><a href="/community-events">Community Events</a></li>
 						<li><a href="/hsdm">High School DM</a></li>
                         <li><a href="/ft5k">FT5K 2015</a></li>
+                        <li><a href="/registertodance">Dancer Registration</a></li>
           </ul>
         </div>
 			</div>
