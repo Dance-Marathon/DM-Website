@@ -79,7 +79,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
-      <p>Welcome to the online home of <b>Dance Marathon</b> at the <b>University of Florida</b>!<br />DM at UF is the largest student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
+      <p>Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
     </div>
   </div>
 </div>
