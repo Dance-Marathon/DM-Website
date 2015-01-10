@@ -3,5 +3,17 @@
   More informations: <http://humanstxt.org/>
 
 /* TEAM */
-Tech Overall:   Alex Migdall
-Helper:         Matt Gerstman
+Project Manager:  			Alex Migdall
+
+Design Lead:				Hailey Boerema
+
+Design Contributors:		Eric Leite
+							Tatyana Mann
+
+Developement Leads:  		Thomas Echezabal and Eric Leite
+
+Developement Contributors:	Matthew Gerstman
+							Kevin Kimbrough
+							Julie Rothe
+							Lauren Safran
+							Matthew Smith

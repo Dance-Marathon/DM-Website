@@ -13,7 +13,6 @@
         <li data-target="#top-carousel" data-slide-to="1"></li>
         <li data-target="#top-carousel" data-slide-to="2"></li>
         <li data-target="#top-carousel" data-slide-to="3"></li>
-        <li data-target="#top-carousel" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active item-with-caption">
@@ -31,10 +30,6 @@
               </div>
             </div>
           </div>
-        </div>
-        <!-- End Item -->
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/cover3.jpg">
         </div>
         <!-- End Item -->
         <div class="item item-with-caption">
