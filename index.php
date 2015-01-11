@@ -58,7 +58,7 @@
           <img class="img-responsive img-full"  src="assets/images/slider/slider_dmlive.jpg">
         </div>
         <div class="item">
-        <a href="/hsdm" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/cover2.jpg"></a>
+          <a href="/hsdm" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/cover2.jpg"></a>
         </div>
 
 
