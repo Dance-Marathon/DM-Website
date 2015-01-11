@@ -232,7 +232,7 @@ dancers to raise lots of money!',
             'image' => 'Catriona',
             ),
         array(
-            'name'  => 'Geoffry P.',
+            'name'  => 'Geoffrey P.',
             'description' => 'We’ve been attending Dance Marathon for 7 years now! It’s been a
 
 wonderful event yearly. And we’ve had some amazing opportunities
@@ -578,7 +578,16 @@ running and has not stopped yet.
 
 ',
             'image' => 'Wyatt T',
+            ),
+        array(
+            'name' => 'Zander W.',
+            'description' => 'Zander was born on November 29,2006 at 2:03pm at Capital Regional Medical Center (CRMC).  He started to turn blue so he was transported to Tallahassee Memorial Hospital (TMH) because they had a NICU.  While he was at TMH he was diagnosed with a congenital heart defect called Transposition of the Greater Vessels (TOGV).  Zander was then life flighted to Shand’s Hospital For Children in Gainesville.  He arrived at 10:30 that night.  When Zander was a day old he had to have two heart Caths because the first one didn’t take.  When Zander was six days old he had open heart surgery.  When he was ten or eleven days old they closed his chest cavity.  When he was a month old he had stomach surgery for Pyloric Stenosis. 
+ 
+When Zander was four and a half months old on April 19,2007  he had head surgery for Craniosynostosis (his soft spot closed no later than four months old). In April 2012 Zander had tubes put in his ears for repeat ear infections.  On November 20,2012 Zander had head surgery again but this time to fill in the man made soft spot.  They filled it in with bone putty, titanium mesh, and titanium screws.  Zander calls the scar on his chest his zipper and he calls the scar on his head his lucky “C” for courageous, cutie patootie, etc. He also calls it his smile while we call it our lucky horseshoe. 
+In January 2014 Zander was diagnosed with both Neuropathy as well as Restless Leg Syndrome.  On May 15, 2014 we picked up Zander’s Glow-In-The-Dark Wheelchair to help with long distances.  Zander also has gas reflux (a type of acid reflux), asthma, food allergies, and seasonal allergies.  Even with everything that Zander has been diagnosed with he is the life of the party.  He loves to dance.  He has told his doctors on multiple occasions that he is going to keep dancing even if it hurts because he wants to. ',
+            'image' => 'Zander',
             )
+
         );
 ?>
 
