@@ -51,10 +51,10 @@
         </div>
         <!-- End Item -->
         <div class="item">
-        <a href="/hsdm" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/TropSmoothieWeb.jpg"></a>
+        <img class="img-responsive img-full"  src="assets/images/slider/TropSmoothieWeb.jpg">
         </div>
         <div class="item">
-        <a href="/hsdm" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Panda-website.jpg"></a>
+        <img class="img-responsive img-full"  src="assets/images/slider/Panda-website.jpg">
         </div>
         <div class="item">
           <a href="/ft5k" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/slider_ft5k.jpg"></a>
