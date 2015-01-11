@@ -37,12 +37,12 @@
           <img class="img-responsive img-full" src="assets/images/slider/cover.jpg">
           <div class="carousel-caption text-center">
             <div class="row">
-              <div class="col-md-6 vcenter">
+              <div class="col-md-6">
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ZRc6rjZleMs"></iframe>
                 </div>
               </div>
-              <div class="col-md-5 col-md-offset-1 vcenter">
+              <div class="col-md-5 col-md-offset-1">
                 <h2 style="color: #fff; font-size: 3em;">Through the Years</h2>
                 <p style="color:#fff; font-size:1.3em">As Dance Marathon at UF embarks on its 21st year, this video serves to highlight the growth and success of the past 20 years. Join us at the UF Stephen C. O'Connell Center on March 14-15!</p>
               </div>
