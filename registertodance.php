@@ -32,7 +32,8 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
             <h3>Register Today</h3>
-  			<p>Spring 2015 Dancer Registration will end January 16th, 2015. Please click <a href="https://www.floridadm.org/registertodance">Here</a> to sign up. </br>	
+  			<p>Spring 2015 Dancer Registration will end January 16th, 2015.
+  				</br><b>The form to register is currently down. Please check back periodically.</b></br>	
   			If you have any questions, please contact Suzy Schrimsher, Dancer Relations Overall, at 
   			<a href="mailto:sschrimsher@floridadm.org">sschrimsher@floridadm.org</a> .</p>
             &nbsp;<br/>
