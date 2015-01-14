@@ -23,7 +23,7 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="/meet-the-kids.php">Meet the Kids</a></li>
+						<li><a href="/meet-the-kids">Meet the Kids</a></li>
 						<li><a class="active">Family Events</a></li>
           </ul>
         </div>
