@@ -137,7 +137,7 @@
       </div>
       <div class="col-md-6">
         <h3>Many Places, One Common Cause</h3>
-        <p>Dance Marathon at the University of Florida is fortunate to be a piece of a larger international movement. Hundreds of Dance Marathon’s throughout North America raise funds and awareness for Children’s Miracle Network Hospitals. UF Health Shand Children’s Hospital is lucky enough to receive support from 5 of Dance Marathons in the region allowing it to make more miracles each and every day.</p>
+        <p>Dance Marathon at the University of Florida is fortunate to be a piece of a larger international movement. Hundreds of Dance Marathon’s throughout North America raise funds and awareness for Children’s Miracle Network Hospitals. UF Health Shands Children’s Hospital is lucky enough to receive support from 5 of Dance Marathons in the region allowing it to make more miracles each and every day.</p>
         <div class="container-fluid" style="padding-top:3em;">
           <div class="row">
             <div class="col-xs-4">
