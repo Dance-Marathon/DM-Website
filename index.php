@@ -57,10 +57,10 @@
           <a href="/registertodance"><img class="img-responsive img-full"  src="assets/images/slider/website_registration.jpg"></a>
         </div>
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/Panda-website.jpg">
+          <img class="img-responsive img-full"  src="assets/images/slider/slider_dmlive.jpg">
         </div>
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/slider_dmlive.jpg">
+          <img class="img-responsive img-full"  src="assets/images/slider/Panda-website.jpg">
         </div>
         <div class="item">
           <a href="/ft5k" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/slider_ft5k.jpg"></a>
