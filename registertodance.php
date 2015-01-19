@@ -32,14 +32,11 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
             <h3>Register Today</h3>
-  			<p>Spring 2015 Dancer Registration will end January 16th, 2015.</br>	
+  			<p>Spring 2015 Dancer Registration has ended.</br>	
   			If you have any questions, please contact Suzy Schrimsher, Dancer Relations Overall, at 
   			<a href="mailto:sschrimsher@floridadm.org">sschrimsher@floridadm.org</a> .</p>
 		    &nbsp;<br/>
-			<p><b>If you're on a mobile device, please register via this <a href="https://www.kintera.org/AutoGen/Register/Register.asp?ievent=1130877&en=atLJIXODJ9JSI7PGK8IPK3PQIkLNL2OHKhL0IcNVIkLOK1OFLhK0L5OFIjI3JhO2G">Link</a>.</b></p>
-            &nbsp;<br/>
-            <p align="center"><iframe src="https://www.kintera.org/AutoGen/Register/Register.asp?ievent=1130877&en=atLJIXODJ9JSI7PGK8IPK3PQIkLNL2OHKhL0IcNVIkLOK1OFLhK0L5OFIjI3JhO2G"     width="100%" height="500"> </iframe></p>
-            &nbsp;<br/>
+			
 			</div>
 		</div>
 	</div>
