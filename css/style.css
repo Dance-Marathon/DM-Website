@@ -3,18 +3,18 @@
 FONTS
 -----------------------------------
 */
-@import url(http://fonts.googleapis.com/css?family=Pacifico);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+@import url(//fonts.googleapis.com/css?family=Pacifico);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(//fonts.googleapis.com/css?family=Oswald:400,700,300);
 
 body {
-	font-family: 'Open Sans', arial, sans-serif;
+	font-family: Open Sans, arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading, .btn-default, .flip-clock-divider .flip-clock-label {
-	font-family: 'Oswald', arial, sans-serif;
+	font-family: Oswald, arial, sans-serif;
 }
 .page-heading.parallax h1 {
-	font-family:'Pacifico', arial, serif;
+	font-family: Pacifico, arial, serif;
 }
 
 /*

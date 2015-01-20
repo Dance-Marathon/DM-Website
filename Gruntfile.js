@@ -17,16 +17,16 @@ module.exports = function(grunt) {
         sourceMap: true,
         mangle: true,
         report: 'min'
-      },     
+      },
       files: {
         src: ['lib/*.js', 'js/*.js'],
         dest: 'dist/<%= runtime %>/js/<%= pkg.name %>.min.js'
       }
-      
+
     },
     cssmin: {
       files: {
-        src: 'css/*.css',
+        src: ['css/style.css', 'css/*.css'],
         dest: 'dist/<%= runtime %>/css/<%= pkg.name %>.min.css'
       }
     },
@@ -48,11 +48,11 @@ module.exports = function(grunt) {
     }
   });
 
-  // These plugins provide necessary tasks.  
+  // These plugins provide necessary tasks.
   grunt.loadNpmTasks('grunt-injector');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
-  
+
   // Default task.
   grunt.registerTask('dev', ['injector:dev']);
   grunt.registerTask('prod', ['uglify', 'cssmin', 'injector:prod']);
