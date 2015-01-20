@@ -33,8 +33,8 @@
 
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
-		  <script src="/bower_components/html5shiv/dist/html5shiv.min.js"></script>
-		  <script src="/bower_components/respondJs/dest/respond.min.js"></script>
+		  <script src="/ie/html5shiv.min.js"></script>
+		  <script src="/ie/respond.min.js"></script>
 		<![endif]-->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
