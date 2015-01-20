@@ -26,7 +26,7 @@ module.exports = function(grunt) {
     },
     cssmin: {
       files: {
-        src: ['css/flipclock.css', 'css/style.css', 'css/*.css'],
+        src: ['css/icomoon.css', 'css/flipclock.css', 'css/superfish.css', 'css/style.css'],
         dest: 'dist/<%= runtime %>/css/<%= pkg.name %>.min.css'
       }
     },
