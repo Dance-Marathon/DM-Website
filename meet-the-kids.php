@@ -622,6 +622,12 @@ In January 2014 Zander was diagnosed with both Neuropathy as well as Restless Le
             <?php
 
             for($i = 0; $i < count($kids); $i++) { ?>
+            <?php if ($i % 3 == 0) { ?>
+                <div class="clearfix visible-xs-block visible-sm-block"></div>
+                <?php } ?>
+                <?php if ($i % 4 == 0) { ?>
+                <div class="clearfix visible-md-block visible-lg-block"></div>
+                <?php } ?>
                 <!-- Button trigger modal -->
                 <div class="col-xs-4 col-md-3">
                     <a href="#" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
