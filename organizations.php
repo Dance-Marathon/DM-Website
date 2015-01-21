@@ -3,6 +3,166 @@
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
+  
+  $greek_organizations = array(
+    array(
+      'organization'  =>  'Alpha Gamma Rho',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Alpha Omicron Pi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Alpha Tau Omega',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Beta Theta Pi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Chi Omega',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Chi Phi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Chi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Delta Delta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Gamma',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Phi Epsilon',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Tau Delta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Upsilon',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Zeta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Kappa Alpha Theta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Kappa Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Kappa Delta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Kappa Kappa Gamma',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Kappa Phi Epsilon',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Kappa Sigma',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Lambda Chi Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Phi Gamma Delta (FIJI)',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Phi Kappa Tau',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Phi Mu',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Phi Sigma Kappa',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Phi Sigma Pi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Pi Beta Phi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Pi Kappa Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Pi Kappa Phi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Pi Lambda Phi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Sigma Chi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Sigma Kappa',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Sigma Nu',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Sigma Phi Lambda',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Tau Epsilon Phi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Tau Kappa Epsilon',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Zeta Beta Tau',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Zeta Tau Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Theta Chi',
+      'link'          =>  ''
+    )
+  );
+  
+  function compareAlphabetically($a, $b) {
+    return strcmp($a['organization'], $b['organization']);
+  }
+  usort($greek_organizations, 'compareAlphabetically');
 ?>
 
 <div class="page-heading parallax get-involved">
@@ -29,6 +189,7 @@
 						<li><a class="active">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+						<li><a href="/staffapp">Staff Application</a></li>
           </ul>
         </div>
 			</div>
@@ -90,72 +251,25 @@
         <h3>Greek Organizations</h3>
         <table class="table table-bordered table-middle">
           <tbody>
-            <tr>
-              <td class="col-sm-3">Alpha Chi Omega</td>
-              <td class="col-sm-3">Alpha Delta Pi</td>
-              <td class="col-sm-3">Alpha Epsilon Phi</td>
-              <td class="col-sm-3">Alpha Epsilon Pi</td>
-            </tr>
-            <tr>
-              <td>Alpha Gamma Rho</td>
-              <td>Alpha Omicron Pi</td>
-              <td>Alpha Tau Omega</td>
-              <td>Beta Theta Pi</td>
-            </tr>
-            <tr>
-              <td>Chi Omega</td>
-              <td>Chi Phi</td>
-              <td>Delta Chi</td>
-              <td>Delta Delta Delta</td>
-            </tr>
-            <tr>
-              <td>Delta Gamma</td>
-              <td>Delta Phi Epsilon</td>
-              <td>Delta Sigma Theta-not participating?</td>
-              <td>Delta Tau Delta</td>
-            </tr>
-            <tr>
-              <td>Delta Upsilon</td>
-              <td>Delta Zeta</td>
-              <td>Kappa Alpha Theta</td>
-              <td>Kappa Alpha</td>
-            </tr>
-            <tr>
-              <td>Kappa Delta</td>
-              <td>Kappa Kappa Gamma</td>
-              <td>Kappa Phi Epsilon</td>
-              <td>Kappa Sigma</td>
-            </tr>
-            <tr>
-              <td>Lambda Chi Alpha</td>
-              <td>Phi Gamma Delta (FIJI)</td>
-              <td>Phi Kappa Tau</td>
-              <td>Phi Mu</td>
-            </tr>
-            <tr>
-              <td>Phi Sigma Kappa</td>
-              <td>Phi Sigma Pi</td>
-              <td>Pi Beta Phi</td>
-              <td>Pi Kappa Alpha</td>
-            </tr>
-            <tr>
-              <td>Pi Kappa Phi</td>
-              <td>Pi Lambda Phi</td>
-              <td>Sigma Chi</td>
-              <td>Sigma Kappa</td>
-            </tr>
-            <tr>
-              <td>Sigma Nu</td>
-              <td>Sigma Phi Lambda</td>
-              <td>Tau Epsilon Phi</td>
-              <td>Tau Kappa Epsilon</td>
-            </tr>
-            <tr>
-              <td>Theta Chi</td>
-              <td>Zeta Beta Tau</td>
-              <td>Zeta Tau Alpha</td>
-              <td></td>
-            </tr>
+          <?php
+          for($i = 0; $i < count($greek_organizations); $i++) {
+            if($i % 4 == 0) {
+              echo '<tr>';
+            }
+            if($i <= 3) {
+              echo '<td class="col-sm-3">';
+            } else {
+              echo '<td>';
+            }
+            if($greek_organizations[$i]['link'] !== '') {
+              echo '<a href="'.$greek_organizations[$i]['link'].'"></td>';
+            } else {
+              echo $greek_organizations[$i]['organization'].'</td>';
+            }
+            if(($i - 3) % 4 == 0) {
+              echo '</tr>';
+            }
+          } ?>
           </tbody>
         </table>
   		</div>
