@@ -1,5 +1,5 @@
 <?php
-	$GLOBALS['page_title'] = 'Get Involved | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Staff Application | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
@@ -10,7 +10,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Get Involved</h1>
+    			<h1>Staff Application</h1>
 	  		</div>
     	</div>
 	  </div>
