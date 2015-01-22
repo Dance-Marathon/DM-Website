@@ -156,6 +156,10 @@
     array(
       'organization'  =>  'Theta Chi',
       'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Alpha Chi Omega',
+      'link'          =>  ''
     )
   );
   
