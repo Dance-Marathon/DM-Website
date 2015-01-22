@@ -18,6 +18,6 @@ Developement Leads:
 Developement Contributors:  
                             Matthew Gerstman
                             Kevin Kimbrough
-                            Julie Rothe - Bye
+                            Julie Rothe
                             Lauren Safran
                             Matthew Smith
