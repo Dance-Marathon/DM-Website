@@ -1,9 +1,137 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Organizations | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
   
+  $special_interest_orgs = array(
+    array(
+      'organization'  =>  'Benton Engineering Council',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Beta Upsilon Chi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Black Student Union',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Campus Juice',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Nu Zeta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Epsilon Sigma Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Florida Athletic Training',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Florida Cicerones',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Freshman Leadership Council',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Gamma Eta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Gator Band',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Heal the World',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Health Quality Outreach Improvement',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'HOSA',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'IRHA',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Levin College of Law',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Omega Phi Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Pre-Student Osteopathic Medical Association',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Preview Staff',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Sabor Latino',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Sigma Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'SOTA',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'SPTA',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Theta Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Theta Tau',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Medlife',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Model United Nations',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF College of Medicine',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF College of Pharmacy (PPAG)',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Honors Program',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Premed AMSA',
+      'link'          =>  ''
+    )
+  );
+
   $greek_organizations = array(
     array(
       'organization'  =>  'Alpha Gamma Rho',
@@ -166,6 +294,7 @@
   function compareAlphabetically($a, $b) {
     return strcmp($a['organization'], $b['organization']);
   }
+  usort($special_interest_orgs, 'compareAlphabetically');
   usort($greek_organizations, 'compareAlphabetically');
 ?>
 
@@ -198,60 +327,33 @@
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+  		<?php if ($status == "open") { ?>
+  			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
         <h3>Special Interest Organizations</h3>
         <table class="table table-bordered table-middle">
           <tbody>
-            <tr>
-              <td class="col-sm-3">Benton Engineering Council</td>
-              <td class="col-sm-3">Beta Upsilon Chi</td>
-              <td class="col-sm-3">Black Student Union</td>
-              <td class="col-sm-3">Campus Juice</td>
-            </tr>
-            <tr>
-              <td>Delta Nu Zeta</td>
-              <td>Epsilon Sigma Alpha</td>
-              <td>Florida Athletic Training</td>
-              <td>Florida Cicerones</td>
-            </tr>
-            <tr>
-              <td>Freshman Leadership Council</td>
-              <td>Gamma Eta</td>
-              <td>Gator Band</td>
-              <td>Heal the World</td>
-            </tr>
-            <tr>
-              <td>Health Quality Outreach Improvement</td>
-              <td>HOSA</td>
-              <td>IRHA</td>
-              <td>Levin College of Law</td>
-            </tr>
-            <tr>
-              <td>Omega Phi Alpha</td>
-              <td>Pre-Student Osteopathic Medical Association</td>
-              <td>Preview Staff</td>
-              <td>Sabor Latino</td>
-            </tr>
-            <tr>
-              <td>Sigma Alpha</td>
-              <td>SOTA</td>
-              <td>SPTA</td>
-              <td>Theta Alpha</td>
-            </tr>
-            <tr>
-              <td>Theta Tau</td>
-              <td>UF Medlife</td>
-              <td>UF Model United Nations</td>
-              <td>UF College of Medicine</td>
-            </tr>
-            <tr>
-              <td>UF College of Pharmacy (PPAG)</td>
-              <td>UF Honors Program</td>
-              <td>UF Premed AMSA</td>
-              <td></td>
-            </tr>
+          <?php
+          for($i = 0; $i < count($special_interest_orgs); $i++) {
+            if($i % 4 == 0) {
+              echo '<tr>';
+            }
+            if($i <= 3) {
+              echo '<td class="col-sm-3">';
+            } else {
+              echo '<td>';
+            }
+            if($special_interest_orgs[$i]['link'] !== '') {
+              echo '<a href="'.$special_interest_orgs[$i]['link'].'"></td>';
+            } else {
+              echo $special_interest_orgs[$i]['organization'].'</td>';
+            }
+            if(($i - 3) % 4 == 0) {
+              echo '</tr>';
+            }
+          } ?>
           </tbody>
         </table>
-
+        
         <h3>Greek Organizations</h3>
         <table class="table table-bordered table-middle">
           <tbody>
@@ -276,6 +378,7 @@
           } ?>
           </tbody>
         </table>
+      <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>
 	</div>
