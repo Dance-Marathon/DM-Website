@@ -15,8 +15,6 @@
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li>
-        <li data-target="#top-carousel" data-slide-to="6"></li>
-        <li data-target="#top-carousel" data-slide-to="7"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active item-with-caption">
