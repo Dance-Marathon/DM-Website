@@ -54,12 +54,6 @@
         </div>
         <!-- End Item -->
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/SpringForumWeb.jpg">
-        </div>
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/dance_week_web.jpg">
-        </div>
-        <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/Panda-website.jpg">
         </div>
         <div class="item">
