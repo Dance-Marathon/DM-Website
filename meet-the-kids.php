@@ -615,44 +615,45 @@ In January 2014 Zander was diagnosed with both Neuropathy as well as Restless Le
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
-            <h3>Meet our Kids, Meet our Miracles</h3>
-            &nbsp;<br/>
-            <div class="container-fluid">
-            <div class="row">
-            <?php
+        <h3>Meet our Kids, Meet our Miracles</h3><br />
+        <?php
+        for($i = 0; $i < count($kids); $i++) {
+          if($i % 4 == 0) {
+            echo '<div class="row">';
+          } ?>
+            <!-- Button trigger modal -->
+            <div class="col-xs-3">
+                <a href="#" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
+                    <img class="img-circle img-thumbnail" src="<?php echo ('/assets/images/kids/thumbnails/'.$kids[$i]['image']); ?>.jpg" alt="..."><br>
+                    <p><?php echo $kids[$i]['name']; ?></p>
+                </a>
+            </div>
 
-            for($i = 0; $i < count($kids); $i++) { ?>
-                <!-- Button trigger modal -->
-                <div class="col-xs-4 col-md-3">
-                    <a href="#" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-                        <img class="img-circle img-thumbnail" src="<?php echo ('/assets/images/kids/thumbnails/'.$kids[$i]['image']); ?>.jpg" alt="..."><br>
-                        <p><?php echo $kids[$i]['name']; ?></p>
-                    </a>
-                </div>
-
-                <!-- Modal -->
-                <div class="modal fade" id="myModal<?php echo $i; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                  <div class="modal-dialog">
-                    <div class="modal-content">
-                      <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <h3 class="modal-title" id="#myModal<?php echo $i; ?>Label">Meet <?php echo $kids[$i]['name']; ?></h3>
-                      </div>
-                      <div class="modal-body">
+            <!-- Modal -->
+            <div class="modal fade" id="myModal<?php echo $i; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h3 class="modal-title" id="#myModal<?php echo $i; ?>Label">Meet <?php echo $kids[$i]['name']; ?></h3>
+                  </div>
+                  <div class="modal-body">
 <!--
-                        <img src="<?php echo ('/assets/images/kids/fullsize/'.$kids[$i]['image']); ?>.png" class="img-responsive img-full" />
-                        <hr>
+                    <img src="<?php echo ('/assets/images/kids/fullsize/'.$kids[$i]['image']); ?>.png" class="img-responsive img-full" />
+                    <hr>
 -->
-                        <p>
-                            <?php echo $kids[$i]['description']; ?>
-                        </p>
-                      </div>
-                    </div>
+                    <p>
+                        <?php echo $kids[$i]['description']; ?>
+                    </p>
                   </div>
                 </div>
-            <?php } ?>
+              </div>
             </div>
-            </div>
+          <?php
+          if(($i - 3) % 4 == 0) {
+            echo '</div>';
+          }
+        } ?>
 			</div>
 		</div>
 	</div>

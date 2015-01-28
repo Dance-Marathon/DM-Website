@@ -3,18 +3,18 @@
 FONTS
 -----------------------------------
 */
-@import url(http://fonts.googleapis.com/css?family=Pacifico);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+@import url(//fonts.googleapis.com/css?family=Pacifico);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(//fonts.googleapis.com/css?family=Oswald:400,700,300);
 
 body {
-	font-family: 'Open Sans', arial, sans-serif;
+	font-family: Open Sans, arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading, .btn-default, .flip-clock-divider .flip-clock-label {
-	font-family: 'Oswald', arial, sans-serif;
+	font-family: Oswald, arial, sans-serif;
 }
 .page-heading.parallax h1 {
-	font-family:'Pacifico', arial, serif;
+	font-family: Pacifico, arial, serif;
 }
 
 /*
@@ -22,6 +22,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading
 INITIAL SETUP / BOOTSTRAP OVERRIDES
 -----------------------------------
 */
+body, html {
+  height: 100%;
+}
 body {
   color: #5a5a5a;
 	font-weight: 300;
@@ -48,6 +51,9 @@ ul, ol {
 a, a:focus, :focus {
   outline: 0;
   outline: none;
+}
+.table {
+  margin-bottom: 26px;
 }
 .table-middle > tbody > tr > td, .table-middle > tbody > tr > th {
   vertical-align: middle;
@@ -494,19 +500,33 @@ DEFAULT TEMPLATE STYLES
 .page-heading {
   position: relative;
   margin: 40px 0 24px;
+  text-align: center;
 }
 .page-heading h1 {
   padding: 0;
   margin: 0 0 12px;
 }
+.page-heading p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
 .page-heading.parallax {
   margin: 0 0 60px;
   border-bottom: 4px solid #f79b63;
+}
+.page-heading.parallax.e404 {
+  margin: 0;
+  border-bottom: none;
 }
 .page-heading.parallax .inner-wrapper {
   width: 100%;
   height: 100%;
   background: url("/assets/images/dot.png") repeat rgba(0, 0, 0, 0.5);
+}
+.page-heading.parallax.e404 .inner-wrapper{
+  padding: 192px 0;
 }
 .page-heading.parallax h1 {
   font-size: 64px;
@@ -533,6 +553,9 @@ DEFAULT TEMPLATE STYLES
   filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=1,MakeShadow=true,ShadowOpacity=0.50);
   -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=1,MakeShadow=true,ShadowOpacity=0.50)";
   zoom: 1;
+}
+.page-heading.parallax.e404 h1{
+  margin: 0 0 48px;
 }
 .page-heading.parallax .sub-heading {
   font-size: 24px;
@@ -585,6 +608,11 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.press {
   background-image: url("/assets/images/sectionbg/press.jpg");
 }
+/*
+.page-heading.parallax.e404 {
+  background-image: url("/assets/images/sectionbg/404.jpg");
+}
+*/
 .breadcrumb {
   padding: 0;
   margin-bottom: 0;
