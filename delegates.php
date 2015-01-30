@@ -40,7 +40,6 @@
           <ul class="nav nav-tabs" role="tablist">
             <li role="presentation" class="active"><a href="#become-a-delegate" aria-controls="become-a-delegate" role="tab" data-toggle="tab">Become a Delegate</a></li>
             <li role="presentation"><a href="#starting-a-team" aria-controls="starting-a-team" role="tab" data-toggle="tab">Starting a Team</a></li>
-            <li role="presentation"><a href="#delegate-resources" aria-controls="delegate-resources" role="tab" data-toggle="tab">Delegate Resources</a></li>
           </ul>
 
           <!-- Tab panes -->
@@ -80,9 +79,6 @@
                 <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following steps 1-3 and for step 4, they will select “Join an Organization.”</li>
               </ol>
               <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Suzy Schrimsher, at <a href="mailto:sschrimsher@floridadm.org">sschrimsher@floridadm.org</a> to inform her you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
-            </div>
-            <div role="tabpanel" class="tab-pane fade" id="delegate-resources">
-
             </div>
           </div>
 
