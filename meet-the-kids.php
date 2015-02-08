@@ -7,115 +7,27 @@
     $kids = array(
         array(
             'name' => 'Alison J.',
-            'description' => 'When Alison was 22 months old, she fell two stories out of a window and fractured her skull. She was rushed to the hospital where she had emergency brain surgery. Her parents were told that she might not make it through then night and she was put into a medically induced coma. When she awoke, they found more complications in her brain and had to perform another surgery. After a long recovery process, Alison made a full recovery and is an active 12 year old.',
+            'description' => 'Age:12' \n 'When Alison was 22 months old, she fell two stories out of a window and fractured her skull. She was rushed to the hospital where she had emergency brain surgery. She was put into a medically induced coma, and her parents were told that she might not make it through the night.  When she awoke, doctors  found more complications in her brain and had to perform another surgery. It has been a long road, but Alison has made a full recovery and is now an active 12 year old.',
             'image' => 'Allison',
             ),
         array(
-            'name'  => 'Alyssa Ma.',
-            'description' => 'Alyssa was born 3 1/2 months early (26 weeks) and weighed only 1 pound 4 ounces.
-
-this was 16 years ago. We were told she would not make it through the first night. After 3 months in the
-
-hospital she went home. In less than 2 weeks she was back in the hospital....failure to thrive. She could not
-
-eat and keep it down. At 2 months a G-tube was placed. Hydracephalus then came into play and at 3
-
-months old had her first shunt placed to drain excessive cerebralspinal fluid from the brain.. Since then she
-
-has battled shunt malfunctions and episodes where her stomach just stops working.. These along with
-
-shunt infections , have resulted in MANY hospitalizations which vary from 2 or 3 days to 10 months. She
-
-has spent more than half of her life in the hospital. While she also has other challenges such as deafness,
-
-cerebral palsy, gastric reflux, and delayed speech, ’she is always smiling.. You only need to send a minute
-
-with her to realize how special she is.',
+            'name'  => 'Alyssa M.',
+            'description' => 'Age: 16' \n 'Alyssa was born 3 1/2 months early (26 weeks) and weighed only 1 pound 4 ounces. this was 16 years ago. We were told she would not make it through the first night. She remained in the hospital, and she received a G-tube when she was two months old. When Alyssa was three months old, she received her first shunt to drain excessive cerebrospinal fluid from her brain. She was released from the hospital but returned just two weeks later.  Since then she has battled shunt malfunctions and episodes where her stomach just stops working.Alyssa has been hospitalized multiple times for anywhere from two days to 10 months.  She has spent more than half of her life in the hospital. Today, Alyssa is 16 years old. Though she is deaf and has cerebral palsy, gastric reflux and delayed speech, she is always smiling.  You only need to send a minute with her to realize how special she is.',
             'image' => 'Alyssa',
             ),
         array(
-            'name'  => 'Anna R.',
-            'description' => 'We were referred to Shands from Arnold Palmer Hospital in Dec. 2012. We had testing for a possible heart transplant in Feb. 2013. AnnaRose got sick on June 2nd. We took her to Arnold Palmer and then she was transported to Shands a couple cays later. She was in heart failure. We stayed there until March 28, 2014. Anna loves the volunteers at the hospital. Some of the best are from Dance Marathon and that is where we heard about this. AnnaRose received her special gift on March 2, 2014. She calls her new heart Prince Toby even though we don’t know anything about her donor.',
+            'name'  => 'Anna Rose',
+            'description' => 'Anna Rose got sick on Jun. 2, 2013. Her family took her to Arnold Palmer Hospital, and she was transported to UF Health Shands Children’s Hospital a couple days later. Anna was in heart failure.She was tested for a possible heart transplant in Feb. 2013 and received her new heart on Mar. 2, 2014. She left the hospital on Mar. 28, 2014.  Anna calls her new heart Prince Toby even though she doesn’t  know anything about her donor.',
             'image' => 'Anna Rose',
             ),
         array(
             'name'  => 'Ava M.',
-            'description' => 'In Oct. 2010 Ava, 8 yrs old, had unexplained swollen lymph nodes in her neck. The
-
-right began swelling, then the left. I took her to the ENT doctors 2xs. They treated her with Prednisone,
-
-which is anti-leukemic and made her lymph nodes shrink. During the 2nd visit, the ENT scheduled a fine
-
-needle aspiration biopsy at Florida Hosp., which had inconclusive results. We were told we didn’t need a
-
-follow up appt. Her neck was almost normal for the entire month of November. The second week of Dec.
-
-brought the return of even larger lymph nodes. We returned to the ENT. He referred her to an Infectious
-
-Disease dr. That day, with great concern, I spoke w/ my friend Tami, who suggested I take her to UF
-
-Shands in Gainesville, FL. I got her an appt. with Dr. Collins, ENT @ UF Shands the next day. He sched.
-
-an open biospy for two days later, Dec. 23. We went to the biopsy w/ the expectation to get home in time
-
-for Christmas Eve service at church. That didn’t happen. At 11:30pm on Dec. 23, Dr. Collins and Dr.
-
-Dunbar (Pediatric Oncologist at UF Shands) woke me to give me the results, which was T-cell
-
-Lymphoblastic Lymphoma. She was moved immediately to the children’s Hem/Onc unit and a chest x-ray
-
-was taken (which showed no sign of cancer present in chest, lungs, abdomen, stomach, diaphram). Her
-
-central line infus-aport was surgically implanted the morning of Dec. 24th, along with first IT chemo and
-
-bone marrow aspiration. The spinal tap showed 6-7 blasts in her spinal fluid (central nervous system/CNS)
-
-and the bone marrow aspiration showed 8% blast of cancer cells. These two factors make her diagnosis
-
-high risk, stage 4 Non-Hodgkins T-Cell Lymphoblastic Lymphoma. (T-Cell ALL) Her first IV chemo
-
-treatment through her port was that night at 9:30pm. Christmas morning was awful. She was very sad and
-
-didn’t have much interest in what Santa brought. (I told her whenever we were able to go home we would
-
-have Christmas and Santa would come, and so he did, on Jan. 4) Things improved drastically when the
-
-rest of our family arrived. Noni came that day too. The next week was a whirlwind. It was full of confusion,
-
-fear, faith, love, and info. There are no words to describe it. She was a warrior from the first day. The
-
-doctors and nurses at Shands are exceptional. They treated her w/ respect and called her by name and
-
-looked her in the eye. This was all very important to her comfort and understanding of what was happening.
-
-Ava responded to treatment very well. Within the first 3-4 days we watched before our eyes her neck shrink
-
-back to normal. We were so happy and relieved. On the 8th day we rec’d the news that her spinal fluid was
-
-already clear and bone marrow was down to 4%. Day 29, the last day in her first phase of treatment
-
-showed NO detectable cancer cells in bone marrow! Praise God! This is the intended result for the first
-
-phase of treatment...to put leukemia/lymphoma patient in remission within the first month. Ava is God’s
-
-Little Warrior and has always had great Faith. She continues to shine through all of this. We knew from the
-
-very beg. that she was on a purposeful journey. Her treatment time is 2.5 yrs. Her prognosis is very good.
-
-We pray every single day for complete healing FOREVER.',
+            'description' => 'Age: 12' \n 'In Oct. 2010, Ava, 8 yrs old, had unexplained swollen lymph nodes in her neck. Doctors treated her with Prednisone, an anti-leukemic medication that made her lymph nodes shrink.  Her second visit had inconclusive results, and she was told she didn’t need a follow-up appointment.  Ava’s lymph nodes grew even larger in Dec., so she went to UF Health Shands Children’s Hospital.  She had a biopsy on Dec. 23 and was diagnosed with T-cell Lymphoblastic Lymphoma.  Her central line infus-aport was surgically implanted the morning of Dec. 24th along with her first IT chemo and bone marrow aspiration. Her  diagnosis was  high risk, stage 4 Non-Hodgkins T-Cell Lymphoblastic Lymphoma. Ava responded to treatment very well. Day 29, the last day in her first phase of treatment, showed no detectable cancer cells in her bone marrow. Ava  continues to shine through all of this. Her treatment time is 2.5 years, and her  prognosis is very good.',
             'image' => 'Ava',
             ),
         array(
             'name' => 'Ayden M.',
-            'description' => 'In January 2013, Ayden came down with flu like symptoms. His mother treated him for his fever and cold symptoms. Early Friday morning of January 7, 2013, Ayden woke up early screaming that he didn’t feel well and was burning with a major fever. After his mother tried to cool him off in the shower, he just lay there screaming and convulsing for a few minutes. This ended up being a seizure one of many for that day. When he woke up he continued staring off, not talking and unresponsive. He could not walk and could barely talk so his mother took him to MRMC where he got a CT scan. The doctors said he had fluid on his brain and an ambulance took him taken to UF Health Shands Children’s Hospital. After an emergency MRI, the doctors discovered a large mass tumor connected to his central nervous system and cluster tumors in his optic pathways.
-
-Ayden immediately went into emergency brain surgery to place shunts in the outer cavity of his skull. This device drains the fluid out of his head and down into his stomach. After many surgeries and bouts of sickness, it in now in his heart. The doctors told Ayden’s mother that the tumor is cancerous, called "Pilocytic Astrocytoma with Optic Pathway Glioma.” The only option to give Ayden a change of living was chemotherapy.
-
-A year and a half later with several chemotherapy treatments Ayden is now completely blind from the pressure of the tumor on his brain and optic nerves. He walks around the house with his hands feeling his way around. His mother didn’t know that he was blind until he kept running into walls and falling. Ayden has undergone a total of 17 surgeries and is stable in the doctors’ eyes, which means the cancer is not growing or spreading but also not shrinking.
-
-Ayden and his mother had to learn Braille, learn to eat, write, get dressed and use the restroom, among other daily tasks most people do without thinking. The normal things in life we all do and he did, he had to re-learn.
-
-Ayden’s family is moving to St Augustine. He will attend the Florida Blind and Deaf School. Life changed completely for Ayden and his family after his diagnosis. Because of donations to Dance Marathon, he is receives top-quality care and treatment at UF Health Shands Children’s Hospital. Your donations go directly to help kids that need it, kids like Ayden.',
+            'description' => 'Age: 5' \n 'On January 7, 2013, Ayden woke up early screaming that he didn’t feel well. He had a high fever, so his mother tried to cool him off in the shower, but he just lay there screaming and convulsing for a few minutes. When he woke up he continued staring off. He was unresponsive, and he could not walk or talk. His mother took him to MRMC where he got a CT scan. The doctors said he had fluid on his brain, so he was  taken to UF Health Shands Children’s Hospital. After an emergency MRI, the doctors discovered a large mass tumor connected to his central nervous system and cluster tumors in his optic pathways. Ayden immediately went into emergency brain surgery to place shunts in the outer cavity of his skull to drain  the fluid out of his head and down into his stomach. Doctors later found a cancerous tumor on his heart. After a year and a half of chemotherapy treatment,  Ayden is completely blind from the pressure of the tumor on his brain and optic nerves. He has undergone a total of 17 surgeries, and doctors have deemed him stable.  Ayden’s family is moving to St Augustine where he  will attend the Florida Blind and Deaf School. Life changed completely for Ayden and his family after his diagnosis, but because of donations to Dance Marathon, he is receives top-quality care and treatment at UF Health Shands Children’s Hospital.',
             'image' => 'Ayden',
             ),
         array(
