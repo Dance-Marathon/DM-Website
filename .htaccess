@@ -1,4 +1,6 @@
 RewriteEngine On
 
+ErrorDocument 404 /404.php
+
 # Resolve .php file for extensionless php urls
 RewriteRule ^([^/.]+)$ $1.php [L]

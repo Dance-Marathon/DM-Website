@@ -16,7 +16,6 @@
         <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li>
         <li data-target="#top-carousel" data-slide-to="6"></li>
-        <li data-target="#top-carousel" data-slide-to="7"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active item-with-caption">
@@ -54,20 +53,17 @@
         </div>
         <!-- End Item -->
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/SpringForumWeb.jpg">
+          <a href="/ft5k"><img class="img-responsive img-full"  src="assets/images/slider/slider_ft5k.jpg"></a>
         </div>
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/dance_week_web.jpg">
-        </div>
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/Panda-website.jpg">
-        </div>
-        <div class="item">
-          <a href="/ft5k" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/slider_ft5k.jpg"></a>
+          <a href="/moralentine"><img class="img-responsive img-full"  src="assets/images/slider/moralentine.jpg"></a>
         </div>
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/352deliveryWebsite.jpg">
         </div>
+        <div class="item">
+          <img class="img-responsive img-full"  src="assets/images/slider/February_Web.jpg">
+        </div>        
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/cover2.jpg">
         </div>

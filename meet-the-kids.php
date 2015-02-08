@@ -7,6 +7,7 @@
     $kids = array(
         array(
             'name' => 'Alison J.',
+<<<<<<< HEAD
             'description' => 'Age:12' \n 'When Alison was 22 months old, she fell two stories out of a window and fractured her skull. She was rushed to the hospital where she had emergency brain surgery. She was put into a medically induced coma, and her parents were told that she might not make it through the night.  When she awoke, doctors  found more complications in her brain and had to perform another surgery. It has been a long road, but Alison has made a full recovery and is now an active 12 year old.',
             'image' => 'Allison',
             ),
@@ -18,6 +19,42 @@
         array(
             'name'  => 'Anna Rose',
             'description' => 'Anna Rose got sick on Jun. 2, 2013. Her family took her to Arnold Palmer Hospital, and she was transported to UF Health Shands Children’s Hospital a couple days later. Anna was in heart failure.She was tested for a possible heart transplant in Feb. 2013 and received her new heart on Mar. 2, 2014. She left the hospital on Mar. 28, 2014.  Anna calls her new heart Prince Toby even though she doesn’t  know anything about her donor.',
+=======
+            'description' => 'When Alison was 22 months old, she fell two stories out of a window and fractured her skull. She was rushed to the hospital where she had emergency brain surgery. Her parents were told that she might not make it through the night and she was put into a medically induced coma. When she awoke, they found more complications in her brain and had to perform another surgery. After a long recovery process, Alison made a full recovery and is an active 12 year old.',
+            'image' => 'Allison',
+            ),
+        array(
+            'name'  => 'Alyssa Ma.',
+            'description' => 'Alyssa was born 26 weeks early and weighed only 1 pound 4 ounces.
+
+That was 16 years ago. She was not supposed to make it through the first night, but after 3 months in the
+
+hospital she made it home. In less than 2 weeks she was back in the hospital. She could not
+
+eat and keep it down so a G-tube was placed. Hydracephalus then came into play and at 3
+
+months old she had her first shunt placed to drain excessive cerebralspinal fluid from her brain. Since then she
+
+has battled shunt malfunctions and episodes where her stomach just stops working. These along with
+
+shunt infections, have resulted in many hospitalizations which vary in length from 2 or 3 days to 10 months. She
+
+has spent more than half of her life in the hospital. While she also has other challenges such as deafness,
+
+cerebral palsy, gastric reflux, and delayed speech, she is always smiling. You only need to spend a minute
+
+with her to realize how special she is.',
+            'image' => 'Alyssa',
+            ),
+        array(
+            'name'  => 'Anna R.',
+            'description' => 'When Anna first got sick she was taken to Arnold Palmer Hospital and then was transported to Shands a couple cays later. 
+Anna was referred to Shands from Arnold Palmer Hospital in Dec. 2012. She had testing for a possible heart 
+transplant in Feb. 2013. She was in heart failure. She stayed at Shands until March 28, 2014. Anna loves the 
+volunteers at the hospital. Some of her favorites are the volunteers from Dance Marathon. 
+On March 2, 2014 Anna received a special gift, a successful heart transplant. She calls her new heart Prince Toby, 
+and wishes she could know more about the donor.',
+>>>>>>> master
             'image' => 'Anna Rose',
             ),
         array(
