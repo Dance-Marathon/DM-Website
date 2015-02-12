@@ -1,5 +1,5 @@
 <?php
-	$GLOBALS['page_title'] = 'Get Involved | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Staff Application | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
@@ -10,7 +10,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Get Involved</h1>
+    			<h1>Staff Application</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -30,15 +30,13 @@
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
 						<li><a class="active">Staff Application</a></li>
+						<li><a href="/moralentine">Moralentine's Day Form</a></li>
           			</ul>
         		</div>
 			</div>
 				
 			<div class="col-md-8 col-md-push-1">
-				<p><h3>Step 1: Pay <a href="#">Here</a></h3></p>
-				<p><h3>Step 2: Apply Below</h3></p>
-				<p><b>If you're on a mobile device, please submit your application via this <a href="http://goo.gl/forms/2Zes8f8Qpj" target="_blank">Link</a>.</b></p>
-  				<p align="center"><iframe src="https://docs.google.com/forms/d/1gBm0RvGDyBDnqSznASyWumDADGwCTNgz_Go1E3sFZfo/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></p>
+				<p>Staff applications have closed. Please direct all inquiries to Nha-Uyen Hua, Internal Communications Overall at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a>.</p>
             	&nbsp;<br/>			 
             </div>
 		</div>
