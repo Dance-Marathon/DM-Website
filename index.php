@@ -51,7 +51,7 @@
         </div>
         <!-- End Item -->
         <div class="item">
-          <a href="/moralentine"><img class="img-responsive img-full"  src="assets/images/slider/moralentine.jpg"></a>
+          <a href="https://www.facebook.com/events/1544338902487083/?ref_dashboard_filter=upcoming" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/miracles_website.jpg"></a>
         </div>
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/February_Web.jpg">

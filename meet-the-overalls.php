@@ -287,8 +287,6 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams.php" >Captain Teams</a></li>
 						<li><a class="active">Meet the Overalls</a></li>
-            <li><a href="/staffapp">Staff Application</a></li>
-            <li><a href="/moralentine">Moralentine's Day Form</a></li>
           </ul>
         </div>
 			</div>
