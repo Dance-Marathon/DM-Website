@@ -671,6 +671,31 @@ DEFAULT TEMPLATE STYLES
   color: #696969;
 }
 
+.table-pricing > tbody > tr > td {
+  border: none;
+  vertical-align: middle;
+}
+.table-pricing > tbody > tr > td.spacer {
+  padding-bottom: 2em;
+}
+.table-pricing .sponsor-level {
+  background-color: #014083;
+  border-radius: 50%;
+  color: #fff;
+  text-align: center;
+  width: 161px;
+  height: 161px;
+  padding: 40px 20px 20px;
+  position: relative;
+}
+.table-pricing .sponsor-level h3 {
+  color: #fff;
+  margin-top: 0;
+}
+.table-pricing ul {
+  margin: 0;
+}
+
 /*
 -----------------------
 FOOTER STYLES
