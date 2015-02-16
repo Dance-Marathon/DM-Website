@@ -15,7 +15,6 @@
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li>
-        <li data-target="#top-carousel" data-slide-to="6"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active item-with-caption">
@@ -54,9 +53,6 @@
         <!-- End Item -->
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/awesome.jpg">
-        </div>
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/ThemeReveal2.jpg">
         </div>
         <div class="item">
           <a href="https://www.facebook.com/events/1544338902487083/?ref_dashboard_filter=upcoming" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/miracles_website.jpg"></a>
