@@ -33,13 +33,13 @@
 			<div class="col-md-8 col-md-push-1">
 			<h3>2014-2015 Press Releases</h3>
 			<span style="font-size:14px">If you have any questions, please contact Melissa Dukes, Public Relations Overall at <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>.</span><br/><br/>
-            <a href="Transform-Today-Press-Release.pdf">Transform Today</a><br/>
+            <a href="FT5K-Press-Release-2015.pdf">FT5K</a> 02/08/2015<br/>
             &nbsp;<br/>
-            <a href="DMKickball2014.pdf">DM Kickball 2014</a><br/>
+            <a href="Transform-Today-Press-Release.pdf">Transform Today</a> 01/08/15<br/> 
             &nbsp;<br/>
-            <a href="CYMplify-Food-Truck-Rally-Press-Release.pdf">CYMplify Food Truck Rally</a><br/>
+            <a href="CYMplify-Food-Truck-Rally-Press-Release.pdf">CYMplify Food Truck Rally</a> 12/05/2014<br/>
             &nbsp;<br/>
-            <a href="CYMplify-Food-Truck-Rally-Press-Release.pdf">FT5K</a><br/>
+            <a href="DMKickball2014.pdf">DM Kickball</a> 10/16/2014<br/>
                 </p>
 			</div>
 		</div>
