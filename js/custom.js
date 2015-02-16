@@ -3,7 +3,7 @@
 
 		jQuery(document).ready(function() {
       // Animate number counters
-			jQuery("#student-counter").delay(200).animateNumbers(6284, true, 4000);
+			jQuery("#student-counter").delay(200).animateNumbers(6741, true, 4000);
 
 			// Make nav bar "sticky"
 			jQuery('#nav-wrapper').height(jQuery("#nav").height());
