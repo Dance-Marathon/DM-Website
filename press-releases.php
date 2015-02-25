@@ -33,6 +33,8 @@
 			<div class="col-md-8 col-md-push-1">
 			<h3>2014-2015 Press Releases</h3>
 			<span style="font-size:14px">If you have any questions, please contact Melissa Dukes, Public Relations Overall at <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>.</span><br/><br/>
+            <a href="FTKanrival2015PressRelease">FTKarnival</a> 02/24/2015<br/>
+            &nbsp;<br/>
             <a href="FT5K-Press-Release-2015.pdf">FT5K</a> 02/08/2015<br/>
             &nbsp;<br/>
             <a href="Transform-Today-Press-Release.pdf">Transform Today</a> 01/08/15<br/> 

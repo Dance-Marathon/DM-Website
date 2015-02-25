@@ -287,6 +287,7 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams.php" >Captain Teams</a></li>
 						<li><a class="active">Meet the Overalls</a></li>
+            <li><a href="/dancerpackages">Dancer Packages</a></li>
           </ul>
         </div>
 			</div>

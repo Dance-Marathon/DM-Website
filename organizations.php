@@ -318,6 +318,7 @@
 						<li><a class="active">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+            <li><a href="/dancerpackages">Dancer Packages</a></li>
           </ul>
         </div>
 			</div>
