@@ -38,7 +38,7 @@
 			<div class="col-md-8 col-md-push-1">
 				<p><h3>Purchase a Pass Here: <a href="https://www.kintera.org/AutoGen/Register/Register.asp?ievent=1134600&en=6pJBILOnG5LKIVOqF4IHIRMALgKFJQPvEfIJLMNyHgKGKROvFcLIKSMuH8LEJWOME" target="_blank">Click This Link</a></h3></p>
 				<p>Please direct all Entertainment act related inquiries to the Entertainment Overall Director, Julie Riddle, at <a href="mailto:jriddle@floridadm.org">jriddle@floridadm.org</a> for more information.</p>
-				<p>Please direct all Event related inquiries to the Internal Communications Overall Director, Nha Uyen-Hua, at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a> for more information.</p>
+				<p>Please direct all Event related inquiries to the Internal Communications Overall Director, Nha-Uyen Hua, at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a> for more information.</p>
             	&nbsp;<br/>			 
             </div>
 		</div>
