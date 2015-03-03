@@ -53,13 +53,13 @@
         <!-- End Item -->
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/Event-Invite.jpg">
-        </div>    
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/March_Web-01.jpg">
         </div>
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/ThemeReveal2.jpg">
-        </div>        
+        </div>     
+        <div class="item">
+          <img class="img-responsive img-full"  src="assets/images/slider/March_Web-01.jpg">
+        </div>       
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/cover2.jpg">
         </div>
