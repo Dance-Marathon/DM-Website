@@ -14,6 +14,7 @@
         <li data-target="#top-carousel" data-slide-to="2"></li>
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
+        <li data-target="#top-carousel" data-slide-to="5"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active item-with-caption">
@@ -54,7 +55,10 @@
           <img class="img-responsive img-full"  src="assets/images/slider/Event-Invite.jpg">
         </div>    
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/February_Web.jpg">
+          <img class="img-responsive img-full"  src="assets/images/slider/March_Web-01.jpg">
+        </div>
+        <div class="item">
+          <img class="img-responsive img-full"  src="assets/images/slider/ThemeReveal2.jpg">
         </div>        
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/cover2.jpg">

@@ -37,6 +37,7 @@
 				
 			<div class="col-md-8 col-md-push-1">
 				<p><h3>Purchase a Pass Here: <a href="https://www.kintera.org/AutoGen/Register/Register.asp?ievent=1134600&en=6pJBILOnG5LKIVOqF4IHIRMALgKFJQPvEfIJLMNyHgKGKROvFcLIKSMuH8LEJWOME" target="_blank">Click This Link</a></h3></p>
+				<p>Don’t miss out on the best Rave of the year! Come rave FTK at the Stephen C. O’Connell Center on Sunday, March 15th from 1:30-2:30am. A limited number of tickets are available for those not Dancing at DM 2015. Tickets will be $20 and all proceeds are going right to the kids. What are you waiting for?</p>
 				<p>Please direct all Entertainment act related inquiries to the Entertainment Overall Director, Julie Riddle, at <a href="mailto:jriddle@floridadm.org">jriddle@floridadm.org</a> for more information.</p>
 				<p>Please direct all Event related inquiries to the Internal Communications Overall Director, Nha-Uyen Hua, at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a> for more information.</p>
             	&nbsp;<br/>			 
