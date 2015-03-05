@@ -318,15 +318,14 @@
 						<li><a class="active">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/staffapp">Staff Application</a></li>
+						<li><a href="/staff-application">Staff Application</a></li>
             <li><a href="/moralentine">Moralentine's Day Form</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-  			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
-        <table class="table table-borderless table-middle">
+        <table class="table table-bordered table-middle">
           <tbody>
           <?php
             $column_number = 4;
@@ -357,6 +356,7 @@
           ?>
           </tbody>
         </table>
+  			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>

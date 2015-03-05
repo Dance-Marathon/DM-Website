@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Captain Teams | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -29,12 +30,13 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a class="active">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-            <li><a href="/staffapp">Staff Application</a></li>
+            <li><a href="/staff-application">Staff Application</a></li>
             <li><a href="/moralentine">Moralentine's Day Form</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q1">
@@ -210,6 +212,7 @@
             </div>
           </div>
         </div>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>

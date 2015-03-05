@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Press Contacts | Press | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'press';
 	include("includes/head.php");
@@ -31,15 +32,21 @@
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
-  			<p>
+      <?php if ($status == "open") { ?>
   			<h3>Melissa Dukes</h3>
-            Public Relations Overall Director<br/>
-            <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a><br/>
-            &nbsp;<br/>
-            <h3>Andrew Giacini</h3>
-            External Communications Overall Director<br/>
-            <a href="mailto:agiacini@floridadm.org">agiacini@floridadm.org</a><br/>
-                </p>
+        <p>
+          Public Relations Overall Director
+          <br/>
+          <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>
+        </p>
+        
+        <h3>Andrew Giacini</h3>
+        <p>
+          External Communications Overall Director
+          <br/>
+          <a href="mailto:agiacini@floridadm.org">agiacini@floridadm.org</a><br/>
+        </p>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>

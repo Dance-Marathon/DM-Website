@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Sponsors | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'sponsors';
 	include("includes/head.php");
@@ -21,6 +22,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
+      <?php if ($status == "open") { ?>
   			<p>Dance Marathon at the University of Florida would not be what it is today without the help of local and national sponsors. Sponsors have the chance to be an integral part of the most successful student-run philanthropy in the southeastern United States. This honor highlights the immense exposure gained by our sponsors.</p>
   			<p>For information, to sign up as a sponsor, or donate in-kind items, email the External Communications Overall Director, Andrew Giacini, at <a href="mailto:agiacini@floridadm.org">agiacini@floridadm.org</a>.</p>
   			<h3>Corporate & Business Sponsors</h3>
@@ -29,6 +31,7 @@
   			<p>Dance Marathon at the University of Florida graciously welcomes in-kind donations from local and national sponsors. We use in-kind donations as items in our silent auction, fundraising efforts, and food donations to feed participants at the main event and at our community events. We'd love anything your company would be willing donate.</p>
   			<h3>Marketing Kit</h3>
   			<a href="/docs/MarketingKit2015.pdf">&raquo; View PDF</a>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>
