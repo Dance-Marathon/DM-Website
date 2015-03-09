@@ -44,7 +44,7 @@
               </div>
               <div class="col-md-5 col-md-offset-1">
                 <h2 style="color: #fff; font-size: 3em;">Through the Years</h2>
-                <p style="color:#fff; font-size:1.3em">As Dance Marathon at UF embarks on its 21st year, this video serves to highlight the growth and success of the past 20 years. Join us at the UF Stephen C. O'Connell Center on March 14-15!</p>
+                <p style="color: #fff; font-size: 1.3em">As Dance Marathon at UF embarks on its 21st year, this video serves to highlight the growth and success of the past 20 years. Join us at the UF Stephen C. O'Connell Center on March 14-15!</p>
               </div>
             </div>
           </div>
@@ -98,11 +98,19 @@
         <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
         <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
       </div>
+<!--
       <div class="col-md-3">
         <i class="fa icon-shirt"></i>
         <h3>DM Store</h3>
         <p>Find all of the latest and greatest DM merchandise on our online store! You can easily purchase them online or on campus at t-shirt check-ins. All of the profits from merchandise sales goes to the kids at UF Health Shands Children's Hospital!</p>
         <p><div class="btn btn-default">Coming Soon</div></p>
+      </div>
+-->
+      <div class="col-md-3">
+        <i class="fa fa-mobile" style="font-size: 52px; line-height: 40px;"></i>
+        <h3>DM App</h3>
+        <p>Get the latest DM updates, learn about our miracle kids, play DM heads up, and more with our new DM app!</p>
+        <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
       </div>
       <div class="col-md-3">
         <i class="fa fa-heart"></i>

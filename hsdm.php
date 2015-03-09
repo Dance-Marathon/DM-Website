@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'High School DM | Events | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
@@ -78,14 +79,15 @@
           <ul>
 						<li><a href="/community-events">Community Events</a></li>
 						<li><a class="active">High School DM</a></li>
-                        <li><a href="/ft5k">FT5K 2015</a></li>
-                        <li><a href="/registertodance">Dancer Registration</a></li>
+            <li><a href="/ft5k">FT5K 2015</a></li>
+            <li><a href="/dancer-registration">Dancer Registration</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
-            <div class="container-fluid">
-            <div class="row">
+      <?php if ($status == "open") { ?>
+        <div class="container-fluid">
+          <div class="row">
             <?php
 
             for($i = 0; $i < count($events); $i++) { ?>
@@ -103,8 +105,9 @@
                     </a>
                 </div>
             <?php } ?>
-            </div>
-            </div>
+          </div>
+        </div>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>

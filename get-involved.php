@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -29,13 +30,15 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/staffapp">Staff Application</a></li>
+						<li><a href="/staff-application">Staff Application</a></li>
 						<li><a href="/moralentine">Moralentine's Day Form</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
   			<p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in being a Captain, Dancer, Staff, Delegate or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF and we would love for you to join our DM family and help make miracles For the Kids.</p>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>

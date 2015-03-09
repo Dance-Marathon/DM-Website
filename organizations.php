@@ -5,7 +5,7 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
   
-  $special_interest_orgs = array(
+  $greek_organizations = array(
     array(
       'organization'  =>  'Benton Engineering Council',
       'link'          =>  ''
@@ -129,10 +129,7 @@
     array(
       'organization'  =>  'UF Premed AMSA',
       'link'          =>  ''
-    )
-  );
-
-  $greek_organizations = array(
+    ),
     array(
       'organization'  =>  'Alpha Gamma Rho',
       'link'          =>  ''
@@ -294,7 +291,6 @@
   function compareAlphabetically($a, $b) {
     return strcmp($a['organization'], $b['organization']);
   }
-  usort($special_interest_orgs, 'compareAlphabetically');
   usort($greek_organizations, 'compareAlphabetically');
 ?>
 
@@ -322,63 +318,45 @@
 						<li><a class="active">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/staffapp">Staff Application</a></li>
+						<li><a href="/staff-application">Staff Application</a></li>
             <li><a href="/moralentine">Moralentine's Day Form</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
+        <table class="table table-bordered table-middle">
+          <tbody>
+          <?php
+            $column_number = 4;
+            $total_orgs = count($greek_organizations);
+            $increment = ceil($total_orgs/$column_number);
+            $extra_cells = $increment * $column_number - $total_orgs;
+                        
+            for($i = 0; $i < $increment; $i++) {
+              echo '<tr>';
+                for($j = $i; $j < $total_orgs + $extra_cells; $j += $increment) {
+                  if($j < $total_orgs) {
+                    if($i == 0) {
+                      echo '<td class="col-sm-3">';
+                    } else {
+                      echo '<td>';
+                    }
+                    if($greek_organizations[$j]['link'] !== '') {
+                      echo '<a href="'.$greek_organizations[$j]['link'].'"></td>';
+                    } else {
+                      echo $greek_organizations[$j]['organization'].'</td>';
+                    }
+                  } else {
+                    echo '<td>&nbsp;</td>';
+                  }
+                }
+              echo '</tr>';
+            }
+          ?>
+          </tbody>
+        </table>
   			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
-        <h3>Special Interest Organizations</h3>
-        <table class="table table-bordered table-middle">
-          <tbody>
-          <?php
-          for($i = 0; $i < count($special_interest_orgs); $i++) {
-            if($i % 4 == 0) {
-              echo '<tr>';
-            }
-            if($i <= 3) {
-              echo '<td class="col-sm-3">';
-            } else {
-              echo '<td>';
-            }
-            if($special_interest_orgs[$i]['link'] !== '') {
-              echo '<a href="'.$special_interest_orgs[$i]['link'].'"></td>';
-            } else {
-              echo $special_interest_orgs[$i]['organization'].'</td>';
-            }
-            if(($i - 3) % 4 == 0) {
-              echo '</tr>';
-            }
-          } ?>
-          </tbody>
-        </table>
-        
-        <h3>Greek Organizations</h3>
-        <table class="table table-bordered table-middle">
-          <tbody>
-          <?php
-          for($i = 0; $i < count($greek_organizations); $i++) {
-            if($i % 4 == 0) {
-              echo '<tr>';
-            }
-            if($i <= 3) {
-              echo '<td class="col-sm-3">';
-            } else {
-              echo '<td>';
-            }
-            if($greek_organizations[$i]['link'] !== '') {
-              echo '<a href="'.$greek_organizations[$i]['link'].'"></td>';
-            } else {
-              echo $greek_organizations[$i]['organization'].'</td>';
-            }
-            if(($i - 3) % 4 == 0) {
-              echo '</tr>';
-            }
-          } ?>
-          </tbody>
-        </table>
       <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>

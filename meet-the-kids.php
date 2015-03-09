@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Meet The Kids | Family | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'family';
 	include("includes/head.php");
@@ -298,6 +299,7 @@ Nick particularly enjoys being involved with Dance Marathon at the University of
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
         <h3>Meet our Kids, Meet our Miracles</h3><br />
         <?php
         for($i = 0; $i < count($kids); $i++) {
@@ -337,6 +339,7 @@ Nick particularly enjoys being involved with Dance Marathon at the University of
             echo '</div>';
           }
         } ?>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>
