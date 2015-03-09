@@ -32,6 +32,7 @@
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+<<<<<<< HEAD
       <?php if ($status == "open") { ?>
 			  <h3>2014-2015 Press Releases</h3>
         <ul>
@@ -41,6 +42,20 @@
         </ul>
         <p>If you have any questions, please contact Melissa Dukes, Public Relations Overall at <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
+=======
+			<h3>2014-2015 Press Releases</h3>
+			<span style="font-size:14px">If you have any questions, please contact Melissa Dukes, Public Relations Overall at <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>.</span><br/><br/>
+            <a href="FTKanrival2015PressRelease">FTKarnival</a> 02/24/2015<br/>
+            &nbsp;<br/>
+            <a href="FT5K-Press-Release-2015.pdf">FT5K</a> 02/08/2015<br/>
+            &nbsp;<br/>
+            <a href="Transform-Today-Press-Release.pdf">Transform Today</a> 01/08/15<br/> 
+            &nbsp;<br/>
+            <a href="CYMplify-Food-Truck-Rally-Press-Release.pdf">CYMplify Food Truck Rally</a> 12/05/2014<br/>
+            &nbsp;<br/>
+            <a href="DMKickball2014.pdf">DM Kickball</a> 10/16/2014<br/>
+                </p>
+>>>>>>> origin/master
 			</div>
 		</div>
 	</div>
