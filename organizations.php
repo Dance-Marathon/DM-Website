@@ -317,9 +317,9 @@
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a class="active">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/staff-application">Staff Application</a></li>
             <li><a href="/moralentine">Moralentine's Day Form</a></li>
+            <li><a href="/dancerpackages">Dancer Packages</a></li>
+            <li><a href="/dmrave">DM 2015 Rave Hour</a></li>
           </ul>
         </div>
 			</div>
