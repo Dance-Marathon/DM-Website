@@ -22,6 +22,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading
 INITIAL SETUP / BOOTSTRAP OVERRIDES
 -----------------------------------
 */
+body, html {
+  height: 100%;
+}
 body {
   color: #5a5a5a;
 	font-weight: 300;
@@ -48,6 +51,9 @@ ul, ol {
 a, a:focus, :focus {
   outline: 0;
   outline: none;
+}
+.table {
+  margin-bottom: 26px;
 }
 .table-middle > tbody > tr > td, .table-middle > tbody > tr > th {
   vertical-align: middle;
@@ -276,6 +282,9 @@ ul.social-icons > li > a {
 ul.social-icons > li > a:hover, ul.social-icons > li > a:focus {
   background-color: #f79b63;
 }
+.navbar-right{
+  margin: 0;
+}
 
 /*
 -------------------
@@ -487,6 +496,158 @@ MEET THE KIDS PAGE
 }
 
 /*
+-------------------
+SPONSOR LEVELS PAGE
+-------------------
+*/
+.sponsor {
+  padding: 0;
+  margin: 40px 0 0;
+  list-style: none;
+  position: relative;
+}
+.sponsor:before {
+  content: " ";
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  width: 4px;
+  background-color: #e2e2e2;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.sponsor li {
+  list-style: none;
+}
+.sponsor li ul {
+  padding: 0;
+}
+.sponsor > li {
+  position: relative;
+  margin-bottom: 80px;
+}
+.sponsor > li.level-1 {
+  margin-bottom: 100px;
+}
+.sponsor > li:before,
+.sponsor > li:after {
+  content: " ";
+  display: table;
+}
+.sponsor > li:after {
+  clear: both;
+}
+.sponsor-panel {
+  width: 42%;
+  float: left;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  padding: 15px;
+  transition: all 200ms;
+  min-height: 120px;
+}
+.sponsor-panel:before {
+  content: "";
+  position: absolute;
+  border-top: 10px solid rgba(0, 0, 0, 0);
+  border-bottom: 10px solid rgba(0, 0, 0, 0);
+  top: 20px;
+  transition: all 200ms;
+}
+.level-1 .sponsor-panel {
+  width: 40%;
+  min-height: 160px;
+}
+.sponsor-circle {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  background-color: #014083;
+  top: 30px;
+  border-radius: 50%;
+  left: 50%;
+  margin-left: -60px;
+  margin-top: -30px;
+  padding: 16px;
+  border: 4px solid #e2e2e2;
+  transition: all 200ms;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  z-index: 100;
+}
+.level-1 .sponsor-circle {
+  width: 160px;
+  height: 160px;
+  margin-left: -80px;
+  margin-top: 0px;
+  top: 0;
+  font-size: 16px;
+  padding: 20px;
+}
+.sponsor-circle h4 {
+  font-size: 18px;
+  margin-top: 12px;
+  margin-bottom: 6px;
+  color: #fff;
+}
+.level-1 .sponsor-circle h4 {
+  font-size: 24px;
+  margin-top: 24px;
+  margin-bottom: 10px;
+}
+.sponsor-panel.left {
+  text-align: right;
+}
+.sponsor-panel.left:before {
+  left: 0;
+  top: 60px;
+  margin-top: -10px;
+  margin-left: 42%;
+  border-left: 12px solid #f5f5f5;
+}
+.level-1 .sponsor-panel.left:before {
+  top: 80px;
+  margin-left: 40%;
+  margin-top: -10px;
+}
+.sponsor-panel.right {
+  float: right;
+}
+.sponsor-panel.right:before {
+  right: 0;
+  top: 60px;
+  margin-top: -10px;
+  margin-right: 42%;
+  border-right: 12px solid #f5f5f5;
+}
+/*
+  HOVER EFFCTS
+
+.sponsor-panel:hover {
+  cursor: default;
+  margin-left: 1%;
+}
+.sponsor-panel:hover .sponsor-circle {
+
+}
+.level-1 .sponsor-panel:hover .sponsor-circle {
+  
+}
+.sponsor-panel.right:hover {
+  margin-left: 0;
+  margin-right: 1%;
+}
+.sponsor-panel.right:hover:before {
+  margin-right: 43%;
+}
+.sponsor-panel:hover:before {
+  left: 1%;
+}
+*/
+
+/*
 -----------------------
 DEFAULT TEMPLATE STYLES
 -----------------------
@@ -494,19 +655,33 @@ DEFAULT TEMPLATE STYLES
 .page-heading {
   position: relative;
   margin: 40px 0 24px;
+  text-align: center;
 }
 .page-heading h1 {
   padding: 0;
   margin: 0 0 12px;
 }
+.page-heading p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
 .page-heading.parallax {
-  margin: 0 0 60px;
+  margin: 4px 0 60px;
   border-bottom: 4px solid #f79b63;
+}
+.page-heading.parallax.e404 {
+  margin: 0;
+  border-bottom: none;
 }
 .page-heading.parallax .inner-wrapper {
   width: 100%;
   height: 100%;
   background: url("/assets/images/dot.png") repeat rgba(0, 0, 0, 0.5);
+}
+.page-heading.parallax.e404 .inner-wrapper{
+  padding: 192px 0;
 }
 .page-heading.parallax h1 {
   font-size: 64px;
@@ -533,6 +708,9 @@ DEFAULT TEMPLATE STYLES
   filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=1,MakeShadow=true,ShadowOpacity=0.50);
   -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=1,MakeShadow=true,ShadowOpacity=0.50)";
   zoom: 1;
+}
+.page-heading.parallax.e404 h1{
+  margin: 0 0 48px;
 }
 .page-heading.parallax .sub-heading {
   font-size: 24px;
@@ -585,6 +763,11 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.press {
   background-image: url("/assets/images/sectionbg/press.jpg");
 }
+/*
+.page-heading.parallax.e404 {
+  background-image: url("/assets/images/sectionbg/404.jpg");
+}
+*/
 .breadcrumb {
   padding: 0;
   margin-bottom: 0;
@@ -643,6 +826,31 @@ DEFAULT TEMPLATE STYLES
   color: #696969;
 }
 
+.table-pricing > tbody > tr > td {
+  border: none;
+  vertical-align: middle;
+}
+.table-pricing > tbody > tr > td.spacer {
+  padding-bottom: 2em;
+}
+.table-pricing .sponsor-level {
+  background-color: #014083;
+  border-radius: 50%;
+  color: #fff;
+  text-align: center;
+  width: 161px;
+  height: 161px;
+  padding: 40px 20px 20px;
+  position: relative;
+}
+.table-pricing .sponsor-level h3 {
+  color: #fff;
+  margin-top: 0;
+}
+.table-pricing ul {
+  margin: 0;
+}
+
 /*
 -----------------------
 FOOTER STYLES
@@ -682,11 +890,46 @@ MEDIA QUERIES
   }
 }
 
+@media (max-width:1200px) {
+  .sponsor-panel {
+    width: 40%;
+  }
+  .level-1 .sponsor-panel {
+    width: 38%;
+  }
+  .sponsor-panel.left:before {
+    margin-left: 40%;
+  }
+  .level-1 .sponsor-panel.left:before {
+    margin-left: 38%;
+  }
+  .sponsor-panel.right:before {
+    margin-right: 40%;
+  }
+}
+
 @media (max-width:992px) {
   .social-icons {
     display: none;
   }
+  .sponsor-panel {
+    font-size: 14px;
+    width: 37%;
+  }
+  .level-1 .sponsor-panel {
+    width: 33%;
+  }
+  .sponsor-panel.left:before {
+    margin-left: 37%;
+  }
+  .level-1 .sponsor-panel.left:before {
+    margin-left: 33%;
+  }
+  .sponsor-panel.right:before {
+    margin-right: 37%;
+  }
 }
+
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {

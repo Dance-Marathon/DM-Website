@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'FAQs | About | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'about';
 	include("includes/head.php");
@@ -30,7 +31,8 @@
           </ul>
         </div>
 			</div>
-			<div class="col-md-9">
+			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="headingOne">
@@ -91,7 +93,22 @@
               </div>
             </div>
           </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingFive">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                  Do you have questions about dancing?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+              <div class="panel-body">
+                Check out our <a href="http://www.floridadm.org/dancers">Dancer Page</a> for Dancer information and FAQs.
+              </div>
+            </div>
+          </div>
         </div>
+      <?php } else { echo 'This page is currently closed.'; } ?>
       </div>
 		</div>
 	</div>
