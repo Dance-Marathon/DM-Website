@@ -300,7 +300,8 @@ Nick particularly enjoys being involved with Dance Marathon at the University of
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-        <h3>Meet our Kids, Meet our Miracles</h3><br />
+        <h3>Meet our Kids, Meet our Miracles</h3>
+        <p>Take a moment to meet the heart and soul of our philanthropy. Our Miracle Children are the inspiration for every student who is part of DM at UF.</p>
         <?php
         for($i = 0; $i < count($kids); $i++) {
           if($i % 4 == 0) {
