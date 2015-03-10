@@ -40,7 +40,7 @@
 			<p>"It is very special and rewarding to see the children's smiles and to work with the exceptional Dance Marathon staff. For many years we have had the pleasure of being involved in Dance Marathon at UF, providing recognition and support for a great organization. The staff is highly dedicated to these children and they really go above and beyond to help. Everyone at KISS 105.3 really looks forward to DM events because it is guaranteed to be a great time! Thank you from everyone at KISS 105.3 for the incredible service you provide to our community!”
 			</br><i>Alex Davis, Promotions Coordinator of KISS 105.3 FM</i></p>
 			<p>“Gator Dominoes has been working with DM at UF for 20 years.  Every year it is an absolute pleasure to work with the students that run this fantastic organization.  Their professionalism and dedication to the cause and their sponsors is unparalleled.  The exposure Gator Dominoes has gained through our ongoing partnership has benefited us well, increasing our patron base and allowing us to have a profound impact on the community through our donation.  I would encourage anyone interested in bringing their brand to tens of thousands of students to reach out and pursue a partnership with this fantastic organization.”
-			</br><i>Freddie, Local Franchise Owner from Gator Dominoes</i></p>
+			</br><i>Freddie, Local Franchise Owner from Gator Domino's</i></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
