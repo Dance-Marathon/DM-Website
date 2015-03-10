@@ -37,7 +37,7 @@
 				
 			<div class="col-md-8 col-md-push-1">
 				<p><h3>Fill out the form and pay here: <a href="https://www.kintera.org/AutoGen/Register/ECReg.asp?ievent=1134083&en=4nIxFFNfE3KGJPMiH2IDLLMsFeIBIKPnG7IHJRMtGeJCLLPmEbINJXPxFiIOJZMEF" target="_blank">Click This Link</a></h3></p>
-				<p>Please direct all inquiries to Nha Uyen-Hua at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a>.</p>
+				<p>Please direct all inquiries to Andrew Giacini at <a href="mailto:agiacini@floridadm.org">agiacini@floridadm.org</a>.</p>
 				<p><h3>What are Dancer Packages?</h3></p>
 				<p>During Dance Marathon, dancers are always looking for ways to stay high on energy and comfort. Give your favorite dancer some refreshing time in the shower, the pool, the mood room, or in the bounce house! You can also treat him or her to a special spirit package or morale package to help them get involved with theme hours throughout DM and have the best experience possible!</p>  
  				<p><h3>Who can purchase a Dancer Package?</h3></p>
