@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'DMAA | About | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'about';
 	include("includes/head.php");
@@ -31,8 +32,10 @@
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
   			<p>Since 1995, Dance Marathon at UF has raised over $8 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have grown to the most successful student-run philanthropy in the region.</p>
   			<p>Your commitment to a worthy cause doesn’t have to end after you graduate. Join our Alumni Group on Facebook to stay connected to the rest of your Dance Marathon family.</p>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>

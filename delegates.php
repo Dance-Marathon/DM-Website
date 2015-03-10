@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Delegates | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -29,18 +30,19 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-            <li><a href="/staffapp">Staff Application</a></li>
+            <li><a href="/dancerpackages">Dancer Packages</a></li>
+            <li><a href="/dmrave">DM 2015 Rave Hour</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
         <div role="tabpanel">
 
           <!-- Nav tabs -->
           <ul class="nav nav-tabs" role="tablist">
             <li role="presentation" class="active"><a href="#become-a-delegate" aria-controls="become-a-delegate" role="tab" data-toggle="tab">Become a Delegate</a></li>
             <li role="presentation"><a href="#starting-a-team" aria-controls="starting-a-team" role="tab" data-toggle="tab">Starting a Team</a></li>
-            <li role="presentation"><a href="#delegate-resources" aria-controls="delegate-resources" role="tab" data-toggle="tab">Delegate Resources</a></li>
           </ul>
 
           <!-- Tab panes -->
@@ -81,12 +83,10 @@
               </ol>
               <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Suzy Schrimsher, at <a href="mailto:sschrimsher@floridadm.org">sschrimsher@floridadm.org</a> to inform her you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
             </div>
-            <div role="tabpanel" class="tab-pane fade" id="delegate-resources">
-
-            </div>
           </div>
 
         </div>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>

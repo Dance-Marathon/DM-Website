@@ -1,10 +1,135 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Organizations | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
   
   $greek_organizations = array(
+    array(
+      'organization'  =>  'Benton Engineering Council',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Beta Upsilon Chi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Black Student Union',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Campus Juice',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Delta Nu Zeta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Epsilon Sigma Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Florida Athletic Training',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Florida Cicerones',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Freshman Leadership Council',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Gamma Eta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Gator Band',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Heal the World',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Health Quality Outreach Improvement',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'HOSA',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'IRHA',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Levin College of Law',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Omega Phi Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Pre-Student Osteopathic Medical Association',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Preview Staff',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Sabor Latino',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Sigma Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'SOTA',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'SPTA',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Theta Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Theta Tau',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Medlife',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Model United Nations',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF College of Medicine',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF College of Pharmacy (PPAG)',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Honors Program',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Premed AMSA',
+      'link'          =>  ''
+    ),
     array(
       'organization'  =>  'Alpha Gamma Rho',
       'link'          =>  ''
@@ -156,6 +281,10 @@
     array(
       'organization'  =>  'Theta Chi',
       'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Alpha Chi Omega',
+      'link'          =>  ''
     )
   );
   
@@ -186,92 +315,49 @@
 						<li><a href="http://floridadm.kintera.org/faf/home/waiver.asp?ievent=1114670&lis=1&kntae1114670=49B319BD1C5D464982B0286ECCA2EBEB" target="_blank">Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-						<li><a class="active">Organizations</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
+						<li><a href="/organizations">Organizations</a></li>
+						<li><a href="/captain-teams" >Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/staffapp">Staff Application</a></li>
+            <li><a href="/dancerpackages">Dancer Packages</a></li>
+            <li><a href="/dmrave">DM 2015 Rave Hour</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
-        <h3>Special Interest Organizations</h3>
-        <table class="table table-bordered table-middle">
-          <tbody>
-            <tr>
-              <td class="col-sm-3">Benton Engineering Council</td>
-              <td class="col-sm-3">Beta Upsilon Chi</td>
-              <td class="col-sm-3">Black Student Union</td>
-              <td class="col-sm-3">Campus Juice</td>
-            </tr>
-            <tr>
-              <td>Delta Nu Zeta</td>
-              <td>Epsilon Sigma Alpha</td>
-              <td>Florida Athletic Training</td>
-              <td>Florida Cicerones</td>
-            </tr>
-            <tr>
-              <td>Freshman Leadership Council</td>
-              <td>Gamma Eta</td>
-              <td>Gator Band</td>
-              <td>Heal the World</td>
-            </tr>
-            <tr>
-              <td>Health Quality Outreach Improvement</td>
-              <td>HOSA</td>
-              <td>IRHA</td>
-              <td>Levin College of Law</td>
-            </tr>
-            <tr>
-              <td>Omega Phi Alpha</td>
-              <td>Pre-Student Osteopathic Medical Association</td>
-              <td>Preview Staff</td>
-              <td>Sabor Latino</td>
-            </tr>
-            <tr>
-              <td>Sigma Alpha</td>
-              <td>SOTA</td>
-              <td>SPTA</td>
-              <td>Theta Alpha</td>
-            </tr>
-            <tr>
-              <td>Theta Tau</td>
-              <td>UF Medlife</td>
-              <td>UF Model United Nations</td>
-              <td>UF College of Medicine</td>
-            </tr>
-            <tr>
-              <td>UF College of Pharmacy (PPAG)</td>
-              <td>UF Honors Program</td>
-              <td>UF Premed AMSA</td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
-
-        <h3>Greek Organizations</h3>
+  		<?php if ($status == "open") { ?>
         <table class="table table-bordered table-middle">
           <tbody>
           <?php
-          for($i = 0; $i < count($greek_organizations); $i++) {
-            if($i % 4 == 0) {
+            $column_number = 4;
+            $total_orgs = count($greek_organizations);
+            $increment = ceil($total_orgs/$column_number);
+            $extra_cells = $increment * $column_number - $total_orgs;
+                        
+            for($i = 0; $i < $increment; $i++) {
               echo '<tr>';
-            }
-            if($i <= 3) {
-              echo '<td class="col-sm-3">';
-            } else {
-              echo '<td>';
-            }
-            if($greek_organizations[$i]['link'] !== '') {
-              echo '<a href="'.$greek_organizations[$i]['link'].'"></td>';
-            } else {
-              echo $greek_organizations[$i]['organization'].'</td>';
-            }
-            if(($i - 3) % 4 == 0) {
+                for($j = $i; $j < $total_orgs + $extra_cells; $j += $increment) {
+                  if($j < $total_orgs) {
+                    if($i == 0) {
+                      echo '<td class="col-sm-3">';
+                    } else {
+                      echo '<td>';
+                    }
+                    if($greek_organizations[$j]['link'] !== '') {
+                      echo '<a href="'.$greek_organizations[$j]['link'].'"></td>';
+                    } else {
+                      echo $greek_organizations[$j]['organization'].'</td>';
+                    }
+                  } else {
+                    echo '<td>&nbsp;</td>';
+                  }
+                }
               echo '</tr>';
             }
-          } ?>
+          ?>
           </tbody>
         </table>
+  			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
+      <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>
 	</div>

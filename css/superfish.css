@@ -79,6 +79,7 @@
 	transition: none;
 }
 .sf-menu li ul {
+  display: none; /* prevents menu from showing for a split-second on page load */
 	background: #f79b63;
   border: none;
   border-radius: 0px;
