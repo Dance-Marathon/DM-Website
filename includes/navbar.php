@@ -30,8 +30,8 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/staff-application">Staff Application</a></li>
-						<li><a href="/moralentine">Moralentine's Day Form</a></li>
+						<li><a href="/dancerpackages.php">Dancer Packages</a></li>
+						<li><a href="/dmrave.php">DM 2015 Rave Hour</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'family') ? "class='open'" : ""; ?>>

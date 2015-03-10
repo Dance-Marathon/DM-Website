@@ -30,13 +30,8 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a class="active">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-<<<<<<< HEAD
-            <li><a href="/staff-application">Staff Application</a></li>
-            <li><a href="/moralentine">Moralentine's Day Form</a></li>
-=======
             <li><a href="/dancerpackages">Dancer Packages</a></li>
             <li><a href="/dmrave">DM 2015 Rave Hour</a></li>
->>>>>>> origin/master
           </ul>
         </div>
 			</div>
