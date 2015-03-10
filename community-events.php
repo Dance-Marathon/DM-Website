@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Community Events | Events | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
@@ -46,62 +47,58 @@
 </div>
 
 <div class="page-content">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-3">
-  			<div class="sub-nav">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <div class="sub-nav">
           <ul>
-						<li><a class="active">Community Events</a></li>
-						<li><a href="/hsdm.php">High School DM</a></li>
-                        <li><a href="/ft5k">FT5K 2015</a></li>
-                        <li><a href="/registertodance">Dancer Registration</a></li>
+            <li><a class="active">Community Events</a></li>
+            <li><a href="/hsdm.php">High School DM</a></li>
+            <li><a href="/ft5k">FT5K 2015</a></li>
           </ul>
         </div>
-			</div>
-			<div class="col-md-8 col-md-push-1">
-            <div class="container-fluid">
-            <div class="row">
-            <?php 
-
-            for($i = 0; $i < count($events); $i++) { ?>
-                <!-- Button trigger modal -->
-                <?php if ($i % 3 == 0) { ?>
-                <div class="clearfix visible-xs-block visible-sm-block"></div>
-                <?php } ?>
-                <?php if ($i % 4 == 0) { ?>
-                <div class="clearfix visible-md-block visible-lg-block"></div>
-                <?php } ?>
-                <div class="col-xs-4 col-md-3">
-                    <a href="#" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-                        <img class="img-square img-thumbnail" src="<?php echo ('/assets/images/'.$events[$i]['image']); ?>" alt="..."><br>
-                        <p><?php echo $events[$i]['name']; ?></p>
-                    </a>
-                </div>
-
-                <!-- Modal -->
-                <div class="modal fade" id="myModal<?php echo $i; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                  <div class="modal-dialog">
-                    <div class="modal-content">
-                      <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <h3 class="modal-title" id="#myModal<?php echo $i; ?>Label"><?php echo $events[$i]['name']; ?></h4>
-                      </div>
-                      <div class="modal-body">
-                        <!--<img src="<?php //echo ('/assets/images/kids/fullsize/'.$events[$i]['image']); ?>" class="img-responsive img-full" /> 
-                        <hr>-->
-                        <p>
-                            <?php echo $events[$i]['description']; ?>
-                        </p>
-                      </div>
+      </div>
+      <div class="col-md-8 col-md-push-1">
+      <?php if ($status=="open" ) { ?>
+        <div class="container-fluid">
+          <div class="row">
+            <?php for($i=0 ; $i < count($events); $i++) { ?>
+            <!-- Button trigger modal -->
+              <?php if ($i % 3==0 ) { ?>
+              <div class="clearfix visible-xs-block visible-sm-block"></div>
+              <?php } ?>
+              <?php if ($i % 4==0 ) { ?>
+              <div class="clearfix visible-md-block visible-lg-block"></div>
+              <?php } ?>
+              <div class="col-xs-4 col-md-3">
+                <a href="#" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
+                  <img class="img-square img-thumbnail" src="<?php echo ('/assets/images/'.$events[$i]['image']); ?>" alt="..."><br>
+                  <p><?php echo $events[$i]['name']; ?></p>
+                </a>
+              </div>
+              
+              <!-- Modal -->
+              <div class="modal fade" id="myModal<?php echo $i; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h3 class="modal-title" id="#myModal<?php echo $i; ?>Label"><?php echo $events[$i]['name']; ?></h3>
+                    </div>
+                    <div class="modal-body">
+                      <!--<img src="<?php //echo ('/assets/images/kids/fullsize/'.$events[$i]['image']); ?>" class="img-responsive img-full" />
+                      <hr>-->
+                      <p><?php echo $events[$i]['description']; ?></p>
                     </div>
                   </div>
                 </div>
+              </div>
             <?php } ?>
-            </div>
-            </div>
+          </div>
+        </div>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>
 </div>
-
 <?php include("includes/foot.php"); ?>

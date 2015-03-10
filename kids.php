@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Family | Florida Dance Marathon';
 	include("includes/head.php");
 	include("includes/navbar.php");
@@ -588,14 +589,6 @@ running and has not stopped yet.
 	  		<div class="col-md-12">
     			<h1>Meet the Kids</h1>
 	  		</div>
-<!--
-	  		<div class="col-md-12">
-    			<ul class="breadcrumb">
-      			<li><a href="/index">Home</a></li>
-      			<li class="active">About</li>
-    			</ul>
-	  		</div>
--->
     	</div>
 	  </div>
 	</div>
@@ -613,10 +606,11 @@ running and has not stopped yet.
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
-            <h3>Meet our Kids, Meet our Miracles</h3>
-            &nbsp;<br/>
-            <div class="container-fluid">
-            <div class="row">
+      <?php if ($status == "open") { ?>
+        <h3>Meet our Kids, Meet our Miracles</h3>
+        &nbsp;<br/>
+        <div class="container-fluid">
+          <div class="row">
             <?php
 
             for($i = 0; $i < count($kids); $i++) { ?>
@@ -653,8 +647,9 @@ running and has not stopped yet.
                   </div>
                 </div>
             <?php } ?>
-            </div>
-            </div>
+          </div>
+        </div>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>
