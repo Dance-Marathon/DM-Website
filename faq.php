@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'FAQs | About | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'about';
 	include("includes/head.php");
@@ -30,7 +31,8 @@
           </ul>
         </div>
 			</div>
-			<div class="col-md-9">
+			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="headingOne">
@@ -106,6 +108,7 @@
             </div>
           </div>
         </div>
+      <?php } else { echo 'This page is currently closed.'; } ?>
       </div>
 		</div>
 	</div>

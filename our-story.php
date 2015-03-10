@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Our Story | About | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'about';
 	include("includes/head.php");
@@ -31,6 +32,8 @@
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
+  		  <p>Dance Marathon at UF is a year long effort involving community events, hospitality and marketing nights at local businesses, and culminating in our yearly Dance Marathon event each spring where students remain on their feet for 26.2 hours, no caffeine, no sleeping, and no sitting down all for those you can’t.  Dance Marathon at UF involves 17 Overalls, 325 Captains, 1030 Staff Members, 150 partners, 4400 fundraisers, and over 25,000 donors.</p>
   		  <p>Dance Marathon at UF is a year long effort involving community events, hospitality and marketing nights at local businesses, and culminating in our yearly Dance Marathon event each spring where students remain on their feet for 26.2 hours for those who can’t. Dance Marathon at UF is one of the first five founding Dance Marathon programs in the nation and since our start, we have raised more than $8 million dollars for the kids at UF Health Shands Children’s Hospital, our local CMN hospital. Dance Marathon at UF involves 17 Overalls, 325 Captains, 1030 Staff Members, 150 partners, 4400 fundraisers, and over 25,000 donors. Everything we do is For The Kids!</p>
         <table class="table table-striped">
           <thead>
@@ -122,6 +125,7 @@
             </tr>
           </tbody>
         </table>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>

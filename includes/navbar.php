@@ -30,6 +30,8 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+						<li><a href="/dancerpackages">Dancer Packages</a></li>
+						<li><a href="/dmrave">DM 2015 Rave Hour</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'family') ? "class='open'" : ""; ?>>
@@ -45,7 +47,6 @@
 						<li><a href="/community-events">Community Events</a></li>
 						<li><a href="/hsdm">High School DM</a></li>
             <li><a href="/ft5k">FT5K 2015</a></li>
-            <li><a href="/registertodance">Dancer Registration</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'press') ? "class='open'" : ""; ?>>
@@ -68,9 +69,9 @@
 				  <a href="#">DM Store</a>
 				</li>
 				*/ ?>
-				<li class="open"><a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670&lis=1&kntae1114670=15F87DA40F9142E489120152BF028EB2" class="active">Donate</a></li>
+				<li class="open"><a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670" target="_blank" class="active">Donate</a></li>
 			  </ul>
-			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm hidden-xs">
+			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
 				  <li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube"></i></a></li>
 				  <li><a href="http://urlgeni.us/instagram/dmatuf"><i class="fa fa-instagram"></i></a></li>
 				  <li><a href="http://urlgeni.us/twitter/floridaDM"><i class="fa fa-twitter"></i></a></li>

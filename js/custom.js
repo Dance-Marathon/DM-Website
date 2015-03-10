@@ -2,6 +2,15 @@
 		"use strict";
 
 		jQuery(document).ready(function() {
+  		// Detect device and suggest app link
+      var ua = navigator.userAgent.toLowerCase();
+      // if((ua.match(/iphone/i)) || (ua.match(/ipod/i)) || (ua.match(/ipad/i))) {
+      //  jQuery("#download-app").prop("href","itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609")
+      //} else if((ua.match(/android/i))) {
+      if((ua.match(/android/i))) {
+        jQuery("#download-app").prop("href","http://play.google.com/store/apps/details?id=com.uf.dancemarathon")
+      }
+        		
       // Animate number counters
 			jQuery("#student-counter").delay(200).animateNumbers(6741, true, 4000);
 
@@ -71,46 +80,46 @@
 			// Elements appear from top
 			jQuery('.animate_top').each(function() {
 				jQuery(this).appear(function() {
-					jQuery(this).delay(200).animate({
+					jQuery(this).delay(100).animate({
 						opacity : 1,
 						top : "0px"
-					}, 1000);
+					}, 800);
 				});
 			});
 			// Elements appear from bottom
 			jQuery('.animate_bottom').each(function() {
 				jQuery(this).appear(function() {
-					jQuery(this).delay(200).animate({
+					jQuery(this).delay(100).animate({
 						opacity : 1,
 						bottom : "0px"
-					}, 1000);
+					}, 800);
 				});
 			});
 			// Elements appear from left
 			jQuery('.animate_left').each(function() {
 				jQuery(this).appear(function() {
-					jQuery(this).delay(200).animate({
+					jQuery(this).delay(100).animate({
 						opacity : 1,
 						left : "0px"
-					}, 1000);
+					}, 800);
 				});
 			});
 			// Elements appear from right
 			jQuery('.animate_right').each(function() {
 				jQuery(this).appear(function() {
-					jQuery(this).delay(200).animate({
+					jQuery(this).delay(100).animate({
 						opacity : 1,
 						right : "0px"
-					}, 1000);
+					}, 800);
 				});
 			});
 			// Elements appear in fadeIn effect
 			jQuery('.animate_fade_in').each(function() {
 				jQuery(this).appear(function() {
-					jQuery(this).delay(250).animate({
+					jQuery(this).delay(100).animate({
 						opacity : 1,
 						right : "0px"
-					}, 1500);
+					}, 800);
 				});
 			});
 		});

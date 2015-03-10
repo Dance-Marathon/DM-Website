@@ -315,16 +315,17 @@
 						<li><a href="http://floridadm.kintera.org/faf/home/waiver.asp?ievent=1114670&lis=1&kntae1114670=49B319BD1C5D464982B0286ECCA2EBEB" target="_blank">Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-						<li><a class="active">Organizations</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
+						<li><a href="/organizations">Organizations</a></li>
+						<li><a href="/captain-teams" >Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+            <li><a href="/dancerpackages">Dancer Packages</a></li>
+            <li><a href="/dmrave">DM 2015 Rave Hour</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-  			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
-        <table class="table table-borderless table-middle">
+        <table class="table table-bordered table-middle">
           <tbody>
           <?php
             $column_number = 4;
@@ -355,6 +356,7 @@
           ?>
           </tbody>
         </table>
+  			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>
