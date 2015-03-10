@@ -299,23 +299,21 @@ Nick particularly enjoys being involved with Dance Marathon at the University of
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
-<<<<<<< HEAD
       <?php if ($status == "open") { ?>
         <h3>Meet our Kids, Meet our Miracles</h3><br />
         <p>Take a moment to meet the heart and soul of our philanthropy. Our Miracle Children are the inspiration for every student who is part of DM at UF.</p>
         <?php
-        for($i = 0; $i < count($kids); $i++) {
-          if($i % 4 == 0) {
-            echo '<div class="row">';
-          } ?>
-            <!-- Button trigger modal -->
+	        for($i = 0; $i < count($kids); $i++) {
+	          if($i % 4 == 0) {
+	            echo '<div class="row">';
+	          } ?>
+	            <!-- Button trigger modal -->
             <div class="col-xs-3">
                 <a href="#" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
                     <img class="img-circle img-thumbnail" src="<?php echo ('/assets/images/kids/thumbnails/'.$kids[$i]['image']); ?>.jpg" alt="..."><br>
                     <p><?php echo $kids[$i]['name']; ?></p>
                 </a>
             </div>
-=======
             <h3>Meet our Kids, Meet our Miracles</h3>
             &nbsp;<br/>
             <div class="container-fluid">
@@ -331,7 +329,6 @@ Nick particularly enjoys being involved with Dance Marathon at the University of
                         <p><?php echo $kids[$i]['name']; ?></p>
                     </a>
                 </div>
->>>>>>> Thomas
 
             <!-- Modal -->
             <div class="modal fade" id="myModal<?php echo $i; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
