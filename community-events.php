@@ -52,9 +52,22 @@
       <div class="col-md-3">
         <div class="sub-nav">
           <ul>
+<<<<<<< Updated upstream
             <li><a class="active">Community Events</a></li>
             <li><a href="/hsdm.php">High School DM</a></li>
             <li><a href="/ft5k">FT5K 2015</a></li>
+=======
+<<<<<<< HEAD
+						<li><a class="active">Community Events</a></li>
+						<li><a href="/hsdm">High School DM</a></li>
+                        <li><a href="/ft5k">FT5K 2015</a></li>
+                        <li><a href="/registertodance">Dancer Registration</a></li>
+=======
+            <li><a class="active">Community Events</a></li>
+            <li><a href="/hsdm.php">High School DM</a></li>
+            <li><a href="/ft5k">FT5K 2015</a></li>
+>>>>>>> origin/Thomas
+>>>>>>> Stashed changes
           </ul>
         </div>
       </div>

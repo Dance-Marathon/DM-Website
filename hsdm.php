@@ -7,42 +7,42 @@
 
 	$events = array(
         array(
-            'name' => '<b>Oak Hall High School</b><br/>January 9th, Gainesville, FL',
+            'name' => '<b>Oak Hall High School</b><br/>Total Raised: <b>$5,029.68</b>, Gainesville, FL',
             'image' => 'hsdm1.jpg',
 			'url' => 'http://www.oakhall.org/RelId/33637/ISvars/default/Home.htm',
             ),
         array(
-            'name' => '<b>Vero Beach High School</b><br/>January 16th, Vero Beach, FL',
+            'name' => '<b>Vero Beach High School</b><br/>Total Raised: <b>$3,784.45</b>, Vero Beach, FL',
             'image' => 'hsdm2.jpg',
 			'url' => 'https://www.indianriverschools.org/vbhs',
             ),
         array(
-            'name' => '<b>Eastside High School</b><br/>January 30th, Gainesville, FL',
+            'name' => '<b>Eastside High School</b><br/>Total Raised: <b>$5,005.86</b>, Gainesville, FL',
             'image' => 'hsdm3.jpg',
 			'url' => 'http://eastside.sbac.edu/pages/EHS0421',
             ),
         array(
-            'name' => '<b>Palm Beach Central</b><br/>January 31st, Palm Beach, FL',
+            'name' => '<b>Palm Beach Central</b><br/>Total Raised: <b>$20,754.47</b>, Palm Beach, FL',
             'image' => 'hsdm4.jpg',
 			'url' => 'http://www.palmbeach.k12.fl.us/palmbeachcentralhs/',
             ),
         array(
-            'name' => '<b>Buchholz High School</b><br/>February 13th, Gainesville, FL',
+            'name' => '<b>Buchholz High School</b><br/>Total Raised: <b>$3,008.39</b>, Gainesville, FL',
             'image' => 'hsdm5.jpg',
 			'url' => 'http://buchholz.sbac.edu/pages/BHS0431',
             ),
 			array(
-            'name' => '<b>Boca Raton High School</b><br/>February 13th, Boca Raton, FL',
+            'name' => '<b>Boca Raton High School</b><br/>Total Raised: <b>$7,612.10</b>, Boca Raton, FL',
             'image' => 'hsdm6.jpg',
 			'url' => 'http://www.edline.net/pages/Boca_Raton_High_School',
             ),
         array(
-            'name' => '<b>Seminole Ridge High School</b><br/>February 20th, Loxahatchee, FL',
+            'name' => '<b>Seminole Ridge High School</b><br/Total Raised: <b>$18,654.34</b>, Loxahatchee, FL',
             'image' => 'hsdm7.jpg',
 			'url' => 'http://www.edline.net/pages/Seminole_Ridge_Community_HS',
             ),
         array(
-            'name' => '<b>Wellington High School</b><br/>March 6th, Wellington, FL',
+            'name' => '<b>Wellington High School</b><br/>Total Raised: <b>$14,648.25</b>, Wellington, FL',
             'image' => 'hsdm8.jpg',
 			'url' => 'http://www.edline.net/pages/wellington_high_school',
             ),
