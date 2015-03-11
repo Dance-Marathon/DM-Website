@@ -40,8 +40,6 @@
             </div>
             <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
               <div class="panel-body">
-                <p>Responsible for designing any and all graphics needed for Dance Marathon, including but not limited to fliers, pamphlets, social media designs, advertisements and event-related graphics. Also responsible for maintaining the cohesive look of the Dance Marathon at UF brand via an official branding guide to ensure that it is both recognizable and sustainable in all design and graphics. Applicants should be familiar with Adobe InDesign, Illustrator and/or Photoshop.</p>
-                <p>This team is also responsible for all of the event photography both during the year and at the event. These applicants should possess their own cameras and ideally be familiar with shooting manual on a DSLR. Photoshop knowledge is not required, but preferred.</p>
               </div>
             </div>
           </div>
@@ -53,7 +51,6 @@
             </div>
             <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
               <div class="panel-body">
-                Community Events Captains are responsible for organizing and participating in the events leading up to the 26.2 hour Dance Marathon. The highly anticipated events encourage the Gainesville and University of Florida Community to give back to the Kids. Events held prior to Dance Marathon may include a bowling tournament, Kickin' it For the Kids kickball tournament, FT5K race, Family Day at the Zoo and the Dance Marathon kick-off BBQ. Additionally, Community Events Captains organize activities at Dance Marathon including Jailbreak.
               </div>
             </div>
           </div>
@@ -65,7 +62,6 @@
             </div>
             <div id="a4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q4">
               <div class="panel-body">
-                Responsible for taking care of the dancers from the beginning of the year to the event’s end. Responsibilities include registering dancers for the actual event, tallying the spirit point competition that takes place throughout the year at various check-ins, holding informational dancer meetings, staffing the medical and study rooms at the event, handling guest check-ins at the event for dancer's visitors and maintaining communication with registered organizations throughout the year to handle any questions and concerns. Dancer Relations also coordinates an in-depth delegate program ensuring dancers and organizations have updated and accurate information about all upcoming events, deadlines and Dance Marathon as a whole.
               </div>
             </div>
           </div>
@@ -77,7 +73,6 @@
             </div>
             <div id="a5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q5">
               <div class="panel-body">
-                Entertainment Captains are responsible for booking entertainment for Dance Marathon, such as the DJ and organizing cameo presentations for the 26.2 hour event. As a team, Entertainment also provides music and performers at the events leading up to Dance Marathon, hosts and organizes a benefit concert and a talent show.
               </div>
             </div>
           </div>
@@ -89,7 +84,6 @@
             </div>
             <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
               <div class="panel-body">
-                Family Relations Captains serve as the liaison between Dance Marathon and the Miracle Families. These responsibilities include contacting Miracle Families, organizing the pen pal program, soliciting hotel rooms, coordinating events with the Miracle Families and organizations and organizing the Family Day event in the fall. As a team, Family Relations also decorates the family room, organizes the Miracle Family talent show and keeps the Miracle Families entertained during the 26.2 hour event.
               </div>
             </div>
           </div>
@@ -101,7 +95,6 @@
             </div>
             <div id="a7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q7">
               <div class="panel-body">
-                As a member of the Finance Team, you will work in close association with the Finance Overall Director on a variety of responsibilities, including financial oversight, funds processing, collections, and fundraising strategies. The finance team plays an integral role in the success of Dance Marathon at UF by ensuring that our total reveal is accurate up until the very last minute when the numbers are raised. The Finance team is also responsible for running dancer registration along with the Dancer Relations team. Alongside this, every Finance Captain will be responsible for all financial oversight for a handful of organizations. This oversight will require close relationships with both the delegates of those organizations and the corresponding Dancer Relations Captain.
               </div>
             </div>
           </div>
