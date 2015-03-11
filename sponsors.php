@@ -21,7 +21,15 @@
 <div class="page-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
+        <div class="col-md-3">
+        <div class="sub-nav">
+          <ul>
+            <li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
+            <li><a href="/partners">Our Partners</a></li>
+          </ul>
+        </div>
+      </div>
+			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
   			<h3>Corporate & Business Sponsors</h3>
   			<p>Dance Marathon at the University of Florida would not be what it is today without the help of local and national sponsors. Sponsors have the chance to be an integral part of the most successful student-run philanthropy in the southeastern United States. This honor highlights the immense exposure gained by our sponsors.</p>

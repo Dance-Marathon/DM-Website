@@ -21,7 +21,15 @@
 <div class="page-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
+        <div class="col-md-3">
+        <div class="sub-nav">
+          <ul>
+            <li><a class="active">Sponsorship Levels</a></li>
+            <li><a href="/partners">Our Partners</a></li>
+          </ul>
+        </div>
+      </div>
+			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
         <ul class="sponsor">
           <li class="level-1">

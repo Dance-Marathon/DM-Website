@@ -62,6 +62,7 @@
 					<a href="/sponsors" class="dropdown-toggle">Sponsors</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
+                        <li><a href="/partners">Our Partners</a></li>
 					</ul>
 				</li>
 				<?php /*
