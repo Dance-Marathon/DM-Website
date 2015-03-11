@@ -1,17 +1,17 @@
 <?php
 	$status = "open";
 	$GLOBALS['page_title'] = 'Event Mock | Florida Dance Marathon';
-	$GLOBALS['parent'] = 'about';
+	$GLOBALS['parent'] = '';
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax about">
+<div class="page-heading parallax event-page">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Event Mock</h1>
+    			<h1>Dance Marathon Live</h1>
 	  		</div>
     	</div>
 	  </div>
