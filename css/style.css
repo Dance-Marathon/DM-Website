@@ -763,6 +763,9 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.press {
   background-image: url("/assets/images/sectionbg/press.jpg");
 }
+.page-heading.parallax.event-page {
+  background-image: url("/assets/images/sectionbg/event-page.jpg");
+}
 /*
 .page-heading.parallax.e404 {
   background-image: url("/assets/images/sectionbg/404.jpg");

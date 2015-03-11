@@ -114,20 +114,20 @@
         <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
         <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
       </div>
-<!--
       <div class="col-md-3">
         <i class="fa icon-shirt"></i>
-        <h3>DM Store</h3>
-        <p>Find all of the latest and greatest DM merchandise on our online store! You can easily purchase them online or on campus at t-shirt check-ins. All of the profits from merchandise sales goes to the kids at UF Health Shands Children's Hospital!</p>
-        <p><div class="btn btn-default">Coming Soon</div></p>
+        <h3>Silent Auction</h3>
+        <p>The Silent Auction is now open! Featuring items from Tiffany &amp; Co, Chaco's, ENO, Hammock Beach Resort, and more. All purchases benefit Children's Miracle Network Hospitals!</p>
+        <p><div class="btn btn-default">Shop Now</div></p>
       </div>
--->
+<!--
       <div class="col-md-3">
         <i class="fa fa-mobile" style="font-size: 52px; line-height: 40px;"></i>
         <h3>DM App</h3>
         <p>Get the latest DM updates, learn about our miracle kids, play DM heads up, and more with our new DM app!</p>
         <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
       </div>
+-->
       <div class="col-md-3">
         <i class="fa fa-heart"></i>
         <h3>Miracle Families</h3>
