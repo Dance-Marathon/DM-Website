@@ -1,3 +1,4 @@
+<?php global $parent; ?>
     <!-- Fixed navbar -->
 	<div id="nav" class="navbar navbar-fixed-top">
 		  <div class="container">
@@ -29,26 +30,27 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+						<li><a href="/dancerpackages">Dancer Packages</a></li>
+						<li><a href="/dmrave">DM 2015 Rave Hour</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'family') ? "class='open'" : ""; ?>>
-					<a href="/family" class="dropdown-toggle"  >Family</a>
+					<a href="/family" class="dropdown-toggle">Family</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/meet-the-kids">Meet the Kids</a></li>
 						<li><a href="/family-events">Family Events</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'events') ? "class='open'" : ""; ?>>
-					<a href="/events" class="dropdown-toggle"  >Events</a>
+					<a href="/events" class="dropdown-toggle">Events</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/community-events">Community Events</a></li>
 						<li><a href="/hsdm">High School DM</a></li>
-                        <li><a href="/ft5k">FT5K 2015</a></li>
-                        <li><a href="/registertodance">Dancer Registration</a></li>
+            <li><a href="/ft5k">FT5K 2015</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'press') ? "class='open'" : ""; ?>>
-					<a href="/press" class="dropdown-toggle"  >Press</a>
+					<a href="/press" class="dropdown-toggle">Press</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/nomenclature">Nomenclature</a></li>
 						<li><a href="/press-releases">Press Releases</a></li>
@@ -57,23 +59,19 @@
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'sponsors') ? "class='open'" : ""; ?>>
-					<a href="/sponsors" class="dropdown-toggle"  >Sponsors</a>
-<!--
+					<a href="/sponsors" class="dropdown-toggle">Sponsors</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/become-a-sponsor">Become a Sponsor</a></li>
 						<li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
-						<li><a href="/current-sponsors">Current Sponsors</a></li>
 					</ul>
--->
 				</li>
 				<?php /*
 				<li>
 				  <a href="#">DM Store</a>
 				</li>
 				*/ ?>
-				<li class="open"><a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670&lis=1&kntae1114670=15F87DA40F9142E489120152BF028EB2" class="active">Donate</a></li>
+				<li class="open"><a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670" target="_blank" class="active">Donate</a></li>
 			  </ul>
-			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm hidden-xs">
+			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
 				  <li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube"></i></a></li>
 				  <li><a href="http://urlgeni.us/instagram/dmatuf"><i class="fa fa-instagram"></i></a></li>
 				  <li><a href="http://urlgeni.us/twitter/floridaDM"><i class="fa fa-twitter"></i></a></li>

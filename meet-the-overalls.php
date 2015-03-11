@@ -1,4 +1,5 @@
 <?php
+	$status = "open";
 	$GLOBALS['page_title'] = 'Meet The Overalls | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -137,7 +138,7 @@
       'free_time'             =>  'I love to spend time with my family, friends and dogs, travel as much as I can, go on runs and really anything to do with Dance Marathon!',
       'fun_fact'              =>  'I have a crazy obsession with cruise ships and can tell you nearly anything about each and every one.',
       'favorite_memory'       =>  '<p>One of my favorite memories from Dance Marathon is from this past years closing ceremonies. After telling their miracle story, one of our miracle families expressed how DM does not end after the event. While we may be done physically standing for 26.2 hours, so many children are still overcoming many obstacles. Within weeks and months of DM, more children have appointments and treatments they need and this is crucial to always remember. We do not dance for just 26.2 hours but for a lifetime and we will not stop until there are no longer sick children. Our miracle family stated, &#34;Dance Marathon won&#39;t be something you did, but something you do.&#34; This is why I will always give back to Dance Marathon for as long as I can.</p>',
-      'motivation'            =>  '<p>The summer before my sophomore year of high school, my close friend was on a trip to the west coast. When she was getting off the bus in Las Vegas, her legs gave out and she fell to the floor. That was the last moment she stood. She was diagnosed weeks later with Transverse Myelitis, which is a rare inflammation of the spinal chord. She is now paralyzed from her waist down. I am so fortunate to have the life I have and if I could do anything to help others whether that be simply making someone smile, it is the way I live each and every day. I stand for my friend who can no longer stand herself and for all of our miracle children whose stories have inspired me immensely to be a better person and appreciate my family and friends to the fullest.</p>',
+      'motivation'            =>  '<p>The summer before my sophomore year of high school, my close friend was on a trip to the west coast. When she was getting off the bus in Las Vegas, her legs gave out and she fell to the floor. That was the last moment she stood. She was diagnosed weeks later with Transverse Myelitis, which is a rare inflammation of the spinal chord. She is now paralyzed from her waist down. I am so fortunate to have the life I have and if I could do anything to help others whether that be simply making someone smile, it is the way I live each and every day. I stand for my friend who can no longer stand herself and for all of our miracle children whose stories have inspired me immensely to be a better person and appreciate my family and friends to the fullest.</p><p>It is not that easy to be able to find that niche and place you belong in at such a large university. However, Dance Marathon at the University of Florida is an amazing organization with so many members who have similar aspirations, to help kids. It&#39;s great to see an organization that influences so many on campus to give back to such a great cause. Ever since my first Dance Marathon as a dancer/delegate than the following year as a Family Relations captain, the feeling you get from simply standing in the O&#39;Dome is indescribable. Seeing the smiles and excitement on our miracle children&#39;s faces and watching thousands of students year worth of hard work all come together is unbelievable. Dance Marathon is so much bigger than ourselves and I am lucky to be a part of such an incredible organization. I am so honored to serve as the 2015 Family Relations Overall and can&#39;t wait to make more miracles happen for the kids!</p>',
       'image'                 =>  'Daniel'
     ),
     array(
@@ -167,7 +168,7 @@
       'free_time'             =>  'Read books, watch TV, exercise and cook',
       'fun_fact'              =>  'In high school, I was the lead singer in a band called &#34;Falcon Punch.&#34;',
       'favorite_memory'       =>  '<p>My favorite memory was my first High School Dance Marathon at Palm Beach Central this past year. It was incredibly moving to see so many high school students show such strong support for Dance Marathon, especially since their school is four hours from Gainesville!</p>',
-      'motivation'            =>  '<p>What drives me to be a leader are the leaders around me. Everyone else within the organization brings such energy and life to the event. This past year, my team pushed me to levels of success I could not have hoped to achieve on my own. They are a main reason why I love Dance Marathon. In addition, being able to help the Miracle Families in any way possible is a huge motivation! These children go through so much that making their day a little bit better is enough motivation for me.</p><p>It is not that easy to be able to find that niche and place you belong in at such a large university. However, Dance Marathon at the University of Florida is an amazing organization with so many members who have similar aspirations, to help kids. It&#39;s great to see an organization that influences so many on campus to give back to such a great cause. Ever since my first Dance Marathon as a dancer/delegate than the following year as a Family Relations captain, the feeling you get from simply standing in the O&#39;Dome is indescribable. Seeing the smiles and excitement on our miracle children&#39;s faces and watching thousands of students year worth of hard work all come together is unbelievable. Dance Marathon is so much bigger than ourselves and I am lucky to be a part of such an incredible organization. I am so honored to serve as the 2015 Family Relations Overall and can&#39;t wait to make more miracles happen for the kids!</p>',
+      'motivation'            =>  '<p>What drives me to be a leader are the leaders around me. Everyone else within the organization brings such energy and life to the event. This past year, my team pushed me to levels of success I could not have hoped to achieve on my own. They are a main reason why I love Dance Marathon. In addition, being able to help the Miracle Families in any way possible is a huge motivation! These children go through so much that making their day a little bit better is enough motivation for me.</p>',
       'image'                 =>  'Griff'
     ),
     array(
@@ -285,12 +286,15 @@
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/organizations">Organizations</a></li>
-						<li><a href="/captain-teams.php" >Captain Teams</a></li>
+						<li><a href="/captain-teams" >Captain Teams</a></li>
 						<li><a class="active">Meet the Overalls</a></li>
+            <li><a href="/dancerpackages">Dancer Packages</a></li>
+            <li><a href="/dmrave">DM 2015 Rave Hour</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
         <?php
         for($i = 0; $i < count($overalls); $i++) {
           if($i % 3 == 0) {
@@ -344,6 +348,7 @@
             echo '</div>';
           }
         } ?>
+      <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>
