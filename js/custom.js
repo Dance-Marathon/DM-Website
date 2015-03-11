@@ -65,12 +65,13 @@
 			
 			// Homepage DM countdown
       var currentDate = new Date();
-			var futureDate  = new Date("March 14, 2015 13:30:00");
+			var futureDate  = new Date("March 14, 2015 12:02:00");
 			var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
 			jQuery('#countdown').FlipClock(diff, {
 			  clockFace: 'DailyCounter',
 			  countdown: true
 			});
+			jQuery('#countdown').find('a').removeAttr("href");
 			
 			// Update active tab based on URL
 			var hash = window.location.hash;
