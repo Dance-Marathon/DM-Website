@@ -67,7 +67,7 @@
           <img class="img-responsive img-full"  src="assets/images/slider/jailbreak_website-01.jpg">
         </div>
         <div class="item">
-          <a href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
+          <a id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
         </div>        
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/March_Web-01.jpg">
