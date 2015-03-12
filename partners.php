@@ -40,15 +40,12 @@
             </div>
             <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
               <div class="panel-body">
-<<<<<<< HEAD
-=======
                 <table width="100%">
               		<tr>
                		  	<td valign="middle" width="50%" align="center"><a href="http://www.kiss1053.com" target="_blank"><img src="assets/images/sponsors/KISS1053.jpg" width="252" height="246"/></a></td>
                         <td valign="middle" width="50%" align="center"><a href="http://www.gatordominos.com" target="_blank"><img src="assets/images/sponsors/Dominos.jpg" width="246" height="246"/></a></td>
                      </tr>
                </table>
->>>>>>> Thomas
               </div>
             </div>
           </div>
@@ -60,14 +57,11 @@
             </div>
             <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
               <div class="panel-body">
-<<<<<<< HEAD
-=======
                 <table width="100%">
               		<tr>
                		  	<td valign="middle" width="100%" align="center"><a href="http://www.shopthero.com" target="_blank"><img src="assets/images/sponsors/Ro.png" width="251" height="215"/></a></td>
                      </tr>
                </table>
->>>>>>> Thomas
               </div>
             </div>
           </div>
@@ -79,8 +73,6 @@
             </div>
             <div id="a4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q4">
               <div class="panel-body">
-<<<<<<< HEAD
-=======
                 <table width="100%">
               		<tr height="140">
                		  	<td valign="top" width="50%" align="center"><a href="http://www.landmark-properties.com" target="_blank"><img src="assets/images/sponsors/The Retreat.png" width="170" height="120"/></a></td>
@@ -99,7 +91,6 @@
                         <td valign="top" width="50%" align="center">&nbsp;</td>
                 	</tr>
                 </table>
->>>>>>> Thomas
               </div>
             </div>
           </div>
@@ -111,8 +102,6 @@
             </div>
             <div id="a5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q5">
               <div class="panel-body">
-<<<<<<< HEAD
-=======
                 <table width="100%">
               		<tr height="140">
                		  	<td valign="top" width="50%" align="center"><a href="http://www.gatorzone.com" target="_blank"><img src="assets/images/sponsors/FloridaAthletics.png" width="362" height="120"/></a></td>
@@ -135,7 +124,6 @@
                         <td valign="top" width="50%" align="center">&nbsp;</td>
                 	</tr>
                 </table>
->>>>>>> Thomas
               </div>
             </div>
           </div>
@@ -147,8 +135,6 @@
             </div>
             <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
               <div class="panel-body">
-<<<<<<< HEAD
-=======
                 <table width="100%">
               		<tr height="140">
                		  	<td valign="top" width="50%" align="center"><a href="http://bouncinbig.com" target="_blank"><img src="assets/images/sponsors/Bounin Big.png" width="174" height="120"/></a></td>
@@ -171,7 +157,6 @@
                         <td valign="top" width="50%" align="center">&nbsp;</td>
                 	</tr>
                 </table>
->>>>>>> Thomas
               </div>
             </div>
           </div>
@@ -183,8 +168,6 @@
             </div>
             <div id="a7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q7">
               <div class="panel-body">
-<<<<<<< HEAD
-=======
                 <table width="100%">
               		<tr height="140">
                		  	<td valign="top" width="50%" align="center"><a href="http://www.ihop.com" target="_blank"><img src="assets/images/sponsors/ihop.png" width="212" height="120"/></a></td>
@@ -207,7 +190,6 @@
                         <td valign="top" width="50%" align="center">&nbsp;</td>
                 	</tr>
                 </table>
->>>>>>> Thomas
               </div>
             </div>
           </div>
