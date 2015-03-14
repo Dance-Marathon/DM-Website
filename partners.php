@@ -29,8 +29,7 @@
           </ul>
         </div>
       </div>
-			<div class="col-md-8 col-md-push-1">
-      <?php if ($status == "open") { ?>
+	<div class="col-md-8 col-md-push-1">
   		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q1">
@@ -224,15 +223,15 @@
                 	<td valign="top">Beaver Toyota Gift Basket<br/>Maude's<br/>Old Sturbridge Village<br/>Wonderworks Orlando<br/>Hippodrome<br/>Complete Nutrition<br/>Corks and Colors<br/>Cordaroy's<br/>Pinner's Fine Shoes<br/>Alma Mater Design<br/>Harry's Seafood<br/>Peach Valley<br/>Tatu Sushi<br/>Vellos<br/>Panhellenic Council<br/></td>
                 	<td valign="top">Sisset's<br/>Pennington & Bailes<br/>Greek Divine & More<br/>PGA Tour<br/>Great Southern Music<br/>Exxon Mobile<br/>Party Time Rentals<br/>The Trophy Shop<br/>Otterbox<br/>Oriental Trading<br/>IRHA<br/>Firestone<br/>Sunflower Health Foods<br/>UBER<br/>Tan USA<br/></td>
                 	<td valign="top">Target<br/>Hoggtowne Music<br/>Social28<br/>Cymplify<br/>Celebrations Catering<br/>Bagels Unlimited<br/>43rd St. Deli<br/>Tijuana Flats<br/>352 Delivery<br/>Bagel Bakery<br/>Ballyhoos<br/>Campus Juice<br/>Firehouse Subs<br/>Bangkok Square<br/></td>
+                    </tr>
               </table>
              </div>
             </div>
           </div>
          </div>
         </div>
-      <?php } else { echo 'This page is currently closed.'; } ?>
-			</div>
-		</div>
+   		</div>
+	   </div>
 	</div>
 </div>
 
