@@ -24,7 +24,7 @@
 			<div class="col-md-6">
   			<h3>Live Stream</h3>
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="//www.youtube.com/watch?v=Iz_TYdJE-fM"></iframe>
+          <iframe class="embed-responsive-item" src="//www.youtube.com/v/lt_iXSfnxJc"></iframe>
         </div>
   		</div>
 			<div class="col-md-6">
