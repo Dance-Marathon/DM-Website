@@ -21,21 +21,17 @@
 <div class="page-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
-  			<h3>Live Stream</h3>
+			<div class="col-md-12">
+  			<h1 style="margin: 0 auto 40px; text-align: center">Live Stream</h1>
         <div class="embed-responsive embed-responsive-16by9">
           <iframe class="embed-responsive-item" src="//www.youtube.com/v/lt_iXSfnxJc"></iframe>
         </div>
   		</div>
-			<div class="col-md-6">
-        <h3>Floor Map</h3>
-        <div id="floor-map"><img src="assets/images/odome.png"></div>
-			</div>
 			<div class="col-md-12">
-  			<h3>Event Timeline</h3>
+  			<h1 style="margin: 66px auto 40px; text-align: center">Event Timeline</h1>
 
           <!-- Tab panes -->
-              <table class="table table-bordered">
+              <table class="table table-bordered" style="margin-bottom: 0">
                 <thead>
                   <tr>
                   	<th></th>
@@ -50,25 +46,6 @@
                 </thead>
           		<tbody>
                 	<tr>
-                    	<td class="col-sm-1">9:00 AM - 10:00 AM</td>
-                        <td class="col-sm-2"></td>
-                        <td class="col-sm-2"></td>
-                        <td class="col-sm-2">Dancer Check-In</td>
-                        <td class="col-sm-1"></td>
-                        <td class="col-sm-1"></td>
-                        <td class="col-sm-1"></td>
-                        <td class="col-sm-2"></td>
-                    </tr>
-                    <tr>
-                    	<td class="col-sm-2">10:00 AM - 11:00 AM</td>
-                        <td>Nomad Hotel</td>
-                        <td></td>
-                        <td>Dancer Check-In</td>
-                        <td>Snack #1</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
                     <tr>
                     	<td class="col-sm-2">11:00 AM - 12:00 PM</td>
                         <td></td>
@@ -201,7 +178,11 @@
                     </tr>
                 </tbody>
               </table>
-		</div>
+		  </div>
+			<div class="col-md-12">
+        <h1 style="margin: 66px auto 40px; text-align: center">Floor Map</h1>
+        <div id="floor-map" style="width: 50%; margin: 0 auto;"><img src="assets/images/odome.png"></div>
+			</div>
 	</div>
 </div>
 </div>
