@@ -54,7 +54,6 @@
           <ul>
             <li><a class="active">Community Events</a></li>
             <li><a href="/hsdm">High School DM</a></li>
-            <li><a href="/ft5k">FT5K 2015</a></li>
           </ul>
         </div>
       </div>

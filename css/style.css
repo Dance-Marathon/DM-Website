@@ -853,6 +853,14 @@ DEFAULT TEMPLATE STYLES
 .table-pricing ul {
   margin: 0;
 }
+/*
+-----------------------
+FOOTER STYLES
+-----------------------
+*/
+#floor-map {
+  height: 500px;
+}
 
 /*
 -----------------------
