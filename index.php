@@ -150,7 +150,7 @@
 <div class="counter">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 text-center heading newsletter">Dancing Starts In...</div>
+      <div class="col-md-12 text-center heading newsletter">Sitting Starts In...</div>
       <div class="col-md-12" id="countdown-wrapper"><div id="countdown"></div></div>
     </div>
   </div>

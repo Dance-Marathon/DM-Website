@@ -21,33 +21,15 @@
 <div class="page-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
-  			<h3>Live Stream</h3>
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="//www.youtube.com/v/lt_iXSfnxJc" allowfullscreen="1"></iframe>
-        </div>
-  		</div>
-			<div class="col-md-6">
-        <h3>Floor Map</h3>
-        <div id="floor-map"><img src="assets/images/odome.png"></div>
-			</div>
-			<div class="col-md-12">
+			<div class="col-md-12" id="data-replace">
   			<h3>Event Timeline</h3>
+  			<div id="loading"></div>
         <div role="tabpanel">
           <!-- Nav tabs -->
-          <ul class="nav nav-tabs" role="tablist">
-            <li role="presentation" class="active"><a href="#all" aria-controls="all" role="tab" data-toggle="tab">All</a></li>
-            <li role="presentation"><a href="#entertainment" aria-controls="entertainment" role="tab" data-toggle="tab">Entertainment</a></li>
-            <li role="presentation"><a href="#family" aria-controls="family" role="tab" data-toggle="tab">Family</a></li>
-            <li role="presentation"><a href="#general" aria-controls="general" role="tab" data-toggle="tab">General</a></li>
-            <li role="presentation"><a href="#hospitality" aria-controls="hospitality" role="tab" data-toggle="tab">Hospitality</a></li>
-            <li role="presentation"><a href="#linedance" aria-controls="linedance" role="tab" data-toggle="tab">Linedance</a></li>
-            <li role="presentation"><a href="#special" aria-controls="special" role="tab" data-toggle="tab">Special</a></li>
-            <li role="presentation"><a href="#theme-hour" aria-controls="theme-hour" role="tab" data-toggle="tab">Theme Hour</a></li>
-          </ul>
+          <ul class="nav nav-tabs" id="load-nav" role="tablist"></ul>
           <!-- Tab panes -->
-          <div class="tab-content">
-            <div role="tabpanel" class="tab-pane fade in active" id="all">
+          <div class="tab-content" id="load-content">
+            <div role="tabpanel" class="tab-pane fade in active">
               <table class="table table-bordered">
                 <thead>
                   <tr>
@@ -76,5 +58,32 @@
 		</div>
 	</div>
 </div>
+
+<script type="text/javascript">  
+jQuery(document).ready(function() {
+	 var url = "http://dev.floridadm.org/app/events.php";
+	 var events;
+   $("html,body").promise().done(function(){
+      $("#data-replace").css({ opacity: 0.5 });
+      $("#loading").show();
+      $.ajax({
+      	url: url,
+      	data: $(this).serialize()
+      }).done(function(data) {
+      	$("#data-replace").animate({opacity: 0}, 200);
+      	$("#loading").hide();
+      	$("#data-replace").promise().done(function(){
+        	var arrayLength = data.length;
+        	var tabCategories, tabNav, tabContent;
+          for (var i = 0; i < arrayLength; i++) {
+            tabCategories = ;
+          }
+      		$("#data-replace #load-nav").html(tabCategories);
+      		$("#data-replace").animate({opacity: 1}, 200);
+      	});
+      });
+  });
+});
+</script>
 
 <?php include("includes/foot.php"); ?>
