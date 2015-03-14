@@ -668,7 +668,7 @@ DEFAULT TEMPLATE STYLES
   text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
 .page-heading.parallax {
-  margin: 4px 0 60px;
+  margin: 0 0 60px;
   border-bottom: 4px solid #f79b63;
 }
 .page-heading.parallax.e404 {
