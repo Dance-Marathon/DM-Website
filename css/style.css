@@ -858,8 +858,8 @@ DEFAULT TEMPLATE STYLES
 FOOTER STYLES
 -----------------------
 */
-#floor-map {
-  height: 500px;
+#floor-map img{
+  width: 100%;
 }
 
 /*
