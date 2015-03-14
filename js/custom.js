@@ -65,7 +65,7 @@
 			
 			// Homepage DM countdown
       var currentDate = new Date();
-			var futureDate  = new Date("March 16, 2015 14:15:00");
+			var futureDate  = new Date("March 15, 2015 14:15:00");
 			var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
 			jQuery('#countdown').FlipClock(diff, {
 			  clockFace: 'DailyCounter',
