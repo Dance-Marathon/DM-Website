@@ -73,12 +73,12 @@ jQuery(document).ready(function() {
       	$("#data-replace").animate({opacity: 0}, 200);
       	$("#loading").hide();
       	$("#data-replace").promise().done(function(){
-        	var arrayLength = data.length;
-        	var tabCategories, tabNav, tabContent;
-          for (var i = 0; i < arrayLength; i++) {
-            tabCategories = ;
+        	var tabCategories, tabNav, tabContent, dataObj;
+          for (var i = 0; i < data.length; i++) {
+            dataObj = data[i];
+            console.log(dataObj.category);
           }
-      		$("#data-replace #load-nav").html(tabCategories);
+      		//$("#data-replace #load-nav").html(tabCategories);
       		$("#data-replace").animate({opacity: 1}, 200);
       	});
       });
