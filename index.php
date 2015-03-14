@@ -118,7 +118,7 @@
         <i class="fa icon-shirt"></i>
         <h3>Silent Auction</h3>
         <p>Check out the awesome items available in our silent auction! From exotic vacations to Tiffany's jewelry, we've got anything you could want. And the best part is that it's all For The Kids!</p>
-        <p><div class="btn btn-default">Shop Now</div></p>
+        <p><a class="btn btn-default" href="https://www.winningcause.org/dancemarathonatuf/" role="button">Learn More</a></p>
       </div>
 <!--
       <div class="col-md-3">
