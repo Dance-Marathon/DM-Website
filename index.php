@@ -103,8 +103,11 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
+<!--
       <p><a class="btn btn-default" style="font-size: 36px; padding: 12px 32px; border: 3px solid;" href="dm2015">Follow the event live here!</a></p>
       <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
+-->
+      <p>Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
     </div>
   </div>
 </div>
