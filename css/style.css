@@ -525,10 +525,10 @@ SPONSOR LEVELS PAGE
 }
 .sponsor > li {
   position: relative;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 .sponsor > li.level-1 {
-  margin-bottom: 100px;
+  margin-bottom: 40px;
 }
 .sponsor > li:before,
 .sponsor > li:after {
@@ -539,7 +539,7 @@ SPONSOR LEVELS PAGE
   clear: both;
 }
 .sponsor-panel {
-  width: 42%;
+  width: 38%;
   float: left;
   background-color: #f5f5f5;
   border-radius: 5px;
@@ -556,7 +556,7 @@ SPONSOR LEVELS PAGE
   transition: all 200ms;
 }
 .level-1 .sponsor-panel {
-  width: 40%;
+  width: 35%;
   min-height: 160px;
 }
 .sponsor-circle {
@@ -604,12 +604,12 @@ SPONSOR LEVELS PAGE
   left: 0;
   top: 60px;
   margin-top: -10px;
-  margin-left: 42%;
+  margin-left: 38%;
   border-left: 12px solid #f5f5f5;
 }
 .level-1 .sponsor-panel.left:before {
   top: 80px;
-  margin-left: 40%;
+  margin-left: 35%;
   margin-top: -10px;
 }
 .sponsor-panel.right {
@@ -619,7 +619,7 @@ SPONSOR LEVELS PAGE
   right: 0;
   top: 60px;
   margin-top: -10px;
-  margin-right: 42%;
+  margin-right: 38%;
   border-right: 12px solid #f5f5f5;
 }
 /*
