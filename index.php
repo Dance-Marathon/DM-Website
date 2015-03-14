@@ -15,9 +15,11 @@
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li>
+<!--
         <li data-target="#top-carousel" data-slide-to="6"></li>
         <li data-target="#top-carousel" data-slide-to="7"></li>
         <li data-target="#top-carousel" data-slide-to="8"></li>
+-->
       </ol>
       <div class="carousel-inner">
         <div class="item active item-with-caption">
@@ -57,9 +59,11 @@
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/Event-Invite.jpg">
         </div>
+<!--
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/ThemeReveal2.jpg">
         </div>
+-->
         <div class="item">
           <a href="https://www.winningcause.org/dancemarathonatuf" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/silentauction_website-01.jpg"></a>
         </div>  
@@ -69,12 +73,16 @@
         <div class="item">
           <a id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
         </div>        
+<!--
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/March_Web-01.jpg">
         </div>       
+-->
+<!--
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/cover2.jpg">
         </div>
+-->
       </div> <!-- End Carousel Inner -->
 
       <!-- Controls -->
@@ -95,7 +103,8 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
-      <p>Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
+      <p><a class="btn btn-default" style="font-size: 36px; padding: 12px 32px; border: 3px solid;" href="dm2015">Follow the event live here!</a></p>
+      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
     </div>
   </div>
 </div>
@@ -118,7 +127,7 @@
         <i class="fa icon-shirt"></i>
         <h3>Silent Auction</h3>
         <p>Check out the awesome items available in our silent auction! From exotic vacations to Tiffany's jewelry, we've got anything you could want. And the best part is that it's all For The Kids!</p>
-        <p><a class="btn btn-default" href="https://www.winningcause.org/dancemarathonatuf/" role="button">Learn More</a></p>
+        <p><a class="btn btn-default" href="https://www.winningcause.org/dancemarathonatuf/" role="button">Shop Now</a></p>
       </div>
 <!--
       <div class="col-md-3">
