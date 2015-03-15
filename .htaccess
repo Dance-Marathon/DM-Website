@@ -7,3 +7,4 @@ RewriteRule ^([^/.]+)$ $1.php [L]
 
 # Redirect 
 Redirect 301 /silent-auction https://www.winningcause.org/dancemarathonatuf/
+Redirect 301 /DM2015 /dm2015
