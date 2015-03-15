@@ -86,22 +86,26 @@ jQuery(document).ready(function() {
         for (var j = 0; j < data.length; j++) {
           dataObj = data[j];
           
-          a = dataObj.endDate.split(' ');
-          b = a[0].split('-');
-          c = a[1].split(':');
+          a1 = dataObj.endDate.split(' ');
+          b1 = a1[0].split('-');
+          c1 = a1[1].split(':');
+          var timeEnd = new Date(b1[0], b1[1]-1, b1[2], c1[0], c1[1], c1[2]);
           
-          var timeEnd = new Date(b[0], b[1]-1, b[2], c[0], c[1], c[2]);
-          
+          a2 = dataObj.startDate.split(' ');
+          b2 = a2[0].split('-');
+          c2 = a2[1].split(':');
+          var timeStart= new Date(b2[0], b2[1]-1, b2[2], c2[0], c2[1], c2[2]);
+
           // save the data for the matching event
           if (timeEnd > timeNow) {
             allData[k] = new Array();
-            allData[k].push(dataObj.title, dataObj.category, dataObj.startDate, timeEnd);
+            allData[k].push(dataObj.title, dataObj.category, timeStart, timeEnd);
             k++;
           }
         }
         
         allData.sort(function(x, y){
-          return x[3] - y[3];
+          return x[2] - y[2];
         })
         
         // build tab content HTML
@@ -137,25 +141,29 @@ jQuery(document).ready(function() {
           for (var j = 0; j < data.length; j++) {
             dataObj = data[j];
             
-            a = dataObj.endDate.split(' ');
-            b = a[0].split('-');
-            c = a[1].split(':');
+            a1 = dataObj.endDate.split(' ');
+            b1 = a1[0].split('-');
+            c1 = a1[1].split(':');
+            var timeEnd = new Date(b1[0], b1[1]-1, b1[2], c1[0], c1[1], c1[2]);
             
-            var timeEnd = new Date(b[0], b[1]-1, b[2], c[0], c[1], c[2]);
-            
+            a2 = dataObj.startDate.split(' ');
+            b2 = a2[0].split('-');
+            c2 = a2[1].split(':');
+            var timeStart= new Date(b2[0], b2[1]-1, b2[2], c2[0], c2[1], c2[2]);
+                        
             // check if the current event category matches the current tab category and if the event is over
             if (dataObj.category == uniqueTabCategories[i]) {
               if (timeEnd > timeNow) {
                 relevantData[i][k] = new Array();
                 // save the data for the matching event
-                relevantData[i][k].push(dataObj.title, dataObj.category, dataObj.startDate, timeEnd);
+                relevantData[i][k].push(dataObj.title, dataObj.category, timeStart, timeEnd);
                 k++;
               }
             }
           }
           
           relevantData[i].sort(function(x, y){
-            return x[3] - y[3];
+            return x[2] - y[2];
           })
           
           // build tab content HTML
