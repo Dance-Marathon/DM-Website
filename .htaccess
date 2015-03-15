@@ -7,9 +7,3 @@ RewriteRule ^([^/.]+)$ $1.php [L]
 
 # Redirect 
 Redirect 301 /silent-auction https://www.winningcause.org/dancemarathonatuf/
-
-# force url to lowercase if upper case is found
-RewriteCond %{REQUEST_URI} [A-Z]
-# ensure it is not a file on the drive first
-RewriteCond %{REQUEST_FILENAME} !-s
-RewriteRule (.*) rewrite-strtolower.php?rewrite-strtolower-url=$1 [QSA,L]
