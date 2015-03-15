@@ -855,12 +855,28 @@ DEFAULT TEMPLATE STYLES
 }
 /*
 -----------------------
-FOOTER STYLES
+EVENT PAGE
 -----------------------
 */
 #floor-map img{
   width: 100%;
 }
+.huge-button {
+  font-size: 24px;
+  padding: 12px 32px;
+  border: 3px solid;
+}
+@media (min-width: 768px) {
+  .huge-button {
+    font-size: 30px;
+  }
+}
+@media (min-width: 992px) {
+  .huge-button {
+    font-size: 36px;
+  }
+}
+
 
 /*
 -----------------------
