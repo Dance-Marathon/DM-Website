@@ -84,7 +84,6 @@ jQuery(document).ready(function() {
         // write first tab content
         var k = 0;
         for (var j = 0; j < data.length; j++) {
-          allData[k] = new Array();
           dataObj = data[j];
           
           a = dataObj.endDate.split(' ');
@@ -95,10 +94,15 @@ jQuery(document).ready(function() {
           
           // save the data for the matching event
           if (timeEnd > timeNow) {
-            allData[k].push(dataObj.title, dataObj.category, dataObj.startDate, dataObj.endDate);
+            allData[k] = new Array();
+            allData[k].push(dataObj.title, dataObj.category, dataObj.startDate, timeEnd);
             k++;
           }
         }
+        
+        allData.sort(function(x, y){
+          return x[3] - y[3];
+        })
         
         // build tab content HTML
         firstTabContent = '<div role="tabpanel" class="tab-pane fade in active" id="all"><table class="table table-bordered"><thead><tr><th class="col-xs-4">Time</th><th class="col-xs-8">Event</th></tr></thead><tbody>';
@@ -144,12 +148,15 @@ jQuery(document).ready(function() {
               if (timeEnd > timeNow) {
                 relevantData[i][k] = new Array();
                 // save the data for the matching event
-                relevantData[i][k].push(dataObj.title, dataObj.category, dataObj.startDate, dataObj.endDate);
+                relevantData[i][k].push(dataObj.title, dataObj.category, dataObj.startDate, timeEnd);
                 k++;
               }
             }
-          
           }
+          
+          relevantData[i].sort(function(x, y){
+            return x[3] - y[3];
+          })
           
           // build tab content HTML
           tabContent[i] = '<div role="tabpanel" class="tab-pane fade" id="'+uniqueTabCategoriesEncoded[i]+'"><table class="table table-bordered"><thead><tr><th class="col-xs-4">Time</th><th class="col-xs-8">Event</th></tr></thead><tbody>'
