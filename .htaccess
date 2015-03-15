@@ -1,10 +1,10 @@
 RewriteEngine On
+CheckCaseOnly On
 
 ErrorDocument 404 /404.php
 
 # Resolve .php file for extensionless php urls
 RewriteRule ^([^/.]+)$ $1.php [L]
 
-# Redirect 
+# Redirects
 Redirect 301 /silent-auction https://www.winningcause.org/dancemarathonatuf/
-Redirect 301 /DM2015 /dm2015
