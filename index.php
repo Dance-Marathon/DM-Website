@@ -71,7 +71,7 @@
           <img class="img-responsive img-full"  src="assets/images/slider/jailbreak_website-01.jpg">
         </div>
         <div class="item">
-          <a id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
+          <a href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
         </div>        
 <!--
         <div class="item">
@@ -95,7 +95,6 @@
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
-
     </div>
   </div>
 </div>
@@ -103,9 +102,8 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
-      <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p>
-      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
-<!--       <p>Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p> -->
+<!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
+      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and just celebrated<br />its 21st year. This year, DM at UF was held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us next year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
     </div>
   </div>
 </div>
@@ -124,20 +122,20 @@
         <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
         <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
       </div>
+<!--
       <div class="col-md-3">
         <i class="fa icon-shirt"></i>
         <h3>Silent Auction</h3>
         <p>Check out the awesome items available in our silent auction! From exotic vacations to Tiffany's jewelry, we've got anything you could want. And the best part is that it's all For The Kids!</p>
         <p><a class="btn btn-default" href="https://www.winningcause.org/dancemarathonatuf/" role="button" target="_blank">Shop Now</a></p>
       </div>
-<!--
+-->
       <div class="col-md-3">
         <i class="fa fa-mobile" style="font-size: 52px; line-height: 40px;"></i>
         <h3>DM App</h3>
         <p>Get the latest DM updates, learn about our miracle kids, play DM heads up, and more with our new DM app!</p>
         <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
       </div>
--->
       <div class="col-md-3">
         <i class="fa fa-heart"></i>
         <h3>Miracle Families</h3>
@@ -150,7 +148,7 @@
 <div class="counter">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 text-center heading newsletter">Sitting Starts In...</div>
+      <div class="col-md-12 text-center heading newsletter">Dancing Starts In...</div>
       <div class="col-md-12" id="countdown-wrapper"><div id="countdown"></div></div>
     </div>
   </div>
