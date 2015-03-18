@@ -49,9 +49,9 @@
         
         <h3>Total Hours Danced</h3>
         <p>
-          <b>599.4</b> hours
+          <b>625.6</b> hours
           <br/>
-          <b>345,466.2</b> hours by all of our dancers <b>combined</b>
+          <b>367,081.2</b> hours by all of our dancers <b>combined</b>
           <br/>
           Year that DM at UF started: <b>1995</b>
         </p>
@@ -64,13 +64,13 @@
           <br/>
           Number of Staff: <b>1,030</b>
           <br/>
-          Number of participants in total (including Overalls, Captains, Dancers and Staff): <b>2,197</b>
+          Number of participants in total (including Overalls, Captains, Dancers and Staff): <b>6,833</b>
           <br/>
           Number of Miracle Families: <b>54</b>
           <br/>
           Number of Sponsors: <b>107</b>
           <br/>
-          Most Years as a Dancer: <b>11 years, Matt Michel</b>
+          Most Years as a Dancer: <b>12 years, Matt Michel</b>
         </p>
         
         <h3>Fundraising</h3>
@@ -79,9 +79,9 @@
           <br/>
           <b>4,468</b> fundraisers raised at least $1
           <br/>
-          Amount raised in 2014: <b>$1,528,330.16</b>
+          Amount raised in 2015: <b>$2,015,307.17</b>
           <br/>
-          Total amount raised in past 20 years: more than <b>$8 million</b> ($8,081,394)
+          Total amount raised in past 20 years: more than <b>$10 million</b> ($10,096,701)
           <br/>
           Community Events: <b>5 events</b> - Bowling, Kickball, Food Truck Rally, FT5K, FTKarnival
         </p>

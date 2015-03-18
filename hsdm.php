@@ -47,7 +47,7 @@
 			'url' => 'http://www.edline.net/pages/wellington_high_school',
             ),
         array(
-            'name' => '<b>Gainesville High School</b><br/>March 13th<br/>Gainesville, FL',
+            'name' => '<b>Gainesville High School</b><br/><font style="color: #003">Total Raised: <b>$9,252.87</b></font><br/>Gainesville, FL',
             'image' => 'hsdm9.jpg',
 			'url' => 'http://gainesville.sbac.edu/pages/GHS0151',
             ),

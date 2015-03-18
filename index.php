@@ -12,10 +12,10 @@
         <li data-target="#top-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#top-carousel" data-slide-to="1"></li>
         <li data-target="#top-carousel" data-slide-to="2"></li>
+<!--
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
-        <li data-target="#top-carousel" data-slide-to="5"></li>
-<!--
+        <li data-target="#top-carousel" data-slide-to="5"></li> 
         <li data-target="#top-carousel" data-slide-to="6"></li>
         <li data-target="#top-carousel" data-slide-to="7"></li>
         <li data-target="#top-carousel" data-slide-to="8"></li>
@@ -23,7 +23,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active item-with-caption">
-          <img class="img-responsive img-full"  src="assets/images/slider/cover.jpg">
+          <img class="img-responsive img-full"  src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <div class="col-md-6">
@@ -33,14 +33,14 @@
               </div>
               <div class="col-md-6">
                 <h2 style="color: #fff; font-size: 3em;" class="student-title"><span id="student-counter">0</span>Students Making Miracles</h2>
-                <a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670" target="_blank" class="top_btn">Donate Now</a>
+                <!--<a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670" target="_blank" class="top_btn">Donate Now</a>-->
               </div>
             </div>
           </div>
         </div>
         <!-- End Item -->
         <div class="item item-with-caption">
-          <img class="img-responsive img-full" src="assets/images/slider/cover.jpg">
+          <img class="img-responsive img-full" src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
             <div class="row">
               <div class="col-md-6">
@@ -55,34 +55,15 @@
             </div>
           </div>
         </div>
-        <!-- End Item -->
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/Event-Invite.jpg">
-        </div>
-<!--
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/ThemeReveal2.jpg">
-        </div>
--->
-        <div class="item">
-          <a href="https://www.winningcause.org/dancemarathonatuf" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/silentauction_website-01.jpg"></a>
-        </div>  
-        <div class="item">
+        <!-- End Item --> 
+<!--    <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/jailbreak_website-01.jpg">
         </div>
+-->
         <div class="item">
           <a href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
         </div>        
-<!--
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/March_Web-01.jpg">
-        </div>       
--->
-<!--
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/cover2.jpg">
-        </div>
--->
+
       </div> <!-- End Carousel Inner -->
 
       <!-- Controls -->
