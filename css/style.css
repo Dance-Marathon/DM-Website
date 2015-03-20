@@ -742,6 +742,9 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.meet-the-overalls {
   background-image: url("/assets/images/sectionbg/overall.jpg");
 }
+.page-heading.parallax.overall-applications {
+  background-image: url("/assets/images/sectionbg/overallapp.jpg");
+}
 .page-heading.parallax.family {
   background-image: url("/assets/images/sectionbg/family.jpg");
 }

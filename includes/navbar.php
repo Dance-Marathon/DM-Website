@@ -24,13 +24,13 @@
 				<li <?php echo ($parent == 'get-involved') ? "class='open'" : ""; ?>>
 					<a href="/get-involved" class="dropdown-toggle"  >Get Involved</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="http://floridadm.kintera.org/faf/home/waiver.asp?ievent=1114670&lis=1&kntae1114670=49B319BD1C5D464982B0286ECCA2EBEB" target="_blank">Register to Fundraise</a></li>
+<!--						<li><a href="http://floridadm.kintera.org/faf/home/waiver.asp?ievent=1114670&lis=1&kntae1114670=49B319BD1C5D464982B0286ECCA2EBEB" target="_blank">Register to Fundraise</a></li>-->
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-<!-- 						<li><a href="/dmrave">DM 2015 Rave Hour</a></li> -->
+						<li><a href="/overall-applications">Overall Applications</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'family') ? "class='open'" : ""; ?>>
