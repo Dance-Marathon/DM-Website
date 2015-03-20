@@ -1,17 +1,17 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Overall Application | Get Involved | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Overall Applications | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax get-involved">
+<div class="page-heading parallax overall-applications">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Overall Application</h1>
+    			<h1>Overall Applications</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -40,16 +40,14 @@
         <p>Every year, Dance Marathon at UF strives to grow and improve. For DM 2016, we are excited to announce changes to our Overall Team to help us make bigger and better miracles happen For the Kids!</p>
 		<p>As reflected on the application, both <i>Art & Layout and Technology</i> teams are no longer. We have redistributed responsibilities into two new teams: <b>Creative Development and Multimedia</b>.</p>
 		<p>Additionally, the Marketing team has been revamped into 2 new teams: <b>Merchandise and Sponsorships</b>.<p>
-		<p>Please be sure to read over the OT application for more details about responsibilities and expectations for each team.</p></br>
-
+		<p>Please be sure to read over the OT application for more details about responsibilities and expectations for each team.</p>
 		<ul>
-			<li><a href="/Documents/2016ManagerApplication.pdf">2016 Manager Application</a></li>
-			<li><a href="/Documents/2016OTApplication.pdf">2016 OT Application</a></li>
+			<li><a href="/Documents/2016ManagerApplication.pdf" target="_blank">2016 Manager Application</a></li>
+			<li><a href="/Documents/2016OTApplication.pdf" target="_blank">2016 OT Application</a></li>
 		</ul>
-
         <p>Please direct all inquiries to Nha-Uyen Hua, current Internal Communications Overall Director at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a>.</p>
       <?php } else { ?>
-        <p class="alert alert-info"><b>Note:</b> Staff applications are closed.</p>
+        <p class="alert alert-info"><b>Note:</b> Overall applications are closed.</p>
         <p>Please direct all inquiries to  Nha-Uyen Hua, current Internal Communications Overall Director at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a>.</p>
       <?php } ?>
       </div>
