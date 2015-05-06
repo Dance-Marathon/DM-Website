@@ -131,6 +131,10 @@
       'link'          =>  ''
     ),
     array(
+      'organization'  =>  'Alpha Epsilon Phi',
+      'link'          =>  ''
+    ),
+    array(
       'organization'  =>  'Alpha Gamma Rho',
       'link'          =>  ''
     ),
