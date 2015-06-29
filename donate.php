@@ -1,3 +1,3 @@
 <?php
-    header("Location: http://floridadm.kintera.org/");
+    header("Location: http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786");
 ?>
