@@ -202,7 +202,7 @@
       'image'                 =>  'Replacement'
     ),
     array(
-      'name'                  =>  'Arielle Darvien',
+      'name'                  =>  'Arielle Darvin',
       'position'              =>  'Morale Overall ',
       'email'                 =>  'adarvin@floridadm.org',
       'previous_involvement'  =>  'Morale Captain',
@@ -220,15 +220,15 @@
       'name'                  =>  'Brad Wheeler',
       'position'              =>  'Operations Overall',
       'email'                 =>  'bwheeler@floridadm.org',
-      'previous_involvement'  =>  'Operations Captain',
-      'major'                 =>  '',
+      'previous_involvement'  =>  'Dancer, Two-year Operations Captain',
+      'major'                 =>  'Mechanical Engineering',
       'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
+      'hometown'              =>  'Tallahassee, FL',
+      'outside_involvement'   =>  'Member of Theta Chi Fraternity, Previous Chairman of Student Government Productions',
+      'free_time'             =>  'I coach youth travel lacrosse in my free time. I also enjoy woodworking, gardening, and hunting.',
+      'fun_fact'              =>  'I am a proud owner of a hedgehog named Spud.',
       'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
+      'motivation'            =>  '<p>What motivates me is seeing how much Dance Marathon and Children&#39;s Miracle Network does for the Miracle Children and their families by supplying them with not only the best doctors, but with smiles on their faces and beds to sleep on at night.</p>',
       'image'                 =>  'Replacement'
     ),
     array(
