@@ -43,7 +43,7 @@
       'previous_involvement'  =>  'Marketing Captain, Recruitment Captain, Recruitment Overall',
       'major'                 =>  'Management',
       'minor'                 =>  '',
-      'hometown'              =>  'Wellington, TL',
+      'hometown'              =>  'Wellington, FL',
       'outside_involvement'   =>  'Panhellenic Council',
       'free_time'             =>  'I like to exercise, cook food and travel',
       'fun_fact'              =>  'I pole vaulted in high school.',
@@ -55,16 +55,16 @@
       'name'                  =>  'Garrett Robertson',
       'position'              =>  'Finance Overall',
       'email'                 =>  'grobertson@floridadm.org',
-      'previous_involvement'  =>  'Finance Captain',
-      'major'                 =>  '',
-      'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'previous_involvement'  =>  'Dancer, Operations Staff, Finance Captain',
+      'major'                 =>  'Business Economics and International Studies',
+      'minor'                 =>  'Spanish',
+      'hometown'              =>  'Tampa, FL',
+      'outside_involvement'   =>  'Gainesville Reads, Student Government, Reitz Scholars, Florida Blue Key',
+      'free_time'             =>  'I like to exercise, hangout with friends, watch netflix, or any combination of the three.',
+      'fun_fact'              =>  'I love to travel and have been to 19 countries and 20 states',
+      'favorite_memory'       =>  '<p>As a Finance Captain, during the event all of us are stuck in a back room counting coins and inputing checks. We didn&#39;t have much interaction with people outside of our room, but at one point in the evening the miracle children had a scavenger hunt, and one of their clues led them to the finance room. It was the greatest thing to see their smiling faces all come in and greet us, they were so appreciative of everything we were doing. It really put into perspective that every dollar raised is a miracle, and I&#39;m so happy to do anything for the kids.</p>',
+      'motivation'            =>  '<p>Dance Marathon is something that grows on you a little bit everyday, from meeting families, to seeing what our fundraising directly goes to, its just always on your mind. Knowing that I can make a positive impact in someone else&#39;s life by doing something I love is the best thing in the world. I&#39;m motivated by all of the good DM has done, and the boundaries we continuously push to make DM at UF even greater.</p>',
+      'image'                 =>  'Garrett'
     ),
     array(
       'name'                  =>  'Leland Van Alstyne',
@@ -85,16 +85,17 @@
       'name'                  =>  'Matthew Weider',
       'position'              =>  'Community Events Overall',
       'email'                 =>  'mweider@floridadm.org',
-      'previous_involvement'  =>  'Community Events Captain',
-      'major'                 =>  '',
+      'previous_involvement'  =>  'Two-year Entertainment Captain, Community Events Captain',
+      'major'                 =>  'Health Administration',
       'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'hometown'              =>  'Plantation, FL',
+      'outside_involvement'   =>  'Health Administration Student Association ',
+      'free_time'             =>  'I enjoy sailing, jet skiing, paddle boarding, rock climbing, exercising and finding great restaurants in Gainesville.',
+      'fun_fact'              =>  'I am one of the most accident-prone people you will ever meet; seriously I trip over my own two feet, yet I haven&#39;t broken a bone!',
+      'favorite_memory'       =>  '<p>Hands down it has to be during my first year as a captain. During the wee hours of Sunday morning- sometime between 4 or 5 am- one of the final acts goes on stage. Once the act got announced over the speakers in the O&#39;Dome, I swear I saw the dancers bodies move toward the stage before their heads did. It sent me reeling for a few minutes, then the strangest thing happened. I saw their faces start to light up as the act started to play and it was in that moment that I realized how important the music and bands were to keeping the dancers motivated and on their feet. </p>',
+      'motivation'            =>  '<p>During my first year as a captain, I had no idea what I was getting myself into and I had not interacted with many miracle families at that point. All I knew was that the money I was raising was going to help sick kids in the hospital.  During my first fall as a captain, I went on a tour of the hospital, as they were showing us around the children&#39;s wing we passed by a party they were having for the Miracle Children. Out of no where Nate comes racing out of the room, oxygen tank in tow, stops in front of a painting he liked and then proceeds to start climbing on his oxygen tank to get a closer look. While this was occurring, I was freaking out in my head that he was going to fall and injure himself, but afterwards I realized that these Miracle Children are just like every other kid their age despite their illnesses. I was amazed that despite everything that they had been through, they still acted like any other little kid and were excited about life and the day before them.  This was something I had never seen before and I admired them for it. It was this moment that I was able to put a face to the cause and when I became committed to doing everything I could for these kids. This was when the miracle children became my heroes!</p> 
+                                  <p>From Nate blasting out of that room, to Nick winning bowling championships after championships, to little Isabella taking wobbly steps at the 5K this year, these kids are the reason why I continue to support Dance Marathon and Children’s Miracle Network. To support the little heroes I have seen and because of the possibilities of curing some of these diseases for good. I am a Dance Marathon junkie, fanatic, enthusiast and will continue to give 110 percent for them. </p>',
+      'image'                 =>  'Matt'
     ),
     array(
       'name'                  =>  'Jenna Glick',
@@ -145,31 +146,31 @@
       'name'                  =>  'Alexa Podolsky',
       'position'              =>  'Hospitality Overall',
       'email'                 =>  'apodolsky@floridadm.org',
-      'previous_involvement'  =>  'Hospitality Captain',
-      'major'                 =>  '',
-      'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'previous_involvement'  =>  'Dancer, Two-year Hospitality Captain',
+      'major'                 =>  'Food Science and Masters in Management',
+      'minor'                 =>  'Packaging Science',
+      'hometown'              =>  'Weston, FL',
+      'outside_involvement'   =>  'Food Science and Human Nutrition Club, Alpha Epsilon Phi Sorority',
+      'free_time'             =>  'Hang out with friends and family, cook (and eat!)',
+      'fun_fact'              =>  'I like every food except olives and pickles',
+      'favorite_memory'       =>  '<p>Freshman year, seeing the 1.15 million dollar total go up, and the instant tears which followed</p>',
+      'motivation'            =>  '<p>The Kids! Being with them, seeing their ups and downs, and knowing I can make a difference.</p>',
+      'image'                 =>  'Alexa'
     ),
     array(
       'name'                  =>  'Drew Carlton',
       'position'              =>  'Marathon Relations Overall ',
       'email'                 =>  'dcarlton@floridadm.org',
-      'previous_involvement'  =>  'Marathon Relations Captain',
-      'major'                 =>  '',
-      'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'previous_involvement'  =>  'Dancer,Marathon Relations Captain',
+      'major'                 =>  'Microbiology and Cell Science',
+      'minor'                 =>  'Business Administration',
+      'hometown'              =>  'Sanibel, FL',
+      'outside_involvement'   =>  'In addition to my position on the Overall Team, I am an active member of the Florida Cicerones, the official student ambassadors of UF where I serve as the committee chair for Dance Marathon within the organization. I am a member of the Sigma Chi fraternity having served as Rush Chair, Public Relations Chair and responsible for organizing the Derby Days Philanthropy benefiting Shand’s Children Miracle Network Hospital and the Huntsman Cancer Foundation. I also remain involved within the Honors Program, HHMI undergraduate research organization, volunteer at the American Cancer Society and have served as an Assistant Director for Gator Growl. ',
+      'free_time'             =>  'What’s free time? I do my best to run and workout, spend my time long boarding, hearing live music, playing sports and going to the beach.  ',
+      'fun_fact'              =>  'I have 14 siblings. Yes, 14. I’m also red and green color-blind.',
+      'favorite_memory'       =>  '<p>My favorite DM memory comes from a High School Dance Marathon when I first met Zander, one of the miracle children. Throughout my life I have had the great benefit of watching my younger siblings grow up. One of the most moving experiences is understanding that within every child is the sole desire to be a kid - to be carefree, imaginative and love with boundaries. Despite Zander’s condition, he will continue to play until he physically needs to stop. As we were playing a game during one of the theme hours, I saw within him the sole desire to be like every other kid. His positivity, love of life, and unending strength that day will remain one of my favorite memories. </p>',
+      'motivation'            =>  '<p>I had class one semester in Shands Medical Sciences Building, the same area where the Children&#39;s Miracle Network Hospital is located. Every day that I walked to class I would pass by a plaque on the wall with a quote from Winston Churchill that read, “We make a living by what we get, but we make a life by what we give.” Dance Marathon has given me the opportunity to make a life. In my opinion, everyone has a favorite word whether they realize it or not. Mine happens to be a relatively simple four-letter word we whisper to ourselves and echo through our lives: hope. Hope is how Dance Marathon is able to give, grow and impact the lives of so many individuals. Hope is what drives research, fuels Healthcare and inspires every person to become involved within this organization. I hope for a cure and a day that I will no longer need to dance, but until then I will work tirelessly to pursue a life in medicine and fuel the hope that I see within every miracle child’s face.</p>',
+      'image'                 =>  'Drew'
     ),
     array(
       'name'                  =>  'Allison Stroop',
@@ -190,16 +191,16 @@
       'name'                  =>  'Torrie Scianna',
       'position'              =>  'Sponsorhip Overall',
       'email'                 =>  'tscianna@floridadm.org',
-      'previous_involvement'  =>  'Marketing Captain',
-      'major'                 =>  '',
-      'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'previous_involvement'  =>  'Dancer Relations Staff, Two-year Marketing Captain',
+      'major'                 =>  'Finance',
+      'minor'                 =>  'Communications',
+      'hometown'              =>  'Winter Park, FL',
+      'outside_involvement'   =>  'Sigma Kappa Sorority',
+      'free_time'             =>  'In my spare time I love to spend time with friends. You can usually find us exploring new trails and parks in Gainesville. If we&#39;re not hiking we&#39;re definitely relaxing in our ENO hammocks. If I&#39;m not outside, I&#39;m probably cooking, reading, or watching Netflix.',
+      'fun_fact'              =>  'Most people have one row of eyelashes, but I have two!',
+      'favorite_memory'       =>  '<p>My favorite DM memory was dancing on stage with Nick Mullen during the family talent show. Seeing how much we could really support these kids to live their dreams and give them the confidence they often lack due to their differences from other kids their age was amazing. When we got off stage he couldn&#39;t stop crying because he was so happy we performed with him and it was such a special moment. </p>',
+      'motivation'            =>  '<p>Our amazing miracle children and families are what motivate me. Throughout my involvement with DM at UF I have built lasting relationships with them. They never let us forget how much our efforts and support mean to them and so many other families treated at UF Health Shands Children&#39;s Hospital. I am motivated to work even harder knowing we are giving these kids the childhood they deserve. </p>',
+      'image'                 =>  'Torrie'
     ),
     array(
       'name'                  =>  'Arielle Darvin',
@@ -224,7 +225,7 @@
       'major'                 =>  'Mechanical Engineering',
       'minor'                 =>  '',
       'hometown'              =>  'Tallahassee, FL',
-      'outside_involvement'   =>  'Member of Theta Chi Fraternity, Previous Chairman of Student Government Productions',
+      'outside_involvement'   =>  'Theta Chi Fraternity, Previous Chairman of Student Government Productions',
       'free_time'             =>  'I coach youth travel lacrosse in my free time. I also enjoy woodworking, gardening, and hunting.',
       'fun_fact'              =>  'I am a proud owner of a hedgehog named Spud.',
       'favorite_memory'       =>  '<p></p>',
@@ -269,7 +270,7 @@
       'major'                 =>  'Computer Science',
       'minor'                 =>  'Business Administration',
       'hometown'              =>  'Clearwater Beach, FL',
-      'outside_involvement'   =>  '',
+      'outside_involvement'   =>  'Delta Tau Delta Fraternity',
       'free_time'             =>  '',
       'fun_fact'              =>  '',
       'favorite_memory'       =>  '<p></p>',
@@ -297,13 +298,13 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-<!--            <li><a href="http://floridadm.kintera.org/faf/home/waiver.asp?ievent=1114670&lis=1&kntae1114670=49B319BD1C5D464982B0286ECCA2EBEB" target="_blank">Register to Fundraise</a></li>-->
+            <li><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank">Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams" >Captain Teams</a></li>
 						<li><a class="active">Meet the Overalls</a></li>
-            <li><a href="/overall-applications">Overall Applications</a></li>
+<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
           </ul>
         </div>
 			</div>
