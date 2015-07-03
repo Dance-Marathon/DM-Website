@@ -11,14 +11,14 @@
       'position'              =>  'Overall Director',
       'email'                 =>  'kshopa@floridadm.org',
       'previous_involvement'  =>  'Dancer, Two-year Morale Captain, Morale Overall',
-      'major'                 =>  'Biology',
-      'minor'                 =>  'Business Administration',
+      'grad'                  =>  'Masters in Health Education & Behavior',
+      'undergrad'             =>  'Bachelor of Science',
       'hometown'              =>  'Port Charlotte, FL',
       'outside_involvement'   =>  'Camp Kesem, Young Leaders Conference, Global Medical Training, Gators March for Babies, UFHealth Volunteer',
-      'free_time'             =>  'I enjoy spending time with my family and friends, watching movies, exercising, playing guitar and listening to &#39;N Sync (the greatest band ever).',
+      'free_time'             =>  'I enjoy spending time with my family and friends, watching movies, exercising, traveling and listening to &#39;N Sync (the greatest band ever).',
       'fun_fact'              =>  'I live on a farm, with just about every critter you can think of!',
-      'favorite_memory'       =>  '<p>Performing the 2014 line-dance at 4:30am in a conjoined-siamese-twin-outfit with another fellow Morale captain that caused a sea of dancers to laugh and smile at a time where their spirits were growing tired.</p>',
-      'motivation'            =>  '<p>It&#39;s not often that an individual can put forth an effort to make a difference and actually see that change take place and benefit the lives of others. With Dance Marathon though they can. When I signed up to be a dancer my freshmen year I had no idea how incredible of an experience it would be or that I was embarking on a journey with Dance Marathon and Children&#39;s Miracle Network that would define the man I would grow to be. With every miracle story I heard, or line-dance I danced for those 26.2 hours I soon learned that I wanted to help the culture that is Dance Marathon grow from that point on.</p><p>I&#39;ve said it before and I&#39;ll say it again, if I could major in Dance Marathon and minor in Morale I&#39;d graduate next year with a 4.0 without a doubt. Not a day goes by where I don&#39;t think about the event and the difference it makes for the kids. I&#39;m so honored to be able to use my experiences as a dancer and a Morale captain and be able to reflect the spirit and passion of DM through this position. While I may not know exactly how I fell head-over-heels in love with this philanthropy, I do know that I&#39;m truly thankful I did.</p>',
+      'favorite_memory'       =>  '<p>Witnessing the pure energy, and excitement of my Morale team last year when they broke our team&#39;s fundraising goal just days before the event!</p>',
+      'motivation'            =>  '<p>It&#39;s not often that an individual can put forth an effort to make a difference and actually see that change take place and benefit the lives of others. With Dance Marathon though they can. When I signed up to be a dancer my freshmen year I had no idea how incredible of an experience it would be or that I was embarking on a journey with Dance Marathon and Children&#39;s Miracle Network that would define the man I would grow to be. With every miracle story I heard, or line-dance I danced for those 26.2 hours I soon learned that I wanted to help the culture that is Dance Marathon grow from that point on.</p><p>Not a day goes by where I don&#39;t think about the event and the difference it makes for the kids. I&#39;m so honored to be able to use my experiences to represent this organization in its 22nd year. In my time being involved with DM, I&#39;ve seen a community come together to make a difference. I&#39;ve seen a culture spread across the campus. I&#39;ve seen children defy the odds stacked against them and do it with a smile on their face. All I can say now is that I can&#39;t wait to be a part of what comes next!</p>',
       'image'                 =>  'Keith'
     ),
     array(
@@ -32,8 +32,8 @@
       'outside_involvement'   =>  'Panhellenic Council, Ad Society, American Marketing Association',
       'free_time'             =>  'I like to spend time with my friends exploring Gainesville, travel anywhere I can and listening to music!',
       'fun_fact'              =>  'Fruity pebbles are my all-time-favorite cereal',
-      'favorite_memory'       =>  '<p>My favorite DM memory would definitely be meeting Kaedyn and his family with the rest of the marketing team!</p>',
-      'motivation'            =>  '<p>I didn&#39;t know much about Dance Marathon as a freshman and applied to be a part of the morale staff to try to get involved. The second I stepped inside the O&#39;dome for DM 2013, I fell in love with the cause. There was an electric feeling in the air, and seeing how special this event was for the miracle children was incredible. After that I decided I wanted to help this cause in any way I could, and I am so honored to be a part of the 2015 Overall Team!</p>',
+      'favorite_memory'       =>  '<p>My favorite DM memory would definitely be the feeling in the O&#39;Dome when we raised the numbers for our 2 million dollar record this past year. The looks of shock, happiness, and emotion on everyone&#39;s faces were amazing.</p>',
+      'motivation'            =>  '<p>What motivates me with DM is every interaction I have had with a miracle child. From shooting hoops with Nick Mullen, to playing paper airplanes with Kaedyn, those are the moments I&#39;m lucky to have with the amazing kids of Shands that make giving my time to DM worthwhile. </p>',
       'image'                 =>  'Mackenzie'
     ),
     array(
@@ -93,8 +93,7 @@
       'free_time'             =>  'I enjoy sailing, jet skiing, paddle boarding, rock climbing, exercising and finding great restaurants in Gainesville.',
       'fun_fact'              =>  'I am one of the most accident-prone people you will ever meet; seriously I trip over my own two feet, yet I haven&#39;t broken a bone!',
       'favorite_memory'       =>  '<p>Hands down it has to be during my first year as a captain. During the wee hours of Sunday morning- sometime between 4 or 5 am- one of the final acts goes on stage. Once the act got announced over the speakers in the O&#39;Dome, I swear I saw the dancers bodies move toward the stage before their heads did. It sent me reeling for a few minutes, then the strangest thing happened. I saw their faces start to light up as the act started to play and it was in that moment that I realized how important the music and bands were to keeping the dancers motivated and on their feet. </p>',
-      'motivation'            =>  '<p>During my first year as a captain, I had no idea what I was getting myself into and I had not interacted with many miracle families at that point. All I knew was that the money I was raising was going to help sick kids in the hospital.  During my first fall as a captain, I went on a tour of the hospital, as they were showing us around the children&#39;s wing we passed by a party they were having for the Miracle Children. Out of no where Nate comes racing out of the room, oxygen tank in tow, stops in front of a painting he liked and then proceeds to start climbing on his oxygen tank to get a closer look. While this was occurring, I was freaking out in my head that he was going to fall and injure himself, but afterwards I realized that these Miracle Children are just like every other kid their age despite their illnesses. I was amazed that despite everything that they had been through, they still acted like any other little kid and were excited about life and the day before them.  This was something I had never seen before and I admired them for it. It was this moment that I was able to put a face to the cause and when I became committed to doing everything I could for these kids. This was when the miracle children became my heroes!</p> 
-                                  <p>From Nate blasting out of that room, to Nick winning bowling championships after championships, to little Isabella taking wobbly steps at the 5K this year, these kids are the reason why I continue to support Dance Marathon and Children’s Miracle Network. To support the little heroes I have seen and because of the possibilities of curing some of these diseases for good. I am a Dance Marathon junkie, fanatic, enthusiast and will continue to give 110 percent for them. </p>',
+      'motivation'            =>  '<p>During my first year as a captain, I had no idea what I was getting myself into and I had not interacted with many miracle families at that point. All I knew was that the money I was raising was going to help sick kids in the hospital.  During my first fall as a captain, I went on a tour of the hospital, as they were showing us around the children&#39;s wing we passed by a party they were having for the Miracle Children. Out of no where Nate comes racing out of the room, oxygen tank in tow, stops in front of a painting he liked and then proceeds to start climbing on his oxygen tank to get a closer look. While this was occurring, I was freaking out in my head that he was going to fall and injure himself, but afterwards I realized that these Miracle Children are just like every other kid their age despite their illnesses. I was amazed that despite everything that they had been through, they still acted like any other little kid and were excited about life and the day before them.  This was something I had never seen before and I admired them for it. It was this moment that I was able to put a face to the cause and when I became committed to doing everything I could for these kids. This was when the miracle children became my heroes!</p> <p>From Nate blasting out of that room, to Nick winning bowling championships after championships, to little Isabella taking wobbly steps at the 5K this year, these kids are the reason why I continue to support Dance Marathon and Children’s Miracle Network. To support the little heroes I have seen and because of the possibilities of curing some of these diseases for good. I am a Dance Marathon junkie, fanatic, enthusiast and will continue to give 110 percent for them. </p>',
       'image'                 =>  'Matthew'
     ),
     array(
@@ -116,16 +115,16 @@
       'name'                  =>  'Annaleigh Bonds',
       'position'              =>  'Entertainment Overall',
       'email'                 =>  'abonds@floridadm.org',
-      'previous_involvement'  =>  'Entertainment Captain',
-      'major'                 =>  '',
-      'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'previous_involvement'  =>  'Dancer, Two-year Entertainment Captain',
+      'major'                 =>  'Public Relations',
+      'minor'                 =>  'Entrepreneurship',
+      'hometown'              =>  'Orlando, FL',
+      'outside_involvement'   =>  'Sigma Kappa Sorority, Events Director/Vice President of Swamp Records, PRSSA community service committee',
+      'free_time'             =>  'I love to travel, see live music and spend time outdoors with friends and family. ',
+      'fun_fact'              =>  'My only sibling is 15 years older than me and yes he is my full, biological brother so... woops.',
+      'favorite_memory'       =>  '<p>Besides the emotional experience that is closing ceremonies, my best DM memories revolve around the times I get to bond with my team, whether it be filming silly videos, having potlucks or having heart to hearts about the kind of impact we are making.</p>',
+      'motivation'            =>  '<p>A simple smile and thank you from a miracle child and/or family member who is suffering. To feel I am making a positive difference in someone else&#39;s life is the greatest reward imaginable for me. </p>',
+      'image'                 =>  'Annaleigh'
     ),
     array(
       'name'                  =>  'Allison Buenaga',
@@ -147,8 +146,8 @@
       'position'              =>  'Hospitality Overall',
       'email'                 =>  'apodolsky@floridadm.org',
       'previous_involvement'  =>  'Dancer, Two-year Hospitality Captain',
-      'major'                 =>  'Food Science and Masters in Management',
-      'minor'                 =>  'Packaging Science',
+      'grad'                  =>  'Masters in Management',
+      'undergrad'             =>  'Major in Food Science and Minor in Packaging Science',
       'hometown'              =>  'Weston, FL',
       'outside_involvement'   =>  'Food Science and Human Nutrition Club, Alpha Epsilon Phi Sorority',
       'free_time'             =>  'Hang out with friends and family, cook (and eat!)',
@@ -176,16 +175,16 @@
       'name'                  =>  'Allison Stroop',
       'position'              =>  'Merchandise Overall',
       'email'                 =>  'astroop@floridadm.org',
-      'previous_involvement'  =>  'Public Relations Captain',
-      'major'                 =>  '',
+      'previous_involvement'  =>  'Marketing Captain, Public Relations Captain',
+      'major'                 =>  'Marketing',
       'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'hometown'              =>  'Santa Rosa Beach, FL',
+      'outside_involvement'   =>  'Panhellenic Council',
+      'free_time'             =>  'I love to spend time with family and friends, travel anywhere and everywhere, and cook good food!',
+      'fun_fact'              =>  'I am originally from a small town in Tennessee.',
+      'favorite_memory'       =>  '<p>When I first met Ayden, one of our miracle children, I immediately was overwhelmed by his gracious and loving spirit. His zest for life and the people around his so inspiring. Ayden, myself and the rest of the PR team dance and sang to Blank Space together. That was such a special moment and I will always carry it with me. </p>',
+      'motivation'            =>  '<p>The kids and their families. DM at UF is truly saving the lives of the kids at UF Health Shands Children’s Hospital. These families are fighting fights that are harder than I can imagine and being able to help them in their fight is my motivation. Finding Dance Marathon has led me to be a part of something so much bigger than myself and I am so grateful for to be a part it.</p>',
+      'image'                 =>  'Stroop'
     ),
     array(
       'name'                  =>  'Torrie Scianna',
@@ -336,22 +335,42 @@
                 <div class="modal-body">
                   <h4>Previous DM Involvement</h4>
                   <p><?php echo $overalls[$i]['previous_involvement']; ?></p>
+
+                  <?php if($overalls[$i]['grad']){ ?>
+                  <h4>Graduate</h4>
+                  <p><?php echo $overalls[$i]['grad']; ?></p>
+                  <?php } ?>
+
+                  <?php if($overalls[$i]['undergrad']){ ?>
+                  <h4>Undergrad</h4>
+                  <p><?php echo $overalls[$i]['undergrad']; ?></p>
+                  <?php } ?>
+
+                  <?php if($overalls[$i]['major']){ ?>
                   <h4>Major</h4>
                   <p><?php echo $overalls[$i]['major']; ?></p>
-                  <?php if($overalls[$i]['minor'] !== ""){ ?>
+                  <?php } ?>
+
+                  <?php if($overalls[$i]['minor'] !== "" && $overalls[$i]['minor']){ ?>
                   <h4>Minor</h4>
                   <p><?php echo $overalls[$i]['minor']; ?></p>
                   <?php } ?>
+
                   <h4>Hometown</h4>
                   <p><?php echo $overalls[$i]['hometown']; ?></p>
+
                   <h4>Outside Involvement</h4>
                   <p><?php echo $overalls[$i]['outside_involvement']; ?></p>
+
                   <h4>In My Free Time...</h4>
                   <p><?php echo $overalls[$i]['free_time']; ?></p>
+
                   <h4>Fun Fact</h4>
                   <p><?php echo $overalls[$i]['fun_fact']; ?></p>
+
                   <h4>Favorite Memory</h4>
                   <?php echo $overalls[$i]['favorite_memory']; ?>
+                  
                   <h4>What Motivates You?</h4>
                   <?php echo $overalls[$i]['motivation']; ?>
                 </div>
