@@ -33,18 +33,18 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-  			<h3>Melissa Dukes</h3>
+  			<h3>Armani Abreu</h3>
         <p>
           Public Relations Overall Director
           <br/>
-          <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>
+          <a href="mailto:mdukes@floridadm.org">aabreu@floridadm.org</a>
         </p>
         
-        <h3>Andrew Giacini</h3>
+        <h3>Mackenzie LaPorte</h3>
         <p>
           External Communications Overall Director
           <br/>
-          <a href="mailto:agiacini@floridadm.org">agiacini@floridadm.org</a><br/>
+          <a href="mailto:agiacini@floridadm.org">mlaporte@floridadm.org</a><br/>
         </p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
