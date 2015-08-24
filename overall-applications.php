@@ -1,5 +1,5 @@
 <?php
-	$status = "open";
+	$status = "closed";
 	$GLOBALS['page_title'] = 'Overall Applications | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -48,7 +48,7 @@
         <p>Please direct all inquiries to Nha-Uyen Hua, current Internal Communications Overall Director at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a>.</p>
       <?php } else { ?>
         <p class="alert alert-info"><b>Note:</b> Overall applications are closed.</p>
-        <p>Please direct all inquiries to  Nha-Uyen Hua, current Internal Communications Overall Director at <a href="mailto:nhua@floridadm.org">nhua@floridadm.org</a>.</p>
+        <p>Please direct all inquiries to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p>
       <?php } ?>
       </div>
 		</div>
