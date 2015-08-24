@@ -54,7 +54,7 @@
           <ul>
             <li><a class="active">Community Events</a></li>
             <li><a href="/hsdm">High School DM</a></li>
-            <li><a href="/eventsurvey">DM 2015 Event Survey</a></li>
+<!--            <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
           </ul>
         </div>
       </div>
