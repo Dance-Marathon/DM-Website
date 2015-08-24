@@ -745,6 +745,9 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.overall-applications {
   background-image: url("/assets/images/sectionbg/overallapp.jpg");
 }
+.page-heading.parallax.captain-applications {
+  background-image: url("/assets/images/sectionbg/captainapp.jpg");
+}
 .page-heading.parallax.family {
   background-image: url("/assets/images/sectionbg/family.jpg");
 }
@@ -755,7 +758,7 @@ DEFAULT TEMPLATE STYLES
   background-image: url("/assets/images/sectionbg/events.jpg");
 }
 .page-heading.parallax.hsdm-events {
-  background-image: url("/assets/images/sectionbg/HSDM.jpg");
+  background-image: url("/assets/images/sectionbg/HSDM15.jpg");
 }
 .page-heading.parallax.sponsors {
   background-image: url("/assets/images/sectionbg/sponsors.jpg");
