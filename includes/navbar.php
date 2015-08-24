@@ -30,6 +30,7 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+						<li><a href="/captainapp">Captain Applications</a></li>
 <!-- 						<li><a href="/overall-applications">Overall Applications</a></li> -->
 					</ul>
 				</li>
@@ -45,7 +46,7 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/community-events">Community Events</a></li>
 						<li><a href="/hsdm">High School DM</a></li>
-						<li><a href="/eventsurvey">DM 2015 Event Survey</a></li>
+<!--						<li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'press') ? "class='open'" : ""; ?>>
