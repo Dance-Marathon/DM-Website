@@ -42,7 +42,7 @@
           <li><a href="/Documents/CYMplify-Food-Truck-Rally-Press-Release.pdf" target="_blank">CYMplify Food Truck Rally</a> 12/05/2014</li>
           <li><a href="/Documents/DMKickball2014.pdf" target="_blank">DM Kickball</a> 10/16/2014</li>
         </ul>
-        <p>If you have any questions, please contact Melissa Dukes, Public Relations Overall at <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>.</p>
+        <p>If you have any questions, please contact Armani Abreu, Public Relations Overall at <a href="mailto:aabreu@floridadm.org">aabreu@floridadm.org</a>.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
