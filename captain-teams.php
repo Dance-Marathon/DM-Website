@@ -166,7 +166,7 @@
             </div>
             <div id="a11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q11">
               <div class="panel-body">
-                The Multimedia Team is responsible for videography and throughout the year and the event. The team works to edit, sort and upload videos and photos regularly to YouTube and Facebook, respectively. The Multimedia Team is responsible for the acquisition of equipment for all filming and photography including all software involved for editing videos and photos. The Multimedia Team also works closely with the Creative Development Team to select pictures needed for graphics and other photographic needs. This team will be responsible for the Dance Marathon YouTube channel, as well as the Live Stream and Live Feed at the Event. It is recommended that Captains have experience with the Adobe Suite and/or other editing software.              
+                The Multimedia Team is responsible for videography and photography throughout the year and during the event. The team works to edit, sort and upload videos and photos regularly to YouTube and Facebook, respectively. The Multimedia Team is responsible for the acquisition of equipment for all filming and photography including all software involved for editing videos and photos. The Multimedia Team also works closely with the Creative Development Team to select pictures needed for graphics and other photographic needs. This team will be responsible for the Dance Marathon YouTube channel, as well as the Live Stream and Live Feed at the Event. It is recommended that Captains have experience with the Adobe Suite and/or other editing software.              
               </div>
             </div>
           </div>
