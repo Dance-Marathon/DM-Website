@@ -33,11 +33,19 @@
               </div>
               <div class="col-md-6">
                 <h2 style="color: #fff; font-size: 3em;" class="student-title"><span id="student-counter">0</span>Students Making Miracles</h2>
-                <!--<a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670" target="_blank" class="top_btn">Donate Now</a>-->
+                <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank" class="top_btn">Donate Now</a>
               </div>
             </div>
           </div>
         </div>
+        <!-- End Item --> 
+<!--
+        <div class="item">
+          <a href="/captainapp" target="_blank">
+            <img class="img-responsive img-full" src="assets/images/slider/CaptainApp.jpg">
+          </a>
+        </div>
+-->
         <!-- End Item -->
         <div class="item item-with-caption">
           <img class="img-responsive img-full" src="assets/images/slider/2015-Total_websitefilter.jpg">
@@ -45,7 +53,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="embed-responsive embed-responsive-16by9">
-                  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ZRc6rjZleMs"></iframe>
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZRc6rjZleMs"></iframe>
                 </div>
               </div>
               <div class="col-md-5 col-md-offset-1">
@@ -56,7 +64,7 @@
           </div>
         </div>
         <!-- End Item --> 
-<!--    <div class="item">
+        <!--    <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/jailbreak_website-01.jpg">
         </div>
 -->
