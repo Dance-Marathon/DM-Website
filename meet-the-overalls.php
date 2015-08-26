@@ -71,15 +71,15 @@
       'position'              =>  'Multimedia Overall',
       'email'                 =>  'lvanalstyne@floridadm.org',
       'previous_involvement'  =>  'Art & Layout Captain',
-      'major'                 =>  '',
+      'major'                 =>  'Photography',
       'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'hometown'              =>  'Bradenton, FL',
+      'outside_involvement'   =>  'Delta Zeta Sorority',
+      'free_time'             =>  'I love to photograph everything (duh). Traveling, music festivals, and adventuring with friends and family are what consumes most of my time. And Netflix...',
+      'fun_fact'              =>  'I have lived in New York, Massachusetts, California, New Hampshire and Florida.',
+      'favorite_memory'       =>  '<p>My favorite DM memory is from last year, I was up front by the stage taking all those beautiful ugly crying photos of everyone after the final total was revealed, when finally I couldn&#39;t see anything (because I was ugly crying, just behind my camera) and Zander&#39;s mom, who had no idea who I was, hugged me and started thanking me for everything we had done for her family and the Children&#39;s Miracle Network. I obviously knew that what we were doing was amazing and that we were making a difference, but when she was saying all those wonderful things about Dance Marathon at UF I finally felt the impact of it all and was unbelievably proud of everyone in the O&#39;Dome. I have carried that feeling with me since then. </p>',
+      'motivation'            =>  '<p>The amazing people I have worked with throughout my years with Dance Marathon motivate me. Their ceaseless passion, creativity and strength inspires me to give my all to Dance Marathon at UF. The Miracle Children posses so much hope and courage that its contagious. The children and their families are a constant reminder of why we are doing this and what we are doing this for.</p>',
+      'image'                 =>  'Leland'
     ),
     array(
       'name'                  =>  'Matthew Weider',
@@ -130,16 +130,16 @@
       'name'                  =>  'Allison Buenaga',
       'position'              =>  'Family Relations Overall',
       'email'                 =>  'abuenaga@floridadm.org',
-      'previous_involvement'  =>  'Family Relations Captain',
-      'major'                 =>  '',
+      'previous_involvement'  =>  'Dancer, Family Relations Captain',
+      'major'                 =>  'Sociology',
       'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '<p></p>',
-      'motivation'            =>  '<p></p>',
-      'image'                 =>  'Replacement'
+      'hometown'              =>  'Ponte Vedra Beach, FL',
+      'outside_involvement'   =>  'Stronger than Stigma at the University of Florida, Delta Zeta Sorority',
+      'free_time'             =>  'I love watching any show on TLC, dancing and laughing with my friends!',
+      'fun_fact'              =>  'I have an extreme fear of cows.',
+      'favorite_memory'       =>  '<p>My favorite Dance Marathon memory was seeing the total reveal this past year at Dance Marathon 2015. Fundraising above $2,000,000,000 was such an incredible milestone to be a part of. I will never forget seeing Nick and Nate, two of our miracle children, crying. When I saw tears streaming down their faces I realized that they are able to understand that their lives have been impacted by Dance Marathon. Numerous miracle families were coming up to me and thanking me for all that we do, really though, I should be thanking them because they have all taught us so much.</p>',
+      'motivation'            =>  '<p>Being the Family Relations Overall allows me to work very closely with all of our Miracle Families. These amazing families motivate me each and everyday. The miracle children are my true heroes and they inspire me to never give up on life and to always have a smile on my face.  Seeing them extremely happy and carefree shows me how Dance Marathon at the University of Florida has impacted them. They have changed my life in numerous ways and I am so grateful to have met each and every one of them. There are truly not enough words to describe how much Dance Marathon means to me, but I know it is something that I will carry with me forever.</p>',
+      'image'                 =>  'Buenaga'
     ),
     array(
       'name'                  =>  'Alexa Podolsky',
@@ -167,7 +167,7 @@
       'outside_involvement'   =>  'In addition to my position on the Overall Team, I am an active member of the Florida Cicerones, the official student ambassadors of UF where I serve as the committee chair for Dance Marathon within the organization. I am a member of the Sigma Chi fraternity having served as Rush Chair, Public Relations Chair and responsible for organizing the Derby Days Philanthropy benefiting Shand’s Children Miracle Network Hospital and the Huntsman Cancer Foundation. I also remain involved within the Honors Program, HHMI undergraduate research organization, volunteer at the American Cancer Society and have served as an Assistant Director for Gator Growl. ',
       'free_time'             =>  'What’s free time? I do my best to run and workout, spend my time long boarding, hearing live music, playing sports and going to the beach.  ',
       'fun_fact'              =>  'I have 14 siblings. Yes, 14. I’m also red and green color-blind.',
-      'favorite_memory'       =>  '<p>My favorite DM memory comes from a High School Dance Marathon when I first met Zander, one of the miracle children. Throughout my life I have had the great benefit of watching my younger siblings grow up. One of the most moving experiences is understanding that within every child is the sole desire to be a kid - to be carefree, imaginative and love with boundaries. Despite Zander’s condition, he will continue to play until he physically needs to stop. As we were playing a game during one of the theme hours, I saw within him the sole desire to be like every other kid. His positivity, love of life, and unending strength that day will remain one of my favorite memories. </p>',
+      'favorite_memory'       =>  '<p>My favorite DM memory comes from a High School Dance Marathon when I first met Zander, one of the miracle children. Throughout my life I have had the great benefit of watching my younger siblings grow up. One of the most moving experiences is understanding that within every child is the sole desire to be a kid - to be carefree, imaginative and love without boundaries. Despite Zander’s condition, he will continue to play until he physically needs to stop. As we were playing a game during one of the theme hours, I saw within him the sole desire to be like every other kid. His positivity, love of life, and unending strength that day will remain one of my favorite memories. </p>',
       'motivation'            =>  '<p>I had class one semester in Shands Medical Sciences Building, the same area where the Children&#39;s Miracle Network Hospital is located. Every day that I walked to class I would pass by a plaque on the wall with a quote from Winston Churchill that read, “We make a living by what we get, but we make a life by what we give.” Dance Marathon has given me the opportunity to make a life. In my opinion, everyone has a favorite word whether they realize it or not. Mine happens to be a relatively simple four-letter word we whisper to ourselves and echo through our lives: hope. Hope is how Dance Marathon is able to give, grow and impact the lives of so many individuals. Hope is what drives research, fuels Healthcare and inspires every person to become involved within this organization. I hope for a cure and a day that I will no longer need to dance, but until then I will work tirelessly to pursue a life in medicine and fuel the hope that I see within every miracle child’s face.</p>',
       'image'                 =>  'Drew'
     ),
@@ -227,9 +227,9 @@
       'outside_involvement'   =>  'Theta Chi Fraternity, Previous Chairman of Student Government Productions',
       'free_time'             =>  'I coach youth travel lacrosse in my free time. I also enjoy woodworking, gardening, and hunting.',
       'fun_fact'              =>  'I am a proud owner of a hedgehog named Spud.',
-      'favorite_memory'       =>  '<p></p>',
+      'favorite_memory'       =>  '<p>Last year, the cotton candy machine in the family room needed fixing. So I was able to repair the machine and begin serving cotton candy to all the Miracle Children. Seeing the smiles on their faces as they covered themselves with cotton candy was awesome.</p>',
       'motivation'            =>  '<p>What motivates me is seeing how much Dance Marathon and Children&#39;s Miracle Network does for the Miracle Children and their families by supplying them with not only the best doctors, but with smiles on their faces and beds to sleep on at night.</p>',
-      'image'                 =>  'Replacement'
+      'image'                 =>  'Brad'
     ),
     array(
       'name'                  =>  'Armani Abreu',
