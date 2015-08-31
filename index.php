@@ -102,7 +102,7 @@
       <div class="col-md-3">
         <i class="fa icon-foot"></i>
         <h3>Our Story</h3>
-        <p>DM at UF is one of the first five founding Dance Marathon programs in the nation and since our start, we have raised more than $8 million dollars for the kids at UF Health Shands Children’s Hospital, our local CMN hospital. Everything we do is For The Kids!</p>
+        <p>DM at UF is one of the first five founding Dance Marathon programs in the nation and since our start, we have raised more than $10 million dollars for the kids at UF Health Shands Children’s Hospital, our local CMN hospital. Everything we do is For The Kids!</p>
         <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
       </div>
       <div class="col-md-3">

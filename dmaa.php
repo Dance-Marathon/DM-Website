@@ -34,7 +34,7 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
   			<p>Since 1995, Dance Marathon at UF has raised over $10 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have grown to the most successful student-run philanthropy in the region.</p>
-  			<p>Your commitment to a worthy cause doesn’t have to end after you graduate. Join our Alumni Group on Facebook to stay connected to the rest of your Dance Marathon family.</p>
+  			<p>Your commitment to a worthy cause doesn’t have to end after you graduate. Join our <a href="https://www.facebook.com/FloridaDMAlumni?fref=ts">Alumni Group on Facebook</a> to stay connected to the rest of your Dance Marathon family.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
