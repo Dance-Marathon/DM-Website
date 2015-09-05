@@ -359,7 +359,7 @@
           ?>
           </tbody>
         </table>
-  			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
+  			<p>If your organization would like to participate contact the Recruitment Overall, Grace Caswell, at <a href="mailto:gcaswell@floridadm.org">gcaswell@floridadm.org</a></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>
