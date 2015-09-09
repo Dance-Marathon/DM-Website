@@ -188,7 +188,7 @@
     ),
     array(
       'name'                  =>  'Torrie Scianna',
-      'position'              =>  'Sponsorhip Overall',
+      'position'              =>  'Sponsorship Overall',
       'email'                 =>  'tscianna@floridadm.org',
       'previous_involvement'  =>  'Dancer Relations Staff, Two-year Marketing Captain',
       'major'                 =>  'Finance',
