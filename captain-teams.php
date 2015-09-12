@@ -214,6 +214,7 @@ Barbie  Diaz </br>
 Nicholas  Dilts </br>
 Caitlin Dobson </br>
 Jake  Dube </br>
+Kalee Eichelberger </br>
 Tyler Ellman </br>
 Andrea  Esinhart </br>
 Cassandra Etzig </br>
