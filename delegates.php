@@ -75,12 +75,11 @@
               <p>To participate as an organization in Dance Marathon, you must register your team each year. To register your team, please complete the following steps:</p>
               <ol>
                 <li>Go to <a href="http://floridadm.org">floridadm.org</a> and click “Donate.”</li>
-                <li>You will be redirected to the Kintera site. Click “Create Donor Page.”</li>
-                <li>After reading the agreement, you may click “I Agree” to proceed.</li>
-                <li>Click “Start an Organization.”</li>
-                <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following steps 1-3 and for step 4, they will select “Join an Organization.”</li>
+                <li>Scroll down and click "Register Now."</li>
+                <li>Input your information and create a new organization.</li>
+                <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing organization team.</li>
               </ol>
-              <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Suzy Schrimsher, at <a href="mailto:sschrimsher@floridadm.org">sschrimsher@floridadm.org</a> to inform her you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
+              <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Jenna Glick, at <a href="mailto:jglick@floridadm.org">jglick@floridadm.org</a> to inform her you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
             </div>
           </div>
 
