@@ -58,7 +58,7 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-                Please contact our Public Relations Overall Chair, Melissa Dukes, at <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>.
+                Please contact our Public Relations Overall Director, Armani Abreu, at <a href="mailto:aabreu@floridadm.org">aabreu@floridadm.org</a>.
               </div>
             </div>
           </div>
