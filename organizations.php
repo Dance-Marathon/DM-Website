@@ -290,6 +290,10 @@
       'organization'  =>  'Alpha Chi Omega',
       'link'          =>  ''
     )
+    array(
+      'organization'  =>  'Alpha Epsilon Pi',
+      'link'          =>  ''
+    )
   );
   
   function compareAlphabetically($a, $b) {
