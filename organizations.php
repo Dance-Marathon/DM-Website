@@ -289,7 +289,7 @@
     array(
       'organization'  =>  'Alpha Chi Omega',
       'link'          =>  ''
-    )
+    ),
     array(
       'organization'  =>  'Alpha Epsilon Pi',
       'link'          =>  ''
