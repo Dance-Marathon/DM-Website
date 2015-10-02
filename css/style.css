@@ -525,10 +525,10 @@ SPONSOR LEVELS PAGE
 }
 .sponsor > li {
   position: relative;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 .sponsor > li.level-1 {
-  margin-bottom: 100px;
+  margin-bottom: 40px;
 }
 .sponsor > li:before,
 .sponsor > li:after {
@@ -539,7 +539,7 @@ SPONSOR LEVELS PAGE
   clear: both;
 }
 .sponsor-panel {
-  width: 42%;
+  width: 38%;
   float: left;
   background-color: #f5f5f5;
   border-radius: 5px;
@@ -556,7 +556,7 @@ SPONSOR LEVELS PAGE
   transition: all 200ms;
 }
 .level-1 .sponsor-panel {
-  width: 40%;
+  width: 35%;
   min-height: 160px;
 }
 .sponsor-circle {
@@ -604,12 +604,12 @@ SPONSOR LEVELS PAGE
   left: 0;
   top: 60px;
   margin-top: -10px;
-  margin-left: 42%;
+  margin-left: 38%;
   border-left: 12px solid #f5f5f5;
 }
 .level-1 .sponsor-panel.left:before {
   top: 80px;
-  margin-left: 40%;
+  margin-left: 35%;
   margin-top: -10px;
 }
 .sponsor-panel.right {
@@ -619,7 +619,7 @@ SPONSOR LEVELS PAGE
   right: 0;
   top: 60px;
   margin-top: -10px;
-  margin-right: 42%;
+  margin-right: 38%;
   border-right: 12px solid #f5f5f5;
 }
 /*
@@ -668,7 +668,7 @@ DEFAULT TEMPLATE STYLES
   text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
 .page-heading.parallax {
-  margin: 4px 0 60px;
+  margin: 0 0 60px;
   border-bottom: 4px solid #f79b63;
 }
 .page-heading.parallax.e404 {
@@ -742,6 +742,12 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.meet-the-overalls {
   background-image: url("/assets/images/sectionbg/overall.jpg");
 }
+.page-heading.parallax.overall-applications {
+  background-image: url("/assets/images/sectionbg/overallapp.jpg");
+}
+.page-heading.parallax.captain-applications {
+  background-image: url("/assets/images/sectionbg/captainapplication.jpg");
+}
 .page-heading.parallax.family {
   background-image: url("/assets/images/sectionbg/family.jpg");
 }
@@ -752,7 +758,7 @@ DEFAULT TEMPLATE STYLES
   background-image: url("/assets/images/sectionbg/events.jpg");
 }
 .page-heading.parallax.hsdm-events {
-  background-image: url("/assets/images/sectionbg/HSDM.jpg");
+  background-image: url("/assets/images/sectionbg/HSDM15.jpg");
 }
 .page-heading.parallax.sponsors {
   background-image: url("/assets/images/sectionbg/sponsors.jpg");
@@ -762,6 +768,9 @@ DEFAULT TEMPLATE STYLES
 }
 .page-heading.parallax.press {
   background-image: url("/assets/images/sectionbg/press.jpg");
+}
+.page-heading.parallax.event-page {
+  background-image: url("/assets/images/sectionbg/event-page.jpg");
 }
 /*
 .page-heading.parallax.e404 {
@@ -850,6 +859,30 @@ DEFAULT TEMPLATE STYLES
 .table-pricing ul {
   margin: 0;
 }
+/*
+-----------------------
+EVENT PAGE
+-----------------------
+*/
+#floor-map img{
+  width: 100%;
+}
+.huge-button {
+  font-size: 24px;
+  padding: 12px 32px;
+  border: 3px solid;
+}
+@media (min-width: 768px) {
+  .huge-button {
+    font-size: 30px;
+  }
+}
+@media (min-width: 992px) {
+  .huge-button {
+    font-size: 36px;
+  }
+}
+
 
 /*
 -----------------------
@@ -862,7 +895,7 @@ FOOTER STYLES
 }
 .footer p {
   color: #fff;
-  font-size: 10px;
+  font-size: 16px;
   line-height: 1.4;
   padding: 10px 0;
   margin: 0;
@@ -872,7 +905,7 @@ FOOTER STYLES
 }
 .footer a,.footer a:hover {
   color: #fff;
-  font-size: 10px;
+  font-size: 15px;
   line-height: 1.4;
 }
 

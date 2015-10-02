@@ -14,11 +14,16 @@
         <li data-target="#top-carousel" data-slide-to="2"></li>
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
-        <li data-target="#top-carousel" data-slide-to="5"></li>
+<!--
+        <li data-target="#top-carousel" data-slide-to="5"></li> 
+        <li data-target="#top-carousel" data-slide-to="6"></li>
+        <li data-target="#top-carousel" data-slide-to="7"></li>
+        <li data-target="#top-carousel" data-slide-to="8"></li>
+-->
       </ol>
       <div class="carousel-inner">
         <div class="item active item-with-caption">
-          <img class="img-responsive img-full"  src="assets/images/slider/cover.jpg">
+          <img class="img-responsive img-full"  src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <div class="col-md-6">
@@ -28,42 +33,59 @@
               </div>
               <div class="col-md-6">
                 <h2 style="color: #fff; font-size: 3em;" class="student-title"><span id="student-counter">0</span>Students Making Miracles</h2>
-                <a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670" target="_blank" class="top_btn">Donate Now</a>
+                <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank" class="top_btn">Donate Now</a>
               </div>
             </div>
           </div>
         </div>
+        <!-- End Item --> 
+<!--
+        <div class="item">
+          <a href="/captainapp" target="_blank">
+            <img class="img-responsive img-full" src="assets/images/slider/CaptainApp.jpg">
+          </a>
+        </div>
+-->
         <!-- End Item -->
         <div class="item item-with-caption">
-          <img class="img-responsive img-full" src="assets/images/slider/cover.jpg">
+          <img class="img-responsive img-full" src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
             <div class="row">
               <div class="col-md-6">
                 <div class="embed-responsive embed-responsive-16by9">
-                  <iframe class="embed-responsive-item" src="//www.youtube.com/embed/ZRc6rjZleMs"></iframe>
+                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZRc6rjZleMs"></iframe>
                 </div>
               </div>
               <div class="col-md-5 col-md-offset-1">
                 <h2 style="color: #fff; font-size: 3em;">Through the Years</h2>
-                <p style="color: #fff; font-size: 1.3em">As Dance Marathon at UF embarks on its 21st year, this video serves to highlight the growth and success of the past 20 years. Join us at the UF Stephen C. O'Connell Center on March 14-15!</p>
+                <p style="color: #fff; font-size: 1.3em">As Dance Marathon at UF celebrates its 21st year, this video serves to highlight the growth and success of the past 20 years. Thank you to all who attended this year's historic event!</p>
               </div>
             </div>
           </div>
         </div>
-        <!-- End Item -->
-        <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/Event-Invite.jpg">
+        <!-- End Item --> 
+
+        <!--    <div class="item">
+          <img class="img-responsive img-full"  src="assets/images/slider/jailbreak_website-01.jpg">
         </div>
+-->
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/ThemeReveal2.jpg">
+          <a href="/captainapp" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/CaptainAppSlider.jpg"></a>
         </div>     
+        <!-- End Item -->    
+
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/March_Web-01.jpg">
-        </div>       
+          <img class="img-responsive img-full"  src="assets/images/slider/EventDateSlider.jpg">
+        </div>     
+        <!-- End Item --> 
+
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/cover2.jpg">
-        </div>
-      </div> <!-- End Carousel Inner -->
+          <a href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
+        </div>     
+        <!-- End Item -->  
+
+      </div> 
+      <!-- End Carousel Inner -->
 
       <!-- Controls -->
 
@@ -75,7 +97,6 @@
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
-
     </div>
   </div>
 </div>
@@ -83,7 +104,8 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
-      <p>Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States and is celebrating<br />its 21st year. This year, DM at UF will be held on March 14-15 at the Stephen C. O’Connell Center.<br/>Join us this year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
+<!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
+      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>!<br />DM at UF is the most successful student-run philanthropy in the Southeast United States <br/> and just celebrated its 21st year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$2,015,307.17</b></i>!<br/>Join us next year as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
     </div>
   </div>
 </div>
@@ -93,7 +115,7 @@
       <div class="col-md-3">
         <i class="fa icon-foot"></i>
         <h3>Our Story</h3>
-        <p>DM at UF is one of the first five founding Dance Marathon programs in the nation and since our start, we have raised more than $8 million dollars for the kids at UF Health Shands Children’s Hospital, our local CMN hospital. Everything we do is For The Kids!</p>
+        <p>DM at UF is one of the first five founding Dance Marathon programs in the nation and since our start, we have raised more than $10 million dollars for the kids at UF Health Shands Children’s Hospital, our local CMN hospital. Everything we do is For The Kids!</p>
         <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
       </div>
       <div class="col-md-3">
@@ -105,9 +127,9 @@
 <!--
       <div class="col-md-3">
         <i class="fa icon-shirt"></i>
-        <h3>DM Store</h3>
-        <p>Find all of the latest and greatest DM merchandise on our online store! You can easily purchase them online or on campus at t-shirt check-ins. All of the profits from merchandise sales goes to the kids at UF Health Shands Children's Hospital!</p>
-        <p><div class="btn btn-default">Coming Soon</div></p>
+        <h3>Silent Auction</h3>
+        <p>Check out the awesome items available in our silent auction! From exotic vacations to Tiffany's jewelry, we've got anything you could want. And the best part is that it's all For The Kids!</p>
+        <p><a class="btn btn-default" href="https://www.winningcause.org/dancemarathonatuf/" role="button" target="_blank">Shop Now</a></p>
       </div>
 -->
       <div class="col-md-3">
@@ -125,14 +147,14 @@
     </div>
   </div>
 </div>
-<div class="counter">
+<!--<div class="counter">
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center heading newsletter">Dancing Starts In...</div>
       <div class="col-md-12" id="countdown-wrapper"><div id="countdown"></div></div>
     </div>
   </div>
-</div>
+</div>-->
 <div class="section">
   <div class="container">
     <div class="row">

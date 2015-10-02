@@ -35,13 +35,14 @@
       <?php if ($status == "open") { ?>
         <h3>2014-2015 Press Releases</h3>
         <ul>
-          <li><a href="FTKanrival2015PressRelease">FTKarnival</a> 02/24/2015</li>
-          <li><a href="FT5K-Press-Release-2015.pdf">FT5K</a> 02/08/2015</li>
-          <li><a href="Transform-Today-Press-Release.pdf">Transform Today</a> 01/08/15</li>
-          <li><a href="CYMplify-Food-Truck-Rally-Press-Release.pdf">CYMplify Food Truck Rally</a> 12/05/2014</li>
-          <li><a href="DMKickball2014.pdf">DM Kickball</a> 10/16/2014</li>
+          <li><a href="/Documents/DM2015PressRelease.pdf" target="_blank">Dance Marathon 2015</a> 03/07/15</li>
+          <li><a href="/Documents/FTKanrival2015PressRelease.pdf" target="_blank">FTKarnival</a> 02/24/2015</li>
+          <li><a href="/Documents/FT5K-Press-Release-2015.pdf" target="_blank">FT5K</a> 02/08/2015</li>
+          <li><a href="/Documents/Transform-Today-Press-Release.pdf" target="_blank">Transform Today</a> 01/08/15</li>
+          <li><a href="/Documents/CYMplify-Food-Truck-Rally-Press-Release.pdf" target="_blank">CYMplify Food Truck Rally</a> 12/05/2014</li>
+          <li><a href="/Documents/DMKickball2014.pdf" target="_blank">DM Kickball</a> 10/16/2014</li>
         </ul>
-        <p>If you have any questions, please contact Melissa Dukes, Public Relations Overall at <a href="mailto:mdukes@floridadm.org">mdukes@floridadm.org</a>.</p>
+        <p>If you have any questions, please contact Armani Abreu, Public Relations Overall at <a href="mailto:aabreu@floridadm.org">aabreu@floridadm.org</a>.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>

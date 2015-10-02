@@ -131,6 +131,10 @@
       'link'          =>  ''
     ),
     array(
+      'organization'  =>  'Alpha Epsilon Phi',
+      'link'          =>  ''
+    ),
+    array(
       'organization'  =>  'Alpha Gamma Rho',
       'link'          =>  ''
     ),
@@ -285,6 +289,10 @@
     array(
       'organization'  =>  'Alpha Chi Omega',
       'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Alpha Epsilon Pi',
+      'link'          =>  ''
     )
   );
   
@@ -312,14 +320,13 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="http://floridadm.kintera.org/faf/home/waiver.asp?ievent=1114670&lis=1&kntae1114670=49B319BD1C5D464982B0286ECCA2EBEB" target="_blank">Register to Fundraise</a></li>
+            <li><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank">Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/organizations">Organizations</a></li>
+						<li><a class="active">Organizations</a></li>
 						<li><a href="/captain-teams" >Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-            <li><a href="/dancerpackages">Dancer Packages</a></li>
-            <li><a href="/dmrave">DM 2015 Rave Hour</a></li>
+<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
           </ul>
         </div>
 			</div>
@@ -356,7 +363,7 @@
           ?>
           </tbody>
         </table>
-  			<p>If your organization would like to participate contact the Recruitment Overall, Jenna Baxter, at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a></p>
+  			<p>If your organization would like to participate contact the Recruitment Overall, Grace Caswell, at <a href="mailto:gcaswell@floridadm.org">gcaswell@floridadm.org</a></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>

@@ -24,14 +24,14 @@
 				<li <?php echo ($parent == 'get-involved') ? "class='open'" : ""; ?>>
 					<a href="/get-involved" class="dropdown-toggle"  >Get Involved</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="http://floridadm.kintera.org/faf/home/waiver.asp?ievent=1114670&lis=1&kntae1114670=49B319BD1C5D464982B0286ECCA2EBEB" target="_blank">Register to Fundraise</a></li>
+						<li><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank">Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/dancerpackages">Dancer Packages</a></li>
-						<li><a href="/dmrave">DM 2015 Rave Hour</a></li>
+<!--						<li><a href="/captainapp">Captain Applications</a></li> -->
+<!-- 						<li><a href="/overall-applications">Overall Applications</a></li> -->
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'family') ? "class='open'" : ""; ?>>
@@ -46,7 +46,7 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/community-events">Community Events</a></li>
 						<li><a href="/hsdm">High School DM</a></li>
-            <li><a href="/ft5k">FT5K 2015</a></li>
+<!--						<li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'press') ? "class='open'" : ""; ?>>
@@ -62,6 +62,7 @@
 					<a href="/sponsors" class="dropdown-toggle">Sponsors</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
+                        <li><a href="/partners">Our Partners</a></li>
 					</ul>
 				</li>
 				<?php /*
@@ -69,7 +70,7 @@
 				  <a href="#">DM Store</a>
 				</li>
 				*/ ?>
-				<li class="open"><a href="http://floridadm.kintera.org/faf/search/searchParticipants.asp?ievent=1114670" target="_blank" class="active">Donate</a></li>
+				<li class="open"><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank" class="active">Donate</a></li>
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
 				  <li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube"></i></a></li>

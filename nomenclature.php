@@ -74,8 +74,8 @@
           <li>
             Overall Directors
             <ul>
-              <li>Art and Layout</li>
               <li>Community Events</li>
+              <li>Creative Development</li>
               <li>Dancer Relations</li>
               <li>Entertainment</li>
               <li>External Communication</li>
@@ -84,18 +84,19 @@
               <li>Hospitality</li>
               <li>Internal Communication</li>
               <li>Marathon Relations</li>
-              <li>Marketing</li>
+              <li>Merchandise</li>
               <li>Morale</li>
+              <li>Multimedia</li>
               <li>Operations</li>
               <li>Public Relations</li>
               <li>Recruitment</li>
-              <li>Technology</li>
+              <li>Sponsorships</li>
             </ul>
           </li>
           <li>Captains
             <ul>
-              <li>Art and Layout</li>
               <li>Community Events</li>
+              <li>Creative Development</li>
               <li>Dancer Relations</li>
               <li>Entertainment</li>
               <li>Family Relations</li>
@@ -103,12 +104,13 @@
               <li>Finance</li>
               <li>Hospitality</li>
               <li>Marathon Relations</li>
-              <li>Marketing</li>
+              <li>Merchandise</li>
               <li>Morale</li>
+              <li>Multimedia</li>
               <li>Operations</li>
               <li>Public Relations</li>
               <li>Recruitment</li>
-              <li>Technology</li>
+              <li>Sponsorships</li>
             </ul>
           </li>
           <li>Staff</li>

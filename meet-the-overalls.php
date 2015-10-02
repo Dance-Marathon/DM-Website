@@ -7,238 +7,43 @@
 
   $overalls = array(
     array(
-      'name'                  =>  'Taylor Chambers',
+      'name'                  =>  'Keith Shopa',
       'position'              =>  'Overall Director',
-      'email'                 =>  'tchambers@floridadm.org',
-      'previous_involvement'  =>  'Dancer Relations Staff, Dancer Relations Captain, Dancer Relations Overall Director',
-      'major'                 =>  'Health Education and Behavior',
-      'minor'                 =>  '',
-      'hometown'              =>  'Winter Garden, FL',
-      'outside_involvement'   =>  'UF Shands Volunteer',
-      'free_time'             =>  'I love to experience new things, whether it be food, travel or music.  Spending time with family and friends is always at the top of my list as well!',
-      'fun_fact'              =>  'I was home-schooled until my sophomore year of high school.',
-      'favorite_memory'       =>  '<p>It&#39;s impossible to pick just one because there are so many amazing memories. But, I can say that one stand out moment was when Dance Marathon had the opportunity to perform at the halftime show of a Gator football game. It was an incredible experience and in the moment I didn&#39;t realize how iconic it would be. After we finished dancing, our Miracle Child Geoffrey got to conduct the UF Marching Band while his story was shared over the loud speaker to the Gator Nation. What admittedly started as a selfish moment performing on the field turned into a beautifully humbling moment watching this amazing Miracle Child live out a milestone in his life. And at the end of the day that is what it&#39;s all about, giving the kids a chance to have a childhood and experience everything life has to offer. It&#39;s something that I will remember forever.</p>',
-      'motivation'            =>  '<p>The biggest realization that I have had being involved with Dance Marathon is that we have the power to make a difference. Our efforts, as trivial as they may seem at times, make a difference to these kids and to their families. That is something that has resonated with me and become a reality over the years I&#39;ve spent giving back through Dance Marathon and that is a driving force in my journey. This organization is more than simply raising money, it&#39;s more than an annual event, and it is absolutely about more than you or me. It&#39;s about being that beacon of hope, encouragement, and passion for everyone you come in contact with through Dance Marathon. It&#39;s about showing others that a group of passionate individuals can inspire people, come together, and make miracles happen every day. It is a way of living. This is why I choose to give back through Dance Marathon. Because in the midst of all our efforts, putting our heart and soul into the cause, we somehow get more in return than we could possibly have ever given and that is a powerful feeling.</p>',
-      'image'                 =>  'Taylor'
-    ),
-    array(
-      'name'                  =>  'Andrew Giacini',
-      'position'              =>  'External Communication Overall',
-      'email'                 =>  'agiacini@floridadm.org',
-      'previous_involvement'  =>  'Dancer & Staff, two-year Finance Captain',
-      'major'                 =>  'Business Economics',
-      'minor'                 =>  'Accounting',
-      'hometown'              =>  'Chattanooga, TN',
-      'outside_involvement'   =>  'Chief of Staff for the UF Student Body President, Interfraternity Council, Faculty Senate Member, Secretary of Student Services, Florida Blue Key, Gators of Tomorrow',
-      'free_time'             =>  'Travel, Family, Friends, Gator Football, TV, and Eating.',
-      'fun_fact'              =>  'I served on the Board of Directors for the Gymboree Corporation.',
-      'favorite_memory'       =>  '<p>Although I would never ever recommend anyone doing it, freshman year I managed to be both a dancer and an Operations Staff member. I left the floor after several hours of dancing to go check in for my shift, went to 2nd floor and was in awe as I looked down on the floor. Hundreds and hundreds of people were mulling around, smiles on their faces, and balls flying, the energy was overly abundant. I then look across the dome and see several Miracle Family parents mesmerized by the same scene.</p><p>It is amazing that our event and our efforts encourage students to be ambitious, bring thousands of people together for one purpose, remind students and grownups they were once kids, and remind Miracle families of the pleasures and joys in the world, meanwhile DM truly has the ability to impact the future of our community and limitless children for the better.</p>',
-      'motivation'            =>  '<p>Although Dance Marathon is exciting, electric, exhilarating, and gives you a reason to be a kid again for 26.2 hours, the event is but a mere representation of what we are truly accomplishing. Students symbolically stand for those who can&#39;t and in honor of what we would love to see every child doing, truly enjoying their time. I am involved with and passionate about DM because it reminds me of the struggles that exist and the luck I have had. But more importantly, Dance Marathon provokes anyone involved to look into the past at the medical success stories that have changed lives and ponder the future where our efforts will impact families, make miracles, and encourage others to get involved. I am avid about and devoted to DM because I want everyone to be FTK.</p>',
-      'image'                 =>  'Andrew'
-    ),
-    array(
-      'name'                  =>  'Nha-Uyen Hua',
-      'position'              =>  'Internal Communication Overall',
-      'email'                 =>  'nhua@floridadm.org',
-      'previous_involvement'  =>  '2-year Dancer Relations Captain',
-      'major'                 =>  'Accounting',
-      'minor'                 =>  'Classical Studies',
-      'hometown'              =>  'Plantation, FL',
-      'outside_involvement'   =>  'Florida Blue Key, Panhellenic Council, UF Honors College',
-      'free_time'             =>  'While I&#39;m in Gainesville, I love exploring new places, especially local restaurants. I also spend as much time as possible with family and friends whenever they&#39;re around. Although I like to keep busy, you&#39;ll probably find me on Netflix or napping if I have a break on a normal day.',
-      'fun_fact'              =>  'My friends like to joke that I have &#34;monkey feet&#34; because I frequently use my feet like hands... I can even open doors with them!',
-      'favorite_memory'       =>  '<p>During Dance Marathon 2013, miracle children came to cut off our hospital bands right before the total reveal. That year, Nate F. was our captain team&#39;s miracle child. Right before he cut off my band, he gave me a huge hug and thanked me. The entire team was crying and taking turns hugging each other as we realized a year of hard work and dedication made us family. It&#39;s definitely one of my favorite memories, and one I&#39;ll never forget.</p>',
-      'motivation'            =>  '<p>When I was a freshman, I was set on being a dancer and messaged a delegate to ask what I needed to do. She told me that dancers had already been picked, and I unfortunately wouldn&#39;t be dancing that year. I was really disappointed until someone approached me about doing Jailbreak. I had no idea how much that little experience would shape my passion and involvement for DM. After meeting &#34;bail&#34; and hanging out on the floor with dancers, staff, captain and miracle families for a couple hours, I knew that I had to do more to give back. I had the amazing opportunity to be a Dancer Relations captain (for 2 years!) and be a part of an incredible family that took it upon themselves to make miracles happen in any way that they could.</p><p>When I see these miracle children and their families, I&#39;m reminded of my little brother. I give so much to this organization because it could be him, and I would want someone to fight for him. Being a leader in DM has given me the chance to surround myself with selfless, inspiring and motivated students. To see a group of people work tirelessly for a single cause and for the kids is truly amazing, and I couldn&#39;t imagine my time at the University of Florida without Dance Marathon.</p>',
-      'image'                 =>  'Nha'
-    ),
-    array(
-      'name'                  =>  'Em McMillen',
-      'position'              =>  'Finance Overall',
-      'email'                 =>  'emcmillen@floridadm.org',
-      'previous_involvement'  =>  'Morale Staff, two-year Finance Captain',
-      'major'                 =>  'Industrial & Systems Engineering',
-      'minor'                 =>  '',
-      'hometown'              =>  'Orlando, FL',
-      'outside_involvement'   =>  'Panhellenic Council, National Society of Black Engineers, Society of Women Engineers',
-      'free_time'             =>  'In my free time I love to cook and bake! I also enjoy traveling, spending time with my family/friends, and playing the cello.',
-      'fun_fact'              =>  'In 6th grade I decided my New Year&#39;s resolution would be to become a vegetarian. It&#39;s the only News Year&#39;s resolution I&#39;ve ever kept!',
-      'favorite_memory'       =>  '<p>It was 2014&#39;s Closing Ceremonies. Standing with my fellow Finance Captains (all of us in tears from our Overall&#39;s speech before total reveal), hugging each other trying to keep it together. And then the total goes up! Everyone is so busy looking at the numbers, they don&#39;t get to see the reactions of the Miracle Children when they first see the total. There is so much joy in their eyes. It&#39;s an honor to think that all of us were a part of that.</p>',
-      'motivation'            =>  '<p>As a member of the Finance Team, you tend to find yourself sending emails and updating fundraising pages more often than not. I may spend my day working on spreadsheets, but when I go to sleep at night - I remember how blessed I am and how Dance Marathon has not only changed my life, but the lives of children, young adults and families everywhere.</p><p>These amazing people are the reason I love Dance Marathon and inspired me to become a leader within UF DM! Every child that CMN touches and that UF DM reaches- they are in my heart and my soul and some of them don&#39;t even know who I am. That&#39;s why Dance Marathon is so powerful. It&#39;s these types of connections that have made our endeavor to help these children and families so successful.</p><p>Dance Marathon is not something you did, or something you do in college. Dance Marathon is something that is a part of you for the rest of your life!</p>',
-      'image'                 =>  'Em'
-    ),
-    array(
-      'name'                  =>  'Hailey Boerema',
-      'position'              =>  'Art & Layout Overall',
-      'email'                 =>  'hboerema@floridadm.org',
-      'previous_involvement'  =>  'Dancer, Art & Layout Captain',
-      'major'                 =>  'Master&#39;s: Web Design and Online Communications, Bachelor&#39;s: Advertising',
-      'minor'                 =>  'Graphic Design',
-      'hometown'              =>  'Orlando, FL',
-      'outside_involvement'   =>  'Panhellenic Council, Danza Dance Company, UF Ad Society',
-      'free_time'             =>  'Dance (I have been for 18 years)',
-      'fun_fact'              =>  '...but bungee jumping WHILE IN Australia is kinda creative?',
-      'favorite_memory'       =>  '<p>Throughout my three years of experience in Dance Marathon, my favorite memory is easily the time I spent photographing the Family Room during Dance Marathon 2014. Not only did I get to meet a lot of the families, but I got to interact with them outside of the hospital. I got to see the side of them where they forget all the hardships they&#39;ve faced in the hospital and just have fun. I specifically remember Zander&#39;s father so excited to show me all the pictures of his son dancing and doing cartwheels. I sat there for 45 minutes exchanging images and listening to stories. It was so inspiring to hear how proud he was of his son. Zander is not even a quarter of my age, but his strength and energy is something I look up to.</p>',
-      'motivation'            =>  '<p>When I first came to UF, I didn&#39;t know anything about the depth of what Dance Marathon stood for. I joined an organization that talked a lot about T-shirt check-ins and raising money to participate in an annual event. I attended the events, checked-in for the mysterious “spirit points” everyone kept talking about and raised enough money to make it on the list to dance with my organization. Once dance marathon rolled around, I experienced one of the most challenging and moving moments of my life. I listened to children that weren&#39;t even half my age talk about hardships that I would never imagine facing. I saw parents pour their hearts out to a bunch of strangers, exposing their battles to a crowd of people. It was that moment that it started to hit me more that Dance Marathon was a lot more than I could even begin to understand.</p><p>As a staff member, I got to see an entire different side to the Dance Marathon experience. Instead of standing and fighting for those who can&#39;t, I was helping the people stand and fight. As a very optimistic person, I was drawn toward keeping the energy up and giving piggyback rides to people twice my size. I was the staff member that didn&#39;t ever want to leave, because sleeping was last on my priority list.</p><p>As a captain I was exposed to a completely different side of Dance Marathon. Rather than focusing more on myself surviving the endurance of standing for 26.2 hours, I was able to witness the entire purpose behind Dance Marathon: the kids. As a photographer at the event, I was able to roam the Odome and see all the different activities going on throughout the weekend. It truly hit home for me when I started to photograph the miracle children. When I would try to photograph them, I found myself surrounded by such smiles and energy. I started to get mixed up between who was a miracle child and who wasn&#39;t, just because they were such strong fighters. I was able to talk to the parents of a few of the miracle children as well. They&#39;re eyes lit up every time they talked about their child and were so willing to share their story and their experience. </p><p>I continue to support the cause because every smile, every picture, every story, and every tear is proof that miracles can happen. No matter how small the victory is, your efforts make an impact on kids&#39; lives, and I&#39;m so happy to be a part of it for three years and counting.</p>',
-      'image'                 =>  'Hailey'
-    ),
-    array(
-      'name'                  =>  'Jacqueline Papilsky',
-      'position'              =>  'Community Events Overall',
-      'email'                 =>  'jpapilsky@floridadm.org',
-      'previous_involvement'  =>  'Dancer, two-year Community Events Captain',
-      'major'                 =>  'Psychology',
-      'minor'                 =>  'Disability in Society',
-      'hometown'              =>  'Palm Beach Gardens, FL',
-      'outside_involvement'   =>  'ReadingPals volunteer',
-      'free_time'             =>  'I love spending time with my friends and family, playing with my dog Nike, going to the gym, watching Netflix and finding new adventures to go on!',
-      'fun_fact'              =>  'I am obsessed with cheese! I would eat grilled cheese every day if I could!',
-      'favorite_memory'       =>  '<p>My favorite DM memory was my Freshman year when I was a dancer and experienced Dance Marathon for my first time. I never thought that I would be able to stand for 26.2 hours but having all of my friends support me and listening to the miracles stories allowed me to push through. From playing with a bouncy ball for three hours straight, eating everything that I could, and jumping for joy at the rave, I loved every second of it and from that moment on I knew that I wanted to dedicate my life to DM and do all that I could to make miracles happen For The Kids.</p>',
-      'motivation'            =>  '<p>Everyday I am reminded of how fortunate I am to have gotten involved in this incredible organization that truly changes lives. My family and I know first hand how hard it is to watch a child fight for their life and I never want another Miracle Child to go through that. Dance Marathon not only brings happiness and joy to the children, but hope and miracles to the families as well. Seeing the smiles in the miracle children and watching the numbers grow year after year inspires me to do all that I can to ensure miracles will happen for years to come!</p><p>I am incredibly honored to serve as the Community Events Overall and strive to keep the magic of Dance Marathon alive all year round. The different events put on throughout the year are proof of the dedication and commitment that the entire University of Florida and Gainesville community have for this organization. I am so excited to see the miracles that we will make this year!</p>',
-      'image'                 =>  'Jacqueline'
-    ),
-    array(
-      'name'                  =>  'Suzy Schrimsher',
-      'position'              =>  'Dancer Relations Overall',
-      'email'                 =>  'sschrimsher@floridadm.org',
-      'previous_involvement'  =>  'Two-year Dancer, Dancer Relations Captain',
-      'major'                 =>  'Family Youth and Community Sciences',
-      'minor'                 =>  'International Studies, Mass Communications',
-      'hometown'              =>  'Orlando, FL',
-      'outside_involvement'   =>  'Doulos Greek Ministry, Free Dove Market, Inc., Panhellenic Council',
-      'free_time'             =>  'I love to go on adventures with my friends, try new restaurants, read and go to group fitness classes!',
-      'fun_fact'              =>  'I teach group fitness classes through RecSports here at UF! Come run stadiums and do interval training with me',
-      'favorite_memory'       =>  '<p>I will never forget when the Mullen family had our entire Dancer Relations team over for dinner. We had so much fun hanging out with them and reflecting on the impact Dance Marathon has had on their son, Nick. At the end of the night, they drew a name out of a hat to donate to and I was surprised and humbled to hear my name called. It was a beautiful picture of how UF students and the families we support join together to be one team for the same cause, supporting each other along the way.</p>',
-      'motivation'            =>  '<p>I love Dance Marathon because it is something that can only be accomplished when many people join together with the same mission. It is humbling to see so many children and family&#39;s lives positively changed by Dance Marathon year after year. I have never been more proud to be a part of something, especially during my time in college. Volunteering in the Child Life Department at the hospital brought to life the impact that Dance Marathon has on every child&#39;s life individually. A lover of kids myself, and an aunt to 8 little goofballs, DM has a special place in my heart that will never go away. I could not be happier to spend my senior year in college investing time into this wonderful organization with so many beautiful people.</p>',
-      'image'                 =>  'Suzy'
-    ),
-    array(
-      'name'                  =>  'Julie Riddle',
-      'position'              =>  'Entertainment Overall',
-      'email'                 =>  'jriddle@floridadm.org',
-      'previous_involvement'  =>  'Entertainment Captain',
-      'major'                 =>  'Zoology and Psychology',
-      'minor'                 =>  '',
-      'hometown'              =>  'Odessa, FL',
-      'outside_involvement'   =>  'Assistant Show One, Technical Division, O&#39;Connell Center',
-      'free_time'             =>  'I love working with all animals, big and small! I primarily spend my down-time reading, napping, or with friends, but I would much prefer to go on random adventures any day!',
-      'fun_fact'              =>  'I&#39;ve worked at a wild cat sanctuary since I was 11 after I started a junior volunteer program there!',
-      'favorite_memory'       =>  '<p>I ran into a Miracle Family on a bus home from class one morning and got to hear all of their stories throughout the years they had been involved in DM!</p>',
-      'motivation'            =>  '<p>I want to use entertainment to make DM an even bigger, better event than it was last year!</p>',
-      'image'                 =>  'Julie'
-    ),
-    array(
-      'name'                  =>  'Daniel Harbus',
-      'position'              =>  'Family Relations Overall',
-      'email'                 =>  'dharbus@floridadm.org',
-      'previous_involvement'  =>  'Dancer, two-year Delegate, Family Relations Captain',
-      'major'                 =>  'Business Administration, Specialization in Travel/Tourism Management',
-      'minor'                 =>  '',
-      'hometown'              =>  'Suffern, NY',
-      'outside_involvement'   =>  'Community Involvement for Florida Blue Key, Florida Leadership Academy, Inter-Fraternity Council',
-      'free_time'             =>  'I love to spend time with my family, friends and dogs, travel as much as I can, go on runs and really anything to do with Dance Marathon!',
-      'fun_fact'              =>  'I have a crazy obsession with cruise ships and can tell you nearly anything about each and every one.',
-      'favorite_memory'       =>  '<p>One of my favorite memories from Dance Marathon is from this past years closing ceremonies. After telling their miracle story, one of our miracle families expressed how DM does not end after the event. While we may be done physically standing for 26.2 hours, so many children are still overcoming many obstacles. Within weeks and months of DM, more children have appointments and treatments they need and this is crucial to always remember. We do not dance for just 26.2 hours but for a lifetime and we will not stop until there are no longer sick children. Our miracle family stated, &#34;Dance Marathon won&#39;t be something you did, but something you do.&#34; This is why I will always give back to Dance Marathon for as long as I can.</p>',
-      'motivation'            =>  '<p>The summer before my sophomore year of high school, my close friend was on a trip to the west coast. When she was getting off the bus in Las Vegas, her legs gave out and she fell to the floor. That was the last moment she stood. She was diagnosed weeks later with Transverse Myelitis, which is a rare inflammation of the spinal chord. She is now paralyzed from her waist down. I am so fortunate to have the life I have and if I could do anything to help others whether that be simply making someone smile, it is the way I live each and every day. I stand for my friend who can no longer stand herself and for all of our miracle children whose stories have inspired me immensely to be a better person and appreciate my family and friends to the fullest.</p><p>It is not that easy to be able to find that niche and place you belong in at such a large university. However, Dance Marathon at the University of Florida is an amazing organization with so many members who have similar aspirations, to help kids. It&#39;s great to see an organization that influences so many on campus to give back to such a great cause. Ever since my first Dance Marathon as a dancer/delegate than the following year as a Family Relations captain, the feeling you get from simply standing in the O&#39;Dome is indescribable. Seeing the smiles and excitement on our miracle children&#39;s faces and watching thousands of students year worth of hard work all come together is unbelievable. Dance Marathon is so much bigger than ourselves and I am lucky to be a part of such an incredible organization. I am so honored to serve as the 2015 Family Relations Overall and can&#39;t wait to make more miracles happen for the kids!</p>',
-      'image'                 =>  'Daniel'
-    ),
-    array(
-      'name'                  =>  'Libby Tonner',
-      'position'              =>  'Hospitality Overall',
-      'email'                 =>  'ltonner@floridadm.org',
-      'previous_involvement'  =>  'Two-year Hospitality Captain',
-      'major'                 =>  'International Business',
-      'minor'                 =>  '',
-      'hometown'              =>  'Vero Beach, FL',
-      'outside_involvement'   =>  'Panhellenic Council, Warrington College of Business Administration',
-      'free_time'             =>  'I like to try new foods, watch Bravo, travel and spend time with friends and family!',
-      'fun_fact'              =>  'I called grapes &#34;peeps&#34; as a child.',
-      'favorite_memory'       =>  '<p>One of my favorite things about Dance Marathon has always been Miracle Night at Sweet Dreams. Scooping ice-cream flavors created by the kids is always so much fun!</p>',
-      'motivation'            =>  '<p>On February 8th, 2013, just a mere 62 days before Dance Marathon 2013, the unimaginable happened; pediatric cancer became a reality for my family. My nine-year-old cousin, Carmen Elizabeth Liehe, was diagnosed with Glioblastoma Multiforme, the most aggressive and terminal type of brain cancer. I never imagined that something so real would ever happen to somebody so close to me.</p><p>As a first year Hospitality Captain, I was fortunate enough to tour UF Health Shands Children&#39;s Hospital, but I didn&#39;t fully understand how incredible it truly was at the time. During one of our many family visits to California to see Carmen, I quickly began to realize the immense impact of Dance Marathon. Carmen&#39;s hospital didn&#39;t even compare to the spirited and energetic accommodations of UF Health Shands Children&#39;s Hospital. Because of these experiences, I have seen first-hand the impact that Dance Marathon has on Miracle Families both in and out of the hospital.</p><p>My family&#39;s experience with pediatric cancer has opened my eyes to the challenges and struggles that these families face each and every day. Dance Marathon has found a place in my heart and I am so honored and excited to serve on the Overall Team for Dance Marathon 2015!</p>',
-      'image'                 =>  'Libby'
-    ),
-    array(
-      'name'                  =>  'Alex Griffin',
-      'position'              =>  'Marathon Relations Overall ',
-      'email'                 =>  'agriffin@floridadm.org',
-      'previous_involvement'  =>  'Dancer, Recruitment Captain',
-      'major'                 =>  'Accounting',
-      'minor'                 =>  '',
-      'hometown'              =>  'Chattanooga, TN',
-      'outside_involvement'   =>  'International Programs Student Ambassador',
-      'free_time'             =>  'Read books, watch TV, exercise and cook',
-      'fun_fact'              =>  'In high school, I was the lead singer in a band called &#34;Falcon Punch.&#34;',
-      'favorite_memory'       =>  '<p>My favorite memory was my first High School Dance Marathon at Palm Beach Central this past year. It was incredibly moving to see so many high school students show such strong support for Dance Marathon, especially since their school is four hours from Gainesville!</p>',
-      'motivation'            =>  '<p>What drives me to be a leader are the leaders around me. Everyone else within the organization brings such energy and life to the event. This past year, my team pushed me to levels of success I could not have hoped to achieve on my own. They are a main reason why I love Dance Marathon. In addition, being able to help the Miracle Families in any way possible is a huge motivation! These children go through so much that making their day a little bit better is enough motivation for me.</p>',
-      'image'                 =>  'Griff'
+      'email'                 =>  'kshopa@floridadm.org',
+      'previous_involvement'  =>  'Dancer, Two-year Morale Captain, Morale Overall',
+      'grad'                  =>  'Masters in Health Education & Behavior',
+      'undergrad'             =>  'Bachelor of Science',
+      'hometown'              =>  'Port Charlotte, FL',
+      'outside_involvement'   =>  'Camp Kesem, Young Leaders Conference, Global Medical Training, Gators March for Babies, UFHealth Volunteer',
+      'free_time'             =>  'I enjoy spending time with my family and friends, watching movies, exercising, traveling and listening to &#39;N Sync (the greatest band ever).',
+      'fun_fact'              =>  'I live on a farm, with just about every critter you can think of!',
+      'favorite_memory'       =>  '<p>Witnessing the pure energy, and excitement of my Morale team last year when they broke our team&#39;s fundraising goal just days before the event!</p>',
+      'motivation'            =>  '<p>It&#39;s not often that an individual can put forth an effort to make a difference and actually see that change take place and benefit the lives of others. With Dance Marathon though they can. When I signed up to be a dancer my freshmen year I had no idea how incredible of an experience it would be or that I was embarking on a journey with Dance Marathon and Children&#39;s Miracle Network that would define the man I would grow to be. With every miracle story I heard, or line-dance I danced for those 26.2 hours I soon learned that I wanted to help the culture that is Dance Marathon grow from that point on.</p><p>Not a day goes by where I don&#39;t think about the event and the difference it makes for the kids. I&#39;m so honored to be able to use my experiences to represent this organization in its 22nd year. In my time being involved with DM, I&#39;ve seen a community come together to make a difference. I&#39;ve seen a culture spread across the campus. I&#39;ve seen children defy the odds stacked against them and do it with a smile on their face. All I can say now is that I can&#39;t wait to be a part of what comes next!</p>',
+      'image'                 =>  'Keith'
     ),
     array(
       'name'                  =>  'Mackenzie LaPorte',
-      'position'              =>  'Marketing Overall',
+      'position'              =>  'External Communication Overall',
       'email'                 =>  'mlaporte@floridadm.org',
-      'previous_involvement'  =>  'Morale Staff, Marketing Captain',
+      'previous_involvement'  =>  'Morale Staff, Marketing Captain, Marketing Overall',
       'major'                 =>  'Marketing',
       'minor'                 =>  '',
       'hometown'              =>  'Ponte Vedra Beach, FL',
       'outside_involvement'   =>  'Panhellenic Council, Ad Society, American Marketing Association',
       'free_time'             =>  'I like to spend time with my friends exploring Gainesville, travel anywhere I can and listening to music!',
       'fun_fact'              =>  'Fruity pebbles are my all-time-favorite cereal',
-      'favorite_memory'       =>  '<p>My favorite DM memory would definitely be meeting Kaedyn and his family with the rest of the marketing team!</p>',
-      'motivation'            =>  '<p>I didn&#39;t know much about Dance Marathon as a freshman and applied to be a part of the morale staff to try to get involved. The second I stepped inside the O&#39;dome for DM 2013, I fell in love with the cause. There was an electric feeling in the air, and seeing how special this event was for the miracle children was incredible. After that I decided I wanted to help this cause in any way I could, and I am so honored to be a part of the 2015 Overall Team!</p>',
+      'favorite_memory'       =>  '<p>My favorite DM memory would definitely be the feeling in the O&#39;Dome when we raised the numbers for our 2 million dollar record this past year. The looks of shock, happiness, and emotion on everyone&#39;s faces were amazing.</p>',
+      'motivation'            =>  '<p>What motivates me with DM is every interaction I have had with a miracle child. From shooting hoops with Nick Mullen, to playing paper airplanes with Kaedyn, those are the moments I&#39;m lucky to have with the amazing kids of Shands that make giving my time to DM worthwhile. </p>',
       'image'                 =>  'Mackenzie'
     ),
     array(
-      'name'                  =>  'Keith Shopa',
-      'position'              =>  'Morale Overall ',
-      'email'                 =>  'kshopa@floridadm.org',
-      'previous_involvement'  =>  'Dancer, two-year Morale Captain',
-      'major'                 =>  'Biology',
-      'minor'                 =>  'Business Administration',
-      'hometown'              =>  'Port Charlotte, FL',
-      'outside_involvement'   =>  'Camp Kesem, Young Leaders Conference, Global Medical Training, Gators March for Babies, UFHealth Volunteer',
-      'free_time'             =>  'I enjoy spending time with my family and friends, watching movies, exercising, playing guitar and listening to &#39;N Sync (the greatest band ever).',
-      'fun_fact'              =>  'I live on a farm, with just about every critter you can think of!',
-      'favorite_memory'       =>  '<p>Performing the 2014 line-dance at 4:30am in a conjoined-siamese-twin-outfit with another fellow Morale captain that caused a sea of dancers to laugh and smile at a time where their spirits were growing tired.</p>',
-      'motivation'            =>  '<p>It&#39;s not often that an individual can put forth an effort to make a difference and actually see that change take place and benefit the lives of others. With Dance Marathon though they can. When I signed up to be a dancer my freshmen year I had no idea how incredible of an experience it would be or that I was embarking on a journey with Dance Marathon and Children&#39;s Miracle Network that would define the man I would grow to be. With every miracle story I heard, or line-dance I danced for those 26.2 hours I soon learned that I wanted to help the culture that is Dance Marathon grow from that point on.</p><p>I&#39;ve said it before and I&#39;ll say it again, if I could major in Dance Marathon and minor in Morale I&#39;d graduate next year with a 4.0 without a doubt. Not a day goes by where I don&#39;t think about the event and the difference it makes for the kids. I&#39;m so honored to be able to use my experiences as a dancer and a Morale captain and be able to reflect the spirit and passion of DM through this position. While I may not know exactly how I fell head-over-heels in love with this philanthropy, I do know that I&#39;m truly thankful I did.</p>',
-      'image'                 =>  'Keith'
-    ),
-    array(
-      'name'                  =>  'Carter Wallace',
-      'position'              =>  'Operations Overall',
-      'email'                 =>  'cwallace@floridadm.org',
-      'previous_involvement'  =>  'Operations Captain',
-      'major'                 =>  'History ',
-      'minor'                 =>  '',
-      'hometown'              =>  'Tampa, FL',
-      'outside_involvement'   =>  'Gator Growl',
-      'free_time'             =>  'Exercise, watch sports, read.',
-      'fun_fact'              =>  'I work at a camp for children with Muscular Dystrophy every summer.',
-      'favorite_memory'       =>  '<p>My favorite memory of DM was at Dance Marathon 2013, in which UF finally broke the $1 million mark for total fundraising. I can still picture the miracle families celebrating and hugging each other as the numbers were raised up during closing ceremonies. There was an electric feeling in the O&#39;Connell Center at that moment, as it seemed like there was no ceiling to what UF students could achieve if we stood united for a cause. This memory stays with me everyday as a reminder that Dance Marathon is an event like no other on this campus, and that is has the capacity to do extraordinary things for our community.</p>',
-      'motivation'            =>  '<p>When I first got involved in Dance Marathon, it was as an Operations staffer my freshman year. I did not fully understand what the event was about or even who exactly the money was benefiting. Still, I signed up to be a staffer again my sophomore year to learn more about the cause and why it had the effect that it did on so many UF students.</p><p>After staying for the closing ceremonies and hearing the stories from all the families, as well as taking in the fact that we as a school had raised over $1 million, I finally realized what Dance Marathon was all about. It was a group of young people at the University of Florida participating in something bigger than themselves, and achieving a feat that could only be done together. It no longer mattered what organization each individual belonged to; instead all that mattered was the common passion for children and their welfare. I knew right then and there that I wanted to be more involved in DM and make it a central part of my life. That is why I applied to be a captain my Junior year and it is why I am now the Overall for Operations for this upcoming DM. I want to be able to say that I truly helped people while I was in college, and I can think of no better way to do that than Dance Marathon.</p>',
-      'image'                 =>  'Carter'
-    ),
-    array(
-      'name'                  =>  'Melissa Dukes',
-      'position'              =>  'Public Relations Overall',
-      'email'                 =>  'mdukes@floridadm.org',
-      'previous_involvement'  =>  'Dancer, Public Relations Captain',
-      'major'                 =>  'Public Relations',
-      'minor'                 =>  'Business Administration and Non-Profit',
-      'hometown'              =>  'Orlando, FL',
-      'outside_involvement'   =>  'Panhellenic Council, Campus Crusade for Christ, Doulos',
-      'free_time'             =>  'I love spending time with friends and family, doing anything active and adventurous, traveling and attempting to be a foodie.',
-      'fun_fact'              =>  'Every single animal movie makes me cry, including Air Bud.',
-      'favorite_memory'       =>  '<p>My favorite memory of DM so far was watching the reactions of the Miracle Children and their families when the total was revealed. Seeing their joy and excitement made every minute spent on Dance Marathon so real.</p>',
-      'motivation'            =>  '<p>After dancing two years ago, I was hooked on Dance Marathon. All you have to do is watch these kids laugh and play to know that they are worth giving everything you have to give them the opportunity for miracles. The battle they fight every day is something most of us will never understand, but to see the way they embrace every day is something we can all learn from them. Through Dance Marathon, we have the rare opportunity to directly impact these children&#39;s lives and seeing what DM provides these families makes me so excited to serve as an overall this year.</p>',
-      'image'                 =>  'Melissa'
-    ),
-    array(
       'name'                  =>  'Jenna Baxter',
-      'position'              =>  'Recruitment Overall',
+      'position'              =>  'Internal Communication Overall',
       'email'                 =>  'jbaxter@floridadm.org',
-      'previous_involvement'  =>  'Marketing Captain, Recruitment Captain',
+      'previous_involvement'  =>  'Marketing Captain, Recruitment Captain, Recruitment Overall',
       'major'                 =>  'Management',
       'minor'                 =>  '',
-      'hometown'              =>  'Wellington, TL',
+      'hometown'              =>  'Wellington, FL',
       'outside_involvement'   =>  'Panhellenic Council',
       'free_time'             =>  'I like to exercise, cook food and travel',
       'fun_fact'              =>  'I pole vaulted in high school.',
@@ -247,19 +52,229 @@
       'image'                 =>  'Jenna'
     ),
     array(
-      'name'                  =>  'Alex Migdall',
-      'position'              =>  'Technology Overall',
-      'email'                 =>  'amigdall@floridadm.org',
-      'previous_involvement'  =>  'Hospitality Staff, Hospitality Captain, Technology Captain',
-      'major'                 =>  'Industrial and Systems Engineering',
+      'name'                  =>  'Garrett Robertson',
+      'position'              =>  'Finance Overall',
+      'email'                 =>  'grobertson@floridadm.org',
+      'previous_involvement'  =>  'Dancer, Operations Staff, Finance Captain',
+      'major'                 =>  'Business Economics and International Studies',
+      'minor'                 =>  'Spanish',
+      'hometown'              =>  'Tampa, FL',
+      'outside_involvement'   =>  'Gainesville Reads, Student Government, Reitz Scholars, Florida Blue Key',
+      'free_time'             =>  'I like to exercise, hangout with friends, watch netflix, or any combination of the three.',
+      'fun_fact'              =>  'I love to travel and have been to 19 countries and 20 states',
+      'favorite_memory'       =>  '<p>As a Finance Captain, during the event all of us are stuck in a back room counting coins and inputing checks. We didn&#39;t have much interaction with people outside of our room, but at one point in the evening the miracle children had a scavenger hunt, and one of their clues led them to the finance room. It was the greatest thing to see their smiling faces all come in and greet us, they were so appreciative of everything we were doing. It really put into perspective that every dollar raised is a miracle, and I&#39;m so happy to do anything for the kids.</p>',
+      'motivation'            =>  '<p>Dance Marathon is something that grows on you a little bit everyday, from meeting families, to seeing what our fundraising directly goes to, its just always on your mind. Knowing that I can make a positive impact in someone else&#39;s life by doing something I love is the best thing in the world. I&#39;m motivated by all of the good DM has done, and the boundaries we continuously push to make DM at UF even greater.</p>',
+      'image'                 =>  'Garrett'
+    ),
+    array(
+      'name'                  =>  'Leland Van Alstyne',
+      'position'              =>  'Multimedia Overall',
+      'email'                 =>  'lvanalstyne@floridadm.org',
+      'previous_involvement'  =>  'Art & Layout Captain',
+      'major'                 =>  'Photography',
+      'minor'                 =>  '',
+      'hometown'              =>  'Bradenton, FL',
+      'outside_involvement'   =>  'Delta Zeta Sorority',
+      'free_time'             =>  'I love to photograph everything (duh). Traveling, music festivals, and adventuring with friends and family are what consumes most of my time. And Netflix...',
+      'fun_fact'              =>  'I have lived in New York, Massachusetts, California, New Hampshire and Florida.',
+      'favorite_memory'       =>  '<p>My favorite DM memory is from last year, I was up front by the stage taking all those beautiful ugly crying photos of everyone after the final total was revealed, when finally I couldn&#39;t see anything (because I was ugly crying, just behind my camera) and Zander&#39;s mom, who had no idea who I was, hugged me and started thanking me for everything we had done for her family and the Children&#39;s Miracle Network. I obviously knew that what we were doing was amazing and that we were making a difference, but when she was saying all those wonderful things about Dance Marathon at UF I finally felt the impact of it all and was unbelievably proud of everyone in the O&#39;Dome. I have carried that feeling with me since then. </p>',
+      'motivation'            =>  '<p>The amazing people I have worked with throughout my years with Dance Marathon motivate me. Their ceaseless passion, creativity and strength inspires me to give my all to Dance Marathon at UF. The Miracle Children posses so much hope and courage that its contagious. The children and their families are a constant reminder of why we are doing this and what we are doing this for.</p>',
+      'image'                 =>  'Leland'
+    ),
+    array(
+      'name'                  =>  'Matthew Weider',
+      'position'              =>  'Community Events Overall',
+      'email'                 =>  'mweider@floridadm.org',
+      'previous_involvement'  =>  'Two-year Entertainment Captain, Community Events Captain',
+      'major'                 =>  'Health Administration',
+      'minor'                 =>  '',
+      'hometown'              =>  'Plantation, FL',
+      'outside_involvement'   =>  'Health Administration Student Association ',
+      'free_time'             =>  'I enjoy sailing, jet skiing, paddle boarding, rock climbing, exercising and finding great restaurants in Gainesville.',
+      'fun_fact'              =>  'I am one of the most accident-prone people you will ever meet; seriously I trip over my own two feet, yet I haven&#39;t broken a bone!',
+      'favorite_memory'       =>  '<p>Hands down it has to be during my first year as a captain. During the wee hours of Sunday morning- sometime between 4 or 5 am- one of the final acts goes on stage. Once the act got announced over the speakers in the O&#39;Dome, I swear I saw the dancers bodies move toward the stage before their heads did. It sent me reeling for a few minutes, then the strangest thing happened. I saw their faces start to light up as the act started to play and it was in that moment that I realized how important the music and bands were to keeping the dancers motivated and on their feet. </p>',
+      'motivation'            =>  '<p>During my first year as a captain, I had no idea what I was getting myself into and I had not interacted with many miracle families at that point. All I knew was that the money I was raising was going to help sick kids in the hospital.  During my first fall as a captain, I went on a tour of the hospital, as they were showing us around the children&#39;s wing we passed by a party they were having for the Miracle Children. Out of no where Nate comes racing out of the room, oxygen tank in tow, stops in front of a painting he liked and then proceeds to start climbing on his oxygen tank to get a closer look. While this was occurring, I was freaking out in my head that he was going to fall and injure himself, but afterwards I realized that these Miracle Children are just like every other kid their age despite their illnesses. I was amazed that despite everything that they had been through, they still acted like any other little kid and were excited about life and the day before them.  This was something I had never seen before and I admired them for it. It was this moment that I was able to put a face to the cause and when I became committed to doing everything I could for these kids. This was when the miracle children became my heroes!</p> <p>From Nate blasting out of that room, to Nick winning bowling championships after championships, to little Isabella taking wobbly steps at the 5K this year, these kids are the reason why I continue to support Dance Marathon and Children’s Miracle Network. To support the little heroes I have seen and because of the possibilities of curing some of these diseases for good. I am a Dance Marathon junkie, fanatic, enthusiast and will continue to give 110 percent for them. </p>',
+      'image'                 =>  'Matt'
+    ),
+    array(
+      'name'                  =>  'Jenna Glick',
+      'position'              =>  'Dancer Relations Overall',
+      'email'                 =>  'jglick@floridadm.org',
+      'previous_involvement'  =>  'Dancer, Dancer Relations captain',
+      'major'                 =>  'Health Science Pre-Occupational Therapy',
+      'minor'                 =>  'Disabilities in Society',
+      'hometown'              =>  'Miami Beach, FL',
+      'outside_involvement'   =>  'UF Health Volunteer, Delta Phi Epsilon Sorority',
+      'free_time'             =>  'Spend time with friends and family, play with my two adorable dogs, and read.',
+      'fun_fact'              =>  'I can wiggle my left ear. Yes only my left ear, my right ear is not as talented!',
+      'favorite_memory'       =>  '<p>Among so many beautiful moments I have experienced during my involvement with Dance Marathon, the moments after this year&#39;s total reveal will forever be a favorite memory of mine. As I walked towards the stage to hug the rest of my team and my overall, two miracle moms stopped me, embraced me in a big, loving hug, and with tears in their eyes thanked me for all the work I had done that year. I can never come up with the words to accurately and fully describe how I felt in that moment but inspired, overwhelmed, grateful and proud are just a few. </p>',
+      'motivation'            =>  '<p>Nate, Nick, Isabella, Kaedyn, Camden, Ayden, all of our miracle children and closer to home a little girl very close to my heart. They have shown me the courage it takes to live each day with the struggles they face. There is a quote by an unknown author that states, "Sometimes you need to talk to a two year old just so you can understand life again." Children are incredibly resilient and the ability of our miracle children to see the good in every situation is so inspiring. They have taught me to go through life with a smile and face each day with the same strength and courage they do. </p>',
+      'image'                 =>  'Glick'
+    ),
+    array(
+      'name'                  =>  'Annaleigh Bonds',
+      'position'              =>  'Entertainment Overall',
+      'email'                 =>  'abonds@floridadm.org',
+      'previous_involvement'  =>  'Dancer, Two-year Entertainment Captain',
+      'major'                 =>  'Public Relations',
+      'minor'                 =>  'Entrepreneurship',
+      'hometown'              =>  'Orlando, FL',
+      'outside_involvement'   =>  'Sigma Kappa Sorority, Events Director/Vice President of Swamp Records, PRSSA community service committee',
+      'free_time'             =>  'I love to travel, see live music and spend time outdoors with friends and family. ',
+      'fun_fact'              =>  'My only sibling is 15 years older than me and yes he is my full, biological brother so... woops.',
+      'favorite_memory'       =>  '<p>Besides the emotional experience that is closing ceremonies, my best DM memories revolve around the times I get to bond with my team, whether it be filming silly videos, having potlucks or having heart to hearts about the kind of impact we are making.</p>',
+      'motivation'            =>  '<p>A simple smile and thank you from a miracle child and/or family member who is suffering. To feel I am making a positive difference in someone else&#39;s life is the greatest reward imaginable for me. </p>',
+      'image'                 =>  'Annaleigh'
+    ),
+    array(
+      'name'                  =>  'Allison Buenaga',
+      'position'              =>  'Family Relations Overall',
+      'email'                 =>  'abuenaga@floridadm.org',
+      'previous_involvement'  =>  'Dancer, Family Relations Captain',
+      'major'                 =>  'Sociology',
+      'minor'                 =>  '',
+      'hometown'              =>  'Ponte Vedra Beach, FL',
+      'outside_involvement'   =>  'Stronger than Stigma at the University of Florida, Delta Zeta Sorority',
+      'free_time'             =>  'I love watching any show on TLC, dancing and laughing with my friends!',
+      'fun_fact'              =>  'I have an extreme fear of cows.',
+      'favorite_memory'       =>  '<p>My favorite Dance Marathon memory was seeing the total reveal this past year at Dance Marathon 2015. Fundraising above $2,000,000 was such an incredible milestone to be a part of. I will never forget seeing Nick and Nate, two of our miracle children, crying. When I saw tears streaming down their faces I realized that they are able to understand that their lives have been impacted by Dance Marathon. Numerous miracle families were coming up to me and thanking me for all that we do, really though, I should be thanking them because they have all taught us so much.</p>',
+      'motivation'            =>  '<p>Being the Family Relations Overall allows me to work very closely with all of our Miracle Families. These amazing families motivate me each and everyday. The miracle children are my true heroes and they inspire me to never give up on life and to always have a smile on my face.  Seeing them extremely happy and carefree shows me how Dance Marathon at the University of Florida has impacted them. They have changed my life in numerous ways and I am so grateful to have met each and every one of them. There are truly not enough words to describe how much Dance Marathon means to me, but I know it is something that I will carry with me forever.</p>',
+      'image'                 =>  'Buenaga'
+    ),
+    array(
+      'name'                  =>  'Alexa Podolsky',
+      'position'              =>  'Hospitality Overall',
+      'email'                 =>  'apodolsky@floridadm.org',
+      'previous_involvement'  =>  'Dancer, Two-year Hospitality Captain',
+      'grad'                  =>  'Masters in Management',
+      'undergrad'             =>  'Major in Food Science and Minor in Packaging Science',
+      'hometown'              =>  'Weston, FL',
+      'outside_involvement'   =>  'Food Science and Human Nutrition Club, Alpha Epsilon Phi Sorority',
+      'free_time'             =>  'Hang out with friends and family, cook (and eat!)',
+      'fun_fact'              =>  'I like every food except olives and pickles',
+      'favorite_memory'       =>  '<p>Freshman year, seeing the 1.15 million dollar total go up, and the instant tears which followed</p>',
+      'motivation'            =>  '<p>The Kids! Being with them, seeing their ups and downs, and knowing I can make a difference.</p>',
+      'image'                 =>  'Alexa'
+    ),
+    array(
+      'name'                  =>  'Drew Carlton',
+      'position'              =>  'Marathon Relations Overall ',
+      'email'                 =>  'dcarlton@floridadm.org',
+      'previous_involvement'  =>  'Dancer,Marathon Relations Captain',
+      'major'                 =>  'Microbiology and Cell Science',
       'minor'                 =>  'Business Administration',
-      'hometown'              =>  'Fort Lauderdale, FL',
-      'outside_involvement'   =>  'UF RecSports, Interfraternity Council, FHSAA Basketball Official',
-      'free_time'             =>  'I enjoy playing basketball, going out to eat, watching movies and officiating basketball games.',
-      'fun_fact'              =>  'I&#39;ve been in a movie and a commercial before. Everyone calls me &#34;Mig.&#34;',
-      'favorite_memory'       =>  '<p>My favorite memory occurred while being a part of a dinner hosted for a Miracle Family last year. When you&#39;re at the event and you hear the struggles of the children, you never truly understand what the day to day life for their parents are. Going to ONE dinner, spending ONE hour with this family helped give me the glimpse into their lives I never thought about. The constant priority of the children in the parents&#39; lives is truly inspiring. I learned how wonderful the stories can be and how the parent&#39;s stories can be just as amazing, just as inspiring as their children&#39;s.</p>',
-      'motivation'            => '<p>A wise man once said &#34;The meaning of life is to plant trees for whose shade you do not intend to sit.&#34; When I became a part of the technology team, I experienced so much enlightenment regarding the inner workings of this organization. I walked with nothing but passion and potential, and here I am, having gained knowledge in filming, editing, coding, website building & maintenance, and event logistics. What motivates me is the potential this position has. We have the opportunity to bring Dance Marathon to a completely new level of awareness and participation through a more cohesive, straightforward website, addition of a mobile app and producing high quality videos.</p><p>The future of this organization is based on the assets we cultivate for the future. I am highly motivated by the opportunity to build up Captains who will steadily contribute to this organization over the years to come. This motivation is more of a transformation from the passion to contribute to a cause much bigger than myself into cultivating that passion within others.</p>',
-      'image'                 =>'Mig'
+      'hometown'              =>  'Sanibel, FL',
+      'outside_involvement'   =>  'In addition to my position on the Overall Team, I am an active member of the Florida Cicerones, the official student ambassadors of UF where I serve as the committee chair for Dance Marathon within the organization. I am a member of the Sigma Chi fraternity having served as Rush Chair, Public Relations Chair and responsible for organizing the Derby Days Philanthropy benefiting Shand’s Children Miracle Network Hospital and the Huntsman Cancer Foundation. I also remain involved within the Honors Program, HHMI undergraduate research organization, volunteer at the American Cancer Society and have served as an Assistant Director for Gator Growl. ',
+      'free_time'             =>  'What’s free time? I do my best to run and workout, spend my time long boarding, hearing live music, playing sports and going to the beach.  ',
+      'fun_fact'              =>  'I have 14 siblings. Yes, 14. I’m also red and green color-blind.',
+      'favorite_memory'       =>  '<p>My favorite DM memory comes from a High School Dance Marathon when I first met Zander, one of the miracle children. Throughout my life I have had the great benefit of watching my younger siblings grow up. One of the most moving experiences is understanding that within every child is the sole desire to be a kid - to be carefree, imaginative and love without boundaries. Despite Zander’s condition, he will continue to play until he physically needs to stop. As we were playing a game during one of the theme hours, I saw within him the sole desire to be like every other kid. His positivity, love of life, and unending strength that day will remain one of my favorite memories. </p>',
+      'motivation'            =>  '<p>I had class one semester in Shands Medical Sciences Building, the same area where the Children&#39;s Miracle Network Hospital is located. Every day that I walked to class I would pass by a plaque on the wall with a quote from Winston Churchill that read, “We make a living by what we get, but we make a life by what we give.” Dance Marathon has given me the opportunity to make a life. In my opinion, everyone has a favorite word whether they realize it or not. Mine happens to be a relatively simple four-letter word we whisper to ourselves and echo through our lives: hope. Hope is how Dance Marathon is able to give, grow and impact the lives of so many individuals. Hope is what drives research, fuels Healthcare and inspires every person to become involved within this organization. I hope for a cure and a day that I will no longer need to dance, but until then I will work tirelessly to pursue a life in medicine and fuel the hope that I see within every miracle child’s face.</p>',
+      'image'                 =>  'Drew'
+    ),
+    array(
+      'name'                  =>  'Allison Stroop',
+      'position'              =>  'Merchandise Overall',
+      'email'                 =>  'astroop@floridadm.org',
+      'previous_involvement'  =>  'Marketing Captain, Public Relations Captain',
+      'major'                 =>  'Marketing',
+      'minor'                 =>  '',
+      'hometown'              =>  'Santa Rosa Beach, FL',
+      'outside_involvement'   =>  'Panhellenic Council',
+      'free_time'             =>  'I love to spend time with family and friends, travel anywhere and everywhere, and cook good food!',
+      'fun_fact'              =>  'I am originally from a small town in Tennessee.',
+      'favorite_memory'       =>  '<p>When I first met Ayden, one of our miracle children, I immediately was overwhelmed by his gracious and loving spirit. His zest for life and the people around his so inspiring. Ayden, myself and the rest of the PR team dance and sang to Blank Space together. That was such a special moment and I will always carry it with me. </p>',
+      'motivation'            =>  '<p>The kids and their families. DM at UF is truly saving the lives of the kids at UF Health Shands Children’s Hospital. These families are fighting fights that are harder than I can imagine and being able to help them in their fight is my motivation. Finding Dance Marathon has led me to be a part of something so much bigger than myself and I am so grateful for to be a part it.</p>',
+      'image'                 =>  'Stroop'
+    ),
+    array(
+      'name'                  =>  'Torrie Scianna',
+      'position'              =>  'Sponsorship Overall',
+      'email'                 =>  'tscianna@floridadm.org',
+      'previous_involvement'  =>  'Dancer Relations Staff, Two-year Marketing Captain',
+      'major'                 =>  'Finance',
+      'minor'                 =>  'Communications',
+      'hometown'              =>  'Winter Park, FL',
+      'outside_involvement'   =>  'Sigma Kappa Sorority',
+      'free_time'             =>  'In my spare time I love to spend time with friends. You can usually find us exploring new trails and parks in Gainesville. If we&#39;re not hiking we&#39;re definitely relaxing in our ENO hammocks. If I&#39;m not outside, I&#39;m probably cooking, reading, or watching Netflix.',
+      'fun_fact'              =>  'Most people have one row of eyelashes, but I have two!',
+      'favorite_memory'       =>  '<p>My favorite DM memory was dancing on stage with Nick Mullen during the family talent show. Seeing how much we could really support these kids to live their dreams and give them the confidence they often lack due to their differences from other kids their age was amazing. When we got off stage he couldn&#39;t stop crying because he was so happy we performed with him and it was such a special moment. </p>',
+      'motivation'            =>  '<p>Our amazing miracle children and families are what motivate me. Throughout my involvement with DM at UF I have built lasting relationships with them. They never let us forget how much our efforts and support mean to them and so many other families treated at UF Health Shands Children&#39;s Hospital. I am motivated to work even harder knowing we are giving these kids the childhood they deserve. </p>',
+      'image'                 =>  'Torrie'
+    ),
+    array(
+      'name'                  =>  'Arielle Darvin',
+      'position'              =>  'Morale Overall ',
+      'email'                 =>  'adarvin@floridadm.org',
+      'previous_involvement'  =>  'Dancer, Two-year Morale Captain',
+      'major'                 =>  'Communication Sciences and Disorders',
+      'minor'                 =>  '',
+      'hometown'              =>  'Melbourne, FL',
+      'outside_involvement'   =>  'Camp Boggy Creek, Speech and Hearing Department Research Assistant, Danza Dance Company, Alpha Epsilon Phi Sorority',
+      'free_time'             =>  'I love to dance, be silly with my friends, and laugh a lot. Oh, and I really like to eat.',
+      'fun_fact'              =>  'I played the Velveeta cheese in my 3rd grade Chorus Musical called “The Cheese Stands Alone” (Another fun fact: I am a terrible singer!)',
+      'favorite_memory'       =>  '<p>My favorite DM memory is watching everybody do last year’s linedance from start to finish for the first time, after we finished teaching it. The energy and positivity that filled the O’Dome was truly magical!</p>',
+      'motivation'            =>  '<p>Last year, I attended a miracle child’s birthday party, where I played with Ayden for several hours. After endless trampoline jumping, running around the backyard, and Ayden’s fancy flipping, Ayden told me we were now best friends. I knew that I had been in the presence of a very special child – a child who inspired me to love more, to laugh more, and to appreciate life. We always say that Dance Marathon is “for the kids.” Our fundraising efforts make it possible for sick children at UF Health Shands to have access to top-notch medical equipment and for research to be conducted to find cures for pediatric illness. But, I really think that my love, passion, and motivation to be involved with this organization stems from the fact that Dance Marathon is not just “for the kids.” It is for us too – I am motivated by the positivity of the miracle children. I am captivated by the passion and determination of the DM captains and dancers who tirelessly fundraise. And, I am wholeheartedly motivated by the numbers we raised last year. I am certain that I talk about Dance Marathon too much, but I cannot help that my love and deep, unwavering passion for DM is apparent in everything I do.</p>',
+      'image'                 =>  'Arielle'
+    ),
+    array(
+      'name'                  =>  'Brad Wheeler',
+      'position'              =>  'Operations Overall',
+      'email'                 =>  'bwheeler@floridadm.org',
+      'previous_involvement'  =>  'Dancer, Two-year Operations Captain',
+      'major'                 =>  'Mechanical Engineering',
+      'minor'                 =>  '',
+      'hometown'              =>  'Tallahassee, FL',
+      'outside_involvement'   =>  'Theta Chi Fraternity, Previous Chairman of Student Government Productions',
+      'free_time'             =>  'I coach youth travel lacrosse in my free time. I also enjoy woodworking, gardening, and hunting.',
+      'fun_fact'              =>  'I am a proud owner of a hedgehog named Spud.',
+      'favorite_memory'       =>  '<p>Last year, the cotton candy machine in the family room needed fixing. So I was able to repair the machine and begin serving cotton candy to all the Miracle Children. Seeing the smiles on their faces as they covered themselves with cotton candy was awesome.</p>',
+      'motivation'            =>  '<p>What motivates me is seeing how much Dance Marathon and Children&#39;s Miracle Network does for the Miracle Children and their families by supplying them with not only the best doctors, but with smiles on their faces and beds to sleep on at night.</p>',
+      'image'                 =>  'Brad'
+    ),
+    array(
+      'name'                  =>  'Armani Abreu',
+      'position'              =>  'Public Relations Overall',
+      'email'                 =>  'aabreu@floridadm.org',
+      'previous_involvement'  =>  'Public Relations Captain',
+      'major'                 =>  'Political Science',
+      'minor'                 =>  'Spanish and Mass Communications',
+      'hometown'              =>  'Miami, FL',
+      'outside_involvement'   =>  'Executive Vice President of the Interfraternity Council, Executive at Large for Florida Blue Key, Delta Chi Fraternity',
+      'free_time'             =>  'In my free time I enjoy playing sports, going out with my friends and watching Netflix. I am also an avid coffee drinker.',
+      'fun_fact'              =>  'I am tri-lingual, fluent in English, Spanish and French.',
+      'favorite_memory'       =>  '<p>My favorite DM memory would have to be spending time with Ayden the miracle child this past year and during the event. Although he cannot see, he remembered my voice from our previous interactions and that was truly heartwarming. Seeing him and the happiness he exudes made me love being involved in DM even more than I already did.</p>',
+      'motivation'            =>  '<p>I am motivated to be involved with DM because of the impact it has on the lives of so many children. The miracle children live life in such a positive manner and seeing them not take anything fro granted keeps me grounded and wanting to make even more of a difference. Seeing these families and how appreciative they are of the work we do makes it worth while!</p>',
+      'image'                 =>  'Armani'
+    ),
+    array(
+      'name'                  =>  'Grace Caswell',
+      'position'              =>  'Recruitment Overall',
+      'email'                 =>  'gcaswell@floridadm.org',
+      'previous_involvement'  =>  'Recruitment Captain',
+      'major'                 =>  'Health Education and Human Behavior',
+      'minor'                 =>  '',
+      'hometown'              =>  'Atlanta, Georgia',
+      'outside_involvement'   =>  'Chi Omega Sorority, UF Health Volunteer',
+      'free_time'             =>  'I love to spend time with family, especially at the lake or on the water, travel anywhere and everywhere, eat, dance, sing, and hang out with friends',
+      'fun_fact'              =>  'I can&#39;t do a cartwheel',
+      'favorite_memory'       =>  '<p>After working tirelessly for months as captains, the Recruitment team clutched hands together at the end of the event this past year. Throughout the year we had grown closer and closer, and in that moment came together as a family. As the numbers slowly rose into the air, I could not control my tears when I saw the number 2, symbolizing that we had raised over two million dollars For The Kids. Our own little close-knit family stood right behind the families and kids we had come together to help support. In that moment, I truly experienced what it was like to be apart of something bigger than myself, and such a humbling experience really is life-changing.</p>',
+      'motivation'            =>  '<p>Dance Marathon gives me new inspiration and passion every single day. It is hard to put into words the bravery and resilience of not only our miracle children, but also their siblings, parents, family and friends. Their joy can light up any room, or brighten anyone&#39;s day. I want to be able to give as much of that joy and inspiration back to them. These kids have made such an impact on my life, that I want to be able of making miracles in theirs. </p>',
+      'image'                 =>  'Grace'
+    ),
+    array(
+      'name'                  =>  'Kevin Kimbrough',
+      'position'              =>  'Creative Development Overall',
+      'email'                 =>  'kkimbrough@floridadm.org',
+      'previous_involvement'  =>  'Technology Captain',
+      'major'                 =>  'Computer Science',
+      'minor'                 =>  'Business Administration',
+      'hometown'              =>  'Clearwater Beach, FL',
+      'outside_involvement'   =>  'Delta Tau Delta Fraternity',
+      'free_time'             =>  'I spend my free time enjoying anything art related. Music, Movies, TV Shows, Video Games, Books, Theatre, Paintings, you name it. I also love traveling and the outdoors. I love hiking whenever I find myself somewhere with mountains and beautiful views.',
+      'fun_fact'              =>  'My immediate family members and I were all born in different states',
+      'favorite_memory'       =>  '<p>I remember walking into the O&#39;Dome the night before the first Dance Marathon I would participate in. There were hundreds of people getting everything set up, and I was taken aback by how united everyone was. Everywhere I looked people were working to make Dance Marathon an amazing event for the kids. All of the year&#39;s hard work culminates into this big event, and everyone was on board to get the work done. I was extremely grateful to be a part of such a great community. The next day when the event started, seeing each child&#39;s beaming face as they walked in made all the work worth it.</p>',
+      'motivation'            =>  '<p>When I first met Tyler Pence, a miracle child, I was humbled. As I sat at dinner with him talking about what video games he liked, I remembered myself at his age. He and I would probably have been school friends had we met at the same age. Thanks to Shands Hospital and Children&#39;s Miracle Network, Tyler has been able to have a good childhood, which I had always taken for granted. His family was given hope by the work that was done. Seeing the hope that is given motivates me in my work with Dance Marathon.</p>',
+      'image'                 =>  'Kevin'
     )
   );
 ?>
@@ -282,14 +297,13 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="http://floridadm.kintera.org/faf/home/waiver.asp?ievent=1114670&lis=1&kntae1114670=49B319BD1C5D464982B0286ECCA2EBEB" target="_blank">Register to Fundraise</a></li>
+            <li><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank">Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams" >Captain Teams</a></li>
 						<li><a class="active">Meet the Overalls</a></li>
-            <li><a href="/dancerpackages">Dancer Packages</a></li>
-            <li><a href="/dmrave">DM 2015 Rave Hour</a></li>
+<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
           </ul>
         </div>
 			</div>
@@ -321,22 +335,42 @@
                 <div class="modal-body">
                   <h4>Previous DM Involvement</h4>
                   <p><?php echo $overalls[$i]['previous_involvement']; ?></p>
+
+                  <?php if($overalls[$i]['grad']){ ?>
+                  <h4>Graduate</h4>
+                  <p><?php echo $overalls[$i]['grad']; ?></p>
+                  <?php } ?>
+
+                  <?php if($overalls[$i]['undergrad']){ ?>
+                  <h4>Undergrad</h4>
+                  <p><?php echo $overalls[$i]['undergrad']; ?></p>
+                  <?php } ?>
+
+                  <?php if($overalls[$i]['major']){ ?>
                   <h4>Major</h4>
                   <p><?php echo $overalls[$i]['major']; ?></p>
-                  <?php if($overalls[$i]['minor'] !== ""){ ?>
+                  <?php } ?>
+
+                  <?php if($overalls[$i]['minor'] !== "" && $overalls[$i]['minor']){ ?>
                   <h4>Minor</h4>
                   <p><?php echo $overalls[$i]['minor']; ?></p>
                   <?php } ?>
+
                   <h4>Hometown</h4>
                   <p><?php echo $overalls[$i]['hometown']; ?></p>
+
                   <h4>Outside Involvement</h4>
                   <p><?php echo $overalls[$i]['outside_involvement']; ?></p>
+
                   <h4>In My Free Time...</h4>
                   <p><?php echo $overalls[$i]['free_time']; ?></p>
+
                   <h4>Fun Fact</h4>
                   <p><?php echo $overalls[$i]['fun_fact']; ?></p>
-                  <h4>Favorite Memory</h4>
+
+                  <h4>Favorite DM Memory</h4>
                   <?php echo $overalls[$i]['favorite_memory']; ?>
+
                   <h4>What Motivates You?</h4>
                   <?php echo $overalls[$i]['motivation']; ?>
                 </div>

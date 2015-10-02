@@ -12,7 +12,7 @@
       }
         		
       // Animate number counters
-			jQuery("#student-counter").delay(200).animateNumbers(6741, true, 4000);
+			jQuery("#student-counter").delay(200).animateNumbers(6833, true, 4000);
 
 			// Make nav bar "sticky"
 			jQuery('#nav-wrapper').height(jQuery("#nav").height());
@@ -65,12 +65,23 @@
 			
 			// Homepage DM countdown
       var currentDate = new Date();
-			var futureDate  = new Date("March 14, 2015 13:30:00");
+			var futureDate  = new Date("March 15, 2015 14:15:00");
 			var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
-			jQuery('#countdown').FlipClock(diff, {
-			  clockFace: 'DailyCounter',
-			  countdown: true
-			});
+
+			if (futureDate.getTime() > currentDate.getTime()) {
+			  jQuery('#countdown').FlipClock(diff, {
+			    clockFace: 'DailyCounter',
+			    countdown: true
+			  });
+			} else {
+        jQuery('#countdown').FlipClock(0, {
+			    clockFace: 'DailyCounter',
+			    countdown: true,
+			    autoStart: false
+			  });
+			}
+
+			jQuery('#countdown').find('a').removeAttr("href");
 			
 			// Update active tab based on URL
 			var hash = window.location.hash;
