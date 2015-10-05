@@ -97,21 +97,6 @@
       'image'                 =>  'Matt'
     ),
     array(
-      'name'                  =>  'Jenna Glick',
-      'position'              =>  'Dancer Relations Overall',
-      'email'                 =>  'jglick@floridadm.org',
-      'previous_involvement'  =>  'Dancer, Dancer Relations captain',
-      'major'                 =>  'Health Science Pre-Occupational Therapy',
-      'minor'                 =>  'Disabilities in Society',
-      'hometown'              =>  'Miami Beach, FL',
-      'outside_involvement'   =>  'UF Health Volunteer, Delta Phi Epsilon Sorority',
-      'free_time'             =>  'Spend time with friends and family, play with my two adorable dogs, and read.',
-      'fun_fact'              =>  'I can wiggle my left ear. Yes only my left ear, my right ear is not as talented!',
-      'favorite_memory'       =>  '<p>Among so many beautiful moments I have experienced during my involvement with Dance Marathon, the moments after this year&#39;s total reveal will forever be a favorite memory of mine. As I walked towards the stage to hug the rest of my team and my overall, two miracle moms stopped me, embraced me in a big, loving hug, and with tears in their eyes thanked me for all the work I had done that year. I can never come up with the words to accurately and fully describe how I felt in that moment but inspired, overwhelmed, grateful and proud are just a few. </p>',
-      'motivation'            =>  '<p>Nate, Nick, Isabella, Kaedyn, Camden, Ayden, all of our miracle children and closer to home a little girl very close to my heart. They have shown me the courage it takes to live each day with the struggles they face. There is a quote by an unknown author that states, "Sometimes you need to talk to a two year old just so you can understand life again." Children are incredibly resilient and the ability of our miracle children to see the good in every situation is so inspiring. They have taught me to go through life with a smile and face each day with the same strength and courage they do. </p>',
-      'image'                 =>  'Glick'
-    ),
-    array(
       'name'                  =>  'Annaleigh Bonds',
       'position'              =>  'Entertainment Overall',
       'email'                 =>  'abonds@floridadm.org',
