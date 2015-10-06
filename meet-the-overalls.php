@@ -109,7 +109,7 @@
       'fun_fact'              =>  'I was on an MTV game show called "The Substitute" when I was in high school.',
       'favorite_memory'       =>  '<p>During my freshman year I was lucky enough to be a dancer for the event. I remember as they raised the total at the end of the 26.2 hours, they had "Carry On" by FUN playing and I (along with the rest of the people in the O&#39;Connell Center) started crying after we realized that we raised $1 million for the first time in Dance Marathon at the University of Florida history. That song will forever remind me of that moment.</p>',
       'motivation'            =>  '<p>Dance Marathon has given me the opportunity to see the miracles that can be made when a group of students come together to help these amazing children at UF Health Shands Children&#39;s Hospital. I want to dedicate my life to helping kids just be kids, and that pushes me everyday to work hard in everything that I do. </p>',
-      'image'                 =>  'Replacement'
+      'image'                 =>  'Emily'
     ),
     array(
       'name'                  =>  'Annaleigh Bonds',
