@@ -45,7 +45,7 @@
 					<a href="/events" class="dropdown-toggle">Events</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/community-events">Community Events</a></li>
-						<li><a href="/hsdm">High School DM</a></li>
+						<li><a href="/hsdm">Mini-Marathon</a></li>
 <!--						<li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
 				</li>

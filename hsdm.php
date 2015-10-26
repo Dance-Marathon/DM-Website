@@ -64,7 +64,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>High School DM</h1>
+    			<h1>Mini-Marathon</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -78,15 +78,29 @@
   			<div class="sub-nav">
           <ul>
 						<li><a href="/community-events">Community Events</a></li>
-						<li><a class="active">High School DM</a></li>
+						<li><a class="active">Mini-Marathon</a></li>
 <!--                        <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-        <div class="container-fluid">
-          <div class="row">
+        <div role="tabpanel">
+
+          <!-- Nav tabs -->
+          <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#mini-marathon" aria-controls="mini-marathon" role="tab" data-toggle="tab">Mini-Marathon</a></li>
+            <li role="presentation"><a href="#schools" aria-controls="schools" role="tab" data-toggle="tab">Schools</a></li>
+          </ul>
+
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
+            <p>Dance Marathon at the University of Florida is the largest and most successful student-run philanthropy in the Southeast United States. This past year DM at UF celebrated its 21st year and raised a historic $2,015,307.17! All money raised goes directly to benefitting the children at UF Heath Shands Children’s Hospital. Our event brings together the University of Florida community to stand for 26.2 hours with the hope of providing a better future for so many deserving children and their families. We would love for you to become a member our DM family! So, join us next year as we continue to make bigger and better miracles For The Kids!</p>
+            <object width="720" height="480" data="http://www.youtube.com/v/yeRQhLtFIuU" type="application/x-shockwave-flash"><param name="src" value="http://www.youtube.com/v/yeRQhLtFIuU" /></object>
+            <p>If you would like to learn more about our Mini-Marathon program or would like to get involved, please contact our Marathon Relations Overall, Drew Carlton, at dcarlton@floridadm.org.</p>
+            </div>
+            <div role="tabpanel" class="tab-pane fade" id="schools">
             <?php
 
             for($i = 0; $i < count($events); $i++) { ?>
