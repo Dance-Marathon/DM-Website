@@ -97,8 +97,7 @@
           <div class="tab-content">
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
             <p>Dance Marathon at the University of Florida is the largest and most successful student-run philanthropy in the Southeast United States. This past year DM at UF celebrated its 21st year and raised a historic $2,015,307.17! All money raised goes directly to benefitting the children at UF Heath Shands Children’s Hospital. Our event brings together the University of Florida community to stand for 26.2 hours with the hope of providing a better future for so many deserving children and their families. We would love for you to become a member our DM family! So, join us next year as we continue to make bigger and better miracles For The Kids!</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/yeRQhLtFIuU" frameborder="0" allowfullscreen></iframe>
-            &nbsp;<br/>
+            <p><iframe width="800" height="450" src="https://www.youtube.com/embed/yeRQhLtFIuU" frameborder="0" allowfullscreen></iframe></p>
             <p>If you would like to learn more about our Mini-Marathon program or would like to get involved, please contact our Marathon Relations Overall, Drew Carlton, at <a href="mailto:dcarlton@floridadm.org">dcarlton@floridadm.org</a>.</p>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="schools">
