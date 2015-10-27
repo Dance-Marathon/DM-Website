@@ -25,7 +25,7 @@
   			<div class="sub-nav">
           <ul>
 				<li><a href="/community-events">Community Events</a></li>
-				<li><a href="/hsdm">Mini-Marathon (High School DM)</a></li>
+				<li><a href="/mini-marathon">Mini-Marathon (High School DM)</a></li>
 				<!--<li><a href="/eventsurvey">DM 2015 Event Survey</a></li>-->
           </ul>
         </div>
