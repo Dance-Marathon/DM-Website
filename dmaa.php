@@ -45,7 +45,7 @@
   				<li>Preferred floor access at the event</li>
   				<li>Newsletters keeping you up to date on the happenings of DM at UF and the DMAA</li>
   				<li>Free access to the Friday night DMAA social before the event</li>
-  				<li>And <b>more</b> to come!</li>
+  				<li>And <b>more to come!</b></li>
   			</ul>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
