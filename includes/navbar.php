@@ -9,7 +9,9 @@
 				<span class="icon-bar"></span>
 			  </button>
 			  <a class="navbar-brand" href="/"><img src="/assets/images/logo.png" alt="logo" height="40" width="34"></a>
+				<div class="navbar-text">University of Florida<br />Dance Marathon</div>
 			</div>
+			<div class=""
 			<div class="navbar-collapse collapse">
 			  <ul class="sf-menu navbar-nav navbar-left">
 				<li <?php echo ($parent == 'about') ? "class='open'" : ""; ?>>
