@@ -266,29 +266,13 @@ NAVIGATION MENU
 .navbar-collapse .navbar-nav.navbar-left:first-child {
   margin-left:0;
 }
-ul.social-icons > li {
-  float:right;
-}
-ul.social-icons > li:first-child {
-  margin-right:-10px;
-}
-ul.social-icons > li > a {
-  color: #fff;
-  font-size: 20px;
-  padding: 20px 10px;
-  width: 40px;
-  text-align: center;
-}
-ul.social-icons > li > a:hover, ul.social-icons > li > a:focus {
-  background-color: #f79b63;
-}
 .navbar-right{
   margin: 0;
 }
 
 /*
 -------------------
-INTRO / SLIDER
+INTRO / SLIDER / SOCIAL ICONS
 -------------------
 */
 .top .logo img {
@@ -305,6 +289,25 @@ INTRO / SLIDER
 #student-counter{
   width: 124px;
   display: inline-block;
+}
+.social-columns{
+	list-style-type:none;
+	margin-top: 30px;
+	padding: 0px;
+	text-align: center;
+}
+.social-columns li{
+	margin: 25px 0px;
+}
+.social-columns li:first-child{
+	margin: 0px 0px;
+}
+.social-columns li a{
+	color: #014083;
+}
+.social-columns li a:hover, .social-columns li a:focus{
+	color: #f37021;
+	text-decoration: none;
 }
 
 .top_btn{
@@ -1030,7 +1033,7 @@ body {
     padding: 30px 15px 60px;
   }
   body {
-    padding-top:60px;
+    padding-top:110px;
   }
 }
 

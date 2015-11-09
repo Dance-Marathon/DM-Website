@@ -4,7 +4,17 @@
 ?>
 
 <!-- intro -->
-<div class="top visible-md visible-lg">
+<div class="container-fluid">
+<div class="row">
+	<div class="col-md-1 col-lg-1">
+		<ul class="social-columns">
+			<li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube-square fa-5x"></i></a></li>
+			<li><a href="http://urlgeni.us/instagram/dmatuf"><i class="fa fa-instagram fa-5x"></i></a></li>
+			<li><a href="http://urlgeni.us/twitter/floridaDM"><i class="fa fa-twitter-square fa-5x"></i></a></li>
+			<li><a href="http://urlgeni.us/facebook/floridaDM"><i class="fa fa-facebook-square fa-5x"></i></a></li>
+		<ul>
+	</div>
+<div class="top visible-md visible-lg col-md-10 col-lg-10">
   <div class="intro">
     <div id="top-carousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
@@ -94,6 +104,15 @@
       </a>
     </div>
   </div>
+</div>
+<div class="col-md-1 col-lg-1">
+	<ul class="social-columns">
+		<li><a href="/community-events"><i class="fa fa-calendar fa-5x"></i>Events</a></li>
+		<li><a href="/community-events"><i class="fa fa-users fa-5x"></i>Our Sponsors</a></li>
+		<li><a href="/community-events"><i class="fa fa-suitcase fa-5x"></i>Store</a></li>
+	<ul>
+</div>
+</div>
 </div>
 <?php include("includes/navbar.php"); ?>
 <div class="container">
