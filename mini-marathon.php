@@ -144,8 +144,8 @@
           </div>
 
           <div role="tabpanel" class="tab-pane fade" id="whatsmyzone">
-          <img src="/assets/images/hsdm/zoningpg1.png" width="800" height="1100" title="zoningpg1" alt="zoningpg1" />
-          <img src="/assets/images/hsdm/zoningpg2.png" width="800" height="1100" title="zoningpg2" alt="zoningpg2" />
+          <img src="/assets/images/hsdm/zoningpg1.png" width="697" height="889" title="zoningpg1" alt="zoningpg1" />
+          <img src="/assets/images/hsdm/zoningpg2.png" width="697" height="889" title="zoningpg2" alt="zoningpg2" />
 
             </div>
         </div>
