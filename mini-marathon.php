@@ -52,17 +52,17 @@
 			'url' => 'http://gainesville.sbac.edu/pages/GHS0151',
             ),
         array(
-            'name' => '<b>PK Yonge</b><br/><font style="color: #003">Event Date: <b>January 30th</b></font><br/>Loxahatchee, FL',
+            'name' => '<b>PK Yonge</b><br/><font style="color: #003">Event Date: <b>January 30th</b></font><br/>Gainesville, FL',
             'image' => 'hsdm12.jpg',
             'url' => 'http://pkyonge.ufl.edu/',
             ),
         array(
-            'name' => '<b>Belleview High School</b><br/><font style="color: #003">Event Date: <b>February 12th</b></font><br/>Loxahatchee, FL',
+            'name' => '<b>Belleview High School</b><br/><font style="color: #003">Event Date: <b>February 12th</b></font><br/>Belleview, FL',
             'image' => 'hsdm13.png',
             'url' => 'http://www.marionschools.net/bhs',
             ),       
         array(
-            'name' => '<b>Kanapaha Middle School</b><br/><font style="color: #003">Event Date: <b>May 6th</b></font><br/>Loxahatchee, FL',
+            'name' => '<b>Kanapaha Middle School</b><br/><font style="color: #003">Event Date: <b>May 6th</b></font><br/>Gainesville, FL',
             'image' => 'hsdm14.jpeg',
             'url' => 'http://kanapaha.sbac.edu/pages/KAN0502',
             ),
