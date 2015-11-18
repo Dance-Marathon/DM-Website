@@ -22,7 +22,13 @@
 -->
       </ol>
       <div class="carousel-inner">
-        <div class="item active item-with-caption">
+        <div class="item active">
+          <a href="/donate" target="_blank">
+            <img class="img-responsive img-full" src="assets/images/slider/TransformTodayWebsite.jpg">
+          </a>
+        </div>
+        <!-- End Item -->
+        <div class="item item-with-caption">
           <img class="img-responsive img-full"  src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
@@ -39,14 +45,6 @@
           </div>
         </div>
         <!-- End Item --> 
-<!--
-        <div class="item">
-          <a href="/captainapp" target="_blank">
-            <img class="img-responsive img-full" src="assets/images/slider/CaptainApp.jpg">
-          </a>
-        </div>
--->
-        <!-- End Item -->
         <div class="item item-with-caption">
           <img class="img-responsive img-full" src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
@@ -68,12 +66,7 @@
         <!--    <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/jailbreak_website-01.jpg">
         </div>
--->
-        <div class="item">
-          <a href="/captainapp" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/CaptainAppSlider.jpg"></a>
-        </div>     
-        <!-- End Item -->    
-
+-->  
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/EventDateSlider.jpg">
         </div>     

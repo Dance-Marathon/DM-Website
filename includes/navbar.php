@@ -65,11 +65,9 @@
                         <li><a href="/partners">Our Partners</a></li>
 					</ul>
 				</li>
-				<?php /*
-				<li>
-				  <a href="#">DM Store</a>
-				</li>
-				*/ ?>
+
+				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">DM Store</a></li>
+
 				<li class="open"><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank" class="active">Donate</a></li>
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">

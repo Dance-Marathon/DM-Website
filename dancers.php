@@ -184,7 +184,7 @@
                   </div>
                   <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
                     <div class="panel-body">
-                      See <a href="/register-to-fundraise">Register to Fundraise</a> for instructions.
+                      See <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786">Register to Fundraise</a> for instructions.
                     </div>
                   </div>
                 </div>
