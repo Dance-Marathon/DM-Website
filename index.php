@@ -12,33 +12,14 @@
         <li data-target="#top-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#top-carousel" data-slide-to="1"></li>
         <li data-target="#top-carousel" data-slide-to="2"></li>
-        <li data-target="#top-carousel" data-slide-to="3"></li>
 <!--
+        <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li> 
         <li data-target="#top-carousel" data-slide-to="6"></li>
         <li data-target="#top-carousel" data-slide-to="7"></li>
         <li data-target="#top-carousel" data-slide-to="8"></li>
 -->
-      </ol>
-      <div class="carousel-inner">
-        <div class="item item-with-caption">
-          <img class="img-responsive img-full"  src="assets/images/slider/2015-Total_websitefilter.jpg">
-          <div class="carousel-caption text-center">
-            <div class="row animate_fade_in">
-              <div class="col-md-6">
-                <div class="logo">
-                  <img src="assets/images/logo_ftk_homepage.png">
-                </div>
-              </div>
-              <div class="col-md-6">
-                <h2 style="color: #fff; font-size: 3em;" class="student-title"><span id="student-counter">0</span>Students Making Miracles</h2>
-                <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank" class="top_btn">Donate Now</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- End Item --> 
         <div class="item item-with-caption">
           <img class="img-responsive img-full" src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
