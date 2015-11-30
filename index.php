@@ -20,6 +20,8 @@
         <li data-target="#top-carousel" data-slide-to="7"></li>
         <li data-target="#top-carousel" data-slide-to="8"></li>
 -->
+      </ol>
+      <div class="carousel-inner">
         <div class="item item-with-caption">
           <img class="img-responsive img-full" src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
