@@ -22,18 +22,18 @@
 -->
       </ol>
       <div class="carousel-inner">
-        <div class="item item-with-caption active">
-          <img class="img-responsive img-full" src="assets/images/slider/2015-Total_websitefilter.jpg">
+        <div class="item active item-with-caption">
+          <img class="img-responsive img-full"  src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
-            <div class="row">
+            <div class="row animate_fade_in">
               <div class="col-md-6">
-                <div class="embed-responsive embed-responsive-16by9">
-                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZRc6rjZleMs"></iframe>
+                <div class="logo">
+                  <img src="assets/images/logo_ftk_homepage.png">
                 </div>
               </div>
-              <div class="col-md-5 col-md-offset-1">
-                <h2 style="color: #fff; font-size: 3em;">Through the Years</h2>
-                <p style="color: #fff; font-size: 1.3em">As Dance Marathon at UF celebrates its 21st year, this video serves to highlight the growth and success of the past 20 years. Thank you to all who attended this year's historic event!</p>
+              <div class="col-md-6">
+                <h2 style="color: #fff; font-size: 3em;" class="student-title"><span id="student-counter">0</span>Students Making Miracles</h2>
+                <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank" class="top_btn">Donate Now</a>
               </div>
             </div>
           </div>
