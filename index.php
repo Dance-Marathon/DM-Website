@@ -13,8 +13,8 @@
         <li data-target="#top-carousel" data-slide-to="1"></li>
         <li data-target="#top-carousel" data-slide-to="2"></li>
         <li data-target="#top-carousel" data-slide-to="3"></li>
-        <li data-target="#top-carousel" data-slide-to="4"></li>
 <!--
+        <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li> 
         <li data-target="#top-carousel" data-slide-to="6"></li>
         <li data-target="#top-carousel" data-slide-to="7"></li>
@@ -22,12 +22,6 @@
 -->
       </ol>
       <div class="carousel-inner">
-        <div class="item active">
-          <a href="/donate" target="_blank">
-            <img class="img-responsive img-full" src="assets/images/slider/TransformTodayWebsite.jpg">
-          </a>
-        </div>
-        <!-- End Item -->
         <div class="item item-with-caption">
           <img class="img-responsive img-full"  src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
