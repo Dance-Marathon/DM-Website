@@ -22,7 +22,7 @@
 -->
       </ol>
       <div class="carousel-inner">
-        <div class="item item-with-caption">
+        <div class="item item-with-caption active">
           <img class="img-responsive img-full" src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
             <div class="row">
