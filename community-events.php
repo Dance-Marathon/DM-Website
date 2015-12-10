@@ -23,7 +23,7 @@
             ),
         array(
             'name' => 'FT5K',
-            'description' => '"For The Kids 5K" is an early morning race that takes participants through the beautiful UF campus every spring. Over 900 members of the community and students register to enjoy the run and compete for prizes. Whether it is to enjoy a light walk or jog through campus with friends, get in shape for bathing suit season, or compete for a place in the race, participants leave the race feeling accomplished for finishing the run just blocks away from UF Health Shands Children\'s Hospital. Please visit <a href="/ft5k">www.floridadm.org/ft5k</a> to sign up!',
+            'description' => '"For The Kids 5K" is an early morning race that takes participants through the beautiful UF campus every spring. Over 900 members of the community and students register to enjoy the run and compete for prizes. Whether it is to enjoy a light walk or jog through campus with friends, get in shape for bathing suit season, or compete for a place in the race, participants leave the race feeling accomplished for finishing the run just blocks away from UF Health Shands Children\'s Hospital. Please visit <a href="http://events.dancemarathon.com/event/ft5k/">www.floridadm.org/ft5k</a> to sign up!',
             'image' => '5k.jpg',
             ),
         array(
