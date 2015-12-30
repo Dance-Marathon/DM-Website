@@ -63,10 +63,6 @@
       'link'          =>  ''
     ),
     array(
-      'organization'  =>  'IRHA',
-      'link'          =>  ''
-    ),
-    array(
       'organization'  =>  'Levin College of Law',
       'link'          =>  ''
     ),
@@ -288,6 +284,94 @@
     ),
     array(
       'organization'  =>  'Alpha Chi Omega',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Alpha Delta Pi',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Asian American Student Union',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Campus Diplomats',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'CMA EDU',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'College of Public Health and Health Professions',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'CRU at UF',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Dancin&#39; Gators',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Dream Team',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'English Language Institute',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Florida Club Swim & Dive',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Freshman Leadership Engineering Group',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Gamma Phi Beta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Gator Alliance for World Health',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'HakeemGetzYouGainz',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Jewish Student Union',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'National Society of Collegiate Scholars',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Phi Delta Theta',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'Pi Sigma Alpha',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'The Involvement Team',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'The Really Independent Florida Crocodile',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF College of Nursing',
+      'link'          =>  ''
+    ),
+    array(
+      'organization'  =>  'UF Student Government',
       'link'          =>  ''
     ),
     array(
