@@ -12,18 +12,13 @@
             'image' => 'Bowling.JPG',
             ),
         array(
-            'name'  => 'Kickball',
-            'description' => 'The Dance Marathon "Kickin\' It for the Kids" kickball tournament will be held in the Fall, traditionally on Hume Field. Any team of 10 can sign up for a day filled with kickball, music, appearances by Miracle Families and fun! The tournament is broken up into two brackets: a women\'s and a coed bracket. In 2014, over 40 teams participated on 4 fields to keep the games rolling. KISS 105.3 comes out to broadcast live from the event and provide tunes for participants to enjoy.',
-            'image' => 'Kickball.JPG',
-            ),
-        array(
             'name'  => 'Food Truck Rally',
             'description' => 'Dance Marathon at UF had its first-ever Food Truck rally with our wonderful new partner, CYMplify. Their motto of ‘doing good things with good people’ is all encompassing of what DM stands for and helped create a great atmosphere for an even better event. The food truck line-up included Bubba Luigi’s Road Trip, FED Food Company, Go Go Stuff Yourself, Humble Pie, Off The Griddle, Soup to Nuts and Mobsta Lobsta. With entertainment, great food, and stories shared from our local Miracle Families, this is one event not to miss out on!',
             'image' => 'DMCymp.jpg',
             ),
         array(
             'name' => 'FT5K',
-            'description' => '"For The Kids 5K" is an early morning race that takes participants through the beautiful UF campus every spring. Over 900 members of the community and students register to enjoy the run and compete for prizes. Whether it is to enjoy a light walk or jog through campus with friends, get in shape for bathing suit season, or compete for a place in the race, participants leave the race feeling accomplished for finishing the run just blocks away from UF Health Shands Children\'s Hospital. Please visit <a href="http://events.dancemarathon.com/event/ft5k/">www.floridadm.org/ft5k</a> to sign up!',
+            'description' => '"For The Kids 5K" is an early morning race that takes participants through the beautiful UF campus every spring. Over 900 members of the community and students register to enjoy the run and compete for prizes. Whether it is to enjoy a light walk or jog through campus with friends, get in shape for bathing suit season, or compete for a place in the race, participants leave the race feeling accomplished for finishing the run just blocks away from UF Health Shands Children\'s Hospital. Please visit <a href="http://events.dancemarathon.com/event/ft5k/">http://events.dancemarathon.com/event/ft5k/</a> to sign up!',
             'image' => '5k.jpg',
             ),
         array(
