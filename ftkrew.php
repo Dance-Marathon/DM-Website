@@ -50,7 +50,7 @@
 			      	<h3>FTKrew</h3>
 			        <p>Out with the old and in with the new.  We have listened to your feedback about Staff and created a new position that is more involved and invested in Dance Marathon at the University of Florida, called FTKrew.  There are two different FTKrew teams, <b>Morale FTKrew</b> and <b>Marathon FTKrew</b>.  Morale FTKrew will be working with a specific theme hour throughout the event and assisting Morale Captains with their tasks. Marathon FTKrew will work with the Dancer Relations, Operations and Hospitality team captains to help with their responsibilities throughout the event. </p> <p> Members of FTKrew attend meetings throughout the spring semester, attend all Dance Marathon at UF events and fundraise $300. </p>
 			      </div>
-            <div role="tabpanel" class="tab-pane fade in active" id="Marathon-FTKrew">			        
+            <div role="tabpanel" class="tab-pane fade" id="Marathon-FTKrew">			        
             	<h3>Marathon FTKrew</h3>
 							<table style="width:100%">
 								<tr>
@@ -360,7 +360,7 @@
 								</tr>
 			      	</table>
 			      </div>
-            <div role="tabpanel" class="tab-pane fade in active" id="Morale-FTKrew">		
+            <div role="tabpanel" class="tab-pane fade" id="Morale-FTKrew">		
 			      	<h3>Morale FTKrew</h3>
 							<table style="width:100%">
 								<tr>
