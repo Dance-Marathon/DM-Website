@@ -559,7 +559,7 @@
 									<td>Maija Sunnarborg</td>
 								</tr>
 								<tr>
-									<td>Marielena Gonzalez</tc>
+									<td>Marielena Gonzalez</td>
 									<td>Marisa Gottlieb</td>
 									<td>Marisa Masters</td>
 								</tr>
