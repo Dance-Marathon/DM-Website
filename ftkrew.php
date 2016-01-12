@@ -494,7 +494,7 @@
 									<td>Ilyssa Schatz</td>
 								</tr>
 								<tr>
-									<td>Jack Yao</td>
+									<td>Jaclyn Yao</td>
 									<td>James Antoine</td>
 									<td>Jamie Somerstein</td>
 								</tr>
