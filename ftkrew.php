@@ -559,106 +559,107 @@
 									<td>Maija Sunnarborg</td>
 								</tr>
 								<tr>
+									<td>Marielena Gonzalez</tc>
 									<td>Marisa Gottlieb</td>
 									<td>Marisa Masters</td>
-									<td>Marni Rochkind </td>
 								</tr>
 								<tr>
+									<td>Marni Rochkind </td>
 									<td>Max Barry</td>
 									<td>Max Sibner</td>
-									<td>McKenna Krause</td>
 								</tr>
 								<tr>
-									<td>McKenna Ville</td>
+									<td>McKenna Krause</td>
 									<td>Megan Hall</td>
 									<td>Megan Schroder</td>
 								</tr>
 								<tr>
+									<td>McKenna Ville</td>
 									<td>Melanie Fletcher</td>
 									<td>Melissa Clauss</td>
-									<td>Melissa Miranda</td>
 								</tr>
 								<tr>
+									<td>Melissa Miranda</td>
 									<td>Meredith Schoppe</td>
 									<td>Michael Backstrand</td>
-									<td>Michelle Maldonado</td>
 								</tr>
 								<tr>
+									<td>Michelle Maldonado</td>
 									<td>Michelle Montoya</td>
 									<td>Mikaela Balzer</td>
-									<td>Molly Vossler</td>
 								</tr>
 								<tr>
+									<td>Molly Vossler</td>
 									<td>Monica Andrade</td>
 									<td>Morgan Coffey</td>
-									<td>Morgan Schober</td>
 								</tr>
 								<tr>
+									<td>Morgan Schober</td>
 									<td>Natalia Veray</td>
 									<td>Natalie Martinez</td>
-									<td>Natalie Vala</td>
 								</tr>
 								<tr>
+									<td>Natalie Vala</td>
 									<td>Natasha Jewett</td>
 									<td>Nicole Fitos</td>
-									<td>Patricia Wojtowicz</td>
 								</tr>
 								<tr>
+									<td>Patricia Wojtowicz</td>
 									<td>Paxton Shamlou</td>
 									<td>Payton Ledman</td>
-									<td>Payton Strader</td>
 								</tr>
 								<tr>
+									<td>Payton Strader</td>
 									<td>Rachel Chozick</td>
 									<td>Rachel Knauf</td>
-									<td>Rachel Kohl</td>
 								</tr>
 								<tr>
+									<td>Rachel Kohl</td>
 									<td>Rachel Rockwell</td>
 									<td>Rachel Roth</td>
-									<td>Rachel Weinsoff </td>
 								</tr>
 								<tr>
+									<td>Rachel Weinsoff </td>
 									<td>Reese Mischler</td>
 									<td>Riley Mullins</td>
-									<td>Ruth Harrington </td>
 								</tr>
 								<tr>
+									<td>Ruth Harrington </td>
 									<td>Sarah Lazarus</td>
 									<td>Savannah Broome</td>
-									<td>Savannah Harding</td>
 								</tr>
 								<tr>
+									<td>Savannah Harding</td>
 									<td>Savannah Nelson</td>
 									<td>Savannah Nuttall</td>
-									<td>shannon martin</td>
 								</tr>
 								<tr>
+									<td>Shannon Martin</td>
 									<td>Shelly Trak</td>
 									<td>Sofia Dayi</td>
-									<td>Stephanie Hersman</td>
 								</tr>
 								<tr>
+									<td>Stephanie Hersman</td>
 									<td>Sullivan Henry</td>
 									<td>Suzannah Boyle</td>
-									<td>Sydney Lieberman</td>
 								</tr>
 								<tr>
+									<td>Sydney Lieberman</td>
 									<td>Tabitha Bickman</td>
 									<td>Taylor Bakalar </td>
-									<td>Taylor Katz</td>
 								</tr>
 								<tr>
+									<td>Taylor Katz</td>
 									<td>Taylor Lambertus</td>
 									<td>Thalia Rey</td>
-									<td>Tracy Love</td>
 								</tr>
 								<tr>
+									<td>Tracy Love</td>
 									<td>Trinity  Turinetti</td>
 									<td>Valerie Berman</td>
-									<td>Vicoria Vincent</td>
 								</tr>
 								<tr>
+									<td>Vicoria Vincent</td>
 									<td>Zachary Feldman</td>
 								</tr>
 							</table>
