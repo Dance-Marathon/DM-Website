@@ -12,18 +12,28 @@
             'image' => 'Bowling.JPG',
             ),
         array(
+            'name' => 'Dodge Ball',
+            'description' => 'Wipe off your sneakers and sweatbands and get ready for an intense, but fun, game of dodgeball for the kids! Some teams play to win, while others come out for a fun time. The event will include a DJ, water and snacks. Don’t forget to watch out for flying dodgeballs while cheering on your team!',
+            'image' => 'Dodgeball.jpg',
+            ),
+        array(
+            'name' => 'Field Day',
+            'description' => 'With games including tug-of-war, water balloon fights, three-legged races and dizzy bat, field day lets us relive our elementary school days! Live music featuring local bands from our DMLive event provide the soundtrack for the day, and voting on favorite bands can help get them to the event in March. You won’t want to miss out on this change to be a kid, while helping kids!',
+            'image' => 'FieldDay.jpg',
+            ),
+        array(
             'name'  => 'Food Truck Rally',
-            'description' => 'Dance Marathon at UF had its first-ever Food Truck rally with our wonderful new partner, CYMplify. Their motto of ‘doing good things with good people’ is all encompassing of what DM stands for and helped create a great atmosphere for an even better event. The food truck line-up included Bubba Luigi’s Road Trip, FED Food Company, Go Go Stuff Yourself, Humble Pie, Off The Griddle, Soup to Nuts and Mobsta Lobsta. With entertainment, great food, and stories shared from our local Miracle Families, this is one event not to miss out on!',
+            'description' => 'Dance Marathon at UF partners with CYMplify to put on a Food Truck rally for the Gainesville community. Their motto of ‘doing good things with good people’ is all encompassing of what DM stands for and helped create a great atmosphere for an even better event. The food truck line-up includes Bubba Luigi\'s Road Trip, FED Food Company, Go Go Stuff Yourself, Humble Pie, Off The Griddle, Soup to Nuts and Monsta Lobsta. With entertainment, great food and stories shared from our Miracle Families, this is one event not to miss out on!',
             'image' => 'DMCymp.jpg',
             ),
         array(
             'name' => 'FT5K',
-            'description' => '"For The Kids 5K" is an early morning race that takes participants through the beautiful UF campus every spring. Over 900 members of the community and students register to enjoy the run and compete for prizes. Whether it is to enjoy a light walk or jog through campus with friends, get in shape for bathing suit season, or compete for a place in the race, participants leave the race feeling accomplished for finishing the run just blocks away from UF Health Shands Children\'s Hospital. <a href="http://events.dancemarathon.com/event/ft5k/">Click Here</a> to sign up!',
+            'description' => '"For The Kids 5K" is an early morning race that takes participants through the beautiful UF campus every spring. Over 1,000 members of the community and students register to enjoy the run and compete for prizes. Whether it is to enjoy a light walk or jog through campus with friends, get in shape for bathing suit season, or compete for a place in the race, participants leave the race feeling accomplished for finishing the run just blocks away from UF Health Shands Children\'s Hospital. <a href="http://events.dancemarathon.com/event/ft5k/">Click Here</a> to sign up!',
             'image' => '5k.jpg',
             ),
         array(
             'name'  => 'FTKarnival',
-            'description' => 'Come one, come all to Dance Marathon’s FTKarnival We\'re celebrating DM’s 21st year and this is the perfect way to get us ready for the big weekend! Get ready for food, entertainment, bounce houses, snow cones, clowns, face-painting, balloon animals and carnival games. FTKarnival is a family favorite Food-Games-Music-Fun all For the Kids!',
+            'description' => 'Come one, come all to Dance Marathon’s FTKarnival We\'re celebrating DM’s 22nd year and this is the perfect way to get us ready for the big weekend! Get ready for food, entertainment, bounce houses, snow cones, clowns, face-painting, balloon animals and carnival games. FTKarnival is a family favorite Food-Games-Music-Fun all For the Kids!',
             'image' => 'carnival.jpg',
             ),
         );
