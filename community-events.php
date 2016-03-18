@@ -54,6 +54,8 @@
           <ul>
             <li><a class="active">Community Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
+            <li><a href="/dance-marathon">Dance Marathon 2016</a></li>
+
 <!--            <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
           </ul>
         </div>
