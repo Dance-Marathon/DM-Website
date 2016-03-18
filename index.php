@@ -13,8 +13,8 @@
         <li data-target="#top-carousel" data-slide-to="1"></li>
         <li data-target="#top-carousel" data-slide-to="2"></li>
         <li data-target="#top-carousel" data-slide-to="3"></li>
-        <li data-target="#top-carousel" data-slide-to="4"></li>
 <!--
+        <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li> 
         <li data-target="#top-carousel" data-slide-to="6"></li>
         <li data-target="#top-carousel" data-slide-to="7"></li>
@@ -68,12 +68,7 @@
         <!--    <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/jailbreak_website-01.jpg">
         </div>
--->
-        <div class="item">
-          <a href="/captainapp" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/CaptainAppSlider.jpg"></a>
-        </div>     
-        <!-- End Item -->    
-
+-->  
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/EventDateSlider.jpg">
         </div>     
