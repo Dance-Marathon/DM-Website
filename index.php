@@ -23,12 +23,18 @@
       </ol>
       <div class="carousel-inner">
 				<div class="item active item-with-caption">
-
-					<img class="img-responsive" src="assets/images/slider/2015-Total_websitefilter.jpg" />
+					<div style="background-color: #14171A">
+					<img class="img-responsive" src="assets/images/slider/DM-Cover-Slider.jpg" style="opacity: 0.3"/>
+					</div>
 					<div class="carousel-caption text-center">
             <div class="row animate_fade_in">
-							<div class="col-md-12">
-								<h2 style="color: #fff; font-size: 3em;">
+							<div class="col-md-6">
+								<div class="logo">
+          <img class="img-responsive"  src="assets/images/DM-Loop-Colored.png">
+								</div>
+							</div>
+							<div class="col-md-6 text-center">
+								<h2 style="color: #fff; font-size: 3em; margin-top: 70px;">
                 	Dance Marathon 2016<br />
 									Livestream &amp; Schedule
                 </h2>
