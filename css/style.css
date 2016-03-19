@@ -961,13 +961,14 @@ MEDIA QUERIES
   .sponsor-panel.right:before {
     margin-right: 37%;
   }
+
 }
 
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   .welcome_txt p {
-    margin: 30px;
+    margin: 120px 30px 15px 30px;
   }
   .flip-clock-divider {
     width: 20px;
@@ -1020,6 +1021,12 @@ body {
 }
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+	.event-caption {
+	  bottom:5% !important;
+	}
+	.welcome_txt p {
+		margin: 30px;
+	}
   .carousel-caption .logo img {
     width:85%;
   }
@@ -1033,7 +1040,11 @@ body {
     padding-top:60px;
   }
 }
-
+@media (min-width: 1200px) {
+	.event-caption {
+		bottom: 20% !important;
+	}
+}
 img.img-full {
   width:100%;
   height:auto;
