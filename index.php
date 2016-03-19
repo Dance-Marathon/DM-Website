@@ -15,13 +15,13 @@
 <!--
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
-        <li data-target="#top-carousel" data-slide-to="5"></li> 
+        <li data-target="#top-carousel" data-slide-to="5"></li>
         <li data-target="#top-carousel" data-slide-to="6"></li>
         <li data-target="#top-carousel" data-slide-to="7"></li>
         <li data-target="#top-carousel" data-slide-to="8"></li>
 -->
       </ol>
-      <div class="carousel-inner"> 
+      <div class="carousel-inner">
         <div class="item active item-with-caption">
           <img class="img-responsive img-full"  src="assets/images/slider/2015-Total_websitefilter.jpg">
           <div class="carousel-caption text-center">
@@ -38,23 +38,23 @@
             </div>
           </div>
         </div>
-        <!-- End Item --> 
+        <!-- End Item -->
 
         <!--    <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/jailbreak_website-01.jpg">
         </div>
--->  
+-->
         <div class="item">
           <img class="img-responsive img-full"  src="assets/images/slider/EventDateSlider.jpg">
-        </div>     
-        <!-- End Item --> 
+        </div>
+        <!-- End Item -->
 
         <div class="item">
           <a href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
-        </div>     
-        <!-- End Item -->  
+        </div>
+        <!-- End Item -->
 
-      </div> 
+      </div>
       <!-- End Carousel Inner -->
 
       <!-- Controls -->
@@ -72,6 +72,13 @@
 </div>
 <?php include("includes/navbar.php"); ?>
 <div class="container">
+	<div class="row">
+		<div class="col-md-12 heading text-center">
+			<h1>
+			<a href="/dance-marathon"><strong style="color:#f79b63;">Dance Marathon 2016 Schedule</strong></a>
+		</h1>
+		</div>
+	</div>
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
@@ -144,7 +151,7 @@
             </div>
             <div class="col-xs-4">
               <img class="img-responsive" src="/assets/images/03.png" />
-            </div> 
+            </div>
             <div class="col-xs-4">
              <img class="img-responsive" src="/assets/images/campaignaward_2014.jpg" />
             </div>
