@@ -33,8 +33,16 @@ include("includes/navbar.php");
 			</div>
 			<div class="col-md-8 col-md-push-1">
 				<?php if ($status == "open") { ?>
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<h1 class="border-bottom">Livestream</h1>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/IdGPYiivbPU" frameborder="0" allowfullscreen></iframe>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="text-center">Schedule &amp; Events</h1>
 					<div role="tabpanel">
-
 						<!-- Nav tabs -->
 						<ul class="nav nav-tabs" role="tablist">
 							<li role="presentation" class="active"><a href="#events" aria-controls="events" role="tab" data-toggle="tab">Events</a></li>
@@ -256,6 +264,8 @@ include("includes/navbar.php");
 
 						</div>
 						<?php } else { echo 'This page is currently closed.'; } ?>
+					</div>
+				</div>
 					</div>
 				</div>
 			</div>
