@@ -9,7 +9,9 @@
 				<span class="icon-bar"></span>
 			  </button>
 			  <a class="navbar-brand" href="/"><img src="/assets/images/logo.png" alt="logo" height="40" width="34"></a>
+				<div class="navbar-text">University of Florida<br />Dance Marathon</div>
 			</div>
+			<div class=""
 			<div class="navbar-collapse collapse">
 			  <ul class="sf-menu navbar-nav navbar-left">
 				<li <?php echo ($parent == 'about') ? "class='open'" : ""; ?>>
@@ -73,12 +75,6 @@
 				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">DM Store</a></li>
 
 				<li class="open"><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank" class="active">Donate</a></li>
-			  </ul>
-			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
-				  <li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube"></i></a></li>
-				  <li><a href="http://urlgeni.us/instagram/dmatuf"><i class="fa fa-instagram"></i></a></li>
-				  <li><a href="http://urlgeni.us/twitter/floridaDM"><i class="fa fa-twitter"></i></a></li>
-				  <li><a href="http://urlgeni.us/facebook/floridaDM"><i class="fa fa-facebook"></i></a></li>
 			  </ul>
 			</div><!--/.nav-collapse -->
 		  </div>
