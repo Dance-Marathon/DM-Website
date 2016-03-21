@@ -1,5 +1,5 @@
 <?php
-$status = "open";
+$status = "closed"; //Set to open to enable content again
 $GLOBALS['page_title'] = 'Dance-Marathon | Events | Florida Dance Marathon';
 $GLOBALS['parent'] = 'events';
 include("includes/head.php");

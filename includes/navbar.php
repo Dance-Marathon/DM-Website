@@ -48,7 +48,6 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/community-events">Community Events</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-						<li><a href="/dance-marathon">Dance Marathon 2016</a></li>
 
 <!--						<li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
