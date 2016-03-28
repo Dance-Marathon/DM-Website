@@ -10,9 +10,9 @@
       if((ua.match(/android/i))) {
         jQuery("#download-app").prop("href","http://play.google.com/store/apps/details?id=com.uf.dancemarathon")
       }
-        		
+
       // Animate number counters
-			jQuery("#student-counter").delay(200).animateNumbers(6833, true, 4000);
+			jQuery("#student-counter").delay(200).animateNumbers(6861, true, 4000);
 
 			// Make nav bar "sticky"
 			jQuery('#nav-wrapper').height(jQuery("#nav").height());
@@ -53,16 +53,16 @@
             sf.superfish('destroy');
         }
       });
-			
+
 			// Parallax all the things
 			jQuery('.parallax').parallax("50%", 0.2);
-			
+
 			// Homepage Carousel
 			jQuery('#top-carousel').carousel({
         interval: 5000,
         pause: "hover"
       });
-			
+
 			// Homepage DM countdown
       var currentDate = new Date();
 			var futureDate  = new Date("March 15, 2015 14:15:00");
@@ -82,11 +82,11 @@
 			}
 
 			jQuery('#countdown').find('a').removeAttr("href");
-			
+
 			// Update active tab based on URL
 			var hash = window.location.hash;
 			hash && jQuery('ul.nav a[href="' + hash + '"]').tab('show');
-			
+
 			// Element Animations:
 			// Elements appear from top
 			jQuery('.animate_top').each(function() {
