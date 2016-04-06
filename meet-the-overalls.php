@@ -6,6 +6,9 @@
 	include("includes/navbar.php");
 
   $overalls = array(
+		array(
+			'image'                 =>  'Blank'
+		),
     array(
       'name'                  =>  'Drew Carlton',
       'position'              =>  'Overall Director',
@@ -21,6 +24,9 @@
       'motivation'            =>  '<p>I had class one semester in Shands Medical Sciences Building, the same area where the Children&#39;s Miracle Network Hospital is located. Every day that I walked to class I would pass by a plaque on the wall with a quote from Winston Churchill that read, “We make a living by what we get, but we make a life by what we give.” Dance Marathon has given me the opportunity to make a life. In my opinion, everyone has a favorite word whether they realize it or not. Mine happens to be a relatively simple four-letter word we whisper to ourselves and echo through our lives: hope. Hope is how Dance Marathon is able to give, grow and impact the lives of so many individuals. Hope is what drives research, fuels Healthcare and inspires every person to become involved within this organization. I hope for a cure and a day that I will no longer need to dance, but until then I will work tirelessly to pursue a life in medicine and fuel the hope that I see within every miracle childs face.</p>',
       'image'                 =>  'Replacement'
     ),
+		array(
+			'image'                 =>  'Blank'
+		),
     array(
       'name'                  =>  'Jacob Leuze',
       'position'              =>  'External Communication Overall',
@@ -289,7 +295,7 @@
       'favorite_memory'       =>  '',
       'motivation'            =>  '',
       'image'                 =>  'Replacement'
-    ),
+    )
   );
 ?>
 
@@ -339,7 +345,9 @@
               <br><a href="mailto:<?php echo $overalls[$i]['email']; ?>"><?php echo $overalls[$i]['email']; ?></a>
             </p>
           </div>
-
+					<?php
+					if($overalls[$i]['name']){
+					 ?>
           <div class="modal fade" id="myModal<?php echo $i; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
               <div class="modal-content">
@@ -347,6 +355,7 @@
                   <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                   <h3 class="modal-title" id="#myModal<?php echo $i; ?>Label">Meet <?php echo $overalls[$i]['name']; ?></h4>
                 </div>
+
                 <div class="modal-body">
                   <h4>Previous DM Involvement</h4>
                   <p><?php echo $overalls[$i]['previous_involvement']; ?></p>
@@ -389,9 +398,11 @@
                   <h4>What Motivates You?</h4>
                   <?php echo $overalls[$i]['motivation']; ?>
                 </div>
+
               </div>
             </div>
           </div>
+					<?php } ?>
         <?php
           if(($i - 2) % 3 == 0) {
             echo '</div>';
