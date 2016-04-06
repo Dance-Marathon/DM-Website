@@ -24,7 +24,7 @@
       <div class="carousel-inner">
 
 				<div class="item active item-with-caption">
-          <img class="img-responsive"  src="assets/images/slider/TotalDM2016.png">
+          <img class="img-responsive"  src="assets/images/slider/TotalDM2016.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <div class="col-md-6">
