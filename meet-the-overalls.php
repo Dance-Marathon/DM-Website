@@ -275,9 +275,6 @@
       'motivation'            =>  '',
       'image'                 =>  'Replacement'
     ),
-		array(
-			'image'                 =>  'Blank'
-		),
     array(
       'name'                  =>  'Lacy Rubloff',
       'position'              =>  'Sponsorships Overall',
@@ -293,9 +290,6 @@
       'motivation'            =>  '',
       'image'                 =>  'Replacement'
     ),
-		array(
-      'image'                 =>  'Blank'
-    )
   );
 ?>
 
