@@ -60,7 +60,7 @@
             'name' => '<b>Belleview High School</b><br/><font style="color: #003">Event Date: <b>February 12th</b></font><br/>Belleview, FL',
             'image' => 'hsdm13.png',
             'url' => 'http://www.marionschools.net/bhs',
-            ),       
+            ),
         array(
             'name' => '<b>Kanapaha Middle School</b><br/><font style="color: #003">Event Date: <b>May 6th</b></font><br/>Gainesville, FL',
             'image' => 'hsdm14.jpeg',
@@ -121,9 +121,9 @@
           <!-- Tab panes -->
           <div class="tab-content">
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
-            <p>Dance Marathon at the University of Florida is the largest and most successful student-run philanthropy in the Southeast United States. This past year DM at UF celebrated its 21st year and raised a historic $2,015,307.17! All money raised goes directly to benefitting the children at UF Heath Shands Children’s Hospital. Our event brings together the University of Florida community to stand for 26.2 hours with the hope of providing a better future for so many deserving children and their families. We would love for you to become a member our DM family! So, join us next year as we continue to make bigger and better miracles For The Kids!</p>
+            <p>Dance Marathon at the University of Florida is the largest and most successful student-run philanthropy in the Southeast United States. This past year DM at UF celebrated its 22nd year and raised a historic $2,434,315.18! All money raised goes directly to benefitting the children at UF Heath Shands Children’s Hospital. Our event brings together the University of Florida community to stand for 26.2 hours with the hope of providing a better future for so many deserving children and their families. We would love for you to become a member our DM family! So, join us next year as we continue to make bigger and better miracles For The Kids!</p>
             <p><iframe width="720" height="405" src="https://www.youtube.com/embed/yeRQhLtFIuU" frameborder="0" allowfullscreen></iframe></p>
-            <p>If you would like to learn more about our Mini-Marathon program or would like to get involved, please contact our Marathon Relations Overall, Drew Carlton, at <a href="mailto:dcarlton@floridadm.org">dcarlton@floridadm.org</a>.</p>
+            <p>If you would like to learn more about our Mini-Marathon program or would like to get involved, please contact our Marathon Relations Overall, Rachel Auld, at <a href="mailto:rauld@floridadm.org">rauld@floridadm.org</a>.</p>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="schools">
             <?php
