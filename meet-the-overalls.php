@@ -120,15 +120,14 @@
       'name'                  =>  'Taytum Orshan',
       'position'              =>  'Family Relations Overall',
       'email'                 =>  'torshan@floridadm.org',
-      'previous_involvement'  =>  '',
-      'major'                 =>  '',
-      'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '',
-      'motivation'            =>  '',
+      'previous_involvement'  =>  'Dancer, Delegate, Family Relations Captain',
+      'major'                 =>  'Sociology with a concentration in Child Life',
+      'hometown'              =>  'Boca Raton, FL',
+      'outside_involvement'   =>  'In addition to my position as Family Relations Overall, I am a member of the Delta Phi Epsilon sorority where I have held positions as Banner Chair and served on the Risk Management Board. I also served as a Panhellenic Recruitment Counselor (Pi Chi) this past year. Lastly, I am currently a UF Health Volunteer within the Child Life Program.',
+      'free_time'             =>  'My favorite thing to do is listen to music, whether that is via spotify or going to concerts. I love live music and I&#39;ve been to over 30 concerts. I enjoy spending time with my family and friends, eating breakfast, going to the beach, playing basketball and playing with puppies.',
+      'fun_fact'              =>  'I make my bed every morning, even when I&#39;m running late',
+      'favorite_memory'       =>  'This past year I had the incredible opportunity to serve as a Family Relations Captain. With this position I have been fortunate enough to meet so many unbelievable and inspiring Miracle Children. One memory that stands out to me is when a handful of Miracle Children and their families played a game of Humans Versus Zombies. My miracle child when I was a captain, Elie, decided she wanted to participate in the game. I remember running through campus with her pretending to be spies and find the "zombies." These "zombies" did an excellent job hiding and Elie kept getting scared by them and the two of us would hold hands and run as fast as we could so we didn&#39;t get tagged. By the end of the day, the two of us were exhausted from non-stop laughing and also running. In that afternoon, Elie was a 9 year old girl playing a game of tag and we were simply having fun, no doctors or medicine or disease to worry about, just having fun.',
+      'motivation'            =>  'Three letters are what truly motivates me, F, T, and K. These three letters stands for "For The Kids" and that is exactly how I am motivated. The Miracle Children are my true pride and joy and bring such a light into my life. Every story I hear, or child that I meet, truly inspires me in a multitude of ways. The bravery and strength all of our Miracle Families have because they have to go through such hardships at such a young age are so motivational. A word that is very impactful to me is Joy. For those who don&#39;t know, my middle name is Joy, but these families are my Joy. Every morning knowing I am having the opportunity to help better the lives of families and children that I have met, and even those I have yet to meet, give me such joy and never fails to put a smile on my face. These children and their families have taught me so many lessons I will keep for the rest of my life and knowing I have the opportunity to give back to these families half of what they have given to me motivates me through everything.',
       'image'                 =>  'Replacement'
     ),
     array(
@@ -165,15 +164,14 @@
       'name'                  =>  'Rachel Auld',
       'position'              =>  'Marathon Relations Overall',
       'email'                 =>  'rauld@floridadm.org',
-			'previous_involvement'  =>  '',
-      'major'                 =>  '',
-      'minor'                 =>  '',
-      'hometown'              =>  '',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '',
-      'motivation'            =>  '',
+			'previous_involvement'  =>  'Dancer, Marathon Relations Captain',
+      'major'                 =>  'Accounting',
+      'hometown'              =>  'Orlando, Florida',
+      'outside_involvement'   =>  'In addition to my position as Marathon Relations Overall, I am an active member in Kappa Delta Sorority, serving as the assistant treasurer and intramural chair. I served as a Panhellenic counselor (Pi Chi) for possible new members looking to join the Panhellenic community or other organizations on UF&#39;s campus. Also, I am involved in Order of Omega and Foundation for International Education. ',
+      'free_time'             =>  'I love to go on vacations with my family, especially to the mountains to go skiing or to the woods to go camping. I also really enjoy sailing, playing and watching sports, hanging out with friends and my awesome girlfriend, and listening to live music.',
+      'fun_fact'              =>  'I have an identical mirror-image twin sister. ',
+      'favorite_memory'       =>  'My favorite DM memory comes from a High School Dance Marathon in 2014. During the middle of the event, Zander and his parents surprised all the high school students and faculty by showing up halfway through and sharing their story. Zander&#39;s family drove over four hours to speak to these students about how Children&#39;s Miracle Network has changed there lives.  The passion and love that was expressed through their story brought everyone to tears. It caused a ripple affect and electrified the schools campus on what #FTK really means.',
+      'motivation'            =>  'Children&#39;s Miracle Network and Dance Marathon at the University of Florida. This organization gives me the inspiration and opportunity to help thousands of children and their families. ',
       'image'                 =>  'Replacement'
     ),
     array(
@@ -345,8 +343,9 @@
               <br><a href="mailto:<?php echo $overalls[$i]['email']; ?>"><?php echo $overalls[$i]['email']; ?></a>
             </p>
           </div>
+					<!-- if function bellow = it was undergrad it will click (none do) change to name so that the two next to drew dont click after everyone has info -->
 					<?php
-					if($overalls[$i]['name']){
+					if($overalls[$i]['undergrad']){
 					 ?>
           <div class="modal fade" id="myModal<?php echo $i; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
             <div class="modal-dialog">
