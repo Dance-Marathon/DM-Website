@@ -222,9 +222,9 @@
       'image'                 =>  'Replacement'
     ),
     array(
-      'name'                  =>  'Zandy Hernandez',
+      'name'                  =>  'Alexandra Hernandez',
       'position'              =>  'Outreach Overall ',
-      'email'                 =>  'zhernandez@floridadm.org',
+      'email'                 =>  'ahernandez@floridadm.org',
 			'previous_involvement'  =>  '',
       'major'                 =>  '',
       'minor'                 =>  '',
