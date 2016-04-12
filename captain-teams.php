@@ -97,25 +97,6 @@
             </div>
           </div>
           <div class="panel panel-default">
-            <div class="panel-heading" role="tab" id="q4">
-              <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a4" aria-expanded="false" aria-controls="a4">Entertainment</a>
-              </h4>
-            </div>
-            <div id="a4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q4">
-              <div class="panel-body">
-                <h4>Description</h4>
-                  Entertainment Captains are responsible for booking entertainment for Dance Marathon, such as the DJ and organizing cameo presentations for the 26.2 hour event. As a team, Entertainment also provides music and performers at the events leading up to Dance Marathon, hosts and organizes a benefit concert and a talent show.
-                <h4></h4>
-                <h4></h4>
-                <h4></h4>
-                <table style="width:100%">
-
-                </table>
-             </div>
-            </div>
-          </div>
-          <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q5">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#a5" aria-expanded="false" aria-controls="a5">Family Relations</a>
@@ -224,16 +205,35 @@
               </div>
             </div>
           </div>
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="q4">
+							<h4 class="panel-title">
+								<a data-toggle="collapse" data-parent="#accordion" href="#a4" aria-expanded="false" aria-controls="a4">Outreach</a>
+							</h4>
+						</div>
+						<div id="a4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q4">
+							<div class="panel-body">
+								<h4>Description</h4>
+                   The Outreach Team will focus on increasing the awareness and reach that DM at UF has. They will work closely with the Dance Marathon Alumni Initiative and act as the 6th member of the DMAA board. They will meet regularly with them to discuss and plan alumni engagement events, plans, campaigns, etc. The Outreach team will also look to increase faculty engagement on the UF’s campus and engagement for all of UF Health. This team will consist of a small group of assistant directors and will work closely with teams such as Sponsorships, Community Events, Recruitment, and Public Relations.								<h4></h4>
+								<h4></h4>
+								<h4></h4>
+								<table style="width:100%">
+
+								</table>
+						 </div>
+						</div>
+					</div>
+	
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q12">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a12" aria-expanded="false" aria-controls="a12">Operations</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a12" aria-expanded="false" aria-controls="a12">Productions</a>
               </h4>
             </div>
             <div id="a12" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q12">
               <div class="panel-body">
                 <h4>Description</h4>
-                Responsible for communicating with the O'Connell Center staff prior to Dance Marathon and for security and strike at the event. Provides security during the event and maintains the orderliness and cleanliness of the O'Connell Center during the event. Ensures that permits are submitted on time for all of the events.
+								The Productions team is in charge of designing all floor layouts and is in charge of all set-up, maintenance, strike and security for the main event.  The Productions team is responsible for soliciting a variety of entertainment acts for Dance Marathon, taking care of the entertainers at the event, communicating with the DJ, and organizing cameo presentations.								<h4></h4>
                 <h4></h4>
                 <table style="width:100%">
 
