@@ -49,15 +49,13 @@
           <div class="tab-content">
             <div role="tabpanel" class="tab-pane fade in active" id="become-a-delegate">
               <h3>What is a Delegate?</h3>
-              <p><em>del·e·gate</em> (noun): A delegate is the representative from an organization participating in Dance Marathon, whose primary responsibility is to convey information to the members of their organization and motivate them to make a difference in the lives of kids at UF Health Shands Children’s Hospital. Delegates are the heartbeat of Dance Marathon and we are extremely thankful for the hard work and passion they dedicate for the kids. Each Delegate has a designated Dancer Relations captain to serve as his or her primary point of contact to answer any questions and help as much as possible.</p>
+              <p><em>del·e·gate</em> (noun): A delegate is the representative from an organization participating in Dance Marathon whose primary responsibility is to convey information to the members of his or her organization and to motivate them. Delegates are the heartbeat of Dance Marathon and we are extremely thankful for the hard work and passion they dedicate For The Kids. Each Delegate has a designated Dancer Relations captain to serve as his or her primary point of contact to answer any questions.</p>
               <p>Synonyms: motivator, representative, leader, rockstar</p>
               <h3>Responsibilities:</h3>
               <ul>
                 <li>Attend bi-weekly Delegate meetings led by the Dancer Relations Overall</li>
                 <li>Inform your organization's members of all information they need to participate including events, dates, incentives, etc.</li>
-                <li>Recruit members of your organization to participate in Dance Marathon</li>
-                <li>Motivate your organization to fund raise and participate at their highest potential</li>
-                <li>Inspire your members and help them understand the heart behind DM</li>
+                <li>Recruit and motivate members of your organization to fundraise and participate at their highest potential</li>
               </ul>
               <h3>Responsibilities during Dance Marathon:</h3>
               <ul>
@@ -68,7 +66,7 @@
               <p class="alert alert-info"><strong>Note:</strong> Delegates can also be Dancers at the event!</p>
               <h3>Delegate Tips</h3>
               <ul>
-                <li>Attend all Delegate meetings. This is the most effective way to get the information in the clearest way possible.</li>
+                <li>Attend all Delegate meetings. This is the most effective way to recieve and rellay information in the clearest way possible.</li>
                 <li>Utilize your designated Dancer Relations captain. They want to answer questions and be as helpful as possible!</li>
               </ul>
             </div>

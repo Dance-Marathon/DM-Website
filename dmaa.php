@@ -35,11 +35,11 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
      		<h3>About</h3>
-  			<p>Since 1995, Dance Marathon at UF has raised over $10 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have grown to the most successful student-run philanthropy in the region.</p>
-  			<p>Your commitment to a worthy cause doesn’t have to end after you graduate. Would you like to join DMAA and recieve benefits for Dance Marathon 2016? <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=915">Click Here</a> to register and be sure to join our <a href="https://www.facebook.com/FloridaDMAlumni?fref=ts">Alumni Group on Facebook</a> to stay connected to the rest of your Dance Marathon family.</p>
+  			<p>Since 1995, Dance Marathon at UF has raised over $12.4 million for UFHealth Shands Children's Hospital, our local Children’s Miracle Network hospital. Thanks to your dedication and support throughout your college years, we have become to the most successful student-run philanthropy in the southeastern United States.</p>
+  			<p>Your commitment to a worthy cause doesn’t have to end after you graduate. Would you like to join DMAA and recieve benefits for Dance Marathon 2017? be sure to join our <a href="https://www.facebook.com/FloridaDMAlumni?fref=ts">Alumni Group on Facebook</a> to stay connected to the rest of your Dance Marathon family.</p>
   			<h3>Benefits</h3>
   			<ul>
-  				<li>Discounted hotel rates for Dance Marathon Weekend (March 19-20, 2016)</li>
+  				<li>Discounted hotel rates for Dance Marathon Weekend</li>
   				<li>An official DMAA t-shirt at the event</li>
   				<li>Special offers to the online DM Store</li>
   				<li>Miracle Breakfast on Sunday of the event</li>

@@ -50,7 +50,7 @@
           <div class="tab-content">
             <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
               <h3>Dancers</h3>
-              <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun line dance, enjoy live entertainment and yummy, and hear firsthand stories from our very own Miracle Families about how Dance Marathon has changed their life. There are a limited number of dancer spots determined by participation and fundraising, don't miss your chance to register today!</p>
+              <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun line dance, enjoy live entertainment, yummy food , and hear firsthand stories from our very own Miracle Families. There are a limited number of dancer spots determined by participation and fundraising, don't miss your chance to register today!</p>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe>

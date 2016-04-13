@@ -36,7 +36,7 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-  			<p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in being a Captain, Dancer, Staff, Delegate or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF and we would love for you to join our DM family and help make miracles For the Kids.</p>
+  			<p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in being a Captain, Dancer, FTKrew, Delegate or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF, and we would love for you to join our DM family to help make miracles For the Kids.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>

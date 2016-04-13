@@ -59,7 +59,7 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-                Please contact our Public Relations Overall Director, Armani Abreu, at <a href="mailto:aabreu@floridadm.org">aabreu@floridadm.org</a>.
+                Please contact our Public Relations Overall Director, Claire Daniel, at <a href="mailto:cdaniel@floridadm.org">cdaniel@floridadm.org</a>.
               </div>
             </div>
           </div>
