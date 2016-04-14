@@ -57,7 +57,6 @@
         <h3>Family Room</h3>
         <p>
           At Dance Marathon, we provide a “Family Room” for our families during the event. Each year the Family Room is decorated with a different theme. This past year a scavenger hunt was even included! The Family Room is a place for the families to relax and eat their meals. Most of them stay down on the floor though so they don’t miss out on all the fun!
-          <br/> At DM 2014, we will have two “Family Rooms,” one for our Miracle Children who are 12 and under and then another room for our 13 and older Miracle Teens and Miracle Gator Nation Families!
         </p>
       <?php } else { echo 'This page is currently closed.'; } ?>
       </div>
