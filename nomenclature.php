@@ -74,15 +74,16 @@
           <li>
             Overall Directors
             <ul>
+							<li>Overall Director</li>
+							<li>External Communication</li>
+							<li>Internal Communication</li>
+							<li>Finance</li>
               <li>Community Events</li>
               <li>Creative Development</li>
               <li>Dancer Relations</li>
-              <li>External Communication</li>
               <li>Family Relations</li>
-              <li>Finance</li>
 							<li>Fundraising</li>
               <li>Hospitality</li>
-              <li>Internal Communication</li>
               <li>Marathon Relations</li>
               <li>Merchandise</li>
               <li>Morale</li>
@@ -94,7 +95,7 @@
               <li>Sponsorships</li>
             </ul>
           </li>
-					<li>Assitant Directors
+					<li>Assitant Directors & Captains
 						<ul>
 							<li>Community Events</li>
 							<li>Creative Development</li>
@@ -106,31 +107,13 @@
 							<li>Merchandise</li>
 							<li>Morale</li>
 							<li>Multimedia</li>
-							<li>Outreach</li>
+							<li>Outreach*</li>
 							<li>Productions</li>
 							<li>Public Relations</li>
 							<li>Recruitment</li>
 							<li>Sponsorships</li>
 						</ul>
 					</li>
-          <li>Captains
-            <ul>
-              <li>Community Events</li>
-              <li>Creative Development</li>
-              <li>Dancer Relations</li>
-              <li>Family Relations</li>
-              <li>Fundraising</li>
-              <li>Hospitality</li>
-              <li>Marathon Relations</li>
-              <li>Merchandise</li>
-              <li>Morale</li>
-              <li>Multimedia</li>
-              <li>Productions</li>
-              <li>Public Relations</li>
-              <li>Recruitment</li>
-              <li>Sponsorships</li>
-            </ul>
-          </li>
           <li>FTKrew</li>
           <li>Delegates</li>
           <li>Dancers</li>

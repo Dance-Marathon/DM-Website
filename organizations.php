@@ -4,7 +4,7 @@
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
-  
+
   $greek_organizations = array(
     array(
       'organization'  =>  'Benton Engineering Council',
@@ -379,7 +379,7 @@
       'link'          =>  ''
     )
   );
-  
+
   function compareAlphabetically($a, $b) {
     return strcmp($a['organization'], $b['organization']);
   }
@@ -424,7 +424,7 @@
             $total_orgs = count($greek_organizations);
             $increment = ceil($total_orgs/$column_number);
             $extra_cells = $increment * $column_number - $total_orgs;
-                        
+
             for($i = 0; $i < $increment; $i++) {
               echo '<tr>';
                 for($j = $i; $j < $total_orgs + $extra_cells; $j += $increment) {
@@ -448,7 +448,7 @@
           ?>
           </tbody>
         </table>
-  			<p>If your organization would like to participate contact the Recruitment Overall, Grace Caswell, at <a href="mailto:gcaswell@floridadm.org">gcaswell@floridadm.org</a></p>
+  			<p>If your organization would like to participate contact the Recruitment Overall, Joey Whelihan, at <a href="mailto:jwhelihan@floridadm.org">gcaswell@floridadm.org</a></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>

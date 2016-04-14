@@ -83,7 +83,7 @@
           <br/>
           Total amount raised in past 22 years: more than <b>$12.5 million</b> ($12,531,016) <!-- 10,096,701-->
           <br/>
-          Community Events: <b>5 events</b> - Bowling, Kickball, Food Truck Rally, FT5K, FTKarnival
+          Community Events: <b>5 events</b> - Bowling, Dodgeball, Food Truck Rally, FT5K, Cirque du FTK
         </p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>

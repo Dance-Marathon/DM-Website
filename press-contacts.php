@@ -44,7 +44,7 @@
         <p>
           External Communications Overall Director
           <br/>
-          <a href="mailto:jleuze@floridadm.org">mlaporte@floridadm.org</a><br/>
+          <a href="mailto:jleuze@floridadm.org">jleuze@floridadm.org</a><br/>
         </p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
