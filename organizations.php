@@ -448,7 +448,7 @@
           ?>
           </tbody>
         </table>
-  			<p>If your organization would like to participate contact the Recruitment Overall, Joey Whelihan, at <a href="mailto:jwhelihan@floridadm.org">gcaswell@floridadm.org</a></p>
+  			<p>If your organization would like to participate contact the Recruitment Overall, Joey Whelihan, at <a href="mailto:jwhelihan@floridadm.org">jwhelihan@floridadm.org</a></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>
