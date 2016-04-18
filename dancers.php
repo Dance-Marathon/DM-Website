@@ -50,44 +50,44 @@
           <div class="tab-content">
             <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
               <h3>Dancers</h3>
-              <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun line dance, enjoy live entertainment, yummy food , and hear firsthand stories from our very own Miracle Families. There are a limited number of dancer spots determined by participation and fundraising, don't miss your chance to register today!</p>
+              <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun line dance, enjoy live entertainment, yummy food, and hear firsthand stories from our very own Miracle Families. There are a limited number of dancer spots determined by participation and fundraising, so don't miss your chance to register today!</p>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe>
             &nbsp;<br/>
               <h3>Register to Dance</h3>
-              <p>Registration to be a Dancer at Dance Marathon is open for two weeks in the fall and two weeks in the spring. In order to be eligible to dance, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled, but may have an internship in place of classes.</p>
-              <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Any one may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two week period in the Fall and in the Spring.</p>
-              <p>Registering to dance also does not guarantee a dancer spot. Dancer spots are allocated in the spring based off of goals that have been achieved by each organization or individual.</p>
-              <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Kintera. See <a href="/delegates.php#starting-a-team">Starting a Team</a> for more information.</p>
+              <p>Registration to be a Dancer at Dance Marathon is open for two weeks in the fall and two weeks in the spring. In order to be eligible to dance, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
+              <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
+              <p>Registering to dance also does not guarantee a dancer spot. Dancer spots are allocated in the spring based off of organizational or individual achievements</p>
+              <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Donor Drive. See <a href="/delegates.php#starting-a-team">Starting a Team</a> for more information.</p>
               <h3>Staying Healthy</h3>
               <ul>
                 <li>Stay hydrated! Be sure to have bring a water bottle with you to the event to ensure you are drinking enough water. Water and Gatorade will be provided at the event as well.</li>
                 <li>Stay energized! Take advantage of the meals provided by our sponsors throughout the event.</li>
                 <li>Take time to stretch during the event so your muscles don't get as tight and sore.</li>
-                <li>Stay engaged! The more you participate in the activities, entertainment, and line dance throughout the event, the more likely you are to keep a positive mindset.</li>
+                <li>Stay engaged! The more you participate in the activities, entertainment and line dance throughout the event, the more likely you are to maintain a positive mindset.</li>
               </ul>
               <h3>Packing List</h3>
               <ul>
                 <li>Gator 1 ID - Must have to be admitted into the O’Dome.</li>
                 <li>Multiple pairs of socks and underwear. These will do wonders to make you feel refreshed throughout the event.</li>
-                <li>T-shirts, tanks, and long sleeve shirts to adjust to the temperature as you need to.</li>
-                <li>Water Bottle</li>
+                <li>T-shirts, tanks and long sleeve shirts to adjust to the temperature as you need to.</li>
+                <li>Water bottle</li>
                 <li>At least 2 pairs of supportive, comfortable shoes</li>
-                <li>Toothbrush & Toothpaste</li>
+                <li>Toothbrush & toothpaste</li>
                 <li>Hairbrush</li>
                 <li>Chapstick</li>
-                <li>Deodorant</li>
-                <li>Baby Wipes</li>
+                <li>Deodorant</li> <!--Add video of where is my chapstick -->
+                <li>Baby wipes</li>
                 <li>Goldbond powder</li>
-                <li>UF DM Fanny Pack</li>
+                <li>UF DM fanny pack</li>
                 <li>Any necessary medications</li>
-                <li>Glasses, contacts, or contact solution if necessary</li>
+                <li>Glasses, contacts or contact solution if necessary</li>
                 <li>Costumes for theme hours</li>
                 <li>Phone charger</li>
                 <li>Study material for upcoming exams</li>
                 <li>Games</li>
-                <li>Encouraging note from friends or family</li>
+                <li>Encouraging notes from friends or family</li>
               </ul>
               <h3>For Swim/Shower Shifts:</h3>
               <ul>
@@ -98,9 +98,9 @@
               </ul>
               <h3>Important Reminders:</h3>
               <ul>
-                <li>Lockers are provided to store your things, however, there are not enough lockers for everyone to have their own. We suggest leaving any valuables at home.</li>
+                <li>Lockers are provided to store your things, however, there are not enough lockers for everyone to have his/her own. We suggest leaving any valuables at home.</li>
                 <li>If you have allergies, you will be given a chance to make note of this and you may bring your own snacks.</li>
-                <li>If you have medications, you will be able to turn these in to your Delegate or Dancer Relations captain and they will be kept safe in our Medical Room with our medical personnel.</li>
+                <li>If you have medications, you will be able to turn these in to your Delegate or Dancer Relations Captain and they will be kept safe in our Medical Room with our medical personnel.</li>
               </ul>
             </div>
             <div role="tabpanel" class="tab-pane fade" id="dancer-faqs">
@@ -143,7 +143,7 @@
                   </div>
                   <div id="a3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q3">
                     <div class="panel-body">
-                      Yes, you must be enrolled as a student during the Spring semester in which Dance Marathon takes place. This also applies to those registered with UF who are taking an internship in place of classes.
+                      Yes, you must be enrolled as a student during the spring semester in which Dance Marathon takes place. This also applies to those registered with UF who are taking an internship in place of classes.
                     </div>
                   </div>
                 </div>

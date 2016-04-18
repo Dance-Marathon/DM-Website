@@ -4,36 +4,36 @@
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
 	include("includes/navbar.php");
-	
+
 	$events = array(
         array(
             'name' => 'Bowling',
-            'description' => 'Teams of four compete at Alley Gatorz Bowling Alley, many dressing in costumes to show team spirit. A DJ is in attendance, along with Miracle Families who bowl in the tournament. Many teams participate for a fun day of bowling with friends, while others put on their game faces and compete for a top spot in the tournament. A number of trophies, which are bowling pins painted by the kids at Shands Hospital for Children, are awarded for highest individual score, highest team score, and best costumes.',
+            'description' => 'Teams of four compete at Alley Gatorz Bowling Alley, many dressing in costumes to show team spirit. A DJ is in attendance, along with Miracle Families who bowl in the tournament. Many teams participate for a fun day of bowling with friends, while others put on their game faces and compete for a top spot in the tournament. A number of trophies, which are bowling pins painted by the kids at Shands Children&#39;s Hospital, are awarded for highest individual score, highest team score and best costumes.',
             'image' => 'Bowling.JPG',
             ),
         array(
             'name' => 'Dodge Ball',
-            'description' => 'Wipe off your sneakers and sweatbands and get ready for an intense, but fun, game of dodgeball for the kids! Some teams play to win, while others come out for a fun time. The event will include a DJ, water and snacks. Don’t forget to watch out for flying dodgeballs while cheering on your team!',
+            'description' => 'Wipe off your sneakers, pull out your sweatbands and get ready for an intense, but fun, game of dodgeball For The Kids! The event will include a DJ, water and snacks. Don’t forget to watch out for flying dodgeballs while cheering on your team!',
             'image' => 'Dodgeball.jpg',
             ),
         array(
             'name' => 'Field Day',
-            'description' => 'With games including tug-of-war, water balloon fights, three-legged races and dizzy bat, field day lets us relive our elementary school days! Live music featuring local bands from our DMLive event provide the soundtrack for the day, and voting on favorite bands can help get them to the event in March. You won’t want to miss out on this change to be a kid, while helping kids!',
+            'description' => 'With games including tug-of-war, water balloon fights, three-legged races and dizzy bat, Field Day lets us relive our elementary school days! Live music featuring local bands from our DMLive event provide the soundtrack for the day, and voting on favorite bands can help get them to the event in March. You won’t want to miss out on this chance to be a kid, while helping the kids!',
             'image' => 'FieldDay.jpg',
             ),
         array(
             'name'  => 'Food Truck Rally',
-            'description' => 'Dance Marathon at UF partners with CYMplify to put on a Food Truck rally for the Gainesville community. Their motto of ‘doing good things with good people’ is all encompassing of what DM stands for and helped create a great atmosphere for an even better event. The food truck line-up includes Bubba Luigi\'s Road Trip, FED Food Company, Go Go Stuff Yourself, Humble Pie, Off The Griddle, Soup to Nuts and Monsta Lobsta. With entertainment, great food and stories shared from our Miracle Families, this is one event not to miss out on!',
+            'description' => 'Dance Marathon at UF partners with CYMplify to put on a Food Truck rally for the Gainesville community. CYMplify&#39;s motto of ‘doing good things with good people’ is all-encompassing of what DM stands for and helps create a great atmosphere for an even better event. The food truck line-up includes Bubba Luigi\'s Road Trip, FED Food Company, Go Go Stuff Yourself, Humble Pie, Off The Griddle, Soup to Nuts and Monsta Lobsta. With entertainment, great food and stories shared from our Miracle Families, this is one event not to miss out on!',
             'image' => 'DMCymp.jpg',
             ),
         array(
             'name' => 'FT5K',
-            'description' => '"For The Kids 5K" is an early morning race that takes participants through the beautiful UF campus every spring. Over 1,000 members of the community and students register to enjoy the run and compete for prizes. Whether it is to enjoy a light walk or jog through campus with friends, get in shape for bathing suit season, or compete for a place in the race, participants leave the race feeling accomplished for finishing the run just blocks away from UF Health Shands Children\'s Hospital. <a href="http://events.dancemarathon.com/event/ft5k/">Click Here</a> to sign up!',
+            'description' => 'FT5K is an early morning race that takes participants through the beautiful UF campus each spring. Over 1,000 members of the UF/Gainesville community register to run and compete for prizes. Participants register to enjoy a light walk/jog through campus with friends, get in shape for Spring Break or compete for a trophy. <a href="http://events.dancemarathon.com/event/ft5k/">Click Here</a> to sign up!',
             'image' => '5k.jpg',
             ),
         array(
             'name'  => 'FTKarnival',
-            'description' => 'Come one, come all to Dance Marathon’s FTKarnival We\'re celebrating DM’s 22nd year and this is the perfect way to get us ready for the big weekend! Get ready for food, entertainment, bounce houses, snow cones, clowns, face-painting, balloon animals and carnival games. FTKarnival is a family favorite Food-Games-Music-Fun all For the Kids!',
+            'description' => 'Come one, come all to Dance Marathon’s FTKarnival. We\'re celebrating DM’s 23rd year, and this is the perfect way to get us ready for the event! Get ready for food, entertainment, bounce houses, snow cones, clowns, face-painting, balloon animals and carnival games. FTKarnival is a family favorite, dont miss out!',
             'image' => 'carnival.jpg',
             ),
         );
@@ -83,7 +83,7 @@
                   <p><?php echo $events[$i]['name']; ?></p>
                 </a>
               </div>
-              
+
               <!-- Modal -->
               <div class="modal fade" id="myModal<?php echo $i; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
