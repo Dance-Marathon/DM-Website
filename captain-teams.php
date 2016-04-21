@@ -215,7 +215,7 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   Being a part of the Morale Team includes many important responsibilities. These are creating, planning and executing "theme hours" which are essentially themed hours filled with games, activities and crafts to keep the dancers entertained and enthused. Morale is also responsible for keeping the spirit of Dance Marathon high, energetic and positive throughout the entire event and the entire year prior to the 26.2 hour marathon. Morale is also the design team behind the revered linedance, which inspires and connects everyone at the event. Morale is an esteemed, dynamic and integral part of the Dance Marathon team!
-									<h4>Assistant Director of High School Dance Marathon</h4>
+									<h4>Assistant Director of High School Dance Marathons</h4>
 									Julia Stevens
 									<h4>Assistant Director of Special Tasks</h4>
 									Madison Eouse
