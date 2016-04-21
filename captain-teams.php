@@ -144,7 +144,7 @@
             </div>
           </div>
 					<div class="panel panel-default">
-            <div class="panel-heading" role="tab" id="q2">
+            <div class="panel-heading" role="tab" id="q7">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Hospitality</a>
               </h4>
