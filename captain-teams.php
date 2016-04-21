@@ -146,10 +146,10 @@
 					<div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q7">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Hospitality</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a7" aria-expanded="false" aria-controls="a7">Hospitality</a>
               </h4>
             </div>
-            <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
+            <div id="a7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q7">
               <div class="panel-body">
                 <h4>Description</h4>
 								The Hospitality Team is responsible for planning, soliciting and serving a continuous and consistent flow of healthy snacks and meals to the dancers for the duration of the 26.2-hour event. They work year-round with local restaurants to coordinate monthly hospitality fundraising nights for Dance Marathon. The Hospitality Team is also responsible for any food-related needs for pre-event activities at community events.
