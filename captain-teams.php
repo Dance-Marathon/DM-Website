@@ -48,8 +48,11 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   Community Events Captains are responsible for organizing and participating in the events leading up to the 26.2 hour Dance Marathon. The highly anticipated events encourage the Gainesville and University of Florida Community to give back to the Kids. Events held prior to Dance Marathon may include a bowling tournament, Kickin' it For the Kids kickball tournament, FT5K race, Family Day at the Zoo and the Dance Marathon kick-off BBQ. Additionally, Community Events Captains organize activities at Dance Marathon including Jailbreak.
-                <h4></h4>
-                <table style="width:100%">
+                <h4>Assistant Director of Delegate Communications</h4>
+								Trevor Schaettle
+								<h4>Assistant Director of Sponsored Events</h4>
+                 Jenny Vasiloff
+               <table style="width:100%">
                   <tr>
                     <td></td>
                     <td></td>
@@ -69,8 +72,10 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   The Creative Development Captains are responsible for the Dance Marathon website, mobile applications on iOS and Android. This team is also in charge of all graphic design needs (e.g. Instagram graphics, website graphics, t-shirt proofs, newsletters, calendars, etc.) throughout the year. The Creative Development Captains also manage at-event content shown on the jumbotrons, such as Dancer Walk information, meal slides, and the livestream.
-                <h4></h4>
-                <h4></h4>
+									<h4>Assistant Director of Branding</h4>
+									Shaina Patel
+									<h4>Assistant Director of Software Development</h4>
+									Alex Robau
                 <table style="width:100%">
 
                 </table>
@@ -87,8 +92,10 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   Responsible for taking care of the dancers from the beginning of the year to the event’s end. Responsibilities include registering dancers for the actual event, tallying the spirit point competition that takes place throughout the year at various check-ins, holding informational dancer meetings, staffing the medical and study rooms at the event, handling guest check-ins at the event for dancer's visitors and maintaining communication with registered organizations throughout the year to handle any questions and concerns. Dancer Relations also coordinates an in-depth delegate program ensuring dancers and organizations have updated and accurate information about all upcoming events, deadlines and Dance Marathon as a whole.
-                <h4></h4>
-                <h4></h4>
+									<h4>Assistant Director of Check Ins</h4>
+									Jessie Anderson
+									<h4>Assistant Director of New Organizations</h4>
+									Christine Joseph
                 <h4></h4>
                 <table style="width:100%">
 
@@ -106,8 +113,10 @@
               <div class="panel-body">
                 <h4>Description</h4>
                 Family Relations Captains serve as the liaison between Dance Marathon and the Miracle Families. These responsibilities include contacting Miracle Families, organizing the pen pal program, soliciting hotel rooms, coordinating events with the Miracle Families and organizations and organizing the Family Day event in the fall. As a team, Family Relations also decorates the family room, organizes the Miracle Family talent show and keeps the Miracle Families entertained during the 26.2 hour event.
-                <h4></h4>
-                <h4></h4>
+								<h4>Assistant Director of Family Outreach</h4>
+								Kelsey Torgerson
+								<h4>Assistant Director of Family Events</h4>
+								Jake Dube
                 <table style="width:100%">
 
                 </table>
@@ -117,16 +126,37 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q6">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="false" aria-controls="a6">Finance</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="false" aria-controls="a6">Fundrasing</a>
               </h4>
             </div>
             <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
               <div class="panel-body">
                 <h4>Description</h4>
-                  As a member of the Finance Team, you will work in close association with the Finance Overall Director on a variety of responsibilities, including financial oversight, funds processing, collections, and fundraising strategies. The finance team plays an integral role in the success of Dance Marathon at UF by ensuring that our total reveal is accurate up until the very last minute when the numbers are raised. The Finance team is also responsible for running dancer registration along with the Dancer Relations team. Alongside this, every Finance Captain will be responsible for all financial oversight for a handful of organizations. This oversight will require close relationships with both the delegates of those organizations and the corresponding Dancer Relations Captain.
-                <h4></h4>
+                  As a member of the Fundraising Team, you will work in close association with the Finance Overall Director on a variety of responsibilities, including financial oversight, funds processing, collections, and fundraising strategies. The finance team plays an integral role in the success of Dance Marathon at UF by ensuring that our total reveal is accurate up until the very last minute when the numbers are raised. The Finance team is also responsible for running dancer registration along with the Dancer Relations team. Alongside this, every Finance Captain will be responsible for all financial oversight for a handful of organizations. This oversight will require close relationships with both the delegates of those organizations and the corresponding Dancer Relations Captain.
+									<h4>Assistant Director of Offline Transactions</h4>
+									Hunter Hedman
+									<h4>Assistant Director of Mini-Marathon Tracking</h4>
+									Nicole Zackowitz
+                <table style="width:100%">
 
-                <h4></h4>
+                </table>
+              </div>
+            </div>
+          </div>
+					<div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="q2">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Hospitality</a>
+              </h4>
+            </div>
+            <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
+              <div class="panel-body">
+                <h4>Description</h4>
+								The Hospitality Team is responsible for planning, soliciting and serving a continuous and consistent flow of healthy snacks and meals to the dancers for the duration of the 26.2-hour event. They work year-round with local restaurants to coordinate monthly hospitality fundraising nights for Dance Marathon. The Hospitality Team is also responsible for any food-related needs for pre-event activities at community events.
+									<h4>Assistant Director of Stewarship</h4>
+									Dara Herman
+									<h4>Assistant Director of Hospitality Nights</h4>
+									Megan Spurrell
                 <table style="width:100%">
 
                 </table>
@@ -143,8 +173,12 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   Responsible for advising and attending Dance Marathon at UF’s high school marathons. Also responsible for energizing and supporting these marathons by teaching the line dance and educating students on Children’s Miracle Network Hospitals and DM at UF’s history and culture. Focuses on strengthening relationships with high schools around the state while helping them to plan and put on their marathons, as well as recruiting new high schools to join the dance marathon family. Additionally, Marathon Relations maintains relationships with other collegiate Dance Marathons by serving as a resource and hosting other collegiate dance marathons. Other responsibilities include fostering a relationship with and overseeing communications and outreach with UF faculty and staff.
-                <h4></h4>
-                <h4></h4>
+									<h4>Assistant Director of High School Recruitment</h4>
+									Hunter Waters
+									<h4>Assistant Director of Event Coordination</h4>
+									Kelsie Boudreau
+									<h4>Assistant Director of Captain Relations</h4>
+									Anaelise Wagner
                 <table style="width:100%">
 
                 </table>
@@ -161,9 +195,10 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   The Merchandise Team is responsible for all Dance Marathon at the University of Florida merchandise and stores, in addition to running the Silent Auction at event. This team is also responsible for creating an official product offering for DM at UF apparel and accessories, running the DM Store in Turlington every Wednesday and at community events, facilitating pre-orders with Delegates and organizations, taking inventory, and organizing check-in shirt and event shirt orders. The Merchandise Team is also responsible for the ordering of Dancer Bag items as well as stuffing the bags. Merchandise Captains will help the Sponsorship team facilitate Marketing Days. The Merchandise team will also manage the online store and fulfill orders.
-                <h4></h4>
-                <h4></h4>
-                <h4></h4>
+									<h4>Assistant Director of Inventory</h4>
+									Kelsey Johnson
+									<h4>Assistant Director of Orders</h4>
+									Hannah Jones
                 <table style="width:100%">
 
                 </table>
@@ -180,8 +215,10 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   Being a part of the Morale Team includes many important responsibilities. These are creating, planning and executing "theme hours" which are essentially themed hours filled with games, activities and crafts to keep the dancers entertained and enthused. Morale is also responsible for keeping the spirit of Dance Marathon high, energetic and positive throughout the entire event and the entire year prior to the 26.2 hour marathon. Morale is also the design team behind the revered linedance, which inspires and connects everyone at the event. Morale is an esteemed, dynamic and integral part of the Dance Marathon team!
-                <h4></h4>
-                <h4></h4>
+									<h4>Assistant Director of High School Dance Marathon</h4>
+									Julia Stevens
+									<h4>Assistant Director of High School Special Tasks</h4>
+									Madison Eouse
                 <table style="width:100%">
 
                 </table>
@@ -198,7 +235,10 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   The Multimedia Team is responsible for videography and photography throughout the year and during the event. The team works to edit, sort and upload videos and photos regularly to YouTube and Facebook, respectively. The Multimedia Team is responsible for the acquisition of equipment for all filming and photography including all software involved for editing videos and photos. The Multimedia Team also works closely with the Creative Development Team to select pictures needed for graphics and other photographic needs. This team will be responsible for the Dance Marathon YouTube channel, as well as the Live Stream and Live Feed at the Event. It is recommended that Captains have experience with the Adobe Suite and/or other editing software.
-                <h4></h4>
+									<h4>Assistant Director of Social Media </h4>
+                   Meaghan Hanley
+									<h4>Assistant Director of videography </h4>
+									Kelcie Roscoe
                 <table style="width:100%">
 
                 </table>
@@ -215,7 +255,8 @@
 							<div class="panel-body">
 								<h4>Description</h4>
                    The Outreach Team will focus on increasing the awareness and reach that DM at UF has. They will work closely with the Dance Marathon Alumni Initiative and act as a member of the DMAA board. They will meet regularly with them to discuss and plan alumni engagement events, plans, campaigns, etc. The Outreach team will also look to increase faculty engagement on the UF’s campus and engagement for all of UF Health. This team will consist of a small group of assistant directors and will work closely with teams such as Sponsorships, Community Events, Recruitment, and Public Relations.
-									 <h4></h4>
+									 <h4>Assistant Director of Hospital </h4>
+									 Sarah Hayo
 								<h4></h4>
 								<h4></h4>
 								<table style="width:100%">
@@ -235,7 +276,12 @@
               <div class="panel-body">
                 <h4>Description</h4>
 								The Productions team is in charge of designing all floor layouts and of all set-up, maintenance, strike and security for the main event.  The Productions team is responsible for soliciting a variety of entertainment acts for Dance Marathon, taking care of the entertainers at the event, communicating with the DJ, and organizing cameo presentations.								<h4></h4>
-                <h4></h4>
+								<h4>Assistant Director of Logistics </h4>
+								Shane Hanney
+								<h4>Assistant Director of Talent Relations </h4>
+								Paige Levin
+								<h4>Assistant Director of Theme Hours </h4>
+								Nikki Masse
                 <table style="width:100%">
 
                 </table>
@@ -252,9 +298,12 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   As a team, Public Relations is responsible for communicating Dance Marathon information to its publics while creating and maintaining positive relationships. Public Relations Captains are responsible for organizing creative campaigns to spread the word about Dance Marathon, strengthening the DM alumni program, help create promotional videos, hosting members of the media at Dance Marathon and managing social media outlets.
-                <h4></h4>
-                <h4></h4>
-                <h4></h4>
+									<h4>Assistant Director of Social Media </h4>
+									Mackenzie Welsh
+									<h4>Assistant Director of Press Releases </h4>
+									Casey McLean
+									<h4>Assistant Director of Media Outreach </h4>
+									Jackie Smith
                 <table style="width:100%">
 
                 </table>
@@ -271,9 +320,12 @@
               <div class="panel-body">
                 <h4>Description</h4>
                   Responsible for the recruitment of Dancers, Captains and team members to participate in Dance Marathon. Recruitment Captains contact various campus organizations to explain the miracles Dance Marathon creates and how they can give back to their local Children's Miracle Network Hospital. Additionally, Recruitment Captains oversee the High School Dance Marathon program; a program that is spread throughout the state of Florida to raise awareness and help high school students give back. Prospective Recruitment Captains should be strong public speakers with outgoing personalities who love to spread the word of Dance Marathon to new publics.
-                <h4></h4>
-                <h4></h4>
-                <h4></h4>
+									<h4>Assistant Director of Canning </h4>
+									Erin Reilly
+									<h4>Assistant Director of Campus Representation</h4>
+									Madison Grasty
+									<h4>Assistant Director of Presentations</h4>
+									Stephanie Ira
                 <table style="width:100%">
 
                 </table>
@@ -290,7 +342,11 @@
               <div class="panel-body">
                 <h4>Description</h4>
                 The Sponsorship Team is responsible for soliciting the national and local community for sponsorships ranging from title sponsorships, to in-kind donations for community events and Dance Marathon, to items for the Silent Auction. They are also responsible for fostering stewardship with sponsors through increased communication and the creation of "Sponsor Portfolios," which will show sponsors all benefits received throughout the year.
-                <h4></h4>
+								<h4>Assistant Director of Internal Donations </h4>
+								Katelyn Etheridge
+								<h4>Assistant Director of External Sponsorships </h4>
+								Stephanie Kinchla
+
                 <table style="width:100%">
 
                 </table>
