@@ -343,7 +343,7 @@
                 <h4>Description</h4>
                 The Sponsorship Team is responsible for soliciting the national and local community for sponsorships ranging from title sponsorships, to in-kind donations for community events and Dance Marathon, to items for the Silent Auction. They are also responsible for fostering stewardship with sponsors through increased communication and the creation of "Sponsor Portfolios," which will show sponsors all benefits received throughout the year.
 								<h4>Assistant Director of Internal Donations </h4>
-								Katelyn Etheridge
+								Katlyn Etheridge
 								<h4>Assistant Director of External Sponsorships </h4>
 								Stephanie Kinchla
 
