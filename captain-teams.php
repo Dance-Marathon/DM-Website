@@ -126,13 +126,13 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q6">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="false" aria-controls="a6">Fundrasing</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="false" aria-controls="a6">Fundraising</a>
               </h4>
             </div>
             <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
               <div class="panel-body">
                 <h4>Description</h4>
-                  As a member of the Fundraising Team, you will work in close association with the Finance Overall Director on a variety of responsibilities, including financial oversight, funds processing, collections, and fundraising strategies. The finance team plays an integral role in the success of Dance Marathon at UF by ensuring that our total reveal is accurate up until the very last minute when the numbers are raised. The Finance team is also responsible for running dancer registration along with the Dancer Relations team. Alongside this, every Finance Captain will be responsible for all financial oversight for a handful of organizations. This oversight will require close relationships with both the delegates of those organizations and the corresponding Dancer Relations Captain.
+                  As a member of the Fundraising Team, you will work in close association with the Fundraising Overall Director on a variety of responsibilities, including financial oversight, funds processing, collections, and fundraising strategies. The finance team plays an integral role in the success of Dance Marathon at UF by ensuring that our total reveal is accurate up until the very last minute when the numbers are raised. The Finance team is also responsible for running dancer registration along with the Dancer Relations team. Alongside this, every Finance Captain will be responsible for all financial oversight for a handful of organizations. This oversight will require close relationships with both the delegates of those organizations and the corresponding Dancer Relations Captain.
 									<h4>Assistant Director of Offline Transactions</h4>
 									Hunter Hedman
 									<h4>Assistant Director of Mini-Marathon Tracking</h4>
@@ -153,7 +153,7 @@
               <div class="panel-body">
                 <h4>Description</h4>
 								The Hospitality Team is responsible for planning, soliciting and serving a continuous and consistent flow of healthy snacks and meals to the dancers for the duration of the 26.2-hour event. They work year-round with local restaurants to coordinate monthly hospitality fundraising nights for Dance Marathon. The Hospitality Team is also responsible for any food-related needs for pre-event activities at community events.
-									<h4>Assistant Director of Stewarship</h4>
+									<h4>Assistant Director of Stewardship</h4>
 									Dara Herman
 									<h4>Assistant Director of Hospitality Nights</h4>
 									Megan Spurrell
