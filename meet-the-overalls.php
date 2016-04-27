@@ -197,7 +197,7 @@
       'free_time'             =>  'I like to watch vine, play bball with my friends, and watch Netflix! ',
       'fun_fact'              =>  'I eat lays potato chips with every meal. ',
       'favorite_memory'       =>  '~~ I have so many CRAZY great memories, but my favorite would have to be when Adrienne&#39;s mom Erin Williams said that I was Adrienne&#39;s best friend during the closing ceremonies. Over the past two years I have had the pleasure of hanging out with the Williams over High School Dance Marathons, and other DM events. We always play games, sing songs, and dance! I will never forget the moment Mrs. Willaims said that. It completely changed my life! ~~',
-      'motivation'            =>  'It&#39;s crazy to see the passion that everyone involved with Dance Marathon has! It is truly inspiring and motivating. Every time we perform the linedance I get chills! It&#39;s amazing to see everyone come together for such a great cause. Every individual involved with DM motivates me to continue to be the change. Dancing, hanging out with families, and random singing also plays a major role in motivating me. Bless up!,'
+      'motivation'            =>  'It&#39;s crazy to see the passion that everyone involved with Dance Marathon has! It is truly inspiring and motivating. Every time we perform the linedance I get chills! It&#39;s amazing to see everyone come together for such a great cause. Every individual involved with DM motivates me to continue to be the change. Dancing, hanging out with families, and random singing also plays a major role in motivating me. Bless up!',
       'image'                 =>  'Joel'
     ),
     array(
