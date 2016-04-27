@@ -226,7 +226,7 @@
       'fun_fact'              =>  'If I could eat pizza everyday, I would',
       'favorite_memory'       =>  'During my first year as a Recruitment Captain, I stood at the front entrance of the Stephen C. O&#39;Connell Center and watched as a group of students played Duck, Duck, Goose with Ayden. He ran around laughing and smiling despite the tremendous obstacles he has faced. In that moment, I saw what pure joy looked like and will forever remember that image. ',
       'motivation'            =>  'Dance Marathon at UF is one of the most inspirational organizations I have ever been a part of. We as students have the humbling and unique privilege to serve these children and their families and give them hope for a better tomorrow. They motivate me to be bigger and be better. Being a part of Dance Marathon goes beyond my four years at the University of Florida. It&#39;s one generation fighting for the next until we no longer have to fight anymore, and there is nothing more motivational than the idea of winning the fight against childhood illness. ',
-      'image'                 =>  'Zandy'
+      'image'                 =>  'zandy'
     ),
     array(
       'name'                  =>  'Bobby Finigan',
