@@ -25,7 +25,7 @@
 				<li <?php echo ($parent == 'get-involved') ? "class='open'" : ""; ?>>
 					<a href="/get-involved" class="dropdown-toggle"  >Get Involved</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank">Register to Fundraise</a></li>
+						<li><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank">Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/organizations">Organizations</a></li>
@@ -71,7 +71,7 @@
 
 				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">DM Store</a></li>
 
-				<li class="open"><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786" target="_blank" class="active">Donate</a></li>
+				<li class="open"><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank" class="active">Donate</a></li>
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
 				  <li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube"></i></a></li>
