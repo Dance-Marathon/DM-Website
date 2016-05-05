@@ -103,7 +103,7 @@
         array(
             'name'  => 'Izabella N.',
             'description' => 'Izabella and her twin sister, Jesubelle, were born 3 months premature at Memorial West Hospital in South Florida. At 3 weeks old Izabella had a pulmonary hemorrhage (she bled out from her lungs) which nearly took her life. She was transferred to Joe Dimaggio where she was stabilized and at almost five months old she was diagnosed with an extremely rare disease, so rare that it doesn’t have a name yet. Basically her lungs didn’t work and her only cure or chance at life would be a lung transplant. Two years ago in May we were transferred to Shands Hospital to receive that lung transplant. She was placed on the waiting list and we waited nine months for the call. Doctors never thought she would make it. Her transplant was performed on January 27, 2013 and she was discharged for the first time in her life on March 20th. She has been in and out of the hospital many times since, but continues to amaze doctors with her will to fight for life. CMN has been a great part of our lives in and out of the hospital. Many of the machines used on a daily basis to save Izabella’s life while she was on life support were donated by CMN or by their DM event held each year. DM and CMN have given our kids the opportunity to be "normal"kids outside of the hospital. From the Sweet Dreams event to the FTKarnival Kick off event to Dance Marathon and many other events held by DM and CMN, my kids have enjoyed being surrounded by the young individuals dedicating their lives to helping children like mine.',
-            'image' => 'Izabella',
+            'image' => 'Izabella N',
             ),array(
             'name'  => 'Jack M.',
             'description' => 'Jack was born on June 2, 2001 in Tallahassee Florida.  He is one of 5 children, the only boy, with one older sister and 3 younger.  In May of 2012 when he was an 11 year old 6th grader, he was diagnosed with AML (Acute Myeloid Leukemia).    When his bloodwork came back not as mono but Leukemia our pediatrician told us to take him that very day to see Dr. Slayton at Shands Children’s Hospital.
@@ -194,7 +194,7 @@
             array(
             'name' => 'Mason H.',
             'description' => 'Mason was born at Shands with a congenital heart defect, Transposition of Great Arteries. He is a CMN Ambassador and loves participating in Dance Marathons. He is a true Gator fan and we look forward to going to the one at UF. Thanks for all that you do for such a great cause!',
-            'image' => 'Mason',
+            'image' => 'Mason H',
             ),
 						array(
 							'name' => 'Mateo H',
@@ -241,7 +241,7 @@
             array(
             'name' => 'Randy G.',
             'description' => 'When Randy was born, he had no clotting factors and had to have an open liver biopsy at 2 weeks of age, he was diagnosed with idiopathic neonatal giant cell hepatitis. They gave him 5 days to live and put him as a status 1 on the transplant list for a new liver. 5 days later he was dropped to a status 2 and given 7 more days. Mid-week he developed 2 infections and was dropped from the registry. At this point hospice became involved and the doctors worked towards sending him home to pass there because we didn’t want it to happen at the hospital. The day before he was to come home we got the call that a liver had become available for another patient at the hospital and that it was too big. So if they were able to successfully separate it then he could get the other half. At 28 days of age, and after 8 hours of surgery, randy received a liver transplant. That was 16 years ago. Now he is a thriving high school student at Bucholz High School and planning to play basketball next year. We weren’t even promised 5 years yet we have celebrated over 16.',
-            'image' => 'Randy G',
+            'image' => 'Randy',
             ),
             array(
             'name' => 'Sage P.',
@@ -251,7 +251,7 @@
             array(
             'name' => 'Sam N.',
             'description' => 'Samuel’s parents knew he was a fighter long before his birth. After a very complex pregnancy, Samuel was delivered at full term and weighed 8lbs, the picture of normal physical development... except he was not breathing. Life-saving efforts in the NICU stabilized him but with the limited resources of his small local hospital, his parents had many questions on the mounting unexplained health issues. He experienced an acute life threatening event and was resuscitated only to be sent home on a monitor the next day only leading to a terrifying week.  Samueal was ambulanced to the nearest children’s hospital for severe bradycardic episodes and respiratory distress.The months to follow were spent in and out of several hospital ICUs with extensive testing and numerous surgeries.  Teams of physicians tried to discern the source of his multi-systemic health concerns: encephalopathy, global developmental delay, tracheomalacia, seizures, Gastro- Intestinal dysmotility and paresis, hypotonia, oromotor dysfunction, apnea, bradycardia, respiratory insufficiency, and failing to thrive on a GJ feeding tube.. While being told to expect that he might never walk, talk or live a normal life, his parents continued to fight for answers. One difficult surgical muscle biopsy results revealed what was threatening their son’s life. Samuel is fighting a mitochondrial disease. The mitochondria are the part of every cell responsible for creating 90% of the energy our organs need to function. When his body is compromised by stress or illness, cell injury and cell death follow. This condition is considered degenerative and  progressive and he has fought through very difficult metabolic declines following typical stressors, such as a warm ride in the stroller or even a simple ear infection. Samuel has this disease, but it does not have him. He has shown incredible strength and determination, defying all the odds and reaching milestones with much effort, therapy and support. He continues to amaze and inspire all those around him. If it were not for the care and support, treatments and interventions provided by UF Health Shands, Samuel might not be here today, showing us all how to manage challenging circumstances and appreciate life. Thank you for making a difference in the life of a child through the Children’s Miracle Network Dance Marathon,he results of your heartfelt efforts are made tangible by the smiles that illuminate our children’s faces despite what they endure. Just like the dancing spirit on that gymnasium floor, your spirit fills their hearts with joy and appreciation. Thank you for sharing this dance with them.',
-            'image' => 'Sam N',
+            'image' => 'Sam',
             ),
             array(
             'name' => 'Tyler P.',
