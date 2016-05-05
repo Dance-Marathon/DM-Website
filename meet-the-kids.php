@@ -19,14 +19,20 @@
         array(
             'name'  => 'Anna Rose',
             'description' => 'Anna Rose got sick on Jun. 2, 2013. Her family took her to Arnold Palmer Hospital, and she was transported to UF Health Shands Children’s Hospital a couple days later. Anna was in heart failure.She was tested for a possible heart transplant in Feb. 2013 and received her new heart on Mar. 2, 2014. She left the hospital on Mar. 28, 2014.  Anna calls her new heart Prince Toby even though she doesn’t  know anything about her donor.',
-            'image' => 'Anna Rose',
+            'image' => 'AnnaRose',
             ),
+						array(
+		            'name'  => 'Arden T',
+								'description' => 'When I was only three months old, doctors told my mommy and daddy that I needed a heart transplant.  I was sent to UF Health Shands Children’s Hospital where I was put on a ventilator to help keep me alive until my new heart was ready. That machine was purchased with funds from Children’s Miracle Network Hospitals.
+																	After I received my transplant, my doctors learned that I have a rare and progressive disease – Leigh’s Syndrome – which is a mitochondrial disease. Because my condition is complex, I visit UF Health Shands Children’s Hospital and Arnold Palmer Hospital for Children quite often and have seen the Miracle Balloon sticker on the medical equipment CMN Hospitals has helped purchase. When I am at the hospital for long periods of time, CMN Hospitals helps make my hospital stays a little brighter by supplying toys to the Cardiovascular Intensive Care Unit.',
+		            'image' => 'Arden',
+		            ),
         array(
             'name'  => 'Ava M.',
-            'description' => 'When Ava was eight years old, her mother took her to the doctor because of swollen lymph nodes on her neck. Ava was initially misdiagnosed before she was diagnosed with a rare form of acute leukemia of ambiguous lineage. Her diagnosis is unique because she didn’t fall into a specific lymphoma/leukemia category due to misdiagnosis and pretreatment that skewed her biopsy results. Her original diagnosis was T-Cell Non-Hodgkins Lymphoma, but was later changed to Biphenotypic Leukemia.  
-Ava’s treatment wasn’t easy, but she fought her cancer with grace, determination, and a sense of humor. She endured 28 months of grueling chemotherapy and 10 days of cranial radiation therapy. Through it all, she lit up the hospital room with her smile and laugh. 
-Ava is now a sweet 13 year old who loves middle school. She loves to draw and is working on mastering new artistic techniques. Despite her radiation and harmful treatments at such a young age, Ava thrives in school. She is an excellent student and has surmounted all her academic challenges.  When Ava isn’t busy working hard on her school work, she loves to create art and listen to music. She loves to be with her best friend, her siblings, and her parents.
-Ava inspires with her big heart and courageous spirit. She is thriving against the odds.',
+            'description' => 'When Ava was eight years old, her mother took her to the doctor because of swollen lymph nodes on her neck. Ava was initially misdiagnosed before she was diagnosed with a rare form of acute leukemia of ambiguous lineage. Her diagnosis is unique because she didn’t fall into a specific lymphoma/leukemia category due to misdiagnosis and pretreatment that skewed her biopsy results. Her original diagnosis was T-Cell Non-Hodgkins Lymphoma, but was later changed to Biphenotypic Leukemia.
+															Ava’s treatment wasn’t easy, but she fought her cancer with grace, determination, and a sense of humor. She endured 28 months of grueling chemotherapy and 10 days of cranial radiation therapy. Through it all, she lit up the hospital room with her smile and laugh.
+															Ava is now a sweet 13 year old who loves middle school. She loves to draw and is working on mastering new artistic techniques. Despite her radiation and harmful treatments at such a young age, Ava thrives in school. She is an excellent student and has surmounted all her academic challenges.  When Ava isn’t busy working hard on her school work, she loves to create art and listen to music. She loves to be with her best friend, her siblings, and her parents.
+															Ava inspires with her big heart and courageous spirit. She is thriving against the odds.',
             'image' => 'Ava',
             ),
         array(
@@ -42,10 +48,10 @@ Ava inspires with her big heart and courageous spirit. She is thriving against t
         array(
             'name'  => 'Camden A.',
             'description' => ' Camden was born in June 2011 with a severe form of congenital heart disease called Tetralogy of Fallot with Pulmonary Atresia. He also has  DiGeorge Syndrome, a chromosomal micro-deletion of his 22nd chromosome. When Camden was a year and a half old, his parents decided to move back to Washington where rest of their family lived.  One day on the road trip, he  developed a high fever, so his parents took him to the local emergency room. When the Children’s Hospital of Orange County transport team arrived to take better care of Camden, they realized how seriously ill he was. He went into cardiac arrest, and it took five minutes to revive him. . Upon arriving to the CHOC, Camden was rushed to the Cardiac ICU. The cardiothoracic surgeon told Camden’s parents that his heart was in an advanced stage of heart failure. She recommended placing Camden on ECMO (Extra Corporeal Membrane Oxygenation), which is one of the most advanced forms of life support available today. This was the first time we were ever seriously told that we should be prepared for Camden to pass. About an hour after he was placed on ECMO, his heart experienced a potentially fatal arrhythmia. That’s when doctors decided Camden needed a heart and lung transplant.  After being on ECMO for five days, Camden developed an abdominal bleed and needed emergency surgery. The surgery was risky, but he pushed through. Camden’s parents then decided to move back to Florida, where the doctors knew him well and could make a better case to present to the trasplant committee. The next several months at UF Health Shands Children’s Hospital  included extensive rehab therapy. After five long months at the hospital including 52 days of intubation, Camden was finally able to go home.  He  spent the rest of 2013 in and out of the hospital, and in January 2014 he became very sick. Camden was falling fast, and he had become dependant on the IV drug milrinone.  In  March2014 his parents brought him home with hospice care in place.  After four months, Camden began to wean off of his milrinone drip, and on Oct. 29, 2014, after 285 days on milrinone, his cardiologist turned off his infusion pump.  Camden has endured two major open heart surgeries, two abdominal surgeries, three general surgeries and five heart catheterizations. He is now three and a half years old.',
-            'image' => 'Camden',
+            'image' => 'Camden A',
             ),
         array(
-            'name'  => 'Catherine M.',
+            'name'  => 'Catherine M.' ,
             'description' => 'Catherine was diagnosed with Juvenile Idiopathic Arthritis when she was six years old. When she first got sick, her parents thought it was the flu, but she kept getting worse. . She  was in the hospital for weeks because the doctors had trouble diagnosing her. . During the first few years, she was sore, tired and taking a lot of different medications.  Over  the past few years, her arthritis has been under control, and she has been in remission, , but there have been periods of time when her  arthritis has flared and caused other complications. In third and ninth grade, Catherine experienced very painful buildups of fluid in her chest.  She has since gotten her arthritis back under control and is living a normal teenage life.',
             'image' => 'Catherine M',
             ),
@@ -59,71 +65,39 @@ Ava inspires with her big heart and courageous spirit. She is thriving against t
             'description' => 'Dylan was your normal, perfectly healthy, six year old boy. He enjoyed riding his bike, going to the pool, swimming, playing with friends, reading and video games. He was extremely bright and loved spending time with his pets. Dylan had been getting progressively sicker and sicker, losing weight, bone pain and an unrelenting fever. After numerous misdiagnoses, a simple blood test revealed that his marrow had stopped producing normal blood cells and has been taken over by leukemia/cancer. He was admitted to the PICU that night began chemotherapy the next morning. Dylan had Acute Lymphoblastic Leukemia. He received 3 ½ years of spinal, intravenous, intramuscular and oral chemotherapy. He continues to receive follow up care due to lasting effects of the chemo on his body. We all have a whole new perspective on what is really important. We have met some of the most incredible, inspiring people along this journey. It has increased our love and compassion for others infinitely. Some of the bravest people I know are children who smile and laugh through the most horrific of circumstances. My son is one of those and I am thankful for the way my eyes have been opened to the beauty and bravery of others stories. I always say how lucky we are because we have this amazing children’s hospital right in our backyard. People look at me like I am crazy, but it is truly such a blessing. We were able to close to home and family throughout the 3 ½ years of treatment. Having another young child at home, this was so important to me. We didn’t have to sacrifice anything. I had no doubt about Dylan’s team and the incredible level of care and resources available to them at Shands. I know he was cared for by the best! Shands is our home away from home. It is a happy place for us despite the horrible realities of childhood cancer because there is so much positivity, love, compassion and care from everyone there, from his main oncologist, down to the gentleman who uses to bring his breakfast and lunch from the cafeteria.',
             'image' => 'Dylan',
             ),
+						array(
+		            'name'  => 'Elyse H.',
+								'Description' => 'She had ALL leukemia when she was 2 and finished chemo when she was 5.  She was misdiagnosed by the pediatrician twice because she didn&#39;t have typical symptoms.  At first, it was a virus.  Then, bronchitis!  I called to get her in after she started antibiotics and the nurse called me back and said not to worry.  It takes 72 hours for the antibiotics to work.  Elyse had a hematocrit on 1.8!!!!  A normal reading is 10!  If they had just pricked her finger 10 days earlier!  She was almost completely out of blood!  Needless to say, we got to ride in an ambulance and were admitted to Shands.  Elyse was so weak and so low on blood, the doctors couldn&#39;t perform a bone marrow biopsy until she had days and days of blood and platelets.
+																	Anyway, Elyse stayed in the hospital for 2 weeks, released for 2 days, readmitted for 2 weeks, and so on.  We&#39;d have a break here and there and then be back in Shands.  While there, we received a duck with a port.  This stuffed animal helped Elyse see what was going to be put in her body and helped her understand how important it was.  I&#39;m not going to lie. The first six months was very tough.  The medicines were very harsh and Elyse was in the hospital numerous times.
+																	When reviewing the medicines and their side effects, I thought steroids wouldn&#39;t be the problem.  That was the one medicine I had heard of.  I was wrong!  Elyse was starving and moody for a whole month.  She doubled her body weight and became diabetic.  Picture a three year old who just wants to eat 24/7 and you have to refuse to feed her for 2 hours in order to check her blood sugar.  This poor child was begging for someone to poke her finger and bring on the shot just so she could eat.  The surgery days were torture.  No food after midnight.  Thankfully, the amount of steroids were reduced during the 26 month ordeal and the diabetes that were induced by the steroids went away.
+																	When Elyse finally got to go to the outpatient clinic at Shands, she&#39;d receive all kinds of attention from the nurses, volunteers and especially Jenna Priest, the Child Life Specialist.  She would distract Elyse while her port was being accessed and would really help in keeping me sane.  She was always looking out for us and always wanted Elyse to have fun while stuck in clinic all day.
+																	Elyse developed a chronic cough that just wouldn&#39;t go away.  The doctors did X rays, a bronchioscopy, blood work and a CT scan, but could not figure out why she hacked all the time.  After 9 months, my favorite PA who had been on the admitted side of Shands asked what her immunoglobulin level was.  Of course, I had never heard that word before and just said huh.  Another blood test was done and Elyse was introduced to an 8 hour drip of IVIG that finally got rid of the cough.  Elyse needed it once a month to keep the cough away and we were all finally getting sleep again.  Thank you Kenny!  Dr. Slayton from HEMOC combined forced with our new pulmonary doctor to start a study to figure out why certain pediatric cancer patients develop a chronic cough and why IVIG is the only solution.
+																	Elyse completed her chemotherapy in October of 2012 and she now goes to Shands for bloodwork and check ups every 3 months.  She is a happy and healthy little girl.  Elyse does great in school and even tells her story sometimes to her class. Through it all Elyse had a smile on her face (minus the steroid days) and did great with taking her medicines.  She is a real hero!',
+		            'image' => 'Elyse',
+		            ),
         array(
             'name'  => 'Elizabeth C.',
             'description' => 'Elizabeth or "Elie" for short, is 8 years old and was found to have untyped Glycogen Storage Disease (GSD). Two years ago, after vomiting over 30 times and not tolerating any fluids, Elie was brought to the Shands Pediatric ER where her blood sugar was 42 and she ultimately had a seizure. Because of this episode we were referred to Dr. Weinstein, a world-renowned doctor in this field. We learned that patients with this disorder are unable to fully break down glycogen to glucose, and therefore are dependent on a continuous supply of glucose. Without this supply of glucose hypoglycemia, lactic acidosis and seizures can occur.
-
-Since learning more about GSD Elie is able to check her own blood sugar and ketones by pricking her finger when she is not feeling well. She has to have a snack at regular times and take a protein supplement 3 times a day. Many GSD patients have to also take corn starch with their protein but Elie is not required to do so. Because of the GSD it can take longer for her to recover from a typical fever or stomach bug. Even though sometimes she may not feel well she still loves tumbling and gymnastics. We can’t get her to stop jumping off the couches! She also loves to play piano and play outside with friends. Elizabeth is a lover of animals that are furry and not so furry. If you ask her what her favorite subject is in school she will say it is art.
-
-We love Dance Marathon because it gives us the opportunity to meet families that have shared a common health struggle. We hope it gives Elie a sense of not being alone in her disease process and we also hope to share more about GSD with others. ',
+															Since learning more about GSD Elie is able to check her own blood sugar and ketones by pricking her finger when she is not feeling well. She has to have a snack at regular times and take a protein supplement 3 times a day. Many GSD patients have to also take corn starch with their protein but Elie is not required to do so. Because of the GSD it can take longer for her to recover from a typical fever or stomach bug. Even though sometimes she may not feel well she still loves tumbling and gymnastics. We can’t get her to stop jumping off the couches! She also loves to play piano and play outside with friends. Elizabeth is a lover of animals that are furry and not so furry. If you ask her what her favorite subject is in school she will say it is art.
+															We love Dance Marathon because it gives us the opportunity to meet families that have shared a common health struggle. We hope it gives Elie a sense of not being alone in her disease process and we also hope to share more about GSD with others. ',
             'image' => 'Elizabeth',
             ),
         array(
             'name'  => 'Geoffrey P.',
-            'description' => 'We’ve been attending Dance Marathon for 7 years now! It’s been a
-
-wonderful event yearly. And we’ve had some amazing opportunities
-
-through DM.
-
-Geoff was diagnosed with leukemia when he was 4 months old. He
-
-went through 1 year of chemotherapy at Shands and has been in
-
-remission since then.
-
-When he was 10 months he was diagnosed with a hearing loss not
-
-related to his cancer or chemotherapy. He was fitted with hearing
-
-aids at 12 months old. His hearing progressed to profound hearing
-
-loss and when he was 5 years old he got a cochlear implant at Shands.
-
-Geoff is a great kid and loves to read. He’s doing well in school and
-
-just finished taking his 3rd grade FCAT. He loves his baby brother,
-
-Legos, running, basketball, and the Florida Gators!',
+            'description' => 'We’ve been attending Dance Marathon for 7 years now! It’s been a wonderful event yearly. And we’ve had some amazing opportunities through DM.
+															Geoff was diagnosed with leukemia when he was 4 months old. He went through 1 year of chemotherapy at Shands and has been in remission since then. When he was 10 months he was diagnosed with a hearing loss not
+															related to his cancer or chemotherapy. He was fitted with hearing aids at 12 months old. His hearing progressed to profound hearing
+															loss and when he was 5 years old he got a cochlear implant at Shands. Geoff is a great kid and loves to read. He’s doing well in school and just finished taking his 3rd grade FCAT. He loves his baby brother, Legos, running, basketball, and the Florida Gators!',
             'image' => 'Geoffery',
             ),
         array(
             'name'  => 'Hyla M.',
-            'description' => 'Some of you may have heard my story before, but for those of you who haven’t my
-
-name is Hyla Marlin, I am 10 years old and in 4th grade. So about 6 years ago, I was diagnosed Wilms
-
-Tumor – it’s a type of kidney cancer. I was in New York at a family camp, that’s when my mom and dad
-
-realized one side of my belly was puffed up, and they took me to a doctor. The doctor said that I had kidney
-
-cancer in my left kidney so the next day they flew me to Shand’s Hospital. A couple of days later, I had a
-
-biopsy surgery and then began 9 months of treatment. They had to remove my left kidney and I got chemo,
-
-radiation. Then I went back to my home in Belize, Central America. But one year later, the cancer came
-
-back in my lungs. I had 9 more months of treatment - I got chemo, radiation and stem cell transplant. It
-
-wasn’t very fun. But I loved my doctors, nurses and volunteers. And so many people provided stuff to make
-
-it nicer, like child-size equipment for taking my blood pressure, movies and games, because it is really
-
-boring being in the hospital all of the time. I love Dance Marathon – they have been so supportive of
-
-children like me. And by the way, this past June, I was 3 years cancer free. Thank you for supporting Dance
-
-Marathon and all of the other childhood cancer organizations. Cancer sucks.',
+            'description' => 'Some of you may have heard my story before, but for those of you who haven’t my name is Hyla Marlin, I am 10 years old and in 4th grade. So about 6 years ago, I was diagnosed Wilms
+															Tumor – it’s a type of kidney cancer. I was in New York at a family camp, that’s when my mom and dad realized one side of my belly was puffed up, and they took me to a doctor. The doctor said that I had kidney
+															cancer in my left kidney so the next day they flew me to Shand’s Hospital. A couple of days later, I had a biopsy surgery and then began 9 months of treatment. They had to remove my left kidney and I got chemo, radiation. Then I went back to my home in Belize, Central America. But one year later, the cancer came
+															back in my lungs. I had 9 more months of treatment - I got chemo, radiation and stem cell transplant. It wasn’t very fun. But I loved my doctors, nurses and volunteers. And so many people provided stuff to make
+															it nicer, like child-size equipment for taking my blood pressure, movies and games, because it is really boring being in the hospital all of the time. I love Dance Marathon – they have been so supportive of
+															children like me. And by the way, this past June, I was 3 years cancer free. Thank you for supporting Dance Marathon and all of the other childhood cancer organizations. Cancer sucks.',
             'image' => 'Hyla',
             ),
         array(
@@ -133,55 +107,56 @@ Marathon and all of the other childhood cancer organizations. Cancer sucks.',
             ),array(
             'name'  => 'Jack M.',
             'description' => 'Jack was born on June 2, 2001 in Tallahassee Florida.  He is one of 5 children, the only boy, with one older sister and 3 younger.  In May of 2012 when he was an 11 year old 6th grader, he was diagnosed with AML (Acute Myeloid Leukemia).    When his bloodwork came back not as mono but Leukemia our pediatrician told us to take him that very day to see Dr. Slayton at Shands Children’s Hospital.
-
-Our first few days were a blur of tests and meetings as they worked to define exactly what type and subtype of leukemia he had.  We learned that instead of the more common ALL he had AML.  We also learned that it was in his spinal fluid as well.  The treatment for Jack’s AML was 4 consecutive rounds of chemotherapy.  They told us that he would likely be at Shands for 6 months and that it would be unlikely that he could go home at all during that time.
-
-And so we became a family divided, with one parent at home with his sisters and one at the hospital from May until the end of October.   Jack celebrated his 12th birthday in the awesome game room in 42 Peds with visiting friends, pizza, cookie cake and games.  As the treatment continued visits like that would become less possible as he suffered the side effects and other illnesses that come with so much chemo and such a fragile immune system.  He was able to keep in touch with some of his friends through xbox live and a several sets of headsets!
-
-Through it all Jack was amazing.  He defied the odds and we were able to bring him home for a couple of days in between some of the rounds!  How grateful we were to all be together and know that he was asleep in his own bed!  He always told the doctors, nurses and his parents exactly what was on his mind.  He didn’t complain (much), not nearly as much as he should have!  His distinctive sense of humor and practical jokes were a joy and we are so proud of him for holding on to that during his treatment!  (Ask him about his trip to the PICU and the monitors sometime, or the remote control spider!).
-
-Jack is our HERO.
-
-Our prayers were answered when we brought him home and we thank God every day for his remission!  We also thank God for the amazing doctors, nurses, volunteers, social workers, and everyone else who devotes so much of their lives to making it possible for kids like Jack to not only SURVIVE, but to have some comfort during that time!  The funds raised by CMN make such a huge difference in the level of care available for these kids!  What a difference it makes to know you have available the best and brightest and most dedicated doctors and nurses, the latest drugs and therapies, all of the support staff imaginable to help the kids and their families get through times like these!  And to the Dance Marathon kids, you ROCK!  It is not just about fundraising, it’s also how you make all of our kids feel special and loved, and we thank you for all that you do FTK!
-',
+															Our first few days were a blur of tests and meetings as they worked to define exactly what type and subtype of leukemia he had.  We learned that instead of the more common ALL he had AML.  We also learned that it was in his spinal fluid as well.  The treatment for Jack’s AML was 4 consecutive rounds of chemotherapy.  They told us that he would likely be at Shands for 6 months and that it would be unlikely that he could go home at all during that time.
+															And so we became a family divided, with one parent at home with his sisters and one at the hospital from May until the end of October.   Jack celebrated his 12th birthday in the awesome game room in 42 Peds with visiting friends, pizza, cookie cake and games.  As the treatment continued visits like that would become less possible as he suffered the side effects and other illnesses that come with so much chemo and such a fragile immune system.  He was able to keep in touch with some of his friends through xbox live and a several sets of headsets!
+															Through it all Jack was amazing.  He defied the odds and we were able to bring him home for a couple of days in between some of the rounds!  How grateful we were to all be together and know that he was asleep in his own bed!  He always told the doctors, nurses and his parents exactly what was on his mind.  He didn’t complain (much), not nearly as much as he should have!  His distinctive sense of humor and practical jokes were a joy and we are so proud of him for holding on to that during his treatment!  (Ask him about his trip to the PICU and the monitors sometime, or the remote control spider!). jack is our HERO.
+															Our prayers were answered when we brought him home and we thank God every day for his remission!  We also thank God for the amazing doctors, nurses, volunteers, social workers, and everyone else who devotes so much of their lives to making it possible for kids like Jack to not only SURVIVE, but to have some comfort during that time!  The funds raised by CMN make such a huge difference in the level of care available for these kids!  What a difference it makes to know you have available the best and brightest and most dedicated doctors and nurses, the latest drugs and therapies, all of the support staff imaginable to help the kids and their families get through times like these!  And to the Dance Marathon kids, you ROCK!  It is not just about fundraising, it’s also how you make all of our kids feel special and loved, and we thank you for all that you do FTK!',
             'image' => 'Jack M',
             ),
         array(
             'name' => 'Jake C.',
             'description' => 'My name is Jake and I am 13 years old and
-in 7th grade. My leg hurt for a few months and Mom took me to the doctor. I found out this week that I
-have Ewings Sarcoma in my fibula. The good news is that they can treat this and they can just take out
-that bone because I don’t need it. I am going to Shand’s in Gainseville, Florida. It is too bad I have to go to
-Gator country for treatment but the doctors are great there. I am sad about missing my track season,
-soccer season, baseball season and unicycle club. I also can’t beleive I am saying this but I am really
-going to miss school and my teachers. Thank you for following my journey of recovery
-',
+															in 7th grade. My leg hurt for a few months and Mom took me to the doctor. I found out this week that I
+															have Ewings Sarcoma in my fibula. The good news is that they can treat this and they can just take out
+															that bone because I don’t need it. I am going to Shand’s in Gainseville, Florida. It is too bad I have to go to
+															Gator country for treatment but the doctors are great there. I am sad about missing my track season,
+															soccer season, baseball season and unicycle club. I also can’t beleive I am saying this but I am really
+															going to miss school and my teachers. Thank you for following my journey of recovery',
             'image' => 'Jake C',
             ),
+				array(
+					  'name' => 'Jude and Oliver S.',
+						'description' => 'They were born at 26 weeks gestation (over three months early) and spent the first three months of their lives at the Shands NICU.  Both boys spent time in "giraffe" beds to control their body temperatures, on IV feeds then feeding tubes until they were big enough to begin bottle/nursing, were treated for infections, received blood for anemia.  Oliver additionally underwent a PDA ligation.  That&#39;s a lot of medical treatment, but we were actually really fortunate to not endure some of the more dire situations that micro preemies may experience.  After leaving Shands, we&#39;ve been lucky enough to not need readmission for anything.  At 4.5 years old, the only issues we face are with asthma and some allergies.  Jude and Oliver are both really energetic, curious boys.  They love playing pretend, building with their Legos, take gymnastics class, and are finishing up their VPK year at St. Michael&#39;s Day School, to begin kindergarten this Fall.',
+						'image' => 'Jude and Oliver',
+				),
         array(
             'name'  => 'Kaedyn B.',
             'description' => 'Kaedyn B. is the five year old son of Nic & Shelsie who was diagnosed with A.L. Leukemia on Fridaythe
-13, 2010. Kaedyn was born on September 22, 2009. He was over 8lbs in the 98th percentile in growth
-stats and looked to be the picture of newborn health. Kaedyn did many things early. Walking at nine
-months and scrambling to run in the last few weeks as he tried to keep up with his brother Kaleb (his
-hero) were things he tackled with spunk and determination.
+															13, 2010. Kaedyn was born on September 22, 2009. He was over 8lbs in the 98th percentile in growth
+															stats and looked to be the picture of newborn health. Kaedyn did many things early. Walking at nine
+															months and scrambling to run in the last few weeks as he tried to keep up with his brother Kaleb (his
+															hero) were things he tackled with spunk and determination.
 
-Two and half weeks before Kaedyn was checked in at UF Health, Shelsie took him to see his
-pediatrician because his cheeks were a little swollen. After a quick visit, Kaedyn was diagnosed with
-the mumps. A week later, his symptoms continued to worsen to include continued swelling in the
-cheeks and obvious pain in his stomach so Shelsie and Nic brought him to the E.R. They were then
-told that he was just experiencing the effects of mumps and were directed to take him home being
-sure to keep him in isolation. On Thursday night in the wee hours, his pain grew excruciating so he
-was again rushed to the E.R. where finally, doctors finally diagnosed him with leukemia and he was
-rushed to UF Health Shands Children’s Hospital.
+															Two and half weeks before Kaedyn was checked in at UF Health, Shelsie took him to see his
+															pediatrician because his cheeks were a little swollen. After a quick visit, Kaedyn was diagnosed with
+															the mumps. A week later, his symptoms continued to worsen to include continued swelling in the
+															cheeks and obvious pain in his stomach so Shelsie and Nic brought him to the E.R. They were then
+															told that he was just experiencing the effects of mumps and were directed to take him home being
+															sure to keep him in isolation. On Thursday night in the wee hours, his pain grew excruciating so he
+															was again rushed to the E.R. where finally, doctors finally diagnosed him with leukemia and he was
+															rushed to UF Health Shands Children’s Hospital.
 
-Blood tests confirmed that Kaedyn indeed has Acute lymphoblastic leukemia (ALL) which is a cancer of the white blood cells, the cells in the body that normally fight infections. Kaedyn finished his treatment on August 14, 2013. In
-just 4 months after treatment ended his cancer returned. His best chance at a cure was a Bone Marrow Transplant. He spent 4 months in the hospital with only a weekend break. He needed chemotherapy and radiation to get his
-cancer back under control. It was a very rough patch with multiple infections and him not being allowed out of his room. When his cancer was in remission once again he received his Bone Marrow Transplant on March 22, 2013.
-A month after his new cells entered his bloodstream he left the hospital and to this day has not been admitted.
-He is doing fantastic and is truly a little miracle child.
-',
-            'image' => 'Kaedyn B',
+															Blood tests confirmed that Kaedyn indeed has Acute lymphoblastic leukemia (ALL) which is a cancer of the white blood cells, the cells in the body that normally fight infections. Kaedyn finished his treatment on August 14, 2013. In
+															just 4 months after treatment ended his cancer returned. His best chance at a cure was a Bone Marrow Transplant. He spent 4 months in the hospital with only a weekend break. He needed chemotherapy and radiation to get his
+															cancer back under control. It was a very rough patch with multiple infections and him not being allowed out of his room. When his cancer was in remission once again he received his Bone Marrow Transplant on March 22, 2013.
+															A month after his new cells entered his bloodstream he left the hospital and to this day has not been admitted.
+															He is doing fantastic and is truly a little miracle child.',
+            'image' => 'Kaedyn',
+            ),
+						array(
+            'name' => 'Kaitlynn G.',
+						'description' => 'At my 24 week ultrasound appointment we learned that Kaitlynn had a Congenital Heart Defect known as Transposition of the Great Arteries or TGA. TGA is where the two main arteries are switched, so the correct blood flows are not going to the correct areas in her body. Kaitlynn was born at 35 weeks. I had an emergency C-Section, and she was brought into this world on April 30, 2015. As soon as she was born, she stopped breathing, and she was taken away from me right away. Thankfully a doctor that was there for a "just in case" scenario, was needed. He performed a balloon septostomy, which just put a hole in her heart to keep all the blood flow the same. As soon as she was as stabilized as she could be they took her into the NICU to do everything else they could to stabilize her to transfer her to Nicklaus Childrens Hospital. At two days old I received a phone call from my husband saying that she has a blood clot in her leg and that we have two options. one was to amputate her leg, and two was to give her a medication that will solve the blood clot but it could send blood rushing to her head and cause neurological damage. This was devastating news for my husband and myself. The blood clot was caused by the balloon septostomy that was performed right after birth. The procedure was first performed on the right leg which broke the blood vessel, so they attempted on her left leg, which was successful. That same say she needed a blood transfusion, which she had. We got the news at three days old that, that coming monday they were going to perform her surgery. She was not stabilizing the way that they were hoping. She had her arterial switch, which is the procedure to correct the transpostion, at 5 days old. It was a complete success. She did very well during surgery and, Surprisingly, did not need ECMO. Although the doctors did say there may be a chance that she could need ECMO. The day after surgery the doctor noticed her heart was leaking, they ended up having to patch a small hole that was leaking. Two days after surgery, Doctor Burke decided it was time to close her chest. Another success. Doctors attempted to extubate her, which unfortunately was not successful. She was still too sedated and paralyzed to breath on her own. About four days after surgery, I was notified that she had a collapsed lung, which is pretty common after a surgery. Three days after the failed extubation, they attempted again, thankfully this one was a success. That same day, she was very close to heart failure. She was given a medicine called Ativan, which calmed her down to relax enough. She had good days and bad days, which I knew were going to happen. 20 full days after she was born, I was FINALLY able to hold her. It seemed that after that, EVERYTHING started to turn around. On March 27, we got the news that she was able to go home soon. On June 1st, we were able to take our little 5 pound peanut home. She went home on only two medications. She is now almost 19 pounds and is taking over our home! She loves just about anything and anyone! I have never seen such a happy, go lucky kid. We are so blessed to call her OURS.',
+            'image' => 'Kaitlynn',
             ),
             array(
             'name' => 'Kalee E.',
@@ -192,10 +167,8 @@ He is doing fantastic and is truly a little miracle child.
             array(
             'name' => 'Kasey V.',
             'description' => 'Kasey is a 6-year cancer survivor. She was diagnosed with Neuroblastoma when she
-was 9 months old. She had many surgeries. She also had 9 rounds of chemotherapy. Each time she had
-chemo she had to stay at the hospital due to her age. Kasey is a strong little girl and loves life to the fullest.
-
-',
+															was 9 months old. She had many surgeries. She also had 9 rounds of chemotherapy. Each time she had
+															chemo she had to stay at the hospital due to her age. Kasey is a strong little girl and loves life to the fullest.',
             'image' => 'Kasey',
             ),
             array(
@@ -223,6 +196,12 @@ chemo she had to stay at the hospital due to her age. Kasey is a strong little g
             'description' => 'Mason was born at Shands with a congenital heart defect, Transposition of Great Arteries. He is a CMN Ambassador and loves participating in Dance Marathons. He is a true Gator fan and we look forward to going to the one at UF. Thanks for all that you do for such a great cause!',
             'image' => 'Mason',
             ),
+						array(
+							'name' => 'Mateo H',
+							'description' => 'On February 4 2014, at my 23 weeks of pregnancy in a regular checkup, the doctor noticed that something in Mateo’s heart wasn&#39;t right. After hours and hours  the Doctor confirmed that Mateo had HLHS, Hypoplastic Left Heart Syndrome. On that day our world fell apart. All the doctors we met in PR basically told us that Mateo had no chance at all and that we should prepare ourselves to say good bye as soon as he was born. We just couldn&#39;t do that, we started researching and found UF Shands Congenital Heart Center. Since our first meeting with Dr. Bleiweis’s team at the Congenital Heart Center they told those that he had a chance, not an easy one but a chance nonetheless. Since that day the team has become Mateo’s and our surrogate family. Everytime he has hit a bump on the road or we’ve needed any kind of help or motivation they have been there, no questions asked!.
+																After two very intense open heart surgeries to prepare his body to live with only half a heart, today Mateo is a very active, determine, stubborn, playful, smart little boy who loves playing soccer all day long, watching Mickey Mouse Clubhouse, Peppa Pig, Daniel Tiger, likes to dance and to watch music videos.',
+							'image' => 'Mateo'
+						),
             array(
             'name' => 'Matthew L.',
             'description' => 'Matthew was picked up by ambulance and then airlifted by the ShandsCair helicopter from Spring Ridge after suffering a brain aneurysm. A brain aneurysm is a ballooning-out of the wall of an artery in the brain. Often this wall is weakened by disease, injury or an abnormality present at birth. They aren’t always life threatening, but serious consequences — such as a stroke — can result if one bursts in the brain. He was treated in the PICU at Shands Children’s Hospital at UF from June 15 to July 13. He has recovered amazingly and will be returning to school this week.',
@@ -240,7 +219,7 @@ chemo she had to stay at the hospital due to her age. Kasey is a strong little g
             ),
             array(
             'name' => 'Nathan F.',
-            'description' => 'Nathan was born seemingly healthy, but we quickly realized his health was in jeopardy when he was first hospitalized at 2 weeks old for respiratory distress symptoms. During his first few months of life, we realized our son was struggling with low muscle tone (hypotonia), gastrointestinal dysmotility, immune deficiency, liver dysfunction, respiratory difficulties, and metabolic changes. Every couple of months of his life seemed to add another specialist who helped unravel the cause of the mutli-system difficulties in Nathan’s body. Testing performed from a surgical muscle biopsy when he was a few months shy of a year old showed that Nathan had mitochondrial disease. Mitochondrial Disease is a genetic disorder that has caused havoc on the cells of many organ systems in our son’s body. The mitochondria are responsible for creating 90% of the energy needed by the body to sustain life and support growth. When they fail, cell injury and cell death can occur, and the life of the person whom this is happening is severely compromised. It is a degenerative disease that has no cure. This diagnosis does not deter Nathan from living an incredibly fulfilling life, however shortened it may be. Despite what his limitations are now and in the future, he continues to live a whole and incredibly happy life in however time he is given on this earth. He has lost many friends to this disease, but it does not keep him from living on joyfully through the obstacles that are presented. This disease has caused many issues in our son’s body, but it does not deter him from living an incredibly happy life. Nathan teaches us and so many others about true courage and strength as he continues to fight each obstacle with bravery and a heart-warming smile. Thank you. You may never realize the magnitude your words and actions mean to one individual or one family in all of this. The devotion you all give to each of these children lay heavy on their parents’ hearts, as we don’t know how we will ever repay you for your kindness, love, and devotion you all have shown to our children. Thank you. Those words seem so insignificant sometimes, but please know that they are coming from the very bottom of our hearts. Words simply can not express what our emotions feels in these times. Just...thank you.',
+						'description' => 'Nate was born with a genetic condition called Mitochondrial Disease, a multi-systemic disease resulting in organ dysfunction, Nate has been a patient of UF Health Shands Children&#39;s Hospital since his birth. His 9 pediatric specialists at Shands ensure that Nate can live a fairly normal life despite relying heavily on medical equipment and medications to keep his body functioning properly. Because of his amazing medical team and donations to Children&#39;s Miracle Network Hospitals, Nate is an energetic and joyful kid who loves attending school and hanging out with his Dance Marathon at UF friends.',
             'image' => 'Nathan',
             ),
             array(
@@ -250,18 +229,9 @@ chemo she had to stay at the hospital due to her age. Kasey is a strong little g
             ),
             array(
             'name' => 'Nick M.',
-            'description' => 'Nick was diagnosed with hypertrophic cardiomyopathy when he was 2 years old. Up until age 10, he simply took a daily medication to help his heart beat slowly and easily and lived life like any other boy. That changed in the summer of 2012 when Nick underwent a cardiac MRI to evaluate the size of his heart and its structures.
-
-Our family moved to Gainesville from Ohio in December 2011 for Jodi’s job. At that point, Nick started receiving his heart care from Dr. Jay Fricker at the Congenital Heart Center. Dr. Fricker wanted Nick to have an MRI of his heart. Nick had never had a cardiac MRI before because it really was not available at our previous hospital. The MRI results showed that Nick’s heart size put him at risk for developing a sudden and potentially fatal heart rhythm. We saw an electrophysiologist, Dr. Randall Bryant, who comes from Jacksonville to Gainesville regularly to see patients. Dr. Bryant recommended that Nick have an internal defibrillator placed under his skin with tiny wires attached to his heart so that any life threatening heart rhythm could be shocked back to normal a rhythm if necessary.
-
-Because of Nick’s hypertrophic cardiomyopathy he has regular visits with Dr. Fricker and Dr. Bryant. He has had one cardiac MRI and regularly gets heart echo tests and 12-lead EKG tests. He has also had blood work performed to identify a possible genetic cause for his heart condition. In September 2012 Nick had surgery at Shands for placement of an internal defibrillator. He spent one night on unit 44 pediatrics.
-
-Nick remains a very social and positive guy. He tries his best despite his obstacles. Because of his heart condition, he is not allowed to participate in moderately-intense sports like baseball, soccer or basketball. This makes Nick sad because he loves to play sports especially basketball and is pretty good at throwing a ball. Nick is, however, allowed to participate in the sport of bowling. After being off bowling for nearly 8 weeks to allow his defibrillator surgical site to heal, he got back into the “swing of things!” Nick bowls every Saturday with a Gainesville youth league and participates in 1-2 tournaments each year throughout the state of Florida.
-
-Nick particularly enjoys being involved with Dance Marathon at the University of Florida. He has met so many amazing college students who dedicate their time and energy to raising money for Children’s Miracle Network. Nick loves to hang out with the “big kids” and they treat him like a rock star!
-
-',
-            'image' => 'Nick M',
+            'description' => 'Nick was diagnosed with hypertrophic cardiomyopathy when he was 2 years old. Up until age 10, he simply took a daily medication to help his heart beat slowly and easily and lived life like any other boy. That changed in the summer of 2012 when Nick, underwent a cardiac MRI to evaluate the size of his heart and its structures.Our family moved to Gainesville from Ohio in December 2011 for Jodi’s job. At that point, Nick started receiving his heart care from Dr. Jay Fricker at the Congenital Heart Center. Dr. Fricker wanted Nick to have an MRI of his heart. Nick had never had a cardiac MRI before because it really was not available at our previous hospital. The MRI results showed that Nick’s heart size put him at risk for developing a sudden and potentially fatal heart rhythm. We saw an electrophysiologist, Dr. Randall Bryant, who
+															comes from Jacksonville to Gainesville regularly to see patients. Dr. Bryant recommended that Nick have an internal defibrillator placed under his skin with tiny wires attached to his heart so that any life threatening heart rhythm could be shocked back to normal a rhythm if necessary. Because of Nick’s hypertrophic cardiomyopathy he has regular visits with Dr. Fricker and Dr. Bryant. He has had one cardiac MRI and regularly gets heart echo tests and 12-lead EKG tests. He has also had blood work performed to identify a possible genetic cause for his heart condition. In September 2012 Nick had surgery at Shands for placement of an internal defibrillator. He spent one night on unit 44 pediatrics. Nick’s brain condition, agenesis of the corpus callosum, is stable, and he has now mastered all of his developmental milestones to this point. He does get extra help at school and has an IEP because of his learning challenges. Nick has been a patient in the neurology and pediatric neuropsychology clinics at UF Health Shands Children’s Hospital to help manage his needs related to his brain condition. He also saw the geneticists in that clinic to help establish whether his heart condition has a genetic cause. Nick remains a very social and positive guy. He tries his best despite his obstacles. Because of his heart condition, he is not allowed to participate in moderately-intense sports like baseball, soccer or basketball. This makes Nick sad because he loves to play sports, especially basketball, and is pretty good at throwing a ball. Nick is, however, allowed to participate in the sport of bowling. After being off bowling for nearly 8 weeks to allow his defibrillator surgical site to heal, he got back into the “swing of things!” Nick bowls every Saturday with a Gainesville youth league and participates in 1-2 tournaments each year throughout the state of Florida. In 2015 Nick placed high enough in a tournament to earn $115 in scholarship money! Nick is proud to be a Children’s Miracle Network ambassador! He wants to help other kids and support the hospital that saved his life. Nick particularly enjoys being involved with Dance Marathon at the University of Florida. He has met so many amazing college students who dedicate their time and energy to raising money for Children’s Miracle Network. Nick loves to hang out with the “big kids” and they treat him like a rock star!',
+            'image' => 'Nick',
             ),
             array(
             'name' => 'Owen M.',
@@ -305,8 +275,17 @@ Nick particularly enjoys being involved with Dance Marathon at the University of
             ),
         array(
             'name' => 'Zander W.',
-            'description' => 'Zander was born on November 29,2006 at Capital Regional Medical Center (CRMC). He started to turn blue and was transported to Tallahassee Memorial Hospital (TMH) because they had a NICU. While he was at TMH he was diagnosed with a congenital heart defect called Transposition of the Greater Vessels (TOGV). Zander was then life flighted to UF Health Shands Children’s Hospital in Gainesville. When Zander was a day old he had to have two heart caths because the first one didn’t take. When Zander was six days old he had open heart surgery. When he was ten or eleven days old they closed his chest cavity. At one month old he had stomach surgery for Pyloric Stenosis. When Zander was four and a half months old he had head surgery for Craniosynostosis (his soft spot closed no later than four months old). In April 2012 Zander had tubes put in his ears for repeat ear infections. In November,2012, Zander received head surgery again, but this time to fill in the man made soft spot. Doctors filled it in with bone putty, titanium mesh, and titanium screws. Zander calls the scar on his chest his zipper and calls the scar on his head his lucky “C” for courageous, cutie patootie, while we call it our lucky horseshoe. In January 2014, Zander was diagnosed with both Neuropathy as well as Restless Leg Syndrome. On May 15, 2014 we picked up Zander’s Glow-In-The-Dark Wheelchair to help with long distances. Zander also has gas reflux (a type of acid reflux), asthma, food allergies, and seasonal allergies. Even with everything that Zander has been diagnosed with he is the life of the party and loves to dance. He has told his doctors on multiple occasions that he is going to keep dancing even if it hurts.',
-            'image' => 'Zander',
+						'description' => 'When Zander was born, he was born at a hospital that didn&#39;t have a NICU, so he had to be transported to a hospital that did, because shortly after birth, he turned blue. When he got to the other hospital, the pediatric cardiologist just happened to be on the floor looking in on another patient. He saw Zander and called for an echocardiogram. Once the test was done, he told the hospital that Zander needed sent to Shands.  Zander was born at 2:03 PM on November 29, 2006, and arrived at Shands at 10:30 PM that same day. Zander got to ride in an airplane when he was only a handful of hours old.
+															Zander was diagnosed with Transposition of The Greater Vessels (TOGV).  A normal heart makes a figure eight, whereas Zander&#39;s heart made two individual circles. When he was a day old, doctors performed two heart Caths because they wanted to give him a fighting chance for surgery. The goal of the heart Caths was to help Zander’s heart mix his blood while it was inside the heart. When he was six days old on December 5, 2006, Zander had his open-heart surgery for TOGV. The doctors had to take the two top ventricles of his heart, off switch them, and then reattach them to his heart in the right spots.  Then, they had to reattach the arteries to the ventricles. They left his chest cavity open while he healed until he was 10 or 11 days old, at which point they closed the chest cavity.  Zander got discharged from Shands on December 18, 2006.
+															On December 30, 2006, Zander had surgery for Pyloric Stenosis. The “Pyloric” sphincter joins your stomach and large intestine. “Stenosis” signifies that the sphincter muscle was constricted. Zander was lucky enough that the doctors were able to use the incisions from the chest tubes to do the stomach surgery. They had to put a camera in to see where they needed to cut on the muscle around the Pyloric so that Zander would be able to eat (or in his case, drink) and not regurgitate shortly afterwards.
+															When Zander was 4-months-old, I took him for his four-month check-up.  His pediatrician was immediately alarmed; he didn&#39;t even say anything to me. He just kept feeling Zander&#39;s head all over. Then, he just kept looking from me to Zander.
+															Until I said, “You can&#39;t tell me that anything is wrong – Zander has to finally going to be able to do tummy time,” the doctor said, “I hope I&#39;m wrong, but I&#39;m going to send him for a CAT Scan.” When Zander was 4-and-a-half-months-old, he had head surgery for Craniosynostosis. His Sagittal Suture (front soft spot) had closed somewhere between birth and four months. The doctors made two small incisions on his head (one on the front and one on the back) to insert a man-made soft spot so that his brain would have room to grow.  When Zander was 5-and-a-half-months-old, he got a special helmet to shape and protect his head. We called it his “Buzz Lightyear” helmet.  He had the helmet until right after his second birthday.
+															In April 2012, Zander got his first set of tubes in his ears for repeated ear infections.
+															On November 20, 2012, Zander had a second head surgery for his Craniosynostosis to fill in the man-made soft spot. This was a week before his 6th birthday.
+															In January 2014, Zander was diagnosed with neuropathy/myopathy, or unexplained leg pain. He hurts after a short distance when walking.  He has a wheelchair for long distance travel. Even though he is in pain, he will run around and play with his friends, or breakdance to his heart’s content. Zander always tells his doctors, “You can&#39;t tell me what I can or can&#39;t do. I am going to do what I want because I want to!” He is very resilient.
+															In August 2014, Zander had a second set of tubes put in his ears, and in November 2015, he had a third set of tubes put in his ears.
+															Zander has ADHD, a form of Dyslexia, and food allergies, as well as seasonal allergies, asthma, Acid reflux and Gas reflux (which means he is in a small percentage of humans who take natural gulps of air during the day), the neuropathy/myopathy, restless leg syndrome, and the repeat ear infections. With all that he has against him, he is one of the strongest, smartest, and loving individuals that you will ever meet. He can brighten any room with just a smile. He loves to dance, run, and play!',
+            'image' => 'Zander W',
             )
 
         );
