@@ -271,7 +271,7 @@
             array(
             'name' => 'Wyatt T.',
             'description' => 'Wyatt was born with five major heart defects that eventually led to complete heart failure. At 2 months old he had to be placed on the Berlin Heart (mechanical heart) to help sustain him until a donor heart became available. After 217 long days Wyatt received his gift of life. After a total of 276 days ,at the age of 10 and a half months, we were finally able to bring our miracle baby home. He hit the floor running and has not stopped yet.',
-            'image' => 'Wyatt T',
+            'image' => 'Wyatt',
             ),
         array(
             'name' => 'Zander W.',
