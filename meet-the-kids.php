@@ -38,7 +38,7 @@
         array(
             'name' => 'Ayden M.',
             'description' => 'On January 7, 2013, Ayden woke up early screaming that he didn’t feel well. He had a high fever, so his mother tried to cool him off in the shower, but he just lay there screaming and convulsing for a few minutes. When he woke up he continued staring off. He was unresponsive, and he could not walk or talk. His mother took him to MRMC where he got a CT scan. The doctors said he had fluid on his brain, so he was  taken to UF Health Shands Children’s Hospital. After an emergency MRI, the doctors discovered a large mass tumor connected to his central nervous system and cluster tumors in his optic pathways. Ayden immediately went into emergency brain surgery to place shunts in the outer cavity of his skull to drain  the fluid out of his head and down into his stomach. Doctors later found a cancerous tumor on his heart. After a year and a half of chemotherapy treatment,  Ayden is completely blind from the pressure of the tumor on his brain and optic nerves. He has undergone a total of 17 surgeries, and doctors have deemed him stable.  Ayden’s family is moving to St Augustine where he  will attend the Florida Blind and Deaf School. Life changed completely for Ayden and his family after his diagnosis, but because of donations to Dance Marathon, he is receives top-quality care and treatment at UF Health Shands Children’s Hospital.',
-            'image' => 'Ayden',
+            'image' => 'Ayden M',
             ),
         array(
             'name' => 'Bailey A.',
