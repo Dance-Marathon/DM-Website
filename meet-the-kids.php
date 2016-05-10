@@ -220,7 +220,7 @@
             array(
             'name' => 'Nathan F.',
 						'description' => 'Nate was born with a genetic condition called Mitochondrial Disease, a multi-systemic disease resulting in organ dysfunction, Nate has been a patient of UF Health Shands Children&#39;s Hospital since his birth. His 9 pediatric specialists at Shands ensure that Nate can live a fairly normal life despite relying heavily on medical equipment and medications to keep his body functioning properly. Because of his amazing medical team and donations to Children&#39;s Miracle Network Hospitals, Nate is an energetic and joyful kid who loves attending school and hanging out with his Dance Marathon at UF friends.',
-            'image' => 'Nathan',
+            'image' => 'Nate',
             ),
             array(
             'name' => 'Nathan W.',
