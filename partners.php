@@ -74,7 +74,7 @@
               <div class="panel-body">
                 <table width="100%">
               		<tr height="140">
-               		  	<td valign="top" width="50%" align="center"><a href="http://www.landmark-properties.com" target="_blank"><img src="assets/images/sponsors/The Retreat.png" width="170" height="120"/></a></td>
+               		  	<td valign="top" width="50%" align="center"><a href="http://www.RetreatGainesville.com" target="_blank"><img src="assets/images/sponsors/The Retreat.png" width="170" height="120"/></a></td>
                         <td valign="middle" width="50%" align="center"><a href="https://www.statefarm.com/?cmpid=searchbrand" target="_blank"><img src="assets/images/sponsors/State Farm.jpg" width="198" height="140"/></a></td>
                 	</tr>
                     <tr height="140">
