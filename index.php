@@ -48,7 +48,7 @@
         <!-- End Item -->
 
         <div class="item">
-          <a href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/game-01.jpg"></a>
+          <a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/GetInvovled.png"></a>
         </div>
 
         <!-- End Item -->
