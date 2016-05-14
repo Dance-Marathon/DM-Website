@@ -6,7 +6,7 @@
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax delegates">
+<div class="page-heading parallax dancers">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
