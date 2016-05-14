@@ -326,7 +326,7 @@
             <div id="a14" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q14">
               <div class="panel-body">
                 <h4>Description</h4>
-                  Responsible for the recruitment of Dancers, Captains and team members to participate in Dance Marathon. Recruitment Captains contact various campus organizations to explain the miracles Dance Marathon creates and how they can give back to their local Children's Miracle Network Hospital. Additionally, Recruitment Captains oversee the High School Dance Marathon program; a program that is spread throughout the state of Florida to raise awareness and help high school students give back. Prospective Recruitment Captains should be strong public speakers with outgoing personalities who love to spread the word of Dance Marathon to new publics.
+                  Responsible for the recruitment of Dancers, Captains and team members to participate in Dance Marathon. Recruitment Captains contact various campus organizations to explain the miracles Dance Marathon creates and how they can give back to their local Children's Miracle Network Hospital. Prospective Recruitment Captains should be strong public speakers with outgoing personalities who love to spread the word of Dance Marathon to new publics.
 									<h4>Assistant Director of Canning </h4>
 									Erin Reilly
 									<h4>Assistant Director of Campus Representation</h4>
