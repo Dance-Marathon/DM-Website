@@ -24,7 +24,7 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank">Register to Fundraise</a></li>
+						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a class="active">Dancers</a></li>
 						<li><a href="/organizations">Organizations</a></li>

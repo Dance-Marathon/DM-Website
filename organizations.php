@@ -152,7 +152,7 @@
     ),
     array(
       'organization'  =>  'Chi Phi',
-      'link'          =>  ''
+      'link'          =>  '',
     ),
     array(
       'organization'  =>  'Delta Chi',
@@ -404,7 +404,7 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank">Register to Fundraise</a></li>
+						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a class="active">Organizations</a></li>
@@ -417,7 +417,12 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-        <table class="table table-bordered table-middle">
+     <h3>Organizations</h3>
+		 <p>All different kinds of organizations participate in Dance Marathon! </p>
+	   <p> Organizations are the backbone of our philanthropy. Below are the organizations that are currently involved<!--,and if you click on the organization, you will see the Delegate’s contact information-->. The organization’s Delegate will have more information on how you can get involved within your organization. </p>
+		 <p> We are always looking for more people to join our family, so if you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Joey Whelihan at jwhelihan@floridadm.org <a href="mailto:jwhelihan@floridadm.org">jwhelihan@floridadm.org</a></p>
+
+				<table class="table table-bordered table-middle">
           <tbody>
           <?php
             $column_number = 4;
@@ -448,7 +453,6 @@
           ?>
           </tbody>
         </table>
-  			<p>If your organization would like to participate contact the Recruitment Overall, Joey Whelihan, at <a href="mailto:jwhelihan@floridadm.org">jwhelihan@floridadm.org</a></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
   		</div>
     </div>
