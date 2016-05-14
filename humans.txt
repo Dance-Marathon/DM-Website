@@ -7,15 +7,17 @@ Project Manager:            Alex Migdall
 
 Design Lead:                Hailey Boerema
 
-Design Contributors:        
+Design Contributors:
+                            Tami Moreno
                             Eric Leite
                             Tatyana Mann
 
-Developement Leads:         
+Developement Leads:
                             Thomas Echezabal
                             Eric Leite
 
-Developement Contributors:  
+Developement Contributors:
+                            Tami Moreno
                             Matthew Gerstman
                             Kevin Kimbrough
                             Julie Rothe
