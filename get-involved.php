@@ -61,13 +61,11 @@
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
 							<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1">Get Involved</a>
+								<a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1">Start Here</a>
 							</h4>
 						</div>
 						<div id="a1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q1">
 							<div class="panel-body">
-								<h2>Start Here</h2>
-
 								<h4>Register To Fundraise</h4>
 								 Registering to be a fundraiser is the first step in becoming a part of the Dance Marathon family. Creating a fundraising page is quick and easy! Go to the Register to Fundraise page and find out how.
 
