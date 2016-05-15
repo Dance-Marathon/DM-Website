@@ -44,14 +44,14 @@
             </div>
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
               <div class="panel-body">
-                <object data="assets/PDFs/SponsorshipLevelsM.pdf" type="application/pdf" width="100%" height="600px">
-                 
+                <object data="assets/PDFs/Monetary Donations.pdf" type="application/pdf" width="100%" height="600px">
+
                   <p>It appears you don't have a PDF plugin for this browser.
-                  No biggie... you can <a href="assets/PDFs/SponsorshipLevelsM.pdf">click here to
+                  No biggie... you can <a href="assets/PDFs/Monetary Donations.pdf">click here to
                   download the PDF file.</a></p>
 
                 </object>
-                
+
               </div>
             </div>
           </div>
@@ -67,13 +67,59 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-                <object data="assets/PDFs/SponsorshipLevelsIK.pdf" type="application/pdf" width="100%" height="600px">
-                 
+                <object data="assets/PDFs/InKind.pdf" type="application/pdf" width="100%" height="600px">
+
                   <p>It appears you don't have a PDF plugin for this browser.
-                  No biggie... you can <a href="assets/PDFs/SponsorshipLevelsIK.pdf">click here to
+                  No biggie... you can <a href="assets/PDFs/InKind.pdf">click here to
                   download the PDF file.</a></p>
 
                 </object>
+              </div>
+            </div>
+          </div>
+
+          <!-- Corporate Donation Tab -->
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingThree">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Corporate Donation Levels
+                </a>
+              </h4>
+            </div>
+            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+              <div class="panel-body">
+                <object data="assets/PDFs/Corporate.pdf" type="application/pdf" width="100%" height="600px">
+
+                  <p>It appears you don't have a PDF plugin for this browser.
+                  No biggie... you can <a href="assets/PDFs/Corporate.pdf">click here to
+                  download the PDF file.</a></p>
+
+                </object>
+
+              </div>
+            </div>
+          </div>
+
+          <!-- Incentive Donation Tab -->
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingFour">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                  Incentive/Merchandise Sponsors
+                </a>
+              </h4>
+            </div>
+            <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+              <div class="panel-body">
+                <object data="assets/PDFs/Incentives-Merchandise.pdf" type="application/pdf" width="100%" height="600px">
+
+                  <p>It appears you don't have a PDF plugin for this browser.
+                  No biggie... you can <a href="assets/PDFs/Incentives-Merchandise.pdf">click here to
+                  download the PDF file.</a></p>
+
+                </object>
+
               </div>
             </div>
           </div>
