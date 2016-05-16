@@ -6,78 +6,96 @@
 	include("includes/navbar.php");
 
 	$events = array(
+		   array(
+					'name' => '<b>Belleview High School</b><br/><font style="color: #003">Event Date: <b>February 12th</b></font><br/>Belleview, FL',
+					'image' => 'hsdm13.png',
+					'url' => 'http://www.marionschools.net/bhs',
+			      	),
+				array(
+					'name' => '<b>Boca Raton High School</b><br/><font style="color: #003">Event Date: <b>March 4th</b></font><br/>Boca Raton, FL',
+					'image' => 'hsdm6.jpg',
+					'url' => 'http://www.edline.net/pages/Boca_Raton_High_School',
+							),
+		  	array(
+      		'name' => '<b>Buchholz High School</b><br/><font style="color: #003">Event Date: <b>February 19th</b></font><br/>Gainesville, FL',
+	        'image' => 'hsdm5.jpg',
+	  	  	'url' => 'http://buchholz.sbac.edu/pages/BHS0431',
+			        ),
+  			array(
+		      'name' => '<b>Deerfield Beach High School</b><br/>Date TBD<br/>Deerfield Beach, FL',
+          'image' => 'hsdm10.jpg',
+					'url' => 'http://www.deerfieldbeachhigh.net/',
+					    ),
+				array(
+		      'name' => '<b>Eastside High School</b><br/><font style="color: #003">Event Date: <b>February 5th</b></font><br/>Gainesville, FL',
+	        'image' => 'hsdm3.jpg',
+			  	'url' => 'http://eastside.sbac.edu/pages/EHS0421',
+			        ),
+			  array(
+			    'name' => '<b>Gainesville High School</b><br/><font style="color: #003">Event Date:  <b>February 26th</b></font><br/>Gainesville, FL',
+					'image' => 'hsdm9.jpg',
+					'url' => 'http://gainesville.sbac.edu/pages/GHS0151',
+							),
         array(
-            'name' => '<b>Oak Hall High School</b><br/><font style="color: #003">Event Date: <b>January 29th</b></font><br/>Gainesville, FL',
-            'image' => 'hsdm1.jpg',
-			'url' => 'http://www.oakhall.org/RelId/33637/ISvars/default/Home.htm',
-            ),
+					'name' => '<b>Jensen Beach High School</b><br/>Date TBD<br/>Jensen Beach, FL',
+					'image' => 'hsdm11.jpg',
+					'url' => 'http://jbhs.martinschools.org/pages/Jensen_Beach_High_School',
+							),
+				array(
+					'name' => '<b>Jupiter Community High School </b><br/>Date TBD<br/>Jupiter, FL',
+					'image' => 'hsdm17.png',
+					'url' => 'http://www.edline.net/pages/Jupiter_High_School',
+							),
         array(
-            'name' => '<b>Vero Beach High School</b><br/><font style="color: #003">Event Date: <b>February 26th</b></font><br/>Vero Beach, FL',
-            'image' => 'hsdm2.jpg',
-			'url' => 'https://www.indianriverschools.org/vbhs',
-            ),
-        array(
-            'name' => '<b>Eastside High School</b><br/><font style="color: #003">Event Date: <b>February 5th</b></font><br/>Gainesville, FL',
-            'image' => 'hsdm3.jpg',
-			'url' => 'http://eastside.sbac.edu/pages/EHS0421',
-            ),
-        array(
-            'name' => '<b>Palm Beach Central</b><br/><font style="color: #003">Event Date: <b>January 30th</b></font><br/>Palm Beach, FL',
-            'image' => 'hsdm4.jpg',
-			'url' => 'http://www.palmbeach.k12.fl.us/palmbeachcentralhs/',
-            ),
-        array(
-            'name' => '<b>Buchholz High School</b><br/><font style="color: #003">Event Date: <b>February 19th</b></font><br/>Gainesville, FL',
-            'image' => 'hsdm5.jpg',
-			'url' => 'http://buchholz.sbac.edu/pages/BHS0431',
-            ),
-			array(
-            'name' => '<b>Boca Raton High School</b><br/><font style="color: #003">Event Date: <b>March 4th</b></font><br/>Boca Raton, FL',
-            'image' => 'hsdm6.jpg',
-			'url' => 'http://www.edline.net/pages/Boca_Raton_High_School',
-            ),
-        array(
-            'name' => '<b>Seminole Ridge High School</b><br/><font style="color: #003">Event Date: <b>February 19th</b></font><br/>Loxahatchee, FL',
-            'image' => 'hsdm7.jpg',
-			'url' => 'http://www.edline.net/pages/Seminole_Ridge_Community_HS',
-            ),
-        array(
-            'name' => '<b>Wellington High School</b><br/><font style="color: #003">Event Date: <b>March 11th</b></font><br/>Wellington, FL',
-            'image' => 'hsdm8.jpg',
-			'url' => 'http://www.edline.net/pages/wellington_high_school',
-            ),
-        array(
-            'name' => '<b>Gainesville High School</b><br/><font style="color: #003">Event Date:  <b>February 26th</b></font><br/>Gainesville, FL',
-            'image' => 'hsdm9.jpg',
-			'url' => 'http://gainesville.sbac.edu/pages/GHS0151',
-            ),
-        array(
-            'name' => '<b>PK Yonge</b><br/><font style="color: #003">Event Date: <b>January 30th</b></font><br/>Gainesville, FL',
-            'image' => 'hsdm12.jpg',
-            'url' => 'http://pkyonge.ufl.edu/',
-            ),
-        array(
-            'name' => '<b>Belleview High School</b><br/><font style="color: #003">Event Date: <b>February 12th</b></font><br/>Belleview, FL',
-            'image' => 'hsdm13.png',
-            'url' => 'http://www.marionschools.net/bhs',
-            ),
-        array(
-            'name' => '<b>Kanapaha Middle School</b><br/><font style="color: #003">Event Date: <b>May 6th</b></font><br/>Gainesville, FL',
-            'image' => 'hsdm14.jpeg',
-            'url' => 'http://kanapaha.sbac.edu/pages/KAN0502',
+	        'name' => '<b>Kanapaha Middle School</b><br/><font style="color: #003">Event Date: <b>May 6th</b></font><br/>Gainesville, FL',
+	        'image' => 'hsdm14.jpeg',
+	        'url' => 'http://kanapaha.sbac.edu/pages/KAN0502',
+	            ),
+				array(
+					'name' => '<b>Newberry High School </b><br/>Date TBD<br/>Gainesville, FL',
+					'image' => 'hsdm18.jpg',
+					'url' => 'http://newberryhigh.sbac.edu/pages/NHS0261l',
+							),
+       array(
+         'name' => '<b>Oak Hall High School</b><br/><font style="color: #003">Event Date: <b>January 29th</b></font><br/>Gainesville, FL',
+         'image' => 'hsdm1.jpg',
+				 'url' => 'http://www.oakhall.org/RelId/33637/ISvars/default/Home.htm',
             ),
         array(
-            'name' => '<b>Deerfield Beach High School</b><br/>Date TBD<br/>Deerfield Beach, FL',
-            'image' => 'hsdm10.jpg',
-			'url' => 'http://www.deerfieldbeachhigh.net/',
+         'name' => '<b>Palm Beach Central</b><br/><font style="color: #003">Event Date: <b>January 30th</b></font><br/>Palm Beach, FL',
+         'image' => 'hsdm4.jpg',
+			   'url' => 'http://www.palmbeach.k12.fl.us/palmbeachcentralhs/',
             ),
-         array(
-            'name' => '<b>Jensen Beach High School</b><br/>Date TBD<br/>Jensen Beach, FL',
-            'image' => 'hsdm11.jpg',
-            'url' => 'http://jbhs.martinschools.org/pages/Jensen_Beach_High_School',
+        array(
+         'name' => '<b>PK Yonge</b><br/><font style="color: #003">Event Date: <b>January 30th</b></font><br/>Gainesville, FL',
+         'image' => 'hsdm12.jpg',
+         'url' => 'http://pkyonge.ufl.edu/',
             ),
-
-
+        array(
+         'name' => '<b>Seminole Ridge High School</b><br/><font style="color: #003">Event Date: <b>February 19th</b></font><br/>Loxahatchee, FL',
+         'image' => 'hsdm7.jpg',
+		     'url' => 'http://www.edline.net/pages/Seminole_Ridge_Community_HS',
+            ),
+        array(
+         'name' => '<b>Suncoast High School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Riviera Beach, FL',
+         'image' => 'hsdm16.jpg',
+		     'url' => 'http://www.edline.net/pages/Suncoast_High_School',
+            ),
+        array(
+         'name' => '<b>Taveres High School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Tavares, FL',
+         'image' => 'hsdm15.jpg',
+		     'url' => 'http://www.edline.net/pages/Suncoast_High_School',
+			 ),
+        array(
+         'name' => '<b>Vero Beach High School</b><br/><font style="color: #003">Event Date: <b>February 26th</b></font><br/>Vero Beach, FL',
+         'image' => 'hsdm2.jpg',
+		   	 'url' => 'https://www.indianriverschools.org/vbhs',
+            ),
+        array(
+          'name' => '<b>Wellington High School</b><br/><font style="color: #003">Event Date: <b>March 11th</b></font><br/>Wellington, FL',
+          'image' => 'hsdm8.jpg',
+			    'url' => 'http://www.edline.net/pages/wellington_high_school',
+            ),
         );
 ?>
 
