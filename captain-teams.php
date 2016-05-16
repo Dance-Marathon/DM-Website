@@ -119,8 +119,7 @@
             <div id="a5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q5">
               <div class="panel-body">
                 <h4>Description</h4>
-                Family Relations Captains serve as the liaison between Dance Marathon and the Miracle Families. These responsibilities include contacting Miracle Families, organizing the pen pal program, soliciting hotel rooms, coordinating events with the Miracle Families and organizations and organizing the Family Day event in the fall. As a team, Family Relations also decorates the family room, organizes the Miracle Family talent show and keeps the Miracle Families entertained during the 26.2 hour event.
-								<h4>Assistant Director of Family Outreach</h4>
+									Family Relations Captains serve as the liaison between Dance Marathon and the Miracle Families. Each captain is paired with a Miracle Family and their responsibilities include contacting their Miracle Families, organizing the pen pal program, and coordinating events with the Miracle Families and organizations. Family Relations Captains also have the opportunity to volunteer at Shands Children’s Hospital in the pediatric units 44 and 45. As a team, Family Relations also creates and decorates the family room and keeps the Miracle Families entertained during the entire 26.2 hour event.         								<h4>Assistant Director of Family Outreach</h4>
 								Kelsey Torgerson
 								<h4>Assistant Director of Family Events</h4>
 								Jake Dube
