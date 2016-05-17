@@ -56,7 +56,7 @@
         </p>
         <h3>Family Room</h3>
         <p>
-          At Dance Marathon, we provide a “Family Room” for your families during the event. Each year, the Family Room is decorated with a different theme. This past year, we themed our Family Room "Disney World," and included an exiting a scavenger hunt! The Family Room is a place for the families to relax and eat their meals. Most of them stay down on the floor, though, so that they don’t miss out on all the fun!
+          At Dance Marathon, we provide a “Family Room” for your families during the event. Each year, the Family Room is decorated with a different theme. This past year, we themed our Family Room "Disney World," and included an exciting a scavenger hunt! The Family Room is a place for the families to relax and eat their meals. Most of them stay down on the floor, though, so that they don’t miss out on all the fun!
         </p>
       <?php } else { echo 'This page is currently closed.'; } ?>
       </div>
