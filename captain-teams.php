@@ -200,7 +200,7 @@
             <div id="a9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q9">
               <div class="panel-body">
                 <h4>Description</h4>
-                  The Merchandise Team is responsible for all Dance Marathon at the University of Florida merchandise and stores, in addition to running the Silent Auction at event. This team is also responsible for creating an official product offering for DM at UF apparel and accessories, running the DM Store in Turlington every Wednesday and at community events, facilitating pre-orders with Delegates and organizations, taking inventory, and organizing check-in shirt and event shirt orders. The Merchandise Team is also responsible for the ordering of Dancer Bag items as well as stuffing the bags. Merchandise Captains will help the Sponsorship team facilitate Marketing Days. The Merchandise team will also manage the online store and fulfill orders.
+                  The Merchandise Team is responsible for all Dance Marathon at the University of Florida merchandise and stores. This team is responsible for creating an official product offering for DM at UF apparel and accessories, running the DM Store in Turlington every Wednesday and at community events, facilitating pre-orders with Delegates and organizations, taking inventory, and organizing check-in shirt and event shirt orders. The Merchandise Team is also responsible for the ordering of Dancer Bag items as well as stuffing the bags. Merchandise Captains will help the Sponsorship team facilitate Marketing Days. The Merchandise team will also manage the online store and fulfill orders.
 									<h4>Assistant Director of Inventory</h4>
 									Kelsey Johnson
 									<h4>Assistant Director of Orders</h4>
@@ -243,7 +243,7 @@
                   The Multimedia Team is responsible for videography and photography throughout the year and during the event. The team works to edit, sort and upload videos and photos regularly to YouTube and Facebook, respectively. The Multimedia Team is responsible for the acquisition of equipment for all filming and photography including all software involved for editing videos and photos. The Multimedia Team also works closely with the Creative Development Team to select pictures needed for graphics and other photographic needs. This team will be responsible for the Dance Marathon YouTube channel, as well as the Live Stream and Live Feed at the Event. It is recommended that Captains have experience with the Adobe Suite and/or other editing software.
 									<h4>Assistant Director of Social Media </h4>
                    Meaghan Hanley
-									<h4>Assistant Director of videography </h4>
+									<h4>Assistant Director of Videography </h4>
 									Kelcie Roscoe
                 <table style="width:100%">
 
