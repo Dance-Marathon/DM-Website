@@ -113,7 +113,7 @@
         array(
             'name'  => 'Hadley P.',
             'description' => 'She is 4 years old and was born with a genetic disorder called Mitochondrial Disease. Powie was initially diagnosed in utero with bilateral clubfeet and abnormalities on her brain and kidneys. Once born, she immediately had feeding problems. Her main health scare came at the age of 2 weeks old. She stopped breathing for the first time for 5+ minutes. We were able to resuscitate her and she was diagnosed with Severe Central Sleep Apnea. At that point, neuromuscular and metabolic diseases became a very real possibility. Hospital stays, surgeries, therapy appointments, more diagnosis became part of our everyday life. When she was 2.5, Mitochondrial disease became the official diagnosis and she began treatment. Her health stabilized to a point and then we moved to Florida. We&#39;ve been at Shands hospital for almost a year and Powie is thriving under her specialist care!',
-						'image' => 'Hadley P',
+						'image' => 'Hadley',
             ),
         array(
             'name'  => 'Hyla M.',
@@ -153,7 +153,7 @@
 				array(
 					  'name' => 'Joseph P.',
 						'description' =>'Joe was born 2 months premature 2 pounds 11 ounces I have neurofibromas, seizures, high blood pressure I had a mild heart attack at the age of 7. And through it all my recovery and progress would not have been made possible with out Dance Marathon and now that I can give back by dancing my self. For the kids.',
-						'image' => 'Joseph P',
+						'image' => 'Joseph',
 				),
 				array(
 					  'name' => 'Jude and Oliver S.',
