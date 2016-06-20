@@ -6,6 +6,11 @@
 	include("includes/navbar.php");
 
     $kids = array(
+			   array(
+						'name'  => 'Adrienne W.',
+						'description' =>'Adrienne was born a healthy 8lb/2oz in Ohio. She had been checked out prior to birth because of her brother’s heart defect and all seemed well. Little did they know her issues would be completely different, but just as difficult to deal with! Adrienne was diagnosed with Hydrocephalus and Arnold Chiari Type !. In 2007 she had a VP Shunt put in, 2008 her first posterior fossa decompression, 2010 her 2nd posterior fossa decompression. In between her posterior fossa decompressions she had a mic-key put in. Adrienne has always enjoyed life. She is happy, active and gifted in academics. ',
+						'image' => 'Adrienne W',
+						),
         array(
             'name' => 'Alison J.',
             'description' => 'When Alison was 22 months old, she fell two stories out of a window and fractured her skull. She was rushed to the hospital where she had emergency brain surgery. She was put into a medically induced coma, and her parents were told that she might not make it through the night.  When she awoke, doctors  found more complications in her brain and had to perform another surgery. It has been a long road, but Alison has made a full recovery and is now an active 12 year old.',
@@ -36,6 +41,11 @@
             'name' => 'Bailey A.',
             'description' => 'Bailey was born with a rare chromosomal condition called Turner Syndrome in which the female is missing an X chromosome. Turner Syndrome occurs to 1 in every 2000 live females births. Some conditions can be heart and kidney defects, hearing or eyesight problems, short stature, swollen hands and feet, scoliosis, learning disabilities and even infertility. When Bailey was born, we had never heard of Turner Syndrome and the only information we had was what we could find on the Internet. Bailey was home for 3 days and then spent the next three weeks of her life in the cardiac NICU having a repair done on the coarctation of the aorta of her heart. She started a daily injections of Growth Hormones at age 2 and will continue to take them daily until puberty. Bailey attends the UF Turner Syndrome Clinic every 4 months where she is seen by many specialist such as endocrinology to monitor her growth, cardiology for EKGs and Ecos, nephrology to monitor her single kidney, psychology for education consults, and dental as needed. In the beginning, it was hard to accept this diagnosis. People quickly learn that Bailey is just an active 6 year old with a bright bubbly personality who touches lives everywhere she goes! Our family continues to spread awareness of Turner Syndrome by hosting "chasing butterflies walks" annually.',
             'image' => 'Bailey',
+            ),
+        array(
+            'name' => 'Bailey W.',
+            'description' => 'Bailey was born January 2, 2009.  Everything looked normal until she was 5 days old, turned a little blue while eating and an x-ray showed an unusual spot in her lung area. She was transported to Shands and was diagnosed with a diaphragmatic hernia. After that surgery they had to do surgery on her stomach. Then a hole in her heart, eye surgery, tubes in her ears, and more. She was also born with hip dysplasia so she had to wear a harness. More recently she got hearing aids and had breathing problems. She is better off than many miracle children, but the story seems to get new stuff constantly. She is an inspiration to me. She is always so upbeat and happy.',
+						'image' => 'Bailey W',
             ),
 				array(
 							'name' => 'Bennett J.',
@@ -101,6 +111,11 @@
             'image' => 'Geoffery',
             ),
         array(
+            'name'  => 'Hadley P.',
+            'description' => 'She is 4 years old and was born with a genetic disorder called Mitochondrial Disease. Powie was initially diagnosed in utero with bilateral clubfeet and abnormalities on her brain and kidneys. Once born, she immediately had feeding problems. Her main health scare came at the age of 2 weeks old. She stopped breathing for the first time for 5+ minutes. We were able to resuscitate her and she was diagnosed with Severe Central Sleep Apnea. At that point, neuromuscular and metabolic diseases became a very real possibility. Hospital stays, surgeries, therapy appointments, more diagnosis became part of our everyday life. When she was 2.5, Mitochondrial disease became the official diagnosis and she began treatment. Her health stabilized to a point and then we moved to Florida. We&#39;ve been at Shands hospital for almost a year and Powie is thriving under her specialist care!',
+						'image' => 'Hadley P',
+            ),
+        array(
             'name'  => 'Hyla M.',
             'description' => 'Some of you may have heard my story before, but for those of you who haven’t my name is Hyla Marlin, I am 10 years old and in 4th grade. So about 6 years ago, I was diagnosed Wilms
 															Tumor – it’s a type of kidney cancer. I was in New York at a family camp, that’s when my mom and dad realized one side of my belly was puffed up, and they took me to a doctor. The doctor said that I had kidney
@@ -135,6 +150,11 @@
 															going to miss school and my teachers. Thank you for following my journey of recovery',
             'image' => 'Jake C',
             ),
+				array(
+					  'name' => 'Joseph P.',
+						'description' =>'Joe was born 2 months premature 2 pounds 11 ounces I have neurofibromas, seizures, high blood pressure I had a mild heart attack at the age of 7. And through it all my recovery and progress would not have been made possible with out Dance Marathon and now that I can give back by dancing my self. For the kids.',
+						'image' => 'Joseph P',
+				),
 				array(
 					  'name' => 'Jude and Oliver S.',
 						'description' => 'They were born at 26 weeks gestation (over three months early) and spent the first three months of their lives at the Shands NICU.  Both boys spent time in "giraffe" beds to control their body temperatures, on IV feeds then feeding tubes until they were big enough to begin bottle/nursing, were treated for infections, received blood for anemia.  Oliver additionally underwent a PDA ligation.  That&#39;s a lot of medical treatment, but we were actually really fortunate to not endure some of the more dire situations that micro preemies may experience.  After leaving Shands, we&#39;ve been lucky enough to not need readmission for anything.  At 4.5 years old, the only issues we face are with asthma and some allergies.  Jude and Oliver are both really energetic, curious boys.  They love playing pretend, building with their Legos, take gymnastics class, and are finishing up their VPK year at St. Michael&#39;s Day School, to begin kindergarten this Fall.',
@@ -217,6 +237,16 @@
             'name' => 'Matthew L.',
             'description' => 'Matthew was picked up by ambulance and then airlifted by the ShandsCair helicopter from Spring Ridge after suffering a brain aneurysm. A brain aneurysm is a ballooning-out of the wall of an artery in the brain. Often this wall is weakened by disease, injury or an abnormality present at birth. They aren’t always life threatening, but serious consequences — such as a stroke — can result if one bursts in the brain. He was treated in the PICU at Shands Children’s Hospital at UF from June 15 to July 13. He has recovered amazingly and will be returning to school this week.',
             'image' => 'Matthew L',
+            ),
+            array(
+            'name' => 'Max W.',
+            'description' => 'Max was born in Ohio with a Congenital Heart Defect known as Hypoplastic Left Heart Syndrome. After his first three surgeries he was brought to Florida. He had banding of his pulmonary arteries and PDA Stent in 2002, Norwood State I and Stage II combined in 2003, and an Extra-Cardiac Fontan in 2005. In 2010 he had an LPA stent placed and now he is healing great!',
+						'image' => 'Max W',
+            ),
+            array(
+            'name' => 'Micha W.',
+            'description' =>'I was born three month early, March 8,2000 with many complications. A month later, I developed bleeding in the brain a grade four. This is called hydrocephalus. In May 2000 was my first brain surgery to placed a VP. Shunt. The shunt relieves the brain fluid. From June to September I had three additional surgeries. Being born premature and stay in the hospital so long, you are prone to infections. Due to, the shunt being plastic it&#39;s a tunnel to hold infections. That&#39;s why the revisions were necessary. In August to December 2013, I had three more brain surgeries. Shunt revisions, because after thirteen years my shunt snapped. Then, the revised shunt must have had a pin hole, because the fluid wasn&#39;t draining out. I had an orange size cyst growing in my abdomen, which caused me to have a terrible fungus. The shunt had to be removed until the infection cleared. Six weeks hospitalized, this is how I learned about the Children&#39;s Miracle Network (Ambassador Family). l met a beautiful person, named Bailey Daniel. See all that this organization does I wanted to be apart. When I returned home I started making bracelets for the volleyball team and anyone else who wanted to donate to this worthy cause. In 2014 Micha's Jewels raised $35.00 and 2015 Micha's Jewels raised $50.00. In 2016 I had a few medical setbacks and didn&#39;t have the energy to put into making bracelets. With God help I&#39;m healthy, strong and victorious.',
+						'image' => 'Micha W',
             ),
             array(
             'name' => 'Michael S.',
