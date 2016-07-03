@@ -67,10 +67,18 @@
       </div>
       <div class="col-md-8 col-md-push-1">
       <?php if ($status=="open" ) { ?>
+				<h3>Community Events </h3>
+			   <!--	<p>quick explination about community events</p> -->
+				<h4>Kickin' It For The Kids - Summer Kickball Event </h4>
+				<p>We are pleased to announce our Community Event of the Summer!</p>
+				<p>Join the Dance Marathon Family on Saturday, July 16 from 1 p.m. to 5 p.m. at Hume Field for a fun and friendly kickball tournament FTK! </p>
+			  <p>You can register as a team of 8 until July 14 at 5 p.m. Payments can be delivered at the Dance Marathon Summer Forum on July 12 from 3:30 p.m. to 6 p.m. (Room TBD), or to the Dance Marathon Office (Room 3104 of the Reitz Union) on July 13 and 14 from 10 a.m. to 5 p.m. </p>
+				<p><a href="http://goo.gl/forms/Vn02TUBOCo3pDnlH3"> Resiger Here: http://goo.gl/forms/Vn02TUBOCo3pDnlH3 </a></p>
         <div class="container-fluid">
           <div class="row">
             <?php for($i=0 ; $i < count($events); $i++) { ?>
-            <!-- Button trigger modal -->
+
+					  <!-- Button trigger modal -->
               <?php if ($i % 3==0 ) { ?>
               <div class="clearfix visible-xs-block visible-sm-block"></div>
               <?php } ?>
