@@ -42,7 +42,7 @@
         <!-- End Item -->
 
 				<div class="item">
-					<img class="img-responsive" src="assets/images/ThankYou.jpg" / />
+					<a href="http://floridadm.org/community-events" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/kickballWeb.jpg"></a>
 				</div>
 
         <!-- End Item -->
