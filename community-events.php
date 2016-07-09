@@ -72,7 +72,7 @@
 				<h4>Kickin' It For The Kids - Summer Kickball Event </h4>
 				<p>We are pleased to announce our Community Event of the Summer!</p>
 				<p>Join the Dance Marathon Family on Saturday, July 16 from 1 p.m. to 5 p.m. at Hume Field for a fun and friendly kickball tournament FTK! </p>
-			  <p>You can register as a team of 8 or as an individual until July 14 at 5 p.m. Payments can be delivered at the Dance Marathon Summer Forum on July 12 from 3:30 p.m. to 6 p.m. (TUR L011), or to the Dance Marathon Office (Room 3104 of the Reitz Union) on July 13 and 14 from 10 a.m. to 5 p.m. </p>
+			  <p>You can register as a team of 8 or as an individual until July 14 at 5 p.m. Payments can be delivered at the Dance Marathon Summer Forum on July 12 from 4:45 p.m. to 6 p.m. (TUR L011), or to the Dance Marathon Office (Room 3104 of the Reitz Union) on July 13 and 14 from 10 a.m. to 5 p.m. </p>
 				<p><a href="http://goo.gl/forms/Vn02TUBOCo3pDnlH3"> <b>Resiger a Team Here </b></a></p>
 				<p><a href=" http://goo.gl/forms/513X6jb4XdxzJANe2"><b> Resiger an Individual Here </b> </a></p>
 
