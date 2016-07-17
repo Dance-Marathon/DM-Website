@@ -42,13 +42,14 @@
         <!-- End Item -->
 
 				<div class="item">
-					<a href="http://floridadm.org/community-events" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/kickballWeb.jpg"></a>
+					<a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/GetInvovled.png"></a>
+
 				</div>
 
         <!-- End Item -->
 
         <div class="item">
-          <a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/GetInvovled.png"></a>
+          <a href="" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/ThankYou.jpg"></a>
         </div>
 
         <!-- End Item -->
