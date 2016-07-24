@@ -151,6 +151,9 @@
              <div class="col-xs-4">
              <img class="img-responsive" src="/assets/images/moraleaward_2014.jpg" />
             </div>
+					 <div class="col-xs-4">
+					 <img class="img-responsive" src="/assets/images/BestMerch_2016.png" />
+					</div>
           </div>
         </div>
      </div>
