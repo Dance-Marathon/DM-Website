@@ -12,11 +12,6 @@
 						'image' => 'Adrienne W',
 						),
         array(
-            'name' => 'Alison J.',
-            'description' => 'When Alison was 22 months old, she fell two stories out of a window and fractured her skull. She was rushed to the hospital where she had emergency brain surgery. She was put into a medically induced coma, and her parents were told that she might not make it through the night.  When she awoke, doctors  found more complications in her brain and had to perform another surgery. It has been a long road, but Alison has made a full recovery and is now an active 12 year old.',
-            'image' => 'Allison',
-            ),
-        array(
             'name'  => 'Alyssa M.',
             'description' => 'Alyssa was born at 26 weeks weighing 1 lb 4 oz, 20 yrs ago (1996).  Due to the prematurity she developed hydrocephalus which has led to multiple neurological problems, and emergency surgeries. This has left her  with cerebral palsy and other neurological issues.We call them issues because they have become part of our daily lives and we don not let them stop her.Her last admission was thankfully 3 years ago but we have many clinic appointments with all the wonderful Shands doctors who have kept her alive and stable.  She is also deaf, for which she had a cochlear implant placed in 1999. Today she loves school, riding her bike, swimming and riding horses.',
 						'image' => 'Alyssa M',
@@ -149,17 +144,6 @@
 															Through it all Jack was amazing.  He defied the odds and we were able to bring him home for a couple of days in between some of the rounds!  How grateful we were to all be together and know that he was asleep in his own bed!  He always told the doctors, nurses and his parents exactly what was on his mind.  He didn’t complain (much), not nearly as much as he should have!  His distinctive sense of humor and practical jokes were a joy and we are so proud of him for holding on to that during his treatment!  (Ask him about his trip to the PICU and the monitors sometime, or the remote control spider!). jack is our HERO.
 															Our prayers were answered when we brought him home and we thank God every day for his remission!  We also thank God for the amazing doctors, nurses, volunteers, social workers, and everyone else who devotes so much of their lives to making it possible for kids like Jack to not only SURVIVE, but to have some comfort during that time!  The funds raised by CMN make such a huge difference in the level of care available for these kids!  What a difference it makes to know you have available the best and brightest and most dedicated doctors and nurses, the latest drugs and therapies, all of the support staff imaginable to help the kids and their families get through times like these!  And to the Dance Marathon kids, you ROCK!  It is not just about fundraising, it’s also how you make all of our kids feel special and loved, and we thank you for all that you do FTK!',
             'image' => 'Jack M',
-            ),
-          array(
-            'name' => 'Jake C.',
-            'description' => 'My name is Jake and I am 13 years old and
-															in 7th grade. My leg hurt for a few months and Mom took me to the doctor. I found out this week that I
-															have Ewings Sarcoma in my fibula. The good news is that they can treat this and they can just take out
-															that bone because I don’t need it. I am going to Shand’s in Gainseville, Florida. It is too bad I have to go to
-															Gator country for treatment but the doctors are great there. I am sad about missing my track season,
-															soccer season, baseball season and unicycle club. I also can’t beleive I am saying this but I am really
-															going to miss school and my teachers. Thank you for following my journey of recovery',
-            'image' => 'Jake C',
             ),
 			   	array(
 					  'name' => 'Jenna D.',
