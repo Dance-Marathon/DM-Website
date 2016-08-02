@@ -78,7 +78,8 @@
             <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
               <div class="panel-body">
                 <h4>Description</h4>
-                  The Creative Development Captains are responsible for the Dance Marathon website, mobile applications on iOS and Android. This team is also in charge of all graphic design needs (e.g. Instagram graphics, website graphics, t-shirt proofs, newsletters, calendars, etc.) throughout the year. The Creative Development Captains also manage at-event content shown on the jumbotrons, such as Dancer Walk information, meal slides, and the livestream.
+								The Creative Development Team will manage the day-to-day visual requirements for Dance Marathon at UF. This team’s captains are responsible for either the development/maintaining of the Website and mobile applications (iOS and Android) or the creation of all print/web design needs. *  Through the year the captains will work together to create high-tech, portfolio quality material that will showcase Dance Marathon as a professional student-run movement. In addition, The Creative Development Captains will also manage at-event content shown on the jumbotrons, such as Dancer Walk information, meal slides, and the live stream.</br>
+                <small>*This team requires captains to either have basic knowledge of Adobe Creative Cloud programs or Programming languages (e.g. C#, Swift, Java, HTML, C++, ect.)</small>
 									<h4>Assistant Director of Branding</h4>
 									Shaina Patel
 									<h4>Assistant Director of Software Development</h4>
