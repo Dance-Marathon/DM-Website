@@ -39,7 +39,7 @@
         );
 ?>
 
-<div class="page-heading parallax events">
+<div class="page-heading parallax community_events">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">

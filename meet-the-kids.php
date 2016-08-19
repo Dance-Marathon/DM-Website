@@ -382,7 +382,7 @@
         );
 ?>
 
-<div class="page-heading parallax family">
+<div class="page-heading parallax meet_the_kids">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">

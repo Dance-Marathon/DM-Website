@@ -386,7 +386,7 @@
   usort($greek_organizations, 'compareAlphabetically');
 ?>
 
-<div class="page-heading parallax get-involved">
+<div class="page-heading parallax orgs">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
