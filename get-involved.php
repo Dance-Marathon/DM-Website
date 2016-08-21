@@ -36,7 +36,7 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-  			<p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in being a Captain, Dancer, FTKrew, Delegate or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF, and we would love for you to join our DM family to help make miracles For the Kids.</p>
+  			<p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in being a Captain, Dancer, FTKrew, Delegate or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF, and we would love for you to join our DM family to help make miracles For The Kids.</p>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
@@ -69,7 +69,7 @@
 								<h4>Register To Fundraise</h4>
 								 Registering to be a fundraiser is the first step in becoming a part of the Dance Marathon family. Creating a fundraising page is quick and easy! Go to the Register to Fundraise page and find out how.
 
-								<h4>Get Invovled with the Dance Marathon Family</h4>
+								<h4>Get Involved with the Dance Marathon Family</h4>
 								<p>If you’d like to get involved and take on a leadership role within our organization, check out the tabs to the left! </p>
 
 									   <ul><b>Organization:</b> 	Student organizations that are currently involved in fundraising for our cause. </ul>
