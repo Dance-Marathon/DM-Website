@@ -74,7 +74,7 @@
 							</div>
 							<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 								<div class="panel-body">
-									The Emerging Leaders Program is a brand new aspect of Dance Marathon at UF. The focus of the program is to cultivate leadership skills while also immersing one’s self in Dance Marathon at UF. The Emerging Leaders Program is completely separate from Captains and FTKrew and will have their own unique responsibilities. More information can be found in the <a href="/elp">Emerging Leaders Program</a> page.
+									The Emerging Leaders Program is a brand new aspect of Dance Marathon at UF. The focus of the program is to cultivate leadership skills while also immersing one’s self in Dance Marathon at UF. The Emerging Leaders Program is completely separate from Captains and FTKrew and will have their own unique responsibilities. More information can be found in the <a href="/emerging-leaders">Emerging Leaders Program</a> page.
 
 								<li><a href="https://ufl.qualtrics.com/SE/?SID=SV_8i8jtP9CdxTAwmN" target="_blank">2017 Emerging Leaders Program Application</a></li>
 
