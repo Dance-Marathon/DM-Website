@@ -22,23 +22,6 @@ include("includes/navbar.php");
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3">
-<<<<<<< Updated upstream
-       <div class="sub-nav">
-        <ul>
-          <li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
-          <li><a href="/delegates">Delegates</a></li>
-          <li><a href="/dancers">Dancers</a></li>
-          <li><a href="/organizations">Organizations</a></li>
-          <li><a class="active">Captain Teams</a></li>
-          <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-          <li><a href="/ftkrew">FTKrew</a></li>
-          <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-          <!--           <li><a href="/overall-applications">Overall Applications</a></li> -->
-        </ul>
-      </div>
-    </div>
-    <div class="col-md-8 col-md-push-1">
-=======
   			<div class="sub-nav">
           <ul>
 						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
@@ -55,7 +38,6 @@ include("includes/navbar.php");
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
->>>>>>> Stashed changes
       <?php if ($status == "open") { ?>
       <h3>Captain Teams</h3>
       <p>Each Captain team is composed of an <b>Overall Director</b>, <b>Assistant Directors</b> and <b>Captains</b>. </p>
