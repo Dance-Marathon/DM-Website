@@ -41,7 +41,7 @@
       <?php if ($status == "open") { ?>
  					<h1> Captain & Emerging Leaders Program Applications </h1>
 					<p>Applications are now open! Applications will be due <b>Sunday, September 4th</b>.</p>
-					<p>Click each tab below to access the applications for Captain Teams and Emerging Leadres Program</p>
+					<p>Click each tab below to access the applications for Captain Teams and Emerging Leaders Program</p>
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
