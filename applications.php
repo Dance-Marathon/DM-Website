@@ -55,7 +55,7 @@
 								<div class="panel-body">
 
 								<p>Each year, Dance Marathon at UF strives to grow and improve. This year we are excited to announce changes to our Captain Teams to help us make bigger and better miracles happen For The Kids!</p>
-								<p>As reflected on the application, <i>Entretainment</i> and <i>Operations</i> are no longer. We have redistributed responsibilities a new team: <b>Productions</b>.</p>
+								<p>As reflected on the application, <i>Entertainment</i> and <i>Operations</i> are no longer. We have redistributed responsibilities a new team: <b>Productions</b>.</p>
 								<p>The Finance team has been revamped into a new team: <b>Fundraising</b>.</p>
 								<p>A new team called <b>Outreach</b> was created and is comprised of a small group of <b>Assistant Directors</b> that works closely with the Dance Marathon Alumni Initiative. The outreach AD's also work to increase UF faculty engagement and all of UF Health engagement with Dance Marathon at UF. </p>
 								<p>Please be sure to read over the <a href="/captain-teams">Captain Team</a> descriptions for more details about responsibilities and expectations for each team.</p>
