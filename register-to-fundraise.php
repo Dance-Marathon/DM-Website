@@ -32,7 +32,8 @@ include("includes/navbar.php");
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
 						<li><a href="/ftkrew">FTKrew</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-						<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
+						<li><a href="/ftkrew">FTKrew</a></li>
+						<li><a href="/applications">Captain & ELP Applications</a></li>
 					</ul>
 				</div>
 			</div>
@@ -58,11 +59,10 @@ include("includes/navbar.php");
 
 								<p>If you have any questions about Donor Drive contact the Fundraising Overall, Allie Becher, at  <a href="mailto:abecher@floridadm.org">abecher@floridadm.org</a></p>
 
-
-								<?php } else { echo 'This page is currently closed.'; } ?>
+						   	</div>
 							</div>
 						</div>
 					</div>
-				</div>
+					<?php } else { echo 'This page is currently closed.'; } ?>
 
 				<?php include("includes/foot.php"); ?>

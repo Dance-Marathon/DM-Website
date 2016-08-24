@@ -751,8 +751,8 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.overall-applications {
   background-image: url("/assets/images/sectionbg/overallapp.jpg");
 }
-.page-heading.parallax.captain-applications {
-  background-image: url("/assets/images/sectionbg/captainapplication.jpg");
+.page-heading.parallax.applications {
+  background-image: url("/assets/images/sectionbg/applications.jpg");
 }
 .page-heading.parallax.family {
   background-image: url("/assets/images/sectionbg/fam.jpg");
