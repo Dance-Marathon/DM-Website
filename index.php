@@ -23,7 +23,12 @@
       </ol>
       <div class="carousel-inner">
 
-				<div class="item active item-with-caption">
+				<div class="item active">
+					<a href="http://floridadm.org/applications" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Applications.png"></a>
+
+				</div>
+
+				<div class="item  item-with-caption">
           <img class="img-responsive"  src="assets/images/slider/TotalDM2016.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
@@ -48,9 +53,7 @@
 
         <!-- End Item -->
 
-        <div class="item">
-          <a href="" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/ThankYou.jpg"></a>
-        </div>
+
 
         <!-- End Item -->
 
