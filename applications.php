@@ -42,6 +42,20 @@
  					<h1> Captain & Emerging Leaders Program Applications </h1>
 					<p>Applications are now open! Applications will be due <b>Sunday, September 4th</b>.</p>
 					<p>Click each tab below to access the applications for Captain Teams and Emerging Leaders Program</p>
+
+				<h3>	IMPORTANT: Application Requirements </h3>
+
+					<p><b>	**If you'd like to apply to both a Captain team as well as the Emerging Leaders Program, you only need to complete the Captain application and answer "Yes" to the question: "Should you not be chosen as a captain would you like to be considered for an Emerging Leaders position?" More information about the Emerging Leaders Program can be found <a href="/emerging-leaders"> here </a></b></p>
+
+							<p>In order for Dance Marathon to consider your application for a Captain Team or the Emerging Leaders Program, you must complete the following three criteria:
+								<ul>
+								<li>Complete the written application form. Click the links provided to advance to the written portions. </li>
+								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> Captain Applicants </b>can pay <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1292" target="_blank">here</a>.<b> Emerging Leaders applicants </b> can pay with cash, Check or Venmo at the time of their interview.</li>
+								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="https://docs.google.com/document/d/15vHz04-0sUO6cJPDbXeV5_inQZV2mE23jPRdGoY3L6M/edit?usp=sharing" target="_blank"> here </a>on how to create a fundraising page on Donor Drive</li>
+							</ul>
+							</p>
+
+
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
@@ -59,9 +73,13 @@
 								<p>The Finance team has been revamped into a new team: <b>Fundraising</b>.</p>
 								<p>A new team called <b>Outreach</b> was created and is comprised of a small group of <b>Assistant Directors</b> that works closely with the Dance Marathon Alumni Initiative. The outreach AD's also work to increase UF faculty engagement and all of UF Health engagement with Dance Marathon at UF. </p>
 								<p>Please be sure to read over the <a href="/captain-teams">Captain Team</a> descriptions for more details about responsibilities and expectations for each team.</p>
-								<ul>
+								<p><ul>
 									<li><a href="https://ufl.qualtrics.com/SE/?SID=SV_4T1y7HjD4e0ScG9" target="_blank">2017 Captain Application</a></li>
-								</ul>								</div>
+								</ul></p>
+									<b>*Please note that your application will NOT be considered unless you have paid the application fee using the provided link.</b>
+									<p>	After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email the morning of Saturday, September 3rd. Interviews will be held September 5th-10th from 5:00 to 10:00 pm.</p>
+
+								</div>
 							</div>
 						</div>
 						<div class="panel panel-default">
@@ -75,8 +93,11 @@
 							<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 								<div class="panel-body">
 									The Emerging Leaders Program is a brand new aspect of Dance Marathon at UF. The focus of the program is to cultivate leadership skills while also immersing one’s self in Dance Marathon at UF. The Emerging Leaders Program is completely separate from Captains and FTKrew and will have their own unique responsibilities. More information can be found in the <a href="/emerging-leaders">Emerging Leaders Program</a> page.
-
+<p>
 								<li><a href="https://ufl.qualtrics.com/SE/?SID=SV_8i8jtP9CdxTAwmN" target="_blank">2017 Emerging Leaders Program Application</a></li>
+</p>
+								<b>*Please note that your application will NOT be considered unless you have paid the application fee.</b>
+								<p>	After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email the morning of Saturday, September 3rd. Interviews will be held September 5th-10th from 5:00 to 10:00 pm.</p>
 
 								</div>
 							</div>
