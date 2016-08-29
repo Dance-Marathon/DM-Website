@@ -76,6 +76,7 @@
 								<p><ul>
 									<li><a href="https://ufl.qualtrics.com/SE/?SID=SV_4T1y7HjD4e0ScG9" target="_blank">2017 Captain Application</a></li>
 								</ul></p>
+									<b> *Applications will be submitted after the Second Choice Team Questions section</b>
 									<b>*Please note that your application will NOT be considered unless you have paid the application fee using the provided link.</b>
 									<p>	After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email the morning of Saturday, September 3rd. Interviews will be held September 5th-10th from 5:00 to 10:00 pm.</p>
 
