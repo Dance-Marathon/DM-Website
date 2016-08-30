@@ -6,7 +6,7 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax FTKrew">
+<div class="page-heading parallax get-involved">
 	<div class="inner-wrapper">
 		<div class="container">
 			<div class="row">
