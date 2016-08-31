@@ -96,6 +96,8 @@
 
 
              </div>
+						 <p> <b>Want to know more about DM?</b> Submit your information<a href="https://docs.google.com/forms/d/e/1FAIpQLSc1mXWGc9rfL4GL6375p7HDqFhBrqa_GNQENMN9gS-l4tCwdw/viewform"> here</a></p>
+
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
