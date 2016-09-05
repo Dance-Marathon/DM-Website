@@ -23,10 +23,6 @@
       </ol>
       <div class="carousel-inner">
 
-				<div class="item active">
-					<a href="http://floridadm.org/applications" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Applications.png"></a>
-
-				</div>
 
 				<div class="item  item-with-caption">
           <img class="img-responsive"  src="assets/images/slider/TotalDM2016.jpg">

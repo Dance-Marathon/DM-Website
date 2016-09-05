@@ -30,16 +30,15 @@
 				<li><a href="/organizations">Organizations</a></li>
 				<li><a href="/captain-teams">Captain Teams</a></li>
 				<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-				<li><a href="/ftkrew">FTKrew</a></li>
 				<li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-				<li><a href="/applications">Captain & ELP Applications</a></li>
+				<li><a href="/ftkrew">FTKrew</a></li>
+
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 			 <p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in being a Captain, Dancer, FTKrew, Delegate or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF, and we would love for you to join our DM family to help make miracles For The Kids.</p>
-				<b> Captain Team and Emerging Leader Program Applications are open until Sunday, September 4th. Applications can be found <a href="/applications">here.</a> </b>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
