@@ -86,11 +86,6 @@ include("includes/navbar.php");
                   <td>Jack Stephens</td>
                 </tr>
                 <tr>
-                  <td>Delaney Cooksey</td>
-                  <td>Grace Murray</td>
-                  <td>Jack Stephens</td>
-                </tr>
-                <tr>
                   <td>Jordan Weber</td>
                   <td>Kimberly Novak</td>
                   <td>Kristen Vollender</td>
@@ -827,7 +822,7 @@ include("includes/navbar.php");
                     Julia Sullivan </td>
                   </tr>
                   <tr>
-                    <td>Keith Datillo </td><td>
+                    <td>Keith Dattilo</td><td>
                     Lauren Palen </td><td>
                     Lexi Stoloff </td>
                   </tr>

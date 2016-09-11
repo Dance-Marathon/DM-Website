@@ -386,11 +386,10 @@ include("includes/navbar.php");
 									William	Ware</td>
 								<td>	Yousef	Dawund</td><td>
 									Zoe	Wolfe</td><td>
-								felicia miller	</td> <td>
+								Felicia Miller	</td> <td>
 								</tr>
 								<tr>
 									<td>
-								Amanda Rutner</td>
 								<td>
 									Mari	Gelabert</td>
                 </tr>
