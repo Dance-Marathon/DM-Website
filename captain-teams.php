@@ -458,13 +458,13 @@ include("includes/navbar.php");
                   Colleen Maher </td>
                 </tr>
                 <tr>
-                  <td>Courtney Milesv</td><td>
+                  <td>Courtney Miles</td><td>
                   Gray Bean</td><td>
                   Haley Schavemaker </td>
                 </tr>
                 <tr>
                   <td>Isabelle Hadley </td><td>
-                  Jonathan Page </td><td>
+                  Johnathan Page </td><td>
                   Kiki Pavlovics </td>
                 </tr>
                 <tr>
