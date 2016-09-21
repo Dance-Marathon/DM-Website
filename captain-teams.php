@@ -470,20 +470,21 @@ include("includes/navbar.php");
                 <tr>
                   <td>Lily Putra </td><td>
                   Nick Scianna </td><td>
-                  Nicole Hennessy </td>
+                   Nicole Meeks</td>
                 </tr>
                 <tr>
-                  <td>Nicole Meeks </td><td>
+                  <td>
                   Paras Mehta </td><td>
                   Patty Ferrer </td>
+                  <td>Rachel Mathison </td>
                 </tr>
                 <tr>
-                  <td>Rachel Mathison </td><td>
-                  Robbie Reed </td><td>
+                <td> Robbie Reed </td><td>
                   Sam Heekin </td>
+                  <td>Taylor Munroe </td>
                 </tr>
                 <tr>
-                  <td>Taylor Munroe </td><td>
+                  <td>
                   Toni Deane </td>
                 </tr>
               </table>
