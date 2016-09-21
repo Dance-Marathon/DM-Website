@@ -848,11 +848,11 @@ include("includes/navbar.php");
               <div class="panel-body">
                 <h4>Description</h4>
                 The Recruitment Team is responsible for the recruitment of Dancers, Captains and organizations to participate in Dance Marathon at UF. Throughout the year, Captains will contact various campus organizations to convey the miracles Dance Marathon creates and how they can give back to their local Children’s Miracle Network Hospital. Captains work to cultivate the skills of the next generation of Dance Marathon leaders, and to raise awareness of the organization and its cause to a variety of communities.
-                <h4>Assistant Director of Canning </h4>
+                <h4>Assistant Director of Organization Relations </h4>
                 Erin Reilly
-                <h4>Assistant Director of Campus Representation</h4>
+                <h4>Assistant Director of Campus Relations</h4>
                 Madison Grasty
-                <h4>Assistant Director of Presentations</h4>
+                <h4>Assistant Director of Membership Development</h4>
                 Stephanie Ira
                 <h4>Captains</h4>
                 <table style="width:100%">
