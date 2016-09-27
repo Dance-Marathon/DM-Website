@@ -24,11 +24,6 @@
       <div class="carousel-inner">
 
 				<div class="item active">
-					<a href="/captain-teams" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Applications.png"></a>
-
-				</div>
-
-				<div class="item ">
           <img class="img-responsive"  src="assets/images/slider/TotalDM2016.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
