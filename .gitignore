@@ -1,6 +1,7 @@
 node_modules
 includes/head.php
 dist/
+.idea/
 
 moralentines.php
 staffapp.php
