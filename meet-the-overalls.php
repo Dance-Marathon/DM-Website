@@ -313,6 +313,7 @@
 						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
+                        <li><a href="/alumni">DM Alumni</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams" >Captain Teams</a></li>
 						<li><a class="active">Meet the Overalls</a></li>

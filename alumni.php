@@ -1,7 +1,7 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Alumni | About | Florida Dance Marathon';
-	$GLOBALS['parent'] = 'about';
+	$GLOBALS['page_title'] = 'Alumni | Get Involved | Florida Dance Marathon';
+	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
 
@@ -54,15 +54,27 @@ a.       Seeing the LINEDANCE for the first time as a freshman and knowing I wan
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="/uf-health">CMN & UF Health</a></li>
-            <li><a href="/our-story">Our Story</a></li>
-            <li><a href="/dmaa">DMAA</a></li>
-            <li><a class="active">Alumni</a></li>
-            <li><a href="/faq">FAQ</a></li>
+              <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
+              <li><a href="/delegates">Delegates</a></li>
+              <li><a href="/dancers">Dancers</a></li>
+              <li><a href="active">DM Alumni</a></li>
+              <li><a href="/organizations">Organizations</a></li>
+              <li><a href="/captain-teams">Captain Teams</a></li>
+              <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+              <li><a href="/ftkrew">FTKrew</a></li>
+              <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+                <h3>About</h3>
+                <p>
+                    Since 1995, Dance Marathon at UF has raised over $12.4 million for UFHealth Shands Children's Hospital, our local Children’s Miracle Network hospital. Thanks to your dedication and support throughout your college years, we have become to the most successful student-run philanthropy in the southeastern United States.
+                </p>
+                <p>
+                    Dance Marathon at UF knows that the Gator Nation is everywhere. Formed, in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 a year FTK and offers a variety of benefits.
+                </p>
+                <h3>Benefits</h3>
       <?php if ($status == "open") { ?>
         <?php
         for($i = 0; $i < count($overalls); $i++) {

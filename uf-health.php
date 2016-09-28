@@ -26,8 +26,6 @@
           <ul>
 						<li><a class="active">CMN & UF Health</a></li>
 						<li><a href="/our-story">Our Story</a></li>
-						<li><a href="/dmaa">DMAA</a></li>
-            			<li><a href="/alumni">Alumni</a></li>
 						<li><a href="/faq">FAQ</a></li>
           </ul>
         </div>
