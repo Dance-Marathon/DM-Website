@@ -79,14 +79,13 @@
 
                 	</tr>
                     <tr height="140">
-                     <td valign="middle" width="50%" align="center"><a href="http://gainesvilleicecream.com" target="_blank"><img src="assets/images/sponsors/Sweet Dreams.png" width="263" height="120"/></a></td>
+											<td valign="middle" width="50%" align="center"><a href="http://www.gatorlandtoyota.com" target="_blank"><img src="assets/images/sponsors/GatorlandToyota.png" width="222" height="120"/></a></td>
 										 <td valign="middle" width="50%" align="center"><a href="http://nextranusa.com" target="_blank"><img src="assets/images/sponsors/Nextran.png" width="246" height="100"/></a></td>
 
                 	</tr>
 
                     <tr height="140">
                		  	<td valign="bottom" width="50%" align="center"><a href="http://chipotle.com" target="_blank"><img src="assets/images/sponsors/Chipotle.png" width="146" height="146"/></a></td>
-                        <td valign="bottom" width="50%" align="center"><a href="http://www.gatorlandtoyota.com" target="_blank"><img src="assets/images/sponsors/GatorlandToyota.png" width="222" height="120"/></a></td>
                 <!--	</tr>
                     <tr height="140">
                         <td valign="top" width="50%" align="center">&nbsp;</td>
