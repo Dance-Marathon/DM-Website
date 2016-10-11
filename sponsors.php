@@ -38,8 +38,8 @@
  			<p>For information, sign up as a sponsor, or donate in-kind items, email the External Communications Overall Director, Jacob Leuze, at <a href="mailto:jleuze@floridadm.org">jleuze@floridadm.org</a> or the Sponsorship Overall Director, Lacy Rubloff, at <a href="mailto:lrubloff@floridadm.org">lrubloff@floridadm.org</a></p>
   			<h3>In-Kind Donations</h3>
   			<p>Dance Marathon at the University of Florida graciously welcomes in-kind donations from local and national sponsors. We use in-kind donations as items in our silent auction, fundraising efforts, and food donations to feed participants at the main event and at our community events. We'd love anything your company would be willing donate.</p>
-  			<h3>Marketing Kit</h3>
-  			<a href="/docs/MarketingKit2017.pdf">&raquo; View PDF</a>
+  			<h3>Sponsorship Packet</h3>
+  			<a href="/docs/DMUF_ SponsorshipPacket.pdf">&raquo; View PDF</a>
   			<h3>Sponsor Testimonials</h3>
   			<p>"This year’s Dance Marathon event marks the seventh year Pinners Fine Shoes has been involved in what we feel is one of the most worthwhile causes on the planet!
 				As the only store in town offering such coveted UF brands as Jack Rogers, Hunter rain boots, and Longchamp Le’Pliage handbags, seven years ago we thought our DM market day would be a great way to introduce our store to hundreds of Gator girls but never realized what the almost spiritual experience this thing would mean to us personally.

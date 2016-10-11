@@ -80,7 +80,7 @@
           </div>
 
           <!-- Corporate Donation Tab -->
-          <div class="panel panel-default">
+        <!--  <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="headingThree">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -100,7 +100,7 @@
 
               </div>
             </div>
-          </div>
+          </div>-->
 
           <!-- Incentive Donation Tab -->
           <div class="panel panel-default">
