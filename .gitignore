@@ -6,3 +6,5 @@ moralentines.php
 staffapp.php
 test.php
 *.db
+.idea/
+*.orig
