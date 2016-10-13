@@ -37,7 +37,7 @@ include("includes/navbar.php");
 			</div>
 			<div class="col-md-8 col-md-push-1">
 				<?php if ($status == "open") { ?>
-				<h2>Resiger to Fundraise</h2>
+				<h2>Register to Fundraise</h2>
 				<p> Registring to fundraise is pretty easy! </br>
 
 					Just follow the steps bellow:</P>
