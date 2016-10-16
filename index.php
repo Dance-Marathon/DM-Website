@@ -49,6 +49,10 @@
         <!-- End Item -->
 
 
+				<div class="item">
+				   <a href="http://events.dancemarathon.com/event/DancerReg" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/DancerRegistrationWeb.png"></a>
+
+				</div>
 
         <!-- End Item -->
 
