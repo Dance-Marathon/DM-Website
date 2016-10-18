@@ -52,6 +52,7 @@ include("includes/navbar.php");
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
             <h3>Dancers</h3>
+            <p><b>	Dancer Registration for DM at UF 2017 is now open until October 21st. Sign up <a href= "http://events.dancemarathon.com/event/DancerReg">here</a></b></p>
             <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun line dance, enjoy live entertainment, yummy food, and hear firsthand stories from our very own Miracle Families. There are a limited number of dancer spots determined by participation and fundraising, so don't miss your chance to register today!</p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
