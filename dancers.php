@@ -58,6 +58,7 @@ include("includes/navbar.php");
             <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe>
             &nbsp;<br/>
             <h3>Register to Dance</h3>
+            <p><b>	Dancer Registration for DM at UF 2017 is now open until October 21st. Sign up <a href= "http://events.dancemarathon.com/event/DancerReg">here</a></b></p>
             <p>Registration to be a Dancer at Dance Marathon is open for two weeks in the fall and two weeks in the spring. In order to be eligible to dance, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
             <p>Registering to dance also does not guarantee a dancer spot. Dancer spots are allocated in the spring based off of organizational or individual achievements</p>
