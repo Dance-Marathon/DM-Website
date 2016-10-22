@@ -23,7 +23,7 @@
       </ol>
       <div class="carousel-inner">
 
-				<div class="item">
+				<div class="item active">
           <img class="img-responsive"  src="assets/images/slider/TotalDM2016.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
@@ -40,10 +40,7 @@
           </div>
         </div>
         <!-- End Item -->
-				<div class="item active">
-					 <a href="http://events.dancemarathon.com/event/DancerReg" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/DancerRegistrationWeb.png"></a>
 
-				</div>
 				<!-- End Item -->
 
 				<div class="item">
