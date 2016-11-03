@@ -28,6 +28,7 @@ include("includes/navbar.php");
 						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a class="active">Dancers</a></li>
+            <li><a href="/alumni">DM Alumni</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
