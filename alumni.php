@@ -1,37 +1,55 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Alumni | About | Florida Dance Marathon';
-	$GLOBALS['parent'] = 'about';
+	$GLOBALS['page_title'] = 'DM Alumni | Get Involved | Florida Dance Marathon';
+	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
 
   $overalls = array(
     array(
-      'name'                  =>  'Matt Thalhamer',
-      'previous_involvement'  =>  'I danced freshman year, Morale staff sophomore year, then Morale Captain Junior and Senior year.',
-      'fun_fact'              =>  'I think every fact about me is fun BUT if I had to pick one, then I guess I’ll say that I’ve caught a pass from an NFL Pro Bowl MVP Quarterback',
-      'favorite_memory'       =>  '<p>Impossible to pick one, unless I can say every single moment.  So here are some highlights:</br>
-a.       Seeing the LINEDANCE for the first time as a freshman and knowing I wanted to be one of those people dancing on stage in crazy costumes
-</br>b.      Being on the Morale stage in 2013 when they raised the numbers seeing we broke $1 million
-</br>c.       Moralentines Day
-</br>d.      Seeing people’s reaction each time we got to reveal the 2014 LINEDANCE to them for the first time
-</br>e.      Every random moment in between with the goofiest, funniest, and most caring people I know (lego movie/boxtrolls & rafreaki, HSDMs, every Tuesday meeting, every social/jocial, post DM bonding, big/little, going out in a onesie, kickball/5k, starting a “taped down tarps” chant, when Kyle/Dave shaved his beard)
-</br>f.        Okay I need to stop now cause I could go on forever.</p>',
-      'continued'             =>  '<p>While working for an investment firm for a year, I was involved with DM through donations and an unbelievable amount of FOMO.  I went back to my job after attending DM 2015 knowing I needed to make a change in my career.  It just so happened that the Children’s Miracle Network Hospitals posted on Facebook about job openings less than a week later.  A spot was open for a Data Analyst.  After a few rounds of interviews, I was offered the position and accepted instantaneously.  I began working with CMNH in July and have never been happier.  It’s still a surreal feeling every day I come to work, and I love seeing and helping with all of the other avenues that CMNH fundraises in addition to Dance Marathons in pursuit of their One Billion Dollar goal. </p>',
-      'image'                 =>  'MattT'
+      'name'                  =>  'Jorge Sanchez',
+      'previous_involvement'  =>  '<p>2011: Operations Captain</br>2012: Operations Overall</br>2013: Internal Communications Overall DM 2013</p>',
+      'fun_fact'              =>  'I have watched The Office all the way through three times.',
+      'favorite_memory'       =>  '<p>It is almost impossible to pick one, however I will never forget how incredile it was to watch the DM Rave from the top of the O’Dome.</p>
+      </p>',
+      'continued'             =>  'I am currently an Education Consultant while pursuing a Master of Health Administration at the University of South Florida in Tampa, FL. The spirit of Dance Marathon, and the desire to help others, does not go away once you graduate. Since graduating in 2013 I have volunteered with the Pediatric Cancer Foundation in Tampa, FL. This organization works to fund Phase 1 Clincial Trials for pediatric cancer research.',
+      'image'                 =>  'sanchez'
     ),
     array(
-      'name'                  =>  'Joelle Waksman',
-      'previous_involvement'  =>  'I was involved for 5 years! Dancer &#39;09 --> Morale Staff &#39;10 --> Morale Captain &#39;11 --> Morale Captain/Linedance Team &#39;12--> Morale Overall &#39;13. ',
-      'fun_fact'              =>  'I once got a concussion because of a dinosaur fight. Also, I had a weave. Also, I&#39;m half Cuban! ',
-      'favorite_memory'       =>  '<p>Literally every single moment of the 5 years I was involved, impossible to pick but here are some highlights:
-</br>- Dancing on the Field. In 2013, the Overall Team was able to learn, practice and perform a dance with the Pride of the Sunshine, University of Florida&#39;s Gator Marching Band during a halftime show! It was amazing.
-</br>- Counting coins in DX. Throughout the year when I was Morale Overall, I passed around an old pickle jar each meeting to collect any spare change morale captains had with the intension of counting it and donating it to our team at the end of the year. When it came time to do just that, a couple of my captains (Matt Thalhamer, and Kyle Carr) and I spent the entire morning driving around to different banks in Gainesville to try and get them to count it for us. When no one could, we ended up sitting on the floor of Delta Chi, Room 12-13 and counting them ourselves. We raised at least $100 if not more.
-</br>- The Final Morale Meeting at Dance Marathon 2014. Impossible to put into words the energy, and love and commitment flowing around in that 20 minute meeting, but trust me it was unbeatable.
-</br>- Oh, and also all of the line dance reveals. Whether I was a dancer, or I was the overall showing it to my team of captains for the first time with the line dance team, THE BEST FEELING IN THE WORLD.
-</br>- Oh, and of course all of the total reveals - hello. Okay, I&#39;m done.</p></p>',
-      'continued'             =>  'I live in New York City now, which is not Gainesville, but it&#39;s still pretty good. The minute I landed on this island I got involved with some other DM Alum, with New York City&#39;s own City-Wide Dance Marathon for young adults, called The Stand! It just happened in October and it was great. I was on the Morale Committee and actually was a part of a team of 2 who created the linedance, which was a huge success! I plan on getting even more involved next year!! FTK!',
-      'image'                 =>  'JoelleW'
+      'name'                  =>  'Madison Hager',
+      'previous_involvement'  =>  '<p>2009: Dancer</br>2010: Dancer and Delegate</br>2011: Hospitality Captain</br>2012: Hospitality Overall Director</br>2013: External Communications Director</br>2015: DMA Board Member</p>',
+      'fun_fact'              =>  'I have visited all 50 states (and am originally from Iowa).',
+      'favorite_memory'       =>  '<p>My favorite DM memory isn’t quite a memory, but a continual experience of being able to watch the miracle children grow up! I still remember the moment when I met Zander W. in 2009 (with a monkey baby leash on).</p>
+      </p>',
+      'continued'             =>  'I am currently living in Washington, DC. As alumni, we now have the opportunity not only to continue to raise awareness and financial support for both DM and CMNH, but do so outside of the Gainesville market. DM 2017 will be the ninth year I am involved with the organization and can’t wait to visit in person! I also still carry a keychain from CMNH that is the average size of a premature baby’s hand with me everywhere I go to remind me how fortunate I am.',
+      'image'                 =>  'Hager'
+    ),
+    array(
+      'name'                  =>  'Eden Joyner',
+      'previous_involvement'  =>  '<p>2009: Dancer</br>2010: Public Relations Captain</br>2011: Public Relations Captain</br>2012: Public Relations Overall Director</p>',
+      'fun_fact'              =>  'My cat is named Admiral Catbar.',
+      'favorite_memory'       =>  '<p>It’s hard to pick just one. Flash mobs to raise awareness, Party Rocking with miracle children and coming back to Dance Marathon 2013 as an alumni to witness the $1 million milestone.</p>
+      </p>',
+      'continued'             =>  'Dance Marathon is more than just an event. It’s a mentality. Being involved in Dance Marathon at UF taught me how to be involved in my community and constantly give back. Since graduation and moving to San Francisco, CA, I have participated in several young professional Dance Marathons, including serving as Director of Communications for the first annual Bay Area Dance Marathon. With the creation of the UF DM Alumni group, I was able to stay connected with the same passionate individuals and families who inspired me many years ago. I will continue to raise funds and awareness for the cause for many years to come.',
+      'image'                 =>  'Joyner'
+    ),
+    array(
+      'name'                  =>  'Garrett Chappell',
+      'previous_involvement'  =>  '<p>2010: Dancer</br>2011: Marketing Captain</br>2012: Marketing Overall</br>2013: Recruitment Overall</p>',
+      'fun_fact'              =>  'I spent my 25th birthday hiking Patagonia in a snowstorm.',
+      'favorite_memory'       =>  '<p>Aside from being part of the Million Dollar team, I will never forget the low country boil the Ferrell Family invited us to on St. Patrick’s Day.</p>
+      </p>',
+      'continued'             =>  'Almost 4 years since graduating and moving to Jacksonville, FL, I still take every chance I get to inform individuals I meet about the incredible things Dance Marathon at UF is accomplishing. It is an honor to watch this organization grow each year and a privilege to be able to connect with our alumni through the DMA and keep them engaged with our incredible cause.',
+      'image'                 =>  'Chappell'
+    ),
+    array(
+      'name'                  =>  'Jamie Heekin',
+      'previous_involvement'  =>  '<p>2011: Dancer</br>2012: Community Events Captain</br>2013: Community Events Overall</br>2014: Overall Director</p>',
+      'fun_fact'              =>  'There is a mountain in Antarctica named Mount Heekin.',
+      'favorite_memory'       =>  '<p>Dancing on the field with Miracle Children and the UF Marching Band during the halftime show in the Swamp.</p>
+      </p>',
+      'continued'             =>  'After graduating from UF, I spent a year working at UF Health Shands with adult and pediatric populations. I was able to witness firsthand how countless children and their families benefit from the funds raised by DM at UF. Since that time, I have also participated in Jacksonville Citywide Dance Marathon. I am currently in Houston, Texas studying to be a PA in the Texas Medical Center. Through my rotations, I have the opportunity to practice with kids who are fighting in a CMN Hospital in Texas.',
+      'image'                 =>  'Heekin'
     )
   );
 ?>
@@ -41,7 +59,7 @@ a.       Seeing the LINEDANCE for the first time as a freshman and knowing I wan
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Alumni Spotlight</h1>
+    			<h1>DM Alumni</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -54,17 +72,43 @@ a.       Seeing the LINEDANCE for the first time as a freshman and knowing I wan
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="/uf-health">CMN & UF Health</a></li>
-            <li><a href="/our-story">Our Story</a></li>
-            <li><a href="/dmaa">DMAA</a></li>
-            <li><a class="active">Alumni</a></li>
-            <li><a href="/faq">FAQ</a></li>
+            <li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
+            <li><a href="/delegates">Delegates</a></li>
+            <li><a href="/dancers">Dancers</a></li>
+            <li><a class="active">DM Alumni</a></li>
+            <li><a href="/organizations">Organizations</a></li>
+            <li><a href="/captain-teams">Captain Teams</a></li>
+            <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+            <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
+            <li><a href="/ftkrew">FTKrew</a></li>
+<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
+      <h3>Get Involved</h3>
+      <p>Your commitment to a worthy cause doesn't have to end after you graduate. Join DMA and stay FTK for years to come. <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1353">Become a member or renew your membership today.</a></p>
+      <p>Be sure to like our <a href="https://www.facebook.com/FloridaDMAlumni?fref=ts">alumni page on Facebook</a> to stay connected with the rest of your Dance Marathon alumni family.</p>
+      <h3>About</h3>
+      <p>Since 1995, Dance Marathon at UF has raised over $12.4 million for UFHealth Shands Children's Hospital, our local Children’s Miracle Network hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 a year FTK and offers a variety of benefits.</p>
+      </p>
+      <h3>Benefits</h3>
+      <ul>
+        <li>Invitation to The Miracle Gala sponsored by the UFAA on March 24, 2017</li>
+        <li>An official DMA t-shirt at the event (March 25-26, 2017)</li>
+        <li>DMA social Saturday night</li>
+        <li>Miracle Breakfast on Sunday of the event</li>
+        <li>Preferred floor access at the event</li>
+        <li>Special offers to the online DM Store</li>
+        <li>Newsletters keeping you up to date on the happenings of DM at UF, the DMA and more!</li>
+        <li>Access to the Family Room during the Event</li>
+      </ul>
+      <p></p>
+      <h3>Meet the DMA Board of Directors</h3>
+      </p>
       <?php if ($status == "open") { ?>
         <?php
+
         for($i = 0; $i < count($overalls); $i++) {
           if($i % 3 == 0) {
             echo '<div class="row">';

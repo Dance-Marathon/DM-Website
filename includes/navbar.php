@@ -17,8 +17,8 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/uf-health">CMNH & UF Health</a></li>
 						<li><a href="/our-story">Our Story</a></li>
-						<li><a href="/dmaa">DMAA</a></li>
-            			<li><a href="/alumni">Alumni</a></li>
+						<!--<li><a href="/dmaa">DMAA</a></li>-->
+            			<!--<li><a href="/alumni">Alumni</a></li>-->
 						<li><a href="/faq">FAQ</a></li>
 					</ul>
 				</li>
@@ -28,6 +28,7 @@
 						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
+						<li><a href="/alumni">DM Alumni</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>

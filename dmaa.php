@@ -1,5 +1,8 @@
+
 <?php
-	$status = "open";
+/*header("Location: http://www.floridadm.org/alumni.php"); /* Redirect browser */
+/*exit();*/
+	$status = "close";
 	$GLOBALS['page_title'] = 'DMAA | About | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'about';
 	include("includes/head.php");
