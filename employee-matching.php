@@ -62,8 +62,8 @@
 
       <h4>Address Field</h4>
       <address>
-          PO BOX 100336<br />
-          Gainesville, FL 32610-0336
+          PO BOX 100386<br />
+          Gainesville, FL 32610-0386
       </address>
 
       <h3>Alternative Donation Location</h3>
@@ -74,27 +74,27 @@
       Children's Miracle Network<br/>
       <strong>ATTN:</strong> Dance Marathon at the University of Florida
       </address>
-    
+
       <h4>Address Field</h4>
       <address>
         205 W 700 S<br />
-        Salt Lake City, Utah 84101-2715<br />    
+        Salt Lake City, Utah 84101-2715<br />
       </address>
-    
+
       <p>
         If your company requires verification by a W9 form, please visit these links:
       </p>
         <ul>
             <li>
-              <a href="assets/PDFs/W-9 Shands Healthcare.pdf">Shands Teaching Hospital and Clinic, Inc.</a>
+              <a href="assets/PDFs/W-9_Shands_HealthCare.pdf">Shands Teaching Hospital and Clinic, Inc.</a>
             </li>
             <li>
-              <a href="assets/PDFs/Children's Miracle Network W-9.pdf">Children's Miracle Network</a>
+              <a href="assets/PDFs/CMNW-9.pdf">Children's Miracle Network</a>
             </li>
         </ul>
       <p>
         <strong>
-          * PLEASE NOTE: Notify Jesse Sands at <a href="mailto:jsands@floridadm.org">jsands@floridadm.org</a> that a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process.  Thank you for multiplying your miracles! 
+          * PLEASE NOTE: Notify Jesse Sands at <a href="mailto:jsands@floridadm.org">jsands@floridadm.org</a> that a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process.  Thank you for multiplying your miracles!
         </strong>
       </p>
       <p>
@@ -102,7 +102,7 @@
           ** Important - Please do not fill out any forms sent with checks, turn them in directly into the Finance Director reachable at <a href="mailto:jsands@floridadm.org">jsands@floridadm.org</a>
         </strong>
       </p>
-        
+
       <?php } else { echo 'This page is currently closed.'; } ?>
       </div>
     </div>

@@ -76,7 +76,6 @@
 
 									   <ul><a href="/organizations"><b>Organization:</b></a> 	Student organizations that are currently involved in fundraising for our cause. </ul>
                      <ul><a href="/dancers"><b>Dancer:</b></a> Individuals who stand on their feet for 26.2 hours during our event in March to raise funds and awareness for the kids at UF Health Shands Children’s Hospital.</br>
-										 								<b>	Dancer Registration for DM at UF 2017 is now open until October 21st. Sign up <a href= "http://events.dancemarathon.com/event/DancerReg">here</a></b> </ul>
 										 <ul><a href="/delegates"><b>Delegate:</b> </a>  A Delegate is the representative from an organization participating in Dance Marathon whose primary responsibility is to convey information to the members of his or her organization and to motivate them throughout the year.</ul>
 										 <ul><a href="/emerging-leaders"><b>Emerging Leader:</b> </a> Members of our new Emerging Leaders Program who work alongside the Recruitment Team, tackling and brainstorming ideas to ensure a successful future of our program.</ul>
                      <ul><a href="/captain-teams"><b>Captain:</b> </a> Member of 1 in 15 teams who take on their respective yearlong responsibilities to expand and promote our organization. </ul>
