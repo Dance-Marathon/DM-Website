@@ -95,7 +95,7 @@
         array(
             'name'  => 'Dylan K.',
             'description' => 'Dylan was your normal, perfectly healthy, six year old boy. He enjoyed riding his bike, going to the pool, swimming, playing with friends, reading and video games. He was extremely bright and loved spending time with his pets. Dylan had been getting progressively sicker and sicker, losing weight, bone pain and an unrelenting fever. After numerous misdiagnoses, a simple blood test revealed that his marrow had stopped producing normal blood cells and has been taken over by leukemia/cancer. He was admitted to the PICU that night began chemotherapy the next morning. Dylan had Acute Lymphoblastic Leukemia. He received 3 ½ years of spinal, intravenous, intramuscular and oral chemotherapy. He continues to receive follow up care due to lasting effects of the chemo on his body. We all have a whole new perspective on what is really important. We have met some of the most incredible, inspiring people along this journey. It has increased our love and compassion for others infinitely. Some of the bravest people I know are children who smile and laugh through the most horrific of circumstances. My son is one of those and I am thankful for the way my eyes have been opened to the beauty and bravery of others stories. I always say how lucky we are because we have this amazing children’s hospital right in our backyard. People look at me like I am crazy, but it is truly such a blessing. We were able to close to home and family throughout the 3 ½ years of treatment. Having another young child at home, this was so important to me. We didn’t have to sacrifice anything. I had no doubt about Dylan’s team and the incredible level of care and resources available to them at Shands. I know he was cared for by the best! Shands is our home away from home. It is a happy place for us despite the horrible realities of childhood cancer because there is so much positivity, love, compassion and care from everyone there, from his main oncologist, down to the gentleman who uses to bring his breakfast and lunch from the cafeteria.',
-            'image' => 'Dylan',
+            'image' => 'DylanK',
             ),
         array(
             'name'  => 'Elizabeth C.',
@@ -250,6 +250,11 @@
             'image' => 'Lucy Jane',
             ),
             array(
+            'name' => 'Luke L.',
+            'description' => 'Luke was a perfectly healthy kid up until he was 18 months old, we started noticing he was acting differently. He started getting bruises all over his body, so when we took him to the doctor, we were told he had Acute Lymphoblastic Leukemia. He immediately started treatment at Shands and will continue to receive chemo treatments for the next 3 years. He is always smiling through all the hardships he faces every day. All the doctors and nurses love to play with Luke and he loves them all too!',
+						'image' => 'LukeL',
+            ),
+            array(
             'name' => 'Madison G.',
             'description' => 'Madison was just two years old when she came to UF Health Shands Children’s Hospital. Since being diagnosed with a Wilms Tumor in her right kidney, she has undergone surgery and experienced many hospital visits during treatment for this rare form of cancer. Madison has recovered beautifully and she is almost five years cancer free! Her mother Ashley describes their last day in the pediatric infusion room as a celebration, where Madison’s nurses gave her a trophy that she still keeps by her bed. For her parents, UF Health Shands Children’s Hospital was a no-brainer as it is where Madison’s aunt, Dr. Shelley Collins, is a pediatric doctor. Her mom reflects on being in the hospital for five days and many chemo treatments with a two year old, mentioning “the toys, games, movies and playful distractions that CMN provides the children are vital to getting through the long days.” Amazingly, the Greene family says the most positive outcome has been becoming more active in organizations, like CMN, that help ill children and their families.',
             'image' => 'Madison',
@@ -274,6 +279,11 @@
             'name' => 'Max W.',
             'description' => 'Max was born in Ohio with a Congenital Heart Defect known as Hypoplastic Left Heart Syndrome. After his first three surgeries he was brought to Florida. He had banding of his pulmonary arteries and PDA Stent in 2002, Norwood State I and Stage II combined in 2003, and an Extra-Cardiac Fontan in 2005. In 2010 he had an LPA stent placed and now he is healing great!',
 						'image' => 'Max W',
+            ),
+            array(
+            'name' => ' Mazzy J.',
+            'description' => 'Mazzy was very outgoing and active. She was always busy with school, friends and cheerleading. Mazzy found a lump on the left side of her collarbone. After going to the pediatrician, Dr. Carter sent her family to Shands which is where she was then diagnosed with cancer. Mazzy was diagnosed with Hodgkins Lymphoma in September 2015. She underwent chemotherapy and care for infections and blood transfusion. The most positive outcome has been the amazing huge amount of love and support from all different parts of our community.',
+						'image' => 'MazzyJ',
             ),
             array(
             'name' => 'Micha W.',
@@ -366,6 +376,11 @@
             'name' => 'Tyler B.',
             'description' => 'We learned that Tyler had a cleft several months before he was born. We saw the craniofacial team, who helped prepare us for his birth and what challenges we may face afterwards There was a team of specialists present when he was born. He had surgery at three months, and was readmitted a few days later with complications. After a challenging recovery, he regained his strength and grew to be the sweet, lovable 7-year-old boy he is now. He loves Children’s Miracle Network and UF Health Shands Children’s Hospital because, as he says, they ’sewed him a new smile’. We continue to see the craniofacial team at Shands and benefit from the incredible team there!',
             'image' => 'Tyler P',
+            ),
+            array(
+            'name' => 'Veronica D.',
+            'description' => 'Veronica has always been a very happy kid. She had a strong pain in her back which brought her and her family to Shands. She was diagnosed with B Acute Lymphoblastic Leukemia and still undergoes treatment.',
+						'image' => 'VeronicaD',
             ),
             array(
             'name' => 'William C.',
