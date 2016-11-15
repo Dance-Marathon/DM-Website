@@ -23,7 +23,7 @@
       </ol>
       <div class="carousel-inner">
 
-				<div class="item active">
+				<div class="item">
           <img class="img-responsive"  src="assets/images/slider/TotalDM2016.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
@@ -40,7 +40,10 @@
           </div>
         </div>
         <!-- End Item -->
+				<div class="item active">
+					<a href="http://floridadm.org/donate" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Tt.png"></a>
 
+				</div>
 				<!-- End Item -->
 
 				<div class="item">
