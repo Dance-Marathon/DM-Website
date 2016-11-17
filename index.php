@@ -41,7 +41,7 @@
         </div>
         <!-- End Item -->
 				<div class="item active">
-					<a href="http://floridadm.org/donate" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Tt.png"></a>
+					<a href="http://floridadm.org/donate" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Web-01.png"></a>
 
 				</div>
 				<!-- End Item -->
