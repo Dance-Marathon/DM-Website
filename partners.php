@@ -199,7 +199,7 @@
               <div class="panel-body">
               <table width="100%">
               	<tr>
-                	<td valign="top">Pinner’s<br/>McAllisters<br/>Bilmar Beach Resort<br/>Tampa Bay Rays<br/>Gainesville Dermatology & Skin<br/>Social 28<br/>AudioFi<br/>Falafel King<br/>Welzoo<br/>Earth Fare<br/>CordaRoy’s<br/>Gigi’s Cupcakes<br/>Wing Stop<br/>Silent Disco<br/></td>
+                	<td valign="top"><a href="http://pinnersfineshoes.com/" target="_blank">Pinner’s</a><br/>McAllisters<br/>Bilmar Beach Resort<br/>Tampa Bay Rays<br/>Gainesville Dermatology & Skin<br/>Social 28<br/>AudioFi<br/>Falafel King<br/>Welzoo<br/>Earth Fare<br/>CordaRoy’s<br/>Gigi’s Cupcakes<br/>Wing Stop<br/>Silent Disco<br/></td>
                 	<td valign="top">Olive Garden<br/>Henri Girl<br/>Mojo Hogtown BBQ<br/>Planet Smoothie<br/>Civilization<br/>Gainesville Health & Fitness<br/>Follett<br/>Dillards<br/>Fit2Run<br/>The Colorful Gator Boutique<br/>BurgerFi<br/>Vellos<br/>Copper Monkey<br/>Cymplify<br/></td>
                 	<td valign="top">Thornebrook Chocolates<br/>Sababa<br/>Tioga Town Center<br/>UF RecSports<br/>Root and Pecker<br/>O2B Kids<br/>Campus Juice<br/>Greek Divine & More<br/>Knot and Bend<br/>Rack Room Shoes<br/>Jersey Mikes<br/>The Tab<br/>Peach Valley<br/>Firehouse Subs<br/></td>
                 	<td valign="top">Humble Pie<br/>Tecnicolors Salon<br/>CYM Coffee<br/>TGI Fridays<br/>Ballyhoo<br/>Sephora<br/>Lollicup<br/>Francesca’s<br/>Harvest Thyme Café<br/>Earth Origins<br/>Tire Kingdom<br/>Target<br/>43rd Street Deli<br/>Bagels Unlimited<br/></td>
