@@ -26,7 +26,7 @@
           <ul>
             <li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
             <li><a class="active">Our Partners</a></li>
-            <li><a href="/employee-matching">Employee Matching</a></li>
+						<li><a href="/employee-matching">Employee Matching</a></li>
           </ul>
         </div>
       </div>
@@ -146,10 +146,10 @@
                 	</tr>
 	              		<tr>
 											<!--	<a href="https://www.facebook.com/charliessnowshack?rf=221989831248290" target="_blank" >Texas Roadhouse</a><br/><a href="http://www.keurig.com/" target="_blank">UFStudentHealthCenter</a><br/><a href="http://shcc.ufl.edu/" target="_blank">UF Student Health Care Center</a><br/><a href="http://www.smokinnotes.com/" target="_blank">Smokin' Notes</a><br/> <a href="http://www.sg.ufl.edu/" target="_blank">UF Student Government</a><br/><a href="http://www.recsports.ufl.edu/" target="_blank">Rec Sports</a><br/>
--->                 	<td valign="top">Texas Roadhouse<br/>bouncing Big<br/>Gator Sound and Lighting<br/>Hillel<br/> </td>
-                     	<td valign="top">Giggle<br/>Solano Cycles<br/>Lloyd Clarke Sports <br/>Two Men and a Truck<br/> </td>
-                      <td valign="top">Norwegian Cruise Lines<br/>Shift Church<br/>Burrito Famous<br/></td>
-											<td valign="top">D’Lites Emporium <br/>BurgerQue<br/></td>
+-->                 	<td valign="top"><a href="https://www.texasroadhouse.com/" target = "_blank"> Texas Roadhouse</a><br/><a href="http://bouncinbig.com/" target="_blank">bouncing Big</a><br/><a href="http://gatorsound.com/"http://gatorsound.com/ target="_blank">Gator Sound and Lighting</a><br/><a href="http://www.ufhillel.org/" target="_blank"> Hillel</a><br/> </td>
+                     	<td valign="top"><a href="http://www.giggle.com/" target="_blank">Giggle</a><br/><a href="http://www.solanocycle.com/" target="_blank">Solano Cycles</a><br/><a href="https://www.lloydclarkesports.com/" target="_blank">Lloyd Clarke Sports</a><br/><a href="https://twomenandatruck.com/" target="_blank">Two Men and a Truck</a><br/> </td>
+                      <td valign="top"><a href="https://www.ncl.com/" target="_blank">Norwegian Cruise Lines</a><br/><a href="http://shiftchurchgainesville.com/wp/" target="_blank">Shift Church</a><br/><a href="http://burritofamous.com/" target="_blank">Burrito Famous</a><br/></td>
+											<td valign="top"><a href="http://www.gatordlites.com/" target="_blank">D'Lites Emporium </a><br/><a href="http://www.burgerque.com/" target="_blank">BurgerQue</a><br/></td>
 
 
 	                	</tr>
@@ -179,9 +179,9 @@
 													<td valign="middle" width="50%" align="center"><a href="http://www.alumnihall.com" target="_blank"><img src="assets/images/sponsors/AlumniHall.png" width="100" height="78"/></a></td>
 	                	</tr>
 										<tr heigh ="140">
-											<td valign="top">Bento<br/>Bagel Bakery<br/>Study Edge<br/></td>
-											<td valign="top">Yogurtology<br/>Hyppo <br/>Hoggetowne Music <br/></td>
-											<td valign="top">Dunkin' Donuts<br/>Hammock Beach Resort<br/></td>
+											<td valign="top"><a href="http://www.bentocafesushi.com/" target="_blank">Bento</a><br/><a href="http://www.bagelbakerygainesville.com/" target="_blank">Bagel Bakery</a><br/><a href="http://studyedge.com/" target="_blank">Study Edge</a><br/></td>
+											<td valign="top"><a href="http://yogurtology.com/" target="_blank">Yogurtology</a><br/><a href="http://www.thehyppo.com/" target="_blank">Hyppo</a><br/><a href="http://www.hoggtownemusic.com/" target="_blank">Hoggestowne Music</a><br/></td>
+											<td valign="top"><a href="https://www.dunkindonuts.com/" target="_blank">Dunkin' Donuts</a><br/><a href="http://www.hammockbeach.com/" target="_blank">Hammock Beach Resort</a><br/></td>
 										</tr>
 
                 </table>
@@ -199,10 +199,67 @@
               <div class="panel-body">
               <table width="100%">
               	<tr>
-                	<td valign="top"><a href="http://pinnersfineshoes.com/" target="_blank">Pinner’s</a><br/>McAllisters<br/>Bilmar Beach Resort<br/>Tampa Bay Rays<br/>Gainesville Dermatology & Skin<br/>Social 28<br/>AudioFi<br/>Falafel King<br/>Welzoo<br/>Earth Fare<br/>CordaRoy’s<br/>Gigi’s Cupcakes<br/>Wing Stop<br/>Silent Disco<br/></td>
-                	<td valign="top">Olive Garden<br/>Henri Girl<br/>Mojo Hogtown BBQ<br/>Planet Smoothie<br/>Civilization<br/>Gainesville Health & Fitness<br/>Follett<br/>Dillards<br/>Fit2Run<br/>The Colorful Gator Boutique<br/>BurgerFi<br/>Vellos<br/>Copper Monkey<br/>Cymplify<br/></td>
-                	<td valign="top">Thornebrook Chocolates<br/>Sababa<br/>Tioga Town Center<br/>UF RecSports<br/>Root and Pecker<br/>O2B Kids<br/>Campus Juice<br/>Greek Divine & More<br/>Knot and Bend<br/>Rack Room Shoes<br/>Jersey Mikes<br/>The Tab<br/>Peach Valley<br/>Firehouse Subs<br/></td>
-                	<td valign="top">Humble Pie<br/>Tecnicolors Salon<br/>CYM Coffee<br/>TGI Fridays<br/>Ballyhoo<br/>Sephora<br/>Lollicup<br/>Francesca’s<br/>Harvest Thyme Café<br/>Earth Origins<br/>Tire Kingdom<br/>Target<br/>43rd Street Deli<br/>Bagels Unlimited<br/></td>
+                	<td valign="top">
+                        <a href="http://pinnersfineshoes.com/" targer="_blank">Pinner's</a><br/>
+                        <a href="https://www.mcalistersdeli.com/" target="_blank">McAllisters</a><br/>
+                        <a href="http://www.bilmarbeachresort.com" target="_blank">Bilmar Beach Resort</a><br/>
+                        <a href="http://tampabay.rays.mlb.com/index.jsp?c_id=tb" target="_blank">Tampa Bay Rays</a><br/>
+                        <a href="http://www.gainesvilledermatologyskinsurgery.com" target="_blank">Gainesville Dermatology &amp; Skin</a><br/>
+                        <a href="http://www.liveatsocial28.com/" target="_blank">Social 28</a><br/>
+                        <a href="http://audiofi.net" target="_blank">AudioFi</a><br/>
+                        <a href="http://www.falafelkingsandwiches.com/" target="_blank">Falafel King</a><br/>
+                        <a href="http://www.welzoo.com" target="_blank">Welzoo</a><br/>
+                        <a href="https://www.earthfare.com/" target="_blank">Earth Fare</a><br/>
+                        <a href="https://cordaroys.com/" target="_blank">CordaRoy’s</a><br/>
+                        <a href="https://gigiscupcakesusa.com/" target="_blank">Gigi’s Cupcakes</a><br/>
+                        <a href="http://www.wingstop.com" target="_blank">Wing Stop</a><br/>
+                        <a href="https://www.silentevents.com/locations/silent-disco-events-headphone-rentals-provider-gainesville-florida/" target="_blank">Silent Disco</a><br/></td>
+                	<td valign="top">
+                        <a href="http://www.olivegarden.com/" target="_blank">Olive Garden</a><br/>
+                        <a href="https://henrigirl.com/" target="_blank">Henri Girl</a><br/>
+                        <a href="http://www.mojobbq.com/" target="_blank">Mojo Hogtown BBQ</a><br/>
+                        <a href="http://www.planetsmoothie.com/" target="_blank">Planet Smoothie</a><br/>
+                        <a href="http://welcometocivilization.com/" target="_blank">Civilization</a><br/>
+                        <a href="https://www.ghfc.com/" target="_blank">Gainesville Health &amp; Fitness</a><br/>
+                        <a href="https://www.follett.com/" target="_blank">Follett</a><br/>
+                        <a href="http://www.dillards.com/" target="_blank">Dillards</a><br/>
+                        <a href="http://www.fit2run.com" target="_blank">Fit2Run</a><br/>
+                        <a href="https://the-colorful-gator-boutique.myshopify.com/" target="_blank">The Colorful Gator Boutique</a><br/>
+                        <a href="https://burgerfi.com/" target="_blank">BurgerFi</a><br/>
+                        <a href="http://www.vellosbrickstreetgrillfl.com/" target="_blank">Vellos</a><br/>
+                        <a href="https://www.facebook.com/The-Copper-Monkey-1506400623513/" target="_blank">Copper Monkey</a><br/>
+                        <a href="http://cymplify.com/" target="_blank">Cymplify</a><br/></td>
+                	<td valign="top">
+                        <a href="http://thornebrookchocolates.com" target="_blank">Thornebrook Chocolates</a><br/>
+                        <a href="https://www.facebook.com/SababaGville/" target="_blank">Sababa</a><br/>
+                        <a href="http://www.tiogatowncenter.com/" target="_blank">Tioga Town Center</a><br/>
+                        <a href="http://recsports.ufl.edu/" target="_blank">UF RecSports</a><br/>
+                        <a href="http://www.rootandpecker.com/" target="_blank">Root and Pecker</a><br/>
+                        <a href="http://www.o2bkids.com/" target="_blank">O2B Kids</a><br/>
+                        <a href="http://mycampusjuice.com/" target="_blank">Campus Juice</a><br/>
+                        <a href="http://greekdivineandmore.com/" target="_blank">Greek Divine &amp; More</a><br/>
+                        <a href="https://www.facebook.com/knotandbend/" target="_blank">Knot and Bend</a><br/>
+                        <a href="https://www.rackroomshoes.com/" target="_blank">Rack Room Shoes</a><br/>
+                        <a href="https://www.jerseymikes.com/" target="_blank">Jersey Mikes</a><br/>
+                        <a href="https://www.facebook.com/thetabflorida/" target="_blank">The Tab</a><br/>
+                        <a href="http://peachvalleyrestaurants.com/" target="_blank">Peach Valley</a><br/>
+                        <a href="http://www.firehousesubs.com/" target="_blank">Firehouse Subs</a><br/>
+                    </td>
+                	<td valign="top">
+                        <a href="https://www.facebook.com/humblewoodfire/" target="_blank">Humble Pie</a><br/>
+                        <a href="http://www.tecnicolors.com/" target="_blank">Tecnicolors Salon</a><br/>
+                        <a href="https://www.facebook.com/CYM-Coffee-Co-399279966791315/" target="_blank">CYM Coffee</a><br/>
+                        <a href="https://www.tgifridays.com/" target="_blank">TGI Fridays</a><br/>
+                        <a href="http://www.ballyhoogrill.com/" target="_blank">Ballyhoo</a><br/>
+                        <a href="http://www.sephora.com/" target="_blank">Sephora</a><br/>
+                        <a href="http://lollicupusa.com/" target="_blank">Lollicup</a><br/>
+                        <a href="https://www.francescas.com/" target="_blank">Francesca’s</a><br/>
+                        <a href="http://harvesthymecafe.com/" target="_blank">Harvest Thyme Café</a><br/>
+                        <a href="http://www.earthoriginsmarket.com/" target="_blank">Earth Origins</a><br/>
+                        <a href="https://www.tirekingdom.com/" target="_blank">Tire Kingdom</a><br/>
+                        <a href="http://www.target.com/" target="_blank">Target</a><br/>
+                        <a href="http://43rdstreetdeli.com/" target="_blank">43rd Street Deli</a><br/>
+                        <a href="https://www.facebook.com/BagelsUnlimited/" target="_blank">Bagels Unlimited</a><br/></td>
                     </tr>
               </table>
              </div>
