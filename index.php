@@ -95,7 +95,7 @@
       <div class="col-md-3">
         <i class="fa icon-balloon"></i>
         <h3>CMN Hospitals<br>& UF Health</h3>
-        <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UFHealth Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
+        <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
         <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
       </div>
 <!--
@@ -137,7 +137,7 @@
       </div>
       <div class="col-md-6">
         <h3>Many Places, One Common Cause</h3>
-        <p>Dance Marathon at the University of Florida is fortunate to be a piece of a larger international movement. Hundreds of Dance Marathon throughout North America raise funds and awareness for Children’s Miracle Network hospitals. UFHealth Shands Children’s Hospital is lucky enough to receive support from five Dance Marathons in the region, allowing it to make more miracles each and every day.</p>
+        <p>Dance Marathon at the University of Florida is fortunate to be a piece of a larger international movement. Hundreds of Dance Marathon throughout North America raise funds and awareness for Children’s Miracle Network hospitals. UF Health Shands Children’s Hospital is lucky enough to receive support from five Dance Marathons in the region, allowing it to make more miracles each and every day.</p>
         <div class="container-fluid" style="padding-top:3em;">
           <div class="row">
             <div class="col-xs-4">

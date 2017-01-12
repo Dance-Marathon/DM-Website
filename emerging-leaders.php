@@ -396,9 +396,9 @@ include("includes/navbar.php");
                 </tr>
               </table>
 			      </div>
-            <div role="tabpanel" class="tab-pane fade" id="FAQ">
+            	<div role="tabpanel" class="tab-pane fade" id="FAQ">
 			      	<h3>FAQ</h3>
-							<!-- 	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+							<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 									<div class="panel panel-default">
 										<div class="panel-heading" role="tab" id="headingOne">
 											<h4 class="panel-title">
@@ -490,7 +490,7 @@ include("includes/navbar.php");
 													Once accepted to the program, you will be placed into a small group of about 20 students. Each group will be lead by 2-3 Recruitment Captains, and the Captains will be responsible for teaching their groups leadership skills as well as engaging them in Dance Marathon activities and events. 						</div>
 												</div>
 											</div>
-										</div> -->
+										</div>
 						</div>
 					</div>
 				</div>

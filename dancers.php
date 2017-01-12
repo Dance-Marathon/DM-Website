@@ -53,7 +53,7 @@ include("includes/navbar.php");
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
             <h3>Dancers</h3>
-            <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun line dance, enjoy live entertainment, yummy food, and hear firsthand stories from our very own Miracle Families. There are a limited number of dancer spots determined by participation and fundraising, so don't miss your chance to register today!</p>
+            <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun Linedance, enjoy live entertainment, yummy food, and hear firsthand stories from our very own Miracle Families. There are a limited number of Dancer spots determined by participation and fundraising, so don't miss your chance to register today!</p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe>
@@ -61,7 +61,7 @@ include("includes/navbar.php");
             <h3>Register to Dance</h3>
             <p>Registration to be a Dancer at Dance Marathon is open for two weeks in the fall and two weeks in the spring. In order to be eligible to dance, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
-            <p>Registering to dance also does not guarantee a dancer spot. Dancer spots are allocated in the spring based off of organizational or individual achievements</p>
+            <p>Registering to dance also does not guarantee a Dancer spot. Dancer spots are allocated in the spring based off of organizational or individual achievements</p>
             <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Donor Drive. See <a href="/delegates.php#starting-a-team">Starting a Team</a> for more information.</p>
             <h3>Staying Healthy</h3>
             <ul>

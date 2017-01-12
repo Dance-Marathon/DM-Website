@@ -52,7 +52,7 @@ include("includes/navbar.php");
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane fade in active" id="become-a-delegate">
             <h3>What is a Delegate?</h3>
-            <p><em>del·e·gate</em> (noun): A delegate is the representative from an organization participating in Dance Marathon whose primary responsibility is to convey information to the members of his or her organization and to motivate them. Delegates are the heartbeat of Dance Marathon and we are extremely thankful for the hard work and passion they dedicate For The Kids. Each Delegate has a designated Dancer Relations captain to serve as his or her primary point of contact to answer any questions.</p>
+            <p><em>del·e·gate</em> (noun): A Delegate is the representative from an organization participating in Dance Marathon whose primary responsibility is to convey information to the members of his or her organization and to motivate them. Delegates are at the heart of our organization and we are extremely thankful for the hard work and passion they dedicate For The Kids. Each Delegate has a designated Dancer Relations Captain to serve as his or her primary point of contact to answer any questions.</p>
             <p>Synonyms: motivator, representative, leader, rockstar</p>
             <h3>Responsibilities:</h3>
             <ul>
@@ -70,7 +70,7 @@ include("includes/navbar.php");
             <h3>Delegate Tips</h3>
             <ul>
               <li>Attend all Delegate meetings. This is the most effective way to recieve and rellay information in the clearest way possible.</li>
-              <li>Utilize your designated Dancer Relations captain. They want to answer questions and be as helpful as possible!</li>
+              <li>Utilize your designated Dancer Relations Captain. They want to answer questions and be as helpful as possible!</li>
             </ul>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="starting-a-team">
