@@ -36,12 +36,9 @@
           The Pen Pal Program is a fun and exciting chance for our Miracle Families to be paired with University of Florida students who are participating in Dance Marathon. This is a unique experience for the children to interact with members from participating organizations.
          Your child will receive letters in the mail from their organizations once a month. Each month is themed and some months the organizations even send packages and videos!
           All of the correspondence is checked for appropriateness and home addresses are kept confidential.
-          This year we are implementing a new part to our Pen Pal Program; each Family will have the opportunity to have a get-together or dinner with its paired organization in the fall and again in the spring.
+          This year we are implementing a new part to our Pen Pal Program; each family will have the opportunity to have a get-together or dinner with its paired organization in the fall and again in the spring.
         </p>
-        <h3>Sweet Dreams</h3>
-        <p>
-          During the spring, our Miracle Children get the chance to invent their very own special ice cream flavors for everyone to enjoy. Schedule a time for your Miracle Family to visit the shop, take a tour and design your own dreamy treats! Even if you don't live in the Gainesville area, you are still welcome to design your own flavor. All of the “Miracle Flavors” will be displayed in the Sweet Dreams' ice cream case for all customers to try. Come hang out with your organization and enjoy a night of eating delicious treats with your family!
-        </p>
+  
         <h3>Hospitality Nights</h3>
         <p>
           Want to enjoy a nice bite to eat with DM community while raising money for the cause? There will be various times throughout the fall and spring when the Hospitality Team puts together fundraiser nights at local restaurants. We would love for you to come join in on the fun!
