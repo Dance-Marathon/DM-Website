@@ -396,7 +396,7 @@ include("includes/navbar.php");
                 </tr>
               </table>
 			      </div>
-            	<div role="tabpanel" class="tab-pane fade" id="FAQ">
+            	<!-- <div role="tabpanel" class="tab-pane fade" id="FAQ">
 			      	<h3>FAQ</h3>
 							<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 									<div class="panel panel-default">
@@ -491,7 +491,7 @@ include("includes/navbar.php");
 												</div>
 											</div>
 										</div>
-						</div>
+						</div>-->
 					</div>
 				</div>
   		</div>
