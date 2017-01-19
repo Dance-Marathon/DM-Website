@@ -262,7 +262,7 @@ background: #777275; /* For browsers that do not support gradients */
      </p>
 </div>
 </div>
-      
+
 
      <hr>
 
@@ -284,7 +284,7 @@ background: #777275; /* For browsers that do not support gradients */
      </p>
     </div>
     </div>
-     
+
 
      <hr>
 
@@ -296,6 +296,7 @@ background: #777275; /* For browsers that do not support gradients */
       <h3 id="dancerfont">(6 Dancers)</h3>
       </div>
        <div id="teamdiv">
+         <p>
          <p style="font-size:120%; color:black;">UF College of Nursing</p>
          <p style="font-size:120%; color:black;">Epsilon Sigma Alpha</p>
          <p style="font-size:120%; color:black;">Preview Staff</p>
@@ -317,7 +318,7 @@ background: #777275; /* For browsers that do not support gradients */
   </div>
   </div>
 
-    
+
      <hr>
 
 
@@ -384,7 +385,7 @@ background: #777275; /* For browsers that do not support gradients */
        </p>
        </div>
        </div>
-       
+
       <?php } else { echo 'This page is currently closed.'; } ?>
     </div>
   </div>
