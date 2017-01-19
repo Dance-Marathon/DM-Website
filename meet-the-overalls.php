@@ -315,6 +315,7 @@
 						<li><a href="/dancers">Dancers</a></li>
             <li><a href="/alumni">DM Alumni</a></li>
 						<li><a href="/organizations">Organizations</a></li>
+            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 						<li><a href="/captain-teams" >Captain Teams</a></li>
 						<li><a class="active">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
