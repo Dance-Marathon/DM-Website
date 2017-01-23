@@ -332,11 +332,11 @@ background: #777275; /* For browsers that do not support gradients */
        <p>
          <p style="font-size:120%; color:black;">Jewish Student Union</p>
          <p style="font-size:120%; color:black;">Gamma Eta</p>
+         <p style="font-size:120%; color:black;">College of Education</p>
          <p style="font-size:120%; color:black;">Florida Club Swim and Dive</p>
          <p style="font-size:120%; color:black;">Freshman Leadership Council</p>
-         <p style="font-size:120%; color:black;">Freshman Leadership Engineering Group</p>
          <p style="font-size:120%; color:black;">SPTA</p>
-         <p style="font-size:120%; color:black;">College of Education</p>
+         <p style="font-size:120%; color:black;">Freshman Leadership Engineering Group</p>
          <p style="font-size:120%; color:black;">UF Navy/Marine ROTC</p>
          <p style="font-size:120%; color:black;">Phi Delta Theta</p>
          </p>
@@ -357,7 +357,7 @@ background: #777275; /* For browsers that do not support gradients */
            <p style="font-size:120%; color:black;">First Year Florida Broward</p>
            <p style="font-size:120%; color:black;">National Society of Collegiate Scholars</p>
            <p style="font-size:120%; color:black;">Phi Epsilon Kappa (PEK)</p>
-           <p style="font-size:120%; color:black;">Pre- Legal Honor Society</p>
+           <p style="font-size:120%; color:black;">Pre-Legal Honor Society</p>
            <p style="font-size:120%; color:black;">College of Medicine</p>
            <p style="font-size:120%; color:black;">Heal The World</p>
            <p style="font-size:120%; color:black;">Indian Student Association</p>
