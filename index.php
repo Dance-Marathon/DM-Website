@@ -42,7 +42,7 @@
 
         <!-- End Item -->
 				<div class="item active">
-					<a href="http://floridadm.org/ft5k" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/FT5K.png"></a>
+					<a href="http://events.dancemarathon.com/event/dancerreg" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/DancerReg.png"></a>
 
 				</div>
 				<!-- End Item -->
