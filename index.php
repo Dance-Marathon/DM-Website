@@ -48,6 +48,14 @@
 				<!-- End Item -->
 
 				<div class="item">
+					<a href="http://floridadm.org/ft5k" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/FT5K.png"></a>
+
+				</div>
+
+
+				<!-- End Item -->
+
+				<div class="item">
 					<a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Release.png"></a>
 
 				</div>
