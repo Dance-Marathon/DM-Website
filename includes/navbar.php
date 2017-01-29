@@ -32,6 +32,12 @@
 						<li><a href="/organizations">Orgs</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
+<<<<<<< HEAD
+=======
+						<li><a href="/alumni">DM Alumni</a></li>
+						<li><a href="/organizations">Organizations</a></li>
+						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+>>>>>>> master
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/Overalls">Overalls</a></li>
 						<li><a href="/emerging-leaders">ELP</a></li>
