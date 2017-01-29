@@ -19,6 +19,7 @@
 						<li><a href="/our-story">Our Story</a></li>
 						<li><a href="/fast-facts">Fast Facts / Nomenclature</a></li>
 						<li><a href="/press-releases">Press Release</a></li>
+						<li><a href ="/blog">Blog</a></li>
 						<!--<li><a href="/dmaa">DMAA</a></li>-->
             			<!--<li><a href="/alumni">Alumni</a></li>-->
 						<li><a href="/faq">FAQ</a></li>
@@ -81,9 +82,12 @@
 
 				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">DM Store</a></li>
 
-				  <li><a href="/blog/">Blog</a></li>
-
+				 <!-- 
+				 <li><a href="/blog/">Blog</a></li> 
+				 -->
+				 
 				<li class="open"><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank" class="active">Donate</a></li>
+				
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
 				  <li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube"></i></a></li>
