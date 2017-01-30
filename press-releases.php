@@ -1,7 +1,7 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Press Releases | Press | Florida Dance Marathon';
-	$GLOBALS['parent'] = 'press';
+	$GLOBALS['page_title'] = 'Press Releases | About | Florida Dance Marathon';
+	$GLOBALS['parent'] = 'about';
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
@@ -24,10 +24,12 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-			<li><a href="/nomenclature.php">Nomenclature</a></li>
-			<li><a class="active">Press Releases</a></li>
-			<li><a href="/press-contacts.php">Press Contacts</a></li>
-			<li><a href="/fast-facts.php">Fast Facts</a></li>
+            <li><a href="/uf-health">CMN & UF Health</a></li>
+            <li><a href="/our-story">Our Story</a></li>
+            <li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li><!-- page not made-->
+            <li><a class="active">Press Release</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/faq">FAQ</a></li>
           </ul>
         </div>
 			</div>

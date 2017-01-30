@@ -1,7 +1,7 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Sponsors | Florida Dance Marathon';
-	$GLOBALS['parent'] = 'sponsors';
+	$GLOBALS['page_title'] = 'Our Partners | Florida Dance Marathon';
+	$GLOBALS['parent'] = 'partners';
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
@@ -24,9 +24,9 @@
         <div class="col-md-3">
         <div class="sub-nav">
           <ul>
-            <li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
+            
             <li><a class="active">Our Partners</a></li>
-						<li><a href="/employee-matching">Employee Matching</a></li>
+						<li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
           </ul>
         </div>
       </div>

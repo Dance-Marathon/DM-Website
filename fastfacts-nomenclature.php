@@ -1,7 +1,7 @@
 <?php
 $status = "open";
-$GLOBALS['page_title'] = 'Dancers | Students | Florida Dance Marathon';
-$GLOBALS['parent'] = 'get-involved';
+$GLOBALS['page_title'] = 'Fast Facts / Nomenclature | About | Florida Dance Marathon';
+$GLOBALS['parent'] = 'about';
 include("includes/head.php");
 include("includes/navbar.php");
 ?>
@@ -11,7 +11,7 @@ include("includes/navbar.php");
    <div class="container">
      <div class="row">
        <div class="col-md-12">
-         <h1>Dancers</h1>
+         <h1>Fast Facts / Nomenclature</h1>
        </div>
      </div>
    </div>
@@ -25,15 +25,12 @@ include("includes/navbar.php");
 
   			<div class="sub-nav">
           <ul>
-            <li><a href="/get-involved">Get Involved</a></li>
-            <li><a href="/organizations">Organizations</a></li>            
-            <li><a href="/delegates">Delegates</a></li>
-            <li><a class="active">Dancers</a></li>
-            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
-            <li><a href="/captain-teams" >Captain Teams</a></li>
-            <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-            <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-            <li><a href="/ftkrew">FTKrew</a></li>
+            <li><a href="uf-health">CMN & UF Health</a></li>
+            <li><a href="/our-story">Our Story</a></li>
+            <li><a class="active">Fast Facts / Nomenclature</a></li><!-- page not made-->
+            <li><a href="/press-releases">Press Release</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/faq">FAQ</a></li>
 <!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
           </ul>
         </div>
@@ -44,68 +41,156 @@ include("includes/navbar.php");
 
         <!-- Nav tabs -->
         <ul class="nav nav-tabs" role="tablist">
-          <li role="presentation" class="active"><a href="#what-is-dancing-ftk" aria-controls="what-is-dancing-ftk" role="tab" data-toggle="tab">What is Dancing FTK?</a></li>
-          <li role="presentation"><a href="#dancer-resources" aria-controls="dancer-resources" role="tab" data-toggle="tab">Dancer Resources</a></li>
-          <li role="presentation"><a href="#dancer-faqs" aria-controls="dancer-faqs" role="tab" data-toggle="tab">Dancer FAQs</a></li>
+          <li role="presentation" class="active"><a href="#fastfacts" aria-controls="fastfacts" role="tab" data-toggle="tab">Fast Facts</a></li>
+          <li role="presentation"><a href="#nomenclature" aria-controls="nomenclature" role="tab" data-toggle="tab">Nomenclature</a></li>
         </ul>
 
         <!-- Tab panes -->
         <div class="tab-content">
-          <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
-            <h3>Dancers</h3>
-            <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun Linedance, enjoy live entertainment, yummy food, and hear firsthand stories from our very own Miracle Families. There are a limited number of Dancer spots determined by participation and fundraising, so don't miss your chance to register today!</p>
-            <p><b> Last chance to register to Dance in Dance Marathon 2017. Register NOW until February 5 <a href="events.dancemarathon.com/event/dangerreg"> here</a></b></p>
+          <div role="tabpanel" class="tab-pane fade in active" id="fastfacts">
+                    <h3>Where the Money Goes</h3>
+        <p>
+          All of the funds raised go to UF Health Shands Children's Hospital, our local Children Miracle Network hospital. Of these funds, most recently, <b>48%</b> goes to research, <b>10%</b> to education and <b>42%</b> to patient care.
+          <br />
+          How much of the money goes to UF Health Shands Children’s Hospital: <b>100% of total raised</b>
+        </p>
+
+        <h3>Length of Dance Marathon at UF</h3>
+        <p>
+          Before 2008: <b>32  hours</b>
+          <br/>
+          After 2008: <b>26.2 hours</b>
+        </p>
+
+        <h3>Total Hours Danced</h3>
+        <p>
+          <b>651.8</b> hours
+          <br/>
+          <b>367,081.2</b> hours by all of our dancers <b>combined</b> <!--change to exact-->
+          <br/>
+          Year that DM at UF started: <b>1995</b>
+        </p>
+
+        <h3>Participants</h3>
+        <p>
+          Number of Dancers in 2016: <b>815</b> (maximum capacity)
+          <br/>
+          Number of Captains: <b>365</b>
+          <br/>
+          Number of Staff: <b>454</b>
+          <br/>
+          Number of participants in total (including Overalls, Captains, Dancers and Staff): <b>6,833</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
+          <br/>
+          Number of Miracle Families: <b>77</b>
+          <br/>
+          Number of Sponsors: <b>150</b>
+          <br/>
+          Most Years as a Dancer: <b>12 years, Matt Michel</b> <!--change to exact-->
+        </p>
+
+        <h3>Fundraising</h3>
+        <p>
+          <b>43,746</b> donations on Donor Drive <!--change to exact-->
+          <br/>
+          <b>6,861</b> fundraisers raised at least $1 <!--change to exact-->
+          <br/>
+          Amount raised in 2016: <b>$2,434,315.18</b>
+          <br/>
+          Total amount raised in past 22 years: more than <b>$12.5 million</b> ($12,531,016) <!-- 10,096,701-->
+          <br/>
+          Community Events: <b>5 events</b> - Bowling, Dodgeball, Food Truck Rally, FT5K, Cirque du FTK
+        </p>
           </div>
-          <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe>
-            &nbsp;<br/>
-            <h3>Register to Dance</h3>
-            <p>Registration to be a Dancer at Dance Marathon is open for two weeks in the fall and two weeks in the spring. In order to be eligible to dance, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
-            <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
-            <p>Registering to dance also does not guarantee a Dancer spot. Dancer spots are allocated in the spring based off of organizational or individual achievements</p>
-            <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Donor Drive. See <a href="/delegates.php#starting-a-team">Starting a Team</a> for more information.</p>
-            <h3>Staying Healthy</h3>
+          <div role="tabpanel" class="tab-pane fade" id="nomenclature">
+           
+           <h3>Event Title</h3>
+        <p>
+          First Reference: Dance Marathon at the University of Florida
+          <br/>
+          Second Reference: Dance Marathon at UF
+          <br/>
+          Social Media and Marketing Reference: DM at UF
+          <br/>
+          Not Acceptable: DM UF, UF DM, DM @ UF
+        </p>
+
+        <h3>Hospital Title</h3>
+        <p>
+          First Reference: UFHealth Shands Children’s Hospital
+          <br/>
+          Second Reference: UFHealth Shands
+        </p>
+
+        <h3>Motto</h3>
+        <p>
+          FTK means “For the Kids”
+        </p>
+
+        <h3>Children and Their Families</h3>
+        <p>
+          Miracle Family
+          <br/>
+          Miracle Children
+          <br/>
+          Miracle Child (0-12)
+          <br/>
+          Miracle Teen (13-18)
+          <br/>
+          Miracle Gator Nation (19+)
+        </p>
+
+        <h3>Volunteer Positions</h3>
+        <ul>
+          <li>
+            Overall Directors
             <ul>
-              <li>Stay hydrated! Be sure to have bring a water bottle with you to the event to ensure you are drinking enough water. Water and Gatorade will be provided at the event as well.</li>
-              <li>Stay energized! Take advantage of the meals provided by our sponsors throughout the event.</li>
-              <li>Take time to stretch during the event so your muscles don't get as tight and sore.</li>
-              <li>Stay engaged! The more you participate in the activities, entertainment and line dance throughout the event, the more likely you are to maintain a positive mindset.</li>
+              <li>Overall Director</li>
+              <li>External Communication</li>
+              <li>Internal Communication</li>
+              <li>Finance</li>
+              <li>Community Events</li>
+              <li>Creative Development</li>
+              <li>Dancer Relations</li>
+              <li>Family Relations</li>
+              <li>Fundraising</li>
+              <li>Hospitality</li>
+              <li>Marathon Relations</li>
+              <li>Merchandise</li>
+              <li>Morale</li>
+              <li>Multimedia</li>
+              <li>Outreach</li>
+              <li>Productions</li>
+              <li>Public Relations</li>
+              <li>Recruitment</li>
+              <li>Sponsorships</li>
             </ul>
-            <h3>Packing List</h3>
+          </li>
+          <li>Assitant Directors & Captains
             <ul>
-              <li>Gator 1 ID - Must have to be admitted into the O’Dome.</li>
-              <li>Multiple pairs of socks and underwear. These will do wonders to make you feel refreshed throughout the event.</li>
-              <li>T-shirts, tanks and long sleeve shirts to adjust to the temperature as you need to.</li>
-              <li>Water bottle</li>
-              <li>At least 2 pairs of supportive, comfortable shoes</li>
-              <li>Toothbrush & toothpaste</li>
-              <li>Hairbrush</li>
-              <li>Chapstick</li>
-              <li>Deodorant</li> <!--Add video of where is my chapstick -->
-              <li>Baby wipes</li>
-              <li>Goldbond powder</li>
-              <li>UF DM fanny pack</li>
-              <li>Any necessary medications</li>
-              <li>Glasses, contacts or contact solution if necessary</li>
-              <li>Costumes for theme hours</li>
-              <li>Phone charger</li>
-              <li>Study material for upcoming exams</li>
-              <li>Games</li>
-              <li>Encouraging notes from friends or family</li>
+              <li>Community Events</li>
+              <li>Creative Development</li>
+              <li>Dancer Relations</li>
+              <li>Family Relations</li>
+              <li>Fundraising</li>
+              <li>Hospitality</li>
+              <li>Marathon Relations</li>
+              <li>Merchandise</li>
+              <li>Morale</li>
+              <li>Multimedia</li>
+              <li>Outreach*</li>
+              <li>Productions</li>
+              <li>Public Relations</li>
+              <li>Recruitment</li>
+              <li>Sponsorships</li>
             </ul>
-            <h3>For Swim/Shower Shifts:</h3>
-            <ul>
-              <li>Bathing suit</li>
-              <li>Towel</li>
-              <li>Soap, shampoo, conditioner, etc.</li>
-              <li>Shower shoes</li>
-            </ul>
-            <h3>Important Reminders:</h3>
-            <ul>
-              <li>Lockers are provided to store your things, however, there are not enough lockers for everyone to have his/her own. We suggest leaving any valuables at home.</li>
-              <li>If you have allergies, you will be given a chance to make note of this and you may bring your own snacks.</li>
-              <li>If you have medications, you will be able to turn these in to your Delegate or Dancer Relations Captain and they will be kept safe in our Medical Room with our medical personnel.</li>
-            </ul>
+          </li>
+          <li>FTKrew</li>
+          <li>Delegates</li>
+          <li>Dancers</li>
+          <li>Fundraisers</li>
+          <li>Dance Marathon Alumni Association (DMAA)</li>
+        </ul>
+              
           </div>
           <div role="tabpanel" class="tab-pane fade" id="dancer-faqs">
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
