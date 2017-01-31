@@ -55,7 +55,7 @@ include("includes/navbar.php");
           <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
             <h3>Dancers</h3>
             <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun Linedance, enjoy live entertainment, yummy food, and hear firsthand stories from our very own Miracle Families. There are a limited number of Dancer spots determined by participation and fundraising, so don't miss your chance to register today!</p>
-            <p><b> Last chance to register to Dance in Dance Marathon 2017. Register NOW until February 5 <a href="events.dancemarathon.com/event/dangerreg"> here</a></b></p>
+            <p><b> Last chance to register to Dance in Dance Marathon 2017. Register NOW until February 5 <a href="http://events.dancemarathon.com/event/dangerreg" target="_blank"> here</a></b></p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe>
