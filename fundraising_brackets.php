@@ -213,8 +213,8 @@ background: #777275; /* For browsers that do not support gradients */
        <p>
      <p style="font-size:120%; color:black;">Delta Delta Delta | Chi Phi</p>
      <p style="font-size:120%; color:black;">Alpha Chi Omega | Sigma Phi Epsilon</p>
-     <p style="font-size:120%; color:black;">Pi Beta Phi | Delta Chi</p>
      <p style="font-size:120%; color:black;">Alpha Omicon Pi | Pi Kappa Phi</p>
+     <p style="font-size:120%; color:black;">Pi Beta Phi | Delta Chi</p>
      <p style="font-size:120%; color:black;">Kappa Alpha Theta | Alpha Epsilon Pi</p>
      </p>
       </div>
@@ -255,8 +255,8 @@ background: #777275; /* For browsers that do not support gradients */
      <p style="font-size:120%; color:black;">Gamma Phi Beta | Pi Kappa Alpha</p>
      <p style="font-size:120%; color:black;">Delta Nu Zeta | Tau Kappa Epsilon</p>
      <p style="font-size:120%; color:black;">Omega Phi Alpha | Sigma Chi</p>
-     <p style="font-size:120%; color:black;">Theta Alpha | Delta Upsilon</p>
      <p style="font-size:120%; color:black;">Sigma Phi Lambda | Kappa Phi Epsilon</p>
+     <p style="font-size:120%; color:black;">Theta Alpha | Delta Upsilon</p>
      </p>
 </div>
 </div>
@@ -277,8 +277,8 @@ background: #777275; /* For browsers that do not support gradients */
      <p style="font-size:120%; color:black;">Kappa Alpha Order</p>
      <p style="font-size:120%; color:black;">Public Health and Health Professions</p>
      <p style="font-size:120%; color:black;">AMSA</p>
-     <p style="font-size:120%; color:black;">Dance In A Suitcase</p>
      <p style="font-size:120%; color:black;">Preview Staff</p>
+     <p style="font-size:120%; color:black;">Dance In A Suitcase</p>
      </p>
     </div>
     </div>
@@ -328,12 +328,12 @@ background: #777275; /* For browsers that do not support gradients */
       </div>
        <div id="teamdiv">
        <p>
-         <p style="font-size:120%; color:black;">Jewish Student Union</p>
          <p style="font-size:120%; color:black;">Gamma Eta</p>
+         <p style="font-size:120%; color:black;">Jewish Student Union</p>
          <p style="font-size:120%; color:black;">College of Education</p>
          <p style="font-size:120%; color:black;">Freshman Leadership Council</p>
-         <p style="font-size:120%; color:black;">Florida Club Swim and Dive</p>
          <p style="font-size:120%; color:black;">Phi Epsilon Kappa (PEK)</p>
+         <p style="font-size:120%; color:black;">Florida Club Swim and Dive</p>
          <p style="font-size:120%; color:black;">SPTA</p>
          <p style="font-size:120%; color:black;">Freshman Leadership Engineering Group</p>
          <p style="font-size:120%; color:black;">National Society of Collegiate Scholars</p>
