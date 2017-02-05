@@ -119,6 +119,11 @@
 											<td valign="middle" width="50%" align="center"><a href="http://www.gatorzone.com" target="_blank"><img src="assets/images/sponsors/FloridaAthletics.png" width="200" height="60"/></a></td>
 											<td valign="middle" width="50%" align="center"><a href="http://www.orangetheoryfitness.com" target="_blank"><img src="assets/images/sponsors/OrangeTF.png" width="200" height="60"/></a></td>
                 	</tr>
+                  <tr height="140">
+                    <td valign="middle" width="50%" align="center"><a href="http://www.geogroup.com/foundation" target="_blank"><img src="assets/images/sponsors/geogroupfoundation.png" width="210" height="80"/></a></td>
+                      <td valign="middle" width="50%" align="center"></td>
+                        <td valign="middle" width="50%" align="center"></td>
+                  </tr>
                 </table>
               </div>
             </div>
