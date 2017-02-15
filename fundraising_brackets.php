@@ -196,7 +196,7 @@ background: #777275; /* For browsers that do not support gradients */
          <p style="font-size:120%; color:black;">Chi Omega | Tau Epsilon Phi</p>
         <p style="font-size:120%; color:black;">Kappa Delta | Kappa Sigma</p>
         <p style="font-size:120%; color:black;">Delta Phi Epsilon | Delta Tau Delta</p>
-        <p style="font-size:120%; color:black;">Alpha Epsilon Phi | Lambda Chi Alpha</p>
+        <p style="font-size:120%; color:black;">Alpha Chi Omega | Sigma Phi Epsilon</p>
         </p>
       </div>
  </div>
@@ -213,7 +213,7 @@ background: #777275; /* For browsers that do not support gradients */
   </div>
    <div id="teamdiv">
    <p>
- <p style="font-size:120%; color:black;">Alpha Chi Omega | Sigma Phi Epsilon</p>
+ <p style="font-size:120%; color:black;">Alpha Epsilon Phi | Lambda Chi Alpha</p>
  <p style="font-size:120%; color:black;">Delta Delta Delta | Chi Phi</p>
  <p style="font-size:120%; color:black;">Kappa Alpha Theta | Alpha Epsilon Pi</p>
  <p style="font-size:120%; color:black;">Alpha Omicon Pi | Pi Kappa Phi</p>
@@ -234,11 +234,11 @@ background: #777275; /* For browsers that do not support gradients */
    <div id="teamdiv">
    <p>
  <p style="font-size:120%; color:black;">Sigma Kappa | Alpha Gamma Rho</p>
- <p style="font-size:120%; color:black;">Zeta Tau Alpha | Theta Chi</p>
  <p style="font-size:120%; color:black;">Kappa Kappa Gamma | Sigma Alpha Epsilon</p>
+ <p style="font-size:120%; color:black;">Zeta Tau Alpha | Theta Chi</p>
  <p style="font-size:120%; color:black;">Alpha Delta Pi | Alpha Tau Omega</p>
  <p style="font-size:120%; color:black;">Delta Zeta | Phi Kappa Tau</p>
- <p style="font-size:120%; color:black;">Phi Mu | Sigma Nu</p>
+ <p style="font-size:120%; color:black;">Gamma Phi Beta | Pi Kappa Alpha</p>
  </p>
  </div>
  </div>
@@ -254,7 +254,7 @@ background: #777275; /* For browsers that do not support gradients */
   </div>
    <div id="teamdiv">
    <p>
- <p style="font-size:120%; color:black;">Gamma Phi Beta | Pi Kappa Alpha</p>
+ <p style="font-size:120%; color:black;">Phi Mu | Sigma Nu</p>
  <p style="font-size:120%; color:black;">Delta Nu Zeta | Tau Kappa Epsilon</p>
  <p style="font-size:120%; color:black;">Omega Phi Alpha | Sigma Chi</p>
  <p style="font-size:120%; color:black;">Theta Alpha | Delta Upsilon</p>
@@ -298,21 +298,21 @@ background: #777275; /* For browsers that do not support gradients */
   </div>
    <div id="teamdiv">
      <p>
-     <p style="font-size:120%; color:black;">AMSA</p>
      <p style="font-size:120%; color:black;">Preview Staff</p>
      <p style="font-size:120%; color:black;">Theta Tau</p>
-     <p style="font-size:120%; color:black;">Dance In A Suitcase</p>
+     <p style="font-size:120%; color:black;">AMSA</p>
      <p style="font-size:120%; color:black;">Alpha Phi Omega</p>
+     <p style="font-size:120%; color:black;">Dance In A Suitcase</p>
      <p style="font-size:120%; color:black;">Hispanic Student Association</p>
-     <p style="font-size:120%; color:black;">Footprints</p>
      <p style="font-size:120%; color:black;">UF Honors Program</p>
+     <p style="font-size:120%; color:black;">Footprints</p>
      <p style="font-size:120%; color:black;">Campus Diplomats | COM-IDP graudate Student Organization</p>
      <p style="font-size:120%; color:black;">Epsilon Sigma Alpha</p>
      <p style="font-size:120%; color:black;">Phi Eta Sigma Honor Society</p>
      <p style="font-size:120%; color:black;">Sigma Alpha</p>
      <p style="font-size:120%; color:black;">Gator Band | Phi Sigma Kappa</p>
-     <p style="font-size:120%; color:black;">Beta Theta Pi</p>
      <p style="font-size:120%; color:black;">Phi Gamma Delta (FIJI)</p>
+     <p style="font-size:120%; color:black;">Beta Theta Pi</p>
      <p style="font-size:120%; color:black;">Dancin' Gators</p>
      <p style="font-size:120%; color:black;">Collge of Pharmacy</p>
      </p>
@@ -357,9 +357,9 @@ background: #777275; /* For browsers that do not support gradients */
     </div>
      <div id="teamdiv">
      <p>
+       <p style="font-size:120%; color:black;">UF Navy/Marine ROTC</p>
        <p style="font-size:120%; color:black;">SPTA</p>
        <p style="font-size:120%; color:black;">Phi Delta Theta</p>
-       <p style="font-size:120%; color:black;">UF Navy/Marine ROTC</p>
        <p style="font-size:120%; color:black;">First Year Florida Broward</p>
        <p style="font-size:120%; color:black;">College of Medicine</p>
        <p style="font-size:120%; color:black;">Indian Student Association</p>
