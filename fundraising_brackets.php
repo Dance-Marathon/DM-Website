@@ -173,7 +173,7 @@ background: #777275; /* For browsers that do not support gradients */
 			</div>
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-     <h2 style="text-align: center;">Weekly Rankings</h2>
+     <h2 style="text-align: center;">Fundraising Rankings</h2>
 
      <p></p>
 
@@ -195,8 +195,8 @@ background: #777275; /* For browsers that do not support gradients */
          <p style="font-size:120%; color:black;">Delta Gamma | Pi Lambda Phi</p>
          <p style="font-size:120%; color:black;">Chi Omega | Tau Epsilon Phi</p>
         <p style="font-size:120%; color:black;">Kappa Delta | Kappa Sigma</p>
+        <p style="font-size:120%; color:black;">Alpha Epsilon Phi | Lambda Chi Alpha</p>
         <p style="font-size:120%; color:black;">Delta Phi Epsilon | Delta Tau Delta</p>
-        <p style="font-size:120%; color:black;">Alpha Chi Omega | Sigma Phi Epsilon</p>
         </p>
       </div>
  </div>
@@ -213,7 +213,7 @@ background: #777275; /* For browsers that do not support gradients */
   </div>
    <div id="teamdiv">
    <p>
- <p style="font-size:120%; color:black;">Alpha Epsilon Phi | Lambda Chi Alpha</p>
+ <p style="font-size:120%; color:black;">Alpha Chi Omega | Sigma Phi Epsilon</p>
  <p style="font-size:120%; color:black;">Delta Delta Delta | Chi Phi</p>
  <p style="font-size:120%; color:black;">Kappa Alpha Theta | Alpha Epsilon Pi</p>
  <p style="font-size:120%; color:black;">Alpha Omicon Pi | Pi Kappa Phi</p>
@@ -234,9 +234,9 @@ background: #777275; /* For browsers that do not support gradients */
    <div id="teamdiv">
    <p>
  <p style="font-size:120%; color:black;">Sigma Kappa | Alpha Gamma Rho</p>
+ <p style="font-size:120%; color:black;">Alpha Delta Pi | Alpha Tau Omega</p>
  <p style="font-size:120%; color:black;">Kappa Kappa Gamma | Sigma Alpha Epsilon</p>
  <p style="font-size:120%; color:black;">Zeta Tau Alpha | Theta Chi</p>
- <p style="font-size:120%; color:black;">Alpha Delta Pi | Alpha Tau Omega</p>
  <p style="font-size:120%; color:black;">Delta Zeta | Phi Kappa Tau</p>
  <p style="font-size:120%; color:black;">Gamma Phi Beta | Pi Kappa Alpha</p>
  </p>
@@ -279,9 +279,9 @@ background: #777275; /* For browsers that do not support gradients */
  <p style="font-size:120%; color:black;">Sigma Phi Lambda | Kappa Phi Epsilon</p>
  <p style="font-size:120%; color:black;">UFAA: Florida Cicerones</p>
  <p style="font-size:120%; color:black;">Benton Engineering Council | Phi Sigma Pi</p>
- <p style="font-size:120%; color:black;">Dream Team</p>
  <p style="font-size:120%; color:black;">Kappa Alpha Order</p>
- <p style="font-size:120%; color:black;">UF College of Nursing</p>
+ <p style="font-size:120%; color:black;">Dream Team</p>
+ <p style="font-size:120%; color:black;">Preview Staff</p>
  </p>
 </div>
 </div>
@@ -298,9 +298,9 @@ background: #777275; /* For browsers that do not support gradients */
   </div>
    <div id="teamdiv">
      <p>
-     <p style="font-size:120%; color:black;">Preview Staff</p>
      <p style="font-size:120%; color:black;">Theta Tau</p>
      <p style="font-size:120%; color:black;">AMSA</p>
+     <p style="font-size:120%; color:black;">UF College of Nursing</p>
      <p style="font-size:120%; color:black;">Alpha Phi Omega</p>
      <p style="font-size:120%; color:black;">Dance In A Suitcase</p>
      <p style="font-size:120%; color:black;">Hispanic Student Association</p>
@@ -334,14 +334,13 @@ background: #777275; /* For browsers that do not support gradients */
      <p style="font-size:120%; color:black;">Gamma Eta</p>
      <p style="font-size:120%; color:black;">Phi Epsilon Kappa (PEK)</p>
      <p style="font-size:120%; color:black;">Jewish Student Union</p>
+     <p style="font-size:120%; color:black;">Zeta Beta Tau</p>
      <p style="font-size:120%; color:black;">Freshman Leadership Engineering Group</p>
      <p style="font-size:120%; color:black;">National Society of Collegiate Scholars</p>
      <p style="font-size:120%; color:black;">Freshman Leadership Council</p>
      <p style="font-size:120%; color:black;">College of Education</p>
      <p style="font-size:120%; color:black;">UF Innovation Academy</p>
      <p style="font-size:120%; color:black;">Pre-Legal Honor Society</p>
-     <p style="font-size:120%; color:black;">Florida Club Swim and Dive</p>
-
      </p>
      </div>
      </div>
@@ -357,6 +356,7 @@ background: #777275; /* For browsers that do not support gradients */
     </div>
      <div id="teamdiv">
      <p>
+       <p style="font-size:120%; color:black;">Florida Club Swim and Dive</p>
        <p style="font-size:120%; color:black;">UF Navy/Marine ROTC</p>
        <p style="font-size:120%; color:black;">SPTA</p>
        <p style="font-size:120%; color:black;">Phi Delta Theta</p>
