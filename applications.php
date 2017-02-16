@@ -11,7 +11,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Captain & ELP Applications</h1>
+    			<h1>FTKrew Applications</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -42,7 +42,7 @@
  					<h1> FTKrew Applications </h1>
 					<p>Applications are now open! Applications will be due <b>Friday, February 24</b>.</p>
 					<p>follow this link to the application</p>
-					<h2><a href="https://ufl.qualtrics.com/SE/?SID=SV_dpxkY7aZtLT96Tj" target="_blank">2017 Captain Application</a></h2>
+					<h2><a href="https://ufl.qualtrics.com/SE/?SID=SV_dpxkY7aZtLT96Tj" target="_blank">2017 FTKrew Application</a></h2>
 
 					<p>Applications will be available until Friday, February 24th and selections will be made at the close of applications. After your application has been reviewed, you will receive an email if you have been selected for FTKrew. Please look for an email the morning of Wednesday, March 1st.
 
@@ -54,7 +54,7 @@
 							<p>In order for Dance Marathon to consider your application for , you must complete the following three criteria:
 								<ul>
 								<li>Complete the written application form. Click the links provided to advance to the written portions. </li>
-								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> Captain Applicants </b>can pay <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1292" target="_blank">here</a>.<b> Emerging Leaders applicants </b> can pay with cash, Check or Venmo at the time of their interview.</li>
+								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> FTKrew can pay <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1292" target="_blank">here</a>
 								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="https://docs.google.com/document/d/15vHz04-0sUO6cJPDbXeV5_inQZV2mE23jPRdGoY3L6M/edit?usp=sharing" target="_blank"> here </a>on how to create a fundraising page on Donor Drive</li>
 							</ul>
 							</p>
