@@ -1,5 +1,5 @@
 <?php
-	$status = "Close";
+	$status = "open";
 	$GLOBALS['page_title'] = 'Captain & ELP Applications | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -11,7 +11,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Captain & ELP Applications</h1>
+    			<h1>FTKrew Applications</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -27,36 +27,43 @@
 						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
+            <li><a href="/alumni">DM Alumni</a></li>
 						<li><a href="/organizations">Organizations</a></li>
+            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/ftkrew">FTKrew</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-				 		<li><a class="active">Captain & ELP Applications</a></li>
+            <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
+            <li><a href="/ftkrew">FTKrew</a></li>
+				 		<li><a class="active">FTKrew Applications</a></li>
 
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
- 					<h1> Captain & Emerging Leaders Program Applications </h1>
-					<p>Applications are now open! Applications will be due <b>Sunday, September 4th</b>.</p>
-					<p>Click each tab below to access the applications for Captain Teams and Emerging Leaders Program</p>
+ 					<h1> FTKrew Applications </h1>
+					<p>Applications are now open! Applications will be due <b>Friday, February 24</b>.</p>
+					<h2><a href="https://ufl.qualtrics.com/SE/?SID=SV_dpxkY7aZtLT96Tj" target="_blank">2017 FTKrew Application</a></h2>
 
-				<h3>	IMPORTANT: Application Requirements </h3>
+					<p>Applications will be available until Friday, February 24th and selections will be made at the close of applications. After your application has been reviewed, you will receive an email if you have been selected for FTKrew. Please look for an email the morning of Wednesday, March 1st.
 
-					<p><b>	**If you'd like to apply to both a Captain team as well as the Emerging Leaders Program, you only need to complete the Captain application and answer "Yes" to the question: "Should you not be chosen as a captain would you like to be considered for an Emerging Leaders position?" More information about the Emerging Leaders Program can be found <a href="/emerging-leaders"> here </a></b></p>
+					<p>Dance Marathon 2017 is on March 25th and 26th. In order to serve as an FTKrew Member, you must be available during these dates. All FTKrew members will be assigned shifts working with the Dancer Relations, Morale, Productions, and Hospitality teams. Shifts will be 1-2 hours long. Each member may have up to 3 shifts. FTKrew members will have 2 meetings in March to prepare for the event. </p>
 
-							<p>In order for Dance Marathon to consider your application for a Captain Team or the Emerging Leaders Program, you must complete the following three criteria:
+					<h3>	IMPORTANT: Application Requirements </h3>
+
+
+							<p>In order for Dance Marathon to consider your application for , you must complete the following three criteria:
 								<ul>
 								<li>Complete the written application form. Click the links provided to advance to the written portions. </li>
-								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> Captain Applicants </b>can pay <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1292" target="_blank">here</a>.<b> Emerging Leaders applicants </b> can pay with cash, Check or Venmo at the time of their interview.</li>
+								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> FTKrew can pay <a href=" http://events.dancemarathon.com/event/ftkrew " target="_blank">here</a>
 								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="https://docs.google.com/document/d/15vHz04-0sUO6cJPDbXeV5_inQZV2mE23jPRdGoY3L6M/edit?usp=sharing" target="_blank"> here </a>on how to create a fundraising page on Donor Drive</li>
 							</ul>
 							</p>
 
 
-					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+
+				<!--	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h4 class="panel-title">
@@ -102,12 +109,12 @@
 
 								</div>
 							</div>
-						</div>
+						</div> -->
 
         <p>Please direct questions to Grace Caswell, current Internal Communications Overall Director at <a href="mailto:gcaswell@floridadm.org">gcaswell@floridadm.org</a>.</p>
       <?php } else { ?>
-      <!--  <p class="alert alert-info"><b>Note:</b> Captain applications are closed.</p>
-        <p>Please direct questions to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p>
+    <!-- <p class="alert alert-info"><b>Note:</b> Captain applications are closed.</p>
+        <p>Please direct questions to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p> -->
       <?php } ?>
       </div>
 		</div>

@@ -318,7 +318,13 @@
       <li><a href="/captain-teams" >Captain Teams</a></li>
       <li><a class="active">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
+<<<<<<< HEAD
             <li><a href="/ftkrew">FTKrew</a></li>
+=======
+						<li><a href="/ftkrew">FTKrew</a></li>
+						<li><a href="/applications">FTKrew Applications</a></li>
+
+>>>>>>> master
 <!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
           </ul>
         </div>
