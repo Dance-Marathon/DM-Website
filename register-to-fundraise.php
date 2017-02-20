@@ -26,7 +26,7 @@ include("includes/navbar.php");
 					<ul>
 						<li><a class="active">Register to Fundraise</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
-						<li><a href="/Fundraising-guide">Fundraising Guide</a></li><!-- To be Created-->
+						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
 					</ul>
 				</div>
 			</div>

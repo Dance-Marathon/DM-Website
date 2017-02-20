@@ -122,7 +122,7 @@
             <li><a href="/ft5k">FT5K</a></li>
             <li><a href ="/fundraising-days">Fundraising Days</a></li><!--NOT YET MADE -->
             <li><a href="/gala">Gala</a></li><!--NOT YET MADE -->
-            <li><a href="/event">Event</a></li><!--NOT YET MADE -->
+           <!-- <li><a href="/event">Event</a></li><!--NOT YET MADE -->
 
 <!--                        <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
           </ul>

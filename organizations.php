@@ -405,20 +405,15 @@ usort($greek_organizations, 'compareAlphabetically');
   			<div class="sub-nav">
           <ul>
             <li><a href="/get-involved">Get Involved</a></li>
-            <li><a class="active">Organizations</a></li>						
+            <li><a class="active">Organizations</a></li>            
             <li><a href="/delegates">Delegates</a></li>
-						<li><a href="/dancers">Dancers</a></li>
+            <li><a hred="/dancers">Dancers</a></li>
             <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
-						<li><a href="/captain-teams" >Captain Teams</a></li>
-						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+            <li><a href="/captain-teams" >Captain Teams</a></li>
+            <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
-<<<<<<< HEAD
-=======
-            <li><a href="/applications">FTKrew Applications</a></li>
-
->>>>>>> master
-<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
+            <li><a href="/Applications">FTKrew Applications</a></li>
           </ul>
         </div>
 			</div>

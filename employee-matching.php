@@ -26,7 +26,7 @@
           <ul>
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
             <li><a class="active">Employee Matching</a></li>
-            <li><a href="/Fundraising-guide">Fundraising Guide</a></li><!-- To be Created-->
+            <li><a href="/fundraising-guide">Fundraising Guide</a></li><!-- To be Created-->
           </ul>
         </div>
       </div>

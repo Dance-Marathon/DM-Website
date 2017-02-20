@@ -24,30 +24,16 @@
 		<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-<<<<<<< HEAD
             <li><a class="active">Get Involved</a></li>
-            <li><a href="organizations">Organizations</a></li>						
+            <li><a href="/organizations">Organizations</a></li>            
             <li><a href="/delegates">Delegates</a></li>
-			<li><a href="/dancers">Dancers</a></li>
+            <li><a href="/dancers">Dancers</a></li>
             <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
-			<li><a href="/captain-teams" >Captain Teams</a></li>
-			<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-            <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-            <li><a href="/ftkrew">FTKrew</a></li>
-<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
-=======
-						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
-						<li><a href="/delegates">Delegates</a></li>
-						<li><a href="/dancers">Dancers</a></li>
-            <li><a href="/alumni">DM Alumni</a></li>
-						<li><a href="/organizations">Organizations</a></li>
-            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+            <li><a href="/captain-teams" >Captain Teams</a></li>
+            <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
             <li><a href="/Applications">FTKrew Applications</a></li>
->>>>>>> master
           </ul>
         </div>
 			</div>

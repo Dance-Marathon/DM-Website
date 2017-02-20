@@ -1,0 +1,49 @@
+<?php
+	$status = "open";
+	$GLOBALS['page_title'] = 'Gala | Events | Florida Dance Marathon';
+	$GLOBALS['parent'] = 'events';
+	include("includes/head.php");
+	include("includes/navbar.php");
+?>
+
+<div class="page-heading parallax community_events">
+  <div class="inner-wrapper">
+	  <div class="container">
+    	<div class="row">
+	  		<div class="col-md-12">
+    			<h1>Gala</h1>
+	  		</div>
+    	</div>
+	  </div>
+	</div>
+</div>
+
+<div class="page-content">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3">
+  			<div class="sub-nav">
+          <ul>
+			<li><a href="/community-events">Campus Events</a></li>
+            <li><a href="/mini-marathon">Mini-Marathon</a></li>
+            <li><a href="/ft5k">FT5K</a></li>
+            <li><a href ="/fundraising-days">Fundraising Days</a></li><!--NOT YET MADE -->
+            <li><a class="active">Gala</a></li><!--NOT YET MADE -->
+            <!--<li><a href="/event">Event</a></li><!--NOT YET MADE -->
+          </ul>
+        </div>
+			</div>
+			<div class="col-md-8 col-md-push-1">
+      <?php if ($status == "open") { ?>
+
+				<h2>Gala</h2>
+
+  			<p>
+  			Join us at Emerson Alumni Hall on March 24, 2017 for the Miracle Gala sponsored by the University of Florida Alumni Association. What better way to kick off the Dance Marathon at UF weekend than by enjoying an evening of fine dining, personal recognition, dancing and celebrating all of the accomplishments of Dance Marathon at the University of Florida and the Doctors at UF Health Shands Children’s Hospital. For more information, please contact the Outreach Overall Director, Alexandra Hernandez, at <a href="mailto:ahernandez@floridadm.org">ahernandez@floridadm.org</a>. We look forward to seeing you there! 
+      <?php } else { echo 'This page is currently closed.'; } ?>
+			</div>
+		</div>
+	</div>
+</div>
+
+<?php include("includes/foot.php"); ?>

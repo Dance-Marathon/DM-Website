@@ -34,7 +34,7 @@
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/Overalls">Overalls</a></li>
+						<li><a href="/meet-the-overalls">Overalls</a></li>
 						<li><a href="/emerging-leaders">ELP</a></li>
 						<li><a href="/ftkrew">FTKrew</a></li>
 					</ul>
