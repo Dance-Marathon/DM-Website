@@ -24,7 +24,7 @@ include("includes/navbar.php");
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
+            <li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
             <li><a href="/alumni">DM Alumni</a></li>
@@ -34,7 +34,7 @@ include("includes/navbar.php");
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
-
+				 		<li><a href="/applications">FTKrew Applications</a></li>
 <!--           <li><a href="/overall-applications">Overall Applications</a></li> -->
           </ul>
         </div>

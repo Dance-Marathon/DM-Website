@@ -320,6 +320,7 @@
 						<li><a class="active">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
 						<li><a href="/ftkrew">FTKrew</a></li>
+						<li><a href="/applications">FTKrew Applications</a></li>
 
 <!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
           </ul>
