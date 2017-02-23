@@ -55,7 +55,7 @@
 							<p>In order for Dance Marathon to consider your application for , you must complete the following three criteria:
 								<ul>
 								<li>Complete the written application form. Click the links provided to advance to the written portions. </li>
-								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> FTKrew can pay <a href=" http://events.dancemarathon.com/event/ftkrew " target="_blank">here</a>
+								<li>Pay the $20 application fee. The fee must be paid at the interview.<b> FTKrew can pay <a href=" http://events.dancemarathon.com/event/ftkrew " target="_blank">here</a>
 								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="https://docs.google.com/document/d/15vHz04-0sUO6cJPDbXeV5_inQZV2mE23jPRdGoY3L6M/edit?usp=sharing" target="_blank"> here </a>on how to create a fundraising page on Donor Drive</li>
 							</ul>
 							</p>
