@@ -45,7 +45,7 @@
 				<!-- End Item -->
 
 				<div class="item active">
-					<a href="http://floridadm.org/applications" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/FTKrew.png"></a>
+					<a href="http://floridadm.org/ftk-festival" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/FTKFestival.png"></a>
 
 				</div>
 

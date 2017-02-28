@@ -59,7 +59,7 @@
           <ul>
             <li><a class="active">Community Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
-						<li><a href="/ft5k">FT5K</a></li>
+						<li><a href="/ftk-festival">FTK Festival</a></li>
 
 <!--            <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
           </ul>
@@ -69,7 +69,7 @@
       <?php if ($status=="open" ) { ?>
 				<h3>Community Events </h3>
 			   <!--	<p>quick explination about community events</p> -->
-		
+
 
 
 				<div class="container-fluid">
