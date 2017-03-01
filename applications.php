@@ -1,5 +1,5 @@
 <?php
-	$status = "open";
+	$status = "close";
 	$GLOBALS['page_title'] = 'Captain & ELP Applications | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -74,7 +74,6 @@
 							</div>
 							<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 								<div class="panel-body">
-
 								<p>Each year, Dance Marathon at UF strives to grow and improve. This year we are excited to announce changes to our Captain Teams to help us make bigger and better miracles happen For The Kids!</p>
 								<p>As reflected on the application, <i>Entertainment</i> and <i>Operations</i> are no longer. We have redistributed responsibilities to a new team: <b>Productions</b>.</p>
 								<p>The Finance team has been revamped into a new team: <b>Fundraising</b>.</p>
@@ -86,7 +85,6 @@
 									<b> *Applications will be submitted after the Second Choice Team Questions section</b>
 									<b>*Please note that your application will NOT be considered unless you have paid the application fee using the provided link.</b>
 									<p>	After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email the morning of Saturday, September 3rd. Interviews will be held September 5th-10th from 5:00 to 10:00 pm.</p>
-
 								</div>
 							</div>
 						</div>
@@ -106,7 +104,6 @@
 </p>
 								<b>*Please note that your application will NOT be considered unless you have paid the application fee.</b>
 								<p>	After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email the morning of Saturday, September 3rd. Interviews will be held September 5th-10th from 5:00 to 10:00 pm.</p>
-
 								</div>
 							</div>
 						</div> -->
