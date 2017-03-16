@@ -37,7 +37,6 @@
 						<li><a href="/meet-the-overalls">Overalls</a></li>
 						<li><a href="/emerging-leaders">ELP</a></li>
 						<li><a href="/ftkrew">FTKrew</a></li>
-<<<<<<< HEAD
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'alumni') ? "class='open'" : ""; ?>>
@@ -45,11 +44,7 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/dmaa">DM Alumni</a></li>
 						<li><a href="/meet-dma-board">Meet The DMA Board</a></li>
-=======
-						<li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-					 <li><a href="/applications">FTKrew Applications</a></li>
 <!-- 						<li><a href="/overall-applications">Overall Applications</a></li> -->
->>>>>>> master
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'family') ? "class='open'" : ""; ?>>
@@ -64,19 +59,15 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/community-events">Campus Events</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-<<<<<<< HEAD
 						<li><a href="/ft5k">FT5K</a></li>
-						<!-- NOT YET MADE, need to make these pages: -->
 						<li><a href ="/fundraising-days">Fundraising Days</a></li>
 						<li><a href="/gala">Gala</a></li>
 						<!--Open this link when Event page is opened
 						<li><a href="/event">Event</a></li>
 						-->
-=======
 						<li><a href="/ftk-festival">FTK Festival</a></li>
 
 <!--						<li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
->>>>>>> master
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'partners') ? "class='open'" : ""; ?>>

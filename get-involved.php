@@ -33,7 +33,6 @@
             <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
-            <li><a href="/Applications">FTKrew Applications</a></li>
           </ul>
         </div>
 			</div>
