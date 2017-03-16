@@ -59,10 +59,14 @@
           <ul>
             <li><a class="active">Campus Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
+<<<<<<< HEAD
             <li><a href="/ft5k">FT5K</a></li>
             <li><a href ="/fundraising-days">Fundraising Days</a></li><!--NOT YET MADE -->
             <li><a href="/gala">Gala</a></li><!--NOT YET MADE -->
            <!-- <li><a href="/event">Event</a></li><!--NOT YET MADE -->
+=======
+						<li><a href="/ftk-festival">FTK Festival</a></li>
+>>>>>>> master
 
 <!--            <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
           </ul>
@@ -72,7 +76,7 @@
       <?php if ($status=="open" ) { ?>
 				<h3>Campus Events </h3>
 			   <!--	<p>quick explination about community events</p> -->
-		
+
 
 
 				<div class="container-fluid">

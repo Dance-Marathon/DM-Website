@@ -1,5 +1,5 @@
 <?php
-	$status = "open";
+	$status = "close";
 	$GLOBALS['page_title'] = 'Captain & ELP Applications | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -55,7 +55,7 @@
 							<p>In order for Dance Marathon to consider your application for , you must complete the following three criteria:
 								<ul>
 								<li>Complete the written application form. Click the links provided to advance to the written portions. </li>
-								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> FTKrew can pay <a href=" http://events.dancemarathon.com/event/ftkrew " target="_blank">here</a>
+								<li>Pay the $20 application fee. The fee must be paid at the interview.<b> FTKrew can pay <a href=" http://events.dancemarathon.com/event/ftkrew " target="_blank">here</a>
 								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="https://docs.google.com/document/d/15vHz04-0sUO6cJPDbXeV5_inQZV2mE23jPRdGoY3L6M/edit?usp=sharing" target="_blank"> here </a>on how to create a fundraising page on Donor Drive</li>
 							</ul>
 							</p>
@@ -74,7 +74,6 @@
 							</div>
 							<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 								<div class="panel-body">
-
 								<p>Each year, Dance Marathon at UF strives to grow and improve. This year we are excited to announce changes to our Captain Teams to help us make bigger and better miracles happen For The Kids!</p>
 								<p>As reflected on the application, <i>Entertainment</i> and <i>Operations</i> are no longer. We have redistributed responsibilities to a new team: <b>Productions</b>.</p>
 								<p>The Finance team has been revamped into a new team: <b>Fundraising</b>.</p>
@@ -86,7 +85,6 @@
 									<b> *Applications will be submitted after the Second Choice Team Questions section</b>
 									<b>*Please note that your application will NOT be considered unless you have paid the application fee using the provided link.</b>
 									<p>	After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email the morning of Saturday, September 3rd. Interviews will be held September 5th-10th from 5:00 to 10:00 pm.</p>
-
 								</div>
 							</div>
 						</div>
@@ -106,7 +104,6 @@
 </p>
 								<b>*Please note that your application will NOT be considered unless you have paid the application fee.</b>
 								<p>	After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email the morning of Saturday, September 3rd. Interviews will be held September 5th-10th from 5:00 to 10:00 pm.</p>
-
 								</div>
 							</div>
 						</div> -->
