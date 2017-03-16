@@ -1,6 +1,6 @@
 <?php
 $status = "open";
-$GLOBALS['page_title'] = 'FTKrew | Get Involved | Florida Dance Marathon';
+$GLOBALS['page_title'] = 'FTKrew | Students | Florida Dance Marathon';
 $GLOBALS['parent'] = 'get-involved';
 include("includes/head.php");
 include("includes/navbar.php");
@@ -23,19 +23,18 @@ include("includes/navbar.php");
 		<div class="row">
 			<div class="col-md-3">
 				<div class="sub-nav">
-					<ul>
-						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
-						<li><a href="/delegates">Delegates</a></li>
-						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/alumni">DM Alumni</a></li>
-						<li><a href="/organizations">Organizations</a></li>
-						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-						<li><a class="active">FTKrew</a></li>
-
-					</ul>
+          <ul>
+            <li><a href="/get-involved">Get Involved</a></li>
+            <li><a href="/organizations">Organizations</a></li>						
+            <li><a href="/delegates">Delegates</a></li>
+			<li><a href="/dancers">Dancers</a></li>
+            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+			<li><a href="/captain-teams" >Captain Teams</a></li>
+			<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+            <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
+            <li><a class="active">FTKrew</a></li>
+<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
+          </ul>
 				</div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
@@ -52,8 +51,13 @@ include("includes/navbar.php");
       <div class="tab-content">
       	<div role="tabpanel" class="tab-pane fade in active" id="FTKrew">
       		<h3>FTKrew</h3>
+<<<<<<< HEAD
 					<p>FTKrew are motivated individuals who volunteer at Dance Marathon's main event in spring held on March 25 and 26. FTKrew is a great way for people to get involved with Dance Marathon, participate in service, and attend the event! FTKrew applications will be available February 20 through February 24. Selected FTKrew members will attend two meetings in preparation for the event in March. FTKrew members will be assigned shifts during the event with specific duties and responsibilities helping the Dancer Relations, Productions, and Hospitality teams. FTKrew members are an essential part of ensuring the efficiency and success of the 26.2-hour event.</p>
-					<p><i>APPLICATIONS ARE NOW OPEN! <a href="http://floridadm.org/applications"> Click here to learn more </a></i></p>
+					
+=======
+ 					<p>FTKrew are motivated individuals who volunteer at Dance Marathon's main event in spring held on March 25 and 26. FTKrew is a great way for people to get involved with Dance Marathon, participate in service, and attend the event! FTKrew applications will be available February 20 through February 24. Selected FTKrew members will attend two meetings in preparation for the event in March. FTKrew members will be assigned shifts during the event with specific duties and responsibilities helping the Dancer Relations, Productions, and Hospitality teams. FTKrew members are an essential part of ensuring the efficiency and success of the 26.2-hour event.</p>
+					<p><i>More information to come.</i></p>
+>>>>>>> origin/Connorbranch
       	</div>
       <div role="tabpanel" class="tab-pane fade" id="Marathon-FTKrew">
             	<h3></h3>

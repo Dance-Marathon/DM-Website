@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'FT5K | Events | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'FTK Festival | Events | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
 	include("includes/navbar.php");
@@ -24,9 +24,12 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="/community-events">Community Events</a></li>
-						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-            <li><a href="/ft5k" class="active">FTK Festival</a></li>
+			<li><a href="/community-events">Campus Events</a></li>
+            <li><a href="/mini-marathon">Mini-Marathon</a></li>
+            <li><a href="/ft5k">FT5K</a></li>
+            <li><a href ="/fundraising-days">Fundraising Days</a></li>
+            <li><a href="/gala">Gala</a></li>
+            <li><a class="active">FTK Festival</a></li>
           </ul>
         </div>
 			</div>

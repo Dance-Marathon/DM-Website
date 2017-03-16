@@ -117,9 +117,12 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="/community-events">Community Events</a></li>
-						<li><a class="active">Mini-Marathon</a></li>
-						<li><a href="/ftk-festival">FTK Festival</a></li>
+            <li><a href="/community-events">Campus Events</a></li>
+            <li><a class="active">Mini-Marathon</a></li>
+            <li><a href="/ft5k">FT5K</a></li>
+            <li><a href ="/fundraising-days">Fundraising Days</a></li>
+            <li><a href="/gala">Gala</a></li>
+            <li><a href="/ftk-festival">FTK Festival</a></li>
 
 <!--                        <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
           </ul>

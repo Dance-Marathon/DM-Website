@@ -23,12 +23,13 @@
 		<div class="row">
 			<div class="col-md-3">
   			<div class="sub-nav">
-          <ul>
-						<li><a href="/uf-health">CMN & UF Health</a></li>
-						<li><a class="active">Our Story</a></li>
-						<li><a href="/dmaa">DMAA</a></li>
-            <li><a href="/alumni">Alumni</a></li>
-						<li><a href="/faq">FAQ</a></li>
+         <ul>
+            <li><a href="/uf-health">CMN & UF Health</a></li>
+            <li><a class="active">Our Story</a></li>
+            <li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li><!-- page not made-->
+            <li><a href="/press-releases">Press Release</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/faq">FAQ</a></li>
           </ul>
         </div>
 			</div>
