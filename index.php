@@ -1,6 +1,6 @@
 <?php
-	$GLOBALS['page_title'] = 'Florida Dance Marathon';
-	include("includes/head.php");
+  $GLOBALS['page_title'] = 'Florida Dance Marathon';
+  include("includes/head.php");
 ?>
 
 <!-- intro -->
@@ -11,8 +11,8 @@
       <ol class="carousel-indicators">
         <li data-target="#top-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#top-carousel" data-slide-to="1"></li>
-        <li data-target="#top-carousel" data-slide-to="2"></li>
 <!--
+        <li data-target="#top-carousel" data-slide-to="2"></li>
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li>
@@ -23,7 +23,7 @@
       </ol>
       <div class="carousel-inner">
 
-				<div class="item">
+        <div class="item active">
           <img class="img-responsive"  src="assets/images/slider/TotalDM2016.jpg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
@@ -42,20 +42,20 @@
 
         <!-- End Item -->
 
-				<!-- End Item -->
+        <!-- 
 
-				<div class="item active">
-					<a href="http://floridadm.org/ftk-festival" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/FTKFestival.png"></a>
+        <div class="item">
+          <a href="http://floridadm.org/ftk-festival" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/FTKFestival.png"></a>
 
-				</div>
+        </div>
 
 
-				<!-- End Item -->
+        -->
 
-				<div class="item">
-					<a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Release.png"></a>
+        <div class="item">
+          <a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Release.png"></a>
 
-				</div>
+        </div>
 
 
 
@@ -141,8 +141,10 @@
         <img src="assets/images/floridamap.jpg" class="florida-map">
       </div>
       <div class="col-md-6">
+        <br><br><br>
         <h3>Many Places, One Common Cause</h3>
         <p>Dance Marathon at the University of Florida is fortunate to be a piece of a larger international movement. Hundreds of Dance Marathon throughout North America raise funds and awareness for Children’s Miracle Network hospitals. UF Health Shands Children’s Hospital is lucky enough to receive support from five Dance Marathons in the region, allowing it to make more miracles each and every day.</p>
+        <!--
         <div class="container-fluid" style="padding-top:3em;">
           <div class="row">
             <div class="col-xs-4">
@@ -160,12 +162,48 @@
              <div class="col-xs-4">
              <img class="img-responsive" src="/assets/images/moraleaward_2014.jpg" />
             </div>
-					 <div class="col-xs-4">
-					 <img class="img-responsive" src="/assets/images/BestMerch_2016.png" />
-					</div>
+           <div class="col-xs-4">
+           <img class="img-responsive" src="/assets/images/BestMerch_2016.png" />
+          </div>
           </div>
         </div>
+        -->
      </div>
+    </div>
+  </div>
+</div>
+
+<div class="education">
+  <div class="container text-center">
+    <div class="row">
+      <div class="container-fluid" style="padding-top:3em;">
+          <div class="row">
+            <table style="width:100%">
+              <tr>
+                <th><img class="img-responsive" src="/assets/images/awards/Merch_15.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Morale_14.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Campaign_14.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Shirt_13.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Innovation_12.png" /></th> 
+                <th><img class="img-responsive" src="/assets/images/awards/Comma_12.png" /></th>
+                
+              </tr>
+            </table>
+            <table style="width:100%">
+              <tr>
+                <th><img class="img-responsive" src="/assets/images/awards/Event_11.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Online_10.png" /></th> 
+                <th><img class="img-responsive" src="/assets/images/awards/Social_10.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Website_08.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Closing_05.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Letter_04.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Opening_03.png" /></th>
+              </tr>
+            </table>
+            <br>
+          </div>
+          <p></p>
+      </div>  
     </div>
   </div>
 </div>
