@@ -1,5 +1,6 @@
 <?php
-$status = "closed"; //Set to open to enable content again
+$status = "open"; //Set to open to enable content again
+$livestream_on = "closed";
 $GLOBALS['page_title'] = 'Dance-Marathon | Events | Florida Dance Marathon';
 $GLOBALS['parent'] = 'events';
 include("includes/head.php");
@@ -11,7 +12,7 @@ include("includes/navbar.php");
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1>Dance Marathon <span style="text-align: center;"><br />2016</span></h1>
+					<h1>Dance Marathon <span style="text-align: center;"><br />2017</span></h1>
 				</div>
 			</div>
 		</div>
@@ -25,7 +26,7 @@ include("includes/navbar.php");
 					<ul>
 						<li><a href="/community-events">Community Events</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-						<li><a class="active">Dance Marathon 2016</a></li>
+						<li><a class="active">Dance Marathon 2017</a></li>
 						<!--                        <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
 				</div>
@@ -37,11 +38,19 @@ include("includes/navbar.php");
 							<h1 style="margin-top: 0px;">Livestream</h1>
 						</div>
 					</div>
+					<?php if ($livestream_on == "open") { ?>
 					<div class="row">
 						<div class="col-md-12 text-center" style="background-color: #5A5A5A">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/IdGPYiivbPU" frameborder="0" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/" frameborder="0" allowfullscreen></iframe>
 						</div>
 					</div>
+				<?php } else { ?>
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<h4>Livestream Currently Unavailable</h4>
+						</div>
+					</div>
+				<?php } ?>
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<h1>Schedule &amp; Events</h1>
@@ -68,7 +77,7 @@ include("includes/navbar.php");
 									</thead>
 									<tbody>
 										<tr>
-											<td>Gator Band/Albert &amp; Alberta</td>
+											<td>Gator Band / Albert &amp; Alberta</td>
 											<td>10:40AM – 11:10AM</td>
 										</tr>
 										<tr>
