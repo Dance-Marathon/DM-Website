@@ -11,8 +11,9 @@
       <ol class="carousel-indicators">
         <li data-target="#top-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#top-carousel" data-slide-to="1"></li>
-<!--
         <li data-target="#top-carousel" data-slide-to="2"></li>
+<!--
+        
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li>
@@ -42,15 +43,15 @@
 
         <!-- End Item -->
 
-        <!-- 
+        
 
         <div class="item">
-          <a href="http://floridadm.org/ftk-festival" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/FTKFestival.png"></a>
+          <img class="img-responsive img-full"  src="assets/images/slider/LiveStream-01.png"></a>
 
         </div>
 
 
-        -->
+      
 
         <div class="item">
           <a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Release.png"></a>
