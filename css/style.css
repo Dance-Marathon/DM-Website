@@ -1088,3 +1088,19 @@ img.img-full {
 a:hover .img-thumbnail{
   opacity: 0.8;
 }
+
+.pt {
+	padding-top: 20px;
+}
+
+.pb {
+	padding-bottom: 20px;
+}
+
+.mt {
+	margin-top: 20px;
+}
+
+.mb {
+	margin-bottom: 20px;
+}
