@@ -181,24 +181,24 @@
           <div class="row">
             <table style="width:100%">
               <tr>
-                <th><img class="img-responsive" src="/assets/images/awards/Merch_15.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Morale_14.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Campaign_14.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Shirt_13.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Innovation_12.png" /></th> 
-                <th><img class="img-responsive" src="/assets/images/awards/Comma_12.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Merch 15.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Morale 14.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Campaign 14.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Shirt 13.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Innovation 12.png" /></th> 
+                <th><img class="img-responsive" src="/assets/images/awards/Comma 12.png" /></th>
                 
               </tr>
             </table>
             <table style="width:100%">
               <tr>
-                <th><img class="img-responsive" src="/assets/images/awards/Event_11.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Online_10.png" /></th> 
-                <th><img class="img-responsive" src="/assets/images/awards/Social_10.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Website_08.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Closing_05.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Letter_04.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Opening_03.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Event 11.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Online 10.png" /></th> 
+                <th><img class="img-responsive" src="/assets/images/awards/Social.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Website 08.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Closing 05.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Letter 04.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Opening 03.png" /></th>
               </tr>
             </table>
             <br>
