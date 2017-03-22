@@ -30,6 +30,9 @@
             <li><a class="active">Fundraising Days</a></li>
             <li><a href="/gala">Gala</a></li>
             <li><a href="/ftk-festival">FTK Festival</a></li>
+						<?php if ($dance_marathon_event_started == true) { ?>
+							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>
+						<? } ?>
           </ul>
         </div>
 			</div>
@@ -38,50 +41,50 @@
 
 				<h2>Transform Today</h2>
 
-  			
+
   			Why
-  			
+
   			<ul>
 
   			<li>For 26.2 hours, Dance Marathon at the University of Florida unites to shatter records during this state-wide fundraising campaign, bringing together high school and college students across the state. </li>
   			</ul>
 
-  			
+
   			Around When?
-  			
+
   			<ul>
   			<li> It’s a surprise! Every year this event occurs without public knowledge and motivates fundraising through a 26.2 hour campaign. </li>
   			</ul>
-  			
+
   			What
-  			
+
   			<ul>
   			<li> 26.2 hour fundraising campaign involving Dance Marathon at the University of Florida beginning in the morning at 8:00am and ending the subsequent day at 10:12 am. </li>
   			</ul>
 
   			<h2>Multiplying Miracles</h2>
 
-  			
+
   			Why
-  			
+
   			<ul>
   				<li>
-  				This is an opportunity to celebrate the unique history of our organization while raising money and awareness during the final period leading up to our main event. 
+  				This is an opportunity to celebrate the unique history of our organization while raising money and awareness during the final period leading up to our main event.
   				</li>
 
   			</ul>
-  			
+
   			Around When?
-  			
+
   			<ul>
-  				<li> 
-				This event occurs around one month prior to our main event in March. Typically, this leads to it taking place in late February. 
+  				<li>
+				This event occurs around one month prior to our main event in March. Typically, this leads to it taking place in late February.
   				</li>
 
   			</ul>
-  			
+
   			What
-  			
+
   			<ul>
   				<li>Specific campaign that falls during the final days of “money turn-in” the time period during which organizations have their final fundraising push to secure more dancer spots.  </li>
   			</ul>

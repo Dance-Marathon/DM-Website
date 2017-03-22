@@ -66,6 +66,9 @@
 						<li><a href="/event">Event</a></li>
 						-->
 						<li><a href="/ftk-festival">FTK Festival</a></li>
+						<?php if ($dance_marathon_event_started == true) { ?>
+							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>
+						<? } ?>
 
 <!--						<li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
@@ -84,17 +87,17 @@
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li><!-- To be Created-->
 					</ul>
-				</li>				
+				</li>
 <!---------SPACEEEEEEEE ---->
 
 				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">DM Store</a></li>
 
-				 <!-- 
-				 <li><a href="/blog/">Blog</a></li> 
+				 <!--
+				 <li><a href="/blog/">Blog</a></li>
 				 -->
-				 
+
 				<li class="open"><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank" class="active">Donate</a></li>
-				
+
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
 				  <li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube"></i></a></li>

@@ -82,6 +82,20 @@
 </div>
 <?php include("includes/navbar.php"); ?>
 <div class="container">
+
+	<?php if ($dance_marathon_event_started == true) { ?>
+		<div class="row mt mb">
+			<div class="col-md-12 welcome_txt text-center">
+				<h1>Dance Marathon <?php echo $dm_year; ?>&nbsp;Is Here!</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 welcome_txt text-center">
+				<a class="btn btn-primary" href="/dance-marathon">View Livestream</a>
+			</div>
+		</div>
+	<? } ?>
+
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
