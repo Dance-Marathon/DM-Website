@@ -6,10 +6,10 @@ module.exports = function(grunt) {
     // Metadata.
     pkg: grunt.file.readJSON('package.json'),
     banner: '/*!\n * <%= pkg.title || pkg.name %> - v<%= pkg.version %> ' +
-      '<%= grunt.template.today("yyyy-mm-dd") %>\n' +
-      '<%= pkg.homepage ? " * " + pkg.homepage + "\\n" : "" %>' +
-      ' * Copyright (c) <%= grunt.template.today("yyyy") %> <%= pkg.author.name %>;\n' +
-      ' */',
+    '<%= grunt.template.today("yyyy-mm-dd") %>\n' +
+    '<%= pkg.homepage ? " * " + pkg.homepage + "\\n" : "" %>' +
+    ' * Copyright (c) <%= grunt.template.today("yyyy") %> <%= pkg.author.name %>;\n' +
+    ' */',
     runtime: (new Date).getTime(),
     uglify: {
       options: {
@@ -44,17 +44,28 @@ module.exports = function(grunt) {
         files: {
           src: ['<%= uglify.files.dest %>', '<%= cssmin.files.dest %>']
         }
+      },
+    },
+    watch: {
+      css: {
+        files: 'css/style.css',
+        tasks: ["uglify", "cssmin", "injector:prod"]
+      },
+      html: {
+        files: 'includes/head.php.template',
+        tasks: ["uglify", "cssmin", "injector:prod"]
       }
-    }
-  });
+    },
+});
 
-  // These plugins provide necessary tasks.
-  grunt.loadNpmTasks('grunt-injector');
-  grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-cssmin');
+// These plugins provide necessary tasks.
+grunt.loadNpmTasks('grunt-injector');
+grunt.loadNpmTasks('grunt-contrib-uglify');
+grunt.loadNpmTasks('grunt-contrib-cssmin');
+grunt.loadNpmTasks('grunt-contrib-watch');
 
-  // Default task.
-  grunt.registerTask('dev', ['injector:dev']);
-  grunt.registerTask('prod', ['uglify', 'cssmin', 'injector:prod']);
+// Default tasks
+grunt.registerTask('dev', ['injector:dev']);
+grunt.registerTask('prod', ['uglify', 'cssmin', 'injector:prod']);
 
 };
