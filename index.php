@@ -84,16 +84,22 @@
 <div class="container">
 
 	<?php if ($dance_marathon_event_started == true) { ?>
+
+		<div id="event_banner">
 		<div class="row mt mb">
 			<div class="col-md-12 welcome_txt text-center">
-				<h1>Dance Marathon <?php echo $dm_year; ?>&nbsp;Is Here!</h1>
+				<h1 id="event_banner_title">
+					Dance Marathon <?php echo $dm_year; ?>
+						<span style="color: #F79B63; background-color: white;">Is Here</span>
+					</h1>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-12 welcome_txt text-center">
-				<a class="btn btn-primary" href="/dance-marathon">View Livestream</a>
+			<div class="col-md-4 col-md-offset-4 text-center">
+				<a id="event_page_button" class="btn hvr-underline-from-center" href="/dance-marathon">View Livestream</a>
 			</div>
 		</div>
+	</div>
 	<? } ?>
 
   <div class="row">
