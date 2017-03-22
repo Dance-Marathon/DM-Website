@@ -87,9 +87,13 @@
 
 		<div id="event_banner">
 		<div class="row mt mb">
-			<div class="col-md-12 welcome_txt text-center">
-				<h1 id="event_banner_title">
+			<div class="col-xs-12 welcome_txt text-center">
+				<h1 class="event_banner_title">
 					Dance Marathon <?php echo $dm_year; ?>
+					</h1>
+			</div>
+			<div class="col-xs-12 welcome_txt text-center">
+				<h1 class="event_banner_title">
 						<span style="color: #F79B63; background-color: white;">Is Here</span>
 					</h1>
 			</div>

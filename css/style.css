@@ -1117,7 +1117,7 @@ a:hover .img-thumbnail{
 	border-radius: 5px;*/
 }
 
-#event_banner_title {
+.event_banner_title {
 	margin-top: 0px;
 	font-weight: 800;
 	color: #014083;
