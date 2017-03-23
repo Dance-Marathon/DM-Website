@@ -68,7 +68,7 @@ include("includes/navbar.php");
 						<?php } else { ?>
 
 							<div class="row">
-								<div class="col-md-12 text-center">
+								<div id="livestream_window" class="col-md-12 text-center">
 									<h4>Livestream Currently Unavailable</h4>
 								</div>
 							</div>

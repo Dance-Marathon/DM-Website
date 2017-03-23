@@ -1170,3 +1170,13 @@ a:hover .img-thumbnail{
 	-webkit-box-shadow: 3px 3px 5px 6px #ccc;
 	box-shadow:         3px 3px 5px 6px #ccc;
 }
+
+#livestream_window {
+	width: 100%;
+	height: 250px;
+	background-color: #F2F2F2;
+}
+
+#livestream_window h4 {
+	line-height: 250px;
+}
