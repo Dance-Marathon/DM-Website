@@ -13,7 +13,7 @@
         <li data-target="#top-carousel" data-slide-to="1"></li>
         <li data-target="#top-carousel" data-slide-to="2"></li>
 <!--
-        
+
         <li data-target="#top-carousel" data-slide-to="3"></li>
         <li data-target="#top-carousel" data-slide-to="4"></li>
         <li data-target="#top-carousel" data-slide-to="5"></li>
@@ -43,24 +43,18 @@
 
         <!-- End Item -->
 
-        
+
 
         <div class="item">
-          <img class="img-responsive img-full"  src="assets/images/slider/LiveStream-01.png"></a>
-
+          <a href="/dance-marathon">
+            <img class="img-responsive img-full"  src="assets/images/slider/LiveStream-01.png">
+          </a>
         </div>
-
-
-      
 
         <div class="item">
           <a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Release.png"></a>
 
         </div>
-
-
-
-
 
         <!-- End Item -->
 
@@ -209,15 +203,15 @@
                 <th><img class="img-responsive" src="/assets/images/awards/Morale 14.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Campaign 14.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Shirt 13.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Innovation 12.png" /></th> 
+                <th><img class="img-responsive" src="/assets/images/awards/Innovation 12.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Comma 12.png" /></th>
-                
+
               </tr>
             </table>
             <table style="width:100%">
               <tr>
                 <th><img class="img-responsive" src="/assets/images/awards/Event 11.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Online 10.png" /></th> 
+                <th><img class="img-responsive" src="/assets/images/awards/Online 10.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Social.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Website 08.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Closing 05.png" /></th>
@@ -228,7 +222,7 @@
             <br>
           </div>
           <p></p>
-      </div>  
+      </div>
     </div>
   </div>
 </div>
