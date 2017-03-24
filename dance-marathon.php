@@ -103,6 +103,7 @@ include("includes/navbar.php");
 													<thead>
 														<tr>
 															<th>Event</th>
+															<th>Day</th>
 															<th>Hours</th>
 														</tr>
 													</thead>
@@ -111,71 +112,43 @@ include("includes/navbar.php");
 
 														<tr>
 															<td>Opening Ceremonies</td>
+															<td>Saturday</td>
 															<td>11:15AM – 12:00PM</td>
 														</tr>
 
 														<tr>
-															<td>Olympics</td>
-															<td>4:00PM – 6:00PM</td>
-														</tr>
-
-														<tr>
-															<td>Silent Disco</td>
-															<td>6:30PM – 7:10PM</td>
-														</tr>
-
-														<tr>
 															<td>High School Total Reveal</td>
+															<td>Saturday</td>
 															<td>7:30PM – 7:50PM</td>
 														</tr>
 
 														<tr>
-															<td>00DM</td>
-															<td>7:30PM – 9:30PM</td>
-														</tr>
-
-														<tr>
-															<td>NYC</td>
-															<td>10:30PM – 12:30AM</td>
-														</tr>
-
-														<tr>
 															<td>Rave</td>
+															<td>Sunday</td>
 															<td>1:30AM – 2:45AM</td>
 														</tr>
 
 														<tr>
-															<td>All Nighter</td>
-															<td>3:30AM – 5:30AM</td>
-														</tr>
-
-														<tr>
-															<td>Lip Sync Battle</td>
-															<td>3:40AM – 4:20AM</td>
-														</tr>
-
-														<tr>
-															<td>March Madness</td>
-															<td>6:30AM – 8:00AM</td>
-														</tr>
-
-														<tr>
-															<td>Gameshows</td>
-															<td>9:00AM – 11:00AM</td>
-														</tr>
-
-														<tr>
 															<td>Family Hour</td>
+															<td>Sunday</td>
+															<td>11:00AM – 12:00PM</td>
+														</tr>
+
+														<tr>
+															<td>Kid's Talent Show</td>
+															<td>Sunday</td>
 															<td>11:00AM – 12:00PM</td>
 														</tr>
 
 														<tr>
 															<td>Pre-Closing Award Show</td>
+															<td>Sunday</td>
 															<td>12:50PM – 1:10PM</td>
 														</tr>
 
 														<tr>
-															<td>Closing Ceremonies:</td>
+															<td>Closing Ceremonies</td>
+															<td>Sunday</td>
 															<td>1:45PM – 3:00PM</td>
 														</tr>
 
@@ -189,80 +162,102 @@ include("includes/navbar.php");
 
 													<thead>
 														<tr>
-															<th>
-																Band
-															</th>
-															<th>
-																Hours
-															</th>
+															<th>Band</th>
+															<th>Day</th>
+															<th>Hours</th>
 														</tr>
 													</thead>
 
 													<tbody>
 
 														<tr>
-															<td>Connor Reever</td>
-															<td>10:00AM – 10:40AM</td>
+															<td>Sonic Brass Band</td>
+															<td>Saturday</td>
+															<td>10:00AM – 10:30AM</td>
 														</tr>
 
 														<tr>
-															<td>Gator Band/Albert &amp; Alberta</td>
+															<td>Gator Pep Band</td>
+															<td>Saturday</td>
 															<td>10:40AM – 11:10AM</td>
 														</tr>
 
 														<tr>
-															<td>Latchkey</td>
-															<td>1:20PM – 1:50PM</td>
-														</tr>
-
-														<tr>
 															<td>Riff Off ( NSA &amp; Tone Def)</td>
-															<td>2:40PM - 3:10PM</td>
+															<td>Saturday</td>
+															<td>1:20PM - 1:50PM</td>
 														</tr>
 
 														<tr>
-															<td>Zumba</td>
-															<td>3:40PM – 4:10PM</td>
+															<td>Pure Band Class</td>
+															<td>Saturday</td>
+															<td>2:35PM – 3:00PM</td>
 														</tr>
 
 														<tr>
-															<td>Silent Disco</td>
-															<td>7:30PM – 9:20PM</td>
-														</tr>
-
-														<tr>
-															<td>The Fringes</td>
-															<td>9:40PM – 10:10PM</td>
-														</tr>
-
-														<tr>
-															<td>DJ Echols</td>
-															<td>1:30AM – 2:30AM</td>
-														</tr>
-
-														<tr>
-															<td>Morning Fatty</td>
-															<td>3:10AM – 3:40AM</td>
-														</tr>
-
-														<tr>
-															<td>Sollar Elipsis</td>
-															<td>7:00AM – 7:30AM</td>
+															<td>Miss America And Olympic Opening Ceremony</td>
+															<td>Saturday</td>
+															<td>4:00PM – 4:20PM</td>
 														</tr>
 
 														<tr>
 															<td>Sons and Soldiers</td>
-															<td>9:30AM – 10:00AM</td>
+															<td>Saturday</td>
+															<td>5:00PM – 5:30PM</td>
 														</tr>
 
 														<tr>
-															<td>80s Prom DJ</td>
-															<td>10:00AM – 11:00AM</td>
+															<td>Silent Disco</td>
+															<td>Saturday</td>
+															<td>6:30PM – 7:10PM</td>
 														</tr>
 
 														<tr>
-															<td>Closing Ceremonies:<br />The Final Countdown</td>
-															<td>1:50PM – 2:30PM</td>
+															<td>Savants of Soul</td>
+															<td>Saturday</td>
+															<td>9:00PM – 9:30PM</td>
+														</tr>
+
+														<tr>
+															<td>Hypnotist</td>
+															<td>Saturday</td>
+															<td>10:30PM – 11:20PM</td>
+														</tr>
+
+														<tr>
+															<td>Improv</td>
+															<td>Saturday</td>
+															<td>11:30PM – 12:00AM</td>
+														</tr>
+
+														<tr>
+															<td>Rave Hour (feat. DJ Echols)</td>
+															<td>Sunday</td>
+															<td>1:30AM – 2:30AM</td>
+														</tr>
+
+														<tr>
+															<td>Lip Sync Battle</td>
+															<td>Sunday</td>
+															<td>3:40AM – 4:20AM</td>
+														</tr>
+
+														<tr>
+															<td>Dazzlers</td>
+															<td>Sunday</td>
+															<td>7:20AM - 7:40AM</td>
+														</tr>
+
+														<tr>
+															<td>Arrows In Action</td>
+															<td>Sunday</td>
+															<td>8:20AM - 8:50AM</td>
+														</tr>
+
+														<tr>
+															<td>Dance Battle</td>
+															<td>Sunday</td>
+															<td>9:40AM - 10:10AM</td>
 														</tr>
 
 													</tbody>
@@ -272,98 +267,57 @@ include("includes/navbar.php");
 											</div>
 											<div role="tabpanel" class="tab-pane fade" id="themehours">
 												<table class="table table-middle">
+
 													<thead>
+
 														<tr>
-															<th>
-																Theme
-															</th>
-															<th>
-																Hours
-															</th>
+															<th>Theme</th>
+															<th>Day</th>
+															<th>Hours</th>
 														</tr>
+
 													</thead>
+
 													<tbody>
+
 														<tr>
-															<td>
-																Disney World
-															</td>
-															<td>
-																4:30PM – 5:30PM
-															</td>
+															<td>Olympics</td>
+															<td>Saturday</td>
+															<td>4:00PM - 6:00PM</td>
 														</tr>
+
 														<tr>
-															<td>
-																Outer Space
-															</td>
-															<td>
-																7:30PM – 8:30PM
-															</td>
+															<td>00DM</td>
+															<td>Saturday</td>
+															<td>8:00PM - 9:30PM</td>
 														</tr>
+
 														<tr>
-															<td>
-																School of Rock
-															</td>
-															<td>
-																9:30PM – 10:30PM
-															</td>
+															<td>NYC</td>
+															<td>Saturday</td>
+															<td>10:30PM - 12:30AM</td>
 														</tr>
+
 														<tr>
-															<td>
-																Award Shows
-															</td>
-															<td>
-																11:30PM – 12:30AM
-															</td>
+															<td>All Nighter</td>
+															<td>Sunday</td>
+															<td>3:30AM - 5:30AM</td>
 														</tr>
+
 														<tr>
-															<td>
-																Rave
-															</td>
-															<td>
-																1:30AM – 2:30AM
-															</td>
+															<td>March Madness</td>
+															<td>Sunday</td>
+															<td>6:30AM - 8:00AM</td>
 														</tr>
+
 														<tr>
-															<td>
-																Retro Video Games
-															</td>
-															<td>
-																3:30AM – 4:30AM
-															</td>
+															<td>Gameshows</td>
+															<td>Sunday</td>
+															<td>9:00AM - 11:00AM</td>
 														</tr>
-														<tr>
-															<td>
-																Camp DM
-															</td>
-															<td>
-																6:00AM – 7:00AM
-															</td>
-														</tr>
-														<tr>
-															<td>
-																Finding Neverland
-															</td>
-															<td>
-																7:30AM – 8:30AM
-															</td>
-														</tr>
-														<tr>
-															<td>
-																80s Prom
-															</td>
-															<td>
-																9:30AM – 10:30AM
-															</td>
-														</tr>
-														<tr>
-															<td>
-																Closing Ceremonies:<br />The Final Countdown
-															</td>
-															<td>
-																1:50PM – 2:30PM
-															</td>
-														</tr>
+
 													</tbody>
+
 												</table>
 											</div>
 
