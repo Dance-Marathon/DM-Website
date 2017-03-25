@@ -1,10 +1,10 @@
 <?php
 
 $status = "open"; 				//	Set to open to enable content again
-$livestream_on = "closed";	//  Set to open to enable livestream
+$livestream_on = "open";	//  Set to open to enable livestream
 
 // 	Livestream youtube embed link
-$livestream_link = "https://www.youtube.com/embed/IdGPYiivbPU";
+$livestream_link = "https://www.youtube.com/embed/90nYujy5Lbw?ecver=2";
 
 $GLOBALS['page_title'] = 'Dance-Marathon | Events | Florida Dance Marathon';
 $GLOBALS['parent'] = 'events';
@@ -60,8 +60,8 @@ include("includes/navbar.php");
 					<?php if ($livestream_on == "open") { ?>
 
 						<div class="row">
-							<div class="col-md-12 text-center" style="background-color: #5A5A5A">
-								<iframe width="560" height="315" src="<?php echo $livestream_link; ?>" frameborder="0" allowfullscreen></iframe>
+							<div class="col-md-12 text-center" style="position:relative;height:0;padding-bottom:56.25%;">
+								<iframe src="<?php echo $livestream_link; ?>" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe>
 							</div>
 						</div>
 
