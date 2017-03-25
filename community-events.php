@@ -64,7 +64,7 @@
 						<li><a href="/ftk-festival">FTK Festival</a></li>
 						<?php if ($dance_marathon_event_started == true) { ?>
 							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>
-						<? } ?>
+						<?php } ?>
           </ul>
         </div>
       </div>
