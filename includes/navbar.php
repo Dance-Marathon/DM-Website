@@ -26,7 +26,7 @@
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'students') ? "class='open'" : ""; ?>>
-					<a href="/get-involved" class="dropdown-toggle">Students</a>
+					<a href="/get-involved" class="dropdown-toggle">Student</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/get-involved">Get Involved</a></li>
 						<li><a href="/organizations">Organizations</a></li>
