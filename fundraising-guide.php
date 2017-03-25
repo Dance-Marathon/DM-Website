@@ -23,11 +23,13 @@
 		<div class="row">
 		<div class="col-md-3">
   			<div class="sub-nav">
-					<ul>
-						<li><a href="/register-to-fundraise">Register to Fundraise</a></li>
-						<li><a href="/employee-matching">Employee Matching</a></li>
-						<li><a class="active">Fundraising Guide</a></li>
-					</ul>
+          <ul>
+            <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
+            <li><a href="/employee-matching">Employee Matching</a></li>
+            <li><a class="active">Fundraising Guide</a></li>
+            <li><a href="/fundraising-days">Fundraising Days</a></li>
+            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+          </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">

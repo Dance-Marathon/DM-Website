@@ -27,12 +27,11 @@ include("includes/navbar.php");
             <li><a href="/get-involved">Get Involved</a></li>
             <li><a href="/organizations">Organizations</a></li>            
             <li><a href="/delegates">Delegates</a></li>
-            <li><a href="/dancers">Dancers</a></li>
-            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+            <li><a hred="/dancers">Dancers</a></li>
+            <li><a href="/ftkrew">FTKrew</a></li>
+            <li><a class="active">Emerging Leaders Program</a></li>
             <li><a href="/captain-teams" >Captain Teams</a></li>
             <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-            <li><a class="active">Emerging Leaders Program</a></li>
-            <li><a href="/ftkrew">FTKrew</a></li>
           </ul>
 				</div>
 			</div>

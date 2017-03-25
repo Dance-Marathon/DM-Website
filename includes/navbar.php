@@ -32,11 +32,10 @@
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+						<li><a href="/ftkrew">FTKrew</a></li>
+						<li><a href="/emerging-leaders">ELP</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Overalls</a></li>
-						<li><a href="/emerging-leaders">ELP</a></li>
-						<li><a href="/ftkrew">FTKrew</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'alumni') ? "class='open'" : ""; ?>>
@@ -60,17 +59,11 @@
 						<li><a href="/community-events">Campus Events</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/ft5k">FT5K</a></li>
-						<li><a href ="/fundraising-days">Fundraising Days</a></li>
 						<li><a href="/gala">Gala</a></li>
-						<!--Open this link when Event page is opened
-						<li><a href="/event">Event</a></li>
-						-->
-						<li><a href="/ftk-festival">FTK Festival</a></li>
+						<!-- <li><a href="/ftk-festival">FTK Festival</a></li> -->
 						<?php if ($dance_marathon_event_started == true) { ?>
 							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>
 						<? } ?>
-
-<!--						<li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'partners') ? "class='open'" : ""; ?>>
@@ -85,7 +78,9 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/register-to-fundraise">Register to Fundraise</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
-						<li><a href="/fundraising-guide">Fundraising Guide</a></li><!-- To be Created-->
+						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
+						<li><a href ="/fundraising-days">Fundraising Days</a></li>
+						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 					</ul>
 				</li>
 <!---------SPACEEEEEEEE ---->

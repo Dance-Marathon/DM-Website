@@ -156,15 +156,11 @@ background: #777275; /* For browsers that do not support gradients */
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="/get-involved">Get Involved</a></li>
-            <li><a href="/organizations">Organizations</a></li>            
-            <li><a href="/delegates">Delegates</a></li>
-            <li><a href="/dancers">Dancers</a></li>
-            <li><a class = "active">Fundraising Brackets</a></li>
-            <li><a href="/captain-teams" >Captain Teams</a></li>
-            <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-            <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-            <li><a href="/ftkrew">FTKrew</a></li>
+            <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
+            <li><a href="/employee-matching">Employee Matching</a></li>
+            <li><a href="/fundraising-guide">Fundraising Guide</a></li>
+            <li><a href="/fundraising-days">Fundraising Days</a></li>
+            <li><a class="active">Fundraising Brackets</a></li>
           </ul>
         </div>
 			</div>

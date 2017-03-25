@@ -1,5 +1,5 @@
 <?php
-	$status = "open";
+	$status = "closed";
 	$GLOBALS['page_title'] = 'FTK Festival | Events | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
