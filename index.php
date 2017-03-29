@@ -45,7 +45,7 @@
 
 
 
-        <div class="item">
+      <!--   <div class="item">
           <a href="/dance-marathon">
             <img class="img-responsive img-full"  src="assets/images/slider/LiveStream-01.png">
           </a>
@@ -54,7 +54,7 @@
         <div class="item">
           <a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Release.png"></a>
 
-        </div>
+        </div> -->
 
         <!-- End Item -->
 
@@ -77,9 +77,9 @@
 <?php include("includes/navbar.php"); ?>
 <div class="container">
 
-	<?php if ($dance_marathon_event_started == true) { ?>
+<?php if ($dance_marathon_event_started == true) { ?>
 
-		<div id="event_banner">
+		<!-- 	<div id="event_banner">
 		<div class="row mt mb">
 			<div class="col-xs-12 welcome_txt text-center">
 				<h1 class="event_banner_title">
@@ -97,13 +97,13 @@
 				<a id="event_page_button" class="btn hvr-underline-from-center" href="/dance-marathon">View Livestream</a>
 			</div>
 		</div>
-	</div>
+	</div>-->
 	<?php } ?>
 
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
-      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i><br />DM at UF is the most successful student-run philanthropy in the southeastern United States <br/> and just celebrated its 22nd year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$2,434,315.18</b></i> !<br/>Join us <b> March 25-26, 2017 </b> as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
+      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i><br/> DM at UF is the most successful student-run philanthropy in the southeastern United States <br/> and just celebrated its 23rd year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$2,724,324.19</b></i> !<br/>Join us <b> in 2018</b> as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
     </div>
   </div>
 </div>
@@ -120,6 +120,7 @@
         <i class="fa icon-balloon"></i>
         <h3>CMN Hospitals<br>& UF Health</h3>
         <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
+          <!--Update this information, we are highter than when we made this website -->
         <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
       </div>
 <!--
@@ -133,7 +134,7 @@
       <div class="col-md-3">
         <i class="fa fa-mobile" style="font-size: 52px; line-height: 40px;"></i>
         <h3>DM App</h3>
-        <p>Get the latest DM updates, learn about our Miracle Children, play DM Heads Up, and more with our new DM app!</p>
+        <p>Get the latest DM updates, learn about our Miracle Children, and more with our new DM app!</p>
         <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
       </div>
       <div class="col-md-3">

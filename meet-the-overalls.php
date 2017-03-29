@@ -292,6 +292,7 @@
   );
 ?>
 
+
 <div class="page-heading parallax meet-the-overalls">
   <div class="inner-wrapper">
 	  <div class="container">
@@ -311,7 +312,7 @@
   			<div class="sub-nav">
           <ul>
             <li><a href="/get-involved">Get Involved</a></li>
-            <li><a href="/organizations">Organizations</a></li>            
+            <li><a href="/organizations">Organizations</a></li>
             <li><a href="/delegates">Delegates</a></li>
             <li><a hred="/dancers">Dancers</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>

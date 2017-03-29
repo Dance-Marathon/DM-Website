@@ -64,24 +64,26 @@ include("includes/navbar.php");
 
         <h3>Total Hours Danced</h3>
         <p>
-          <b>651.8</b> hours
+          <b>678</b> hours
           <br/>
-          <b>367,081.2</b> hours by all of our dancers <b>combined</b> <!--change to exact-->
+          <b>388,696.2</b> hours by all of our dancers <b>combined</b> <!--change to exact-->
           <br/>
           Year that DM at UF started: <b>1995</b>
         </p>
 
         <h3>Participants</h3>
         <p>
-          Number of Dancers in 2016: <b>815</b> (maximum capacity)
+          Number of Dancers in 2017: <b>825</b> (maximum capacity)
           <br/>
-          Number of Captains: <b>365</b>
+          Number of Captains: <b>385</b>
           <br/>
-          Number of Staff: <b>454</b>
+          Number of Emerging Leaders: <b>159</b>
+          <br/>
+          Number of FTKrew: <b>237</b>
           <br/>
           Number of participants in total (including Overalls, Captains, Dancers and Staff): <b>6,833</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
           <br/>
-          Number of Miracle Families: <b>77</b>
+          Number of Miracle Families: <b>85</b>
           <br/>
           Number of Sponsors: <b>150</b>
           <br/>
@@ -94,15 +96,15 @@ include("includes/navbar.php");
           <br/>
           <b>6,861</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>
-          Amount raised in 2016: <b>$2,434,315.18</b>
+          Amount raised in 2017: <b>$2,724,324.19</b>
           <br/>
-          Total amount raised in past 22 years: more than <b>$12.5 million</b> ($12,531,016) <!-- 10,096,701-->
+          Total amount raised in past 23 years: more than <b>$15.2 million</b> ($15,255,340) <!-- 10,096,701-->
           <br/>
-          Community Events: <b>5 events</b> - Bowling, Dodgeball, Food Truck Rally, FT5K, Cirque du FTK
+          Events: <b>4 events</b> - Bowling, Kickball, FT5K, FTKFestival
         </p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="nomenclature">
-           
+
            <h3>Event Title</h3>
         <p>
           First Reference: Dance Marathon at the University of Florida
@@ -116,9 +118,9 @@ include("includes/navbar.php");
 
         <h3>Hospital Title</h3>
         <p>
-          First Reference: UFHealth Shands Children’s Hospital
+          First Reference: UF Health Shands Children’s Hospital
           <br/>
-          Second Reference: UFHealth Shands
+          Second Reference: UF Health Shands
         </p>
 
         <h3>Motto</h3>
@@ -144,16 +146,17 @@ include("includes/navbar.php");
           <li>
             Overall Directors
             <ul>
-              <li>Overall Director</li>
-              <li>External Communication</li>
-              <li>Internal Communication</li>
-              <li>Finance</li>
-              <li>Community Events</li>
+              <li>Excecutive Director</li>
+              <li>External Manager</li>
+              <li>Internal Manager</li>
+              <li>Membership Development Manager</li>
+              <li>Finance Manager</li>
               <li>Creative Development</li>
               <li>Dancer Relations</li>
               <li>Family Relations</li>
               <li>Fundraising</li>
               <li>Hospitality</li>
+              <li>Leadership Development</li>
               <li>Marathon Relations</li>
               <li>Merchandise</li>
               <li>Morale</li>
@@ -167,12 +170,12 @@ include("includes/navbar.php");
           </li>
           <li>Assitant Directors & Captains
             <ul>
-              <li>Community Events</li>
               <li>Creative Development</li>
               <li>Dancer Relations</li>
               <li>Family Relations</li>
               <li>Fundraising</li>
               <li>Hospitality</li>
+              <li>Leadership Development</li>
               <li>Marathon Relations</li>
               <li>Merchandise</li>
               <li>Morale</li>
@@ -184,13 +187,14 @@ include("includes/navbar.php");
               <li>Sponsorships</li>
             </ul>
           </li>
+          <li>Emerging Leaders</li>
           <li>FTKrew</li>
           <li>Delegates</li>
           <li>Dancers</li>
           <li>Fundraisers</li>
           <li>Dance Marathon Alumni Association (DMAA)</li>
         </ul>
-              
+
           </div>
           <div role="tabpanel" class="tab-pane fade" id="dancer-faqs">
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
