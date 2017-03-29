@@ -25,7 +25,7 @@
       <div class="carousel-inner">
 
         <div class="item active">
-          <img class="img-responsive"  src="assets/images/slider/TotalDM2016.jpg">
+          <img class="img-responsive"  src="assets/images/slider/TotalDM2017.png">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <div class="col-md-6">
@@ -45,13 +45,13 @@
 
 
 
-      <!--   <div class="item">
-          <a href="/dance-marathon">
-            <img class="img-responsive img-full"  src="assets/images/slider/LiveStream-01.png">
+   <div class="item">
+          <a href="https://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609?ls=1&mt=8" target="_blank">
+            <img class="img-responsive img-full"  src="assets/images/slider/APP.png">
           </a>
         </div>
 
-        <div class="item">
+            <!--  <div class="item">
           <a href="http://floridadm.org/get-involved" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/Release.png"></a>
 
         </div> -->
