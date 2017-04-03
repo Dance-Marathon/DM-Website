@@ -33,9 +33,9 @@
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/ftkrew">FTKrew</a></li>
-						<li><a href="/emerging-leaders">ELP</a></li>
+						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/meet-the-overalls">Overalls</a></li>
+						<li><a href="/meet-the-overalls">Meet The Overalls</a></li>
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'alumni') ? "class='open'" : ""; ?>>
@@ -56,10 +56,10 @@
 				<li <?php echo ($parent == 'events') ? "class='open'" : ""; ?>>
 					<a href="/events" class="dropdown-toggle">Events</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/community-events">Campus Events</a></li>
+						<li><a href="/campus-events">Campus Events</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/ft5k">FT5K</a></li>
-						<li><a href="/gala">Gala</a></li>
+						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<!-- <li><a href="/ftk-festival">FTK Festival</a></li> -->
 						<?php if ($dance_marathon_event_started == true) { ?>
 							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>

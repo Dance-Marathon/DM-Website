@@ -24,12 +24,10 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-			<li><a href="/community-events">Campus Events</a></li>
+			<li><a href="/campus-events">Campus Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
             <li><a href="/ft5k">FT5K</a></li>
-            <li><a href ="/fundraising-days">Fundraising Days</a></li>
-            <li><a href="/gala">Gala</a></li>
-            <li><a href="/ftk-festival">FTK Festival</a></li>
+            <li><a href="/miracle-gala">Miracle Gala</a></li>
            <!-- <li><a href="/event">Event</a></li>NOT YET MADE -->
 
 				<!--<li><a href="/dance-marathon">Dance Marathon 2016</a></li>

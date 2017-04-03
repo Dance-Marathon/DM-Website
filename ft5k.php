@@ -27,7 +27,7 @@
 						<li><a href="/community-events">Campus Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
             <li><a class="active">FT5K</a></li>
-            <li><a href="/gala">Gala</a></li>
+            <li><a href="/miracle-gala">Miracle Gala</a></li>
 						<?php if ($dance_marathon_event_started == true) { ?>
 							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>
 						<?php } ?>

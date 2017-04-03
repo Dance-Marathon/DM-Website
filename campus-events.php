@@ -17,23 +17,13 @@
             'image' => 'Dodgeball.jpg',
             ),
         array(
-            'name' => 'Field Day',
-            'description' => 'With games including tug-of-war, water balloon fights, three-legged races and dizzy bat, Field Day lets us relive our elementary school days! Live music featuring local bands from our DMLive event provide the soundtrack for the day, and voting on favorite bands can help get them to the event in March. You won’t want to miss out on this chance to be a kid, while helping the kids!',
-            'image' => 'FieldDay.jpg',
+            'name' => 'FTKickball',
+            'description' => '',
+						'image' => '',
             ),
         array(
-            'name'  => 'Food Truck Rally',
-            'description' => 'Dance Marathon at UF partners with CYMplify to put on a Food Truck rally for the Gainesville community. CYMplify&#39;s motto of ‘doing good things with good people’ is all-encompassing of what DM stands for and helps create a great atmosphere for an even better event. The food truck line-up includes Bubba Luigi\'s Road Trip, FED Food Company, Go Go Stuff Yourself, Humble Pie, Off The Griddle, Soup to Nuts and Monsta Lobsta. With entertainment, great food and stories shared from our Miracle Families, this is one event not to miss out on!',
-            'image' => 'DMCymp.jpg',
-            ),
-        array(
-            'name' => 'FT5K',
-            'description' => 'FT5K is an early morning race that takes participants through the beautiful UF campus each spring. Over 1,000 members of the UF/Gainesville community register to run and compete for prizes. Participants register to enjoy a light walk/jog through campus with friends, get in shape for Spring Break or compete for a trophy. <a href="http://events.dancemarathon.com/event/ft5k/">Click Here</a> to sign up!',
-            'image' => '5k.jpg',
-            ),
-        array(
-            'name'  => 'FTKarnival',
-            'description' => 'Come one, come all to Dance Marathon’s FTKarnival. We\'re celebrating DM’s 23rd year, and this is the perfect way to get us ready for the event! Get ready for food, entertainment, bounce houses, snow cones, clowns, face-painting, balloon animals and carnival games. FTKarnival is a family favorite, dont miss out!',
+            'name'  => 'FTK Festival',
+            'description' => 'Come one, come all to Dance Marathon’s FTK Festival. We\'re celebrating DM’s 23rd year, and this is the perfect way to get us ready for the event! Get ready for food, entertainment, , face-painting, balloon animals and carnival games. FTK Festival is a family favorite, dont miss out!',
             'image' => 'carnival.jpg',
             ),
         );
@@ -60,7 +50,7 @@
             <li><a class="active">Campus Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
             <li><a href="/ft5k">FT5K</a></li>
-            <li><a href="/gala">Gala</a></li>
+            <li><a href="/miracle-gala">Mracle Gala</a></li>
 						<li><a href="/ftk-festival">FTK Festival</a></li>
 						<?php if ($dance_marathon_event_started == true) { ?>
 							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>
