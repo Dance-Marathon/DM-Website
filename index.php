@@ -99,13 +99,13 @@
 			</div>
 		</div>
 	</div>
-  
+
 	<?php } ?>
 
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
-      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i><br/> DM at UF is the most successful student-run philanthropy in the southeastern United States <br/> and just celebrated its 23rd year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$2,724,324.19</b></i> !<br/>Join us <b> in 2018</b> as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
+      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i><br/> DM at UF is the most successful student-run philanthropy in the southeastern United States <br/> and just celebrated its 23rd year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$2,724,324.19</b></i> !<br/>Join us in <b> 2018</b> as we continue to make bigger and better miracles <i style="color:#f79b63;"><b>For The Kids!</b></i></p>
     </div>
   </div>
 </div>
@@ -115,7 +115,7 @@
       <div class="col-md-3">
         <i class="fa icon-foot"></i>
         <h3>Our Story</h3>
-        <p>DM at UF is one of the first five founding Dance Marathon programs in the nation and since our start, we have raised more than $12.4 million for the kids at UF Health Shands Children’s Hospital, our local CMN hospital. Everything we do is For The Kids!</p>
+        <p>DM at UF is one of the first five founding Dance Marathon programs in the nation and since our start, we have raised more than $15.2 million for the kids at UF Health Shands Children’s Hospital, our local CMN hospital. Everything we do is For The Kids!</p>
         <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
       </div>
       <div class="col-md-3">
@@ -213,7 +213,6 @@
             </table>
             <table style="width:100%">
               <tr>
-                <th><img class="img-responsive" src="/assets/images/awards/Event 11.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Online 10.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Social.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Website 08.png" /></th>

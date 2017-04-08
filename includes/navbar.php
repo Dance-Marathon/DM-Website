@@ -26,7 +26,7 @@
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'students') ? "class='open'" : ""; ?>>
-					<a href="/get-involved" class="dropdown-toggle">Student</a>
+					<a href="/get-involved" class="dropdown-toggle">Students</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/get-involved">Get Involved</a></li>
 						<li><a href="/organizations">Organizations</a></li>
@@ -79,13 +79,13 @@
 						<li><a href="/register-to-fundraise">Register to Fundraise</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
-						<li><a href ="/fundraising-days">Fundraising Days</a></li>
+						<li><a href ="/fundraising-days">Fundrasing Days</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 					</ul>
 				</li>
 <!---------SPACEEEEEEEE ---->
 
-				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">DM Store</a></li>
+				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">Store</a></li>
 
 				 <!--
 				 <li><a href="/blog/">Blog</a></li>
