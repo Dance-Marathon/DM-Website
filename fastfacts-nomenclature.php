@@ -75,13 +75,13 @@ include("includes/navbar.php");
         <p>
           Number of Dancers in 2017: <b>825</b> (maximum capacity)
           <br/>
-          Number of Captains: <b>385</b>
+          Number of Captains: <b>412</b>
           <br/>
           Number of Emerging Leaders: <b>159</b>
           <br/>
-          Number of FTKrew: <b>237</b>
+          Number of FTKrew: <b>254</b>
           <br/>
-          Number of participants in total (including Overalls, Captains, Dancers and Staff): <b>6,833</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
+          Number of participants in total (including Overalls, Captains, Dancers and Staff): <b>7,634</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
           <br/>
           Number of Miracle Families: <b>85</b>
           <br/>
@@ -92,9 +92,9 @@ include("includes/navbar.php");
 
         <h3>Fundraising</h3>
         <p>
-          <b>43,746</b> donations on Donor Drive <!--change to exact-->
+          <b>49,074</b> donations on Donor Drive <!--change to exact-->
           <br/>
-          <b>6,861</b> fundraisers raised at least $1 <!--change to exact-->
+          <b>4,643</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>
           Amount raised in 2017: <b>$2,724,324.19</b>
           <br/>
