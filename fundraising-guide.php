@@ -27,8 +27,8 @@
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
             <li><a href="/employee-matching">Employee Matching</a></li>
             <li><a class="active">Fundraising Guide</a></li>
-            <li><a href="/fundraising-days">Fundraising Days</a></li>
-            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+            <li><a href="/campus-push-days">Campus Push Days</a></li>
+          <!--  <li><a href="/fundraising_brackets">Fundraising Brackets</a></li> -->
           </ul>
         </div>
 			</div>
@@ -74,7 +74,7 @@
 								 </ul>
 								 <h4 style="padding-left:1em; size:80%">Templates</h3>
 								 <p>
-								 <!--- Templates to be inserted here!--> 
+								 <!--- Templates to be inserted here!-->
 
 								<h4>Fundraising Tips</h4>
 									<ul>

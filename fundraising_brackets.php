@@ -1,5 +1,5 @@
 <?php
-$status = "open";
+$status = "closed";
 $GLOBALS['page_title'] = 'Fundraising Brackets | Students | Florida Dance Marathon';
 $GLOBALS['parent'] = 'get-involved';
 include("includes/head.php");
@@ -159,8 +159,8 @@ background: #777275; /* For browsers that do not support gradients */
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
             <li><a href="/employee-matching">Employee Matching</a></li>
             <li><a href="/fundraising-guide">Fundraising Guide</a></li>
-            <li><a href="/fundraising-days">Fundraising Days</a></li>
-            <li><a class="active">Fundraising Brackets</a></li>
+            <li><a href="/campus-push-days">Campus Push Days</a></li>
+          <!--  <li><a class="active">Fundraising Brackets</a></li> -->
           </ul>
         </div>
 			</div>
