@@ -12,11 +12,6 @@
             'image' => 'Bowling.JPG',
             ),
         array(
-            'name' => 'Dodge Ball',
-            'description' => 'Wipe off your sneakers, pull out your sweatbands and get ready for an intense, but fun, game of dodgeball For The Kids! The event will include a DJ, water and snacks. Don’t forget to watch out for flying dodgeballs while cheering on your team!',
-            'image' => 'Dodgeball.jpg',
-            ),
-        array(
             'name' => 'FTKickball',
             'description' => '',
 						'image' => '',
