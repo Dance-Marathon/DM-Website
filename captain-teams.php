@@ -726,7 +726,7 @@ include("includes/navbar.php");
             </div>
             <div id="a14" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q14">
               <div class="panel-body">
-                <b> The Productions Team </b> is responsible for all logistics and entertainment throughout the year and during the 26.2-hour event. Before the Dance Marathon event, the Productions Team assists the Morale Team with planning theme hours, building and organizing the homecoming float, coordinating and executing small campus events, and working with the O’Connell Center to plan all logistics for the event. During the DM event, the Productions Team carries out all operational duties in the O’Connell Center, including setting up and striking theme hours, organizing security and clean up, and overseeing all entertainment aspects during the 26.2 hours.
+                <b> The Productions Team </b> is responsible for all logistics and entertainment throughout the year and during the 26.2-hour event. The Productions Team is also in charge of building and organizing the homecoming float, coordinating and executing small campus events, and working with the O’Connell Center to plan all logistics for the main event. The Productions Team carries out all operational duties in the O’Connell Center, including setting up and striking theme hours, organizing security and clean up, and overseeing all entertainment aspects during the 26.2 hours.
                 <h4><b>Assistant Director of Logistics </b></h4>
                 Jimmy Wheeler
                 <h4><b>Assistant Director of Talent Relations </b></h4>
