@@ -41,7 +41,7 @@ include("includes/navbar.php");
 <!--      <p>Emerging Leaders List can be found <a href="/emerging-leaders">here</a></p> -->
      <p>Each Captain team is composed of an <b>Overall Director</b>, <b>Assistant Directors</b> and <b>Captains</b>. </p>
       <ul>
-        <li><b>Assistant Directors</b> are Individuals who work yearlong with their respective Overall Directors to ensure steady growth and management within their Captain team. ADs possess effective skills in responsibility, organization and leadership. The responsibilities of each AD position vary among each Captain team. Assistant Directors are elected at the end of Spring semester.</li>
+        <li><b>Assistant Directors</b> are individuals who work yearlong with their respective Overall Directors to ensure steady growth and management within their Captain team. ADs possess effective skills in responsibility, organization and leadership. The responsibilities of each AD position vary among each Captain team. Assistant Directors are elected at the end of Spring semester.</li>
         <li><b>Captains</b> are leaders within our organization who have specific duties throughout the year depending on their teams. There are 15 Captain teams, each having vastly different responsibilities to ensure the growth and promotion of our cause on many different fronts. Captains typically have weekly or biweekly meetings and are a vital part of the Dance Marathon family. Captains applications are released at the beginning of Fall semester. </li>
       </ul>
       <p>Click each tab below to learn more about each team and its responsibilities.</p>
