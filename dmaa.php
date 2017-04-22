@@ -42,14 +42,14 @@
       </p>
       <h3>Benefits</h3>
       <ul>
-        <li>Invitation to The Miracle Gala sponsored by the UFAA on March 24, 2017</li>
-        <li>An official DMA t-shirt at the event (March 25-26, 2017)</li>
-        <li>DMA social Saturday night</li>
-        <li>Miracle Breakfast on Sunday of the event</li>
-        <li>Preferred floor access at the event</li>
-        <li>Special offers to the online DM Store</li>
-        <li>Newsletters keeping you up to date on the happenings of DM at UF, the DMA and more!</li>
-        <li>Access to the Family Room during the Event</li>
+        <li>Discounted ticket to the Miracle Gala</li>
+        <li>An official DMA shirt at the Event</li>
+        <li>Miracle Breakfast on the Sunday of the Event</li>
+        <li>Preferred floor access at the Event</li>
+        <li>Access to the Family Room at the Event</li>
+        <li>Behind the Scenes Hospital Tour during the Event weekend</li>
+        <li>Newsletters keeping you up-to-date on DM at UF and the DMA</li>
+        <li>Additional benefits depending upon sponsorship agreements</li>
       </ul>
       <p></p>
       <?php } else { echo 'This page is currently closed.'; } ?>
