@@ -8,7 +8,7 @@ FONTS
 @import url(//fonts.googleapis.com/css?family=Oswald:400,700,300);
 
 body {
-	font-family: Open Sans, arial, sans-serif;
+	font-family: Avenir, arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading, .btn-default, .flip-clock-divider .flip-clock-label {
 	font-family: Oswald, arial, sans-serif;
