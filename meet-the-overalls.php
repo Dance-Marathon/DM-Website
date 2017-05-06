@@ -11,7 +11,7 @@
 		),
     array(
 			'name'                  =>  'Joel Rivera',
-      'position'              =>  'Overall Director',
+      'position'              =>  'Executive Director',
       'email'                 =>  'jrivera@floridadm.org',
 			'previous_involvement'  =>  'Delegate, Dancer, Morale Captain (2 lit years), Morale Overall',
 			'major'                 =>  'Political Science',
@@ -30,7 +30,7 @@
 		),
     array(
 			'name'                  =>  'Rachel Auld',
-      'position'              =>  'External Communication Overall',
+      'position'              =>  'External Communications Manager',
       'email'                 =>  'rauld@floridadm.org',
 			'previous_involvement'  =>  'Dancer, Marathon Relations Captain, Marathon Relations Overall',
       'major'                 =>  'Accounting',
@@ -44,7 +44,7 @@
     ),
     array(
       'name'                  =>  'Madison Grasty',
-      'position'              =>  'Internal Communication Overall',
+      'position'              =>  'Internal Communications Manager',
       'email'                 =>  'mgrasty@floridadm.org',
 			'previous_involvement'  =>  'Dancer, Recruitment Captain, Assistant Director of Campus Relations',
       'major'                 =>  'Information Systems & Operations Management',
@@ -58,7 +58,7 @@
     ),
     array(
 			'name'                  =>  'Allie Becher',
-      'position'              =>  'Finance Overall',
+      'position'              =>  'Finance Manager',
       'email'                 =>  'abecher@floridadm.org',
 			'previous_involvement'  =>  'Dancer, Finance Captain, Fundraising Overall',
       'major'                 =>  'Finance',
@@ -72,7 +72,7 @@
     ),
 		array(
       'name'                  =>  'Joey Whelihan',
-      'position'              =>  'Membership Overall',
+      'position'              =>  'Membership Manager',
       'email'                 =>  'jwhelihan@floridadm.org',
 			'previous_involvement'  =>  'Dancer, Delegate, Recruitment Captain (2 years), Recruitment Overall Director',
 			'grad'                  =>   'Medicine',
