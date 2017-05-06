@@ -98,7 +98,7 @@ In March of 2016 I was able to shadow a pediatric oncologist. One of the first t
       'fun_fact'              =>  'For 6 years of my life (from ages 14-20), I spent my summers working as a scenic artist for theme parks like Disney and Universal! I&#39;ve worked on everything from designing and painting the Halloween Horror Nights houses at Universal, to sculpting pieces for the new Avatar section in Animal Kingdom, and even helping with the dragon on top of Gringotts Bank in The Wizarding World of Harry Potter!',
       'favorite_memory'       =>  'As I wandered into Shands children’s hospital a woman stopped me and said “Thank You”. As she saw the confused look on my face she said again, now louder: “Thank you for all the hard work you did and will do. We are truly thankful, because of you guys; I still have my son with me”. I then realized that she was talking about my involvement with the organization. I did not know this woman nor she knew me but at that moment I could see that she was truly thankful. That’s when I realized that as much as all the work we do was not directly at the with the patients, it was still improving and saving lives of those at Shands children’s Hospital.',
       'motivation'            =>  'Seeing and realizing that the miracles we create are not just for better technology or research but the miracles of hope. Dance Marathon at the University of Florida has given hope and happiness to a lot of families around the state! That truly makes me happy and hope that I can help create many more miracles like these!',
-      'image'                 =>  'Sam',
+      'image'                 =>  'Sam3',
     ),
     array(
       'name'                  =>  'Eric Rice',
