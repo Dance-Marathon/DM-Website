@@ -44,11 +44,14 @@
 				<p>Whether you’re a walker or a runner, anyone can register to participate! The registration fee is $25 and will include a t-shirt.</p>
 <p>					<a href="http://events.dancemarathon.com/event/MilkyWayFT5K" target="_blank">Sign up here</a>, to participate in the FT5K! </p>
 				<p> <b>Won’t be in Gainesville on this date? No worries! </b> You can register for our <b>virtual FT5K</b>, in which you can pledge to run 3 miles in a different location on the day of the race. This is a great way to get your friends and family together and run through your local community! Registration will be $25, and after proof of running the 5K, you will be mailed your runner’s packet and t-shirt.</p>
-<p>If you have any questions, please contact Adam Lassley,  Community Events Overall at <a href="mailto:alassley@floridadm.org">alassley@floridadm.org</a></p>
+
+<!-- <p>If you have any questions, please contact Adam Lassley,  Community Events Overall at <a href="mailto:alassley@floridadm.org">alassley@floridadm.org</a></p> -->
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>
 </div>
+
+
 
 <?php include("includes/foot.php"); ?>
