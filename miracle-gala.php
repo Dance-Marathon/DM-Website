@@ -40,7 +40,7 @@
 				<h2>Gala</h2>
 
   			<p>
-  			Join us at Emerson Alumni Hall on March 24, 2017 for the Miracle Gala sponsored by the University of Florida Alumni Association. What better way to kick off the Dance Marathon at UF weekend than by enjoying an evening of fine dining, personal recognition, dancing and celebrating all of the accomplishments of Dance Marathon at the University of Florida and the Doctors at UF Health Shands Children’s Hospital. For more information, please contact the Outreach Overall Director, Alexandra Hernandez, at <a href="mailto:ahernandez@floridadm.org">ahernandez@floridadm.org</a>. We look forward to seeing you there!
+  			Join us at Emerson Alumni Hall on March 24, 2017 for the Miracle Gala sponsored by the University of Florida Alumni Association. What better way to kick off the Dance Marathon at UF weekend than by enjoying an evening of fine dining, personal recognition, dancing and celebrating all of the accomplishments of Dance Marathon at the University of Florida and the Doctors at UF Health Shands Children’s Hospital. For more information, please contact the Outreach Overall Director, Analiese Wagner, at <a href="mailto:awagner@floridadm.org">awagner@floridadm.org</a>. We look forward to seeing you there!
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>

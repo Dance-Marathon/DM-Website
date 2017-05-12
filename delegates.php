@@ -26,7 +26,7 @@ include("includes/navbar.php");
   			<div class="sub-nav">
           <ul>
             <li><a href="/get-involved">Get Involved</a></li>
-            <li><a href="/organizations">Organizations</a></li>            
+            <li><a href="/organizations">Organizations</a></li>
             <li><a class="active">Delegates</a></li>
             <li><a hred="/dancers">Dancers</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
@@ -79,7 +79,7 @@ include("includes/navbar.php");
               <li>Input your information and create a new organization.</li>
               <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing organization team.</li>
             </ol>
-            <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Rachel Carter, at <a href="mailto:rcarter@floridadm.org">rcarter@floridadm.org</a> to inform her you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
+            <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Eric Rice, at <a href="mailto:erice@floridadm.org">erice@floridadm.org</a> to inform her you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
           </div>
         </div>
 

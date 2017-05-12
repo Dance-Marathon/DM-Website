@@ -52,7 +52,7 @@ include("includes/navbar.php");
 									<li> From here, you can use the tools on Donor Drive to send emails from a template, track your fundraising and personalize your fundraising page!</li>
 								</ol>
 
-								<p>If you have any questions about Donor Drive contact the Fundraising Overall, Allie Becher, at  <a href="mailto:abecher@floridadm.org">abecher@floridadm.org</a></p>
+								<p>If you have any questions about Donor Drive contact the Fundraising Overall, Arie Hariton, at  <a href="mailto:ahariton@floridadm.org ">ahariton@floridadm.org </a></p>
 
 						   	</div>
 							</div>
