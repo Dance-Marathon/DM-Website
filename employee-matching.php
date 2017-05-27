@@ -41,19 +41,19 @@
       </p>
 
       <p>
-        If your company matches contributions to <u>Shands Teaching Hospital and Clinics, Inc.</u> locally <b>OR</b> <u>Children’s Miracle Network</u> nationally, here are two ways to match your contribution:
+        If your company matches contributions to <u>Shands Teaching Hospital and Clinics, Inc.</u> locally (preferred) <b>OR</b> <u>Children’s Miracle Network</u> nationally, here are two ways to match your contribution:
       </p>
 
       <ol>
         <li>
-          If your company uses an online platform for gift matching, submit an online gift matching verification form through your company’s portal and use the information listed below as the destination for your contribution.
+          If your company uses an online platform for gift matching, submit an online gift matching verification form through your company’s portal and use the information listed below as the destination for your contribution. To be appropriately matched in the most efficient manner, we encourage matching through our preferred donation location listed below. Shands Teaching Hospital and Clinics, Inc. is our local Children’s Miracle Network Hospital and it is easiest to complete your employee match through this local option.
         </li>
         <li>
-        Obtain a matching gift verification form from your Human Resources Department.  Complete the form and list our organization name below.  If you directed your donation to Children’s Miracle Network, please email <a href="mailto:jsands@floridadm.org">jsands@floridadm.org</a> with a copy of the matching gift verification form.
+        Obtain a matching gift verification form from your Human Resources Department.  Complete the form and list our organization name below.  If you directed your donation to Children’s Miracle Network, please email <a href="mailto:abecher@floridadm.org">abecher@floridadm.org</a> with a copy of the matching gift verification form.
         </li>
       </ol>
 
-      <h3>Primary Donation Location</h3>
+      <h3>Primary Donation Location*</h3>
       <address>
         <strong>UF Health Shands</strong> - Your Local Children's Miracle Network Hospital<br/>
         <strong>EIN/TIN:</strong> 59-1943502<br/>
@@ -67,6 +67,8 @@
           PO BOX 100386<br />
           Gainesville, FL 32610-0386
       </address>
+
+* PLEASE NOTE: If you are selecting this preferred donation location, please do not list Dance Marathon at the University of Florida or CMN as the matching entity. Many companies will not accept this request, as our tax exempt status is included under the larger umbrella of Shands Teaching Hospital and Clinics, Inc. If you have any questions about this process, please reach out to Lindsay Ritenbaugh, Development Associate for Children’s Miracle Network for clarification at RITENL@shands.ufl.edu.
 
       <h3>Alternative Donation Location</h3>
       <address>
@@ -96,12 +98,12 @@
         </ul>
       <p>
         <strong>
-          * PLEASE NOTE: Notify Jesse Sands at <a href="mailto:jsands@floridadm.org">jsands@floridadm.org</a> that a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process.  Thank you for multiplying your miracles!
+          * PLEASE NOTE: Notify Allie Becher at <a href="mailto:abecher@floridadm.org">abecher@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
         </strong>
       </p>
       <p>
         <strong>
-          ** Important - Please do not fill out any forms sent with checks, turn them in directly into the Finance Director reachable at <a href="mailto:jsands@floridadm.org">jsands@floridadm.org</a>
+          ** Important - Please do not fill out any forms sent with checks; instead turn them in directly into the Finance Manager reachable at <a href="mailto:abecher@floridadm.org">abecher@floridadm.org</a>.
         </strong>
       </p>
 
