@@ -39,7 +39,7 @@ include("includes/navbar.php");
 
 					Just follow the steps bellow:</P>
 					<ol>
-						<li>Follow this <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank">Link</a> to register now!
+						<li>Follow this <a href="https://events.dancemarathon.com/event/UF2018" target="_blank">Link</a> to register now!
 							<li> Join a team <li/>
 								<ul>
 									<li>If you are joining as an individual, click <b>‘Individual’ under ‘Role’</b>. </li>
