@@ -77,7 +77,7 @@
 								 <!--- Templates to be inserted here!-->
 
 								<h4>Fundraising Tips</h4>
-								<a href="assets/PDFs/Fundraising.pdf" target="_blank">Fundraising kit PDF </a><!-- 	Link this to PDF-->
+								<a href="assets/PDFs/Fundraisings.pdf" target="_blank">Fundraising kit PDF </a><!-- 	Link this to PDF-->
 
 									<ul>
 								 	<li>Showcase your passion for the cause</li>
