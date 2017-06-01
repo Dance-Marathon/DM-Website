@@ -56,7 +56,7 @@
 				<li <?php echo ($parent == 'events') ? "class='open'" : ""; ?>>
 					<a href="/events" class="dropdown-toggle">Events</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/campus-events">Campus Events</a></li>
+						<!--<li><a href="/campus-events">Campus Events</a></li> -->
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/ft5k">FT5K</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
