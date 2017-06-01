@@ -35,9 +35,9 @@ include("includes/navbar.php");
 			<div class="col-md-8 col-md-push-1">
 				<?php if ($status == "open") { ?>
 				<h2>Register to Fundraise</h2>
-				<p> Registering to fundraise is pretty easy! </br>
+				<p> Registering to fundraise is pretty easy! </br></p>
 
-					Just follow the steps bellow:</P>
+					<p>Just follow the steps below:</p>
 					<ol>
 						<li>Follow this <a href="https://events.dancemarathon.com/event/UF2018" target="_blank">Link</a> to register now!
 							<li> Join a team <li/>

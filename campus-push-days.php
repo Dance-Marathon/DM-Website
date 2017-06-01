@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Fundraising Days | Events | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Campus Push Days | Events | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
 	include("includes/navbar.php");
@@ -11,7 +11,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Fundraising Days</h1>
+    			<h1>Campus Push Days</h1>
 	  		</div>
     	</div>
 	  </div>

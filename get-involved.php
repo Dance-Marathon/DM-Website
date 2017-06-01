@@ -25,7 +25,7 @@
   			<div class="sub-nav">
           <ul>
             <li><a class="active">Get Involved</a></li>
-            <li><a href="/organizations">Organizations</a></li>            
+            <li><a href="/organizations">Organizations</a></li>
             <li><a href="/delegates">Delegates</a></li>
             <li><a hred="/dancers">Dancers</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
@@ -79,7 +79,7 @@
 										 <ul><a href="/emerging-leaders"><b>Emerging Leader:</b> </a> Members of our new Emerging Leaders Program who work alongside the Recruitment Team, tackling and brainstorming ideas to ensure a successful future of our program.</ul>
                      <ul><a href="/captain-teams"><b>Captain:</b> </a> Member of 1 in 15 teams who take on their respective yearlong responsibilities to expand and promote our organization. </ul>
                      <ul><a href="/captain-teams"><b>Assistant Directors:</b> </a> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain teams.</ul>
-                     <ul><a href="/meet-the-overalls"><b>Overall Directors:</b> </a> The 19 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain teams to oversee, expand and promote our organization. </ul>
+                     <ul><a href="/meet-the-overalls"><b>Overall Directors:</b> </a> The 20 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain teams to oversee, expand and promote our organization. </ul>
 
 							 <table style="width:100%">
 									<tr>
