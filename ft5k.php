@@ -24,7 +24,6 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="/community-events">Campus Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
             <li><a class="active">FT5K</a></li>
             <li><a href="/miracle-gala">Miracle Gala</a></li>
