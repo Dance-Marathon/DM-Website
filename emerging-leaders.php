@@ -25,9 +25,9 @@ include("includes/navbar.php");
 				<div class="sub-nav">
           <ul>
             <li><a href="/get-involved">Get Involved</a></li>
-            <li><a href="/organizations">Organizations</a></li>            
+            <li><a href="/organizations">Organizations</a></li>
             <li><a href="/delegates">Delegates</a></li>
-            <li><a hred="/dancers">Dancers</a></li>
+            <li><a href="/dancers">Dancers</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
             <li><a class="active">Emerging Leaders Program</a></li>
             <li><a href="/captain-teams" >Captain Teams</a></li>

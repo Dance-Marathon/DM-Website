@@ -25,9 +25,9 @@ include("includes/navbar.php");
 				<div class="sub-nav">
           <ul>
             <li><a href="/get-involved">Get Involved</a></li>
-            <li><a href="/organizations">Organizations</a></li>            
+            <li><a href="/organizations">Organizations</a></li>
             <li><a href="/delegates">Delegates</a></li>
-            <li><a hred="/dancers">Dancers</a></li>
+            <li><a href="/dancers">Dancers</a></li>
             <li><a class="active">FTKrew</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/captain-teams" >Captain Teams</a></li>
@@ -50,7 +50,7 @@ include("includes/navbar.php");
       	<div role="tabpanel" class="tab-pane fade in active" id="FTKrew">
       		<h3>FTKrew</h3>
 					<p>FTKrew are motivated individuals who volunteer at Dance Marathon's main event in spring held on March 25 and 26. FTKrew is a great way for people to get involved with Dance Marathon, participate in service, and attend the event! FTKrew applications will be available February 20 through February 24. Selected FTKrew members will attend two meetings in preparation for the event in March. FTKrew members will be assigned shifts during the event with specific duties and responsibilities helping the Dancer Relations, Productions, and Hospitality teams. FTKrew members are an essential part of ensuring the efficiency and success of the 26.2-hour event.</p>
-					
+
  					<p>FTKrew are motivated individuals who volunteer at Dance Marathon's main event in spring held on March 25 and 26. FTKrew is a great way for people to get involved with Dance Marathon, participate in service, and attend the event! FTKrew applications will be available February 20 through February 24. Selected FTKrew members will attend two meetings in preparation for the event in March. FTKrew members will be assigned shifts during the event with specific duties and responsibilities helping the Dancer Relations, Productions, and Hospitality teams. FTKrew members are an essential part of ensuring the efficiency and success of the 26.2-hour event.</p>
 					<p><i>More information to come.</i></p>
       	</div>

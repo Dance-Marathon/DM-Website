@@ -61,9 +61,9 @@
 						<li><a href="/ft5k">FT5K</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<!-- <li><a href="/ftk-festival">FTK Festival</a></li> -->
-						<?php if ($dance_marathon_event_started == true) { ?>
-							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>
-						<?php } ?>
+					
+							<li><a href="/dance-marathon">Dance Marathon </a></li>
+
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'partners') ? "class='open'" : ""; ?>>
@@ -80,7 +80,7 @@
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
 						<li><a href ="/campus-push-days">Campus Push Days</a></li>
-					<!--	<li><a href="/fundraising_brackets">Fundraising Brackets</a></li> -->
+					  <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 					</ul>
 				</li>
 <!---------SPACEEEEEEEE ---->

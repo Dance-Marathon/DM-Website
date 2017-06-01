@@ -1,5 +1,5 @@
 <?php
-	$status = "open";
+	$status = "close";
 	$GLOBALS['page_title'] = 'Campus Events | Events | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
@@ -45,7 +45,7 @@
             <li><a class="active">Campus Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
             <li><a href="/ft5k">FT5K</a></li>
-            <li><a href="/miracle-gala">Mracle Gala</a></li>
+            <li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a href="/ftk-festival">FTK Festival</a></li>
 						<?php if ($dance_marathon_event_started == true) { ?>
 							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>

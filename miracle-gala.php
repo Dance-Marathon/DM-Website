@@ -24,13 +24,12 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="/campus-events">Campus Events</a></li>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
             <li><a href="/ft5k">FT5K</a></li>
             <li><a class="active">Gala</a></li>
-						<?php if ($dance_marathon_event_started == true) { ?>
-							<li><a href="/dance-marathon">Dance Marathon <?php echo $dm_year; ?></a></li>
-						<?php } ?>
+
+							<li><a href="/dance-marathon">Dance Marathon </a></li>
+
           </ul>
         </div>
 			</div>

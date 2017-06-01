@@ -1,7 +1,7 @@
 <?php
 
-$status = "closed"; 				//	Set to open to enable content again
-$livestream_on = "closed";	//  Set to open to enable livestream
+$status = "open"; 				//	Set to open to enable content again
+$livestream_on = "open";	//  Set to open to enable livestream
 
 // 	Livestream youtube embed link
 $livestream_link = "https://www.youtube.com/embed/90nYujy5Lbw?ecver=2";
@@ -35,7 +35,7 @@ include("includes/navbar.php");
 			<div class="col-md-3">
 				<div class="sub-nav">
 					<ul>
-						<li><a href="/community-events">Community Events</a></li>
+						
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 
 						<li><a href="/ft5k">FT5K</a></li>
