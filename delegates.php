@@ -67,7 +67,7 @@ include("includes/navbar.php");
             <p class="alert alert-info"><strong>Note:</strong> Delegates can also be Dancers at the event!</p>
             <h3>Delegate Tips</h3>
             <ul>
-              <li>Attend all Delegate meetings. This is the most effective way to recieve and rellay information in the clearest way possible.</li>
+              <li>Attend all Delegate meetings. This is the most effective way to receive and relay information in the clearest way possible.</li>
               <li>Utilize your designated Dancer Relations Captain. They want to answer questions and be as helpful as possible!</li>
             </ul>
           </div>
@@ -79,7 +79,7 @@ include("includes/navbar.php");
               <li>Input your information and create a new organization.</li>
               <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing organization team.</li>
             </ol>
-            <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Eric Rice, at <a href="mailto:erice@floridadm.org">erice@floridadm.org</a> to inform her you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
+            <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Eric Rice, at <a href="mailto:erice@floridadm.org">erice@floridadm.org</a> to inform him you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email him to let him know you started a team.</p>
           </div>
         </div>
 

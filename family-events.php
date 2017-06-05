@@ -38,7 +38,7 @@
           All of the correspondence is checked for appropriateness and home addresses are kept confidential.
           This year we are implementing a new part to our Pen Pal Program; each family will have the opportunity to have a get-together or dinner with its paired organization in the fall and again in the spring.
         </p>
-  
+
         <h3>Hospitality Nights</h3>
         <p>
           Want to enjoy a nice bite to eat with DM community while raising money for the cause? There will be various times throughout the fall and spring when the Hospitality Team puts together fundraiser nights at local restaurants. We would love for you to come join in on the fun!
@@ -49,7 +49,7 @@
         </p>
         <h3>Talent Show</h3>
         <p>
-          This is your child’s chance to be a Dance Marathon celebrity! We want our Miracle Children to get on stage and show us their hidden talents. In the past, we have had children perform a songs, show us a dance they choreographed and even perform with the University of Florida Dazzlers!
+          This is your child’s chance to be a Dance Marathon celebrity! We want our Miracle Children to get on stage and show us their hidden talents. In the past, we have had children perform songs, show us a dance they choreographed and even perform with the University of Florida Dazzlers!
         </p>
         <h3>Family Room</h3>
         <p>

@@ -36,9 +36,9 @@
       <?php if ($status == "open") { ?>
      	<h3>Get Involved</h3>
       <p>Your commitment to a worthy cause doesn't have to end after you graduate. Join DMA and stay FTK for years to come. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfM9yfKlItJr_P2qRLSjsZhKNoDzs5zzrk751nDSFNwR1gnFQ/viewform?usp=sf_link">Become a member or renew your membership today.</a></p>
-      <p>Be sure to like our <a href="https://www.facebook.com/FloridaDMAlumni?fref=ts">alumni page on Facebook</a> to stay connected with the rest of your Dance Marathon alumni family.</p>
+      <p>Be sure to like the official page for <a href="https://www.facebook.com/FloridaDMAlumni?fref=ts">Dance Marathon at UF Alumni on Facebook</a> to stay connected with the rest of your Dance Marathon Alumni family.</p>
       <h3>About</h3>
-      <p>Since 1995, Dance Marathon at UF has raised over $15.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 a year FTK and offers a variety of benefits.</p>
+      <p>Since 1995, Dance Marathon at UF has raised over $15.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 per year FTK and offers a variety of benefits.</p>
       </p>
       <h3>Benefits</h3>
       <ul>
@@ -47,7 +47,7 @@
         <li>Miracle Breakfast on the Sunday of the Event</li>
         <li>Preferred floor access at the Event</li>
         <li>Access to the Family Room at the Event</li>
-        <li>Behind the Scenes Hospital Tour during the Event weekend</li>
+        <li>Behind-the-scenes Hospital Tour during the Event weekend</li>
         <li>Newsletters keeping you up-to-date on DM at UF and the DMA</li>
         <li>Additional benefits depending upon sponsorship agreements</li>
       </ul>

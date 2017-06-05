@@ -67,14 +67,14 @@
 								<h4>Reaching Out</h4>
 								<h4 style="padding-left:1em; size:80%">Letters and Emails</h3>
 								 <ul>
-								 	<li>Why - Adds a personal touch to your fundraising request</li>
-								 	<li>Tips to a better response - Personalize your message and tell the story that brought you into this organization. Follow up! Be persistent! You care about this cause and that devotion will shine forth through your efforts.
+								 	<li><b>Why?</b> - Adds a personal touch to your fundraising request</li>
+								 	<li><b>Tips to a better response</b> - Personalize your message and tell the story that brought you into this organization. Follow up! Be persistent! You care about this cause and that devotion will shine forth through your efforts.
 								 	</li>
 								 	<li>A great way to say thanks for becoming part of the DM family! </li>
 								 </ul>
-								 <h4 style="padding-left:1em; size:80%">Templates</h3>
+								 <!-- <h4 style="padding-left:1em; size:80%">Templates</h3>
 								 <p>
-								 <!--- Templates to be inserted here!-->
+								Templates to be inserted here!-->
 
 								<h4>Fundraising Tips</h4>
 								<a href="assets/PDFs/Fundraisings.pdf" target="_blank">Fundraising Kit PDF </a><!-- 	Link this to PDF-->
