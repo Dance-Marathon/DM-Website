@@ -24,7 +24,7 @@
         <div class="col-md-3">
         <div class="sub-nav">
           <ul>
-            
+
             <li><a class="active">Our Partners</a></li>
             <li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
           </ul>
@@ -45,12 +45,12 @@
                   <tr>
                       <td valign="middle" width="50%" align="center"><a href="https://www.eatpdq.com/" target="_blank"><img src="assets/images/sponsors/PDQ.jpg" width="175" height="175"/></a></td>
                       <td valign="middle" width="50%" align="center"><a href="https://itunes.apple.com/us/app/ghq-app/id1157655793?mt=8" target="_blank"><img src="assets/images/sponsors/GHQ.png" width="175" height="175"/></a></td>
-                     </tr> 
+                     </tr>
                </table>
                <table width="100%">
                   <tr>
                       <td valign="middle" width="100%" align="center"><a href="http://www.dominos.com/" target="_blank"><img src="assets/images/sponsors/Dominos.jpg" width="175" height="175"/></a></td>
-                     </tr> 
+                     </tr>
                </table>
               </div>
             </div>
@@ -144,7 +144,7 @@
                       <td valign="middle" width="50%" align="center"><a href="http://www.geogroup.com/foundation" target="_blank"><img src="assets/images/sponsors/geogroupfoundation.png" width="200" height="76"/></a></td>
 
                   </tr>
-                  
+
                 </table>
               </div>
             </div>
@@ -222,7 +222,7 @@
                     <td valign="middle" width="25%" align="center"><a href="http://hookedonharrys.com/location/gainesville/" target="_blank"><img src="assets/images/sponsors/Harrys.jpg" width="150" height="68"/></a></td>
                     <td valign="middle" width="25%" align="center"><a href="https://www.zaxbys.com/" target="_blank"><img src="assets/images/sponsors/Zaxbys.png" width="100" height="100"/></a></td>
                   </tr>
-                  
+
                     <tr height="140">
                       <td valign="middle" width="25%" align="center"><a href="http://www.thehyppo.com/" target="_blank"><img src="assets/images/sponsors/hyppo.png" width="150" height="71"/></a></td>
                       <td valign="middle" width="25%" align="center"><a href="http://www.lillypinknarcissus.com" target="_blank"><img src="assets/images/sponsors/Pink Narcissus.png" width="100" height="63"/></a></td>
@@ -235,13 +235,13 @@
                       <td valign="middle" width="25%" align="center"><a href="http://www.mbofgainesville.com" target="_blank"><img src="assets/images/sponsors/Mercedes.png" width="100" height="67"/></a></td>
                       <td valign="middle" width="25%" align="center"><a href="http://www.alumnihall.com" target="_blank"><img src="assets/images/sponsors/AlumniHall.png" width="100" height="78"/></a></td>
                     </tr>
-                  
+
                     <tr heigh ="140">
                       <td valign="top"><a href="http://www.bagelbakerygainesville.com/" target="_blank">Bagel Bakery</a></td>
                       <td valign="top"><a href="http://www.hoggtownemusic.com/" target="_blank">Hoggestowne Music</a><br/><a href="http://www.hammockbeach.com/" target="_blank">Hammock Beach Resort</a></td>
                       <td valign="top"><a href="https://www.dunkindonuts.com/" target="_blank">Dunkin' Donuts</a><br/><br/></td>
                     </tr>
-                
+
                 </table>
               </div>
             </div>
@@ -286,7 +286,7 @@
                         <a href="https://burgerfi.com/" target="_blank">BurgerFi</a><br/>
                         <a href="http://www.vellosbrickstreetgrillfl.com/" target="_blank">Vellos</a><br/>
                         <a href="https://www.facebook.com/The-Copper-Monkey-1506400623513/" target="_blank">Copper Monkey</a><br/>
-                        
+
                   <td valign="top">
                         <a href="http://thornebrookchocolates.com" target="_blank">Thornebrook Chocolates</a><br/>
                         <a href="https://www.facebook.com/SababaGville/" target="_blank">Sababa</a><br/>
