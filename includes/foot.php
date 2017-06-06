@@ -5,7 +5,7 @@
           <div class="col-md-12">
 
         <p> </p>
-            <p>A copy of the official registration and financial information may be obtained from the division of consumer services by calling toll free 1-800-435-7352 within the state. Registration does not imply endorsement, approval or recommendation by the state. If you prefer not to be contacted for future fundraising activities, please notify us by calling 1-866-682-2372 or visiting: <a href="http://giving.ufhealth.org/opt-out">http://giving.ufhealth.org/opt-out</a>
+            <p>A copy of the official registration and financial information may be obtained from the division of consumer services by calling toll free 1-800-435-7352 within the state. Registration does not imply endorsement, approval or recommendation by the state. If you prefer not to be contacted for future fundraising activities, please notify us by calling 1-866-682-2372 or visiting: <b><a href="http://giving.ufhealth.org/opt-out">http://giving.ufhealth.org/opt-out</a></b>
             </p>
             <p>
 				  		<a href="http://www.health.ufl.edu/disclaimer.shtml">Disclaimer &amp; Permitted Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
