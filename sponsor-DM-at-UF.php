@@ -40,9 +40,9 @@
 
           <p>Dance Marathon at the University of Florida’s Sponsorships team will connect your company with one of UF’s most celebrated traditions and the second largest student-run philanthropy in the United States, with access to an extensive network of supporters of all ages and demographics. </p>
 
-<p> For more information, download this year’s sponsorship packet.</p>
+          <p> For more information, download this year’s sponsorship packet.</p>
 
- <p>If you have any questions, please contact our Sponsorship Overall Director, Samantha Kitroser, at <a href="mailto:skitroser@floridadm.org">skitroser@floridadm.org</a></p>
+          <p>If you have any questions, please contact our Sponsorship Overall Director, Samantha Kitroser, at <a href="mailto:skitroser@floridadm.org">skitroser@floridadm.org</a></p>
 
       <?php } else { echo 'This page is currently closed.'; } ?>
       </div>

@@ -92,7 +92,7 @@
 				 <li><a href="/blog/">Blog</a></li>
 				 -->
 
-				<li class="open"><a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank" class="active">Donate</a></li>
+				<li class="open"><a href="https://events.dancemarathon.com/event/UF2018" target="_blank" class="active">Donate</a></li>
 
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
