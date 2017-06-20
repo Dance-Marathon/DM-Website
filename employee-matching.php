@@ -90,7 +90,7 @@
       </p>
         <ul>
             <li>
-              <a href="assets/PDFs/W-9_Shands_HealthCare.pdf">Shands Teaching Hospital and Clinic, Inc.</a>
+              <a href="assets/PDFs/W-9_Shands_HealthCare.pdf">Shands Teaching Hospital and Clinics, Inc.</a>
             </li>
             <li>
               <a href="assets/PDFs/CMNW-9.pdf">Children's Miracle Network</a>
