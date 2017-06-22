@@ -36,6 +36,8 @@
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet The Overalls</a></li>
+						<li><a href="/applications">ELP Applications</a></li>
+						<!--	<li><a href="/overall-applications">Overall Applications</a></li>  -->
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'alumni') ? "class='open'" : ""; ?>>
@@ -43,7 +45,7 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/dmaa">DM Alumni</a></li>
 						<li><a href="/meet-dma-board">Meet The DMA Board</a></li>
-<!-- 						<li><a href="/overall-applications">Overall Applications</a></li> -->
+
 					</ul>
 				</li>
 				<li <?php echo ($parent == 'family') ? "class='open'" : ""; ?>>

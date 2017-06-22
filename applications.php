@@ -1,5 +1,5 @@
 <?php
-	$status = "close";
+	$status = "open";
 	$GLOBALS['page_title'] = 'Captain & ELP Applications | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
@@ -11,7 +11,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>FTKrew Applications</h1>
+    			<h1>ELP Applications</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -24,39 +24,36 @@
 			<div class="col-md-3">
   		  <div class="sub-nav">
           <ul>
-						<li><a href="/register-to-fundraise"> Register to Fundraise</a></li>
 						<li><a href="/delegates">Delegates</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-            <li><a href="/alumni">DM Alumni</a></li>
 						<li><a href="/organizations">Organizations</a></li>
-            <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
+				    <li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
-				 		<li><a class="active">FTKrew Applications</a></li>
+				 		<li><a class="active">ELP Applications</a></li>
 
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
- 					<h1> FTKrew Applications </h1>
-					<p>Applications are now open! Applications will be due <b>Friday, February 24</b>.</p>
-					<h2><a href="https://ufl.qualtrics.com/SE/?SID=SV_dpxkY7aZtLT96Tj" target="_blank">2017 FTKrew Application</a></h2>
+ 					<h3> Emerging Leaders Program Applications </h3>
+					<p>Applications are now open! Applications will be due <b>Sunday, July 2nd</b> at 11:59 pm.</p>
+					<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_e5nm2HHP9L8WzCR" target="_blank">2018 ELP Application</a></h2>
 
-					<p>Applications will be available until Friday, February 24th and selections will be made at the close of applications. After your application has been reviewed, you will receive an email if you have been selected for FTKrew. Please look for an email the morning of Wednesday, March 1st.
+					<p>Applications will be available until <b>Sunday, July 2nd</b> at 11:59 pm. After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email on Sunday, September 3rd. You will have until <b>Tuesday, September 5th</b> at noon to sign-up for your interview. If you miss this deadline, you will not be allowed to sign-up for an interview and your application will no longer be considered. Interviews will be held September 5th-8th from 5:00 to 10:00 pm. The interviews will be conducted in a group setting.
 
-					<p>Dance Marathon 2017 is on March 25th and 26th. In order to serve as an FTKrew Member, you must be available during these dates. All FTKrew members will be assigned shifts working with the Dancer Relations, Morale, Productions, and Hospitality teams. Shifts will be 1-2 hours long. Each member may have up to 3 shifts. FTKrew members will have 2 meetings in March to prepare for the event. </p>
+		<!--			<p>Dance Marathon 2017 is on March 25th and 26th. In order to serve as an FTKrew Member, you must be available during these dates. All FTKrew members will be assigned shifts working with the Dancer Relations, Morale, Productions, and Hospitality teams. Shifts will be 1-2 hours long. Each member may have up to 3 shifts. FTKrew members will have 2 meetings in March to prepare for the event. </p> -->
 
 					<h3>	IMPORTANT: Application Requirements </h3>
 
 
-							<p>In order for Dance Marathon to consider your application for , you must complete the following three criteria:
+							<p>In order for Dance Marathon to consider your application for the Emerging Leaders Program, you must complete the following three criteria:
 								<ul>
 								<li>Complete the written application form. Click the links provided to advance to the written portions. </li>
-								<li>Pay the $20 application fee. The fee must be paid at the interview.<b> FTKrew can pay <a href=" http://events.dancemarathon.com/event/ftkrew " target="_blank">here</a>
-								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="https://docs.google.com/document/d/15vHz04-0sUO6cJPDbXeV5_inQZV2mE23jPRdGoY3L6M/edit?usp=sharing" target="_blank"> here </a>on how to create a fundraising page on Donor Drive</li>
+								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> ELP can pay <a href=" http://events.dancemarathon.com/event/ftkrew " target="_blank">here</a> </b>
+								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="https://docs.google.com/document/d/15vHz04-0sUO6cJPDbXeV5_inQZV2mE23jPRdGoY3L6M/edit?usp=sharing" target="_blank"> here </a>on how to create a fundraising page on Donor Drive.</li>
 							</ul>
 							</p>
 
@@ -108,7 +105,7 @@
 							</div>
 						</div> -->
 
-        <p>Please direct questions to Grace Caswell, current Internal Communications Overall Director at <a href="mailto:gcaswell@floridadm.org">gcaswell@floridadm.org</a>.</p>
+        <p>Please email our Internal Communications Manager, Madison Grasty, at <a href="mailto:mgrasty@floridadm.org">mgrasty@floridadm.org</a>.</p> if you have any additional questions!
       <?php } else { ?>
     <!-- <p class="alert alert-info"><b>Note:</b> Captain applications are closed.</p>
         <p>Please direct questions to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p> -->
