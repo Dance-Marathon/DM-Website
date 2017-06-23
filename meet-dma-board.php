@@ -7,28 +7,26 @@
 
   $overalls = array(
     array(
-      'name'                  =>  'Jorge Sanchez',
-			'current_city'          =>  '',
-      'previous_involvement'  =>  '2011: Operations Captain</br>2012: Operations Overall</br>2013: Internal Communications Overall DM 2013</p>',
-      'fun_fact'              =>  'I have watched The Office all the way through three times.',
-      'favorite_memory'       =>  'It is almost impossible to pick one, however I will never forget how incredile it was to watch the DM Rave from the top of the O’Dome.</p>
-      </p>',
-      'continued'             =>  'I am currently an Education Consultant while pursuing a Master of Health Administration at the University of South Florida in Tampa, FL. The spirit of Dance Marathon, and the desire to help others, does not go away once you graduate. Since graduating in 2013 I have volunteered with the Pediatric Cancer Foundation in Tampa, FL. This organization works to fund Phase 1 Clincial Trials for pediatric cancer research.',
-      'image'                 =>  'sanchez'
+      'name'                  =>  'Matt Thalhamer',
+			'current_city'          =>  'Salt Lake City, UT',
+      'previous_involvement'  =>  '2011: Dancer</br>2012: Morale Staff</br>2013: Morale Captain</br>2014: Morale Captain</p>',
+      'favorite_memory'       =>  'My favorite DM memory has to be my first time seeing the 2011 Linedance as a dancer, then hearing my first miracle story.  Those two moments solidified the fact that I would be involved with Dance Marathon for the rest of my life.</p>',
+      'continued'             =>  'I have carried on Dance Marathon as an alumnus by working for Children&#39;s Miracle Network Hospitals national headquarters as a Business Intelligence Manager and by continuing to support DM at UF through donations to current participants as well as fundraising on my own.',
+      'image'                 =>  'Matt T'
     ),
     array(
-      'name'                  =>  'Madison Hager',
-			'current_city'          =>  '',
-      'previous_involvement'  =>  '2009: Dancer</br>2010: Dancer and Delegate</br>2011: Hospitality Captain</br>2012: Hospitality Overall Director</br>2013: External Communications Director</br>2015: DMA Board Member</p>',
-      'fun_fact'              =>  'I have visited all 50 states (and am originally from Iowa).',
-      'favorite_memory'       =>  'My favorite DM memory isn’t quite a memory, but a continual experience of being able to watch the miracle children grow up! I still remember the moment when I met Zander W. in 2009 (with a monkey baby leash on).</p>
-      </p>',
-      'continued'             =>  'I am currently living in Washington, DC. As alumni, we now have the opportunity not only to continue to raise awareness and financial support for both DM and CMNH, but do so outside of the Gainesville market. DM 2017 will be the ninth year I am involved with the organization and can’t wait to visit in person! I also still carry a keychain from CMNH that is the average size of a premature baby’s hand with me everywhere I go to remind me how fortunate I am.',
-      'image'                 =>  'Hager'
+      'name'                  =>  'Brian Giaquinta',
+			'current_city'          =>  'West Palm Beach, FL',
+      'previous_involvement'  =>  '2012: Finance Captain</br>2013: Finance Captain</br>2014: Finance Overall</p>',
+      'fun_fact'              =>  'I met Matt Ryan a week after the Falcons beat the Bucs in November ‘16 and thanked him on behalf of the Gator Nation for beating Jameis Winston.',
+      'favorite_memory'       =>  'My fondest memories come from doing the things I love with the people I love, so it’s no surprise that my favorites from DM have a lot to do with food and the Bravine/Pence family. Pizookies and pizza at BJ’s with Tyler, his mom, his siblings, and my finance team are memories I will cherish forever.
+Acapella line dance after the event is a close second. DM people are above average singers and dancers, FYI. </p>',
+      'continued'             =>  'Leaving Dance Marathon behind after graduation was a possibility that never crossed my mind. So long as the kids are in need of our support, and so long as I have something to give, this organization will always be a part of my life. DM at UF only grows its numbers one of two ways – the population of the University of Florida grows a bunch, which is unlikely, or the population of our involved alumni base grows a bunch, which is very likely! So, I’ll carry on spreading the word and raising the dollars and dancing the night away FTK…and adulting in my spare time.',
+      'image'                 =>  'Brian Giaquinta.PNG'
     ),
     array(
       'name'                  =>  'Eden Joyner',
-			'current_city'          =>  '',
+			'current_city'          =>  'Oakland, CA',
       'previous_involvement'  =>  '2009: Dancer</br>2010: Public Relations Captain</br>2011: Public Relations Captain</br>2012: Public Relations Overall Director</p>',
       'fun_fact'              =>  'My cat is named Admiral Catbar.',
       'favorite_memory'       =>  'It’s hard to pick just one. Flash mobs to raise awareness, Party Rocking with miracle children and coming back to Dance Marathon 2013 as an alumni to witness the $1 million milestone.</p>
@@ -37,23 +35,21 @@
       'image'                 =>  'Joyner'
     ),
     array(
-      'name'                  =>  'Garrett Chappell',
-			'current_city'          =>  '',
-      'previous_involvement'  =>  '2010: Dancer</br>2011: Marketing Captain</br>2012: Marketing Overall</br>2013: Recruitment Overall</p>',
-      'fun_fact'              =>  'I spent my 25th birthday hiking Patagonia in a snowstorm.',
-      'favorite_memory'       =>  'Aside from being part of the Million Dollar team, I will never forget the low country boil the Ferrell Family invited us to on St. Patrick’s Day.</p>
-      </p>',
-      'continued'             =>  'Almost 4 years since graduating and moving to Jacksonville, FL, I still take every chance I get to inform individuals I meet about the incredible things Dance Marathon at UF is accomplishing. It is an honor to watch this organization grow each year and a privilege to be able to connect with our alumni through the DMA and keep them engaged with our incredible cause.',
-      'image'                 =>  'Chappell'
+      'name'                  =>  'Jillian Abrahamson',
+			'current_city'          =>  'Macon, GA',
+      'previous_involvement'  =>  '2010: Dancer Buddy</br>2011: Staff</br>2012: Dancer Relations Captain</br>2013: Dancer Relations Overall</p>',
+      'fun_fact'              =>  'I ran every day for a year and basically live my life in quotes from The Office.',
+      'favorite_memory'       =>  'The 2013 Closing Ceremonies will forever be one of the most amazing 20 minutes of my life. Watching and being a part of the eruption of pure joy when we reached the $1 million milestone was unreal. I still get goosebumps every time I hear Carry On by Fun.</p>',
+      'continued'             =>  'Dance Marathon has shaped who I am as a person today. It showed me the importance of purpose and to never lose sight of what is truly precious in life. I still seem to bring up DM in conversations with almost everyone I meet, have started a career in medical technology that improves patient care, and have wrangled my little brother and all his friends to get involved now that they are at UF. I remember how challenging it can be to reach ambitious fundraising goals while involved, and am honored to be in a position now to support this organization more than ever. Since I graduated in 2013, I have come back to the O&#39;Dome every year for Dance Marathon to stand alongside my fellow alums. While we all move on from college at some point, you never truly move on from Dance Marathon.',
+      'image'                 =>  'Jillian'
     ),
     array(
       'name'                  =>  'Jamie Heekin',
-			'current_city'          =>  '',
+			'current_city'          =>  'Houston, TX',
       'previous_involvement'  =>  '2011: Dancer</br>2012: Community Events Captain</br>2013: Community Events Overall</br>2014: Overall Director</p>',
-      'fun_fact'              =>  'There is a mountain in Antarctica named Mount Heekin.',
-      'favorite_memory'       =>  'Dancing on the field with Miracle Children and the UF Marching Band during the halftime show in the Swamp.</p>
-      </p>',
-      'continued'             =>  'After graduating from UF, I spent a year working at UF Health Shands with adult and pediatric populations. I was able to witness firsthand how countless children and their families benefit from the funds raised by DM at UF. Since that time, I have also participated in Jacksonville Citywide Dance Marathon. I am currently in Houston, Texas studying to be a PA in the Texas Medical Center. Through my rotations, I have the opportunity to practice with kids who are fighting in a CMN Hospital in Texas.',
+      'fun_fact'              =>  'I know Latin but I don&#39;t like to speak it.',
+      'favorite_memory'       =>  'Dancing on the field during the halftime show in the Swamp with Miracle Children and the UF Marching Band.</p>',
+      'continued'             =>  'I am currently studying to be a PA in the Texas Medical Center in Houston, Texas. Through my rotations, I have the opportunity to practice with kids who are fighting their battles in our local CMN Hospital. Each time I see the CMN balloon on a billboard, in a patient information pamphlet, or on a piece of hospital equipment, I am reminded of the every day miracles DM at UF accomplishes. After graduating from UF, I spent a year working at UF Health and participated in Jacksonville Citywide Dance Marathon. I have, and will continue to give back through this cause for many years to support the amazing kids and their families. ',
       'image'                 =>  'Heekin'
     )
   );
