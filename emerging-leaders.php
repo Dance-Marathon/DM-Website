@@ -49,7 +49,7 @@ include("includes/navbar.php");
 	      	<div role="tabpanel" class="tab-pane fade in active" id="Program-Description">
 				<h3>Program Description</h3>
 <p></p>
-				<p> <b><a href="https://ufl.qualtrics.com/jfe/form/SV_e5nm2HHP9L8WzCR" target="_blank">ELP Pre-Applications</a></b> are open now! Applications will be open from <b>Monday, June 26th</b> through <b>Sunday, July 2nd</b> at 11:59 pm, and won’t re-open until the Fall semester begins.</p>
+				<!-- <p> <b><a href="https://ufl.qualtrics.com/jfe/form/SV_e5nm2HHP9L8WzCR" target="_blank">ELP Pre-Applications</a></b> are open now! Applications will be open from <b>Monday, June 26th</b> through <b>Sunday, July 2nd</b> at 11:59 pm, and won’t re-open until the Fall semester begins.</p> -->
 
 					<p>
 					The purpose of the Dance Marathon Emerging Leaders Program is to cultivate the skills of emerging leaders at the University of Florida within the Dance Marathon organization. The aim of the program is to engage students who have a passion to help others and who believe in our vision of curing childhood illness. The Dance Marathon Emerging Leaders Program is a new and unique first step for students desiring to join the Dance Marathon movement.
