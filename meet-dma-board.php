@@ -22,7 +22,7 @@
       'favorite_memory'       =>  'My fondest memories come from doing the things I love with the people I love, so it’s no surprise that my favorites from DM have a lot to do with food and the Bravine/Pence family. Pizookies and pizza at BJ’s with Tyler, his mom, his siblings, and my finance team are memories I will cherish forever.
 Acapella line dance after the event is a close second. DM people are above average singers and dancers, FYI. </p>',
       'continued'             =>  'Leaving Dance Marathon behind after graduation was a possibility that never crossed my mind. So long as the kids are in need of our support, and so long as I have something to give, this organization will always be a part of my life. DM at UF only grows its numbers one of two ways – the population of the University of Florida grows a bunch, which is unlikely, or the population of our involved alumni base grows a bunch, which is very likely! So, I’ll carry on spreading the word and raising the dollars and dancing the night away FTK…and adulting in my spare time.',
-      'image'                 =>  'Brian Giaquinta.PNG'
+      'image'                 =>  'BrianG'
     ),
     array(
       'name'                  =>  'Eden Joyner',
