@@ -39,10 +39,10 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3> Emerging Leaders Program Applications </h3>
-					<p>Applications are now open! Applications will be due <b>Sunday, July 2nd</b> at 11:59 pm.</p>
+					<p>Applications are now open! Applications will be due <b>Sunday, July 2nd</b> at 11:59 p.m.</p>
 					<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_e5nm2HHP9L8WzCR" target="_blank">2018 ELP Application</a></h2>
 
-					<p>Applications will be available until <b>Sunday, July 2nd</b> at 11:59 pm. After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email on Sunday, September 3rd. You will have until <b>Tuesday, September 5th</b> at noon to sign-up for your interview. If you miss this deadline, you will not be allowed to sign-up for an interview and your application will no longer be considered. Interviews will be held September 5th-8th from 5:00 to 10:00 pm. The interviews will be conducted in a group setting.
+					<p>Applications will be available until <b>Sunday, July 2nd</b> at 11:59 p.m. After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email on Sunday, September 3rd. You will have until <b>Tuesday, September 5th</b> at noon to sign-up for your interview. If you miss this deadline, you will not be allowed to sign-up for an interview and your application will no longer be considered. Interviews will be held September 5th-8th from 5:00 to 10:00 p.m. The interviews will be conducted in a group setting.
 
 		<!--			<p>Dance Marathon 2017 is on March 25th and 26th. In order to serve as an FTKrew Member, you must be available during these dates. All FTKrew members will be assigned shifts working with the Dancer Relations, Morale, Productions, and Hospitality teams. Shifts will be 1-2 hours long. Each member may have up to 3 shifts. FTKrew members will have 2 meetings in March to prepare for the event. </p> -->
 
@@ -52,8 +52,8 @@
 							<p>In order for Dance Marathon to consider your application for the Emerging Leaders Program, you must complete the following three criteria:
 								<ul>
 								<li>Complete the written application form. Click the links provided to advance to the written portions. </li>
-								<li>Pay the $25 application fee. The fee must be paid at the interview.<b> ELP can pay <a href=" http://events.dancemarathon.com/event/ftkrew " target="_blank">here</a> </b>
-								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="https://docs.google.com/document/d/15vHz04-0sUO6cJPDbXeV5_inQZV2mE23jPRdGoY3L6M/edit?usp=sharing" target="_blank"> here </a>on how to create a fundraising page on Donor Drive.</li>
+								<li>Pay the $20 application fee <b> <a href=" https://squareup.com/market/dance-marathon-at-uf/ " target="_blank">here.</a> </b>
+								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="http://floridadm.org/register-to-fundraise" target="_blank"> here </a>on how to create a fundraising page on Donor Drive.</li>
 							</ul>
 							</p>
 
