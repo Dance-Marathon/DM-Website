@@ -38,9 +38,9 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
- 					<h3> Emerging Leaders Program Applications </h3>
+ 					<h3> Emerging Leaders Program Pre-Applications </h3>
 					<p>Pre-Applications are now open! Pre-Applications will be due <b>Sunday, July 2nd</b> at 11:59 p.m.</p>
-					<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_e5nm2HHP9L8WzCR" target="_blank">2018 ELP Pre-Application</a></h2>
+					<h2><a href="https://ufl.qualtrics.com/jfe7/form/SV_e5nm2HHP9L8WzCR" target="_blank">2018 ELP Pre-Application</a></h2>
 
 					<p>After your application has been reviewed, you will receive an email to sign up for an interview time if you are selected for an interview. Please look for an email on Sunday, September 3rd. You will have until Tuesday, September 5th at noon to sign-up for your interview. If you miss this deadline, you will not be allowed to sign-up for an interview and your application will no longer be considered. Interviews will be held September 5th-8th from 5:00 to 10:00 p.m. The interviews will be conducted in a group setting.
 
