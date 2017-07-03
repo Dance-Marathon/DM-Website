@@ -32,7 +32,7 @@
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/captain-teams" >Captain Teams</a></li>
             <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="applications">ELP Applications</a></li>
+						
           </ul>
         </div>
 			</div>

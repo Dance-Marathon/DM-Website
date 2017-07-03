@@ -32,7 +32,6 @@ include("includes/navbar.php");
             <li><a class="active">Emerging Leaders Program</a></li>
             <li><a href="/captain-teams" >Captain Teams</a></li>
             <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-						<li><a href="applications">ELP Applications</a></li>
           </ul>
 				</div>
 			</div>
@@ -41,8 +40,8 @@ include("includes/navbar.php");
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs" role="tablist">
 				  <li role="presentation" class="active"> <a href="#Program-Description" aria-controls="Program-Description" role="tab" data-toggle="tab"> ELP </a></li>
-          <li role="presentation"> <a href="#Emerging-Leaders" aria-controls="Emerging-Leaders" role="tab" data-toggle="tab">Emerging Leaders</a></li>
-          <li role="presentation"> <a href="#FAQ" aria-controls="FAQ" role="tab" data-toggle="tab">FAQ</a></li>
+        <!--  <li role="presentation"> <a href="#Emerging-Leaders" aria-controls="Emerging-Leaders" role="tab" data-toggle="tab">Emerging Leaders</a></li>
+       <li role="presentation"> <a href="#FAQ" aria-controls="FAQ" role="tab" data-toggle="tab">FAQ</a></li> -->
       </ul>
 
 				<div class="tab-content">
