@@ -412,7 +412,8 @@ usort($greek_organizations, 'compareAlphabetically');
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/captain-teams" >Captain Teams</a></li>
             <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-          
+              <li><a href="/applications">Applications</a></li>
+
           </ul>
         </div>
 			</div>

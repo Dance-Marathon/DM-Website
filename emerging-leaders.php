@@ -32,6 +32,7 @@ include("includes/navbar.php");
             <li><a class="active">Emerging Leaders Program</a></li>
             <li><a href="/captain-teams" >Captain Teams</a></li>
             <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
+						  <li><a href="/applications">Applications</a></li>
           </ul>
 				</div>
 			</div>
