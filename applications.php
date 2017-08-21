@@ -38,18 +38,22 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
- 					<h3> Emerging Leaders Program Pre-Applications </h3>
-					<p>Pre-Applications are now open! Pre-Applications will be due <b>Sunday, July 2nd</b> at 11:59 p.m.</p>
-					<h2><a href="https://ufl.qualtrics.com/jfe7/form/SV_e5nm2HHP9L8WzCR" target="_blank">2018 ELP Pre-Application</a></h2>
+ 					<h3> Captain, Delegate & ELP Applications </h3>
+					<p>Applications are now open! Applications will be due <b>Sunday, September 3rd</b> at 5:00 p.m.</p>
+					<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_4IbNR3uT7whv0hf" target="_blank">2018 Captain Application</a></h2>
 
-					<p>After your application has been received and processed, you will receive an email to confirm your submission. Once the Fall arrives, you will receive an additional email to sign up for an interview time if you are selected for an interview. Please look for an email on Sunday, September 3rd. You will have until Tuesday, September 5th at noon to sign-up for your interview. If you miss this deadline, you will not be allowed to sign-up for an interview and your application will no longer be considered. Interviews will be held September 5th-8th from 5:00 to 10:00 p.m. The interviews will be conducted in a group setting.
+					<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_24Bd7YUyLPcMv65" target="_blank">2018 Delegate Application</a></h2>
+
+						<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_e5nm2HHP9L8WzCR" target="_blank">2018 Emerging Leaders Program Application</a></h2>
+
+					<p>After your application has been received and processed, you will receive an email to confirm your submission. Please look for an email on Sunday, September 3rd. You will have until Tuesday, September 5th at noon to sign-up for your interview. If you miss this deadline, you will not be allowed to sign-up for an interview and your application will no longer be considered. Interviews will be held September 5th-8th from 4:00 to 10:00 p.m.
 
 		<!--			<p>Dance Marathon 2017 is on March 25th and 26th. In order to serve as an FTKrew Member, you must be available during these dates. All FTKrew members will be assigned shifts working with the Dancer Relations, Morale, Productions, and Hospitality teams. Shifts will be 1-2 hours long. Each member may have up to 3 shifts. FTKrew members will have 2 meetings in March to prepare for the event. </p> -->
 
 					<h3>	IMPORTANT: Application Requirements </h3>
 
 
-							<p>In order for Dance Marathon to consider your application for the Emerging Leaders Program, you must complete the following three criteria:
+							<p>In order for Dance Marathon to consider your application, you must complete the following three criteria:
 								<ul>
 								<li>Complete the written application form. </li>
 								<li>Pay the $20 application fee <b> <a href=" https://squareup.com/market/dance-marathon-at-uf/ " target="_blank">here.</a> </b>
@@ -105,7 +109,7 @@
 							</div>
 						</div> -->
 
-        <p>Please email our Internal Communications Manager, Madison Grasty, at <a href="mailto:mgrasty@floridadm.org">mgrasty@floridadm.org</a>.</p> if you have any additional questions!
+        <p>Please email our Membership, Joey Whelihan, at <a href="jwhelihan@floridadm.org">jwhelihan@floridadm.org</a>.</p> if you have any additional questions!
       <?php } else { ?>
     <!-- <p class="alert alert-info"><b>Note:</b> Captain applications are closed.</p>
         <p>Please direct questions to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p> -->
