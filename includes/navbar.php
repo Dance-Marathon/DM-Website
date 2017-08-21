@@ -36,7 +36,7 @@
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/meet-the-overalls">Meet The Overalls</a></li>
-					  <li><a href="/applications">Captain, Delegate & ELP Applications</a></li>
+					  <li><a href="/applications">Applications</a></li>
 						<!--	<li><a href="/overall-applications">Overall Applications</a></li>  -->
 					</ul>
 				</li>
