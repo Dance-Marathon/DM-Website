@@ -109,7 +109,7 @@
 							</div>
 						</div> -->
 
-        <p>Please email our Membership, Joey Whelihan, at <a href="jwhelihan@floridadm.org">jwhelihan@floridadm.org</a>.</p> if you have any additional questions!
+        <p>Please email our Membership Manager, Joey Whelihan, at <a href="jwhelihan@floridadm.org">jwhelihan@floridadm.org</a>.</p> if you have any additional questions!
       <?php } else { ?>
     <!-- <p class="alert alert-info"><b>Note:</b> Captain applications are closed.</p>
         <p>Please direct questions to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p> -->
