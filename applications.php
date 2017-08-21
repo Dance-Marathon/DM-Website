@@ -1,6 +1,6 @@
 <?php
-	$status = "closed";
-	$GLOBALS['page_title'] = 'Captain & ELP Applications | Get Involved | Florida Dance Marathon';
+	$status = "open";
+	$GLOBALS['page_title'] = 'Captain, Delegate & ELP Applications | Get Involved | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
@@ -11,7 +11,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>ELP Applications</h1>
+    			<h1>Applications</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -31,7 +31,7 @@
 						<li><a href="/meet-the-overalls">Meet the Overalls</a></li>
             <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
             <li><a href="/ftkrew">FTKrew</a></li>
-				 		<li><a class="active">ELP Applications</a></li>
+				 		<li><a class="active">Captain, Delegate & ELP Applications</a></li>
 
           </ul>
         </div>
