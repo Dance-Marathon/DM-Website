@@ -55,7 +55,7 @@
 
 							<p>In order for Dance Marathon to consider your application, you must complete the following three criteria:
 								<ul>
-								<li>Complete the written application form. </li>
+								<li>Complete the online application form (linked above). </li>
 								<li>Pay the $25 application fee <b> <a href=" https://squareup.com/market/dance-marathon-at-uf/ " target="_blank">here.</a> </b>
 								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="http://floridadm.org/register-to-fundraise" target="_blank"> here </a>on how to create a fundraising page on Donor Drive.</li>
 							</ul>
