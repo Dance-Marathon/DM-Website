@@ -77,7 +77,7 @@
 		     'url' => 'http://www.edline.net/pages/Suncoast_High_School',
             ),
         array(
-         'name' => '<b>Taveres High School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Tavares, FL',
+         'name' => '<b>Tavares High School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Tavares, FL',
          'image' => 'hsdm15.jpg',
 		     'url' => 'http://www.edline.net/pages/Suncoast_High_School',
 			 ),
