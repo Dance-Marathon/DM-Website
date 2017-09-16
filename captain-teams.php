@@ -1,5 +1,5 @@
 <?php
-$status = "closed";
+$status = "open";
 $GLOBALS['page_title'] = 'Captain Teams | Students | Florida Dance Marathon';
 $GLOBALS['parent'] = 'get-involved';
 include("includes/head.php");
