@@ -63,7 +63,7 @@ include("includes/navbar.php");
               Jonathan Pereyra
               <h4><b>Assistant Director of Web Development</b></h4>
               Connor Elkin
-<b><h4>Captains</h4></b>
+<h4><b>Captains</b></h4>
               <table style="width:100%">
              <tr>
                   <td>Dana Bassan</td>
@@ -123,7 +123,7 @@ include("includes/navbar.php");
               David McCaskill
               <h4><b>Assistant Director of Tracking and Special Events</b></h4>
               Hunter Robbins
-      <b>  <h4>Captains</h4> </b>
+     <h4>  <b> Captains</b></h4>
               <table style="width:100%">
 
                 <tr>
@@ -196,7 +196,7 @@ include("includes/navbar.php");
               Andrew Jensen
               <h4><b>Assistant Director of Hospital Relations</b></h4>
               Katie Cornelius
-        <b>  <h4>Captains</h4> </b>
+    <h4>      <b>Captains</b></h4>
               <table style="width:100%">
                 <tr><td>
                   Ashley Fisher</td><td>
@@ -286,7 +286,7 @@ include("includes/navbar.php");
               Shayna Goldrich
               <h4><b>Assistant Director of Mini-Marathon Tracking</b></h4>
               Zach Ginsburg
-    <b>  <h4>Captains</h4> </b>
+   <h4>  <b> Captains</b></h4>
               <table style="width:100%">
                 <tr>
                   <td>Brendan Barany</td>
@@ -337,7 +337,7 @@ include("includes/navbar.php");
               Talia Akerman
               <h4><b>Assistant Director of Hospitality Events</b></h4>
               Kristina Sencion
-    <b> <h4>Captains</h4> </b>
+   <h4>  <b>Captains</b></h4>
               <table style="width:100%">
                 <tr>
                 <td>Emily Collins</td><td>
@@ -414,7 +414,7 @@ include("includes/navbar.php");
               Conrad Ager
               <h4><b>Assistant Director of Personal Development</b></h4>
               Ashli DeFina
-      <b>   <h4>Captains</h4> </b>
+      <h4>  <b> Captains</b></h4>
               <table style="width:100%">
                 <tr>
                   <td>Kassandra Philogene</td><td>
@@ -492,7 +492,7 @@ include("includes/navbar.php");
               Sam Heekin
               <h4><b>Assistant Director of Southern Region</b></h4>
               Paras Mehta
-      <b>   <h4>Captains</h4> </b>
+       <h4>  <b>Captains </b></h4>
               <table style="width:100%">
                 <tr>
                   <td>Annie Criser</td><td>
@@ -567,7 +567,7 @@ include("includes/navbar.php");
               Hannah Wannamaker
               <h4><b>Assistant Director of Orders</b></h4>
               Lindsey Sullivan
-        <b> <h4>Captains</h4> </b>
+       <h4>  <b>Captains</b></h4>
               <table style="width:100%">
                 <tr>
                   <td>Lindsay Beveridge</td><td>
@@ -633,7 +633,7 @@ include("includes/navbar.php");
               Chelsea Finfer
               <h4><b>Assistant Director of Communications</b></h4>
               Nicole Allison
-      <b>   <h4>Captains</h4> </b>
+      <h4>  <b> Captains</b></h4>
               <table style="width:100%">
                 <tr>
                 <td>Kylie Adkins</td><td>
@@ -724,7 +724,7 @@ include("includes/navbar.php");
               Gabriel Rojas
               <h4><b>Assistant Director of Photography</b></h4>
               Alaina DiGiacomo
-    <b>  <h4>Captains</h4> </b>
+    <h4>  <b>Captains</b></h4>
               <table style="width:100%">
                 <tr>
                   <td> Sophia Rose</td> <td>
@@ -787,7 +787,7 @@ include("includes/navbar.php");
                  Isabelle Hadley
                  <h4><b>Assistant Director of Targeted Engagement </b></h4>
                  Meredith Kalhor
-              <b>   <h4>Captains</h4> </b>
+               <h4>  <b>Captains</b></h4>
                          <table style="width:100%">
                            <tr>
                              <td>Kelly Kolman</td> <td>
@@ -859,7 +859,7 @@ include("includes/navbar.php");
                 Taylor Cavaliere
                 <h4><b>Assistant Director of Small Campus Events </b></h4>
                 Sean Biava
-   <b><h4>Captains</h4></b>
+<h4>   <b>Captains</b></h4>
                 <table style="width:100%">
                   <tr>
                     <td>Rachel Cohen</td> <td>
@@ -939,7 +939,7 @@ include("includes/navbar.php");
                 Sullivan Henry
                 <h4><b>Assistant Director of Media Outreach </b></h4>
                 Summer Orsini
-      <b>  <h4>Captains</h4> </b>
+     <h4>  <b> Captains</b></h4>
                 <table style="width:100%">
                   <tr>
                   <td> Christine Anez </td><td>
@@ -1001,7 +1001,7 @@ include("includes/navbar.php");
                 Hannah Belcher
                 <h4><b>Assistant Director of Organization Relations</b></h4>
                 Connor Bennett
-            <b> <h4>Captains</h4> </b>
+           <h4>  <b>Captains</b></h4>
                 <table style="width:100%">
                   <tr>
                     <td>Derek Nickell </td><td>
@@ -1079,7 +1079,7 @@ include("includes/navbar.php");
                 Alyssa Skryd
                 <h4><b>Assistant Director of Stewardship</b></h4>
                 Erin Park
-        <b>    <h4>Captains</h4> </b>
+          <h4>  <b>Captains</b></h4>
                 <table style="width:100%">
                   <tr>
                   <td> Robby Mijares</td><td>
