@@ -24,11 +24,6 @@
       </ol>
       <div class="carousel-inner">
 
-    <!--    <div class="item active">
-          <a href="http://floridadm.org" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/ThankYouBanner2.png"></a>
-
-        </div> -->
-
         <div class="item ">
           <img class="img-responsive"  src="assets/images/slider/TotalDM2017.png">
           <div class="carousel-caption text-center">
@@ -48,13 +43,6 @@
 
         <!-- End Item -->
 
-
-
-  <!-- <div class="item">
-          <a href="https://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609?ls=1&mt=8" target="_blank">
-            <img class="img-responsive img-full"  src="assets/images/slider/APP.png">
-          </a>
-        </div> -->
 
 
         <!-- End Item -->
