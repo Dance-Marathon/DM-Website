@@ -521,7 +521,7 @@ include("includes/navbar.php");
                 </tr>
                 <tr>
                   <td>
-                  Aaron Winer</td><td>
+                  Kimberly McDow</td><td>
                   Sierra Lloyd</td>
                   <td>Madeline Schmidt</td>
                 </tr>
