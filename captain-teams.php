@@ -947,11 +947,6 @@ include("includes/navbar.php");
                     Jenna Theofiledes </td>
                   </tr>
                   <tr>
-                  <td>  Brittney White </td><td>
-                    Caroline Miller </td><td>
-                    Caroline Rollosson </td>
-                  </tr>
-                  <tr>
                     <td>Ashley Norus </td><td>
                     Lauren Palen </td><td>
                     Ashleigh Braun </td>
