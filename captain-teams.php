@@ -66,37 +66,40 @@ include("includes/navbar.php");
           <!--       <h4>Captain</h4>
               <table style="width:100%">
              <tr>
-                  <td>Alaina Brown</td>
-                  <td>Alex Clark</td>
-                  <td>Bryan Rivera</td>
+                  <td>Dana Bassan</td>
+                  <td>Ryan Gruszczyk</td>
+                  <td>Nick Zinobile</td>
                 </tr>
                 <tr>
-                  <td>Brynna Kaplan</td>
-                  <td>Caitlin Carnahan</td>
+                  <td>Alyssa Lanzas</td>
+                  <td>Haley Smith</td>
+                  <td>Michael Smithtd>
+                </tr>
+                <tr>
+                  <td>Laura Lozano</td>
+                  <td>Sarah Cantor</td>
                   <td>Cameron Cook</td>
                 </tr>
                 <tr>
-                  <td>Connor Elkin</td>
-                  <td>Corinne Sharabi</td>
-                  <td>Ed Tischler</td>
+                  <td>GiGi Novak</td>
+                  <td>Claire Crist</td>
+                  <td>Cory Fink</td>
                 </tr>
                 <tr>
-                  <td>Jonathan Pereyra</td>
+                  <td>Brooke Mott-Smith</td>
                   <td>Kurt Grossnickle</td>
-                  <td>Mary Hanvey</td>
+                  <td>Brynna Kaplan</td>
                 </tr>
                 <tr>
-                  <td>Monty Karas</td>
-                  <td>Nick Zinobile</td>
-                  <td>Samantha Regula</td>
+                  <td>Matthew Hannan</td>
+                  <td>Corinne Sharabi</td>
+                  <td>Alaina Brown</td>
                 </tr>
                 <tr>
-                  <td>Sarah Wolk</td>
-                  <td>Savannah Gribbins</td>
-                  <td>Tori Bates</td>
-                </tr>
-                <tr>
-                  <td>Tyler Brennan </td>
+                  <td>Mia Lestorti</td>
+                  <td>Gabriella Garcia</td>
+                  <td>Marni Weiss</td>
+                  <td>Josh Churba</td>
                 </tr>
               </table> -->
             </div>
@@ -120,50 +123,56 @@ include("includes/navbar.php");
               Hunter Robbins
         <!--      <h4>Captains</h4>
               <table style="width:100%">
+
                 <tr>
-                  <td>Micayla Johnson</td><td>
-                  S. Danielle Chitty</td><td>
-                  Danielle Vollender </td>
+                  <td>Cole Abrahamson</td><td>
+                  Mary Clare Allen</td><td>
+                  Noel Fundora</td>
                 </tr>
                 <tr>
-                  <td>Alexis Castro</td><td>
-                  Meredith Marshall</td><td>
-                  Corey Huff </td>
+                  <td>Hayley Giambalvo</td><td>
+                  Christine Joseph</td><td>
+                  Lizabeth Lohmann</td>
                 </tr>
                 <tr>
-                  <td>David McCaskill</td><td>
-                  Sean Murtha</td><td>
-                  Noel Fundora </td>
+                  <td>Connor Miller</td><td>
+                  Anna Murphy</td><td>
+                  Sean Murtha</td>
                 </tr>
                 <tr>
-                  <td>Eric Rice</td><td>
-                  Caitlyn Nicholson</td><td>
-                  Rachel Gurevich </td>
+                  <td>Caitlyn Nicholson</td><td>
+                  Julia O'Connor</td><td>
+                  Kylie Paul</td>
                 </tr>
                 <tr>
-                  <td>Kayla Nocella</td><td>
-                  Mary Allen</td><td>
-                  McKenna Schaar </td>
+                  <td>McKenna Schaar</td><td>
+                  Caroline Baldwin</td><td>
+                  Jared Blinderman</td>
                 </tr>
                 <tr>
-                  <td>Trey Fritz </td><td>
-                  Hayley Giambalvo </td><td>
-                  Cole Abrahamson </td>
+                  <td>Anelise Prieto</td><td>
+                  Joni Seligson</td><td>
+                  Peter Staviski</td>
                 </tr>
                 <tr>
-                  <td>Connor Miller </td><td>
-                  Anthony Rocca </td><td>
-                  Benjamin Pawliger </td>
+                  <td>Justin Weidenfeld</td><td>
+                  Peter Giannas</td><td>
+                  Alexandra Gagliano</td>
                 </tr>
                 <tr>
-                  <td>Anna Murphy </td><td>
-                  Hunter Robbins </td><td>
-                  Kylie Paul </td>
+                  <td>Karly Parsons</td><td>
+                  Cristine Lindsay</td><td>
+                  Sydney Seif</td>
                 </tr>
                 <tr>
-                  <td>Lizabeth Lohmann </td><td>
-                  Julia O'Connor </td><td>
-                  Julie Smith </td>
+                  <td>Brooke Saban</td><td>
+                  Tyler Sweetman</td><td>
+                  Jared Weinerman</td>
+                </tr>
+                <tr>
+                  <td>Grace Knapp</td><td>
+                  Shae Margulies</td><td>
+                  Claire Overholt</td>
                 </tr>
               </table> -->
             </div>
@@ -188,70 +197,75 @@ include("includes/navbar.php");
         <!--      <h4>Captains</h4>
               <table style="width:100%">
                 <tr><td>
-                  Aaron McGee</td><td>
-                  Amanda Marr </td><td>
-                  Andrew Darvin </td>
+                  Ashley Fisher</td><td>
+                  Anna Noreman</td><td>
+                  Alec Marmo</td>
                 </tr>
                 <tr><td>
-                  Andrew Jensen</td><td>
-                  Anna Noreman</td><td>
-                  Ariel Harris </td>
-                </tr>
-                <tr>
-                <td>Ashley Fisher</td><td>
-                  Barbie Diaz</td><td>
-                  Brianna Blum </td>
-                </tr>
-                <tr>
-              <td>  Caitlin Dobson</td><td>
-                  Carli Fischer</td><td>
-                  Caroline Baker</td>
-                </tr>
-                <tr>
-                  <td>Cassandra Etzig</td><td>
-                  Courtney Mastorio</td><td>
-                  Daniella De Freitas </td>
-                </tr>
-                <tr>
-                  <td>Danielle Kripitzer</td><td>
-                  Emily Murrow</td><td>
-                  Hannah Sharpe </td>
-                </tr>
-                <tr>
-                  <td>Isabela Leon</td><td>
-                  Jenna Glick</td><td>
-                  Jesse Zilberman </td>
-                </tr>
-                <tr>
-                  <td> Jordan Lutz </td><td>
-                  Joshua Fried</td><td>
-                  Kalee Eichelberger</td>
-                </tr>
-                <tr>
-                <td>  Katelyn Cornelius</td><td>
+                  Aaron McGee</td><td>
                   Kathryn Vigilante</td><td>
-                  Kelly Kammerer </td>
+                  Mary Virginia Kline</td>
                 </tr>
                 <tr>
-                <td>  Kevin Goza</td><td>
-                  Kyle Audet</td><td>
-                  Landon Myers</td>
+                <td>Ariel Harris</td><td>
+                  Daniella De Freitas</td><td>
+                  Kevin Goza</td>
                 </tr>
                 <tr>
-                <td>  Lindsay Libera</td><td>
-                  Mackenzie Gusman</td><td>
-                  Madison Grubb</td>
+              <td>  Caroline Baker</td><td>
+                  Courtney Mastrorio</td><td>
+                  Amanda Marr</td>
                 </tr>
                 <tr>
-                  <td>Mallory Wood</td>
-                  <td> Mary Virginia Kline</td>
-                  <td> Sara Brenner </td>
+                  <td>Mackenzie Gusman</td><td>
+                  Jesse Zilberman</td><td>
+                  Hannah Sharpe</td>
                 </tr>
                 <tr>
-                <td>  Sierra Mann </td>
-                <td>  Tyler Drescher </td>
+                  <td>Stephanie Ira</td><td>
+                  Matt Hey</td><td>
+                  Caroline Miller</td>
                 </tr>
                 <tr>
+                  <td>Madelyn Mandese</td><td>
+                  Carly Knox</td><td>
+                  Kristy Minno</td>
+                </tr>
+                <tr>
+                  <td>Charles McMillan</td><td>
+                  Michaela Pattison</td><td>
+                  Lexi Sidle</td>
+                </tr>
+                <tr>
+                <td>Lindsay Asher</td><td>
+                  AJ Kerwin</td><td>
+                  Peighton Jones</td>
+                </tr>
+                <tr>
+                <td>Sarah Spardy</td><td>
+                  Jean Paul Cleveland</td><td>
+                  Taylor Paddock</td>
+                </tr>
+                <tr>
+                <td>Jennifer Vasiloff</td><td>
+                  Benjamin Weeks</td><td>
+                  Casey McLean</td>
+                </tr>
+                <tr>
+                  <td>Bailey Boulter</td>
+                  <td>Emily Chapman</td>
+                  <td>Katie Lahey</td>
+                </tr>
+                <tr>
+                <td>Troy Porter</td>
+                <td>Martha Abigail (Abbey) Parker</td>
+                <td>Emily DiNardi</td>
+                <td>Allison O'Brien</td>
+                </tr>
+                <tr>
+                <td>Nina Karlinsky</td>
+              </tr>
+              <tr>
               </table> -->
             </div>
           </div>
