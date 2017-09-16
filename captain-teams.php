@@ -73,7 +73,7 @@ include("includes/navbar.php");
                 <tr>
                   <td>Alyssa Lanzas</td>
                   <td>Haley Smith</td>
-                  <td>Michael Smitht</td>
+                  <td>Michael Smith</td>
                 </tr>
                 <tr>
                   <td>Laura Lozano</td>
