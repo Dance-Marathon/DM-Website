@@ -391,8 +391,11 @@ include("includes/navbar.php");
                 </tr>
                 <tr>
                   <td>Kylie Ditty</td><td>
-                  Brett Oehrle</td><td>
-                  Alexis Ercia</td>
+                  <td>Brett Oehrle</td><td>
+                  <td>Alexis Ercia</td>
+                </tr>
+                <tr>
+                  <td>Elizabeth Edgerton</td><td>
                 </tr>
               </table>
             </div>
@@ -548,6 +551,7 @@ include("includes/navbar.php");
                 <tr>
                 <td>Malley Goodwin</td><td>
                   Sian Hoctor</td>
+                  <td>Maggie McQuiddy</td><td>
                 </tr>
               </table>
             </div>
@@ -611,6 +615,8 @@ include("includes/navbar.php");
                   </tr>
                     <tr>
                       <td>Jonathan Acosta</td><td>
+                        <td>Claire Wilhelm</td><td>
+                          <td>Emily McGaughy</td><td>
                 </tr>
                   <tr>
               </table>
@@ -686,7 +692,7 @@ include("includes/navbar.php");
                   Daileen Paulino-Santana</td>
                 </tr>
                   <tr>
-                  <td> Anthony Temeliscu</td><td>
+                  <td> Anthony Temeliescu</td><td>
                   Jen Bacon</td><td>
                 Alexandra Sikoryak </td>
                 </tr>
@@ -981,6 +987,9 @@ include("includes/navbar.php");
                     Rachel Banks</td><td>
                     Annie Pipkin </td>
                   </tr>
+                  <tr>
+                  <td>Sarah Bartholemy</td><td>
+                  </tr>
                 </table>
               </div>
             </div>
@@ -1057,6 +1066,10 @@ include("includes/navbar.php");
                 <td> Patricia Zielinski</td><td>
                 Oliver Hoffman </td><td>
                 Blake Dolin </td>
+              </tr>
+              <tr>
+              <td> Eva Prendergast</td><td>
+              Demi Dedman</td><td>
 
                   </tr>
                 </table>
