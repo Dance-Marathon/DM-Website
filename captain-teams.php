@@ -391,8 +391,8 @@ include("includes/navbar.php");
                 </tr>
                 <tr>
                   <td>Kylie Ditty</td><td>
-                  <td>Brett Oehrle</td><td>
-                  <td>Alexis Ercia</td>
+                Brett Oehrle</td><td>
+                Alexis Ercia</td>
                 </tr>
                 <tr>
                   <td>Elizabeth Edgerton</td><td>
