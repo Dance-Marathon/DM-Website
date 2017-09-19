@@ -60,7 +60,7 @@ include("includes/navbar.php");
 			</div>
 
 
-		<!-- <div role="tabpanel" class="tab-pane fade in active" id="Emerging-Leaders">
+		<div role="tabpanel" class="tab-pane fade in active" id="Emerging-Leaders">
             	<h3>2018 Emerging Leaders</h3>
 							<p> Congratulations to our the members of 2018 Emerging Leaders Program! </p>
 							<table style="width:100%">
@@ -410,7 +410,7 @@ include("includes/navbar.php");
 									Mari	Gelabert</td>
                 </tr>
               </table>
-			      </div> -->
+			      </div>
             	<!-- <div role="tabpanel" class="tab-pane fade" id="FAQ">
 			      	<h3>FAQ</h3>
 							<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
