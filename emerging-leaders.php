@@ -61,7 +61,7 @@ include("includes/navbar.php");
 
 
 		 <div role="tabpanel" class="tab-pane fade in active" id="Emerging-Leaders">
-            	<h3>2017 Emerging Leaders</h3>
+            	<h3>2018 Emerging Leaders</h3>
 							<p> Congratulations to our the members of 2018 Emerging Leaders Program! </p>
 							<table style="width:100%">
                 <tr>
