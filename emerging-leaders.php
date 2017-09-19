@@ -60,335 +60,349 @@ include("includes/navbar.php");
 			</div>
 
 
-			<!-- <div role="tabpanel" class="tab-pane fade in active" id="Emerging-Leaders">
+		 <div role="tabpanel" class="tab-pane fade in active" id="Emerging-Leaders">
             	<h3>2017 Emerging Leaders</h3>
-							<p> Congratulations to our the members of 2017 Emerging Leaders Program! </p>
+							<p> Congratulations to our the members of 2018 Emerging Leaders Program! </p>
 							<table style="width:100%">
                 <tr>
-									<td>Abigail	Fagan </td><td>
-									Abigail	Kynes</td><td>
-									Aileen Gonzalez</td><td>
-									Alex Woeste</td></tr>
+									<td>Abigail Lowder </td><td>
+									Alexa Luboff</td><td>
+									Alexa Mederos</td><td>
+									Alexa Palermo</td></tr>
 									<tr><td>
-									Alexa	Lacy</td>
+									Alexander Becsey</td>
 
-									<td>Alexandra	Gagliano</td><td>
-									Alexandra	Miller</td><td>
-									Alexis Brown</td>
+									<td>Alexander Dela Rea</td><td>
+									Alexandra Magaldino</td><td>
+									Alexandra Sarro</td>
 								</tr>
 								<tr>
 									<td>
-									Alexis Ercia</td><td>
-									Ali	Bowlby</td>
+									Alexis Sutter</td><td>
+									Alexyss Rainford</td>
 
-									<td>Ali	Rose</td><td>
-									Alison Catena</td>
+									<td>Allison Bast</td><td>
+									Allison Hellier</td>
 								</tr>
 								<tr>
 									<td>
-									Allison	Palmer</td><td>
-									Allison	Sherman</td>	<td>
-									Alyssa Levin</td>
+									Allison Hollaway</td><td>
+									Allison Nelson</td>	<td>
+									Allison Wehle</td>
 
-									<td>Alyssa	Sawyer</td>
+									<td>Amanda Goldberg</td>
 								</tr>
 								<tr>
 									<td>
-									Amanda	Holloway</td><td>
-									Amanda	Gard</td><td>
-									Amanda	Sarbey</td><td>
-									Amanda	Masaro</td>
+									Amber Luboff</td><td>
+									Andrea Alderman</td><td>
+									Angel Zavala</td><td>
+									Angelica Abrego</td>
 								</tr>
 								<tr>
-									<td>Amanda	Rutner</td><td>
-									Amy	Deeb</td><td>
-									Ana	Mata</td><td>
-									Andrew	Kerwin</td>	</tr>
+									<td>Anna Dreibelbis</td><td>
+									Ashley Castano</td><td>
+									Ashley Novello</td><td>
+									Ashley Smokonich</td>	</tr>
 										<tr><td>
-									Angelica	Gonzalez</td>
-								<td>	Ashley	De Tullio</td><td>
-									Ashley	Gonzalez</td><td>
-									Ashley	Parigian</td>
+									Ashlyn Witzke</td>
+								<td>	Ashlyn Yarbrough</td><td>
+									Audry Wells</td><td>
+									Austen Hentschel</td>
 								</tr>
 								<tr>
 									<td>
-									Ashley	Jacobs</td><td>
-									Ashton	Wilson</td>
+									Avery Alvarez</td><td>
+									Avery Barnes</td>
 
-								<td>	Ashton	Putnal</td><td>
-									Audrey	Trace</td>
+								<td>	Bailey Damschroder</td><td>
+									Bailey Emrick</td>
 								</tr>
 								<tr>
 									<td>
-									Autumn	Ramsey</td><td>
-									Blake	Dolin</td><td>
-									Brawn	Nelson</td>
-								<td>	Brittany	Jaquay</td>
+									Bailey Hamner</td><td>
+									Blair Lowe</td><td>
+									Brandon McConnell</td>
+								<td>	Bryson Keel</td>
 							</tr>
 							<tr>
 								<td>
-									Brooke	Engel</td><td>
-									Brooke	Oliver</td><td>
-									Caitlin	Olson</td><td>
-									Callie	Hill</td>
+									Caitlin McDonald</td><td>
+									Caitlyn Beeman</td><td>
+									Cameron Briggs Ramos</td><td>
+									Cameron Schaublin</td>
 								</tr>
 								<tr>
-								<td>	Cameron	Jones</td><td>
-									Camille	Nichols</td><td>
-									Carah	Yent</td><td>
-									Carly	Girnun</td>
-								</tr>
-								<tr>
-									<td>
-									Carly	Snytte</td>
-								<td>	Carly	Snytte</td><td>
-									Carly	Leonard</td><td>
-									Carly	Minksy</td>
+								<td>	Candace Powell</td><td>
+									Carlie Hellmann</td><td>
+									Carmen Florez</td><td>
+									Caroline Dibble</td>
 								</tr>
 								<tr>
 									<td>
-									Caroline	Stroud</td><td>
-									Casey	Gilligan</td>
-									<td>Cassidy	Phillips</td><td>
-									Catherine	Morse</td>
+									Caroline Pope</td>
+								<td>	Catherine Loftus</td><td>
+									Charles Cavaliere</td><td>
+									Christian Mkhachen</td>
 								</tr>
 								<tr>
 									<td>
-									Catherine	Huntley</td><td>
-									Chad	Grodi</td><td>
-									Claire	Wilhelm</td>
-									<td>Connor	Wax</td>
+									Claire Naumann</td><td>
+									Clara McCrimon</td>
+									<td>Connor Turner</td><td>
+									Courtney Kerwin</td>
 								</tr>
 								<tr>
 									<td>
-									Connor	Bennett</td><td>
-									David	Ramirez</td><td>
-									Deanna	Rodriguez</td><td>
-									Delaney	Holdt</td>
-								</tr>
-								<tr>
-									<td>Delaney	Woodworth</td><td>
-									Demi	Dedman</td><td>
-									Dorothy	Hellmann</td><td>
-									Dustin	Smith</td>
+									Courtney Meyer</td><td>
+									Daniel Zamora</td><td>
+									Daniella Figueroa</td>
+									<td>David Mahan</td>
 								</tr>
 								<tr>
 									<td>
-									Elizabeth	Kough</td>
-									<td>Ellie	Drabik</td><td>
-									Ellie	Clark</td><td>
-									Emily	McGaughy</td>
+									Davies Gage</td><td>
+									Deanna Netzer</td><td>
+									Derlis Leyva</td><td>
+									Edward Cronin</td>
+								</tr>
+								<tr>
+									<td>Elizabeth Simons</td><td>
+									Elizabeth Thompson</td><td>
+									Emily Edwards</td><td>
+									Emily Bateh</td>
 								</tr>
 								<tr>
 									<td>
-									Emily	Lassley</td><td>
-									Emily	DiNardi</td>
-								<td>	Emily	Treasure</td><td>
-									Emily	Helfrich</td>
+									Emily Blomeley</td>
+									<td>Emily Crossett</td><td>
+									Emily Fichera</td><td>
+									Emily Gagnon</td>
 								</tr>
 								<tr>
 									<td>
-									Emily	Nix</td><td>
-									Emily 	Prins</td><td>
-									Emma	Hilpert</td>
-								<td>	Erin 	Connors</td>
+									Emily Patton</td><td>
+									Emma McClane</td>
+								<td>	Erica Charles</td><td>
+									Ethan Paikowsky</td>
+								</tr>
+								<tr>
+									<td>
+									Faith Demott</td><td>
+									Fotini Sisois</td><td>
+									Franchesca Farris</td>
+								<td>	Galina Nelson</td>
 							</tr>
 							<tr>
 								<td>
-									Eva	Prendergast</td><td>
-									Garrett	Scott</td><td>
-									Grace	Coughlin</td><td>
-									Graciela	Olvera</td>
+									Giovanna Mompremier</td><td>
+									Hailley Loper</td><td>
+									Halle Gibson</td><td>
+									Hanna Hodges</td>
 								</tr>
 								<tr>
-								<td>	Haley	Lenton</td><td>
-									Haley	Fretes</td><td>
-									Haley	Grasty</td><td>
-									Hannah	Siegel</td>
-								</tr>
-								<tr>
-									<td>
-									Hannah	Hallman</td>
-								<td>	Hannah Medina</td><td>
-									Hasley Pitman</td><td>
-									Helena Wegener</td>
+								<td>	Hannah Cooper</td><td>
+									Hannah Kastensmidt</td><td>
+									Hannah Raymond</td><td>
+									Hannah Schmidt</td>
 								</tr>
 								<tr>
 									<td>
-									Isa	Torregrosa</td><td>
-									Isabelle Oleckv
-									<td>Jack	Cheney</td><td>
-									Jamie	Myers</td>
+									Harley Smith</td>
+								<td>	Henry Edmondson</td><td>
+									Isabela Rodriguez</td><td>
+									Isabella Fernandez</td>
 								</tr>
 								<tr>
 									<td>
-									Jared	Lee</td><td>
-									Jason	Ratay</td><td>
-									Jenifer Mear</td>
-									<td>Jenna	Parker</td>
+									Isobel Harrison</td><td>
+									Jaclyn Jubert
+									<td>Jaclyn Weber</td><td>
+									Jacqueline Kahn</td>
 								</tr>
 								<tr>
 									<td>
-									Jessica	Zheng</td><td>
-									John	Gall</td><td>
-									Joni	Seligson</td><td>
-									Julia 	Acker</td>
-								</tr>
-								<tr>
-									<td>Justin	Ecelbarger</td><td>
-									Justin	Beach</td><td>
-									Kaelin	Magrath</td><td>
-									Karla	Geigel</td>
+									Jacqueline Lamm</td><td>
+									Jamie Bauman</td><td>
+									Jane McAskill</td>
+									<td>Jeana Fraser</td>
 								</tr>
 								<tr>
 									<td>
-									Kassandra	Philogene</td>
-									<td>Kassidy	Roberts</td><td>
-									Katelin 	Carroll</td><td>
-									Kathryn	Kimsey</td>
+									Jenna Powitz</td><td>
+									Jessica Van Vliet</td><td>
+									Joel Buenrostro</td><td>
+									Johann Vazquez-Rosas</td>
+								</tr>
+								<tr>
+									<td>Jordan Kennedy</td><td>
+									Jordan Wohl</td><td>
+									Joseph Kung</td><td>
+									Joshua Argentine</td>
 								</tr>
 								<tr>
 									<td>
-									Kathryn	Lahey</td><td>
-									Katie	McGuiness</td>
-									<td>Katie Simpson</td><td>
-									Katlynn	Bruce</td>
+									Joshua Vaughn</td>
+									<td>Joslyn Hunt</td><td>
+									Jourdain Cole</td><td>
+									Jules Dorney</td>
 								</tr>
 								<tr>
 									<td>
-									Kavitha	Komatineni</td><td>
-									Kelly	Hagan</td><td>
-									Kelsea	Henry</td>
-									<td>Kendall	Runyan</td>
+									Julia Engebretson</td><td>
+									Julia Sigman</td>
+									<td>Julie Cartee</td><td>
+									Kaitlyn Ianiro</td>
 								</tr>
 								<tr>
 									<td>
-									Kira	Williamson</td><td>
-									Kiran	Lalani</td><td>
-									Kyle	Kipple</td><td>
-									Kylie	Kidd</td>
-								</tr>
-								<tr>
-								<td>	Laura	Pinheiro</td><td>
-									Lauren	Spataro</td><td>
-									Lauren	Kern</td><td>
-									Leah	Knight</td>
+									Kaitlyn O'Malley</td><td>
+									Kaitlyn Paley</td><td>
+									Katelyn Rourk</td>
+									<td>Katherine Cruz</td>
 								</tr>
 								<tr>
 									<td>
-									Leili	Moradi</td>
-									<td>Lindsay	Asher</td><td>
-									Lindsey	Harrison</td><td>
-									Lizzie	Edgerton</td>
+									Katherine Dubina</td><td>
+									Kaureen Randhawa</td><td>
+									Kayla Elliott</td><td>
+									Kendall Earnshaw</td>
+								</tr>
+								<tr>
+								<td>	Kenneth Pitt</td><td>
+									Kerry Lambert</td><td>
+									Killian Thrush</td><td>
+									Kylee Swenson</td>
 								</tr>
 								<tr>
 									<td>
-									Luke	Miseyko</td><td>
-									Lyndsay	Goldberg</td>
-								<td>	Maddie	Matesich</td><td>
-									Madeline	Schmidt</td>
+									Kylie Handa</td>
+									<td>Lauren Connell</td><td>
+									Lauren Fontes</td><td>
+									Lauren Latimer</td>
 								</tr>
 								<tr>
 									<td>
-									Madison	Tighe</td><td>
-									Madison	Lee</td><td>
-									Maggie	McQuiddy</td>
-								<td>	Maia	Schulte</td>
+									Logan McNeer</td><td>
+									Lyanne Melendez</td>
+								<td>	Lydia Conrad</td><td>
+									Madison King</td>
 								</tr>
 								<tr>
 									<td>
-									Marissa	Schauder</td><td>
-									Mary Beth	Campbell</td><td>
-									Mary Katherine	Delegal</td>
-								<td>	Megan	Giovenco</td>
+									Maranda Centeno</td><td>
+									Marina Santos</td><td>
+									Marina Wendel</td>
+								<td>	Mary Claire Madden</td>
+								</tr>
+								<tr>
+									<td>
+									Matt Costello</td><td>
+									McKenna Beery</td><td>
+									Meagan Pennington</td>
+								<td>	Megan Danz</td>
 							</tr>
 							<tr>
 								<td>
-									Megan	Schoder</td><td>
-									Meghan	Ballard</td><td>
-									Melinda	Abercrombie</td><td>
-									Meredith	Wilwant</td>
+									Meghana Goolla</td><td>
+									Melissa Fletcher</td><td>
+									Mia Varner</td><td>
+									Michelle Dudenhoefer</td>
 								</tr>
 								<tr>
-								<td>	Molly	Lightman</td><td>
-									Monica	Koehler</td><td>
-									Monica	Ferrer </td><td>
-									Morgan	McWilliams</td>
-								</tr>
-								<tr>
-									<td>
-									Morgan	Hartman</td>
-								<td>	Morgan 	Hill </td><td>
-									Natalie	Vala</td><td>
-									Natalie	Chebi</td>
+								<td>	Michelle Podolnyy</td><td>
+									Morgan Comite</td><td>
+									Morgan Serio (Mercier) </td><td>
+									Morgan Sullivan</td>
 								</tr>
 								<tr>
 									<td>
-									Nefertari	Charles</td><td>
-									Nina	Karlinsky</td>
-								<td>	Nina	Sizemore</td><td>
-									Oliver	Hoffman</td>
+									Naomi Youakim</td>
+								<td>	Nicholas Wegman</td><td>
+									Nicole Kjosa</td><td>
+									Nicole Saporito</td>
 								</tr>
 								<tr>
 									<td>
-									Olivia	Piatkowski</td><td>
-									Olivia	Menze</td><td>
-									Parul	Sanjiv</td>
-								<td>	Patricia	Wojtoiwcz</td>
+									Nikki Smalley</td><td>
+									Nora Tight</td>
+								<td>	Olivia Charland</td><td>
+									Olivia Haughey</td>
+								</tr>
+								<tr>
+									<td>
+									Olivia Lendoiro</td><td>
+									Oriana Fortune-Panizo</td><td>
+									Paige Leaming</td>
+								<td>	Paige Pagano</td>
 							</tr>
 							<tr>
 								<td>
-									Rachel	Kohl</td><td>
-									Rachel	Kohl</td><td>
-									Rachel	Tolces</td><td>
-									Rebecca	Petty</td>
+									Paul Rodriguez</td><td>
+									Priya Alexander</td><td>
+									Rachel Berman</td><td>
+									Rachel Grimley</td>
 								</tr>
 								<tr>
-									<td>Rebecca	Ngo</td><td>
-									Reese	Mischler</td><td>
-									Riley	McCoy</td><td>
-									Ryan	Owens</td>
-								</tr>
-								<tr>
-									<td>
-									Sahul	Kapil</td>
-									<td>Samantha	Walker</td><td>
-									Sarah	Byres</td><td>
-									Sarah	Stanieri</td>
+									<td>Rachel Harrell</td><td>
+									Rachel Perwien</td><td>
+									Rebecca Goetz</td><td>
+									Reilly Thompson</td>
 								</tr>
 								<tr>
 									<td>
-									Sarah	Bluestein</td><td>
-									Sarah	Bartholemy</td>
-									<td>Savannah	Nuttall</td><td>
-									Savannah	Maples</td>
+									Reis Spicer</td>
+									<td>Remi Conley</td><td>
+									Rianne Mersch</td><td>
+									Ricardo Rodriguez</td>
 								</tr>
 								<tr>
 									<td>
-									Shelley	Robinson</td><td>
-									Sian	Hoctor</td><td>
-									Sophia	Guerra</td>
-									<td>Stephanie	Ciricillo</td>
+									Richard German</td><td>
+									Samantha Espinal</td>
+									<td>Samantha Lawson</td><td>
+									Samantha Lee</td>
 								</tr>
 								<tr>
 									<td>
-									Stephanie	McMillan</td><td>
-									Sydney	Beim</td><td>
-									Taylor	Perez</td><td>
-									Taylor	Bakalar</td>
-								</tr>
-								<tr>
-									<td>Tia	Sasher</td><td>
-									Vanna	Hatsady</td><td>
-									Victoria	Arguelles</td><td>
-									Victoria	Ortega</td>
+									Samara Barradas</td><td>
+									Samuel Still</td><td>
+									Sara Henley</td>
+									<td>Sara Nemeth</td>
 								</tr>
 								<tr>
 									<td>
-									William	Ware</td>
-								<td>	Yousef	Dawund</td><td>
-									Zoe	Wolfe</td><td>
-								Felicia Miller	</td> <td>
+									Sarah Davis</td><td>
+									Sarah Workman</td><td>
+									Sean Coleman</td><td>
+									Sean Pedersen</td>
+								</tr>
+								<tr>
+									<td>Shannon Jones</td><td>
+									Shayne Sipowski</td><td>
+									Shruthi Sakthi</td><td>
+									Sophony Louis</td>
+								</tr>
+								<tr>
+									<td>
+									Sydney Quin</td>
+								<td>	Tara Stanwyck</td><td>
+									Tess Jakubiec</td><td>
+								Tipton Lichtenstein</td> <td>
+								</tr>
+								<tr>
+									<td>
+									Tyler Turner</td>
+								<td>	Victoria Botelho</td><td>
+									Victoria Dougherty</td><td>
+								Victoria Kuhn</td> <td>
+								</tr>
+								<tr>
+									<td>
+									Vishal Ila</td>
+								<td>	William Smyack</td><td>
+									Ziane Wimes</td><td>
+								Zoe Hackshaw</td> <td>
 								</tr>
 								<tr>
 									<td>
@@ -396,7 +410,7 @@ include("includes/navbar.php");
 									Mari	Gelabert</td>
                 </tr>
               </table>
-			      </div> -->
+			      </div>
             	<!-- <div role="tabpanel" class="tab-pane fade" id="FAQ">
 			      	<h3>FAQ</h3>
 							<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
