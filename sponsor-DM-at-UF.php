@@ -42,7 +42,7 @@
 
 
           <p> For more information, download this year’s sponsorship packet.
-            <a href="assets/PDFs/SponsorshipPacket.pdf" target="_blank">Sponsorship Packet </a>
+            <br><a href="assets/PDFs/SponsorshipPacket.pdf" target="_blank">Sponsorship Packet </a></br>
           </p>
 
 
