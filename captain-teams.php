@@ -708,6 +708,7 @@ include("includes/navbar.php");
               </tr>
                 <tr>
               <td> Sean McKenna</td><td>
+                Saneh St. Claire</td>
             Annalena Pirovic</td>
                 </tr>
               </table>
