@@ -404,11 +404,7 @@ include("includes/navbar.php");
 									Ziane Wimes</td><td>
 								Zoe Hackshaw</td> <td>
 								</tr>
-								<tr>
-									<td>
-								<td>
-									Mari	Gelabert</td>
-                </tr>
+
               </table>
 			      </div>
             	<!-- <div role="tabpanel" class="tab-pane fade" id="FAQ">
