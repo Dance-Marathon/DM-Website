@@ -358,7 +358,7 @@ include("includes/navbar.php");
 								</tr>
 								<tr>
 									<td>
-									Richard German</td><td>
+									Zoe Hackshaw</td><td>
 									Samantha Espinal</td>
 									<td>Samantha Lawson</td><td>
 									Samantha Lee</td>
@@ -402,7 +402,7 @@ include("includes/navbar.php");
 									Vishal Ila</td>
 								<td>	William Smyack</td><td>
 									Ziane Wimes</td><td>
-								Zoe Hackshaw</td> <td>
+								</td> <td>
 								</tr>
 
               </table>
