@@ -72,7 +72,7 @@
 					<a href="/partners" class="dropdown-toggle">Partners</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/partners">Our Partners</a></li>
-						<li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
+					<!--	<li><a href="/sponsorship-levels">Sponsorship Levels</a></li> -->
 						<li><a href="/sponsor-DM-at-UF">Sponsor DM at UF</a></li>
 					</ul>
 				</li>
