@@ -75,7 +75,7 @@
 							<li>recognition on the Dance Marathon at UF website</li>
 						</ul>
 						<p>
-						$3,500
+						$3,500 -  Club House Sponsor
 						<ul>
 							<li>registration for two foursomes in the tournament</li>
 							<li>exclusive Club House Sponsor Sign at holes 10 and 18</li>
