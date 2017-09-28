@@ -35,12 +35,12 @@ include("includes/navbar.php");
 			<div class="col-md-3">
 				<div class="sub-nav">
 					<ul>
-						
+
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 
 						<li><a href="/ft5k">FT5K</a></li>
 						<li><a href="/gala">Gala</a></li>
-
+						<li><a href="/golf-tournament">Golf Tournament</a></li>
 						<li><a class="active">Dance Marathon 2017</a></li>
 						<!--                        <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
