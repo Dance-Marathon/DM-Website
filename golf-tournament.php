@@ -54,7 +54,7 @@
 							All proceeds benefit UF Health Shands Children’s Hospital!
 						<p>
 							Individual Registration: $150 (individuals will be placed with a team of four for the event)
-							Team Registration: $550 (registration for one group of four)
+							Team Registration: $550 (registration for one foursome)
 						<p>
 						<a href="https://docs.google.com/forms/d/e/1FAIpQLScuud_MP459BJAKo5LDh8h9vgfCOHIF_c9qPipAcgOK9uoCVA/viewform">Register here!</a>
 						<p>
