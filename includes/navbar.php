@@ -62,6 +62,7 @@
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/ft5k">FT5K</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
+						<li><a href="/golf-tournament">Golf Tournament</a></li>
 						<!-- <li><a href="/ftk-festival">FTK Festival</a></li> -->
 
 							<li><a href="/dance-marathon">Dance Marathon </a></li>
@@ -72,7 +73,7 @@
 					<a href="/partners" class="dropdown-toggle">Partners</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/partners">Our Partners</a></li>
-					<!--	<li><a href="/sponsorship-levels">Sponsorship Levels</a></li> -->
+						<li><a href="/sponsorship-levels">Sponsorship Levels</a></li>
 						<li><a href="/sponsor-DM-at-UF">Sponsor DM at UF</a></li>
 					</ul>
 				</li>
