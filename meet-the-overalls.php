@@ -70,22 +70,6 @@
       'motivation'            =>  'Making people smile :)',
       'image'                 =>  'Allie',
     ),
-		array(
-      'name'                  =>  'Joey Whelihan',
-      'position'              =>  'Membership Manager',
-      'email'                 =>  'jwhelihan@floridadm.org',
-			'previous_involvement'  =>  'Dancer, Delegate, Recruitment Captain (2 years), Recruitment Overall Director',
-			'grad'                  =>   'Medicine',
-			'major'                 =>  'Dual Major in Biochemistry and Behavioral & Cognitive Neuroscience',
-      'hometown'              =>  'Palm Beach Gardens, FL',
-      'outside_involvement'   =>  'Florida Blue Key',
-      'free_time'             =>  'When I&#39;m not studying or at DM events, I love running, working out, and watching new shows! Survivor, Big Brother, House of Cards, House, Shameless, and The Office are all some of my favorites.',
-      'fun_fact'              =>  'I absolutely hate the sound of squeaky shoes. It literally runs shivers down my spine.',
-      'favorite_memory'       =>  'Geez, there&#39;s just so many! I&#39;d have to say that my favorite DM memory happened this past year when I got my hospital band cut off at the end of Dance Marathon. Mateo&#39;s mom, Mari, came up to me to cut off my band while I was on-stage, and we made eye contact and both immediately started crying. This was so impactful because I had gotten close with their family throughout the year, and the symbolism of cutting of my band meant so much to me, despite the fact that Mateo was born with HLHS and still has many more hospital bands to wear in the future. It was that moment, moreso than the Total Reveal, which really mattered more to me than anything else.',
-      'motivation'            =>  'Through going into medicine, I have chosen to devote my life to helping others. Participating in Dance Marathon and encouraging others to do so will help me to better assist my patients in the future. The funds that we provide buy things that I could never provide like being able to stay with a child overnight or Child Life Services.
-In March of 2016 I was able to shadow a pediatric oncologist. One of the first things the doctor said to me was, "Out of all of the patients that walk through my door, there&#39;s about a 80% chance that they are cured." I thought that this was an astounding number because when someone thinks "pediatric oncologist", they definitely don&#39;t associate that with optimism. However, all I could think about was the other 20% of children that couldn&#39;t be cured - and that&#39;s what Dance Marathon is all about. It&#39;s a symbol of hope for these families and kids that one day we will be at 100% cure rate not just for cancer, but for all childhood illness. Being a part of Dance Marathon, I know that I am making a difference in advancing medicine to ensure that every kid has a right to be a kid.',
-      'image'                 =>  'Joey2',
-    ),
     array(
       'name'                  =>  'Sam Regula',
       'position'              =>  'Creative Development Overall',
@@ -98,7 +82,7 @@ In March of 2016 I was able to shadow a pediatric oncologist. One of the first t
       'fun_fact'              =>  'For 6 years of my life (from ages 14-20), I spent my summers working as a scenic artist for theme parks like Disney and Universal! Through this job I got to do so many awesome and creative things! I&#39;ve worked on everything from designing and painting the Halloween Horror Nights houses at Universal, to sculpting pieces for the new Avatar section in Animal Kingdom, and even helping with the dragon on top of Gringotts Bank in The Wizarding World of Harry Potter!',
       'favorite_memory'       =>  'As I wandered into Shands children’s hospital a woman stopped me and said “Thank You”. As she saw the confused look on my face she said again, now louder: “Thank you for all the hard work you did and will do. We are truly thankful, because of you guys; I still have my son with me”. I then realized that she was talking about my involvement with the organization. I did not know this woman nor she knew me but at that moment I could see that she was truly thankful. That’s when I realized that as much as all the work we do was not directly at the with the patients, it was still improving and saving lives of those at Shands children’s Hospital.',
       'motivation'            =>  'Seeing and realizing that the miracles we create are not just for better technology or research but the miracles of hope. Dance Marathon at the University of Florida has given hope and happiness to a lot of families around the state! That truly makes me happy and hope that I can help create many more miracles like these!',
-      'image'                 =>  'Sam3',
+      'image'                 =>  'Sam',
     ),
     array(
       'name'                  =>  'Eric Rice',
