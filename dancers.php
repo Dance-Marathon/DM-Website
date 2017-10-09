@@ -54,7 +54,7 @@ include("includes/navbar.php");
           <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
             <h3>Dancers</h3>
             <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun Line Dance, enjoy live entertainment, yummy food, and hear firsthand stories from our very own Miracle Families.
-Dancer Registration will open from Monday, October 9th until Sunday, October 22nd. To Register to Dance, please fill out the form that can be found here or by visiting the following link: https://survey.az1.qualtrics.com/jfe/form/SV_1LFpGktFO9xAX7D.
+<p>Dancer Registration will open from Monday, October 9th until Sunday, October 22nd. To Register to Dance, please fill out the form that can be found here or by visiting the following link: <a href="https://survey.az1.qualtrics.com/jfe/form/SV_1LFpGktFO9xAX7D">https://survey.az1.qualtrics.com/jfe/form/SV_1LFpGktFO9xAX7D</a>. </p>
  There are a limited number of Dancer spots determined by participation and fundraising, so don’t miss your chance to Register today!
 </p>
 
