@@ -37,7 +37,7 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q1">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1">Miracle Level</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1"></a>
               </h4>
             </div>
             <div id="a1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q1">
@@ -60,7 +60,7 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q2">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="true" aria-controls="a2">Champion Level</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="true" aria-controls="a2"></a>
               </h4>
             </div>
             <div id="a2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q2">
@@ -77,7 +77,7 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q3">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a3" aria-expanded="true" aria-controls="a3">For The Kids Level</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a3" aria-expanded="true" aria-controls="a3"></a>
               </h4>
             </div>
             <div id="a3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q3">
@@ -116,7 +116,7 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q4">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a4" aria-expanded="true" aria-controls="a4">Gator Giver Level</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a4" aria-expanded="true" aria-controls="a4"></a>
               </h4>
             </div>
             <div id="a4" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q4">
@@ -154,7 +154,7 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q6">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="true" aria-controls="a6">Family Level</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="true" aria-controls="a6"></a>
               </h4>
             </div>
             <div id="a6" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q6">
@@ -199,7 +199,7 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q7">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a7" aria-expanded="true" aria-controls="a7">Hope Level</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a7" aria-expanded="true" aria-controls="a7"></a>
               </h4>
             </div>
             <div id="a7" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q7">
@@ -251,7 +251,7 @@
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q9">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="true" aria-controls="a9">Friendship Level</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="true" aria-controls="a9"></a>
               </h4>
             </div>
             <div id="a9" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q9">
