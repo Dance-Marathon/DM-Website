@@ -78,25 +78,25 @@ include("includes/navbar.php");
                 <tr>
                   <td>Laura Lozano</td>
                   <td>Sarah Cantor</td>
-                  <td>Cameron Cook</td>
+                  <td>GiGi Novak</td>
                 </tr>
                 <tr>
-                  <td>GiGi Novak</td>
                   <td>Claire Crist</td>
                   <td>Cory Fink</td>
+                  <td>Brooke Mott-Smith</td>
+
                 </tr>
                 <tr>
-                  <td>Brooke Mott-Smith</td>
                   <td>Brynna Kaplan</td>
                   <td>Matthew Hannan</td>
+                  <td>Corinne Sharabi</td>
                 </tr>
                 <tr>
-                  <td>Corinne Sharabi</td>
                   <td>Alaina Brown</td>
                   <td>Mia Lestorti</td>
+                  <td>Gabriella Garcia</td>
                 </tr>
                 <tr>
-                  <td>Gabriella Garcia</td>
                   <td>Marni Weiss</td>
                   <td>Josh Churba</td>
                 </tr>
