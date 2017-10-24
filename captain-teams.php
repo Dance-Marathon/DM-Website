@@ -60,9 +60,9 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Design</b></h4>
               Sarah Wolk
               <h4><b>Assistant Director of App Development</b></h4>
-              Jonathan Pereyra
+              Kurt Grossnickle
               <h4><b>Assistant Director of Web Development</b></h4>
-              Connor Elkin
+              Cameron Cook
 <h4><b>Captains</b></h4>
               <table style="width:100%">
              <tr>
@@ -87,20 +87,17 @@ include("includes/navbar.php");
                 </tr>
                 <tr>
                   <td>Brooke Mott-Smith</td>
-                  <td>Kurt Grossnickle</td>
                   <td>Brynna Kaplan</td>
+                  <td>Matthew Hannan</td>
                 </tr>
                 <tr>
-                  <td>Matthew Hannan</td>
                   <td>Corinne Sharabi</td>
                   <td>Alaina Brown</td>
+                  <td>Mia Lestorti</td>
                 </tr>
                 <tr>
-                  <td>Mia Lestorti</td>
                   <td>Gabriella Garcia</td>
                   <td>Marni Weiss</td>
-                </tr>
-                <tr>
                   <td>Josh Churba</td>
                 </tr>
               </table>
