@@ -2,7 +2,6 @@
   $GLOBALS['page_title'] = 'Florida Dance Marathon';
   include("includes/head.php");
 ?>
-
 <!-- intro -->
 <div class="top visible-md visible-lg">
   <div class="intro">
@@ -12,23 +11,8 @@
         <li data-target="#top-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#top-carousel" data-slide-to="1"></li>
         <li data-target="#top-carousel" data-slide-to="2"></li>
-<!--
-
-        <li data-target="#top-carousel" data-slide-to="3"></li>
-        <li data-target="#top-carousel" data-slide-to="4"></li>
-        <li data-target="#top-carousel" data-slide-to="5"></li>
-        <li data-target="#top-carousel" data-slide-to="6"></li>
-        <li data-target="#top-carousel" data-slide-to="7"></li>
-        <li data-target="#top-carousel" data-slide-to="8"></li>
--->
       </ol>
       <div class="carousel-inner">
-
-    <!--    <div class="item active">
-          <a href="http://floridadm.org" target="_blank"><img class="img-responsive img-full"  src="assets/images/slider/ThankYouBanner2.png"></a>
-
-        </div> -->
-
         <div class="item ">
           <img class="img-responsive"  src="assets/images/slider/TotalDM2017.png">
           <div class="carousel-caption text-center">
@@ -45,17 +29,6 @@
             </div>
           </div>
         </div>
-
-        <!-- End Item -->
-
-
-
-  <!-- <div class="item">
-          <a href="https://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609?ls=1&mt=8" target="_blank">
-            <img class="img-responsive img-full"  src="assets/images/slider/APP.png">
-          </a>
-        </div> -->
-
 
         <!-- End Item -->
 
