@@ -82,7 +82,7 @@
       'fun_fact'              =>  '',
       'favorite_memory'       =>  '',
       'motivation'            =>  '',
-      'image'                 =>  'Jonathan',
+      'image'                 =>  'Blank',
     ),
     array(
       'name'                  =>  'Eric Rice',
