@@ -312,95 +312,108 @@ include("includes/navbar.php");
 								<tr>
 								<td>	Michelle Podolnyy</td><td>
 									Morgan Comite</td><td>
-									Morgan Serio (Mercier) </td><td>
-									Morgan Sullivan</td>
-								</tr>
-								<tr>
+									Morgan Serio (Mercier) </td>
 									<td>
 									Naomi Youakim</td>
+								</tr>
+								<tr>
 								<td>	Nicholas Wegman</td><td>
 									Nicole Kjosa</td><td>
 									Nicole Saporito</td>
+									<td>
+									Nikki Smalley</td>
 								</tr>
 								<tr>
 									<td>
-									Nikki Smalley</td><td>
 									Nora Tight</td>
 								<td>	Olivia Charland</td><td>
 									Olivia Haughey</td>
+									<td>
+									Olivia Lendoiro</td>
 								</tr>
 								<tr>
 									<td>
-									Olivia Lendoiro</td><td>
 									Oriana Fortune-Panizo</td><td>
 									Paige Leaming</td>
 								<td>	Paige Pagano</td>
+								<td>
+									Paul Rodriguez</td>
 							</tr>
 							<tr>
 								<td>
-									Paul Rodriguez</td><td>
 									Priya Alexander</td><td>
 									Rachel Berman</td><td>
 									Rachel Grimley</td>
+									<td>Rachel Harrell</td>
 								</tr>
 								<tr>
-									<td>Rachel Harrell</td><td>
+									<td>
 									Rachel Perwien</td><td>
 									Rebecca Goetz</td><td>
 									Reilly Thompson</td>
-								</tr>
-								<tr>
 									<td>
 									Reis Spicer</td>
+								</tr>
+								<tr>
+
 									<td>Remi Conley</td><td>
 									Rianne Mersch</td><td>
 									Ricardo Rodriguez</td>
+									<td>
+									Samantha Espinal</td>
+
 								</tr>
 								<tr>
-									<td>
-									Zoe Hackshaw</td><td>
-									Samantha Espinal</td>
 									<td>Samantha Lawson</td><td>
 									Samantha Lee</td>
-								</tr>
-								<tr>
 									<td>
 									Samara Barradas</td><td>
-									Samuel Still</td><td>
+									Samuel Still</td>
+								</tr>
+								<tr>
+									<td>
 									Sara Henley</td>
 									<td>Sara Nemeth</td>
-								</tr>
-								<tr>
 									<td>
 									Sarah Davis</td><td>
-									Sarah Workman</td><td>
+									Sarah Workman</td>
+								</tr>
+								<tr>
+									<td>
 									Sean Coleman</td><td>
 									Sean Pedersen</td>
+									<td>Shannon Jones</td><td>
+									Shayne Sipowski</td>
 								</tr>
 								<tr>
-									<td>Shannon Jones</td><td>
-									Shayne Sipowski</td><td>
+									<td>
 									Shruthi Sakthi</td><td>
 									Sophony Louis</td>
-								</tr>
-								<tr>
 									<td>
 									Sydney Quin</td>
-								<td>	Tara Stanwyck</td><td>
+								<td>
+									Tara Stanwyck</td>
+								</tr>
+								<tr>
+									<td>
 									Tess Jakubiec</td><td>
-								Tipton Lichtenstein</td> <td>
+								Tipton Lichtenstein</td>
+								<td>
+								Tyler Turner</td>
+							<td>	Victoria Botelho</td>
 								</tr>
 								<tr>
 									<td>
-									Tyler Turner</td>
-								<td>	Victoria Botelho</td><td>
 									Victoria Dougherty</td><td>
-								Victoria Kuhn</td> <td>
+								Victoria Kuhn</td>
+								<td>
+								Vishal Ila</td>
+							<td>	William Smyack</td>
 								</tr>
 								<tr>
-									<td>
-									Vishal Ila</td>
-								<td>	William Smyack</td><td>
+
+								<td>
+								Zoe Hackshaw</td><td>
 									Ziane Wimes</td><td>
 								</td> <td>
 								</tr>
