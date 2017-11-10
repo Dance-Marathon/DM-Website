@@ -73,8 +73,9 @@ Acapella line dance after the event is a close second. DM people are above avera
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="/dmaa">DM Alumni</a></li>
+            <li><a href="/dmaa">About DM Alumni</a></li>
             <li><a class="active">Meet the DMA Board</a></li>
+            <li><a href="/dma-members">DM Alumni Members</a></li>
           </ul>
         </div>
 			</div>
