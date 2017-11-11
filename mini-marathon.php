@@ -6,8 +6,13 @@
 	include("includes/navbar.php");
 
 	$events = array(
+				array(
+				 'name' => '<b>American Heritage High School</b><br/><font style="color: #003">Event Date: <b>Feb. 2</b></font><br/>Plantation, FL',
+				 'image' => 'ahhs.png',
+				 'url' => 'http://www.ahschool.com/',
+					 ),
 		   array(
-					'name' => '<b>Belleview High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Belleview, FL',
+					'name' => '<b>Belleview High School</b><br/><font style="color: #003">Event Date: <b>Feb. 16</b></font><br/>Belleview, FL',
 					'image' => 'hsdm13.png',
 					'url' => 'http://www.marionschools.net/bhs',
 			      	),
@@ -17,17 +22,37 @@
 					'url' => 'http://www.edline.net/pages/Boca_Raton_High_School',
 							),
 				array(
+					'name' => '<b>Cardinal Newman High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>West Palm Beach, FL',
+					'image' => 'cnhs.png',
+					'url' => 'http://www.cardinalnewman.com/',
+							),
+				array(
+		      'name' => '<b>Deerfield Beach High School</b><br/><font style="color: #003">Event Date: </br><b>Feb. 23-24</b></font><br/>Deerfield Beach, FL',
+	        'image' => 'dbhs.png',
+			  	'url' => 'http://www.deerfieldbeachhigh.net/',
+			        ),
+				array(
 		      'name' => '<b>Eastside High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Gainesville, FL',
 	        'image' => 'hsdm3.jpg',
 			  	'url' => 'http://eastside.sbac.edu/pages/EHS0421',
 			        ),
+				array(
+					'name' => '<b>East Ridge High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Clermont, FL',
+					'image' => 'erhs.png',
+					'url' => 'https://www.lake.k12.fl.us/Domain/2848',
+							),
+				array(
+				 'name' => '<b>F.W. Buchholz High School</b><br/><font style="color: #003">Event Date: <b>Feb. 9</b></font><br/>Gainesville, FL',
+				 'image' => 'bhs.png',
+				 'url' => 'http://buchholz.sbac.edu/pages/BHS0431',
+						),
 			  array(
-			    'name' => '<b>Gainesville High School</b><br/><font style="color: #003">Event Date:  <b>TBD</b></font><br/>Gainesville, FL',
+			    'name' => '<b>Gainesville High School</b><br/><font style="color: #003">Event Date:  <b>Mar. 16</b></font><br/>Gainesville, FL',
 					'image' => 'hsdm9.jpg',
 					'url' => 'http://gainesville.sbac.edu/pages/GHS0151',
 							),
 				array(
-					'name' => '<b>Jupiter Community High School </b><br/><font style="color: #003">Event Date:<b> TBD </b></font><br/>Jupiter, FL',
+					'name' => '<b>Jupiter Community High School </b><br/><font style="color: #003">Event Date: <b>Feb. 24,</br>5-10pm </b></font><br/>Jupiter, FL',
 					'image' => 'hsdm17.png',
 					'url' => 'http://www.edline.net/pages/Jupiter_High_School',
 							),
@@ -41,56 +66,67 @@
 	        'image' => 'kwhs.png',
 	        'url' => 'http://kwh.keysschools.com',
 	            ),
-				array(
-					'name' => '<b>Newberry High School </b><br/>Date TBD<br/>Gainesville, FL',
-					'image' => 'hsdm18.jpg',
-					'url' => 'http://newberryhigh.sbac.edu/pages/NHS0261l',
-							),
        array(
          'name' => '<b>Oak Hall High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Gainesville, FL',
          'image' => 'hsdm1.jpg',
 				 'url' => 'http://www.oakhall.org/RelId/33637/ISvars/default/Home.htm',
             ),
         array(
-         'name' => '<b>Palm Beach Cental High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Palm Beach, FL',
+         'name' => '<b>Palm Beach Cental High School</b><br/><font style="color: #003">Event Date: <b>Feb. 24</b></font><br/>Palm Beach, FL',
          'image' => 'hsdm4.jpg',
 			   'url' => 'http://www.palmbeach.k12.fl.us/palmbeachcentralhs/',
             ),
+				array(
+				 'name' => '<b>Palm Beach Gardens Community High School</b><br/><font style="color: #003">Event Date: <b>Mar. 3</b></font><br/>Palm Beach Gardens, FL',
+				 'image' => 'pbghs.png',
+				 'url' => 'http://www.edline.net/pages/palm_beach_gardens_high_school',
+						),
         array(
-         'name' => '<b>PK Yonge High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Gainesville, FL',
+         'name' => '<b>PK Yonge High School</b><br/><font style="color: #003">Event Date: <b>Mar. 17</b></font><br/>Gainesville, FL',
          'image' => 'hsdm12.jpg',
          'url' => 'http://pkyonge.ufl.edu/',
             ),
         array(
-         'name' => '<b>Seminole Ridge High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Loxahatchee, FL',
-         'image' => 'hsdm7.jpg',
-		     'url' => 'http://www.edline.net/pages/Seminole_Ridge_Community_HS',
-            ),
-        array(
-         'name' => '<b> St Francis Catholic Academy</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Gainesville, FL',
+         'name' => '<b>Saint Francis Catholic Academy</b><br/><font style="color: #003">Event Date: <b>Mar. 3</b></font><br/>Gainesville, FL',
          'image' => 'stfhs.png',
 		     'url' => 'http://sfchs.org',
             ),
+				array(
+				 'name' => '<b>Seminole Ridge High School</b><br/><font style="color: #003">Event Date: <b>Feb. 23</b></font><br/>Loxahatchee, FL',
+				 'image' => 'hsdm7.jpg',
+				 'url' => 'http://www.edline.net/pages/Seminole_Ridge_Community_HS',
+						),
         array(
-         'name' => '<b>Suncoast High School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Riviera Beach, FL',
+         'name' => '<b>Suncoast High School</b><br/><font style="color: #003">Event Date: <b>Mar. 2</b></font><br/>Riviera Beach, FL',
          'image' => 'hsdm16.jpg',
 		     'url' => 'http://www.edline.net/pages/Suncoast_High_School',
             ),
         array(
-         'name' => '<b>Tavares High School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Tavares, FL',
+         'name' => '<b>Tavares High School</b><br/><font style="color: #003">Event Date: <b>Feb. 17</b></font><br/>Tavares, FL',
          'image' => 'hsdm15.jpg',
-		     'url' => 'http://www.edline.net/pages/Suncoast_High_School',
+		     'url' => 'https://www.lake.k12.fl.us/Domain/3700',
 			 ),
+
+			 array(
+				'name' => '<b>Trinity Catholic High School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Ocala, FL',
+				'image' => 'tchs.png',
+			 	'url' => 'http://www.trinitycatholichs.org/',
+		 		),
         array(
-         'name' => '<b>Vero Beach High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Vero Beach, FL',
+         'name' => '<b>Vero Beach High School</b><br/><font style="color: #003">Event Date: <b>Feb. 24</b></font><br/>Vero Beach, FL',
          'image' => 'hsdm2.jpg',
 		   	 'url' => 'https://www.indianriverschools.org/vbhs',
             ),
         array(
-          'name' => '<b>Wellington High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Wellington, FL',
+          'name' => '<b>Wellington High School</b><br/><font style="color: #003">Event Date: <b>Mar. 9</b></font><br/>Wellington, FL',
           'image' => 'hsdm8.jpg',
 			    'url' => 'http://www.edline.net/pages/wellington_high_school',
             ),
+				array(
+					'name' => '<b>Wellington Landings Middle School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Wellington, FL',
+					'image' => 'wlms.png',
+					'url' => 'http://www.edline.net/pages/wellington_landings_ms',
+						),
         );
 ?>
 

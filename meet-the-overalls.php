@@ -80,7 +80,7 @@
       'outside_involvement'   =>  'Previously Marketing and Technology for UF Engineers\' Week',
       'free_time'             =>  'Spending time with friends and family!',
       'fun_fact'              =>  'I probably left a few emojis in the DM at UF iOS App Code 😅',
-      'favorite_memory'       =>  'My favorite memory was watching DM 2017 unfold from the tech booth. It was (in my opinion) the best seat in the house to watch over 800 members of our community come together for such a special cause!',
+      'favorite_memory'       =>  'My favorite memory was watching DM 2017 unfold from the tech booth. It was the best seat in the house to watch over 800 members of our community come together for such a special cause!',
       'motivation'            =>  'Helping others realize how their strengths and passion can change the world!',
       'image'                 =>  'Jonathan',
     ),
