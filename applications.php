@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Applications | Get Involved | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Applications | Get Involved | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");

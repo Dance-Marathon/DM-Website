@@ -1,5 +1,5 @@
 <?php
-	$GLOBALS['page_title'] = 'Announcements | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Announcements | Dance Marathon at UF';
 	//$GLOBALS['parent'] = 'press';
 	include("includes/head.php");
 	include("includes/navbar.php");

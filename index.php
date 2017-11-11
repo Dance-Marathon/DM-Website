@@ -1,5 +1,5 @@
 <?php
-  $GLOBALS['page_title'] = 'Florida Dance Marathon';
+  $GLOBALS['page_title'] = 'Dance Marathon at UF';
   include("includes/head.php");
 ?>
 <!-- intro -->
