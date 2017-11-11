@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Fundraising Guide | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Fundraising Guide | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'register-to-fundraise';
 	include("includes/head.php");
 	include("includes/navbar.php");

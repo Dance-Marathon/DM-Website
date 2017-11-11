@@ -1,6 +1,6 @@
 <?php
   $status = "open";
-  $GLOBALS['page_title'] = 'Sponsor DM at UF | Partners | Florida Dance Marathon';
+  $GLOBALS['page_title'] = 'Sponsor DM at UF | Partners | Dance Marathon at UF';
   $GLOBALS['parent'] = 'partners';
   include("includes/head.php");
   include("includes/navbar.php");

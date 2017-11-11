@@ -1,6 +1,6 @@
 <?php
 	$status = "close";
-	$GLOBALS['page_title'] = 'Campus Events | Events | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Campus Events | Events | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
 	include("includes/navbar.php");

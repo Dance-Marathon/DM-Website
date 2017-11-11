@@ -1,5 +1,5 @@
 <?php
-	$GLOBALS['page_title'] = 'Dancer Packages | Get Involved | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Dancer Packages | Get Involved | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");

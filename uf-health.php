@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'CMNH & UF Health | About | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'CMNH & UF Health | About | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'about';
 	include("includes/head.php");
 	include("includes/navbar.php");

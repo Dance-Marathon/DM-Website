@@ -1,5 +1,5 @@
 <?php
-  $GLOBALS['page_title'] = 'Florida Dance Marathon';
+  $GLOBALS['page_title'] = 'Dance Marathon at UF';
   include("includes/head.php");
 ?>
 <!-- intro -->
@@ -24,7 +24,7 @@
               </div>
               <div class="col-md-6">
                 <h2 style="color: #fff; font-size: 3em;" class="student-title"><span id="student-counter">0</span>Students Making Miracles</h2>
-                <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=1146" target="_blank" class="top_btn">Donate Now</a>
+                <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=2610" target="_blank" class="top_btn">Donate Now</a>
               </div>
             </div>
           </div>
@@ -75,6 +75,47 @@
 
 	<?php } ?>
 
+  <!--  -->
+  <!--  -->
+  <!--  -->
+  <!--  -->
+
+<!-- <div class="row">
+  <div class="col-md-12">
+    <div class="text-center">
+      <h2>LEADERBOARD</h2>
+      <div class="leaderboard"></div>
+    </div>
+  </div>
+</div>
+
+
+  <script>
+
+   // ID of the Google Spreadsheet
+   var spreadsheetID = "1hIBtefZpWls8oPe3_075MdWQiHQ0h_iwwFCYzvGdJPk";
+
+   // Make sure it is public or set to Anyone with link can view
+   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+
+   $.getJSON(url, function(data) {
+
+    var entry = data.feed.entry;
+
+    $(entry).each(function(){
+      // Column names are name, age, etc.
+      $('.leaderboard').append('<p>'+this.gsx$organizations.$t+'</p>');
+    });
+
+   });
+  </script> -->
+
+
+    <!--  -->
+    <!--  -->
+    <!--  -->
+    <!--  -->
+    <!--  -->
   <div class="row">
     <div class="col-md-12 welcome_txt text-center">
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->

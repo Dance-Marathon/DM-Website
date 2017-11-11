@@ -6,7 +6,7 @@ $livestream_on = "open";	//  Set to open to enable livestream
 // 	Livestream youtube embed link
 $livestream_link = "https://www.youtube.com/embed/90nYujy5Lbw?ecver=2";
 
-$GLOBALS['page_title'] = 'Dance-Marathon | Events | Florida Dance Marathon';
+$GLOBALS['page_title'] = 'Dance-Marathon | Events | Dance Marathon at UF';
 $GLOBALS['parent'] = 'events';
 include("includes/head.php");
 include("includes/navbar.php");

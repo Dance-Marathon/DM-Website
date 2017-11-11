@@ -3,7 +3,7 @@
 /*header("Location: http://www.floridadm.org/alumni.php"); /* Redirect browser */
 /*exit();*/
 	$status = "open";
-	$GLOBALS['page_title'] = 'DM Alumni | Alumni | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'DM Alumni | Alumni | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'dmaa';
 	include("includes/head.php");
 	include("includes/navbar.php");
@@ -14,7 +14,7 @@
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>DM Alumni</h1>
+    			<h1>About DM Alumni</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -27,8 +27,9 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a class="active">DM Alumni</a></li>
+						<li><a class="active">About DM Alumni</a></li>
             <li><a href="/meet-dma-board">Meet the DMA Board</a></li>
+            <li><a href="/dma-members">DM Alumni Members</a></li>
           </ul>
         </div>
 			</div>

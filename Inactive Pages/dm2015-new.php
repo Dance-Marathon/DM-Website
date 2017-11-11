@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Dance Marathon Live | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Dance Marathon Live | Dance Marathon at UF';
 	$GLOBALS['parent'] = '';
 	include("includes/head.php");
 	include("includes/navbar.php");

@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Meet The Overalls | Students | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Meet The Overalls | Students | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'get-involved';
 	include("includes/head.php");
 	include("includes/navbar.php");
@@ -74,15 +74,15 @@
       'name'                  =>  'Jonathan Pereyra',
       'position'              =>  'Creative Development Overall',
       'email'                 =>  'jpereyra@floridadm.org',
-      'previous_involvement'  =>  'Creative Development Captain',
-      'major'                 =>  '',
+      'previous_involvement'  =>  'FTKrew, Creative Development Captain',
+      'major'                 =>  'Digital Arts and Sciences Engineering',
       'hometown'              =>  'Miami, FL',
-      'outside_involvement'   =>  '',
-      'free_time'             =>  '',
-      'fun_fact'              =>  '',
-      'favorite_memory'       =>  '',
-      'motivation'            =>  '',
-      'image'                 =>  'Blank',
+      'outside_involvement'   =>  'Previously Marketing and Technology for UF Engineers\' Week',
+      'free_time'             =>  'Spending time with friends and family!',
+      'fun_fact'              =>  'I probably left a few emojis in the DM at UF iOS App Code 😅',
+      'favorite_memory'       =>  'My favorite memory was watching DM 2017 unfold from the tech booth. It was the best seat in the house to watch over 800 members of our community come together for such a special cause!',
+      'motivation'            =>  'Helping others realize how their strengths and passion can change the world!',
+      'image'                 =>  'Jonathan',
     ),
     array(
       'name'                  =>  'Eric Rice',
@@ -236,7 +236,7 @@
       'fun_fact'              =>  'Coming up with fun facts gives me severe anxiety.',
       'favorite_memory'       =>  'When Sage celebrated his birthday at my fraternity house earlier this year!',
       'motivation'            =>  'My family!',
-      'image'                 =>  'Blank',
+      'image'                 =>  'Shane',
     ),
     array(
       'name'                  =>  'Emily Boulter',
@@ -278,7 +278,7 @@
       'fun_fact'              =>  'I&#39;m the shortest member on the Overall Team (5 feet TALL)',
       'favorite_memory'       =>  'My favorite DM memory is getting to perform with Nick Mullen, one of the amazing miracle children, during the talent show at the event with the rest of the Marketing Team in 2015. Nick has lived his whole life with two different medical conditions that have prohibited him from living a normal life. He was naturally a little nervous before going on stage, but our team rallied around him and performed a song by his favorite artist, Michael Jackson. After the performance, Nick was so proud of himself and in that moment, I realized the effect Dance Marathon has on these children. Besides funding millions of dollars to medical equipment and research, DM makes these kids feel like rockstars. Throughout the year, DM makes them feel normal and loved. It is the best feeling to see their eyes light up at all DM events and witness them come out of their shell and gain confidence that will stay with them for the rest of their lives.',
       'motivation'            =>  'Knowing that I am part of an organization that works all year long to make a tangible difference inspires me every day. These Miracle Children and their families have gone through unimaginable circumstances and still remain so positive and hopeful. I feel like the least I can do is work every day so that eventually, hopefully in the near future, no child will ever have to suffer again. Dance Marathon is the culmination of thousands of hardworking and passionate students coming together for a common cause. Knowing that I am contributing to leaving a legacy that will hopefully save the lives of children for years to come is truly incredible.',
-      'image'                 =>  'Blank',
+      'image'                 =>  'Sam',
     )
   );
 ?>

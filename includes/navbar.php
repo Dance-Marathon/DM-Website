@@ -43,8 +43,9 @@
 				<li <?php echo ($parent == 'alumni') ? "class='open'" : ""; ?>>
 					<a href="/dmaa" class="dropdown-toggle">Alumni</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/dmaa">DM Alumni</a></li>
+						<li><a href="/dmaa">About DM Alumni</a></li>
 						<li><a href="/meet-dma-board">Meet The DMA Board</a></li>
+						<li><a href="/dma-members">DM Alumni Members</a></li>
 
 					</ul>
 				</li>
