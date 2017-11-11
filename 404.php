@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = '404 - File Not Found | Florida Dance Marathon';
+	$GLOBALS['page_title'] = '404 - File Not Found | Dance Marathon at UF';
 	$GLOBALS['parent'] = '';
 	include("includes/head.php");
 	include("includes/navbar.php");

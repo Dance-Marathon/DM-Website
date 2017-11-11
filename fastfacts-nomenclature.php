@@ -1,6 +1,6 @@
 <?php
 $status = "open";
-$GLOBALS['page_title'] = 'Fast Facts / Nomenclature | About | Florida Dance Marathon';
+$GLOBALS['page_title'] = 'Fast Facts / Nomenclature | About | Dance Marathon at UF';
 $GLOBALS['parent'] = 'about';
 include("includes/head.php");
 include("includes/navbar.php");

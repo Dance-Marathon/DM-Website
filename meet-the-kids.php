@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Meet The Kids | Family | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Meet The Kids | Family | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'family';
 	include("includes/head.php");
 	include("includes/navbar.php");

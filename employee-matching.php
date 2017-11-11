@@ -1,6 +1,6 @@
 <?php
   $status = "open";
-  $GLOBALS['page_title'] = 'Employee Matching | Fundraising | Florida Dance Marathon';
+  $GLOBALS['page_title'] = 'Employee Matching | Fundraising | Dance Marathon at UF';
   $GLOBALS['parent'] = 'register-to-fundraise';
   include("includes/head.php");
   include("includes/navbar.php");

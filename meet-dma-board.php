@@ -1,6 +1,6 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Meet the DMA Board | Alumni | Florida Dance Marathon';
+	$GLOBALS['page_title'] = 'Meet the DMA Board | Alumni | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'dmaa';
 	include("includes/head.php");
 	include("includes/navbar.php");
