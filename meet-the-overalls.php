@@ -138,7 +138,7 @@
       'fun_fact'              =>  'I am a certified whitewater rafting guide in Colorado.',
       'favorite_memory'       =>  'Hospitality team outting with Miss K and her family at the local trampoline park!',
       'motivation'            =>  'Progress, people and powerful quotes.',
-      'image'                 =>  'Ally',
+      'image'                 =>  'AllyJ',
     ),
 		array(
 			'name'                  =>  'Kristina Brennan',
