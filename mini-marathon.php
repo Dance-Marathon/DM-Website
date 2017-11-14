@@ -108,7 +108,7 @@
 			 ),
 
 			 array(
-				'name' => '<b>Trinity Catholic High School</b><br/><font style="color: #003">Event Date: <b>TBD</b></font><br/>Ocala, FL',
+				'name' => '<b>Trinity Catholic High School</b><br/><font style="color: #003">Event Date: <b>Jan. 31</b></font><br/>Ocala, FL',
 				'image' => 'tchs.png',
 			 	'url' => 'http://www.trinitycatholichs.org/',
 		 		),
