@@ -598,7 +598,7 @@ include("includes/navbar.php");
                   <tr>
                   <td>Taylor Peterson</td><td>
                   </td><td>Erin Pins</td><td>
-                  </td><td>Zachary Pizzi</td>
+                  </td><td></td>
                 </tr>
                   <tr>
                   <td>Megan Shulmister</td><td>

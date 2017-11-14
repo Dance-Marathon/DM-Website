@@ -68,7 +68,7 @@
       'fun_fact'              =>  'I&#39;m a die-hard Bruce Springsteen fan',
       'favorite_memory'       =>  'My favorite DM memory is walking into the O&#39;Dome before Opening Ceremonies during my first year participating. The atmosphere was euphoric, with the Miracle Children giving high fives by the door and the Captains cheering us on. Every single person in sight was beaming and so excited for the next 26.2 hours, and it was very apparent how much passion was truly behind this organization. ',
       'motivation'            =>  'Making people smile :)',
-      'image'                 =>  'Allie1',
+      'image'                 =>  'allie1',
     ),
     array(
       'name'                  =>  'Jonathan Pereyra',
