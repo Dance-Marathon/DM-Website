@@ -14,10 +14,10 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img class="img-responsive"  src="assets/images/slider/TotalDM2017.png">
+          <img class="img-responsive"  src="assets/images/slider/TTBanner.png">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
-              <div class="col-md-6">
+              <!-- <div class="col-md-6">
                 <div class="logo">
                   <img src="assets/images/logo_ftk_homepage.png">
                 </div>
@@ -25,7 +25,7 @@
               <div class="col-md-6">
                 <h2 style="color: #fff; font-size: 3em;" class="student-title"><span id="student-counter">0</span>Students Making Miracles</h2>
                 <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=2610" target="_blank" class="top_btn">Donate Now</a>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -80,15 +80,44 @@
   <!--  -->
   <!--  -->
 
-<!-- <div style="margin: 45px 0;">
-  <div class="row">
-    <div class="col-md-12">
-      <div class="text-center">
-        <h2 style="margin: 45px 0;"> Transform Today Leaderboard </h2>
-        <div class="leaderboard"></div>
-      </div>
+<div class="row">
+  <div style="margin: 45px 0;">
+      <div class="col-md-3">
+        <div class="text-center">
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #f79b63; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <div class="org-leaderboard"></div>
+        </div>
     </div>
   </div>
+
+  <div style="margin: 45px 0;">
+
+      <div class="col-md-3">
+        <div class="text-center">
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #014083; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <div class="dancer-leaderboard"></div>
+        </div>
+      </div>
+  </div>
+
+  <div style="margin: 45px 0;">
+      <div class="col-md-3">
+        <div class="text-center">
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #f79b63; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <div class="captain-leaderboard"></div>
+        </div>
+      </div>
+  </div>
+
+  <div style="margin: 45px 0;">
+      <div class="col-md-3">
+        <div class="text-center">
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #014083; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <div class="elp-leaderboard"></div>
+        </div>
+      </div>
+  </div>
+
 </div>
 
 
@@ -107,19 +136,80 @@
 
     $(entry).each(function(){
       // Column names are name, age, etc.
-      $('.leaderboard').append('<p>'+this.gsx$organizations.$t+'</p>');
+      $('.org-leaderboard').append('<p>'+this.gsx$organizations.$t+'</p>');
     });
 
    });
-  </script> -->
+  </script>
+
+  <script>
+
+   // ID of the Google Spreadsheet
+   var spreadsheetID = "18JyFa8HzqBsvayfb1Zbew83UweIM99W3GHkQIVZDOe8";
+
+   // Make sure it is public or set to Anyone with link can view
+   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+
+   $.getJSON(url, function(data) {
+
+    var entry = data.feed.entry;
+
+    $(entry).each(function(){
+      // Column names are name, age, etc.
+      $('.dancer-leaderboard').append('<p>'+this.gsx$dancers.$t+'</p>');
+    });
+
+   });
+  </script>
+
+  <script>
+
+   // ID of the Google Spreadsheet
+   var spreadsheetID = "18Hc_wcOILennqexd-qSaijNmHe0clLCHrnV9gpqUI6c";
+
+   // Make sure it is public or set to Anyone with link can view
+   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+
+   $.getJSON(url, function(data) {
+
+    var entry = data.feed.entry;
+
+    $(entry).each(function(){
+      // Column names are name, age, etc.
+      $('.captain-leaderboard').append('<p>'+this.gsx$captains.$t+'</p>');
+    });
+
+   });
+  </script>
+
+  <script>
+
+   // ID of the Google Spreadsheet
+   var spreadsheetID = "1OkDZTJr6FdaQeahYSOa3oucenrH0Swt3kPvuGO8SQQc";
+
+   // Make sure it is public or set to Anyone with link can view
+   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+
+   $.getJSON(url, function(data) {
+
+    var entry = data.feed.entry;
+
+    $(entry).each(function(){
+      // Column names are name, age, etc.
+      $('.elp-leaderboard').append('<p>'+this.gsx$elp.$t+'</p>');
+    });
+
+   });
+  </script>
 
 
+
     <!--  -->
     <!--  -->
     <!--  -->
     <!--  -->
     <!--  -->
-  <div class="row">
+  <div class="row" style="margin-top: 45px;">
     <div class="col-md-12 welcome_txt text-center">
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
       <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i><br/> DM at UF is the most successful student-run philanthropy in the southeastern United States <br/> and just celebrated its 23rd year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$2,724,324.19</b></i>!<br/>Join us in <b> 2018</b> as we continue to make bigger and better miracles <ii style="color:#f79b63;">
