@@ -40,7 +40,7 @@
       'fun_fact'              =>  'I have an identical mirror-image twin sister. ',
       'favorite_memory'       =>  'My favorite DM memory comes from a High School Dance Marathon in 2014. During the middle of the event, Zander and his parents surprised all the high school students and faculty by showing up halfway through and sharing their story. Zander&#39;s family drove over four hours to speak to these students about how Children&#39;s Miracle Network has changed there lives.  The passion and love that was expressed through their story brought everyone to tears. It caused a ripple affect and electrified the schools campus on what #FTK really means.',
       'motivation'            =>  'Children&#39;s Miracle Network and Dance Marathon at the University of Florida. This organization gives me the inspiration and opportunity to help thousands of children and their families. ',
-      'image'                 =>  'RachelA',
+      'image'                 =>  'RachelA1',
     ),
     array(
       'name'                  =>  'Madison Grasty',
@@ -68,7 +68,7 @@
       'fun_fact'              =>  'I&#39;m a die-hard Bruce Springsteen fan',
       'favorite_memory'       =>  'My favorite DM memory is walking into the O&#39;Dome before Opening Ceremonies during my first year participating. The atmosphere was euphoric, with the Miracle Children giving high fives by the door and the Captains cheering us on. Every single person in sight was beaming and so excited for the next 26.2 hours, and it was very apparent how much passion was truly behind this organization. ',
       'motivation'            =>  'Making people smile :)',
-      'image'                 =>  'Allie',
+      'image'                 =>  'Allie1',
     ),
     array(
       'name'                  =>  'Jonathan Pereyra',
@@ -124,7 +124,7 @@
       'fun_fact'              =>  'I&#39;ve stepped foot on all seven continents.',
       'favorite_memory'       =>  'Watching the Miracle Mural go up during DM at UF 17!',
       'motivation'            =>  'To use and develop my talents to help others and shape the world around me.',
-      'image'                 =>  'Arie',
+      'image'                 =>  'Arie1',
     ),
     array(
       'name'                  =>  'Ally Jones',
@@ -208,7 +208,7 @@
       'fun_fact'              =>  'I collect records and love all things rock n roll!',
       'favorite_memory'       =>  'All of the amazing people that I&#39;ve met through this organization and am still meeting today.',
       'motivation'            =>  'Making others happy!',
-      'image'                 =>  'Marni',
+      'image'                 =>  'Marni2',
     ),
     array(
       'name'                  =>  'Analiese Wagner',
@@ -222,7 +222,7 @@
       'fun_fact'              =>  'I am lactose intolerant.',
       'favorite_memory'       =>  'Last year my team got to hang out with Ayden and his family at Get Air. I had a blast jumping on the trampolines and playing in the foam pit with him. Ayden inspires me because he is so fearless and so energetic! At the end of the night, Ayden put me on his "best friends list" and gave me a hug, and it absolutely made my day (week, year, life)! Spending time with Miracle Children always makes me feel so fulfilled and connected with our cause.',
       'motivation'            =>  'Spending time with my family motivates me. My cousins have amazing, adorable children and they bring so much joy into my life. When I look at them and realize how easily one of them could be experiencing what our Miracle Children do, and how much different their lives would be because of it, I am inspired to work harder for our cause. I am always inspired by spending time with Miracle Families and knowing that the work we are doing makes their battles easier and gives their children a better chance at a normal, healthy life.',
-      'image'                 =>  'Annie',
+      'image'                 =>  'Annie1',
     ),
     array(
       'name'                  =>  'Shane Hanney',

@@ -80,14 +80,17 @@
   <!--  -->
   <!--  -->
 
-<!-- <div class="row">
-  <div class="col-md-12">
-    <div class="text-center">
-      <h2>LEADERBOARD</h2>
-      <div class="leaderboard"></div>
+<!-- <div style="margin: 45px 0;">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="text-center">
+        <h2 style="margin: 45px 0;"> Transform Today Leaderboard </h2>
+        <div class="leaderboard"></div>
+      </div>
     </div>
   </div>
 </div>
+
 
 
   <script>
