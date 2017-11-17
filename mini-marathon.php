@@ -62,7 +62,7 @@
 	        'url' => 'http://kanapaha.sbac.edu/pages/KAN0502',
 	            ),
         array(
-	        'name' => '<b> Key West Hight School </b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Key West, FL',
+	        'name' => '<b> Key West Hight School </b><br/><font style="color: #003">Event Date: <b>Mar. 10</b></font><br/>Key West, FL',
 	        'image' => 'kwhs.png',
 	        'url' => 'http://kwh.keysschools.com',
 	            ),
