@@ -21,11 +21,11 @@
 					'image' => 'hsdm6.jpg',
 					'url' => 'http://www.edline.net/pages/Boca_Raton_High_School',
 							),
-				array(
-					'name' => '<b>Cardinal Newman High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>West Palm Beach, FL',
-					'image' => 'cnhs.png',
-					'url' => 'http://www.cardinalnewman.com/',
-							),
+				// array(
+				// 	'name' => '<b>Cardinal Newman High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>West Palm Beach, FL',
+				// 	'image' => 'cnhs.png',
+				// 	'url' => 'http://www.cardinalnewman.com/',
+				// 			),
 				array(
 		      'name' => '<b>Deerfield Beach High School</b><br/><font style="color: #003">Event Date: </br><b>Feb. 23-24</b></font><br/>Deerfield Beach, FL',
 	        'image' => 'dbhs.png',
