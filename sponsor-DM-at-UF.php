@@ -25,7 +25,7 @@
         <div class="sub-nav">
           <ul>
 
-            <li><a href="/partners">Our Partners</a></li>
+            <li><a href="/partners">Our Sponsors</a></li>
         <!--  <li><a class="sponsorship-levels">Sponsorship Levels</a></li> -->
           <li><a class="active">Sponsor DM at UF</a></li>
           </ul>

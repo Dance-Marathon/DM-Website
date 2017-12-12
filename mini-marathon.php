@@ -7,7 +7,7 @@
 
 	$events = array(
 				array(
-				 'name' => '<b>American Heritage High School</b><br/><font style="color: #003">Event Date: <b>Feb. 2</b></font><br/>Plantation, FL',
+				 'name' => '<b>American Heritage High School</b><br/><font style="color: #003">Event Date: <b>Feb. 2</b></font><br/>Delray Beach, FL',
 				 'image' => 'ahhs.png',
 				 'url' => 'http://www.ahschool.com/',
 					 ),
@@ -17,7 +17,7 @@
 					'url' => 'http://www.marionschools.net/bhs',
 			      	),
 				array(
-					'name' => '<b>Boca Raton Community High School</b><br/><font style="color: #003">Event Date: <b> TBD </b></font><br/>Boca Raton, FL',
+					'name' => '<b>Boca Raton Community High School</b><br/><font style="color: #003">Event Date: <b>Mar. 2</b></font><br/>Boca Raton, FL',
 					'image' => 'hsdm6.jpg',
 					'url' => 'http://www.edline.net/pages/Boca_Raton_High_School',
 							),
@@ -102,7 +102,7 @@
 		     'url' => 'http://www.edline.net/pages/Suncoast_High_School',
             ),
         array(
-         'name' => '<b>Tavares High School</b><br/><font style="color: #003">Event Date: <b>Feb. 17</b></font><br/>Tavares, FL',
+         'name' => '<b>Tavares High School</b><br/><font style="color: #003">Event Date: <b>Mar. 03</b></font><br/>Tavares, FL',
          'image' => 'hsdm15.jpg',
 		     'url' => 'https://www.lake.k12.fl.us/Domain/3700',
 			 ),
@@ -197,7 +197,6 @@
 
           <div role="tabpanel" class="tab-pane fade" id="whatsmyzone">
           <img src="/assets/images/hsdm/zoningpg1.png" width="697" height="889" title="zoningpg1" alt="zoningpg1" />
-          <img src="/assets/images/hsdm/zoningpg2.png" width="697" height="889" title="zoningpg2" alt="zonepg2" />
 
             </div>
         </div>

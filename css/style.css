@@ -1209,3 +1209,12 @@ DMA MEMBERS PAGE
 	list-style-type: none;
 	margin: 0 auto;
 }
+
+.sponsor-section{
+	margin-top: 75px;
+}
+
+.dma-year{
+	font-family: 'Avenir';
+	font-weight: 700;
+}

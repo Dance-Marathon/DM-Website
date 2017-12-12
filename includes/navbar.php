@@ -73,7 +73,7 @@
 				<li <?php echo ($parent == 'partners') ? "class='open'" : ""; ?>>
 					<a href="/partners" class="dropdown-toggle">Sponsors</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/partners">Our Partners</a></li>
+						<li><a href="/partners">Our Sponsors</a></li>
 						<li><a href="/sponsor-DM-at-UF">Sponsor DM at UF</a></li>
 					</ul>
 				</li>
