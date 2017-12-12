@@ -39,17 +39,60 @@
 			<div class="dma-members">
 				<h2>Members</h2>
 				<div class="members-list text-left">
-					<h3>— 2010 ————————</h3>
+					<h3 class="dma-year">1997</h3>
+					<hr>
 					<ul>
+						<li>
+							Kelly Sawczyn
+						</li>
+					</ul>
+					<h3 class="dma-year">2003</h3>
+					<hr>
+					<ul>
+						<li>
+							Annie Tutt
+						</li>
+					</ul>
+					<h3 class="dma-year">2006</h3>
+					<hr>
+					<ul>
+						<li>
+							Heather Mears
+						</li>
+					</ul>
+					<h3 class="dma-year">2008</h3>
+					<hr>
+					<ul>
+						<li>
+							Christina Criser
+						</li>
+					</ul>
+					<h3 class="dma-year">2009</h3>
+					<hr>
+					<ul>
+						<li>
+							Jessica Layne
+						</li>
+					</ul>
+					<h3 class="dma-year">2010</h3>
+					<hr>
+					<ul>
+						<li>Tracy Jones</li>
 						<li>Kristine Kirstein</li>
 					</ul>
-					<h3>— 2012 ————————</h3>
+					<h3 class="dma-year">2012</h3>
+					<hr>
 					<ul>
 						<li>Meredith Chipman</li>
 						<li>Elise Costa</li>
 						<li>Eden Joyner</li>
+						<li>Monika	Baldwin</li>
+						<li>Juli Morgan</li>
+						<li>Kourtney Kellin</li>
+						<li>Natalie Hyman Hurd</li>
 					</ul>
-					<h3>— 2013 ————————</h3>
+					<h3 class="dma-year">2013</h3>
+					<hr>
 					<ul>
 						<li>Jillian Abrahamson</li>
 						<li>Garrett Chappell</li>
@@ -60,8 +103,12 @@
 						<li>Madison Hager</li>
 						<li>Jared Nash</li>
 						<li>Sara West</li>
-						</ul>
-					<h3>— 2014 ————————</h3>
+						<li>Hannah Watson</li>
+						<li>Blake Oliver</li>
+						<li>Jorge Sanchez</li>
+					</ul>
+					<h3 class="dma-year">2014</h3>
+					<hr>
 					<ul>
 						<li>Brian Giaquinta</li>
 						<li>Carlos Gordian</li>
@@ -72,13 +119,18 @@
 						<li>Molly Tuschen</li>
 						<li>Joelle Waksman</li>
 						<li>Kate Walton</li>
+						<li>Amanda Levine</li>
+						<li>Ansley Walker</li>
+						<li>Brandon Corsentino</li>
+						<li>Ben Paikowsky</li>
 					</ul>
-					<h3>— 2015 ————————</h3>
+					<h3 class="dma-year">2015</h3>
+					<hr>
 					<ul>
 						<li>Taylor Chambers</li>
 						<li>Brandon Cornellier</li>
 						<li>Michael Dingess</li>
-						<li>Chelsey Faber</li>
+						<li>Chelsey	Faber</li>
 						<li>Andrew Giacini</li>
 						<li>Lauren Heekin</li>
 						<li>Nha-Uyen Hua</li>
@@ -87,8 +139,15 @@
 						<li>Kristina Murphy</li>
 						<li>Dylan Schmer</li>
 						<li>Jimmy Taylor</li>
-						<li>Travus White</li></ul>
-					<h3>— 2016 ————————</h3>
+						<li>Travus White</li>
+						<li>Taylor Watford</li>
+						<li>Daniel Harbus</li>
+						<li>Austin Sutherland</li>
+						<li>Carter Wallace</li>
+						<li>Nick Wawrzyniak</li>
+					</ul>
+					<h3 class="dma-year">2016</h3>
+					<hr>
 					<ul>
 						<li>Vicki Baker</li>
 						<li>Emily Coyle</li>
@@ -96,8 +155,15 @@
 						<li>Keith Shopa</li>
 						<li>Allison Stroop</li>
 						<li>Alexa Tsongranis</li>
+						<li>Garrett	Robertson</li>
+						<li>Jenni Donnellan</li>
+						<li>Torrie Scianna</li>
+						<li>Shane Humbard</li>
+						<li>Caroline Parsons</li>
+						<li>Kason Green</li>
 					</ul>
-					<h3>— 2017 ————————</h3>
+					<h3 class="dma-year">2017</h3>
+					<hr>
 					<ul>
 						<li>Rachel Carter</li>
 						<li>Alexis Castro</li>
@@ -105,7 +171,7 @@
 						<li>Madison Eouse</li>
 						<li>Carli Fischer</li>
 						<li>Josh Fried</li>
-						<li>Lindsay Goldman</li>
+						<li>Lindsay	Goldman</li>
 						<li>Daniel Grunberg</li>
 						<li>Mary Hanvey</li>
 						<li>Alexandra Hernandez</li>
@@ -131,9 +197,13 @@
 						<li>Brenna Tiano</li>
 						<li>Kelsey Torgerson</li>
 						<li>Caitlyn Vaughn</li>
-						<li>Mallory Wood</li>
+						<li>Mallory	Wood</li>
 						<li>Sammi Wood</li>
 						<li>Bruce Yang</li>
+						<li>Katharine Johnson</li>
+						<li>S. Danielle Chitty</li>
+						<li>Katie Trethewey </li>
+						<li>Bobby Finigan</li>
 					</ul>
 				</div>
 			</div>
