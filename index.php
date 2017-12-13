@@ -315,17 +315,18 @@
           <div class="row">
             <table style="width:100%">
               <tr>
+                <th><img class="img-responsive" src="/assets/images/awards/Alumni 16.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Web 16.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Merch 15.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Morale 14.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Campaign 14.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Shirt 13.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Innovation 12.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Comma 12.png" /></th>
-
               </tr>
             </table>
             <table style="width:100%">
               <tr>
+                <th><img class="img-responsive" src="/assets/images/awards/Innovation 12.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/Comma 12.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Online 10.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Social.png" /></th>
                 <th><img class="img-responsive" src="/assets/images/awards/Website 08.png" /></th>
