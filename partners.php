@@ -5,6 +5,35 @@
   include("includes/head.php");
   include("includes/navbar.php");
 ?>
+<style>
+/*
+-------------------
+DMA MEMBERS PAGE
+-------------------
+*/
+
+.dma-members h3 {
+	font-weight: 700;
+}
+
+.members-list{
+	margin-top: 25px;
+}
+
+.members-list li{
+	list-style-type: none;
+	margin: 0 auto;
+}
+
+.sponsor-section{
+	margin-top: 75px;
+}
+
+.dma-year{
+	font-family: 'Avenir';
+	font-weight: 700;
+}
+</style>
 
 <div class="page-heading parallax sponsors">
   <div class="inner-wrapper">
@@ -31,90 +60,90 @@
           </ul>
         </div>
       </div>
-    <div class="col-md-8 col-md-push-1">
+    <div class="col-sm-8 col-sm-push-1">
       <h1 style="font-family: 'Avenir'; font-weight: 700;">Our 2018 Sponsors</h1>
     <hr>
       <div class="sponsor-section">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/delta.png">
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/standard.png">
           </div>
         </div>
       </div>
       <div class="sponsor-section">
         <div class="row">
-          <div class="col-md-4 col-md-offset-2">
+          <div class="col-sm-4 col-sm-offset-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/cookiegazm.png">
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/proforma.png">
           </div>
         </div>
       </div>
       <div class="sponsor-section">
         <div class="row">
-          <div class="col-md-3 col-md-offset-2">
+          <div class="col-sm-3 col-sm-offset-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lifesouth.png">
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/princetonreview.png">
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/marriottvacationsworldwide.png">
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
-          <div class="col-md-3 col-md-offset-3">
+          <div class="col-sm-3 col-sm-offset-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/se.png">
           </div>
-          <div class="col-md-3">
+          <div class="col-sm-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/bodiddleyplaza.png">
           </div>
         </div>
       </div>
       <div class="sponsor-section">
         <div class="row">
-          <div class="col-md-2 col-md-offset-3">
+          <div class="col-sm-2 col-sm-offset-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lc.png">
           </div>
-          <div class="col-md-2">
+          <div class="col-sm-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/alumnihall.png">
           </div>
-          <div class="col-md-2">
+          <div class="col-sm-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/barreforte.png">
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
-          <div class="col-md-2 col-md-offset-4">
+          <div class="col-sm-2 col-sm-offset-4">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/otm.png">
           </div>
-          <div class="col-md-2">
+          <div class="col-sm-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/spacewalk.png">
           </div>
         </div>
       </div>
       <div class="sponsor-section">
         <div class="row">
-          <div class="col-md-2 col-md-offset-2">
+          <div class="col-sm-2 col-sm-offset-2">
             <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/o2b.png">
           </div>
-          <div class="col-md-2">
+          <div class="col-sm-2">
             <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/maude.png">
           </div>
-          <div class="col-md-2">
+          <div class="col-sm-2">
             <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/dank.png">
           </div>
-          <div class="col-md-2">
+          <div class="col-sm-2">
             <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/sunbelt.png">
           </div>
-          <div class="col-md-2">
+          <div class="col-sm-2">
             <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/derm.png">
           </div>
         </div>
