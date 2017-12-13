@@ -14,8 +14,8 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img class="img-responsive"  src="assets/images/slider/TotalDM2017.png">
-          <div class="carousel-caption text-center">
+          <img class="img-responsive"  src="assets/images/slider/holidays.png">
+          <!-- <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <div class="col-md-6">
                 <div class="logo">
@@ -27,7 +27,7 @@
                 <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=2610" target="_blank" class="top_btn">Donate Now</a>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
 
         <!-- End Item -->
