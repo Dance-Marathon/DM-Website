@@ -1186,35 +1186,3 @@ a:hover .img-thumbnail{
 #livestream_window h4 {
 	line-height: 250px;
 }
-
-/*
--------------------
-DMA MEMBERS PAGE
--------------------
-*/
-
-.dma-members h3 {
-	font-weight: 700;
-}
-
-.members-list{
-	margin-top: 25px;
-}
-
-.members-list ul{
-
-}
-
-.members-list li{
-	list-style-type: none;
-	margin: 0 auto;
-}
-
-.sponsor-section{
-	margin-top: 75px;
-}
-
-.dma-year{
-	font-family: 'Avenir';
-	font-weight: 700;
-}
