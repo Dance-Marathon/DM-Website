@@ -273,7 +273,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <img src="assets/images/floridamap.jpg" class="florida-map">
+        <img src="assets/images/floridamap.png" class="florida-map">
       </div>
       <div class="col-md-6">
         <br><br><br>
