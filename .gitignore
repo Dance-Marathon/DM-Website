@@ -1,6 +1,4 @@
 node_modules
-dist/
-includes/head.php
 
 moralentines.php
 staffapp.php
