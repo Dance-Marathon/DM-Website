@@ -3,7 +3,7 @@
   include("includes/head.php");
 ?>
 <!-- intro -->
-<div class="top visible-md visible-lg">
+<div class="top">
   <div class="intro">
     <div id="top-carousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
@@ -27,7 +27,7 @@
                 <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=2610" target="_blank" class="top_btn">Donate Now</a>
               </div> -->
             </div>
-          <!-- </div> -->
+          </div>
         </div>
 
         <!-- End Item -->
