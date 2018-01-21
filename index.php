@@ -7,11 +7,11 @@
   <div class="intro">
     <div id="top-carousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
-      <ol class="carousel-indicators">
+ <!--      <ol class="carousel-indicators">
         <li data-target="#top-carousel" data-slide-to="0" class="active"></li>
-        <!-- <li data-target="#top-carousel" data-slide-to="1"></li>
-        <li data-target="#top-carousel" data-slide-to="2"></li> -->
-      </ol>
+        <li data-target="#top-carousel" data-slide-to="1"></li>
+        <li data-target="#top-carousel" data-slide-to="2"></li>
+      </ol> -->
       <div class="carousel-inner">
         <div class="item active">
           <img class="img-responsive"  src="assets/images/slider/websitebanner2.png">
