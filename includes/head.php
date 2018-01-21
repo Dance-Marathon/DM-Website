@@ -28,9 +28,6 @@
 		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Pacifico" rel="stylesheet">
-
         <!-- injector:css -->
         <link rel="stylesheet" href="/dist/1513132805939/css/DM-Website.min.css">
         <!-- endinjector -->
@@ -61,7 +58,7 @@
 
 	<?php
 
-	$dm_year = "2018";
+	$dm_year = "2017";
 	$dance_marathon_event_started = false;
 
 	?>
