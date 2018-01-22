@@ -6,7 +6,7 @@
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax community_events">
+<div class="page-heading parallax golf">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
@@ -25,8 +25,8 @@
   			<div class="sub-nav">
           <ul>
             <li><a href="/mini-marathon">Mini-Marathon</a></li>
-            <li><a href="/ft5k">FT5K</a></li>
-            <li><a href="/miracle-gala">Gala</a></li>
+            <li><a href="">Running Event (Coming Soon)</a></li>
+            <li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a class="active">Golf Tournament</a></li>
 						<li><a href="/dance-marathon">Dance Marathon </a></li>
 

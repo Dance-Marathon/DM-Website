@@ -1,12 +1,12 @@
 <?php
   $status = "open";
   $GLOBALS['page_title'] = 'Employee Matching | Fundraising | Dance Marathon at UF';
-  $GLOBALS['parent'] = 'register-to-fundraise';
+  $GLOBALS['parent'] = '';
   include("includes/head.php");
   include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax sponsors">
+<div class="page-heading parallax employee-matching">
   <div class="inner-wrapper">
     <div class="container">
       <div class="row">

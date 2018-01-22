@@ -6,7 +6,7 @@
   include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax sponsors">
+<div class="page-heading parallax sponsor-dm">
   <div class="inner-wrapper">
     <div class="container">
       <div class="row">

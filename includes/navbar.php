@@ -61,7 +61,7 @@
 					<ul class="dropdown-menu" role="menu">
 						<!--<li><a href="/campus-events">Campus Events</a></li> -->
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-						<li><a href="/ft5k">FT5K</a></li>
+						<li><a href="">Running Event (Coming Soon)</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a href="/golf-tournament">Golf Tournament</a></li>
 						<!-- <li><a href="/ftk-festival">FTK Festival</a></li> -->
@@ -77,15 +77,15 @@
 						<li><a href="/sponsor-DM-at-UF">Sponsor DM at UF</a></li>
 					</ul>
 				</li>
-				<li <?php echo ($parent == 'Fundraising') ? "class='open'" : ""; ?>>
+				<li <?php echo ($parent == 'fundraising') ? "class='open'" : ""; ?>>
 					<a href="/register-to-fundraise" class="dropdown-toggle">Fundraising</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/register-to-fundraise">Register to Fundraise</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
 						<li><a href ="/campus-push-days">Campus Push Days</a></li>
-					  <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
-					</ul>
+<!-- 					  <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+ -->					</ul>
 				</li>
 <!---------SPACEEEEEEEE ---->
 

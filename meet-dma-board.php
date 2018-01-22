@@ -55,7 +55,7 @@ Acapella line dance after the event is a close second. DM people are above avera
   );
 ?>
 
-<div class="page-heading parallax dmaa">
+<div class="page-heading parallax board-dma">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">

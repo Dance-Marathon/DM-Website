@@ -6,7 +6,7 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax dancers">
+<div class="page-heading parallax fast-facts">
   <div class="inner-wrapper">
    <div class="container">
      <div class="row">

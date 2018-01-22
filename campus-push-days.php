@@ -1,12 +1,12 @@
 <?php
 	$status = "open";
 	$GLOBALS['page_title'] = 'Campus Push Days | Events | Dance Marathon at UF';
-	$GLOBALS['parent'] = 'events';
+	$GLOBALS['parent'] = '';
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax community_events">
+<div class="page-heading parallax campus-push">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
