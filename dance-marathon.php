@@ -12,7 +12,7 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax about">
+<div class="page-heading parallax dmevent">
 	<div class="inner-wrapper">
 		<div class="container">
 			<div class="row">
@@ -37,11 +37,10 @@ include("includes/navbar.php");
 					<ul>
 
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-
-						<li><a href="/ft5k">FT5K</a></li>
-						<li><a href="/gala">Gala</a></li>
+						<li><a href="">Running Event (Coming Soon)</a></li>
+						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a href="/golf-tournament">Golf Tournament</a></li>
-						<li><a class="active">Dance Marathon 2017</a></li>
+						<li><a class="active">Dance Marathon 2018</a></li>
 						<!--                        <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
 				</div>
@@ -49,7 +48,7 @@ include("includes/navbar.php");
 
 			<div class="col-md-8 col-md-push-1">
 
-				<?php if ($status == "open") { ?>
+				<!-- <?php if ($status == "open") { ?>
 
 					<div class="row">
 						<div class="col-md-12 text-center">
@@ -79,10 +78,10 @@ include("includes/navbar.php");
 								<div class="col-md-12 text-center pt">
 									<i><h6>Livestream Sponsored By GHQ</h6><i>
 									</div>
-								</div>
+								</div> -->
 
-								<hr />
-
+<!-- 								<hr />
+ -->
 								<div class="row mb">
 									<div class="col-md-12 text-center">
 										<h1>Schedule &amp; Events</h1>
@@ -117,45 +116,8 @@ include("includes/navbar.php");
 														<tbody>
 
 															<tr>
-																<td>Opening Ceremonies</td>
-																<td>Saturday</td>
-																<td>11:15AM – 12:00PM</td>
-															</tr>
-
-															<tr>
-																<td>High School Total Reveal</td>
-																<td>Saturday</td>
-																<td>7:30PM – 7:50PM</td>
-															</tr>
-
-															<tr>
-																<td>Rave</td>
-																<td>Sunday</td>
-																<td>1:30AM – 2:45AM</td>
-															</tr>
-
-															<tr>
-																<td>Family Hour</td>
-																<td>Sunday</td>
-																<td>11:00AM – 12:00PM</td>
-															</tr>
-
-															<tr>
-																<td>Kid's Talent Show</td>
-																<td>Sunday</td>
-																<td>11:00AM – 12:00PM</td>
-															</tr>
-
-															<tr>
-																<td>Pre-Closing Award Show</td>
-																<td>Sunday</td>
-																<td>12:50PM – 1:10PM</td>
-															</tr>
-
-															<tr>
-																<td>Closing Ceremonies</td>
-																<td>Sunday</td>
-																<td>1:45PM – 3:00PM</td>
+																<td>Coming Soon!</td>
+																
 															</tr>
 
 														</tbody>
@@ -177,93 +139,8 @@ include("includes/navbar.php");
 														<tbody>
 
 															<tr>
-																<td>Sonic Brass Band</td>
-																<td>Saturday</td>
-																<td>10:00AM – 10:30AM</td>
-															</tr>
-
-															<tr>
-																<td>Gator Pep Band</td>
-																<td>Saturday</td>
-																<td>10:40AM – 11:10AM</td>
-															</tr>
-
-															<tr>
-																<td>Riff Off ( NSA &amp; Tone Def)</td>
-																<td>Saturday</td>
-																<td>1:20PM - 1:50PM</td>
-															</tr>
-
-															<tr>
-																<td>Pure Band Class</td>
-																<td>Saturday</td>
-																<td>2:35PM – 3:00PM</td>
-															</tr>
-
-															<tr>
-																<td>Miss America And Olympic Opening Ceremony</td>
-																<td>Saturday</td>
-																<td>4:00PM – 4:20PM</td>
-															</tr>
-
-															<tr>
-																<td>Sons and Soldiers</td>
-																<td>Saturday</td>
-																<td>5:00PM – 5:30PM</td>
-															</tr>
-
-															<tr>
-																<td>Silent Disco</td>
-																<td>Saturday</td>
-																<td>6:30PM – 7:10PM</td>
-															</tr>
-
-															<tr>
-																<td>Savants of Soul</td>
-																<td>Saturday</td>
-																<td>9:00PM – 9:30PM</td>
-															</tr>
-
-															<tr>
-																<td>Hypnotist</td>
-																<td>Saturday</td>
-																<td>10:30PM – 11:20PM</td>
-															</tr>
-
-															<tr>
-																<td>Improv</td>
-																<td>Saturday</td>
-																<td>11:30PM – 12:00AM</td>
-															</tr>
-
-															<tr>
-																<td>Rave Hour (feat. DJ Echols)</td>
-																<td>Sunday</td>
-																<td>1:30AM – 2:30AM</td>
-															</tr>
-
-															<tr>
-																<td>Lip Sync Battle</td>
-																<td>Sunday</td>
-																<td>3:40AM – 4:20AM</td>
-															</tr>
-
-															<tr>
-																<td>Dazzlers</td>
-																<td>Sunday</td>
-																<td>7:20AM - 7:40AM</td>
-															</tr>
-
-															<tr>
-																<td>Arrows In Action</td>
-																<td>Sunday</td>
-																<td>8:20AM - 8:50AM</td>
-															</tr>
-
-															<tr>
-																<td>Dance Battle</td>
-																<td>Sunday</td>
-																<td>9:40AM - 10:10AM</td>
+																<td>Coming Soon!</td>
+																
 															</tr>
 
 														</tbody>
@@ -287,40 +164,11 @@ include("includes/navbar.php");
 														<tbody>
 
 															<tr>
-																<td>Olympics</td>
-																<td>Saturday</td>
-																<td>4:00PM - 6:00PM</td>
+																<td>Coming Soon!</td>
+															
 															</tr>
 
-															<tr>
-																<td>00DM</td>
-																<td>Saturday</td>
-																<td>8:00PM - 9:30PM</td>
-															</tr>
-
-															<tr>
-																<td>NYC</td>
-																<td>Saturday</td>
-																<td>10:30PM - 12:30AM</td>
-															</tr>
-
-															<tr>
-																<td>All Nighter</td>
-																<td>Sunday</td>
-																<td>3:30AM - 5:30AM</td>
-															</tr>
-
-															<tr>
-																<td>March Madness</td>
-																<td>Sunday</td>
-																<td>6:30AM - 8:00AM</td>
-															</tr>
-
-															<tr>
-																<td>Gameshows</td>
-																<td>Sunday</td>
-																<td>9:00AM - 11:00AM</td>
-															</tr>
+															
 
 														</tbody>
 
@@ -344,8 +192,7 @@ include("includes/navbar.php");
 								<div class="row">
 									<div class="col-md-12 text-center">
 										<p>
-											<strong>Please note that the hours of 11:00PM  - 4:00AM are off limits to visitors.</strong><br />
-											However, visitors that have purchased a ticket it for the Rave Hour may visit between 1:30AM - 2:30AM!
+											<strong>Coming Soon.</strong><br />
 										</p>
 									</div>
 								</div>

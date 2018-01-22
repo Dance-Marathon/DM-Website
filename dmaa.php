@@ -9,7 +9,7 @@
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax dmaa">
+<div class="page-heading parallax about-dma">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">

@@ -1,12 +1,12 @@
 <?php
 	$status = "open";
 	$GLOBALS['page_title'] = 'Fundraising Guide | Dance Marathon at UF';
-	$GLOBALS['parent'] = 'register-to-fundraise';
+	$GLOBALS['parent'] = '';
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax get-involved">
+<div class="page-heading parallax fundraising-guide">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">

@@ -6,7 +6,7 @@
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax about">
+<div class="page-heading parallax faq">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
