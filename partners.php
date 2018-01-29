@@ -25,9 +25,7 @@ DMA MEMBERS PAGE
 	margin: 0 auto;
 }
 
-.sponsor-section{
-	margin-top: 75px;
-}
+
 
 .dma-year{
 	font-family: 'Avenir';
@@ -61,21 +59,43 @@ DMA MEMBERS PAGE
         </div>
       </div>
     <div class="col-sm-8 col-sm-push-1">
-      <h1 style="font-family: 'Avenir'; font-weight: 700;">Our 2018 Sponsors</h1>
+      <h3>Our 2018 Sponsors</h3>
     <hr>
       <div class="sponsor-section">
         <div class="row">
           <div class="col-sm-6">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/delta.png">
+            <img class="img-responsive" src="assets/images/sponsors/2018/delta.png" width="300" height="300">
           </div>
           <div class="col-sm-6">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/standard.png">
+            <img class="img-responsive" src="assets/images/sponsors/2018/standard.png" width="300" height="300">
+          </div>
+        </div>
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img class="img-responsive" src="assets/images/sponsors/PDQ.jpg" width="175" height="175"/>
+          </div>
+          <div class="col-sm-6">
+            <img class="img-responsive" src="assets/images/sponsors/Dominos.jpg" width="175" height="175"/>
+          </div>
+        </div>
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img class="img-responsive" src="assets/images/sponsors/miApa.jpg" width="175" height="175"/>
+          </div>
+          <div class="col-sm-6">
+            <img class="img-responsive"  src="assets/images/sponsors/texasRoadhouse.png" width="175" height="175"/>
+          </div>
+        </div>
+         <div  class="row">
+          <div class="col-sm-6">
+            <img class="img-responsive" src="assets/images/sponsors/Piesanos.png" width="175" height="175"/>
           </div>
         </div>
       </div>
+      <hr>
       <div class="sponsor-section">
-        <div class="row">
-          <div class="col-sm-4 col-sm-offset-2">
+        <div  class="row">
+          <div class="col-sm-4">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/cookiegazm.png">
           </div>
           <div class="col-sm-4">
@@ -83,9 +103,10 @@ DMA MEMBERS PAGE
           </div>
         </div>
       </div>
-      <div class="sponsor-section">
+      <hr>
+      <div style="margin-top: 35px;" class="sponsor-section">
         <div class="row">
-          <div class="col-sm-3 col-sm-offset-2">
+          <div class="col-sm-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lifesouth.png">
           </div>
           <div class="col-sm-3">
@@ -98,7 +119,7 @@ DMA MEMBERS PAGE
         <div style="height: 35px;">
         </div>
         <div class="row">
-          <div class="col-sm-3 col-sm-offset-3">
+          <div class="col-sm-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/se.png">
           </div>
           <div class="col-sm-3">
@@ -106,9 +127,10 @@ DMA MEMBERS PAGE
           </div>
         </div>
       </div>
+       <hr>
       <div class="sponsor-section">
         <div class="row">
-          <div class="col-sm-2 col-sm-offset-3">
+          <div class="col-sm-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lc.png">
           </div>
           <div class="col-sm-2">
@@ -121,7 +143,7 @@ DMA MEMBERS PAGE
         <div style="height: 35px;">
         </div>
         <div class="row">
-          <div class="col-sm-2 col-sm-offset-4">
+          <div class="col-sm-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/otm.png">
           </div>
           <div class="col-sm-2">
@@ -129,9 +151,10 @@ DMA MEMBERS PAGE
           </div>
         </div>
       </div>
+      <hr>
       <div class="sponsor-section">
         <div class="row">
-          <div class="col-sm-2 col-sm-offset-2">
+          <div class="col-sm-2">
             <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/o2b.png">
           </div>
           <div class="col-sm-2">
@@ -153,9 +176,9 @@ DMA MEMBERS PAGE
       </div>
       <div class="panel panel-default">
         <div class="panel-heading" role="tab" id="q1">
-          <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1" style="font-family: 'Avenir'; font-weight: 700; font-size: 2em;"> 2017 PARTNERS</a>
-          </h4>
+          <h3 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1"> 2017 PARTNERS</a>
+          </h3>
         </div>
         <div id="a1" class="panel-collapse collapse out" role="tabpanel" aria-labelledby="q1">
           <div class="panel-body">
