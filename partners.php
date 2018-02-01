@@ -64,7 +64,7 @@ DMA MEMBERS PAGE
       <div class="sponsor-section">
         <div class="row">
           <div class="col-sm-6">
-            <img class="img-responsive" src="assets/images/sponsors/2018/delta.png" width="300" height="300">
+            <img class="img-responsive" src="assets/images/sponsors/2018/Delta_Official.png" width="300" height="300">
           </div>
           <div class="col-sm-6">
             <img class="img-responsive" src="assets/images/sponsors/2018/standard.png" width="300" height="300">
