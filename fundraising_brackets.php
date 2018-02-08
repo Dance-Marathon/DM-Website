@@ -9,7 +9,7 @@ include("includes/navbar.php");
 
 <style>
 #hr{
-  border-color: 212025;
+  border-color: #212025;
 }
   #bracket-title{
     margin: 0 0 32px 0; 
