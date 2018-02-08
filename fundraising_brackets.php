@@ -89,6 +89,7 @@ include("includes/navbar.php");
 
   #bracket-orgs p{
     color: white;
+    margin-top: 45px;
   }
 
 
@@ -102,6 +103,7 @@ include("includes/navbar.php");
 
   #light-bracket-orgs p{
     color: #212025;
+    margin-top: 45px;
   }
 
   #light-bracket-dancers-title{
@@ -301,7 +303,8 @@ include("includes/navbar.php");
         <div id="red-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Red</h1>
-          <h3 id="bracket-dancers-title">————— 32 Dancers  —————</h3>
+          <h3 id="bracket-dancers-title"> 32 Dancers </h3>
+          <hr>
           <div id="bracket-orgs" class="red-bracket"></div>
         </div>
       </div>
@@ -315,8 +318,8 @@ include("includes/navbar.php");
         <div id="blue-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Blue</h1>
-          <h3 id="bracket-dancers-title">————— 26 Dancers  —————</h3>
-          
+          <h3 id="bracket-dancers-title">26 Dancers </h3>
+          <hr>
           <div id="bracket-orgs" class="blue-bracket"></div>
         </div>
       </div>
@@ -330,8 +333,8 @@ include("includes/navbar.php");
         <div id="green-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Green</h1>
-          <h3 id="bracket-dancers-title">————— 20 Dancers  —————</h3>
-          
+          <h3 id="bracket-dancers-title">20 Dancers </h3>
+          <hr>
           <div id="bracket-orgs" class="green-bracket"></div>
         </div>
       </div>
@@ -345,8 +348,8 @@ include("includes/navbar.php");
         <div id="yellow-bracket-wrapper">
         <div class="text-center">
           <h1 id="light-bracket-title">Yellow</h1>
-          <h3 id="light-bracket-dancers-title">————— 14 Dancers  —————</h3>
-          
+          <h3 id="light-bracket-dancers-title">14 Dancers</h3>
+          <hr>
           <div id="light-bracket-orgs" class="yellow-bracket"></div>
         </div>
       </div>
@@ -360,8 +363,8 @@ include("includes/navbar.php");
         <div id="purple-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Purple</h1>
-          <h3 id="bracket-dancers-title">————— 8 Dancers  —————</h3>
-          
+          <h3 id="bracket-dancers-title">8 Dancers</h3>
+          <hr>
           <div id="bracket-orgs" class="purple-bracket"></div>
         </div>
       </div>
@@ -375,8 +378,8 @@ include("includes/navbar.php");
         <div id="orange-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Orange</h1>
-          <h3 id="bracket-dancers-title">————— 6 Dancers  —————</h3>
-          
+          <h3 id="bracket-dancers-title">6 Dancers</h3>
+          <hr>
           <div id="bracket-orgs" class="orange-bracket"></div>
         </div>
       </div>
@@ -391,7 +394,8 @@ include("includes/navbar.php");
         <div id="pink-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Pink</h1>
-          <h3 id="bracket-dancers-title">————— 4 Dancers  —————</h3>
+          <h3 id="bracket-dancers-title"> 4 Dancers  </h3>
+          <hr>
           <div id="bracket-orgs" class="pink-bracket"></div>
         </div>
       </div>
@@ -405,7 +409,8 @@ include("includes/navbar.php");
         <div id="gray-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Gray</h1>
-          <h3 id="bracket-dancers-title">————— 2 Dancers  —————</h3>
+          <h3 id="bracket-dancers-title"> 2 Dancers </h3>
+          <hr>
           <div id="bracket-orgs" class="gray-bracket"></div>
         </div>
       </div>
