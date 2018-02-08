@@ -84,8 +84,8 @@
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
 						<li><a href ="/campus-push-days">Campus Push Days</a></li>
-<!-- 					  <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
- -->					</ul>
+					  <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+					</ul>
 				</li>
 <!---------SPACEEEEEEEE ---->
 

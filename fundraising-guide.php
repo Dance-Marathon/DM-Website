@@ -28,7 +28,7 @@
             <li><a href="/employee-matching">Employee Matching</a></li>
             <li><a class="active">Fundraising Guide</a></li>
             <li><a href="/campus-push-days">Campus Push Days</a></li>
-          <!--  <li><a href="/fundraising_brackets">Fundraising Brackets</a></li> -->
+           <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
           </ul>
         </div>
 			</div>
