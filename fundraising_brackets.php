@@ -8,6 +8,9 @@ include("includes/navbar.php");
 
 
 <style>
+#hr{
+  border-color: 212025;
+}
   #bracket-title{
     margin: 0 0 32px 0; 
     font-weight: 400; 
@@ -349,7 +352,7 @@ include("includes/navbar.php");
         <div class="text-center">
           <h1 id="light-bracket-title">Yellow</h1>
           <h3 id="light-bracket-dancers-title">14 Dancers</h3>
-          <hr>
+          <hr id="hr">
           <div id="light-bracket-orgs" class="yellow-bracket"></div>
         </div>
       </div>
