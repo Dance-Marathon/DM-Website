@@ -94,7 +94,7 @@
 								 <b><li>How to do it?</b> - First, obtain specially designed canning buckets from our Fundraising team (contact <a href="mailto:ahariton@floridadm.org ">ahariton@floridadm.org </a> for further informaiton). Email, call, or go inside a local business in your hometown and request to speak to the General Manager regarding canning donations. They will be sure and inform you of all the necessary regulations, and allow you to coordinate a time that works for both you and the business. Be sure and show up promptly and dressed in Dance Marathon at UF attire to help spread your message! From there, talk to customers as they leave the business about donating to your cause. No donation is too small and every amount helps make miracles For The Kids! </li>
 								 </ul>
 
-								 <a href="assets/PDFs/Incentive-Levels.pdf" target="_blank"> <h4>Fundraising Levels</h4> </a>
+								 <a href="assets/PDFs/Incentive-Levels-2018.pdf" target="_blank"> <h4>Fundraising Levels</h4> </a>
 
 							 <table style="width:100%">
 									<tr>
