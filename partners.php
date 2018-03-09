@@ -63,13 +63,18 @@ DMA MEMBERS PAGE
     <hr>
       <div class="sponsor-section">
         <div class="row">
-          <div class="col-sm-6">
-            <img class="img-responsive" src="assets/images/sponsors/2018/Delta_Official.png" width="300" height="300">
-          </div>
-          <div class="col-sm-6">
-            <img class="img-responsive" src="assets/images/sponsors/2018/standard.png" width="300" height="300">
+          <div class="col-sm-7">
+            <img class="img-responsive" src="assets/images/sponsors/2018/Delta_Official.png" >
           </div>
         </div>
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-7">
+            <img class="img-responsive" src="assets/images/sponsors/2018/standard.png" >
+          </div>
+        </div>
+        <!--
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
             <img class="img-responsive" src="assets/images/sponsors/PDQ.jpg" width="175" height="175"/>
@@ -91,6 +96,7 @@ DMA MEMBERS PAGE
             <img class="img-responsive" src="assets/images/sponsors/Piesanos.png" width="175" height="175"/>
           </div>
         </div>
+      -->
       </div>
       <hr>
       <div class="sponsor-section">
@@ -102,6 +108,24 @@ DMA MEMBERS PAGE
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/proforma.png">
           </div>
         </div>
+        <div style="height: 35px;">
+        </div>
+        <div  class="row">
+          <div class="col-sm-4">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/datadoesgood.png">
+          </div>
+          <div class="col-sm-4">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/DRHorton.jpg">
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div  class="row">
+          <div class="col-sm-4">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/VeraBradley.jpg">
+          </div>
+        </div>
+
       </div>
       <hr>
       <div style="margin-top: 35px;" class="sponsor-section">
@@ -125,19 +149,48 @@ DMA MEMBERS PAGE
           <div class="col-sm-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/bodiddleyplaza.png">
           </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Retreat.png">
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/IFC.png">
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Kind.jpg">
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Orange.png">
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Guyaki.jpg">
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/felipes.png">
+          </div>
         </div>
       </div>
        <hr>
       <div class="sponsor-section">
         <div class="row">
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lc.png">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/RedBull.png">
           </div>
           <div class="col-sm-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/alumnihall.png">
           </div>
           <div class="col-sm-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/barreforte.png">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/MarkBostick.png">
           </div>
         </div>
         <div style="height: 35px;">
@@ -148,6 +201,44 @@ DMA MEMBERS PAGE
           </div>
           <div class="col-sm-2">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/spacewalk.png">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Cordaroys.jpg">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Hammock.jpg">
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/NS4L.jpg">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Balance180.jpg">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/SmokinNotes.jpg">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lc.png">
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/LoftSmart.png">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/WonderWorks.png">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/BeachBreak.jpg">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/UFStudentHealth.png">
           </div>
         </div>
       </div>
@@ -161,13 +252,13 @@ DMA MEMBERS PAGE
             <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/maude.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/dank.png">
-          </div>
-          <div class="col-sm-2">
             <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/sunbelt.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/derm.png">
+            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/dank.png">
+          </div>
+          <div class="col-sm-2">
+            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/derm.jpg">
           </div>
         </div>
       </div>
