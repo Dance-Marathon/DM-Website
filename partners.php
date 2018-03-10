@@ -64,14 +64,14 @@ DMA MEMBERS PAGE
       <div class="sponsor-section">
         <div class="row">
           <div class="col-sm-7">
-            <img class="img-responsive" src="assets/images/sponsors/2018/Delta_Official.png" >
+            <a href="https://www.delta.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/Delta_Official.png" >
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
           <div class="col-sm-7">
-            <img class="img-responsive" src="assets/images/sponsors/2018/standard.png" >
+            <a href="https://thestandardgainesville.landmark-properties.com" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/standard.png" >
           </div>
         </div>
         <!--
@@ -102,27 +102,27 @@ DMA MEMBERS PAGE
       <div class="sponsor-section">
         <div  class="row">
           <div class="col-sm-4">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/cookiegazm.png">
+            <a href="https://www.cookiegazm.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/cookiegazm.png">
           </div>
           <div class="col-sm-4">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/proforma.png">
-          </div>
-        </div>
-        <div style="height: 35px;">
-        </div>
-        <div  class="row">
-          <div class="col-sm-4">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/datadoesgood.png">
-          </div>
-          <div class="col-sm-4">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/DRHorton.jpg">
+            <a href="http://www.proforma.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/proforma.png">
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div  class="row">
           <div class="col-sm-4">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/VeraBradley.jpg">
+            <a href="https://www.datadoesgood.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/datadoesgood.png">
+          </div>
+          <div class="col-sm-4">
+            <a href="http://www.drhorton.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/DRHorton.jpg">
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div  class="row">
+          <div class="col-sm-4">
+            <a href="https://www.verabradley.com/us/Home" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/VeraBradley.jpg">
           </div>
         </div>
 
@@ -131,49 +131,49 @@ DMA MEMBERS PAGE
       <div style="margin-top: 35px;" class="sponsor-section">
         <div class="row">
           <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lifesouth.png">
+            <a href="http://lifesouth.org" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lifesouth.png">
           </div>
           <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/princetonreview.png">
+            <a href="https://www.princetonreview.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/princetonreview.png">
           </div>
           <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/marriottvacationsworldwide.png">
-          </div>
-        </div>
-        <div style="height: 35px;">
-        </div>
-        <div class="row">
-          <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/se.png">
-          </div>
-          <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/bodiddleyplaza.png">
-          </div>
-          <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Retreat.png">
+            <a href="https://www.marriottvacationsworldwide.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/marriottvacationsworldwide.png">
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
           <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/IFC.png">
+            <a href="https://studyedge.com/landing/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/se.png">
           </div>
           <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Kind.jpg">
+            <a href="http://www.bodiddleyplaza.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/bodiddleyplaza.png">
           </div>
           <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Orange.png">
+            <a href="https://www.retreatgainesville.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Retreat.png">
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
           <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Guyaki.jpg">
+            <a href="http://ufifc.org" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/IFC.png">
           </div>
           <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/felipes.png">
+            <a href="https://www.kindsnacks.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Kind.jpg">
+          </div>
+          <div class="col-sm-3">
+            <a href="https://www.orangetheoryfitness.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Orange.png">
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <a href="http://guayaki.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Guyaki.jpg">
+          </div>
+          <div class="col-sm-3">
+            <a href="https://www.orangetheoryfitness.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/felipes.png">
           </div>
         </div>
       </div>
@@ -181,64 +181,64 @@ DMA MEMBERS PAGE
       <div class="sponsor-section">
         <div class="row">
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/RedBull.png">
+            <a href="https://www.redbull.com/us-en" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/RedBull.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/alumnihall.png">
+            <a href="https://www.alumnihall.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/alumnihall.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/barreforte.png">
+            <a href="http://www.barrefortegainesville.com/?gclid=Cj0KCQjwprbPBRCHARIsAF_7gDYLa1FDppkH6vt2HWwuVPQ2cGSFo7v7kYXKLgbhXES1EfcaPXVcEzwaAjVgEALw_wcB" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/barreforte.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/MarkBostick.png">
-          </div>
-        </div>
-        <div style="height: 35px;">
-        </div>
-        <div class="row">
-          <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/otm.png">
-          </div>
-          <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/spacewalk.png">
-          </div>
-          <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Cordaroys.jpg">
-          </div>
-          <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Hammock.jpg">
+            <a href="http://markbostickgolfcourse.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/MarkBostick.png">
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/NS4L.jpg">
+            <a href="" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/otm.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Balance180.jpg">
+            <a href="http://herecomesfun.com/GNS/space-walk-of-gainesville" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/spacewalk.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/SmokinNotes.jpg">
+            <a href="https://cordaroys.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Cordaroys.jpg">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lc.png">
+            <a href="http://www.hammockbeach.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Hammock.jpg">
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/LoftSmart.png">
+            <a href="https://newscooters4less.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/NS4L.jpg">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/WonderWorks.png">
+            <a href="http://balance180.org" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Balance180.jpg">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/BeachBreak.jpg">
+            <a href="https://www.smokinnotes.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/SmokinNotes.jpg">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/UFStudentHealth.png">
+            <a href="https://www.lloydclarkesports.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/lc.png">
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <a href="https://loftsmart.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/LoftSmart.png">
+          </div>
+          <div class="col-sm-2">
+            <a href="https://www.wonderworksonline.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/WonderWorks.png">
+          </div>
+          <div class="col-sm-2">
+            <a href="http://www.beachbreaksalon.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/BeachBreak.jpg">
+          </div>
+          <div class="col-sm-2">
+            <a href="https://shcc.ufl.edu" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/UFStudentHealth.png">
           </div>
         </div>
       </div>
@@ -246,19 +246,19 @@ DMA MEMBERS PAGE
       <div class="sponsor-section">
         <div class="row">
           <div class="col-sm-2">
-            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/o2b.png">
+            <a href="http://www.o2bkids.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/o2b.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/maude.png">
+            <a href="http://places.singleplatform.com/maudes-cafe/menu" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/maude.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/sunbelt.png">
+            <a href="https://www.sunbeltrentals.com/locations/662/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/sunbelt.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/dank.png">
+            <a href="https://www.facebook.com/DankCakesGainesville/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/dank.png">
           </div>
           <div class="col-sm-2">
-            <img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/derm.jpg">
+            <a href="http://gainesvilleflderm.com" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/derm.jpg">
           </div>
         </div>
       </div>
