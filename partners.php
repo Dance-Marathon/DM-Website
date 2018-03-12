@@ -78,7 +78,7 @@ DMA MEMBERS PAGE
         
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <a href="http://www.miapalatincafe.com"><img class="img-responsive" src="assets/images/sponsors/miApa.jpg" width="200" height="200"/></a>
+            <a href="http://www.miapalatincafe.com"><img class="img-responsive" src="assets/images/sponsors/apa.png" width="200" height="200"/></a>
           </div>
           <div class="col-sm-6">
             <img class="img-responsive" src="assets/images/sponsors/Dominos.jpg" width="175" height="175"/>
