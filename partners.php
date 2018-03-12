@@ -64,31 +64,42 @@ DMA MEMBERS PAGE
       <div class="sponsor-section">
         <div class="row">
           <div class="col-sm-7">
-            <a href="https://www.delta.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/Delta_Official.png" >
+            <a href="https://www.delta.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/Delta_Official.png" ></a>
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
           <div class="col-sm-7">
-            <a href="https://thestandardgainesville.landmark-properties.com" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/standard.png" >
+            <a href="https://thestandardgainesville.landmark-properties.com" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/standard.png" ></a>
           </div>
         </div>
         
+        
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <img class="img-responsive" src="assets/images/sponsors/PDQ.jpg" width="175" height="175"/>
+            <a href="http://www.miapalatincafe.com"><img class="img-responsive" src="assets/images/sponsors/miApa.jpg" width="175" height="175"/></a>
           </div>
           <div class="col-sm-6">
             <img class="img-responsive" src="assets/images/sponsors/Dominos.jpg" width="175" height="175"/>
           </div>
+
+        </div>
+        
+        <div style="margin-top: 35px;" class="row">
+           <div class="col-sm-6">
+            <a href="http://pomodorocafe.com"><img class="img-responsive" src="assets/images/sponsors/2018/pomodoro.png" width="175" height="175"/></a>
+          </div>
+           <div class="col-sm-6">
+            <a href=""><img class="img-responsive" src="assets/images/sponsors/2018/gd.png" width="175" height="175"/></a>
+          </div>
         </div>
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <img class="img-responsive" src="assets/images/sponsors/miApa.jpg" width="175" height="175"/>
-          </div>
-          <div class="col-sm-6">
             <img class="img-responsive"  src="assets/images/sponsors/texasRoadhouse.png" width="175" height="175"/>
+          </div>
+           <div class="col-sm-6">
+            <img class="img-responsive" src="assets/images/sponsors/PDQ.jpg" width="175" height="175"/>
           </div>
         </div>
          <div  class="row">
