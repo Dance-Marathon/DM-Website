@@ -74,7 +74,7 @@ DMA MEMBERS PAGE
             <a href="https://thestandardgainesville.landmark-properties.com" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/standard.png" >
           </div>
         </div>
-        <!--
+        
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
             <img class="img-responsive" src="assets/images/sponsors/PDQ.jpg" width="175" height="175"/>
@@ -96,7 +96,7 @@ DMA MEMBERS PAGE
             <img class="img-responsive" src="assets/images/sponsors/Piesanos.png" width="175" height="175"/>
           </div>
         </div>
-      -->
+      
       </div>
       <hr>
       <div class="sponsor-section">
