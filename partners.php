@@ -78,7 +78,7 @@ DMA MEMBERS PAGE
         
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <a href="http://www.miapalatincafe.com"><img class="img-responsive" src="assets/images/sponsors/miApa.jpg" width="175" height="175"/></a>
+            <a href="http://www.miapalatincafe.com"><img class="img-responsive" src="assets/images/sponsors/miApa.jpg" width="200" height="200"/></a>
           </div>
           <div class="col-sm-6">
             <img class="img-responsive" src="assets/images/sponsors/Dominos.jpg" width="175" height="175"/>
@@ -91,7 +91,7 @@ DMA MEMBERS PAGE
             <a href="http://pomodorocafe.com"><img class="img-responsive" src="assets/images/sponsors/2018/pomodoro.png" width="175" height="175"/></a>
           </div>
            <div class="col-sm-6">
-            <a href=""><img class="img-responsive" src="assets/images/sponsors/2018/gd.png" width="175" height="175"/></a>
+            <a href="http://gatorsdockside.com"><img class="img-responsive" src="assets/images/sponsors/2018/gd.png" width="175" height="175"/></a>
           </div>
         </div>
         <div style="margin-top: 35px;" class="row">
