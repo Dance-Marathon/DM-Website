@@ -825,6 +825,12 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.campus-push {
   background-image: url("/assets/images/sectionbg/campuspushdaysbanner.jpg");
 }
+.page-heading.parallax.alumni {
+  background-image: url("/assets/images/sectionbg/alumnibanner.jpg");
+}
+.page-heading.parallax.meet-the-overalls {
+  background-image: url("/assets/images/sectionbg/meettheoverallsbanner.jpg");
+}
 /*
 .page-heading.parallax.e404 {
   background-image: url("/assets/images/sectionbg/404.jpg");
@@ -1215,4 +1221,3 @@ a:hover .img-thumbnail{
 #livestream_window h4 {
 	line-height: 250px;
 }
-

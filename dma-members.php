@@ -2,7 +2,7 @@
 <?php
 /*header("Location: http://www.floridadm.org/alumni.php"); /* Redirect browser */
 /*exit();*/
-	$status = "open";
+	$status = "closed";
 	$GLOBALS['page_title'] = 'DMA Members | Alumni | Florida Dance Marathon';
 	$GLOBALS['parent'] = 'DMA Members';
 	include("includes/head.php");
@@ -211,7 +211,7 @@
                }
            }
 
-           // 2017 
+           // 2017
            if (!($(entry)[1].gsx$year2017.$t.includes("n/a"))) {
                if (this.gsx$year2017.$t.includes('2017')) {
                    $('.17-title').append('<h3 class="dma-year">' + this.gsx$year2017.$t + '</h3> <hr>');
@@ -254,13 +254,13 @@
 				<h2>Members</h2>
 				<div class="members-list text-left">
 					<div class="container-fluid">
-					  
+
 					<!-- 1995 -->
 					<div class="dma-year 95-title"></div>
 					<ul>
 						<div class="95"></div>
 					</ul>
-					
+
 					<!-- 1996 -->
 					<div class="dma-year 96-title"></div>
 					<ul>

@@ -2,7 +2,7 @@
 <?php
 /*header("Location: http://www.floridadm.org/alumni.php"); /* Redirect browser */
 /*exit();*/
-	$status = "open";
+	$status = "closed";
 	$GLOBALS['page_title'] = 'DM Alumni | Alumni | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'dmaa';
 	include("includes/head.php");

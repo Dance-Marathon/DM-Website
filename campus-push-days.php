@@ -24,11 +24,13 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
+						<li><a class="active">Campus Push Days</a></li>
+						<li><a href="/employee-matching">Employee Matching</a></li>
+						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
-            <li><a href="/employee-matching">Employee Matching</a></li>
-            <li><a href="/fundraising-guide">Fundraising Guide</a></li>
-            <li><a class="active">Campus Push Days</a></li>
-						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li> 
+						<li><a href="/partners">Sponsors</a></li>
+
           </ul>
         </div>
 			</div>

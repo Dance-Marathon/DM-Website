@@ -25,13 +25,13 @@ include("includes/navbar.php");
 
   			<div class="sub-nav">
           <ul>
-            <li><a href="uf-health">CMN & UF Health</a></li>
-            <li><a href="/our-story">Our Story</a></li>
-            <li><a class="active">Fast Facts / Nomenclature</a></li><!-- page not made-->
-            <li><a href="/press-releases">Press Release</a></li>
             <li><a href="/blog">Blog</a></li>
-            <li><a href="/faq">FAQ</a></li>
-<!--            <li><a href="/overall-applications">Overall Applications</a></li> -->
+            <li><a href="uf-health">CMN & UF Health</a></li>
+						<li><a class="active">Fast Facts / Nomenclature</a></li>
+						<li><a href="/faq">FAQ</a></li>
+						<li><a href="meet-the-kids.php">Meet the Kids</a></li>
+            <li><a href="/our-story">Our Story</a></li>
+            <li><a href="/press-releases">Press Release</a></li>
           </ul>
         </div>
 			</div>
@@ -146,7 +146,7 @@ include("includes/navbar.php");
           <li>
             Overall Directors
             <ul>
-              <li>Excecutive Director</li>
+              <li>Executive Director</li>
               <li>External Manager</li>
               <li>Internal Manager</li>
               <li>Membership Development Manager</li>
@@ -180,7 +180,7 @@ include("includes/navbar.php");
               <li>Merchandise</li>
               <li>Morale</li>
               <li>Multimedia</li>
-              <li>Outreach*</li>
+              <li>Outreach</li>
               <li>Productions</li>
               <li>Public Relations</li>
               <li>Recruitment</li>
@@ -192,7 +192,7 @@ include("includes/navbar.php");
           <li>Delegates</li>
           <li>Dancers</li>
           <li>Fundraisers</li>
-          <li>Dance Marathon Alumni Association (DMAA)</li>
+          <li>Dance Marathon Alumni (DMA)</li>
         </ul>
 
           </div>

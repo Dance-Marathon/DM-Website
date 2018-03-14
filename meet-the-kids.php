@@ -1,7 +1,7 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Meet The Kids | Family | Dance Marathon at UF';
-	$GLOBALS['parent'] = 'family';
+	$GLOBALS['page_title'] = 'Meet the Kids | Dance Marathon at UF';
+	$GLOBALS['parent'] = 'about';
 	include("includes/head.php");
 	include("includes/navbar.php");
 
@@ -394,13 +394,23 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
+						<li><a href="/blog">Blog</a></li>
+            <li><a href="uf-health">CMN & UF Health</a></li>
+						<li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li>
+						<li><a href="/faq">FAQ</a></li>
 						<li><a class="active">Meet the Kids</a></li>
-						<li><a href="/family-events">Family Events</a></li>
+            <li><a href="/our-story">Our Story</a></li>
+            <li><a href="/press-releases">Press Release</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
+
+				<h3>For the Kids, For the Families</h3>
+        <p>Dance Marathon at the University of Florida is very fortunate to have over 77 Miracle Families. Our Miracle Families are true inspirations and the pinnacle of what Dance Marathon stands for. The birthday parties, end-of-chemotherapy parties, and play dates that we have with the children constantly remind us of the true meaning behind “For the Kids” and “For All The Right Reasons”. The entire team at Dance Marathon is honored and privileged to have these amazing families attend Dance Marathon every year and support our students.</p>
+        <p>If you have any questions about the Family Relations program, or would like to become a Dance Marathon Miracle Family, please contact the Family Relations Overall Director, Jake Dube, at <a href="mailto:jdube@floridadm.org">jdube@floridadm.org</a></p>
+
         <h3>Meet our Kids, Meet our Miracles</h3>
         <p>Take a moment to meet the heart and soul of our philanthropy. Our Miracle Children are the inspiration for every student who is part of DM at UF.</p>
         <?php

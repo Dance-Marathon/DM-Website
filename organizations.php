@@ -1,6 +1,6 @@
 <?php
 $status = "open";
-$GLOBALS['page_title'] = 'Organizations | Students | Dance Marathon at UF';
+$GLOBALS['page_title'] = 'Organizations | Get Involved | Dance Marathon at UF';
 $GLOBALS['parent'] = 'get-involved';
 include("includes/head.php");
 include("includes/navbar.php");
@@ -404,15 +404,14 @@ usort($greek_organizations, 'compareAlphabetically');
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="/get-involved">Get Involved</a></li>
-            <li><a class="active">Organizations</a></li>
-            <li><a href="/delegates">Delegates</a></li>
-            <li><a href="/dancers">Dancers</a></li>
-            <li><a href="/ftkrew">FTKrew</a></li>
-            <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-            <li><a href="/captain-teams" >Captain Teams</a></li>
-            <li><a href="/meet-the-overalls">Meet the Overalls</a></li>
-              <li><a href="/applications">Applications</a></li>
+            <li><a href="/alumni">Alumni</a></li>
+						<li><a href="/applications">Applications</a></li>
+						<li><a href="/captain-teams">Captain Teams</a></li>
+						<li><a href="/dancers">Dancers</a></li>
+						<li><a href="/delegates">Delegates</a></li>
+						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
+						<li><a href="/ftkrew">FTKrew</a></li>
+						<li><a class="active">Organizations</a></li>
 
           </ul>
         </div>

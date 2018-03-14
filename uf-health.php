@@ -24,12 +24,14 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
 		<ul>
+						<li><a href="/blog">Blog</a></li>
             <li><a class="active">CMN & UF Health</a></li>
+						<li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li>
+						<li><a href="/faq">FAQ</a></li>
+						<li><a href="meet-the-kids.php">Meet the Kids</a></li>
             <li><a href="/our-story">Our Story</a></li>
-            <li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li><!-- page not made-->
             <li><a href="/press-releases">Press Release</a></li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="/faq">FAQ</a></li>
+
           </ul>
         </div>
 			</div>
