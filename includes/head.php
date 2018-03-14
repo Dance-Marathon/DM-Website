@@ -30,7 +30,7 @@
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
         <!-- injector:css -->
-        <link rel="stylesheet" href="/dist/1520989668877/css/DM-Website.min.css">
+        <link rel="stylesheet" href="/dist/1518060416094/css/DM-Website.min.css">
         <!-- endinjector -->
 
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
