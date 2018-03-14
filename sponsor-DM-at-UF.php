@@ -1,5 +1,5 @@
 <?php
-  $status = "open";
+  $status = "closed";
   $GLOBALS['page_title'] = 'Sponsor DM at UF | Partners | Dance Marathon at UF';
   $GLOBALS['parent'] = 'partners';
   include("includes/head.php");

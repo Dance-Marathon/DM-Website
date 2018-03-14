@@ -35,12 +35,10 @@ include("includes/navbar.php");
 			<div class="col-md-3">
 				<div class="sub-nav">
 					<ul>
-
-						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-						<li><a href="">Running Event (Coming Soon)</a></li>
-						<li><a href="/miracle-gala">Miracle Gala</a></li>
-						<li><a href="/golf-tournament">Golf Tournament</a></li>
 						<li><a class="active">Dance Marathon 2018</a></li>
+						<li><a href="/golf-tournament">Golf Tournament</a></li>
+						<li><a href="/mini-marathon">Mini-Marathon</a></li>
+						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<!--                        <li><a href="/eventsurvey">DM 2015 Event Survey</a></li> -->
 					</ul>
 				</div>
@@ -117,7 +115,7 @@ include("includes/navbar.php");
 
 															<tr>
 																<td>Coming Soon!</td>
-																
+
 															</tr>
 
 														</tbody>
@@ -140,7 +138,7 @@ include("includes/navbar.php");
 
 															<tr>
 																<td>Coming Soon!</td>
-																
+
 															</tr>
 
 														</tbody>
@@ -165,10 +163,10 @@ include("includes/navbar.php");
 
 															<tr>
 																<td>Coming Soon!</td>
-															
+
 															</tr>
 
-															
+
 
 														</tbody>
 

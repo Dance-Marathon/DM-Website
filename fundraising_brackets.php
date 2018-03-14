@@ -12,8 +12,8 @@ include("includes/navbar.php");
   border-color: #212025;
 }
   #bracket-title{
-    margin: 0 0 32px 0; 
-    font-weight: 400; 
+    margin: 0 0 32px 0;
+    font-weight: 400;
     text-transform: uppercase;
     color: white;
     font-size: 3em;
@@ -21,8 +21,8 @@ include("includes/navbar.php");
 
   #bracket-dancers-title{
     color: white;
-    margin: 32px 0; 
-    font-weight: 400; 
+    margin: 32px 0;
+    font-weight: 400;
     text-transform: uppercase;
     color: white;
   }
@@ -97,8 +97,8 @@ include("includes/navbar.php");
 
 
 #light-bracket-title{
-    margin: 0 0 32px 0; 
-    font-weight: 400; 
+    margin: 0 0 32px 0;
+    font-weight: 400;
     text-transform: uppercase;
     color: #212025;
     font-size: 3em;
@@ -111,8 +111,8 @@ include("includes/navbar.php");
 
   #light-bracket-dancers-title{
     color: white;
-    margin: 32px 0; 
-    font-weight: 400; 
+    margin: 32px 0;
+    font-weight: 400;
     text-transform: uppercase;
     color: #212025;
   }
@@ -137,11 +137,12 @@ include("includes/navbar.php");
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
-            <li><a href="/employee-matching">Employee Matching</a></li>
-            <li><a href="/fundraising-guide">Fundraising Guide</a></li>
             <li><a href="/campus-push-days">Campus Push Days</a></li>
-           <li><a class="active">Fundraising Brackets</a></li>
+						<li><a href="/employee-matching">Employee Matching</a></li>
+						<li><a class="active">Fundraising Brackets</a></li>
+						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
+            <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
+						<li><a href="/partners">Sponsors</a></li>
           </ul>
         </div>
 			</div>

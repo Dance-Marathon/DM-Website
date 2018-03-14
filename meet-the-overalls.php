@@ -1,7 +1,7 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Meet The Overalls | Students | Dance Marathon at UF';
-	$GLOBALS['parent'] = 'get-involved';
+	$GLOBALS['page_title'] = 'Meet The Overalls | Dance Marathon at UF';
+	$GLOBALS['parent'] = 'contactus';
 	include("includes/head.php");
 	include("includes/navbar.php");
 
@@ -299,22 +299,7 @@
 <div class="page-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-3">
-  			<div class="sub-nav">
-          <ul>
-            <li><a href="/get-involved">Get Involved</a></li>
-            <li><a href="/organizations">Organizations</a></li>
-            <li><a href="/delegates">Delegates</a></li>
-            <li><a href="/dancers">Dancers</a></li>
-            <li><a href="/ftkrew">FTKrew</a></li>
-            <li><a href="/emerging-leaders">Emerging Leaders Program</a></li>
-            <li><a href="/captain-teams" >Captain Teams</a></li>
-            <li><a class="active">Meet the Overalls</a></li>
-						  <li><a href="/applications">Applications</a></li>
-          </ul>
-        </div>
-			</div>
-			<div class="col-md-8 col-md-push-1">
+			<div class="col-md-12">
       <?php if ($status == "open") { ?>
         <?php
         for($i = 0; $i < count($overalls); $i++) {
@@ -389,14 +374,20 @@
               </div>
             </div>
           </div>
+
 					<?php } ?>
         <?php
           if(($i - 2) % 3 == 0) {
             echo '</div>';
           }
         } ?>
+				<div>
+					<h2>Donation Problems?</h2>
+					<p>If you have Donor Drive questions, or problems with a donation, please contact <a href="mailto:ahariton@floridadm.org">ahariton@floridadm.org</a></p>
+				</div>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
+
 		</div>
 	</div>
 </div>

@@ -148,11 +148,10 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a class="active">Mini-Marathon</a></li>
-            <li><a href="">Running Event (Coming Soon)</a></li>
-            <li><a href="/miracle-gala">Miracle Gala</a></li>
+						<li><a href="/dance-marathon">Dance Marathon 2018</a></li>
 						<li><a href="/golf-tournament">Golf Tournament</a></li>
-							<li><a href="/dance-marathon">Dance Marathon </a></li>
+						<li><a class="active">Mini-Marathon</a></li>
+						<li><a href="/miracle-gala">Miracle Gala</a></li>
 
           </ul>
         </div>
@@ -173,7 +172,7 @@
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
             <p>Dance Marathon at the University of Florida is the largest and most successful student-run philanthropy in the Southeast United States. This past year DM at UF celebrated its 23rd year and raised a historic $2,742,324.19! All money raised goes directly to benefitting the children at UF Heath Shands Children’s Hospital. Our event brings together the University of Florida community to stand for 26.2 hours with the hope of providing a better future for so many deserving children and their families. We would love for you to become a member our DM family! So, join us next year as we continue to make bigger and better miracles For The Kids!</p>
             <p><iframe width="560" height="315" src="https://www.youtube.com/embed/dyaW8bNKjUU" frameborder="0" allowfullscreen></iframe></p>
-            
+
             <p>If you would like to learn more about our Mini-Marathon program or would like to get involved, please contact our Marathon Relations Overall, Haley Schavemaker, at <a href="mailto:hschavemaker@floridadm.org">hschavemaker@floridadm.org</a>.</p>
         	</br>
             <h2>In Our Community</h2>
