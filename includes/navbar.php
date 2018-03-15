@@ -1,7 +1,23 @@
 <?php global $parent; ?>
+
+		<style>
+			@media (min-width: 1551px) {
+			  .container-fluid {
+			    max-width: 75%;
+			  }
+			}
+			@media (max-width: 1550px) {
+			  .container-fluid {
+			    max-width: 100%;
+			  }
+			}
+		</style>
+
     <!-- Fixed navbar -->
 	<div id="nav" class="navbar navbar-fixed-top">
-		  <div class="container">
+
+			
+		  <div class="container-fluid">
 			<div class="navbar-header">
 			  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 				<span class="icon-bar"></span>
@@ -69,6 +85,10 @@
 					</ul>
 				</li>
 
+				<li <?php echo ($parent == 'partners') ? "class='open'" : ""; ?>>
+					<a href="/partners" class="dropdown-toggle">Sponsors</a>
+				</li>
+
 
 				<li <?php echo ($parent == 'fundraising') ? "class='open'" : ""; ?>>
 					<a href="/register-to-fundraise" class="dropdown-toggle">Fundraising</a>
@@ -78,7 +98,6 @@
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
 						<li><a href="/register-to-fundraise">Register to Fundraise</a></li>
-						<li><a href="/partners">Sponsors</a></li>
 					</ul>
 				</li>
 
@@ -96,7 +115,6 @@
 
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
-				  <li><a href="http://urlgeni.us/youtube/UFDanceMarathon"><i class="fa fa-youtube"></i></a></li>
 				  <li><a href="http://urlgeni.us/instagram/dmatuf"><i class="fa fa-instagram"></i></a></li>
 				  <li><a href="http://urlgeni.us/twitter/floridaDM"><i class="fa fa-twitter"></i></a></li>
 				  <li><a href="http://urlgeni.us/facebook/floridaDM"><i class="fa fa-facebook"></i></a></li>

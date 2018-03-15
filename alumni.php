@@ -538,7 +538,7 @@
 								</div>
 							</div>
 						</div>
-
+					</div>
         	</div>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
