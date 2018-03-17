@@ -152,6 +152,7 @@
 						<li><a href="/golf-tournament">Golf Tournament</a></li>
 						<li><a class="active">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
+						<li><a href="/Warrior">Warrior Run</a></li>
 
           </ul>
         </div>

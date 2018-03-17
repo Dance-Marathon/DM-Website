@@ -16,7 +16,7 @@
     <!-- Fixed navbar -->
 	<div id="nav" class="navbar navbar-fixed-top">
 
-			
+
 		  <div class="container-fluid">
 			<div class="navbar-header">
 			  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -77,6 +77,7 @@
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<!--<li><a href="">Running Event (Coming Soon)</a></li>-->
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
+						<li><a href="/Warrior">Warrior Run</a></li>
 
 						<!-- <li><a href="/ftk-festival">FTK Festival</a></li> -->
 

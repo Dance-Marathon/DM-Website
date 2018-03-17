@@ -1,17 +1,17 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'Gala | Events | Dance Marathon at UF';
+	$GLOBALS['page_title'] = 'Warrior Run | Events | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax gala">
+<div class="page-heading parallax meet-the-overalls">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Gala</h1>
+    			<h1>Warrior Run</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -27,18 +27,29 @@
 						<li><a href="/dance-marathon">Dance Marathon 2018</a></li>
 						<li><a href="/golf-tournament">Golf Tournament</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-						<li><a class="active">Miracle Gala</a></li>
-						<li><a href="/Warrior">Warrior Run</a></li>
+						<li><a href="/miracle-gala">Miracle Gala</a></li>
+						<li><a class="active">Warrior Run</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 
-				<h2>Gala</h2>
+				<h2>Warrior Run</h2>
 
   			<p>
-  		Join us at the Touchdown Terrace on March 24, 2018 for the Miracle Gala sponsored by the University of Florida Department of Pediatrics. What better way to celebrate Dance Marathon at UF weekend than by enjoying an evening of fine dining, dancing, and recognizing all of the accomplishments of Dance Marathon at the University of Florida and the doctors at UF Health Shands Children’s Hospital? For more information, please contact the Outreach Overall Director, Analiese Wagner, at <a href="mailto:awagner@floridadm.org">awagner@floridadm.org</a>. We look forward to seeing you there!
+					On February 11th, get ready to test your strength and agility as you run, crawl, climb, and jump your way to the finish to see if you have what it takes to be a Miracle Warrior!
+				</p>
+				<ul>
+					<li>1:00pm - Check-in and day-of registration</li>
+					<li>1:30pm - Kids Race</li>
+					<li>2:00pm - First heat of the Warrior Run</li>
+				</ul>
+					<p>
+						<b>Registration:</b>
+					Warrior Run: $25 ($30 day-of)
+					Kids race (ages 12 & under): $10 or included free with adult registration (parent supervision required for all participants)
+					</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
