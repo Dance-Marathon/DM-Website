@@ -831,6 +831,9 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.meet-the-overalls {
   background-image: url("/assets/images/sectionbg/mto.jpg");
 }
+.page-heading.parallax.warrior-run {
+  background-image: url("/assets/images/sectionbg/wr.jpg");
+}
 /*
 .page-heading.parallax.e404 {
   background-image: url("/assets/images/sectionbg/404.jpg");
