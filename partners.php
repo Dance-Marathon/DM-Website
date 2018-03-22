@@ -112,7 +112,7 @@ DMA MEMBERS PAGE
             <a href="http://piesanostogo.com/"><img class="img-responsive" src="assets/images/sponsors/Piesanos.png" width="175" height="175"/></a>
           </div>
            <div class="col-sm-6">
-             <a href="https://www.texasroadhouse.com/"><img class="img-responsive"  src="assets/images/sponsors/texasRoadhouse.png" width="175" height="175"/></a>
+             <a href="https://nextranusa.com/"><img class="img-responsive" src="assets/images/sponsors/2018/Nextran.png" width="200" height="200" /></a>
           </div>
         </div>
          <div  class="row">
@@ -123,9 +123,12 @@ DMA MEMBERS PAGE
             <a href="https://www.pepsi.com/en-us/"><img class="img-responsive" src="assets/images/sponsors/2018/Pepsi.png" width="100" height="100"/></a>
           </div>
         </div>
-        <div  class="row">
+        <div style="margin-top: 35px;" class="row">
          <div class="col-sm-6">
            <a href="https://www.pandaexpress.com/"><img class="img-responsive" src="assets/images/sponsors/2018/Panda.jpg" width="150" height="150" /></a>
+         </div>
+         <div class="col-sm-6">
+           <a href="https://www.texasroadhouse.com/"><img class="img-responsive"  src="assets/images/sponsors/texasRoadhouse.png" width="175" height="175"/></a>
          </div>
        </div>
 
@@ -341,15 +344,15 @@ DMA MEMBERS PAGE
             <a href="https://shcc.ufl.edu" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/UFStudentHealth.png"/></a>
           </div>
         </div>
+
         <div style="height: 35px;">
         </div>
-
         <div class="row">
           <div class="col-sm-2">
             <a href="http://www.swamprestaurant.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/TheSwamp.jpg"/></a>
           </div>
           <div class="col-sm-2">
-            <a href="https://www.olivegarden.com/locations/fl/gainesville/gainesville-florida/4498" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/OliveGarden.jpg"/></a>
+            <a href="https://www.loves.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Loves.png"/></a>
           </div>
           <div class="col-sm-2">
             <a href="https://restaurants.ihop.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/IHOP.jpg"/></a>
@@ -358,12 +361,12 @@ DMA MEMBERS PAGE
             <a href="https://mojobbq.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Mojo.jpg"/></a>
           </div>
         </div>
+
         <div style="height: 35px;">
         </div>
-
         <div class="row">
           <div class="col-sm-2">
-            <a href="https://impulsenutrition.goherbalife.com/Catalog/Home/Index/en-US" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Impulse.png"/></a>
+            <a href="https://bearbottomclothing.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/BearBottom.png"/></a>
           </div>
           <div class="col-sm-2">
             <a href="https://www.bjsrestaurants.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/BJs.png"/></a>
@@ -372,7 +375,41 @@ DMA MEMBERS PAGE
             <a href="https://www.facebook.com/SababaGville" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Sababa.jpg"/></a>
           </div>
           <div class="col-sm-2">
-            <a href="https://www.loves.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Loves.png"/></a>
+            <a href="https://www.olivegarden.com/locations/fl/gainesville/gainesville-florida/4498" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/OliveGarden.jpg"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <a href="https://impulsenutrition.goherbalife.com/Catalog/Home/Index/en-US" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Impulse.png"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://www.satchelspizza.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Satchels.png"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://www.moochi.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Moochit.png"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="http://momoyaki.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/momoyaki.png"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <a href="http://wabisocial.co/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/WabiSocial.png"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://www.dillards.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/dillards.gif"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://www.forthepeople.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Morgan.jpeg"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://www.girlscouts.org/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/GirlScouts.png"/></a>
           </div>
         </div>
 
@@ -462,6 +499,41 @@ DMA MEMBERS PAGE
           </div>
           <div class="col-sm-2">
             <a href="http://gainesvilleflderm.com" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/derm.jpg"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="http://studentmaid.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/StudentMaid.png"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://www.sephora.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/Sephora.jpg"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://houseoftans.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/HouseOfTans.png"/></a>
+          </div>
+        </div>
+        <div style="height: 20px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <a href="http://www.ballyhoogrill.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/Ballyhoo.jpg"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="http://www.northwestgrillegainesville.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/Northwest.jpg"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://www.touchofheaven-fl.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/ATouchOfHeaven.png"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="https://southbeachtanningcompany.com/gainesville/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/SouthBeach.jpg"/></a>
+          </div>
+          <div class="col-sm-2">
+            <a href="http://bowlsplitz.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/Splitz.jpg"/></a>
+          </div>
+        </div>
+        <div style="height: 20px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <a href="http://www.thecoppercloset.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/CopperCloset.png"/></a>
           </div>
         </div>
 
