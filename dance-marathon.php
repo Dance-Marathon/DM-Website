@@ -81,120 +81,14 @@ include("includes/navbar.php");
 
 <!-- 								<hr />
  -->
-								<div class="row mb">
-									<div class="col-md-12 text-center">
-										<h1>Schedule &amp; Events</h1>
-									</div>
-								</div>
 
-								<div class="row">
+ <!-- ASDJFKA:SDFJASDF -->
+								<div class="row mb">
 									<div class="col-md-12">
-
-										<div role="tabpanel">
-											<!-- Nav tabs -->
-											<ul class="nav nav-tabs" role="tablist">
-												<li role="presentation" class="active"><a href="#events" aria-controls="events" role="tab" data-toggle="tab">Events</a></li>
-												<li role="presentation"><a href="#bands" aria-controls="bands" role="tab" data-toggle="tab">Bands</a></li>
-												<li role="presentation"><a href="#themehours" aria-controls="themehours" role="tab" data-toggle="tab">Theme Hours</a></li>
-											</ul>
-
-											<!-- Tab panes -->
-											<div class="tab-content">
-												<div role="tabpanel" class="tab-pane fade in active" id="events">
-
-													<table class="table table-middle">
-
-														<thead>
-															<tr>
-																<th>Event</th>
-																<th>Day</th>
-																<th>Hours</th>
-															</tr>
-														</thead>
-
-														<tbody>
-
-															<tr>
-																<td>Coming Soon!</td>
-
-															</tr>
-
-														</tbody>
-
-													</table>
-												</div>
-												<div role="tabpanel" class="tab-pane fade" id="bands">
-
-													<table class="table table-middle">
-
-														<thead>
-															<tr>
-																<th>Band</th>
-																<th>Day</th>
-																<th>Hours</th>
-															</tr>
-														</thead>
-
-														<tbody>
-
-															<tr>
-																<td>Coming Soon!</td>
-
-															</tr>
-
-														</tbody>
-
-													</table>
-
-												</div>
-												<div role="tabpanel" class="tab-pane fade" id="themehours">
-													<table class="table table-middle">
-
-														<thead>
-
-															<tr>
-																<th>Theme</th>
-																<th>Day</th>
-																<th>Hours</th>
-															</tr>
-
-														</thead>
-
-														<tbody>
-
-															<tr>
-																<td>Coming Soon!</td>
-
-															</tr>
-
-
-
-														</tbody>
-
-													</table>
-												</div>
-
-											</div>
-										</div>
-
+										<h2>Livestream</h2>
 									</div>
 								</div>
-
-								<hr />
-
-								<div class="row mb">
-									<div class="col-md-12 text-center">
-										<h1>Visiting Hours</h1>
-									</div>
-								</div>
-
-								<div class="row">
-									<div class="col-md-12 text-center">
-										<p>
-											<strong>Coming Soon.</strong><br />
-										</p>
-									</div>
-								</div>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/kvrHp0IkefA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 								<?php } else { echo 'This page is currently closed.'; } ?>
 
