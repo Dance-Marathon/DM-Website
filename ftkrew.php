@@ -6,6 +6,12 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
+<style>
+.test{
+	color: #002e60;
+}
+</style>
+
 <div class="page-heading parallax FTKrew">
 	<div class="inner-wrapper">
 		<div class="container">
@@ -49,7 +55,7 @@ include("includes/navbar.php");
       <div class="tab-content">
       	<div role="tabpanel" class="tab-pane fade in active" id="FTKrew">
       		<h3>FTKrew</h3>
-					<p>FTKrew consists of motivated individuals who volunteer at Dance Marathon's main event in the spring semester. FTKrew offers a great opportunity for people to get involved with Dance Marathon, participate in service, and attend the event! Selected FTKrew members will attend two meetings in preparation for the event in March. FTKrew members will be assigned shifts during the event with specific duties and responsibilities to assist the Dancer Relations, Productions, and Hospitality teams. FTKrew members are an essential part of ensuring the efficiency and success of the 26.2-hour event.</p>
+					<p>FTKrew consists of <span class="test">motivated<span> individuals who volunteer at Dance Marathon's main event in the spring semester. FTKrew offers a great opportunity for people to get involved with Dance Marathon, participate in service, and attend the event! Selected FTKrew members will attend two meetings in preparation for the event in March. FTKrew members will be assigned shifts during the event with specific duties and responsibilities to assist the Dancer Relations, Productions, and Hospitality teams. FTKrew members are an essential part of ensuring the efficiency and success of the 26.2-hour event.</p>
 
 
 					<p><i>Selected FTKrew members will attend two meetings in preparation for the event in March. Each member will be assigned shifts during the event with specific duties and responsibilities assisting the Dancer Relations, Productions, and Hospitality teams.</i></p>
