@@ -5,7 +5,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
-				<link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Pacifico" rel="stylesheet">
         <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/apple-touch-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114.png">
         <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72.png">
@@ -30,7 +29,7 @@
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
         <!-- injector:css -->
-        <link rel="stylesheet" href="/dist/1521589687859/css/DM-Website.min.css">
+        <link rel="stylesheet" href="/dist/1523933368639/css/DM-Website.min.css">
         <!-- endinjector -->
 
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -43,7 +42,7 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
     <!-- injector:js -->
-    <script src="/dist/1521589687859/js/DM-Website.min.js"></script>
+    <script src="/dist/1523933368639/js/DM-Website.min.js"></script>
     <!-- endinjector -->
 
     <script>
