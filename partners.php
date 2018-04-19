@@ -66,7 +66,7 @@ DMA MEMBERS PAGE
       </p>
 
 
-      <p>If you have any questions, please contact our Sponsorship Overall Director, Samantha Kitroser, at <a href="mailto:skitroser@floridadm.org">skitroser@floridadm.org</a></p>
+      <p>If you have any questions, please contact our Sponsorship Overall Director, Robby Mijares, at <a href="mailto:rmijares@floridadm.org">rmijares@floridadm.org</a></p>
 
 
 

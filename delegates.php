@@ -80,7 +80,7 @@ include("includes/navbar.php");
               <li>Input your information and create a new organization.</li>
               <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing organization team.</li>
             </ol>
-            <p>Each team will need a Delegate to represent them. Please email the Dancer Relations Overall, Eric Rice, at <a href="mailto:erice@floridadm.org">erice@floridadm.org</a> to inform him you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email him to let him know you started a team.</p>
+            <p>Each team will need a Delegate to represent them. Please email the Fundraising & Organizational Development Overall, Shayna Goldrich, at <a href="mailto:sgoldrich@floridadm.org">sgoldrich@floridadm.org</a> to inform him you have created a team and will be serving as the Delegate or have plans of selecting a Delegate in the near future. The Dancer Relations Overall will not be able to get in contact with you unless you email him to let him know you started a team.</p>
           </div>
         </div>
 

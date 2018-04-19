@@ -61,7 +61,7 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-                Please contact our Public Relations Overall Director, Emily Boulter, at <a href="mailto:eboulter@floridadm.org">eboulter@floridadm.org</a>.
+                Please contact our Public Relations Overall Director, Caroline Rollosson, at <a href="mailto:Crollosson@floridadm.org">Crollosson@floridadm.org</a>.
               </div>
             </div>
           </div>

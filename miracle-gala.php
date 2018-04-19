@@ -38,7 +38,7 @@
 				<h2>Gala</h2>
 
   			<p>
-  		Join us at the Touchdown Terrace on March 24, 2018 for the Miracle Gala sponsored by the University of Florida Department of Pediatrics. What better way to celebrate Dance Marathon at UF weekend than by enjoying an evening of fine dining, dancing, and recognizing all of the accomplishments of Dance Marathon at the University of Florida and the doctors at UF Health Shands Children’s Hospital? For more information, please contact the Outreach Overall Director, Analiese Wagner, at <a href="mailto:awagner@floridadm.org">awagner@floridadm.org</a>. We look forward to seeing you there!
+  		Join us at the Touchdown Terrace on March 24, 2018 for the Miracle Gala sponsored by the University of Florida Department of Pediatrics. What better way to celebrate Dance Marathon at UF weekend than by enjoying an evening of fine dining, dancing, and recognizing all of the accomplishments of Dance Marathon at the University of Florida and the doctors at UF Health Shands Children’s Hospital? For more information, please contact the Outreach Overall Director, Grace Murray, at <a href="mailto:gmurray@floridadm.org">gmurray@floridadm.org</a>. We look forward to seeing you there!
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>

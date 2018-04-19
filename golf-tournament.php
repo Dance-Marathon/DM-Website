@@ -58,8 +58,8 @@
 						<a href="https://docs.google.com/forms/d/e/1FAIpQLScuud_MP459BJAKo5LDh8h9vgfCOHIF_c9qPipAcgOK9uoCVA/viewform">Register here!</a>
 						<p>
 							Registration will close on Monday, October 9, 2017 at 11:59 PM.
-							Interested in Sponsoring this event? Contact Outreach Overall Director, Analiese Wagner -
-						<a href="mailto:awagner@floridadm.org">awagner@floridadm.org</a>
+							Interested in Sponsoring this event? Contact Outreach Overall Director, Grace Murray -
+						<a href="mailto:gmurray@floridadm.org">gmurray@floridadm.org</a>
 						<p>
 						<h3>Sponsorship Levels</h3>
 						<p>

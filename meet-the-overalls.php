@@ -383,7 +383,7 @@
         } ?>
 				<div>
 					<h2>Donation Problems?</h2>
-					<p>If you have Donor Drive questions, or problems with a donation, please contact <a href="mailto:ahariton@floridadm.org">ahariton@floridadm.org</a></p>
+					<p>If you have Donor Drive questions, or problems with a donation, please contact <a href="mailto:sgoldrich@floridadm.org ">sgoldrich@floridadm.org </a></p>
 				</div>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
