@@ -67,7 +67,7 @@
 	    'fun_fact'              =>  'I collect records and love all things rock n roll!',
 	    'favorite_memory'       =>  'All of the amazing people that I&#39;ve met through this organization and am still meeting today.',
 	    'motivation'            =>  'Making others happy!',
-	    'image'                 =>  'Marni',
+	    'image'                 =>  'Marni1',
 	  ),
 	  array(
 	    'name'                  =>  'Scout Farrow',
