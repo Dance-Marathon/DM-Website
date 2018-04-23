@@ -85,7 +85,7 @@
 	  ),
 	  	   array(
 	    'name' => 'Grace Murray',
-	    'position' => 'Outreach Overall',
+	    'position' => 'Community Outreach Overall',
 	    'email' => 'gmurray@floridadm.org',
 	    'previous_involvement' => 'Founder of high school Dance Marathon, Community Events Captain, Assistant Director of Event Planning for the Outreach Team ',
 	    'major' => 'Health Science',
@@ -141,7 +141,7 @@
 		 ),
 		array(
 	    'name' => 'Shayna Goldrich',
-	    'position' => 'Fundraising Overall',
+	    'position' => 'Fundraising and Organization Development Overall',
 	    'email' => 'sgoldrich@floridadm.org',
 	    'previous_involvement' => 'Fundraising Captain, Assistant Director of Canning and Offline Transactions',
 	    'major' => 'Business',
