@@ -81,7 +81,7 @@
 	    'fun_fact'              =>  'I was named after the young girl in the book To Kill a Mockingbird.',
 	    'favorite_memory'       =>  'Every year, Dance Marathon is my favorite weekend of the year. The entire weekend and feeling that Dance Marathon gives me is hands down my favorite part of college. However, if I had to pick a specific moment, it would be the last Line Dance from Dance Marathon 2017. Morale teaches the Line Dance throughout the event, and it is amazing to watch from the side stage as over 800 dancers learn it. By the end of the event everyone is so full of emotion and watching everyone do the Line Dance teary-eyed and in unison is amazing.',
 	    'motivation'            =>  'Every time that I see one of the Miracle Children smile, it motivates me and reminds me why we do what we do. The fact that we are able to come together as a community and put smiles on these childrens&#39; faces is constant motivation. I feel so lucky that I am surrounded by an organization, children, and friends that never cease to inspire and motivate me. Dance Marathon has provided me with a lifelong goal to help others and fight for an end to childhood illness in Gainesville and all over the world.',
-	    'image'                 =>  'Scout',
+	    'image'                 =>  'Scout1',
 	  ),
 	  	   array(
 	    'name' => 'Grace Murray',
