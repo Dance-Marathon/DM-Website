@@ -163,7 +163,7 @@
 	   'fun_fact' => 'I used to live in New Orleans.',
 	   'favorite_memory' => 'FTKitchen',
 	   'motivation' => 'Good music and sunsets',
-	   'image' => 'Emily',
+	   'image' => 'Emily1',
 		  ),
 		 array(
 		'name' => 'Conrad Ager',
