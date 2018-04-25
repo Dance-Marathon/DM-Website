@@ -46,7 +46,6 @@ include("includes/navbar.php");
       </ul>
       <p>Click each tab below to learn more about each team and its responsibilities.</p>
       <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-       
        <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q13">
            <h4 class="panel-title">
@@ -86,7 +85,13 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Tracking and Logistics</b></h4>
               Christine Joseph
 
-       <div class="panel panel-default">
+
+<h4><b>Captains</b></h4>
+              
+            </div>
+          </div>
+        </div> 
+              <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q2">
             <h4 class="panel-title">
               <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Design & Technology</a>
@@ -104,11 +109,6 @@ include("includes/navbar.php");
               Sarah Cantor
               <h4><b>Assistant Director of Web Development</b></h4>
               Cameron Cook
-<h4><b>Captains</b></h4>
-              
-            </div>
-          </div>
-        </div>
      <h4>  <b> Captains</b></h4>
               
             </div>
