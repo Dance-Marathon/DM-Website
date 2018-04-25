@@ -124,12 +124,12 @@ include("includes/navbar.php");
             <div class="panel-body">
               <b> Family Relations Captains </b> serve as the liaison between the Dance Marathon community and the Miracle Families. Captains are paired with at least one Miracle Family, and their responsibilities include: maintaining consistent contact with their respective Miracle Families, organizing the Pen Pal program, and coordinating events between the Miracle Families and participating organizations through Miracle Child Teams. Captains will attend monthly Family Fun Days in order to connect Miracle Families to the Dance Marathon community. Captains also volunteer at UF Health Shands Children’s Hospital in Pediatric Units 44 and 45. Captains also create the family room for the 26.2-hour event and facilitate events and entertainment for the Miracle Families throughout the entirety of the event.
               <br></br>
-              <h4><b>Assistant Director of Family Outreach</b></h4>
-              Lindsay Asher
-              <h4><b>Assistant Director of Family Events</b></h4>
-              Charles McMillan
               <h4><b>Assistant Director of External Relations</b></h4>
               Amanda Marr
+              <h4><b>Assistant Director of Family Events</b></h4>
+              Charles McMillan
+              <h4><b>Assistant Director of Family Outreach</b></h4>
+              Lindsay Asher
     <h4>      <b>Captains</b></h4>
               
             </div>
@@ -145,12 +145,12 @@ include("includes/navbar.php");
             <div class="panel-body">
               <b> The Fundraising and Organization Development Team </b> is responsible for financial oversight, funds processing, collections, and fundraising strategies/incentives. These Captains play an integral role in the success of Dance Marathon at UF by ensuring that the total reveal is accurate up until the very last minute, when the final numbers are raised. In addition, each captain is responsible for financial oversight for a handful of organizations. Each captain is in charge of keeping his/her organization(s) informed and enthusiastic about Dance Marathon. He/she is also expected to coordinate with the Family Relations and Dancer Relations team with regards to his/her organization(s).
               <br></br>
+              <h4><b>Assistant Director of Ambassador Engagement</b></h4>
+              Amanda Rutner
               <h4><b>Assistant Director of Canning and Special Projects</b></h4>
               Kayla Fagien
               <h4><b>Assistant Director of Mini-Marathon Tracking</b></h4>
               Andrew Reiss
-              <h4><b>Assistant Director of Ambassador Engagement</b></h4>
-              Amanda Rutner
               <h4><b>Assistant Director of Organization Development</b></h4>
               John Richter
    <h4>  <b> Captains</b></h4>
@@ -168,12 +168,12 @@ include("includes/navbar.php");
             <div class="panel-body">
               <b> The Hospitality Captains </b> work year-round with local restaurants to coordinate monthly hospitality fundraising nights for Dance Marathon. Captains also spend a large portion of the year reaching out to large food corporations to coordinate donations and corporate sponsorships. Hospitality is responsible for all food-related needs for the 26.2 hour event and all pre-event activities including our new Hospitality event and other community events. Captains plan, solicit and serve a continuous flow of food to all participants for the duration of the 26.2-hour event.
               <br></br>
-              <h4><b>Assistant Director of Stewardship</b></h4>
-              Alexis Ercia 
-              <h4><b>Assistant Director of Hospitality Nights</b></h4>
-              Amanda Abes
               <h4><b>Assistant Director of Hospitality Events</b></h4>
               Brianna Sekul
+              <h4><b>Assistant Director of Hospitality Nights</b></h4>
+              Amanda Abes
+              <h4><b>Assistant Director of Stewardship</b></h4>
+              Alexis Ercia 
    <h4>  <b>Captains</b></h4>
              
             </div>
@@ -189,12 +189,12 @@ include("includes/navbar.php");
             <div class="panel-body">
               <b> The Leadership Development Team </b> is responsible for overseeing and running the Emerging Leaders Program. As a part of this, Captain work to cultivate the leadership skills of the newfound members of our Dance Marathon Family. This new team will focus on personal and professional development while integrating students with minimal previous Dance Marathon exposure to the inner workings of our philanthropic cause. Captains are responsible for helping plan and attend general body meetings that will include prominent speakers from the Gainesville community, while simultaneously leading small group meetings with a curriculum that will focus on how to progress one’s role within Dance Marathon at the University of Florida.
               <br></br>
-              <h4><b>Assistant Director of Emerging Leader Tracking</b></h4>
-              Ryan Owens
               <h4><b>Assistant Director of Emerging Leader Development</b></h4>
               Kassandra Philogene 
               <h4><b>Assistant Director of Emerging Leader Engagement</b></h4>
               Hannah Hallman
+              <h4><b>Assistant Director of Emerging Leader Tracking</b></h4>
+              Ryan Owens
       <h4>  <b> Captains</b></h4>
               
             </div>
@@ -255,10 +255,10 @@ include("includes/navbar.php");
             <div class="panel-body">
               <b> The Morale Team </b> is responsible for creating, planning and executing the “Theme Hours,” which are essentially themed hours throughout the event filled with entertainment and activities to engage the Dancers . They keep the spirit of Dance Marathon high, energetic, and positive throughout the entire year, prior to and during the 26.2-hour event. They do this through hosting fundraisers, attending Dance Marathon and school events, and teaching the Line Dance at Mini Marathons. In addition, Morale Captains are the creative individuals behind the revered Line Dance, which inspires and connects all attendees and Dancers at the event.
               <br></br>
-              <h4><b>Assistant Director of Mini Marathon Coordination</b></h4>
-              Yousef Dawoud 
               <h4><b>Assistant Director of Fundraising</b></h4>
               Kelly Daly 
+              <h4><b>Assistant Director of Mini Marathon Coordination</b></h4>
+              Yousef Dawoud 
               <h4><b>Assistant Director of Outreach</b></h4>
               Abby Wilwant 
       <h4>  <b> Captains</b></h4>
@@ -278,12 +278,12 @@ include("includes/navbar.php");
               <br></br>
               <h4><b>Assistant Director of Coordination</b></h4>
               Aynsley Rasmussen
+              <h4><b>Assistant Director of Photography</b></h4>
+              Michelle Steffes
               <h4><b>Assistant Director of Social Media</b></h4>
               Katherine Campione
               <h4><b>Assistant Director of Videography</b></h4>
               Christopher Barbee
-              <h4><b>Assistant Director of Photography</b></h4>
-              Michelle Steffes
     <h4>  <b>Captains</b></h4>
              
             </div>
@@ -300,12 +300,12 @@ include("includes/navbar.php");
               <div class="panel-body">
                 <b> The Productions Team </b> is responsible for all logistics and entertainment throughout the year and during the 26.2-hour event. The Productions Team is also in charge of building and organizing the homecoming float, coordinating and executing small campus events, and working with the O’Connell Center to plan all logistics for the main event. The Productions Team carries out all operational duties in the O’Connell Center, including setting up and striking theme hours, organizing security and clean up, and overseeing all entertainment aspects during the 26.2 hours.
                 <br></br>
+                <h4><b>Assistant Director of Campus Events </b></h4>
+                Ashley Knoblauch 
                 <h4><b>Assistant Director of Logistics </b></h4>
                 Tarini Chandok
                 <h4><b>Assistant Director of Talent Relations </b></h4>
                 Randi Ziegler
-                <h4><b>Assistant Director of Campus Events </b></h4>
-                Ashley Knoblauch 
 <h4>   <b>Captains</b></h4>
                 
               </div>
@@ -323,12 +323,12 @@ include("includes/navbar.php");
                 <br></br>
                 <h4><b>Assistant Director of Internal Communications </b></h4>
                 Sullivan Henry
-                <h4><b>Assistant Director of Social Media </b></h4>
-                Morgan Hill
-                <h4><b>Assistant Director of Publications </b></h4>
-                Megan Freedman
                 <h4><b>Assistant Director of Media Outreach </b></h4>
                 Jenna Metcalf
+                <h4><b>Assistant Director of Publications </b></h4>
+                Megan Freedman
+                <h4><b>Assistant Director of Social Media </b></h4>
+                Morgan Hill
      <h4>  <b> Captains</b></h4>
                 
               </div>
@@ -344,12 +344,12 @@ include("includes/navbar.php");
               <div class="panel-body">
                 <b> The Recruitment Team </b> is responsible for the recruitment of Dancers, FTKrew, Captains, Emerging Leaders, and organizations to participate in Dance Marathon at UF. Throughout the year, Captains will give presentations about our cause to various organizations across campus, working to convey the miracles Dance Marathon creates and how each organization can give back to their local Children’s Miracle Network Hospital. Recruitment Captains are integral parts of the movement to inspire and create leaders in our community, all while raising awareness about Dance Marathon and its cause. New this year, Recruitment Captains will be part of an effort to increase year-long Dancer Engagement.
                 <br></br>
-                <h4><b>Assistant Director of Internal Organizations</b></h4>
-                Megan Blum
                 <h4><b>Assistant Director of Campus Relations</b></h4>
                 Maddie Matesich
                 <h4><b>Assistant Director of External Organizations</b></h4>
                 Ashley Dutton
+                <h4><b>Assistant Director of Internal Organizations</b></h4>
+                Megan Blum
            <h4>  <b>Captains</b></h4>
                 
               </div>
@@ -365,12 +365,12 @@ include("includes/navbar.php");
               <div class="panel-body">
                 <b> The Sponsorships Team </b> is charged with soliciting businesses for monetary and in-kind (item) donations. Through reaching out to businesses, both local and national, Sponsorships Captains will build strong relationships with our sponsors, utilizing skills of leadership, communication, and stewardship. Captains are also responsible for organizing and working the Silent Auction at Dance Marathon.
                 <br></br>
-                <h4><b>Assistant Director of Stewardship</b></h4>
-                Lauren Katz
                 <h4><b>Assistant Director of In-Kind Donations</b></h4>
                 Brittany Groggins
                 <h4><b>Assistant Director of Internal Relations</b></h4>
                 Brooke Rabinovich
+                <h4><b>Assistant Director of Stewardship</b></h4>
+                Lauren Katz
           <h4>  <b>Captains</b></h4>
                 
               </div>
