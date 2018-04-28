@@ -187,7 +187,7 @@
 		   'major' => 'Accounting, Minor: Information Systems',
 		   'hometown' => 'Wellington, FL',
 		   'outside_involvement' => 'Former Member of the Freshman Leadership Council, Former Vice President of the Murphree Area in IRHA, and Former Development Coordinator of the Gators of Tomorrow, Treasurer of the Gators of Tomorrow, Member of the Florida Leadership Academy, Mentor in the Freshman Leadership Council',
-		   'free_time' => 'You\'ll catch me at Lake Wauberg: kayaking, biking, or hammocking! I also love to roadtrip, to cook, and to gut punch Nick Scianna. ',
+		   'free_time' => 'You\'ll catch me at Lake Wauberg: kayaking, biking, or hammocking! I also love to roadtrip, and to cook. ',
 		   'fun_fact' => 'I dressed as a banana and danced on the side of the road for two years to advertise for the Wellington Green Market. ',
 		   'favorite_memory' => 'At DM18, I had the awesome honor to be selected as the \'Assistant Director of the Year\' and accept the award on stage during the Closing Ceremonies. While receiving the award was incredible, my favorite memory was my walk to the stage. Haley, Rachel and both Declan and Ayden\'s family, wrapped me in a hug, crying, telling me how proud they were of me. That\'s a feeling I will hold onto forever, and the feeling I remember anytime I need to smile. ',
 		   'motivation' => 'Every day I\'m lucky to talk to the most passionate, dedicated high school and college students that have ever existed. I\'m motivated by these students, the pride they feel when their events come together, their abilities to overcome any roadblock in their path, and their passion For The Kids. I\'m motivated by one generation, fighting for the next!',
