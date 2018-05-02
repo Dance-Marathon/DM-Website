@@ -214,7 +214,7 @@
 	    'previous_involvement' => 'Dancer, 2-year Morale Captain ',
 	    'major' => 'Applied Physiology and Kinesiology ',
 	    'hometown' => 'Tampa, FL',
-	    'outside_involvement' => 'Volunteer at Shands Children\'s Hospital with Dream Team in the Cardiac Pediatric Intensive Care Unit, Volunteer at the Boys and Girls Club with the School Health Interdisciplinary Program, Alpha Delta Pi array(Intramural Chair and Executive Director of Event Planning), Former Small Group Leader for Student Government\'s Young Leaders Conference',
+	    'outside_involvement' => 'Volunteer at Shands Children\'s Hospital with Dream Team in the Cardiac Pediatric Intensive Care Unit, Volunteer at the Boys and Girls Club with the School Health Interdisciplinary Program, Alpha Delta Pi Intramural Chair and Executive Director of Event Planning, Former Small Group Leader for Student Government\'s Young Leaders Conference',
 	    'free_time' => 'What free time?',
 	    'fun_fact' => 'I\'ve owned venus fly traps, a hermit crab, and a dwarf hamster, and 2 crocs all in college.',
 	    'favorite_memory' => 'My favorite DM memory was sitting at the top of the O\'Dome watching over a thousand people do the Linedance and how it brought them all together and made everyone so happy! ',
