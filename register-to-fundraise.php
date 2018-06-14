@@ -40,7 +40,7 @@ include("includes/navbar.php");
 
 					<p>Just follow the steps below:</p>
 					<ol>
-						<li>Follow this <a href="https://events.dancemarathon.com/event/UF2018" target="_blank">Link</a> to register now!
+						<li>Follow this <a href="https://events.dancemarathon.com/event/UF2019" target="_blank">Link</a> to register now!
 							<li> Join a team <li/>
 								<ul>
 									<li>If you are joining as an individual, click <b>‘Individual’ under ‘Role’</b>. </li>
