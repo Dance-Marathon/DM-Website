@@ -38,7 +38,7 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<p>Pre-Applications for the Emerging Leader Program are now open! Applications will be due <b>Sunday, July 15th</b> at 11:59 p.m.</p>
+					<p>Pre-Applications for the Emerging Leaders Program are now open! Applications will be due <b>Sunday, July 15th</b> at 11:59 p.m.</p>
 
 						<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Pre-Application</a></h2>
 
