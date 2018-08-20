@@ -219,6 +219,14 @@
                    $('.17').append('<p>' + this.gsx$year2017.$t + '</p>');
                }
            }
+					 //2018
+					 if (!($(entry)[1].gsx$year2018.$t.includes("n/a"))) {
+               if (this.gsx$year2018.$t.includes('2018')) {
+                   $('.18-title').append('<h3 class="dma-year">' + this.gsx$year2018.$t + '</h3> <hr>');
+               } else {
+                   $('.18').append('<p>' + this.gsx$year2018.$t + '</p>');
+               }
+           }
        });
    });
   </script>
@@ -395,6 +403,12 @@
 					<div class="dma-year 17-title"></div>
 					<ul>
 						<div class="17"></div>
+					</ul>
+
+					<!-- 2018 -->
+					<div class="dma-year 18-title"></div>
+					<ul>
+						<div class="18"></div>
 					</ul>
 				</div>
 			</div>

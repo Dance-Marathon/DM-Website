@@ -38,24 +38,23 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<p>Applications are now open! Applications will be due <b>Sunday, September 3rd</b> at 11:59 p.m.</p>
-					<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_4IbNR3uT7whv0hf" target="_blank">2018 Captain Application</a></h2>
+					<p>Pre-Applications for the Emerging Leaders Program are now open! Applications will be due <b>Sunday, July 15th</b> at 11:59 p.m.</p>
 
-					<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_24Bd7YUyLPcMv65" target="_blank">2018 Delegate Application</a></h2>
+						<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Pre-Application</a></h2>
 
-						<h2><a href="https://ufl.qualtrics.com/jfe/form/SV_e5nm2HHP9L8WzCR" target="_blank">2018 Emerging Leaders Program Application</a></h2>
 
-					<p>You will receive an email to sign up for an interview time if you are selected for an interview. You will have until Tuesday, September 5th at 3:00PM to sign-up for your interview. If you miss this deadline, you will not be allowed to sign-up for an interview and your application will no longer be considered. Interviews will be held Tuesday, September 5th through Friday, September 8th.
+					<p></p>
+					<!--<p>You will receive an email to sign-up for an interview time on Monday, September 3rd</p>-->
+
 
 		<!--			<p>Dance Marathon 2017 is on March 25th and 26th. In order to serve as an FTKrew Member, you must be available during these dates. All FTKrew members will be assigned shifts working with the Dancer Relations, Morale, Productions, and Hospitality teams. Shifts will be 1-2 hours long. Each member may have up to 3 shifts. FTKrew members will have 2 meetings in March to prepare for the event. </p> -->
 
-					<h3>	IMPORTANT: Application Requirements </h3>
 
 
 							<p>In order for Dance Marathon to consider your application, you must complete the following three criteria:
 								<ul>
 								<li>Complete the online application form (linked above). </li>
-								<li>Pay the $25 application fee <b> <a href=" https://squareup.com/market/dance-marathon-at-uf/ " target="_blank">here.</a> </b>
+								<li>Pay the $20 application fee <b> <a href=" https://squareup.com/market/dance-marathon-at-uf/ " target="_blank">here.</a> </b>
 								<li>Create a Donor Drive Fundraising page. Please follow the instructions <a href="http://floridadm.org/register-to-fundraise" target="_blank"> here </a>on how to create a fundraising page on Donor Drive.</li>
 							</ul>
 							</p>
