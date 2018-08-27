@@ -289,7 +289,7 @@
 
 		  array(
 		   'name' => 'Robby Mijares',
-		   'position' => 'Sponsorship Overall',
+		   'position' => 'Sponsorships Overall',
 		   'email' => 'rmijares@floridadm.org',
 		   'previous_involvement' => 'Sponsorships Captain',
 		   'major' => 'Biology and Spanish',
