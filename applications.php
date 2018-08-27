@@ -38,7 +38,7 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<p>Applications are now open and will close on <b>Friday, August 31st</b> at midnight </p>
+					<p>Applications are now open and will close on <b>Monday, September 3rd </b> at 5pm </p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
 					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2>
