@@ -44,8 +44,10 @@ include("includes/navbar.php");
         <!-- Nav tabs -->
         <ul class="nav nav-tabs" role="tablist">
           <li role="presentation" class="active"><a href="#what-is-dancing-ftk" aria-controls="what-is-dancing-ftk" role="tab" data-toggle="tab">What is Dancing FTK?</a></li>
-          <li role="presentation"><a href="#dancer-resources" aria-controls="dancer-resources" role="tab" data-toggle="tab">Dancer Resources</a></li>
           <li role="presentation"><a href="#dancer-faqs" aria-controls="dancer-faqs" role="tab" data-toggle="tab">Dancer FAQs</a></li>
+          <li role="presentation"><a href="#dancer-resources" aria-controls="dancer-resources" role="tab" data-toggle="tab">Dancer Resources</a></li>
+          <!-- <li role="presentation"><a href="#In-Event-Dancer-Tips" aria-controls="in-event-dancer-tips" role="tab" data-toggle="tab">In-Event Dancer Tips</a></li> -->
+        
         </ul>
 
         <!-- Tab panes -->
@@ -58,7 +60,7 @@ include("includes/navbar.php");
 
           </div>
           <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe>
+            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
             &nbsp;<br/>
             <h3>Register to Dance</h3>
             <p>Registration to be a Dancer at Dance Marathon is open for two weeks in the fall and two weeks in the spring. In order to be eligible to dance, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
