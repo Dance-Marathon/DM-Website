@@ -212,6 +212,7 @@ include("includes/navbar.php");
 <tr>
 <td>  Victoria Carillo  </td>
 <td>  William Fitzgerald  </td>
+<td> Carlie Yent </td>
 </table>
 
             </div>
