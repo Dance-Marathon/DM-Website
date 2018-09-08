@@ -47,9 +47,17 @@ include("includes/navbar.php");
 				<p>
 					Being a member of the Dance Marathon Emerging Leaders Program means attending monthly general body meetings as well as weekly small group meetings. At general body meetings, members will have the opportunity to learn more about the goals and efforts of Dance Marathon, and the opportunity to hear from Miracle Families and various speakers from across the university. In the small group meetings, members will become part of a group of around twenty students who will help in making UF a new home away from home for each other. Each week will present members new ways to contribute to and improve Dance Marathon at UF while growing as individuals within the organization. We will work with our members to develop their leadership skills and provide them with opportunities to make a difference in the world, beginning with making a world of difference in the life of a child.
 				</p>
-
-				<p><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Pre-Application</a></p>
-
+			<h3>Emerging Leaders</h3>
+			<table style="width:100%">
+          <tr>    
+<td>  Alexia Yavalar  </td>
+<td>  Alexis Sutter </td>
+<td>  Bailey LaRea  </td>
+<td>  Alexia Yavalar  </td>
+<td>  Alexis Sutter </td>
+<td>  Bailey LaRea  </td>
+</tr>   
+	</table>
 			</div>
 
 					</div>
