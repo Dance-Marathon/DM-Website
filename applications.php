@@ -28,7 +28,7 @@
 						<li><a class="active">Applications</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/delegates">Delegates</a></li>
+						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/ftkrew">FTKrew</a></li>
 						<li><a href="/organizations">Organizations</a></li>
@@ -38,16 +38,14 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<p>Applications are now open and will close on <b>Monday, September 3rd </b> at 5pm </p>
+					<p> 2019 Captain and Emerging Leader Applications are now closed. </p>
+					<p> If you're still interested in getting involved, please email Scout Farrow, Membership Manager at <a href="mailto:sfarrow@floridadm.org">sfarrow@floridadm.org</a>! </p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
-					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
-					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2>
+					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
+					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2> -->
 
 					<p></p>
 					<!--<p>You will receive an email to sign-up for an interview time on Monday, September 3rd</p>-->
-
-
-		<!--			<p>Dance Marathon 2017 is on March 25th and 26th. In order to serve as an FTKrew Member, you must be available during these dates. All FTKrew members will be assigned shifts working with the Dancer Relations, Morale, Productions, and Hospitality teams. Shifts will be 1-2 hours long. Each member may have up to 3 shifts. FTKrew members will have 2 meetings in March to prepare for the event. </p> -->
 
 
 
@@ -99,7 +97,7 @@
 							</div>
 						</div> -->
 
-        <p>Please email our Membership Manager, Scout Farrow, at <a href="mailto:sfarrow@floridadm.org">sfarrow@floridadm.org</a>,</p> if you have any additional questions!
+        <!-- <p>Please email our Membership Manager, Scout Farrow, at <a href="mailto:sfarrow@floridadm.org">sfarrow@floridadm.org</a>,</p> if you have any additional questions! -->
       <?php } else { ?>
     <!-- <p class="alert alert-info"><b>Note:</b> Captain applications are closed.</p>
         <p>Please direct questions to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p> -->
