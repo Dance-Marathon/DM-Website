@@ -43,31 +43,23 @@ include("includes/navbar.php");
 
         <!-- Nav tabs -->
         <ul class="nav nav-tabs" role="tablist">
-          <li role="presentation" class="active"><a href="#what-is-dancing-ftk" aria-controls="what-is-dancing-ftk" role="tab" data-toggle="tab">What is Dancing FTK?</a></li>
+          <li role="presentation" class="active"><a href="#what-is-dancing-ftk" aria-controls="what-is-dancing-ftk" role="tab" data-toggle="tab">What is Dancing?</a></li>
           <li role="presentation"><a href="#dancer-faqs" aria-controls="dancer-faqs" role="tab" data-toggle="tab">Dancer FAQs</a></li>
           <li role="presentation"><a href="#dancer-resources" aria-controls="dancer-resources" role="tab" data-toggle="tab">Dancer Resources</a></li>
-          <!-- <li role="presentation"><a href="#In-Event-Dancer-Tips" aria-controls="in-event-dancer-tips" role="tab" data-toggle="tab">In-Event Dancer Tips</a></li> -->
-        
+          <li role="presentation"><a href="#in-event-dancer-tips" aria-controls="in-event-dancer-tips" role="tab" data-toggle="tab">In-Event Dancer Tips</a></li>
         </ul>
 
         <!-- Tab panes -->
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
             <h3>Dancers</h3>
-            <p>Participating as a Dancer at Dance Marathon is an exciting, rewarding experience unlike any other. Dancers stand on their feet for the entire 26.2 hours of the event along with 800+ other UF students as they learn a fun Line Dance, enjoy live entertainment, yummy food, and hear firsthand stories from our very own Miracle Families.
-<p>Dancer Registration will be open in the coming weeks. Please email Nick Scianna, Dancer Relations Overall Director, at <a href="mailto:nscianna@floridadm.org">nscianna@floridadm.org </a> with any questions!
-</p>
-
+            <p>Dance Marathon at the University of Florida is an annual 26.2 hour event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, more than 800 students stay awake and on their feet to raise money and awareness for Children's Miracle Network Hospitals.</p>
+            <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the 26.2-hour event, you will learn our Linedance, enjoy live entertainment, eat yummy food, and hear stories from our Miracle Families.</p>
+            <p>Dancer Registration will be open in the coming weeks. Please email Nick Scianna, Dancer Relations Overall Director, at <a href="mailto:nscianna@floridadm.org">nscianna@floridadm.org </a> with any questions!</p>
           </div>
-          <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
-            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
-            &nbsp;<br/>
-            <h3>Register to Dance</h3>
-            <p>Registration to be a Dancer at Dance Marathon is open for two weeks in the fall and two weeks in the spring. In order to be eligible to dance, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
-            <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
-            <p>Registering to dance also does not guarantee a Dancer spot. Dancer spots are allocated in the spring based off of organizational or individual achievements</p>
-            <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Donor Drive. See <a href="/delegates.php#starting-a-team">Starting a Team</a> for more information.</p>
-            <h3>Staying Healthy</h3>
+          
+          <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">
+          <h3>Staying Healthy</h3>
             <ul>
               <li>Stay hydrated! Be sure to have bring a water bottle with you to the event to ensure you are drinking enough water. Water and Gatorade will be provided at the event as well.</li>
               <li>Stay energized! Take advantage of the meals provided by our sponsors throughout the event.</li>
@@ -109,6 +101,19 @@ include("includes/navbar.php");
               <li>If you have allergies, you will be given a chance to make note of this and you may bring your own snacks.</li>
               <li>If you have medications, you will be able to turn these in to your Delegate or Dancer Relations Captain and they will be kept safe in our Medical Room with our medical personnel.</li>
             </ul>
+          <p></p>
+          </div>
+
+          <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
+            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
+            &nbsp;<br/>
+            <h3>Register to Dance</h3>
+            <p>Dancer Registration for Dance Marathon is open for two weeks in the fall and two weeks in the spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
+            <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
+            <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Donor Drive. See Starting a Team for more information.</p>
+            <p><em>Please note: registration does not guarantee Dancer spots. Dancer spots are allocated in the spring based off of organizational or individual achievements.</em></p>
+
+            
           </div>
           <div role="tabpanel" class="tab-pane fade" id="dancer-faqs">
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
