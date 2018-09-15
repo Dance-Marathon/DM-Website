@@ -138,11 +138,11 @@ include("includes/navbar.php");
   			<div class="sub-nav">
           <ul>
             <li><a href="/campus-push-days">Campus Push Days</a></li>
+						<li><a href="/donordrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a class="active">Fundraising Brackets</a></li>
-						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
+            <li><a href="/fundraising-guide">Fundraising Guide</a></li>
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
-						<li><a href="/partners">Sponsors</a></li>
           </ul>
         </div>
 			</div>
