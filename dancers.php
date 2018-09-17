@@ -53,11 +53,14 @@ include("includes/navbar.php");
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
             <h3>Dancers</h3>
+            <p></p>
+            <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_cuUdQhI6008vojP" target="_blank">Register To Dance</a></h2>
+            <p></p>
             <p>Dance Marathon at the University of Florida is an annual 26.2 hour event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, more than 800 students stay awake and on their feet to raise money and awareness for Children's Miracle Network Hospitals.</p>
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the 26.2-hour event, you will learn our Linedance, enjoy live entertainment, eat yummy food, and hear stories from our Miracle Families.</p>
-            <p>Dancer Registration will be open in the coming weeks. Please email Nick Scianna, Dancer Relations Overall Director, at <a href="mailto:nscianna@floridadm.org">nscianna@floridadm.org </a> with any questions!</p>
+            <p>Dancer Registration is open from September 17th through September 30th. Please email Nick Scianna, Dancer Relations Overall Director, at <a href="mailto:nscianna@floridadm.org">nscianna@floridadm.org </a> with any questions!</p>
           </div>
-          
+
           <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">
           <h3>Staying Healthy</h3>
             <ul>
@@ -113,7 +116,7 @@ include("includes/navbar.php");
             <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Donor Drive. See Starting a Team for more information.</p>
             <p><em>Please note: registration does not guarantee Dancer spots. Dancer spots are allocated in the spring based off of organizational or individual achievements.</em></p>
 
-            
+
           </div>
           <div role="tabpanel" class="tab-pane fade" id="dancer-faqs">
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
