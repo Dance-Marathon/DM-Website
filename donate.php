@@ -1,3 +1,3 @@
 <?php
-    header("Location: http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=2610");
+    header("Location: https://events.dancemarathon.com/event/UF2019");
 ?>
