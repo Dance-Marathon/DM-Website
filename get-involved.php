@@ -28,7 +28,7 @@
 						<li><a href="/applications">Applications</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/delegates">Delegates</a></li>
+						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/ftkrew">FTKrew</a></li>
 						<li><a href="/organizations">Organizations</a></li>
@@ -38,7 +38,7 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-			 <p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Dancer, Emerging Leader, Delegate, FTKrew member or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF, and we would love for you to join our DM family to help make miracles For The Kids.</p>
+			 <p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Dancer, Emerging Leader, Ambassador, FTKrew member or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF, and we would love for you to join our DM family to help make miracles For The Kids.</p>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
@@ -76,7 +76,7 @@
 
 									   <ul><a href="/organizations"><b>Organization:</b></a> 	Student organizations that are currently involved in fundraising for our cause. </ul>
                      <ul><a href="/dancers"><b>Dancer:</b></a> Individuals who stand on their feet for 26.2 hours during our event in March to raise funds and awareness for the kids at UF Health Shands Children’s Hospital.</ul>
-										 <ul><a href="/delegates"><b>Delegate:</b> </a>  A Delegate is the representative from an organization participating in Dance Marathon whose primary responsibility is to convey information to the members of his or her organization and to motivate them throughout the year.</ul>
+										 <ul><a href="/ambassadors"><b>Ambassador:</b> </a>  An ambassador is the representative from an organization participating in Dance Marathon whose primary responsibility is to convey information to the members of his or her organization and to motivate them throughout the year.</ul>
 										 <ul><a href="/emerging-leaders"><b>Emerging Leader:</b> </a> Members of our new Emerging Leaders Program who work alongside the Recruitment Team, tackling and brainstorming ideas to ensure a successful future of our program.</ul>
                      <ul><a href="/captain-teams"><b>Captain:</b> </a> Member of 1 in 15 teams who take on their respective yearlong responsibilities to expand and promote our organization. </ul>
                      <ul><a href="/captain-teams"><b>Assistant Directors:</b> </a> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain teams.</ul>
