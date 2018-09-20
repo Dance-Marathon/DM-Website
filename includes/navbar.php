@@ -12,7 +12,8 @@
 			  }
 			}
 		</style>
-
+			<!-- This makes the nav bar look good but screws up fonts -->
+				<!-- <link rel="stylesheet" media="screen" href="//assets.donordrive.com/themes/floridadm/css/master.min.css?v=201808161105" type="text/css"> -->
     <!-- Fixed navbar -->
 	<div id="nav" class="navbar navbar-fixed-top">
 
@@ -121,6 +122,27 @@
 				  <li><a href="http://urlgeni.us/twitter/floridaDM"><i class="fa fa-twitter"></i></a></li>
 				  <li><a href="http://urlgeni.us/facebook/floridaDM"><i class="fa fa-facebook"></i></a></li>
 			  </ul>
+
+				<!-- The Search bar code starts here -->
+				<div id="action-tab">
+
+						<form id="participantTeamSearch" name="participantTeamSearch_horizontal" action="https://events.dancemarathon.com/index.cfm?" method="get">
+							<input type="hidden" id="fuseaction" name="fuseaction" value="donorDrive.search">
+							<input type="hidden" id="filter" name="filter" value="participant">
+
+								<input type="hidden" name="eventID" value="3066">
+
+							<label for="searchTerm">
+
+								<input type="text" id="searchTerm" name="searchTerm" size="15" maxlength="50" placeholder="Fundraiser search">
+							</label>
+							<label>
+								<button type="submit" title="Search"><span>Search</span></button>
+							</label>
+						</form>
+						<!-- The search bar code ends here -->
+
+		    </div>
 			</div><!--/.nav-collapse -->
 		  </div>
 		</div>
