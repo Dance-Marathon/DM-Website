@@ -110,6 +110,7 @@ include("includes/navbar.php");
           <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
             &nbsp;<br/>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Cb3mKjlZp1A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             <h3>Register to Dance</h3>
             <p>Dancer Registration for Dance Marathon is open for two weeks in the fall and two weeks in the spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
