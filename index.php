@@ -14,7 +14,7 @@
       </ol> -->
       <div class="carousel-inner">
         <div class="item active">
-          <img class="img-responsive"  src="assets/images/slider/25Banner.png">
+          <img class="img-responsive"  src="assets/images/slider/TTbanner218.png">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <!-- <div class="col-md-6">
@@ -216,7 +216,7 @@
     <div class="col-md-12 welcome_txt text-center">
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
 
-     
+
       <!--<p style="margin:0"><a href="/dance-marathon" style="color:#617ba6"><b>Check out our 2018 Livestream</b></a></p>-->
 
       <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i><br/> DM at UF is the most successful student-run philanthropy in the southeastern United States <br/> and just celebrated its 24th year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$3,026,420.19</b></i>!<br/>Join us in 2019 as we continue to make bigger and better miracles <ii style="color:#f79b63;">
