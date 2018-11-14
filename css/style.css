@@ -715,7 +715,7 @@ DEFAULT TEMPLATE STYLES
   font-size: 24px;
 }
 .page-heading.parallax.about {
-  background-image: url("/assets/images/sectionbg/aboutus2019.jpg");
+  background-image: url("/assets/images/sectionbg/aboutbanner.jpg");
 }
 .page-heading.parallax.FTKrew {
   background-image: url("/assets/images/sectionbg/ftkrewbanner2.jpg");
@@ -733,10 +733,10 @@ DEFAULT TEMPLATE STYLES
   background-image: url("/assets/images/sectionbg/meethedmaboardbanner.jpg");
 }
 .page-heading.parallax.get-involved {
-  background-image: url("/assets/images/sectionbg/getinvolved2019.jpg");
+  background-image: url("/assets/images/sectionbg/getinvolvedbanner.jpg");
 }
 .page-heading.parallax.register_fundraise {
-  background-image: url("/assets/images/sectionbg/fundraising_2019.jpg");
+  background-image: url("/assets/images/sectionbg/fundraisingbanner.jpg");
 }
 .page-heading.parallax.delegates {
   background-image: url("/assets/images/sectionbg/delegatesbanner.jpg");
@@ -748,7 +748,7 @@ DEFAULT TEMPLATE STYLES
   background-image: url("/assets/images/sectionbg/dancersbanner.jpg");
 }
 .page-heading.parallax.captain-teams {
-  background-image: url("/assets/images/sectionbg/captain_teams2019.jpg");
+  background-image: url("/assets/images/sectionbg/captainteamsbanner.jpg");
 }
 .page-heading.parallax.meet-the-overalls {
   background-image: url("/assets/images/sectionbg/overallbanner.jpg");
@@ -765,26 +765,26 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.meet_the_kids {
   background-image: url("/assets/images/sectionbg/mtkbanner.jpg");
 }
-.page-heading.parallax.community_events {
-  background-image: url("/assets/images/sectionbg/community2019.jpg");
+.page-heading.parallax.family_events {
+  background-image: url("/assets/images/sectionbg/familyeventsbanner.jpg");
 }
 .page-heading.parallax.miracle_family {
   background-image: url("/assets/images/sectionbg/becomeamiraclefambanner.jpg");
 }
 .page-heading.parallax.events {
-  background-image: url("/assets/images/sectionbg/events2019.jpg");
+  background-image: url("/assets/images/sectionbg/eventsbanner.jpg");
 }
 .page-heading.parallax.FT5K {
   background-image: url("/assets/images/sectionbg/miraclesbanner.jpg");
 }
-/*.page-heading.parallax.community_events {
-  background-image: url("/assets/images/sectionbg/community2019.jpg");
-}*/
+.page-heading.parallax.community_events {
+  background-image: url("/assets/images/sectionbg/comeventsbanner.jpg");
+}
 .page-heading.parallax.hsdm-events {
   background-image: url("/assets/images/sectionbg/minibanner.jpg");
 }
 .page-heading.parallax.sponsors {
-  background-image: url("/assets/images/sectionbg/sponsors2019.jpg");
+  background-image: url("/assets/images/sectionbg/oursponsorsbanner.jpg");
 }
 .page-heading.parallax.uf-health {
   background-image: url("/assets/images/sectionbg/cmnufhealthbanner.jpg");
@@ -829,7 +829,7 @@ DEFAULT TEMPLATE STYLES
   background-image: url("/assets/images/sectionbg/alumnibanner.jpg");
 }
 .page-heading.parallax.meet-the-overalls {
-  background-image: url("/assets/images/sectionbg/contactus2019.jpg");
+  background-image: url("/assets/images/sectionbg/mto.jpg");
 }
 .page-heading.parallax.warrior-run {
   background-image: url("/assets/images/sectionbg/wr.jpg");
