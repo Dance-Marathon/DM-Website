@@ -24,14 +24,13 @@
 			'image'                 =>  'BrianG'
 		),
 		array(
-			'name'                  =>  'Eden Joyner',
-			'current_city'          =>  'Oakland, CA',
-			'previous_involvement'  =>  '2009: Dancer</br>2010: Public Relations Captain</br>2011: Public Relations Captain</br>2012: Public Relations Overall Director</p>',
-			'fun_fact'              =>  'My cat is named Admiral Catbar.',
-			'favorite_memory'       =>  'It’s hard to pick just one. Flash mobs to raise awareness, Party Rocking with miracle children and coming back to Dance Marathon 2013 as an alumni to witness the $1 million milestone.</p>
-			</p>',
-			'continued'             =>  'Dance Marathon is more than just an event. It’s a mentality. Being involved in Dance Marathon at UF taught me how to be involved in my community and constantly give back. Since graduation and moving to San Francisco, CA, I have participated in several young professional Dance Marathons, including serving as Director of Communications for the first annual Bay Area Dance Marathon. With the creation of the UF DM Alumni group, I was able to stay connected with the same passionate individuals and families who inspired me many years ago. I will continue to raise funds and awareness for the cause for many years to come.',
-			'image'                 =>  'Joyner'
+			'name'                  =>  'Joelle Waksman',
+			'current_city'          =>  'Atlanta, GA',
+			'previous_involvement'  =>  '2010: Dancer</br>2011: Morale Staff</br>2012: Morale Captain</br>2013: Morale Captain + Linedance Team</br>2014: Morale Overall</br>2014-2018: DMA Member </p>',
+			'fun_fact'              =>  'My first job was a "motivational dancer" at bar/bat mitzvahs (and the occasional quinceañera) for Pure Energy Entertainment.',
+			'favorite_memory'       =>  'I cannot even begin to try and pick one, at this exact moment the first one that came to mind was when we came up with the closing song for the linedance in 2013. We closed our eyes and listened to it and pictured those moments and I totally broke down, chills, crying, screaming. It was the best.</p>',
+			'continued'             =>  'Every year except for one, I have been back to DM at UF! It has been the absolute best to a part of the DMA whatever that has turned out to look like year after year. As I become more and more "irrelevant" to the current students involved, I feel even more connected to where this program has come from and where it is growing to. FTK!',
+			'image'                 =>  'joelle'
 		),
 		array(
 			'name'                  =>  'Jillian Abrahamson',
@@ -43,13 +42,13 @@
 			'image'                 =>  'Jillian'
 		),
 		array(
-			'name'                  =>  'Jamie Heekin',
-			'current_city'          =>  'Houston, TX',
-			'previous_involvement'  =>  '2011: Dancer</br>2012: Community Events Captain</br>2013: Community Events Overall</br>2014: Overall Director</p>',
-			'fun_fact'              =>  'I know Latin but I don&#39;t like to speak it.',
-			'favorite_memory'       =>  'Dancing on the field during the halftime show in the Swamp with Miracle Children and the UF Marching Band.</p>',
-			'continued'             =>  'I am currently studying to be a PA in the Texas Medical Center in Houston, Texas. Through my rotations, I have the opportunity to practice with kids who are fighting their battles in our local CMN Hospital. Each time I see the CMN balloon on a billboard, in a patient information pamphlet, or on a piece of hospital equipment, I am reminded of the every day miracles DM at UF accomplishes. After graduating from UF, I spent a year working at UF Health and participated in Jacksonville Citywide Dance Marathon. I have, and will continue to give back through this cause for many years to support the amazing kids and their families. ',
-			'image'                 =>  'Heekin'
+			'name'                  =>  'Taylor Chambers',
+			'current_city'          =>  'Gainesville, FL',
+			'previous_involvement'  =>  '2012: Staff (FTKrew)</br>2013: Dancer Relations Captain</br>2014: Dancer Relations Overall</br>2015: Overall Director</p>',
+			'fun_fact'              =>  'I was a competitive gymnast for 10 years',
+			'favorite_memory'       =>  'After a long and stressful day of exams DM had an ice cream hospitality night scheduled. I was exhausted but decided to stop in and grab a scoop before heading home. I ended up spending an hour with our Captain Teams Miracle Family, the Pences, laughing and making ridiculous videos. It completely washed away the stress of the day and has always stood out to me as one of the best nights where my eyes were opened to the magic of DM and what a special organization it is.</p>',
+			'continued'             =>  'Continuing to live in Gainesville and working for UF Health has given me the unique opportunity to maintain ties with our Miracle Families and DM at UF. I continue to support local events and work build relationships with the students each year. Whether it is simply writing an encouraging email or getting coffee, I like to be available and give any resources I can to continue to grow the cause we all know and love.',
+			'image'                 =>  'chambers'
 		)
 	);
 
