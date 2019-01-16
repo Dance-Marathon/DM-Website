@@ -38,17 +38,20 @@
 				<h2>Warrior Run</h2>
 
   			<p>
-					On February 11th, get ready to test your strength and agility as you run, crawl, climb, and jump your way to the finish to see if you have what it takes to be a Miracle Warrior!
+					On February 3rd, get ready to test your strength and agility as you run, crawl, climb, and jump your way to the finish to see if you have what it takes to be a Miracle Warrior!
 				</p>
 				<ul>
-					<li>1:00pm - Check-in and day-of registration</li>
-					<li>1:30pm - Kids Race</li>
-					<li>2:00pm - First heat of the Warrior Run</li>
+					<li>10:00am - Check-in and day-of registration</li>
+					<li>10:30am - Kids Race</li>
+					<li>11:00am - First heat of the Warrior Run</li>
 				</ul>
 					<p>
 						<b>Registration:</b>
-					Warrior Run: $25 ($30 day-of)
+					Warrior Run: $15
 					Kids race (ages 12 & under): $10 or included free with adult registration (parent supervision required for all participants)
+					</p>
+						<b>Location:</b>
+					Hume Field
 					</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
