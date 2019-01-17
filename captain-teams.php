@@ -30,7 +30,7 @@ include("includes/navbar.php");
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<li><a href="/ftkrew">FTKrew</a></li>
+						<!--<li><a href="/ftkrew">FTKrew</a></li>-->
 						<li><a href="/organizations">Organizations</a></li>
           </ul>
         </div>

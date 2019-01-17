@@ -55,15 +55,11 @@
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<li><a href="/ftkrew">FTKrew</a></li>
+						<!--<li><a href="/ftkrew">FTKrew</a></li>-->
 						<li><a href="/organizations">Organizations</a></li>
 
 						<!--	<li><a href="/overall-applications">Overall Applications</a></li>  -->
 					</ul>
-				</li>
-
-				<li <?php echo ($parent == 'community') ? "class='open'" : ""; ?>>
-					<a href="/Community" class="dropdown-toggle">Community</a>
 				</li>
 
 
@@ -73,7 +69,7 @@
 					<ul class="dropdown-menu" role="menu">
 						<!--<li><a href="/campus-events">Campus Events</a></li> -->
 						<li><a href="/dance-marathon">Dance Marathon </a></li>
-						<li><a href="/golf-tournament">Golf Tournament</a></li>
+						<!--<li><a href="/golf-tournament">Golf Tournament</a></li>-->
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<!--<li><a href="">Running Event (Coming Soon)</a></li>-->
 						<li><a href="/miracle-gala">Miracle Gala</a></li>

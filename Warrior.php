@@ -25,7 +25,7 @@
   			<div class="sub-nav">
           <ul>
 						<li><a href="/dance-marathon">Dance Marathon 2018</a></li>
-						<li><a href="/golf-tournament">Golf Tournament</a></li>
+						<!--<li><a href="/golf-tournament">Golf Tournament</a></li>-->
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a class="active">Warrior Run</a></li>
@@ -47,8 +47,8 @@
 				</ul>
 					<p>
 						<b>Registration:</b>
-					Warrior Run: $15
-					Kids race (ages 12 & under): $10 or included free with adult registration (parent supervision required for all participants)
+					<p>Warrior Run: $15 ($25 day of)</p>
+					<p>Kids race (ages 12 & under): $10 or included free with adult registration (parent supervision required for all participants)</p>
 					</p>
 						<b>Location:</b>
 					Hume Field

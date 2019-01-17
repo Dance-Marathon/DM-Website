@@ -30,7 +30,7 @@ include("includes/navbar.php");
 					 <li><a href="/dancers">Dancers</a></li>
 					 <li><a href="/delegates">Delegates</a></li>
 					 <li><a class="active">Emerging Leaders</a></li>
-					 <li><a href="/ftkrew">FTKrew</a></li>
+					 <!--<li><a href="/ftkrew">FTKrew</a></li>-->
 					 <li><a href="/organizations">Organizations</a></li>
 					</ul>
 			 </div>
@@ -46,15 +46,9 @@ include("includes/navbar.php");
 			 <div class="tab-content">
 				 <div role="tabpanel" class="tab-pane fade in active" id="Program-Description">
 			 <h3>Program Description</h3>
-<p></p>
-			 <!-- <p> <b><a href="https://ufl.qualtrics.com/jfe7/form/SV_e5nm2HHP9L8WzCR" target="_blank">ELP Pre-Applications</a></b> are open now! Pre-Applications will be open from <b>Monday, June 26th</b> through <b>Sunday, July 2nd</b> at 11:59 p.m, and won’t re-open until the Fall semester begins.</p> -->
-			 <p></p>
-				 <p>
-				 The purpose of the Dance Marathon Emerging Leaders Program is to cultivate the skills of emerging leaders at the University of Florida within the Dance Marathon organization. The aim of the program is to engage students who have a passion to help others and who believe in our vision of curing childhood illness. The Dance Marathon Emerging Leaders Program is a new and unique first step for students desiring to join the Dance Marathon movement.
-			 </p>
-			 <p>
-				 Being a member of the Dance Marathon Emerging Leaders Program means attending monthly general body meetings as well as weekly small group meetings. At general body meetings, members will have the opportunity to learn more about the goals and efforts of Dance Marathon, and the opportunity to hear from Miracle Families and various speakers from across the university. In the small group meetings, members will become part of a group of around twenty students who will help in making UF a new home away from home for each other. Each week will present members new ways to contribute to and improve Dance Marathon at UF while growing as individuals within the organization. We will work with our members to develop their leadership skills and provide them with opportunities to make a difference in the world, beginning with making a world of difference in the life of a child.
-			 </p>
+			 <p>The purpose of the Dance Marathon Emerging Leaders Program is to cultivate the leadership skills of new members of Dance Marathon at the University of Florida. The aim of the program is to engage students who have a passion to help others and who believe in our vision of curing childhood illness. The Dance Marathon Emerging Leaders Program is a unique first step for students desiring to join the Dance Marathon movement.</p>
+			<p>Being a member of the Dance Marathon Emerging Leaders Program means attending monthly general body meetings as well as weekly small group meetings. At general body meetings, Emerging Leaders will have the opportunity to learn more about the goals and efforts of Dance Marathon, hear courageous stories from our Miracle Families, and gain exposure to prominent speakers from the University as well as Gainesville’s community. In small group meetings, members will become part of a group of around twenty students who will help in making UF a new home away from home for each other. Each week will present members new ways to contribute to and improve Dance Marathon at UF. Emerging Leaders will be given mentors from Dance Marathon’s various Captain teams, providing them with resources to succeed inside and outside of the organization. We will work with our members to develop their leadership skills and provide them with opportunities to make a difference in the world, beginning with making a world of difference in the life of a child.</p>
+
 		 </div>
 	 <div role="tabpanel" class="tab-pane fade in active" id="Emerging-Leaders">
 						 <h3>2019 Emerging Leaders</h3>

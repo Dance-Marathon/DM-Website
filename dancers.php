@@ -31,7 +31,7 @@ include("includes/navbar.php");
 						<li><a class="active">Dancers</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<li><a href="/ftkrew">FTKrew</a></li>
+						<!--<li><a href="/ftkrew">FTKrew</a></li>-->
 						<li><a href="/organizations">Organizations</a></li>
 
           </ul>
@@ -53,12 +53,13 @@ include("includes/navbar.php");
         <div class="tab-content">
           <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
             <h3>Dancers</h3>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Cb3mKjlZp1A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             <p></p>
             <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_cuUdQhI6008vojP" target="_blank">Register To Dance</a></h2>
             <p></p>
             <p>Dance Marathon at the University of Florida is an annual 26.2 hour event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, more than 800 students stay awake and on their feet to raise money and awareness for Children's Miracle Network Hospitals.</p>
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the 26.2-hour event, you will learn our Linedance, enjoy live entertainment, eat yummy food, and hear stories from our Miracle Families.</p>
-            <p>Dancer Registration is open from September 17th through September 30th. Please email Nick Scianna, Dancer Relations Overall Director, at <a href="mailto:nscianna@floridadm.org">nscianna@floridadm.org </a> with any questions!</p>
+            <p>Please email Nick Scianna, Dancer Relations Overall Director, at <a href="mailto:nscianna@floridadm.org">nscianna@floridadm.org </a> with any questions!</p>
           </div>
 
           <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">
@@ -102,7 +103,7 @@ include("includes/navbar.php");
             <ul>
               <li>Lockers are provided to store your things, however, there are not enough lockers for everyone to have his/her own. We suggest leaving any valuables at home.</li>
               <li>If you have allergies, you will be given a chance to make note of this and you may bring your own snacks.</li>
-              <li>If you have medications, you will be able to turn these in to your Delegate or Dancer Relations Captain and they will be kept safe in our Medical Room with our medical personnel.</li>
+              <li>If you have medications, you will be able to turn these in to your Ambassador or Dancer Relations Captain and they will be kept safe in our Medical Room with our medical personnel.</li>
             </ul>
           <p></p>
           </div>
@@ -110,7 +111,6 @@ include("includes/navbar.php");
           <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
             &nbsp;<br/>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/Cb3mKjlZp1A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             <h3>Register to Dance</h3>
             <p>Dancer Registration for Dance Marathon is open for two weeks in the fall and two weeks in the spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
@@ -209,27 +209,13 @@ include("includes/navbar.php");
                 <div class="panel-heading" role="tab" id="q7">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a7" aria-expanded="false" aria-controls="a7">
-                      Can I still dance if I am the Delegate for my organization’s team?
+                      Can I still dance if I am the Ambassador for my organization’s team?
                     </a>
                   </h4>
                 </div>
                 <div id="a7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q7">
                   <div class="panel-body">
                     Yes!
-                  </div>
-                </div>
-              </div>
-              <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q8">
-                  <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a8" aria-expanded="false" aria-controls="a8">
-                      How do spirit points work?
-                    </a>
-                  </h4>
-                </div>
-                <div id="a8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q8">
-                  <div class="panel-body">
-                    Spirit Points are used to keep track of each organization’s participation in our events and incentives throughout the year leading up to Dance Marathon. There is a friendly competition between teams and the winner will be announced at closing ceremonies for Dance Marathon.
                   </div>
                 </div>
               </div>
