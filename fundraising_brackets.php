@@ -148,7 +148,8 @@ include("includes/navbar.php");
 			</div>
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-     <h2 class="text-center">2019 Event Brackets</h2>
+     <h2 class="text-center">2019 Fundraising Brackets</h2>
+     <h3 class="text-center">Fundraising Brackets will lock on Feburary 20th, 2019</h3>
 
   <script>
    // ID of the Google Spreadsheet
