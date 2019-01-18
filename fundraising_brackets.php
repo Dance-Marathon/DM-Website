@@ -148,11 +148,11 @@ include("includes/navbar.php");
 			</div>
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-     <h2 class="text-center">2018 Event Brackets</h2>
+     <h2 class="text-center">2019 Event Brackets</h2>
 
   <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1iCIc1OYNHamYSPPC6V_r6DPGJ559AntPvQ4oQCVRwEU";
+   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -172,7 +172,18 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1iCIc1OYNHamYSPPC6V_r6DPGJ559AntPvQ4oQCVRwEU";
+   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
+
+
+   //Hello Future Tech person. This is Ryan Gruszczyk speaking.
+   //The Next ED probably wants you to update this page. Lucky for you, some genius before me
+   //Made it automatically pull from Google Sheets.
+   //To make your google sheet work it'll need to be non-fancy columns. Follow the DM 2019 example of the sheet called
+   //"Brackets Rank Horizontal 2019 (for website)".
+   //Link here: https://docs.google.com/spreadsheets/d/1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ/edit?usp=sharing assuming you can still view
+   //Once you do that. You need to make sure you file>publish to web (I choose Embeded but idk if it matters)
+   //THEN you just copy and paste the new spreadsheetID into all the variables and you're good to go fam
+
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -190,7 +201,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1iCIc1OYNHamYSPPC6V_r6DPGJ559AntPvQ4oQCVRwEU";
+   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -208,7 +219,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1iCIc1OYNHamYSPPC6V_r6DPGJ559AntPvQ4oQCVRwEU";
+   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -226,7 +237,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1iCIc1OYNHamYSPPC6V_r6DPGJ559AntPvQ4oQCVRwEU";
+   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -244,7 +255,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1iCIc1OYNHamYSPPC6V_r6DPGJ559AntPvQ4oQCVRwEU";
+   var spreadsheetID = "f";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -263,7 +274,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1iCIc1OYNHamYSPPC6V_r6DPGJ559AntPvQ4oQCVRwEU";
+   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -282,7 +293,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1iCIc1OYNHamYSPPC6V_r6DPGJ559AntPvQ4oQCVRwEU";
+   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
