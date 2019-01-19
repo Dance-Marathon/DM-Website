@@ -5,13 +5,18 @@ FONTS
 */
 
 body {
-	font-family: Avenir, arial, sans-serif;
+  font-family: Avenir, arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading, .btn-default, .flip-clock-divider .flip-clock-label {
 	font-family: Oswald, arial, sans-serif;
 }
 .page-heading.parallax h1 {
-	font-family: Pacifico, arial, cursive;
+  font-family: Aveline, cursive, arial;
+}
+
+@font-face {
+  font-family:"Aveline";
+  src: url("/assets/fonts/AvelineScript.ttf") 
 }
 
 /*
@@ -683,7 +688,7 @@ DEFAULT TEMPLATE STYLES
   padding: 192px 0;
 }
 .page-heading.parallax h1 {
-  font-size: 64px;
+  font-size: 96px;
   margin: 192px 0;
   text-align: center;
   color: #fff;
