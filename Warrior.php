@@ -53,6 +53,7 @@
 						<b>Location:</b>
 					Hume Field
 					</p>
+					<h3><a href=https://squareup.com/market/dance-marathon-at-uf/item/warrior-run-ticket>Tickets can be bought here</a></h3>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
