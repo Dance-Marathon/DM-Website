@@ -38,20 +38,17 @@
 				<h2>Warrior Run</h2>
 
   			<p>
-					On February 3rd, get ready to test your strength and agility as you run, crawl, climb, and jump your way to the finish to see if you have what it takes to be a Miracle Warrior!
+					Believe in the warrior in you! On Feb. 3, release your inner warrior as you face a series of obstacles that will test your endurance, strength, and agility! Join us on <b>Hume Field</b> starting at 10 a.m. to check in, pick up your t-shirt, and receive your race number. The Miracle Child race will be at 10:30 a.m. and the first official heat of the Warrior Run will start at 11 a.m.!
+
 				</p>
 				<ul>
-					<li>10:00am - Check-in and day-of registration</li>
-					<li>10:30am - Kids Race</li>
-					<li>11:00am - First heat of the Warrior Run</li>
+					<li>The registration fee of $15 includes a t-shirt & a secured spot in the race.</li>
+					<li>Registration at the door (day of) is $25.</li>
+					<li>Registration for children ages 12 and under is $10, but if the parent/guardian of the child registers, the child’s registration fee is waived!</li>
 				</ul>
 					<p>
-						<b>Registration:</b>
-					<p>Warrior Run: $15 ($25 day of)</p>
-					<p>Kids race (ages 12 & under): $10 or included free with adult registration (parent supervision required for all participants)</p>
+						<b>Use the link below to register today for one of our favorite days of the year!</b>
 					</p>
-						<b>Location:</b>
-					Hume Field
 					</p>
 					<h3><a href=https://squareup.com/market/dance-marathon-at-uf/item/warrior-run-ticket>Tickets can be bought here</a></h3>
       <?php } else { echo 'This page is currently closed.'; } ?>
