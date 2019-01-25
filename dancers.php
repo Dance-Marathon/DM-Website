@@ -55,10 +55,11 @@ include("includes/navbar.php");
             <h3>Dancers</h3>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/Cb3mKjlZp1A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             <p></p>
-            <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_cuUdQhI6008vojP" target="_blank">Register To Dance</a></h2>
+            <h2>Register To Dance</h2>
             <p></p>
             <p>Dance Marathon at the University of Florida is an annual 26.2 hour event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, more than 800 students stay awake and on their feet to raise money and awareness for Children's Miracle Network Hospitals.</p>
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the 26.2-hour event, you will learn our Linedance, enjoy live entertainment, eat yummy food, and hear stories from our Miracle Families.</p>
+            <p><a href="https://ufl.qualtrics.com/jfe/form/SV_cuUdQhI6008vojP" target="_blank">Click Here to Register to Dance</a></p>
             <p>Please email Nick Scianna, Dancer Relations Overall Director, at <a href="mailto:nscianna@floridadm.org">nscianna@floridadm.org </a> with any questions!</p>
           </div>
 
