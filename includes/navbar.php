@@ -55,7 +55,7 @@
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<!--<li><a href="/ftkrew">FTKrew</a></li>-->
+						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 
 						<!--	<li><a href="/overall-applications">Overall Applications</a></li>  -->
