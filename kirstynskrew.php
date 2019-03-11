@@ -40,7 +40,7 @@
  					<h2> Registration </h2>
 					 <h4><a href="https://ufl.qualtrics.com/jfe/form/SV_9XLGhNUCZMnpK8R" target="_blank">Click Here to Register for Kirstyn's Krew</a></h4>
 					 <b> Registration will be open from March 11-15 </b>
-					 <h3>Kirtyn's Krew </h3>
+					 <h3>Kirstyn's Krew </h3>
 					<p> Kirstyn’s Krew is a new program in honor of one of Miracle Children, Kirstyn Tripp, who lost her battle to childhood illness last year. The purpose of Kirstyn’s Krew is for students to experience Dance Marathon at UF 2019 and learn more about our fight to end childhood illness. As a member of Kirstyn’s Krew, you will earn 5-10 hours of community service for your support of the children at UF Health Shands Children’s Hospital.</p>
 					<p> Kirstyn’s Krew will consist of both required and optional events over the course of our 26.2 hour marathon on March 30-31. </p>
 					<p> The following events are required as a member of Kirstyn’s Krew: </p>
