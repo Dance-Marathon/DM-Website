@@ -1,9 +1,5 @@
 <?php
-	$status = "open";
-	$GLOBALS['page_title'] = 'Sponsors | Dance Marathon at UF';
-	$GLOBALS['parent'] = 'sponsors';
-	include("includes/head.php");
-	include("includes/navbar.php");
+    header("Location: https://floridadm.org/partners");
 ?>
 
 <div class="page-heading parallax sponsors">
