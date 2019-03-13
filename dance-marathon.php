@@ -17,10 +17,7 @@ include("includes/navbar.php");
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1>Dance Marathon
-						<span style="text-align: center;">
-							<br /><?php echo $dm_year; ?>
-						</span>
+					<h1>Dance Marathon 2019
 					</h1>
 				</div>
 			</div>
