@@ -73,17 +73,17 @@ include("includes/navbar.php");
 
         <h3>Participants</h3>
         <p>
-          Number of Dancers in 2017: <b>825</b> (maximum capacity)
+          Number of Dancers in 2018: <b>825</b> (maximum capacity)
           <br/>
-          Number of Captains: <b>412</b>
+          Number of Captains: <b>531</b>
           <br/>
-          Number of Emerging Leaders: <b>159</b>
+          Number of Emerging Leaders: <b>191</b>
           <br/>
-          Number of FTKrew: <b>254</b>
+          Number of FTKrew: <b>74</b>
           <br/>
-          Number of participants in total (including Overalls, Captains, Dancers and Staff): <b>7,634</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
+          Number of Participants (including Overall Directors, Captains, Emerging Leaders and FTKrew): <b>5,896</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
           <br/>
-          Number of Miracle Families: <b>85</b>
+          Number of Miracle Families: <b>74</b>
           <br/>
           Number of Sponsors: <b>150</b>
           <br/>
@@ -96,11 +96,10 @@ include("includes/navbar.php");
           <br/>
           <b>4,643</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>
-          Amount raised in 2017: <b>$2,724,324.19</b>
+          Amount raised in 2018: <b>$3,026,420.19</b>
           <br/>
-          Total amount raised in past 23 years: more than <b>$15.2 million</b> ($15,255,340) <!-- 10,096,701-->
+          Total amount raised in past 24 years: more than <b>18.2 million dollars</b>
           <br/>
-          Events: <b>4 events</b> - Bowling, Kickball, FT5K, FTKFestival
         </p>
           </div>
           <div role="tabpanel" class="tab-pane fade" id="nomenclature">

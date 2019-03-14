@@ -36,7 +36,7 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-        <h3>2014-2015 Press Releases</h3>
+        <!-- <h3>2014-2015 Press Releases</h3>
         <ul>
           <li><a href="/Documents/DM2015PressRelease.pdf" target="_blank">Dance Marathon 2015</a> 03/07/15</li>
           <li><a href="/Documents/FTKanrival2015PressRelease.pdf" target="_blank">FTKarnival</a> 02/24/2015</li>
@@ -48,7 +48,7 @@
         <h3>2015-2016 Press Releases</h3>
         <ul>
           <li><a href="/Documents/TransformTodayPressRelease2015.pdf" target="_blank">Transform Today</a> 11/18/15</li>
-        </ul>
+        </ul> -->
 
         <p>If you have any questions, please contact Caroline Rollosson, Public Relations Overall at <a href="mailto:Crollosson@floridadm.org">Crollosson@floridadm.org</a>.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
