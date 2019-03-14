@@ -171,37 +171,39 @@
           <!-- Tab panes -->
           <div class="tab-content">
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
-            <p>Dance Marathon at the University of Florida is the largest and most successful student-run philanthropy in the Southeast United States. This past year DM at UF celebrated its 23rd year and raised a historic $2,742,324.19! All money raised goes directly to benefitting the children at UF Heath Shands Children’s Hospital. Our event brings together the University of Florida community to stand for 26.2 hours with the hope of providing a better future for so many deserving children and their families. We would love for you to become a member our DM family! So, join us next year as we continue to make bigger and better miracles For The Kids!</p>
-            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/dyaW8bNKjUU" frameborder="0" allowfullscreen></iframe></p>
-
-            <p>If you would like to learn more about our Mini-Marathon program or would like to get involved, please contact our Marathon Relations Overall, Paras Mehta, at <a href="mailto:pmehta@floridadm.org">pmehta@floridadm.org</a>.</p>
-        	</br>
-            <h2>In Our Community</h2>
-            <hr>
-            <div class="col-md-12">
-            	<img src="/assets/images/thankyou.png" class="img-responsive">
-            	</br>
-            </div>
+            <p>Dance Marathon at the University of Florida is the largest and most successful student-run philanthropy in the Southeast United States. This past year DM at UF celebrated its 24th year and raised a monumental $3,026,420.19! All money raised goes directly to benefitting the children at UF Health Shands Children’s Hospital. We would love for your high school to become a member our DM family! </p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/6dmniBw3S-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p>If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall, Paras Mehta, at <a href="pmehta@floridadm.org">pmehta@floridadm.org</a>.</p>
+        	
             </div>
 
             <div role="tabpanel" class="tab-pane fade" id="schools">
-            <?php
-
-            for($i = 0; $i < count($events); $i++) { ?>
-                <!-- Button trigger modal -->
-                <?php if ($i % 3 == 0) { ?>
-                <div class="clearfix visible-xs-block visible-sm-block"></div>
-                <?php } ?>
-                <?php if ($i % 4 == 0) { ?>
-                <div class="clearfix visible-md-block visible-lg-block"></div>
-                <?php } ?>
-                <div class="col-xs-4 col-md-3">
-                    <a href="<?php echo $events[$i]['url']; ?>" class="text-center" target="_blank" style="text-decoration: none">
-                        <img class="img-square img-thumbnail" src="<?php echo ('/assets/images/hsdm/'.$events[$i]['image']); ?>" alt="..."><br>
-                        <p><?php echo $events[$i]['name']; ?></p>
-                    </a>
-                </div>
-            <?php } ?>
+			<ul>
+			<li>Oak Hall School</li>
+<li>Buchholz High School</li>
+<li>Forest High School</li>
+<li>Saint Andrew's School</li>
+<li>Boca Raton Community High School</li>
+<li>Palm Beach Gardens Community High School</li>
+<li>Seminole Ridge Community High School</li>
+<li>Jupiter Community High School</li>
+<li>Palm Beach Central High School</li>
+<li>Eastside High School</li>
+<li>Kanapaha Middle School</li>
+<li>Suncoast Community High School</li>
+<li>American Heritage School - Delray</li>
+<li>Olympic Heights Community High School</li>
+<li>Wellington Community High School</li>
+<li>Belleview High School</li>
+<li>Trinity Catholic High School</li>
+<li>East Ridge High School</li>
+<li>Gainesville High School</li>
+<li>Newberry High School</li>
+<li>Deerfield Beach High School</li>
+<li>Vero Beach High School</li>
+<li>Saint Francis Catholic Academy</li>
+<li>Wellington Landings Middle School</li>
+</ul>
           </div>
 
           <div role="tabpanel" class="tab-pane fade" id="whatsmyzone">

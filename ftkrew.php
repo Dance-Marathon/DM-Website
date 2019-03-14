@@ -60,7 +60,6 @@ include("includes/navbar.php");
 
 					<p><i>Selected FTKrew members will attend two meetings in preparation for the event in March. Each member will be assigned shifts during the event with specific duties and responsibilities assisting the Dancer Relations, Productions, and Hospitality teams.</i></p>
 
-					<p>FTKrew Applications are open from Monday, February 19th through Sunday, February 25th! Apply through the following <a href="https://ufl.qualtrics.com/jfe/form/SV_bNOFhuVnlNQWdi5">link.</a></p>
       	</div>
 
       <div role="tabpanel" class="tab-pane fade" id="Marathon-FTKrew">
