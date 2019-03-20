@@ -298,14 +298,13 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
+		  				<li><a href="/applications">Applications</a></li>
 						<li><a class="active">Alumni</a></li>
-						<li><a href="/applications">Applications</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
+						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<!--<li><a href="/ftkrew">FTKrew</a></li>-->
-						<li><a href="/organizations">Organizations</a></li>
+						<li><a href="/dancers">Dancers</a></li>
+						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
           </ul>
         </div>
 			</div>
