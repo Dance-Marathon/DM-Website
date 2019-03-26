@@ -84,11 +84,14 @@ DMA MEMBERS PAGE
           </center>
           </div>
         </div>
+        <div class="col-sm-7">
+          <a href="http://ufifc.org" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/IFC.png"/></a>
+        </div>
         <div style="height: 35px;">
         </div>
         <div class="row">
           <div class="col-sm-7">
-            <a href="https://thestandardgainesville.landmark-properties.com" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/standard.png" /></a>
+            <a href="https://nextranusa.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/Nextran.png" /></a>
           </div>
         </div>
 
@@ -115,9 +118,9 @@ DMA MEMBERS PAGE
           <div class="col-sm-6">
             <a href="http://piesanostogo.com/"><img class="img-responsive" src="assets/images/sponsors/Piesanos.png" width="175" height="175"/></a>
           </div>
-           <div class="col-sm-6">
-             <a href="https://nextranusa.com/"><img class="img-responsive" src="assets/images/sponsors/2018/Nextran.png" width="200" height="200" /></a>
-          </div>
+          <div class="col-sm-6">
+            <a href="https://thestandardgainesville.landmark-properties.com"><img class="img-responsive" src="assets/images/sponsors/2018/standard.png" width="200" height="200" /></a>
+         </div>
         </div>
          <div  class="row">
           <div class="col-sm-6">
@@ -197,9 +200,7 @@ DMA MEMBERS PAGE
           <div class="col-sm-3">
             <a href="https://studyedge.com/landing/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/se.png"/></a>
           </div>
-          <div class="col-sm-3">
-            <a href="http://ufifc.org" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/IFC.png"/></a>
-          </div>
+
           <div class="col-sm-3">
             <a href="https://www.kindsnacks.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Kind.jpg"/></a>
           </div>
@@ -305,6 +306,7 @@ DMA MEMBERS PAGE
 
         <div class="row">
           <div class="col-sm-2">
+            <!-- no website -->
             <a href="" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/otm.png"/></a>
           </div>
           <div class="col-sm-2">
@@ -376,7 +378,7 @@ DMA MEMBERS PAGE
             <a href="https://bearbottomclothing.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/BearBottom.png"/></a>
           </div>
           <div class="col-sm-2">
-            <a href="https://kirsikkajewelry.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/krisikka-jewelry.png"/></a>
+            <a href="https://kirsikkajewelry.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/kirsikka-jewelry.png"/></a>
           </div>
           <div class="col-sm-2">
             <a href="https://www.facebook.com/SababaGville" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Sababa.jpg"/></a>
@@ -399,7 +401,7 @@ DMA MEMBERS PAGE
             <a href="https://www.hurricanebtw.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/hurricane-btw.jpg"/></a>
           </div>
           <div class="col-sm-2">
-            <a href="https://home2suites3.hilton.com/en/hotels/florida/home2-suites-by-hilton-gainesville-GNVTHHT/index.html?SEO_id=GMB-HT-GNVTHHT" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/H2Suites.png"/></a>
+            <a href="https://home2suites3.hilton.com/en/hotels/florida/home2-suites-by-hilton-gainesville-GNVTHHT/index.html?SEO_id=GMB-HT-GNVTHHT" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/H2Suites.jpg"/></a>
           </div>
         </div>
 
@@ -413,11 +415,11 @@ DMA MEMBERS PAGE
             <a href="https://grubburgerbar.com/stores/gainesville/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/grub.png"/></a>
           </div>
           <div class="col-sm-2">
-            <!-- GRILL FRESH -->
-            <a href="https://grill-fresh.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/Morgan.jpeg"/></a>
+            <!-- no website -->
+            <a href="" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/willow-garden.png"/></a>
           </div>
           <div class="col-sm-2">
-            <a href="https://www.fogboxx.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/fogboxx-logo.png"/></a>
+            <a href="https://www.fogboxx.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2019/fogboxx.png"/></a>
           </div>
         </div>
 
@@ -432,7 +434,7 @@ DMA MEMBERS PAGE
             <a href="https://www.ey.com/en_gl" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2019/EY.jpg"/></a>
           </div>
           <div class="col-sm-2">
-            <a href="https://www.disney.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2019/disney-logo.png"/></a>
+            <a href="https://www.disney.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2019/disney.png"/></a>
           </div>
           <div class="col-sm-2">
             <a href="https://www.sunbeltrentals.com/locations/662/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/sunbelt.png"/></a>
@@ -448,8 +450,8 @@ DMA MEMBERS PAGE
         </div>
         <div class="row">
           <div class="col-sm-2">
-            <!-- CIVILIZATION -->
-            <a href="https://welcometocivilization.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2019/canopy.png"/></a>
+            <!-- no website -->
+            <a href="" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2019/desoto.png"/></a>
           </div>
           <div class="col-sm-2">
             <a href="http://www.thehyppo.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/TheHyppo.png"/></a>
@@ -464,6 +466,23 @@ DMA MEMBERS PAGE
             <a href="https://www.peachvalleycafe.com/locations/gainesville/index" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/PeachValley.png"/></a>
           </div>
         </div>
+<div style="height: 20px;">
+</div>
+        <div class="row">
+          <div class="col-sm-2">
+            <!-- no website -->
+            <a href="" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2019/suede.png"/></a>
+          </div>
+          <div class="col-sm-2">
+            <!-- no website -->
+            <a href="" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2019/ilenes.png"/></a>
+          </div>
+          <div class="col-sm-2">
+            <!-- wut -->
+            <a href="" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2019/whoknows.jpg"/></a>
+          </div>
+        </div>
+
         <div style="height: 20px;">
         </div>
         <div class="row">
