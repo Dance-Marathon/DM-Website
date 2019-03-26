@@ -80,8 +80,7 @@ DMA MEMBERS PAGE
         <div class="row">
           <div class="col-sm-7">
             <center>
-              <!-- gone -->
-            <a href="https://www.delta.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/Delta_Official.png" alt="centered image" /></a>
+            <a href="https://www.marriottvacationsworldwide.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/marriottvacationsworldwide.png" alt="centered image" /></a>
           </center>
           </div>
         </div>
@@ -189,9 +188,7 @@ DMA MEMBERS PAGE
           <div class="col-sm-3">
             <a href="https://www.princetonreview.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/princetonreview.png"/></a>
           </div>
-          <div class="col-sm-3">
-            <a href="https://www.marriottvacationsworldwide.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2018/marriottvacationsworldwide.png"/></a>
-          </div>
+
         </div>
 
         <div style="height: 35px;">
