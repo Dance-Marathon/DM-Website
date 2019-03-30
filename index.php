@@ -212,13 +212,12 @@
     <!--  -->
     <!--  -->
     <!--  -->
-  <div class="row" style="margin-top: 45px;">
+  <div class="row">
     <div class="col-md-12 welcome_txt text-center">
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
 
 
       <!--<p style="margin:0"><a href="/dance-marathon" style="color:#617ba6"><b>Check out our 2018 Livestream</b></a></p>-->
-
 
 
 <div id="event_banner">
