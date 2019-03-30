@@ -219,6 +219,33 @@
 
       <!--<p style="margin:0"><a href="/dance-marathon" style="color:#617ba6"><b>Check out our 2018 Livestream</b></a></p>-->
 
+
+
+<div id="event_banner">
+		<div class="row mt mb">
+			<div class="col-xs-12 welcome_txt text-center">
+				<h1 class="event_banner_title">
+					Dance Marathon 2019
+					</h1>
+			</div>
+			<div class="col-xs-12 welcome_txt text-center">
+				<h1 class="event_banner_title">
+						<span style="color: #F79B63; background-color: white;">Is Here</span>
+					</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4 col-md-offset-4 text-center">
+				<a id="event_page_button" class="btn hvr-underline-from-center" href="/dance-marathon">View Livestream</a>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
       <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i><br/> DM at UF is the most successful student-run philanthropy in the southeastern United States <br/> and just celebrated its 24th year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$3,026,420.19</b></i>!<br/>Join us in 2019 as we continue to make bigger and better miracles <ii style="color:#f79b63;">
         <b> For The Kids!</b></i></br> <i  >
            <a href="/blog" style="color:#617ba6;"> <b>Keep up with everything DM on our offical DM at UF blog</b></a>
