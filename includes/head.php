@@ -56,8 +56,8 @@
 	</head>
 
 	<?php
-	$dm_year = "2017";
-	$dance_marathon_event_started = false;
+	$dm_year = "2019";
+	$dance_marathon_event_started = true;
 	?>
 
 	<body>
