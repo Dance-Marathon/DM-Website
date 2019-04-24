@@ -62,49 +62,7 @@ include("includes/navbar.php");
                  <h4><b>Assistant Director of Events </b></h4>
                  Claire Mobley
                <h4>  <b>Captains</b></h4>
-               <table style="width:100%">
-               <tr>
-<td>  Alexander Everitt </td>
-<td>  Benjamin Cutler </td>
-<td>  Brandon Mackenzie </td>
-</tr>
-<tr>
-<td>  Brittney Hayes  </td>
-<td>  Cameron Shannon </td>
-</tr>
-<tr>
-<td>  Diana Hauter  </td>
-<td>  Emily Baker </td>
-</tr>
-<tr>
-<td>  Emma Zwick  </td>
-<td>  Gianna LoGiudice  </td>
-<td>  Jacob Yurigan </td>
-</tr>
-<tr>
-<td>  Jamie Breitbart </td>
-<td>  Jennifer Goldsmith  </td>
-<td>  Juan Varela </td>
-</tr>
-<tr>
-<td>  Kristina Askin  </td>
-<td>  Lauren Meaney </td>
-<td>  Madison Martin  </td>
-</tr>
-<tr>
-<td>  Matthew Migliazza </td>
-<td>  McKenna Elliott </td>
-<td>  Morgan Coffey </td>
-</tr>
-<tr>
-<td>  Olivia Taylor </td>
-<td>  Rebecca Shakour </td>
-<td>  Simi Himatsingani </td>
-</tr>
-<tr>
-<td>  Tyler Smith </td>
-</tr>
-</table>
+
                </div>
              </div>
            </div>
@@ -129,86 +87,6 @@ include("includes/navbar.php");
 
 
 <h4><b>Captains</b></h4>
-<table style="width:100%">
-
-<tr>
-<td>  Alexandra Anderson  </td>
-<td>  Annette Reiner  </td>
-<td>  Ashley Martin </td>
-</tr>
-<tr>
-<td>  Ashlyn Witzke </td>
-<td>  Autumn Adams-Jack </td>
-<td>  Brian Nichol  </td>
-</tr>
-<tr>
-<td>  Brooke Saban  </td>
-<td>  Caroline Baldwin  </td>
-<td>  Caroline Lee  </td>
-</tr>
-<tr>
-<td>  Claire Overholt </td>
-<td>  Clayton Stein </td>
-<td>  Cole Abrahamson </td>
-</tr>
-<tr>    </td>
-<td>  Cristine Lindsay  </td>
-<td>  Emily Ownes </td>
-<td>  Gianna Herrmann
-</tr>
-<tr>    </td>
-<td>  Hailley Loper   </td>
-<td>  Halle Berliant  </td>
-<td>  Hayley Giambalvo
-</tr>
-<tr>    </td>
-<td>  Isabelle Olek </td>
-<td>  Jacob Mayuski </td>
-<td>  Jane McAskill
-</tr>
-<tr>    </td>
-<td>  Jillian Ciotoli   </td>
-<td>  Johna Downing   </td>
-<td>  Johnathan Page
-</tr>
-<tr>
-<td>  Joni Seligson </td>
-<td>  Jordan Wohl </td>
-<td>  Juliana Cuccaro </td>
-</tr>
-<tr>
-<td>  Justin Weidenfeld </td>
-<td>  Kaitlyn Cullen  </td>
-<td>  Kelly Hagan </td>
-</tr>
-<tr>
-<td>  Kelsey Matala </td>
-<td>  Kobe Jones  </td>
-<td>  Laura Martinez  </td>
-</tr>
-<tr>
-<td>  McKenna Schaar  </td>
-<td>  Megan Mitchell  </td>
-<td>  Molly Mussary </td>
-</tr>
-<tr>
-<td>  Natalie Rilo  </td>
-<td>  Nicole Kjosa  </td>
-<td>  Payton DeAndrea </td>
-</tr>
-<tr>
-<td>  Peter Staviski  </td>
-<td>  Ryan Savoldy  </td>
-</tr>
-<tr>
-<td>  Samantha Fleet  </td>
-<td>  Shae Margulies  </td>
-<td>  Sydney Seiff  </td>
-</tr>
-<tr>
-<td>  Victoria Carillo  </td>
-<td>  William Fitzgerald  </td>
-</table>
 
             </div>
           </div>
@@ -223,58 +101,14 @@ include("includes/navbar.php");
             <div class="panel-body">
               <b> The Design & Technology Team </b> is a collection of graphic designers and software developers responsible for making Dance Marathon media come to life. Captains are responsible for either the development/maintenance of the website and mobile applications (iOS and Android) or the creation of all print/web design needs (e.g. merchandise, graphics, newsletters, calendars, etc.). Throughout the year, Captains work together to create high-tech, portfolio-quality material that showcase Dance Marathon as a professional student-run movement. At the event itself, captains manage the Jumbotron, app notifications, livestream, and otherwise keep things running smoothly.
               <br></br>
-              <h4><b>Assistant Director of Creative Logistics</b></h4>
+              <h4><b>Assistant Director of Creative Development </b></h4>
               Celia Planeta
               <h4><b>Assistant Director of Project Management</b></h4>
               Ali Sammour
               <h4><b>Assistant Director of Technology Logistics</b></h4>
               Kyle Bassignani
      <h4>  <b> Captains</b></h4>
-            <table style="width:100%">
-             <tr>
-                <td>Alexander Boucher</td>
-                <td>Alyssa Lanzas</td>
-              </tr>
-              <tr>
-                <td>Brooke Mott-Smith</td>
-                <td>Celia Planeta</td>
-                <td>Cory Fink</td>
-              </tr>
-              <tr>
-                <td>Courtney Meyer</td>
-                <td>Emma Berckman</td>
-                <td>Isabella Bond</td>
-              </tr>
-              <tr>
-                <td>Jake Bursk</td>
-                <td>Jose Rivera</td>
-                <td>Jules LaVoy</td>
-               </tr>
-              <tr>
-                <td>Kara Kennedy</td>
-                <td>Marcela Pellissery</td>
-              </tr>
-              <tr>
-                <td>Marni Weiss</td>
-                <td>Mia Lestorti</td>
-                <td>Michael Kennedy</td>
-              </tr>
-              <tr>
-                <td>Parker Lunn</td>
-                <td>Patrick Prieto</td>
-                <td>Skyler Brown-Smith</td>
-              </tr>
-              <tr>
-                <td>Stephanie Nash</td>
-                <td>Tiffany Tang</td>
-                <td>Wesley Campbell</td>
-              </tr>
-              <tr>
-                <td>William Cosker</td>
-                <td>William Walker</td>
-                <td>Jonathan Pereyra</td>
-              </tr>
-            </table>
+
             </div>
           </div>
         </div>
@@ -298,77 +132,7 @@ include("includes/navbar.php");
               Lauren Connell
 
     <h4>      <b>Captains</b></h4>
-    <table style="width:100%">
 
-
-          <tr>
-<tr>
-<td>  Abbey Parker  </td>
-<td>  AJ Kerwin </td>
-<td>  Alexa Scherbak  </td>
-</tr>
-<tr>
-<td>  Benjamin Weeks  </td>
-<td>  Cameron Gangle  </td>
-<td>  Carly Knox  </td>
-</tr>
-<tr>
-<td>  Christina Collings  </td>
-<td>  Courtney Mastrorio  </td>
-</tr>
-<tr>
-<td>  Davis Freeman </td>
-<td>  Emily Bateh </td>
-<td>  Emily Boulter </td>
-</tr>
-<tr>
-<td>  Emily Chapman </td>
-<td>  Emily DiNardi </td>
-<td>  Gabriela Davila </td>
-</tr>
-<tr>
-<td>  Grace Knapp </td>
-<td>  Jacqueline Lutz </td>
-</tr>
-<tr>
-<td>  Jean Paul Cleveland </td>
-<td>  Jordan Glick  </td>
-<td>  Jourdain Cole </td>
-</tr>
-<tr>
-<td>  Katarina Eckstein-Schoemann </td>
-<td>  Kathryn Lahey </td>
-<td>  Kathryn Vigilante </td>
-</tr>
-<tr>
-<td>  Kelly Kolman  </td>
-<td>  Kenny Pitt  </td>
-<td>  Kristy Minno  </td>
-</tr>
-<tr>
-<td>  Laura Lozano  </td>
-<td>  Lauren Connell  </td>
-<td>  Mackenzie Slater  </td>
-</tr>
-<tr>
-<td>  Madelyn Mandese </td>
-<td>  Maranda Centeno </td>
-<td>  Marra Sirianni  </td>
-</tr>
-<tr>
-<td>  Mary Summers  </td>
-<td>  Michaela Pattison </td>
-<td>  Olivia Menze  </td>
-</tr>
-<tr>
-<td>  Peighton Jones  </td>
-<td>  Sarah Wolk  </td>
-</tr>
-<tr>
-<td>  Shannon Jones </td>
-<td>  Troy Porter </td>
-<td>  Zachary Corliss </td>
-</table>
             </div>
           </div>
         </div>
@@ -389,7 +153,7 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Organization Relations</b></h4>
               Jacqueline Lamm
    <h4>  <b> Captains</b></h4>
-        <table style="width:100%">
+        <!-- <table style="width:100%">
           <tr>
 <td>  Alexia Yavalar  </td>
 <td>  Alexis Sutter </td>
@@ -430,7 +194,7 @@ include("includes/navbar.php");
 <tr>
 <td>  Taylor Konopka  </td>
 <td>  Zachary Ginsburg  </td>
-  </table>
+  </table> -->
             </div>
           </div>
         </div>
@@ -451,61 +215,7 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Stewardship</b></h4>
               Elizabeth Thompson
    <h4>  <b>Captains</b></h4>
-        <table style="width:100%">
 
-          <tr>
-<tr>
-<td>  Abby Telan  </td>
-<td>  Alana Jula  </td>
-<td>  Alanna Cavallini  </td>
-</tr>
-<tr>
-<td>  Alayna Bruckner </td>
-<td>  Alexander Dela Rea  </td>
-<td>  Caroline Miller </td>
-</tr>
-<tr>
-<td>  Ethan Paikowsky </td>
-<td>  Gibson Howard </td>
-</tr>
-<tr>
-<td>  Hannah Burkhart </td>
-<td>  Hannah Schmidt  </td>
-<td>  Hayden Dodds  </td>
-</tr>
-<tr>
-<td>  Jacqueline Jagger </td>
-<td>  Juliette Condren  </td>
-<td>  Kelsie Collins  </td>
-</tr>
-<tr>
-<td>  Kendall Phillips </td>
-<td>  Kylie Ditty  </td>
-<td>  Kyrsten Engstrom  </td>
-</tr>
-<tr>
-<td>  Leah Drake  </td>
-<td>  Lexie Nelson  </td>
-<td>  Maddie Wise </td>
-</tr>
-<tr>
-<td>  Rachel Grimley  </td>
-<td>  Romy Miller </td>
-</tr>
-<tr>
-<td>  Ryan Loveland </td>
-<td>  Seth Longland </td>
-</tr>
-<tr>
-<td>  Shay Phillips </td>
-<td>  Spencer Cutts </td>
-<td>  Stephanie Ferrer  </td>
-</tr>
-<tr>
-<td>  Taylor Clark  </td>
-<td>  Tia Sasher  </td>
-<td>  Valentina Sicilia </td>
-</table>
 
             </div>
           </div>
@@ -529,59 +239,7 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Emerging Leader Tracking</b></h4>
               Lauren Spataro
       <h4>  <b> Captains</b></h4>
-        <table style="width:100%">
 
-          <tr>
-<td>  Aileen Gonzalez </td>
-<td>  Alexyss Rainford  </td>
-<td>  Alison Catena </td>
-</tr>
-<tr>
-<td>  Amanda Goldberg </td>
-<td>  Ashton Wilson </td>
-</tr>
-<tr>
-<td>  Brawn Nelson  </td>
-<td>  Camille Nichols </td>
-<td>  Caroline Hellmann </td>
-</tr>
-<tr>
-<td>  Casey Gilligan  </td>
-<td>  Connor Wax  </td>
-<td>  Dorothy Hellmann  </td>
-</tr>
-<tr>
-<td>  Ellie Clark </td>
-<td>  Felicia Miller  </td>
-<td>  Halle Gibson  </td>
-</tr>
-<tr>
-<td>  Hannah Kastensmidt  </td>
-<td>  Haylee Lentin </td>
-<td>  Henry Edmondson </td>
-</tr>
-<tr>
-<td>  Jenna Parker  </td>
-<td>  Justin Beach  </td>
-<td>  Katelin Carroll </td>
-</tr>
-<tr>
-<td>  Kavitha Komatineni  </td>
-<td>  Leah Knight </td>
-</tr>
-<tr>
-<td>  Luke Evans  </td>
-<td>  Lyanne Melendez </td>
-</tr>
-<tr>
-<td>  Olivia Haughey  </td>
-<td>  Sara Stranieri  </td>
-<td>  Sarah Byres </td>
-</tr>
-<tr>
-<td>  Shayne Sipowski </td>
-<td>  Stephanie McMillan  </td>
-</table>
 
             </div>
           </div>
@@ -605,78 +263,7 @@ include("includes/navbar.php");
 	          <h4><b>Assistant Director of Special Projects and Communication</b></h4>
               Alexis Pollak
        <h4>  <b>Captains </b></h4>
-       <table style="width:100%">
-        <tr>
-<td>  Alexander Martin  </td>
-<td>  Annie Criser  </td>
-</tr>
-<tr>
-<td>  Ashlyn Saunders </td>
-<td>  Carly Snytte  </td>
-<td>  Catie Wegman  </td>
-</tr>
-<tr>
-<td>  Charley Wolfla  </td>
-<td>  Christopher Henderson </td>
-<td>  Christopher West  </td>
-</tr>
-<tr>
-<td>  Daniel Zamora </td>
-<td>  Emmy Makic  </td>
-<td>  Fraleigh Krause </td>
-</tr>
-<tr>
-<td>  Gina Allegrini  </td>
-<td>  Hannah Baker  </td>
-<td>  Allison Nelson  </td>
-</tr>
-<tr>
-<td>  Hannah Mennes </td>
-<td>  Isa Torregrosa  </td>
-<td>  Jacob Reed  </td>
-</tr>
-<tr>
-<td>  Jillian Mitchell  </td>
-<td>  Julie Cartee  </td>
-</tr>
-<tr>
-<td>  Kevin Labra </td>
-<td>  Kylee Neeranjan </td>
-<td>  Laura Pinheiro  </td>
-</tr>
-<tr>
-<td>  Leana Pustam  </td>
-<td>  Lindsey Treacy  </td>
-<td>  Lizanna Angeli  </td>
-</tr>
-<tr>
-<td>  Maddy Schmidt </td>
-<td>  Malley Goodwin  </td>
-</tr>
-<tr>
-<td>  Marialejandra Perez </td>
-<td>  Mary Claire Madden  </td>
-<td>  MaryBeth Dinkins  </td>
-</tr>
-<tr>
-<td>  Max Baron </td>
-<td>  Michelle McKenna  </td>
-<td>  MJ Cordero  </td>
-</tr>
-<tr>
-<td>  Paige Pagano  </td>
-<td>  Rachel Berman </td>
-<td>  Sam Heekin  </td>
-</tr>
-<tr>
-<td>  Samuel Weingart </td>
-<td>  Sarah Workman </td>
-</tr>
-<tr>
-<td>  Sierra Lloyd  </td>
-<td>  Stephanie Ciricillo </td>
-<td>  Marissa Shulman </td>
-          </table>
+
             </div>
           </div>
         </div>
@@ -700,55 +287,7 @@ include("includes/navbar.php");
               Taylor Tibuiani
 
        <h4>  <b>Captains</b></h4>
-       <table style="width:100%">
 
-       <tr>
-<td>  Becca Pecora  </td>
-<td>  Carly Leonard </td>
-</tr>
-<tr>
-<td>  Chloe Burgess </td>
-<td>  CJ Cavaliere  </td>
-<td>  Claire Wilhelm  </td>
-</tr>
-<tr>
-<td>  Dante Mastrangelo </td>
-<td>  Erica Charles </td>
-</tr>
-<tr>
-<td>  Gabrielle Pierce  </td>
-<td>  Garrett Scott </td>
-<td>  Haley Grasty  </td>
-</tr>
-<tr>
-<td>  Hannah Paymeyesh  </td>
-<td>  Jonathan Acosta </td>
-<td>  Jordanna Herrmann </td>
-</tr>
-<tr>
-<td>  Kayla Eversen </td>
-<td>  Manuela Gutierrez </td>
-<td>  Mary Delegal  </td>
-</tr>
-<tr>
-<td>  Morgan McWilliams </td>
-<td>  Natasha Jewett  </td>
-<td>  Nathan Landry </td>
-</tr>
-<tr>
-<td>  Nick Castro </td>
-<td>  Olivia Boaz </td>
-<td>  Rachel Mazzurco </td>
-</tr>
-<tr>
-<td>  Shelby Shriver  </td>
-<td>  Sunny Mucha </td>
-</tr>
-<tr>
-<td>  Taylor Tribuiani  </td>
-<td>  Valencia Vigarino </td>
-<td>  Victoria Vincent  </td>
-</table>
 
             </div>
           </div>
@@ -770,79 +309,7 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Mini Marathon Coordination</b></h4>
               Alex Sikoryak
       <h4>  <b> Captains</b></h4>
-        <table style="width:100%">
 
-          <tr>
-<td>  Alexa Mederos </td>
-</tr>
-<tr>
-<td>  Anthony Rocca </td>
-<td>  Anthony Temeliescu  </td>
-<td>  Ashley Gonzalez </td>
-</tr>
-<tr>
-<td>  Benjamin Lantinberg </td>
-<td>  Beth Hermann  </td>
-<td>  Bre Miller  </td>
-</tr>
-<tr>
-<td>  Brooke Engel  </td>
-<td>  Cameron Schaublin </td>
-<td>  Carlie Groeschen  </td>
-</tr>
-<tr>
-<td>  Carolina Morales  </td>
-<td>  Charles "CJ" Lockwood </td>
-<td>  Charles Reynolds  </td>
-</tr>
-<tr>
-<td>  Christine Powroznik </td>
-<td>  Colleen Maher </td>
-<td>  Connor Turner </td>
-</tr>
-<tr>
-<td>  Daileen Paulino-Santana </td>
-<td>  Gracyn DenBesten  </td>
-<td>  Isabella Alfonso  </td>
-</tr>
-<tr>
-<td>  Jen Bacon </td>
-<td>  Joe Vega  </td>
-<td>  John Cerillo  </td>
-</tr>
-<tr>
-<td>  Karla Robaina </td>
-<td>  Lauren Stein  </td>
-<td>  Lexi Stoloff  </td>
-</tr>
-<tr>
-<td>  Lily Frost  </td>
-<td>  Michael Murphy  </td>
-<td>  Mimi Eliscu </td>
-</tr>
-<tr>
-<td>  Nicole Allison  </td>
-<td>  Nicole Liss </td>
-<td>  Omarley Spence  </td>
-</tr>
-<tr>
-<td>  Reilly Thompson </td>
-<td>  Riley McCoy </td>
-<td>  Samantha DiCorte  </td>
-</tr>
-<tr>
-<td>  Seryna Mamane </td>
-<td>  Sydney Robinson </td>
-</tr>
-<tr>
-<td>  Tamara Boskovic </td>
-<td>  Trevor Betros </td>
-<td>  Victor Palacio  </td>
-</tr>
-<tr>
-<td>  Zack Argentine  </td>
-<td>  Zoe Hackshaw  </td>
-</table>
 
             </div>
           </div>
@@ -866,53 +333,7 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Videography</b></h4>
               Erica Criss
     <h4>  <b>Captains</b></h4>
-<table style="width:100%">
 
-          <tr>
-<td>  Aisling Sheehan </td>
-<td>  Alana Healy </td>
-<td>  Allison Luntz </td>
-</tr>
-<tr>
-<td>  Amanda Meyering </td>
-<td>  Andy Klaric </td>
-<td>  Brandon Fallin  </td>
-</tr>
-<tr>
-<td>  Brooke Johnson  </td>
-<td>  Carly Mackler </td>
-<td>  Cesar Lugaro  </td>
-</tr>
-<tr>
-<td>  Chandler Haines </td>
-<td>  Charlotte Robinson  </td>
-<td>  Dakota Williams </td>
-</tr>
-<tr>
-<td>  Erica Steinkohl </td>
-</tr>
-<tr>
-<td>  Isabela Rodriguez </td>
-<td>  Jessica Inhofer </td>
-<td>  Katherine Daly  </td>
-</tr>
-<tr>
-<td>  Kaylee Battiste </td>
-<td>  Kim Evens </td>
-<td>  Lexie Miller  </td>
-</tr>
-<tr>
-<td>  Parker Christian  </td>
-</tr>
-<tr>
-<td>  Samy Asfoor </td>
-<td>  Sander Bloshinsky </td>
-<td>  Sophia Rose </td>
-</tr>
-<tr>
-<td>  Spencer Kane  </td>
-<td>  Sydney Jones  </td>
-</table>
 
             </div>
           </div>
@@ -935,58 +356,7 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Talent Relations </b></h4>
                 Vicky Wajsbrot
 <h4>   <b>Captains</b></h4>
-        <table style="width:100%">
 
-            <tr>
-<td>  Adam Cook </td>
-<td>  Alex Smock  </td>
-<td>  Allison Williams  </td>
-</tr>
-<tr>
-<td>  Angelica Abrego </td>
-<td>  Brett Cook  </td>
-<td>  Caleb Baum  </td>
-</tr>
-<tr>
-<td>  Christian Mkhachen  </td>
-<td>  Daniella Fragnito </td>
-</tr>
-<tr>
-<td>  Sean Pedersen </td>
-<td>  Ellen Andreu  </td>
-<td>  Esther Kim  </td>
-</tr>
-<tr>
-<td>  Evelyn Kelley </td>
-<td>  Jacob Henschel  </td>
-<td>  James Wheeler </td>
-</tr>
-<tr>
-<td>  Jim Mossell </td>
-<td>  Julia Sabra </td>
-<td>  Justin Fontes </td>
-</tr>
-<tr>
-<td>  Lauren Harrington </td>
-<td>  Lauren Uzsinay  </td>
-<td>  Michael Fernandez </td>
-</tr>
-<tr>
-<td>  Michelle Montes De Oca  </td>
-<td>  Molly Gilroy  </td>
-<td>  Naomi Lara  </td>
-</tr>
-<tr>
-<td>  Rebecca Goetz </td>
-<td>  Robbye Teal </td>
-<td>  Ryan Mesa </td>
-</tr>
-<tr>
-<td>  Ryder Roscigno  </td>
-<td>  Samuel Still  </td>
-<td>  Shelby Rubin  </td>
-</tr>
-</table>
 
               </div>
             </div>
@@ -1009,49 +379,7 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Social Media </b></h4>
                 Madison Whalen
      <h4>  <b> Captains</b></h4>
-        <table style="width:100%">
 
-        <tr>
-<td>  Anabelle Greene </td>
-<td>  Annie Pipkin  </td>
-</tr>
-<tr>
-<td>  Ashlyn Yarbrough  </td>
-<td>  Camber Pecor  </td>
-<td>  Carly Gettleman </td>
-</tr>
-<tr>
-<td>  Eli Rosen </td>
-<td>  Emilie Dhir </td>
-<td>  Emily Loughran  </td>
-</tr>
-<tr>
-<td>  Graham McPhail  </td>
-<td>  Haley Fretes  </td>
-<td>  Hannah Fredlake </td>
-</tr>
-<tr>
-<td>  Jenna Theofiledes </td>
-<td>  Kaitlyn Paley </td>
-<td>  Karissa Disla </td>
-</tr>
-<tr>
-<td>  Kassidy Roberts </td>
-<td>  Kayla Persan  </td>
-<td>  Lauren Palen  </td>
-</tr>
-<tr>
-<td>  Lauren Seewald  </td>
-<td>  McKenna Beery </td>
-</tr>
-<tr>
-<td>  Nikolette Kalavriziotis </td>
-</tr>
-<tr>
-<td>  Sarah Bartholemy  </td>
-<td>  Valentina Rendon  </td>
-<td>  Victoria Arguelles  </td>
-</table>
 
               </div>
             </div>
@@ -1073,50 +401,7 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Tracking</b></h4>
                 Breen Kiel
            <h4>  <b>Captains</b></h4>
-          <table style="width:100%">
-          <tr>
-<td>  Allison Wehle </td>
-<td>  Anika Moffitt </td>
-</tr>
-<tr>
-<td>  Brian Caldwell  </td>
-<td>  Chase Broome  </td>
-<td>  Ciara Chappell  </td>
-</tr>
-<tr>
-<td>  Courtney Triplett </td>
-<td>  Demi Dedman </td>
-<td>  Eva Prendergast </td>
-</tr>
-<tr>
-<td>  Gabriella Crespo  </td>
-<td>  Hayley Samek  </td>
-</tr>
-<tr>
-<td>  Jared Schuster  </td>
-<td>  Jenna Alderuccio  </td>
-<td>  Jenna Williamson  </td>
-</tr>
-<tr>
-<td>  Julia Thometz </td>
-<td>  Kyla George </td>
-<td>  Margaret Griffin  </td>
-</tr>
-<tr>
-<td>  Mari Gelabert </td>
-<td>  Meghan Ballard  </td>
-<td>  Melinda Abercrombie </td>
-</tr>
-<tr>
-<td>  Oliver Hoffman  </td>
-<td>  Patricia Zielinski  </td>
-<td>  Rebecca Daniel  </td>
-</tr>
-<tr>
-<td>  Rebecca Weissman  </td>
-<td>  Stella Matic  </td>
-<td>  Victoria Botelho  </td>
-              </table>
+
               </div>
             </div>
           </div>
@@ -1137,39 +422,7 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Stewardship</b></h4>
                 Paige Learming
           <h4>  <b>Captains</b></h4>
-          <table style="width:100%">
-            <tr>
-<td>  Andie Alderman  </td>
-<td>  Christopher Hewitt  </td>
-<td>  Connor Kreis  </td>
-</tr>
-<tr>
-<td>  Deanna Belfiore </td>
-<td>  Hallie Richards </td>
-</tr>
-<tr>
-<td>  Jamie Bauman  </td>
-<td>  Jared Friedman  </td>
-<td>  Katherine Dubina  </td>
-</tr>
-<tr>
-<td>  Kevin Anderson  </td>
-<td>  Liza Miller </td>
-<td>  Mackenzie King  </td>
-</tr>
-<tr>
-<td>  Matthew Costello  </td>
-<td>  Melissa Fletcher  </td>
-<td>  Nicole Russo  </td>
-</tr>
-<tr>
-<td>  Reis Spicer </td>
-<td>  Sophia Bond </td>
-</tr>
-<tr>
-<td>  Sophia Shapiro  </td>
-<td>  Sydney Lang </td>
-              </table>
+          
               </div>
             </div>
           </div>
