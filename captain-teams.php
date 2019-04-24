@@ -223,8 +223,6 @@ include("includes/navbar.php");
             <div class="panel-body">
               <b> The Design & Technology Team </b> is a collection of graphic designers and software developers responsible for making Dance Marathon media come to life. Captains are responsible for either the development/maintenance of the website and mobile applications (iOS and Android) or the creation of all print/web design needs (e.g. merchandise, graphics, newsletters, calendars, etc.). Throughout the year, Captains work together to create high-tech, portfolio-quality material that showcase Dance Marathon as a professional student-run movement. At the event itself, captains manage the Jumbotron, app notifications, livestream, and otherwise keep things running smoothly.
               <br></br>
-               <h4><b>Assistant Director of Creative Development</b></h4>
-              N/A
               <h4><b>Assistant Director of Creative Logistics</b></h4>
               Celia Planeta
               <h4><b>Assistant Director of Project Management</b></h4>
