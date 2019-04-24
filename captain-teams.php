@@ -56,7 +56,7 @@ include("includes/navbar.php");
           <b> The Community Outreach Team </b> is responsible for increasing the awareness and reach of Dance Marathon at the University of Florida throughout the Gainesville community. They work to promote a focused, consistent message about Dance Marathon at UF and to create strong community partnerships. The goal is to expand DM at UF’s reach to the Gainesville community, sharing our mission and forming positive relationships with new communities in our cause. Community Outreach is responsible for large community-based events such as the Miracle Gala. The Team also focuses on creating and organizing targeted engagement projects around the Gainesville community. They collaborate with the Dance Marathon Alumni (DMA) to increase alumni engagement and participation and are responsible for fostering Faculty Engagement in our cause.
           <br></br>
                  <h4><b>Assistant Director of Community Partnerships </b></h4>
-                 Catilyn Pennell
+                 Caitlyn Pennell
                  <h4><b>Assistant Director of Connections and Communication</b></h4>
                  Jamie Breit
                  <h4><b>Assistant Director of Events </b></h4>
@@ -284,7 +284,7 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Mini Marathons</b></h4>
               Bryson Keel
 			  <h4><b>Assistant Director of Orders</b></h4>
-              Taylor Tibuiani
+              Taylor Tribuiani
 
        <h4>  <b>Captains</b></h4>
 
@@ -420,9 +420,9 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Internal Relations</b></h4>
                 Nicole Russo
                 <h4><b>Assistant Director of Stewardship</b></h4>
-                Paige Learming
+                Paige Leaming
           <h4>  <b>Captains</b></h4>
-          
+
               </div>
             </div>
           </div>
