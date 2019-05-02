@@ -12,7 +12,7 @@
 	  array(
 	    'name'                  =>  'Connor Bennett',
 	    'position'              =>  'Executive Director',
-	    'email'                 =>  'cbennet@floridadm.org',
+	    'email'                 =>  'cbennett@floridadm.org',
 	    'previous_involvement'  =>  'Dancer, Recruitment Captain, Assistant Director of Campus Relations, Internal Communications Manager',
 	    'major'                 =>  'Information Systems & Operations Management',
 	    'hometown'              =>  'Orlando, FL',
@@ -155,7 +155,7 @@
 	   ),
 		array(
 	   'name' => 'Brianna Sekul',
-		 'position' => 'Hospitality Overall',		  
+		 'position' => 'Hospitality Overall',
 		 'email' => 'bsekul@floridadm.org',
 	   'previous_involvement' => 'Dancer, 2-year Hospitality Captain',		   'major' => 'Marketing ',
 	   'hometown' => 'Weston, FL',
@@ -408,7 +408,7 @@
         } ?>
 				<div>
 					<h2>Donation Problems?</h2>
-					<p>If you have Donor Drive questions, or problems with a donation, please contact <a href="mailto:sgoldrich@floridadm.org ">sgoldrich@floridadm.org </a></p>
+					<p>If you have Donor Drive questions, or problems with a donation, please contact <a href="mailto:khenry@floridadm.org ">khenry@floridadm.org </a></p>
 				</div>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
