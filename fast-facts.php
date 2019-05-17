@@ -75,7 +75,7 @@
 
         <h3>Fundraising</h3>
         <p>
-          <b>43,746</b> donations on Donor Drive <!--change to exact-->
+          <b>43,746</b> donations on Classy <!--change to exact-->
           <br/>
           <b>6,861</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>

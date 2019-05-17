@@ -92,7 +92,7 @@ include("includes/navbar.php");
 
         <h3>Fundraising</h3>
         <p>
-          <b>49,074</b> donations on Donor Drive <!--change to exact-->
+          <b>49,074</b> donations on Classy <!--change to exact-->
           <br/>
           <b>4,643</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>
@@ -277,7 +277,7 @@ include("includes/navbar.php");
                 </div>
                 <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
                   <div class="panel-body">
-                    See <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786">Register to Fundraise</a> for instructions.
+                    See <a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292">Register to Fundraise</a> for instructions.
                   </div>
                 </div>
               </div>

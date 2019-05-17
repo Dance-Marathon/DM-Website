@@ -25,7 +25,7 @@ include("includes/navbar.php");
 				<div class="sub-nav">
           <ul>
 						<li><a href="/campus-push-days">Campus Push Days</a></li>
-						<li><a href="/donordrive">DonorDrive</a></li>
+						<li><a href="/classy">Classy</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
@@ -40,7 +40,7 @@ include("includes/navbar.php");
 
 					<p>Just follow the steps below:</p>
 					<ol>
-						<li>Follow this <a href="https://events.dancemarathon.com/event/UF2019" target="_blank">Link</a> to register now!
+						<li>Follow this <a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292" target="_blank">Link</a> to register now!
 							<li> Join a team <li/>
 								<ul>
 									<li>If you are joining as an individual, click <b>‘Individual’ under ‘Role’</b>. </li>
@@ -50,10 +50,10 @@ include("includes/navbar.php");
 									</ul> </ul>
 									<li> Next, you will be asked to fill in your information (ex. Name, Email, Fundraising Goal) </li>
 									<li> If desired, you can make a donation to your page.</li>
-									<li> From here, you can use the tools on Donor Drive to send emails from a template, track your fundraising and personalize your fundraising page!</li>
+									<li> From here, you can use the tools on Classy to send emails from a template, track your fundraising and personalize your fundraising page!</li>
 								</ol>
 
-								<p>If you have any questions about Donor Drive contact the Fundraising Overall, Shayna Goldrich, at  <a href="mailto:sgoldrich@floridadm.org  ">sgoldrich@floridadm.org  </a></p>
+								<p>If you have any questions about Classy contact the Fundraising Overall, Kelsea Henry, at  <a href="mailto:khenry@floridadm.org  ">khenry@floridadm.org  </a></p>
 
 						   	</div>
 							</div>

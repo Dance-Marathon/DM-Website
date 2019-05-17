@@ -1,3 +1,3 @@
 <?php
-    header("Location: https://events.dancemarathon.com/event/UF2019");
+    header("Location: https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292");
 ?>

@@ -114,7 +114,7 @@ include("includes/navbar.php");
             <h3>Register to Dance</h3>
             <p>Dancer Registration for Dance Marathon is open for two weeks in the fall and two weeks in the spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
-            <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Donor Drive. See Starting a Team for more information.</p>
+            <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Classy. See Starting a Team for more information.</p>
             <p><em>Please note: registration does not guarantee Dancer spots. Dancer spots are allocated in the spring based off of organizational or individual achievements.</em></p>
 
 
@@ -201,7 +201,7 @@ include("includes/navbar.php");
                 </div>
                 <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
                   <div class="panel-body">
-                    See <a href="http://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=786">Register to Fundraise</a> for instructions.
+                    See <a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292">Register to Fundraise</a> for instructions.
                   </div>
                 </div>
               </div>

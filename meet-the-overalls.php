@@ -408,7 +408,7 @@
         } ?>
 				<div>
 					<h2>Donation Problems?</h2>
-					<p>If you have Donor Drive questions, or problems with a donation, please contact <a href="mailto:khenry@floridadm.org ">khenry@floridadm.org </a></p>
+					<p>If you have Classy questions, or problems with a donation, please contact <a href="mailto:khenry@floridadm.org ">khenry@floridadm.org </a></p>
 				</div>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
