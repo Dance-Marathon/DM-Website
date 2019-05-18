@@ -40,27 +40,20 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 
-				<h2>Classy FAQ: Internal Classy Teams</h2>
+				<h2>Classy</h2>
+				<p>UF Health Shands Children’s Hospital is utilizing Classy, an online fundraising platform, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will now be creating Classy accounts to begin fundraising for DM at UF 2020. Classy is safe and easy to use. To create a fundraising page, register using the link below:</p>
+				<a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292" target="_blank">Register To Fundraise</a>
 				<p></p>
 
-<b>1. Why are we making this change?</b>
-<ul><li>This shift aims to help motivate Dancers to have a more active role in representing their organization, since they are the ones competing for the 825 dancer spots based on venue capacity. While we greatly appreciate the yearlong efforts made by Captains, Emerging Leaders, Assistant Directors, and the Overall Team, we want to keep our Dancers a priority and help to make more organizations feel represented based on their personal fundraising efforts.</li></ul>
-<b>2. What if I am an Ambassador and a Captain?</b>
-<ul><li>Ambassadors that also have Captain positions will be registered on Classy with their Organization and not their Captain Team.</li></ul>
-<b>3. When will I receive my final total (including Captains, Emerging Leaders, Assistant Directors, and Overall Team members from my organization)?</b>
-<ul><li>You will receive your Organization’s final total at the wrap-up Ambassador meeting following DM 2019. This can and should be used to celebrate the success of your collective student organization’s fundraising efforts!</li></ul>
-<b>4. How will the Miracle Cup winner be calculated?</b>
-<ul><li>The Miracle Cup winner will be calculated based on Organization fundraising. We want to help celebrate the efforts of the 825 dancer participants' fundraising efforts in each of the organizations. As such, Captain/Emerging Leader fundraising will be counted separately on their own Classy teams.</li>
-<li>While Captain and Emerging Leader will not count towards the Organization’s Miracle Cup Award, they will compete for their own titles of “Highest Fundraising Captain Team” and “Highest Fundraising Emerging Leader Unit.”</li></ul>
-<b>5. How are the new Team Goals being calculated?</b>
-<ul><li>We have been able to pull data of what Dancers and Delegates raised in 2018 to best determine new team goals for 2019. However, Dance Marathon at UF will be happy to provide team goals that also include the Captains, Emerging Leaders, Assistant Directors, and Overall Team Members if you would like to continue to track on your own throughout the year.</li></ul>
-<b>6. Will this change bracket orders?</b>
-<ul><li>The structure of the bracket system has not changed - it is determined by the fundraising and engagement of each organization.</li></ul>
-<b>7. How will I know where I stand compared to other Organizations?</b>
-<ul><li>Now, it’s as easy as checking Classy! As an Ambassador, you can simply visit your team’s fundraising page and view your total thermometer. From there, you can visit other team pages and view their total thermometer. Classy is updated in real-time so you can constantly stay updated on where every Organization stands in relation to another.</li>
-<li>You will still be provided with a monthly Ambassador Newsletter that has Top 10 Organizations. This Top 10 number will be calculated solely on Organization fundraising (i.e. excluding Captains and Emerging Leaders).</li></ul>
-<b>8. Will I be able to see how much Captains/Emerging Leader in my Organization have raised?</b>
-<ul><li>Captain fundraising will not be included on Organization’s tracking docs throughout the year but it will be included in each Organization’s final post-event total. This will allow Ambassadors to focus on engaging and motivating other members and potential dancers of their Organizations.</li></ul>
+				<h3>FAQ:</h3>
+
+<b>1. If I had a fundraising page last year, do I need to create a new account with Classy and a new fundraising page this year?</b>
+<ul><li>Yes! Each year that you choose to participate with Dance Marathon, you will need to create a fundraising page. Additionally, this year, each individual that registers to fundraise will need to create a Classy account.</li></ul>
+<b>2. What should my billing statement list as the donation charge after I donate online?</b>
+<ul><li>SHANDS DEVELOPMENT ONL GAINESVILLE FL</li></ul>
+
+<p>If you have any further questions, please contact sgoldrich@floridadm.org.</p>
+
 
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>

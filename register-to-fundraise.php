@@ -41,19 +41,19 @@ include("includes/navbar.php");
 					<p>Just follow the steps below:</p>
 					<ol>
 						<li>Follow this <a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292" target="_blank">Link</a> to register now!
-							<li> Join a team <li/>
+							<li> Select <b>'Register Now' </b> <li/>
 								<ul>
-									<li>If you are joining as an individual, click <b>‘Individual’ under ‘Role’</b>. </li>
+									<li> If you are joining as an individual, click <b>‘As an Individual’</b>. </li>
 									<li> If you are joining an organization, click <b>‘Join a Team’ </b>and then find your team.  </li>
 									<ul>
 										<li>If your organization isn’t there, no worries! Click <b>‘Create a Team’</b> and then request that other members of your organization join the team online.</li>
 									</ul> </ul>
-									<li> Next, you will be asked to fill in your information (ex. Name, Email, Fundraising Goal) </li>
-									<li> If desired, you can make a donation to your page.</li>
+									<li> Next, select <b>‘Create an account’</b> and provide the login credentials that you will use to access your fundraising page and then your first and last name. </li>
+									<li> After, you can customize your fundraising page by setting your personal fundraising goal, creating a headline, and uploading a profile photo.</li>
 									<li> From here, you can use the tools on Classy to send emails from a template, track your fundraising and personalize your fundraising page!</li>
 								</ol>
 
-								<p>If you have any questions about Classy contact the Fundraising Overall, Kelsea Henry, at  <a href="mailto:khenry@floridadm.org  ">khenry@floridadm.org  </a></p>
+								<p>If you have any questions about Classy contact the Fundraising & Organization Development Overall Director  <a href="mailto:khenry@floridadm.org  ">khenry@floridadm.org  </a></p>
 
 						   	</div>
 							</div>
