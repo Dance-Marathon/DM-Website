@@ -325,13 +325,13 @@
 
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
 						<h3>Get Involved</h3>
-						
-						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay FTK for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLSd0tnAXVo3Yj-sarrEs3EsrbGhfW70b-Jwlihj8CKCVEQpL-w/viewform>Become a member or renew your membership today.</a></p>
+
+						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay FTK for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/1BmlbhCSrQkvRyYE7S4go5uLMu-Q-xnTQSQHQXKc5VnE>Become a member or renew your membership today.</a></p>
 						<p>Be sure to like the official page for <a href=https://www.facebook.com/FloridaDMAlumni?fref=ts>Dance Marathon at UF Alumni on Facebook</a> to stay connected with the rest of your Dance Marathon Alumni family.</p>
 
 						<h3>About</h3>
 
-<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $54,925.83 to our final total, exhibiting their continued passion For The Kids.</p> 
+<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $54,925.83 to our final total, exhibiting their continued passion For The Kids.</p>
 <p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 per year and offers a variety of benefits.</p>
 
 				      <h3>Benefits</h3>
@@ -344,7 +344,7 @@
 						<li>Receive fundraising incentives at the Event</li>
 						<li>Miracle Meal on the Sunday of the Event</li>
 						<li>Discounted ticket to the Miracle Gala</li>
-						<li>Newsletters keeping you up-to-date on DM at UF and the DMA</li>	
+						<li>Newsletters keeping you up-to-date on DM at UF and the DMA</li>
 					  </ul>
 					  <h3>Newsletter</h3>
 					  <a href=https://mailchi.mp/bf6e1d1057d2/p323tlkwcp-1756285?e=57dffe65da>Link to November's Newsletter</a>
