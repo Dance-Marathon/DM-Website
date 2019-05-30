@@ -89,7 +89,7 @@ include("includes/navbar.php");
             <li>Input your information and create a new organization.</li>
             <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing organization team.</li>
           </ol>
-            <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Shayna Goldrich, at <a href=mailto:sgoldrich@floridadm.org>sgoldrich@floridadm.org</a> to inform her you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
+            <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Kelsea Henry, at <a href=mailto:khenry@floridadm.org>khenry@floridadm.org</a> to inform her you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
 
           </div>
         </div>

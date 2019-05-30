@@ -66,7 +66,7 @@ DMA MEMBERS PAGE
       </p>
 
 
-      <p>If you have any questions, please contact our Sponsorships Overall Director, Robby Mijares, at <a href="mailto:rmijares@floridadm.org">rmijares@floridadm.org</a></p>
+      <p>If you have any questions, please contact our Sponsorships Overall Director, Katherine Dubina, at <a href="mailto:kdubina@floridadm.org">kdubina@floridadm.org</a></p>
 
 
 

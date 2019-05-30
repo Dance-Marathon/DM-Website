@@ -57,7 +57,7 @@
 					<li> Kirstyn’s Krew 2.62 hour fundraising and awareness push  </li>
 					</ul>
 
-					<p> Please email Becca Petty, Recruitment Overall Director, at <a href=mailto:rpetty@floridadm.org>rpetty@floridadm.org</a> with any questions! </p>
+					<p> Please email Stella Matic, Recruitment Overall Director, at <a href=mailto:smatic@floridadm.org>smatic@floridadm.org</a> with any questions! </p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
 					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2> -->
@@ -115,7 +115,7 @@
 							</div>
 						</div> -->
 
-        <!-- <p>Please email our Membership Manager, Scout Farrow, at <a href="mailto:sfarrow@floridadm.org">sfarrow@floridadm.org</a>,</p> if you have any additional questions! -->
+        <!-- <p>Please email our Membership Manager, Brian Greenfield, at <a href="mailto:bgreenfield@floridadm.org">bgreenfield@floridadm.org</a>,</p> if you have any additional questions! -->
       <?php } else { ?>
     <!-- <p class="alert alert-info"><b>Note:</b> Captain applications are closed.</p>
         <p>Please direct questions to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p> -->

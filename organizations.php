@@ -420,7 +420,7 @@ usort($greek_organizations, 'compareAlphabetically');
   		<?php if ($status == "open") { ?>
      <h3>Organizations</h3>
 		  <p>Over a hundred Organizations at the University of Florida participate in Dance Marathon every year!</p>
-      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Becca Petty at <a href=mailto:rpetty@floridadm.org>rpetty@floridadm.org</a></p>
+      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall Stella Matic at <a href=mailto:smatic@floridadm.org>smatic@floridadm.org</a></p>
       <p>Below are the Organizations currently involved in Dance Marathon at UF 2019:</p>
 
       <table class="table table-bordered table-middle">

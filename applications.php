@@ -38,7 +38,7 @@
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
 					<p> 2019 Captain and Emerging Leader Applications are now closed. </p>
-					<p> If you're still interested in getting involved, please email Scout Farrow, Membership Manager at <a href="mailto:sfarrow@floridadm.org">sfarrow@floridadm.org</a>! </p>
+					<p> If you're still interested in getting involved, please email Brian Greenfield, Membership Manager at <a href="mailto:bgreenfield@floridadm.org">bgreenfield@floridadm.org</a>! </p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
 					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2> -->
@@ -96,7 +96,7 @@
 							</div>
 						</div> -->
 
-        <!-- <p>Please email our Membership Manager, Scout Farrow, at <a href="mailto:sfarrow@floridadm.org">sfarrow@floridadm.org</a>,</p> if you have any additional questions! -->
+        <!-- <p>Please email our Membership Manager, Brian Greenfield, at <a href="mailto:sfarrow@floridadm.org">sfarrow@floridadm.org</a>,</p> if you have any additional questions! -->
       <?php } else { ?>
     <!-- <p class="alert alert-info"><b>Note:</b> Captain applications are closed.</p>
         <p>Please direct questions to Jenna Baxter, current Internal Communications Overall Director at <a href="mailto:jbaxter@floridadm.org">jbaxter@floridadm.org</a>.</p> -->
