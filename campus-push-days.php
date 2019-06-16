@@ -60,7 +60,8 @@
   			<li> 26.2 hour fundraising campaign involving Dance Marathon at the University of Florida beginning in the morning at 8:00am and ending the subsequent day at 10:12 am. </li>
   			</ul>
 
-  			<h2>Multiplying Miracles</h2>
+			<!-- Not needed anymore -->
+  			<!-- <h2>Multiplying Miracles</h2>
 
 
   			Why
@@ -85,8 +86,8 @@
 
   			<ul>
   				<li>Specific campaign that falls during the final days of “money turn-in” the time period during which organizations have their final fundraising push to secure more dancer spots.  </li>
-  			</ul>
-  			<p>
+  			</ul> -->
+  			<p> 
 
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
