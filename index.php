@@ -211,9 +211,10 @@
 
 
 
-      <p style="padding-top:0;">Welcome to the online home of <i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i><br/> DM at UF is the most successful student-run philanthropy in the southeastern United States <br/> and just celebrated its 25th year. This year, DM at UF raised a historic <i style="color:#617ba6;"><b>$3,230,025.23</b></i>!<br/>Join us in 2020 as we continue to make bigger and better miracles <ii style="color:#f79b63;">
+      <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated its 25th year by raising a historic <i style="color:#617ba6;"><b>$3,230,025.23</b></i>!<br/>Join us in 2020 as we continue to make bigger and better miracles <ii style="color:#f79b63;">
         <b> For The Kids!</b></i></br> <i  >
-           <a href="/blog" style="color:#617ba6;"> <b>Keep up with everything DM on our offical DM at UF blog</b></a>
+           <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
+</b></a>
 </i></p>
 
 
@@ -227,7 +228,7 @@
       <div class="col-md-3">
         <i class="fa icon-foot"></i>
         <h3>Our Story</h3>
-        <p>DM at UF is one of the first five founding Dance Marathon programs in the nation and since our start, we have raised more than $15.2 million for the kids at UF Health Shands Children’s Hospital, our local CMN hospital. Everything we do is For The Kids!</p>
+        <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $21.5 million For The Kids at UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
         <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
       </div>
       <div class="col-md-3">
@@ -248,13 +249,13 @@
       <div class="col-md-3">
         <i class="fa fa-mobile" style="font-size: 52px; line-height: 40px;"></i>
         <h3>DM App</h3>
-        <p>Get the latest DM updates, learn about our Miracle Children, and more with our new DM app!</p>
+        <p>Get the latest DM updates, learn about our cause, and more with our new DM app!</p>
         <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
       </div>
       <div class="col-md-3">
         <i class="fa fa-heart"></i>
         <h3>Miracle Families</h3>
-        <p>Take a moment to meet the heart and soul of our philanthropy. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
+        <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
         <p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
       </div>
     </div>
@@ -277,7 +278,7 @@
       <div class="col-md-6">
         <br><br><br>
         <h3>Many Places, One Common Cause</h3>
-        <p>Dance Marathon at the University of Florida is fortunate to be a piece of a larger international movement. Hundreds of Dance Marathon throughout North America raise funds and awareness for Children’s Miracle Network hospitals. UF Health Shands Children’s Hospital is lucky enough to receive support from five Dance Marathons in the region, allowing it to make more miracles each and every day.</p>
+        <p>Dance Marathon at the University of Florida is one piece of a larger international movement of students fighting for a future without childhood illness. Hundreds of Dance Marathon programs throughout North America raise funds and awareness for Children’s Miracle Network Hospitals. UF Health Shands Children’s Hospital receives support from three Dance Marathon programs in the region, allowing it to make more miracles each and every day.</p>
         <!--
         <div class="container-fluid" style="padding-top:3em;">
           <div class="row">

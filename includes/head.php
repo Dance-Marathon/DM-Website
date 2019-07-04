@@ -5,21 +5,21 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="author" content="">
-        <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/favicon.ico">
-        <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/favicon.ico">
-        <link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
-        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.ico" sizes="192x192">
-        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.ico" sizes="160x160">
-        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.ico" sizes="96x96">
-        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.ico" sizes="16x16">
-        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.ico" sizes="32x32">
+        <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/favicon.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/favicon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/favicon.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicons/favicon.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/favicon.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicons/favicon.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicons/favicon.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/favicon.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/favicon.png">
+        <link rel="shortcut icon" href="/assets/images/favicons/favicon.png">
+        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.png" sizes="160x160">
+        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.png" sizes="32x32">
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/assets/images/favicons/mstile-144x144.png">
         <meta name="msapplication-config" content="/assets/images/favicons/browserconfig.xml">

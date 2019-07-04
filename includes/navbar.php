@@ -24,7 +24,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			  </button>
-			  <a class="navbar-brand" href="/"><img src="/assets/images/logo.png" alt="logo" height="40" width="34"></a>
+			  <a class="navbar-brand" href="/"><img src="/assets/images/secondary_white.png" alt="logo" height="40" width="34"></a>
 			</div>
 			<div class="navbar-collapse collapse">
 			  <ul class="sf-menu navbar-nav navbar-left">
@@ -89,7 +89,7 @@
 				<li <?php echo ($parent == 'fundraising') ? "class='open'" : ""; ?>>
 					<a href="/register-to-fundraise" class="dropdown-toggle">Fundraising</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href ="/campus-push-days">Campus Push Days</a></li>
+						<li><a href ="/campus-push-days">Transform Today</a></li>
 						<li><a href ="/classy">Classy</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
