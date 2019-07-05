@@ -74,7 +74,7 @@ DMA MEMBERS PAGE
  <div class="col-md-8">
 
 
-    <h2>Our 2018 Sponsors</h2>
+    <h2>Our 2019 Sponsors</h2>
     <hr>
       <div class="sponsor-section">
         <div class="row">

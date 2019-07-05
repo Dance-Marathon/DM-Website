@@ -141,6 +141,10 @@
               <td>2018</td>
               <td>$3,026,420.19</td>
             </tr>
+            <tr>
+              <td>2019</td>
+              <td>$3,230,025.23</td>
+            </tr>
           </tbody>
         </table>
       <?php } else { echo 'This page is currently closed.'; } ?>
