@@ -24,7 +24,7 @@
         <div class="col-md-3">
         <div class="sub-nav">
           <ul>
-            <li><a href="/campus-push-days">Campus Push Days</a></li>
+            <li><a href="/campus-push-days">Transform Today</a></li>
 						<li><a href="/classy">Classy</a></li>
 						<li><a class="active">Employee Matching</a></li>
             <li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
@@ -99,12 +99,12 @@
         </ul>
       <p>
         <strong>
-          * PLEASE NOTE: Notify Shayna Goldrich at <a href="mailto:sgoldrich@floridadm.org">sgoldrich@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
+          PLEASE NOTE: Notify Shayna Goldrich at <a href="mailto:sgoldrich@floridadm.org">sgoldrich@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
         </strong>
       </p>
       <p>
         <strong>
-          ** Important - Please do not fill out any forms sent with checks; instead turn them in directly into the Finance Manager reachable at <a href="mailto:sgoldrich@floridadm.org">sgoldrich@floridadm.org</a>.
+          Important - Please do not fill out any forms sent with checks; instead turn them in directly into the Finance Manager reachable at <a href="mailto:sgoldrich@floridadm.org">sgoldrich@floridadm.org</a>.
         </strong>
       </p>
 

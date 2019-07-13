@@ -40,25 +40,20 @@
 				<h2>Transform Today</h2>
 
 
-  			Why
-
-  			<ul>
-
-  			<li>For 26.2 hours, Dance Marathon at the University of Florida unites to shatter records during this state-wide fundraising campaign, bringing together high school and college students across the state. </li>
-  			</ul>
+  			<h4><i>Why</i></h4>
 
 
-  			Around When?
+  			For 26.2 hours, Dance Marathon at the University of Florida unites to shatter records during this state-wide fundraising campaign, bringing together high school and college students across the state.
+  			
 
-  			<ul>
-  			<li> It’s a surprise! Every year this event occurs without public knowledge and motivates fundraising through a 26.2 hour campaign. </li>
-  			</ul>
 
-  			What
+  			<h4><i>When</i></h2>
 
-  			<ul>
-  			<li> 26.2 hour fundraising campaign involving Dance Marathon at the University of Florida beginning in the morning at 8:00am and ending the subsequent day at 10:12 am. </li>
-  			</ul>
+			 It’s a surprise! Every year this event occurs without public knowledge and motivates fundraising through a 26.2 hour campaign. </li>
+  			
+  			<h4><i>What</i></h4>
+
+			26.2 hour fundraising campaign involving Dance Marathon at the University of Florida beginning in the morning at 8:00am and ending the subsequent day at 10:12 am.
 
 			<!-- Not needed anymore -->
   			<!-- <h2>Multiplying Miracles</h2>

@@ -54,12 +54,12 @@ include("includes/navbar.php");
             <h3>What is an Ambassador?</h3>
             <p>Organization Ambassadors will serve as a liaison between Dance Marathon and their respective organization.</p>
 
-            <p>Organization Ambassadors will attend weekly meetings to obtain information to be relayed to their organizations and work on professional and personal development. Each organization will be assigned their own Fundraising and Organization Development Captain to remain in contact throughout the year to work on organization involvement and fundraising.</P>
+            <p>Organization Ambassadors will attend weekly meetings to receive information to relay to their organizations and to work on professional and personal development. Each Organizations will be assigned their own Fundraising and Organization Development Captain to work with on organization involvement and fundraising throughout the year.</P>
 
               <h3>Responsibilities:</h3>
               <ul>
                 <li>Recruit and motivate members of their organization to fundraise and participate</li>
-                <li>Encourage members to apply for involvement within Dance Marathon</li>
+                <li>Encourage members to get involved with Dance Marathon</li>
                 <li>Inform all organization members of events, registration dates, fundraising incentives, etc.</li>
                 <li>Work with the Family Relations Team to engage with their respective Miracle Family throughout the year</li>
                 <li>Host a minimum of one Hospitality Night or fundraising event</li>
@@ -70,7 +70,7 @@ include("includes/navbar.php");
 
               <h3>Responsibilities during the 26.2-hour event:</h3>
               <ul>
-                <li>Help assign Dancer buddies prior to the event for each Dancer during the event</li>
+                <li>Help assign Dancer buddies prior to the Event for each Dancer</li>
                 <li>Work with their Fundraising and Organization Development Captain to encourage and help Dancers fundraise at the event</li>
                 <li>Be available for Dancers in case of emergency</li>
               </ul>

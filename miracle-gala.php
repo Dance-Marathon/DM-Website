@@ -36,7 +36,8 @@
 
 				<h2>Miracle Gala</h2>
 
-<p>Join us at the Touchdown Terrace on March 30, 2019 for our 3rd annual Miracle Gala. What better way to celebrate Dance Marathon at UF weekend than by enjoying an evening of fine dining, dancing, and recognizing all of the accomplishments of Dance Marathon at the University of Florida and the doctors at UF Health Shands Children’s Hospital? For more information, please contact the Outreach Overall Director, Matt Migliazza, at <a href="mailto:mmigliazza@floridadm.org">mmigliazza@floridadm.org</a>. We look forward to seeing you there!</p>
+<p>Each year, we invite guests to join us for an evening of fine dining and dancing to recognize all of the accomplishments of Dance Marathon at UF and the doctors at UF Health Shands Children’s Hospital. The Miracle Gala is a beautiful night to celebrate our movement and the incredible strides we make each year!</p>
+ <p>For more information, please contact the Outreach Overall Director, Matt Migliazza, at <a href="mailto:mmigliazza@floridadm.org">mmigliazza@floridadm.org</a>. We look forward to seeing you there!</p>
 
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>

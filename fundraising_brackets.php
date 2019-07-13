@@ -137,7 +137,7 @@ include("includes/navbar.php");
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="/campus-push-days">Campus Push Days</a></li>
+            <li><a href="/campus-push-days">Transform Today</a></li>
 						<li><a href="/classy">Classy</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a class="active">Fundraising Brackets</a></li>
@@ -148,27 +148,32 @@ include("includes/navbar.php");
 			</div>
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-     <h2 class="text-center">2019 Fundraising Brackets</h2>
-     <h3 class="text-center">Fundraising Brackets will lock on Feburary 20th, 2019</h3>
+     <h2 class="text-center">Fundraising Brackets</h2>
+     <p class="text-center">About a month prior to the Event, all Organizations participating in Dance Marathon 2020 will be placed into Fundraising Brackets based on their current amount raised. Fundraising Brackets determine the number of Dancer spots allotted to each Organization. Organizations who have raised the most money will receive the greatest number of Dancer spots.</p>
+
 
   <script>
+  /**
+        use this to display the fundrasing brackets
+   */
+
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
+  //  var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
 
-   // Make sure it is public or set to Anyone with link can view
-   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+  //  // Make sure it is public or set to Anyone with link can view
+  //  var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
 
-   $.getJSON(url, function(data) {
+  //  $.getJSON(url, function(data) {
 
-    var entry = data.feed.entry;
+  //   var entry = data.feed.entry;
 
-    $(entry).each(function(){
-      if (!(this.gsx$red.$t.includes('Red')) && !(this.gsx$red.$t.includes('32 Dancers'))) {
-          $('.red-bracket').append('<p>'+this.gsx$red.$t+'</p>');
-        }
-    });
+  //   $(entry).each(function(){
+  //     if (!(this.gsx$red.$t.includes('Red')) && !(this.gsx$red.$t.includes('32 Dancers'))) {
+  //         $('.red-bracket').append('<p>'+this.gsx$red.$t+'</p>');
+  //       }
+  //   });
 
-   });
+  //  });
   </script>
 
     <script>
@@ -184,6 +189,8 @@ include("includes/navbar.php");
    //Link here: https://docs.google.com/spreadsheets/d/1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ/edit?usp=sharing assuming you can still view
    //Once you do that. You need to make sure you file>publish to web (I choose Embeded but idk if it matters)
    //THEN you just copy and paste the new spreadsheetID into all the variables and you're good to go fam
+
+   //Thank you for your insight Ryan. I commented out some stuff above and below that can be used again when the fundrasing brackets are set.
 
 
    // Make sure it is public or set to Anyone with link can view
@@ -312,8 +319,10 @@ include("includes/navbar.php");
   </script>
 
 
+<!-- this is also needed -->
 
-<div class="container-fluid">
+
+<!-- <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
         <div id="red-bracket-wrapper">
@@ -432,7 +441,7 @@ include("includes/navbar.php");
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 

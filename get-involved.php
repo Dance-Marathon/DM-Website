@@ -38,7 +38,7 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-			 <p>Take a look at all the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Dancer, Emerging Leader, Ambassador, FTKrew member or fundraiser, this is your hub for all things involvement! There are so many ways to give back through DM at UF, and we would love for you to join our DM family to help make miracles For The Kids.</p>
+			 <p>Take a look at all of the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Dancer, Emerging Leader, Ambassador, Fundraiser, or member of Kirstyn’s Krew, this page is your path to getting involved! There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and help us make miracles For The Kids.</p>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
@@ -63,24 +63,25 @@
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
 							<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1">Start Here</a>
+								<a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1"></a>
 							</h4>
 						</div>
 						<div id="a1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q1">
 							<div class="panel-body">
 								<h4>Register To Fundraise</h4>
-								 Registering to be a fundraiser is the first step in becoming a part of the Dance Marathon family. Creating a fundraising page is quick and easy! Go to the Register to Fundraise page and find out how.
+								Registering to fundraise is the first step to joining the Dance Marathon movement. Creating a fundraising page is quick and easy! Go to the Register to Fundraise page for instructions on how to sign up.
+
 
 								<h4>Get Involved with the Dance Marathon Family</h4>
-								<p>If you’d like to get involved and take on a leadership role within our organization, check out the tabs to the left! </p>
+								<p>If you would like to get involved with our organization, check out the list of positions below!</p>
 
-									   <ul><a href="/organizations"><b>Organization:</b></a> 	Student organizations that are currently involved in fundraising for our cause. </ul>
-                     <ul><a href="/dancers"><b>Dancer:</b></a> Individuals who stand on their feet for 26.2 hours during our event in March to raise funds and awareness for the kids at UF Health Shands Children’s Hospital.</ul>
-										 <ul><a href="/ambassadors"><b>Ambassador:</b> </a>  An ambassador is the representative from an organization participating in Dance Marathon whose primary responsibility is to convey information to the members of his or her organization and to motivate them throughout the year.</ul>
-										 <ul><a href="/emerging-leaders"><b>Emerging Leader:</b> </a> Members of our new Emerging Leaders Program who work alongside the Recruitment Team, tackling and brainstorming ideas to ensure a successful future of our program.</ul>
-                     <ul><a href="/captain-teams"><b>Captain:</b> </a> Member of 1 in 15 teams who take on their respective yearlong responsibilities to expand and promote our organization. </ul>
+									   <ul><a href="/organizations"><b>Organization:</b></a> 	Student Organizations work year-round to support our cause.</ul>
+                     <ul><a href="/dancers"><b>Dancer:</b></a> Dancers stand on their feet for 26.2 hours during our Event in March to raise funds and awareness For The Kids at UF Health Shands Children’s Hospital.</ul>
+										 <ul><a href="/ambassadors"><b>Ambassador:</b> </a>  Ambassadors serve as representatives for their Organizations. Their primary responsibility is to relay information to the members of their respective Organizations and to motivate them throughout the year.</ul>
+										 <ul><a href="/emerging-leaders"><b>Emerging Leader:</b> </a> Members of our Emerging Leaders Program work alongside the Recruitment Team, providing support to Captain Teams and brainstorming new ideas to ensure a successful future for our organization.</ul>
+                     <ul><a href="/captain-teams"><b>Captain:</b> </a> Captains belong to 1 of 15 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
                      <ul><a href="/captain-teams"><b>Assistant Directors:</b> </a> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain teams.</ul>
-                     <ul><a href="/meet-the-overalls"><b>Overall Directors:</b> </a> The 20 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain teams to oversee, expand and promote our organization. </ul>
+                     <ul><a href="/meet-the-overalls"><b>Overall Directors:</b> </a> The 20 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain teams to oversee, expand, and promote our organization.</ul>
 
 							 <table style="width:100%">
 									<tr>
@@ -95,7 +96,7 @@
 
 
              </div>
-						 <p> <b>Want to know more about DM?</b> Submit your information<a href="https://docs.google.com/forms/d/e/1FAIpQLSc1mXWGc9rfL4GL6375p7HDqFhBrqa_GNQENMN9gS-l4tCwdw/viewform"> here</a></p>
+						 <p> <b>Want to know more about DM?</b> Submit your information<a href="https://docs.google.com/forms/d/e/1FAIpQLSc1mXWGc9rfL4GL6375p7HDqFhBrqa_GNQENMN9gS-l4tCwdw/viewform"> here</a> and we will reach out to you!</p>
 
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>

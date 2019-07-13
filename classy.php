@@ -24,7 +24,7 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="/campus-push-days">Campus Push Days</a></li>
+						<li><a href="/campus-push-days">Transform Today</a></li>
 						<li><a class="active">Classy</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
@@ -52,7 +52,7 @@
 <b>2. What should my billing statement list as the donation charge after I donate online?</b>
 <ul><li>SHANDS DEVELOPMENT ONL GAINESVILLE FL</li></ul>
 
-<p>If you have any further questions, please contact sgoldrich@floridadm.org.</p>
+<p>If you have any further questions, please contact <a href="sgoldrich@floridadm.org">sgoldrich@floridadm.org</a>.</p>
 
 
       <?php } else { echo 'This page is currently closed.'; } ?>

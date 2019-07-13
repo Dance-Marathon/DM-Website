@@ -37,7 +37,7 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<p> 2019 Captain and Emerging Leader Applications are now closed. </p>
+					<p>2020 Captain and Emerging Leader Applications will open in August.</p>
 					<p> If you're still interested in getting involved, please email Brian Greenfield, Membership Manager at <a href="mailto:bgreenfield@floridadm.org">bgreenfield@floridadm.org</a>! </p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>

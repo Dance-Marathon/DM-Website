@@ -57,7 +57,7 @@ include("includes/navbar.php");
             <h2>Register To Dance</h2>
             <p></p>
             <p>Dance Marathon at the University of Florida is an annual 26.2 hour event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, more than 800 students stay awake and on their feet to raise money and awareness for Children's Miracle Network Hospitals.</p>
-            <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the 26.2-hour event, you will learn our Linedance, enjoy live entertainment, eat yummy food, and hear stories from our Miracle Families.</p>
+            <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the 26.2-hour event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p><a href="https://ufl.qualtrics.com/jfe/form/SV_cuUdQhI6008vojP" target="_blank">Click Here to Register to Dance</a></p>
             <p>Please email Claire Overholt, Dancer Relations Overall Director, at <a href="mailto:coverholt@floridadm.org">coverholt@floridadm.org </a> with any questions!</p>
           </div>
@@ -68,7 +68,7 @@ include("includes/navbar.php");
               <li>Stay hydrated! Be sure to have bring a water bottle with you to the event to ensure you are drinking enough water. Water and Gatorade will be provided at the event as well.</li>
               <li>Stay energized! Take advantage of the meals provided by our sponsors throughout the event.</li>
               <li>Take time to stretch during the event so your muscles don't get as tight and sore.</li>
-              <li>Stay engaged! The more you participate in the activities, entertainment and line dance throughout the event, the more likely you are to maintain a positive mindset.</li>
+              <li>Stay engaged! Participating in the activities, entertainment, and Linedance throughout the Event will help you stay motivated and make your experience more enjoyable.</li>
             </ul>
             <h3>Packing List</h3>
             <ul>
@@ -159,7 +159,7 @@ include("includes/navbar.php");
                 </div>
                 <div id="a3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q3">
                   <div class="panel-body">
-                    Yes, you must be enrolled as a student during the spring semester in which Dance Marathon takes place. This also applies to those registered with UF who are taking an internship in place of classes.
+                  Yes, you must be enrolled as a student during the Spring semester in which Dance Marathon takes place. This also applies to those registered with UF who are doing an internship in place of classes.
                   </div>
                 </div>
               </div>
@@ -244,7 +244,7 @@ include("includes/navbar.php");
                 </div>
                 <div id="a13" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q13">
                   <div class="panel-body">
-                    The money they paid for the registration fee will be allocated back to their organization’s total.
+                    The money paid for the registration fee goes toward their Organization’s total amount raised.
                   </div>
                 </div>
               </div>

@@ -36,8 +36,8 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
- 					<h2> Registration </h2>
-					 <h4><a href="https://ufl.qualtrics.com/jfe/form/SV_9XLGhNUCZMnpK8R" target="_blank">Click Here to Register for Kirstyn's Krew</a></h4>
+ 					<!--<h2> Registration </h2>-->
+					 <!-- <h4><a href="https://ufl.qualtrics.com/jfe/form/SV_9XLGhNUCZMnpK8R" target="_blank">Click Here to Register for Kirstyn's Krew</a></h4>
 					 <b> Registration will be open from March 11-15 </b>
 					 <h3>Kirstyn's Krew </h3>
 					<p> Kirstyn’s Krew is a new program in honor of one of Miracle Children, Kirstyn Tripp, who lost her battle to childhood illness last year. The purpose of Kirstyn’s Krew is for students to experience Dance Marathon at UF 2019 and learn more about our fight to end childhood illness. As a member of Kirstyn’s Krew, you will earn 5-10 hours of community service for your support of the children at UF Health Shands Children’s Hospital.</p>
@@ -55,8 +55,10 @@
 					<li> 2019 Linedance teaching  </li>
 					<li> Dance Marathon Captain Team Question and Answer  </li>
 					<li> Kirstyn’s Krew 2.62 hour fundraising and awareness push  </li>
-					</ul>
-
+					</ul> -->
+					<h3>Kristyn's Krew</h3>
+					<p>Kirstyn’s Krew is a new program in honor of Kirstyn Tripp, our Miracle Child who lost her battle to childhood illness in 2018. The purpose of Kirstyn’s Krew is for students to experience Dance Marathon at UF 2020 from a different perspective and learn more about our fight to end childhood illness. As a member of Kirstyn’s Krew, you will earn 5-10 hours of community service for your support of the children at UF Health Shands Children’s Hospital.</p>
+					<p>Kirstyn’s Krew will consist of both required and optional events over the course of our 26.2-hour event in the Spring.</p>
 					<p> Please email Stella Matic, Recruitment Overall Director, at <a href=mailto:smatic@floridadm.org>smatic@floridadm.org</a> with any questions! </p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>

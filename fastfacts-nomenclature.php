@@ -50,10 +50,9 @@ include("includes/navbar.php");
           <div role="tabpanel" class="tab-pane fade in active" id="fastfacts">
                     <h3>Where the Money Goes</h3>
         <p>
-          All of the funds raised go to UF Health Shands Children's Hospital, our local Children Miracle Network hospital. Of these funds, most recently, <b>48%</b> goes to research, <b>10%</b> to education and <b>42%</b> to patient care.
-          <br />
-          How much of the money goes to UF Health Shands Children’s Hospital: <b>100% of total raised</b>
+        <b>100%</b> of the funds raised by DM at UF go directly to UF Health Shands Children's Hospital, our local Children Miracle Network hospital. Of these funds, most recently, <b>48%</b> goes to research, <b>10%</b> to education and <b>42%</b> to patient care. 
         </p>
+        <p>Patient care funding provides necessities such as bandages and patient gowns, as well as life-saving equipment and hospital improvements including the recent expansion of the Neonatal Intensive Care Unit. These funds also provide sleeper sofas for parents, playrooms for children, and Child Life programs, in an effort to make hospital stays more enjoyable for children and their families. Research funding helps our doctors find solutions for incurable diseases such as diabetes, cystic fibrosis, and cancer, and it allows them to develop new technology and enhanced processes that improve the daily lives of pediatric patients. Education funding supports programs such as child life diversion therapy and goes toward raising funds and awareness for the Children’s Miracle Network.</p>
 
         <h3>Length of Dance Marathon at UF</h3>
         <p>

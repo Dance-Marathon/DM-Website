@@ -37,7 +37,7 @@
 				<h2>Warrior Run</h2>
 
   			<p>
-			  On February 3rd, get ready to test your strength and agility as you run, crawl, climb, and jump your way to the finish to see if you have what it takes to be a Miracle Warrior!
+			  In the Spring semester, get ready to test your strength and agility as you run, crawl, climb, and jump your way to the finish to see if you have what it takes to be a Miracle Warrior!
 
 				</p>
 			<p>Registration for the Warrior Run will open in January. Check back soon for the ticket link, or email Ashley Knoblauch, Productions Overall Director, at <a href="mailto:aknoblauch@floridadm.org">aknoblauch@floridadm.org</a> for more information!</p>

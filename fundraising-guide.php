@@ -24,7 +24,7 @@
 		<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						<li><a href="/campus-push-days">Campus Push Days</a></li>
+						<li><a href="/campus-push-days">Transform Today</a></li>
 						<li><a href="/classy">Classy</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
@@ -35,7 +35,7 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-			 <p>Take a look at all the different ways you can fundraise with Dance Marathon at UF. Whether you ask friends and family to support you, showcase your passion on social media, participate in canning, or volunteer your time for donations, there are many ways to fundraise! There are so many ways fundraise for DM at UF, and we would love for you to read below about all the options out there!</p>
+			 <p>Take a look at all the different ways you can fundraise with Dance Marathon at UF! Whether you ask friends and family to support you, showcase your passion on social media, participate in canning, or volunteer your time for donations, there are so many ways to fundraise for DM at UF. Read more about all of these options below!</p>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
@@ -60,7 +60,7 @@
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
 							<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1">Start Here</a>
+								<a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="true" aria-controls="a1"></a>
 							</h4>
 						</div>
 						<div id="a1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="q1">

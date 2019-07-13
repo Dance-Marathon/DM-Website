@@ -347,8 +347,7 @@
 						<li>Newsletters keeping you up-to-date on DM at UF and the DMA</li>
 					  </ul>
 					  <h3>Newsletter</h3>
-					  <a href=https://mailchi.mp/bf6e1d1057d2/p323tlkwcp-1756285?e=57dffe65da>Link to November's Newsletter</a>
-				      <p></p>
+				      <p>Each Captain Team sends monthly newsletters to their team’s Alumni, with information and updates on what’s happening with their team and the organization overall. If you would like to receive your team’s newsletter, please contact the current Overall Director of your respective former team.</p>
           	</div>
 
           	<div role="tabpanel" class="tab-pane fade" id="schools">
