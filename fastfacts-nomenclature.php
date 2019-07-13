@@ -72,7 +72,7 @@ include("includes/navbar.php");
 
         <h3>Participants</h3>
         <p>
-          Number of Dancers in 2018: <b>825</b> (maximum capacity)
+          Number of Dancers in 2019: <b>825</b> (maximum capacity)
           <br/>
           Number of Captains: <b>531</b>
           <br/>
@@ -95,9 +95,9 @@ include("includes/navbar.php");
           <br/>
           <b>4,643</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>
-          Amount raised in 2018: <b>$3,026,420.19</b>
+          Amount raised in 2019: <b>$3,230,025.23</b>
           <br/>
-          Total amount raised in past 24 years: more than <b>18.2 million dollars</b>
+          Total amount raised in past 25 years: more than <b>21.5 million dollars</b>
           <br/>
         </p>
           </div>
