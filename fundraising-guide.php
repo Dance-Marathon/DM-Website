@@ -36,6 +36,7 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 			 <p>Take a look at all the different ways you can fundraise with Dance Marathon at UF! Whether you ask friends and family to support you, showcase your passion on social media, participate in canning, or volunteer your time for donations, there are so many ways to fundraise for DM at UF. Read more about all of these options below!</p>
+			 <p> Check out our fundraising guide <a href="assets/PDFs/FundraisingKit.pdf" target="_blank">here.</a>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
@@ -95,7 +96,7 @@
 								 <b><li>How to do it?</b> - First, obtain specially designed canning buckets from our Fundraising team (contact <a href="mailto:sgoldrich@floridadm.org  ">sgoldrich@floridadm.org </a> for further informaiton). Email, call, or go inside a local business in your hometown and request to speak to the General Manager regarding canning donations. They will be sure and inform you of all the necessary regulations, and allow you to coordinate a time that works for both you and the business. Be sure and show up promptly and dressed in Dance Marathon at UF attire to help spread your message! From there, talk to customers as they leave the business about donating to your cause. No donation is too small and every amount helps make miracles For The Kids! </li>
 								 </ul>
 
-								 <a href="assets/PDFs/Incentive-Levels-2018.pdf" target="_blank"> <h4>Fundraising Levels</h4> </a>
+								 <!--<a href="assets/PDFs/Incentive-Levels-2018.pdf" target="_blank"> <h4>Fundraising Levels</h4> </a>-->
 
 							 <table style="width:100%">
 									<tr>
