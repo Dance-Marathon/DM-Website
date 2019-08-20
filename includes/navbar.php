@@ -3,7 +3,7 @@
 		<style>
 			@media (min-width: 1551px) {
 			  .container-fluid {
-			    max-width: 75%;
+			    max-width: 85%;
 			  }
 			}
 			@media (max-width: 1550px) {
@@ -104,6 +104,7 @@
 <!--SPACEEEEEEEE ---->
 
 				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">Store</a></li>
+				<li><a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292/fundraiser/create?amount=NaN" target="_blank">Register to Fundraise</a></li>
 
 				 <!--
 				 <li><a href="/blog/">Blog</a></li>
