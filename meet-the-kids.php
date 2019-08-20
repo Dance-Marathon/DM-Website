@@ -21,11 +21,6 @@
             'description' => 'Alyssa was born at 26 weeks weighing 1 lb 4 oz, 20 yrs ago (1996).  Due to the prematurity she developed hydrocephalus which has led to multiple neurological problems, and emergency surgeries. This has left her  with cerebral palsy and other neurological issues.We call them issues because they have become part of our daily lives and we don not let them stop her.Her last admission was thankfully 3 years ago but we have many clinic appointments with all the wonderful Shands doctors who have kept her alive and stable.  She is also deaf, for which she had a cochlear implant placed in 1999. Today she loves school, riding her bike, swimming and riding horses.',
 						'image' => 'Alyssa M',
             ),
-        array(
-            'name'  => 'Anna Rose',
-            'description' => 'Anna Rose got sick on Jun. 2, 2013. Her family took her to Arnold Palmer Hospital, and she was transported to UF Health Shands Children’s Hospital a couple days later. Anna was in heart failure.She was tested for a possible heart transplant in Feb. 2013 and received her new heart on Mar. 2, 2014. She left the hospital on Mar. 28, 2014.  Anna calls her new heart Prince Toby even though she doesn’t  know anything about her donor.',
-            'image' => 'AnnaRose',
-            ),
 				array(
 		        'name'  => 'Arden T',
 						'description' => 'When I was only three months old, doctors told my mommy and daddy that I needed a heart transplant.  I was sent to UF Health Shands Children’s Hospital where I was put on a ventilator to help keep me alive until my new heart was ready. That machine was purchased with funds from Children’s Miracle Network Hospitals.
@@ -148,12 +143,7 @@
 					  'name' => 'Jenna D.',
 						'description' =>'In may of 2010, Jenna became ill and was admitted to UF Health Shands Children’s Hospital with what would be later diagnosed as gastroparesis and IBS. She has had multiple procedures, surgeries, and lengthy hospital admissions over the several years to help manage her symptoms. Jenna has personally experienced the difference the programs sponsored by Children’s Miracle Network can make in the life of a child that is confined to the hospital.',
 						'image' => 'Jenna D',
-			  	),
-			   	array(
-					  'name' => 'Joseph P.',
-						'description' =>'Joe was born 2 months premature 2 pounds 11 ounces I have neurofibromas, seizures, high blood pressure I had a mild heart attack at the age of 7. And through it all my recovery and progress would not have been made possible with out Dance Marathon and now that I can give back by dancing my self. For the kids.',
-						'image' => 'Joseph',
-			  	),
+			  	),			   	
 			  	array(
 					  'name' => 'Jude and Oliver S.',
 						'description' => 'They were born at 26 weeks gestation (over three months early) and spent the first three months of their lives at the Shands NICU.  Both boys spent time in "giraffe" beds to control their body temperatures, on IV feeds then feeding tubes until they were big enough to begin bottle/nursing, were treated for infections, received blood for anemia.  Oliver additionally underwent a PDA ligation.  That&#39;s a lot of medical treatment, but we were actually really fortunate to not endure some of the more dire situations that micro preemies may experience.  After leaving Shands, we&#39;ve been lucky enough to not need readmission for anything.  At 4.5 years old, the only issues we face are with asthma and some allergies.  Jude and Oliver are both really energetic, curious boys.  They love playing pretend, building with their Legos, take gymnastics class, and are finishing up their VPK year at St. Michael&#39;s Day School, to begin kindergarten this Fall.',
@@ -352,22 +342,7 @@
             'name' => 'Wyatt T.',
             'description' => 'Wyatt was born with five major heart defects that eventually led to complete heart failure. At 2 months old he had to be placed on the Berlin Heart (mechanical heart) to help sustain him until a donor heart became available. After 217 long days Wyatt received his gift of life. After a total of 276 days ,at the age of 10 and a half months, we were finally able to bring our miracle baby home. He hit the floor running and has not stopped yet.',
             'image' => 'Wyatt',
-            ),
-        array(
-            'name' => 'Zander W.',
-						'description' => 'When Zander was born, he was born at a hospital that didn&#39;t have a NICU, so he had to be transported to a hospital that did, because shortly after birth, he turned blue. When he got to the other hospital, the pediatric cardiologist just happened to be on the floor looking in on another patient. He saw Zander and called for an echocardiogram. Once the test was done, he told the hospital that Zander needed sent to Shands.  Zander was born at 2:03 PM on November 29, 2006, and arrived at Shands at 10:30 PM that same day. Zander got to ride in an airplane when he was only a handful of hours old.
-															Zander was diagnosed with Transposition of The Greater Vessels (TOGV).  A normal heart makes a figure eight, whereas Zander&#39;s heart made two individual circles. When he was a day old, doctors performed two heart Caths because they wanted to give him a fighting chance for surgery. The goal of the heart Caths was to help Zander’s heart mix his blood while it was inside the heart. When he was six days old on December 5, 2006, Zander had his open-heart surgery for TOGV. The doctors had to take the two top ventricles of his heart, off switch them, and then reattach them to his heart in the right spots.  Then, they had to reattach the arteries to the ventricles. They left his chest cavity open while he healed until he was 10 or 11 days old, at which point they closed the chest cavity.  Zander got discharged from Shands on December 18, 2006.
-															On December 30, 2006, Zander had surgery for Pyloric Stenosis. The “Pyloric” sphincter joins your stomach and large intestine. “Stenosis” signifies that the sphincter muscle was constricted. Zander was lucky enough that the doctors were able to use the incisions from the chest tubes to do the stomach surgery. They had to put a camera in to see where they needed to cut on the muscle around the Pyloric so that Zander would be able to eat (or in his case, drink) and not regurgitate shortly afterwards.
-															When Zander was 4-months-old, I took him for his four-month check-up.  His pediatrician was immediately alarmed; he didn&#39;t even say anything to me. He just kept feeling Zander&#39;s head all over. Then, he just kept looking from me to Zander.
-															Until I said, “You can&#39;t tell me that anything is wrong – Zander has to finally going to be able to do tummy time,” the doctor said, “I hope I&#39;m wrong, but I&#39;m going to send him for a CAT Scan.” When Zander was 4-and-a-half-months-old, he had head surgery for Craniosynostosis. His Sagittal Suture (front soft spot) had closed somewhere between birth and four months. The doctors made two small incisions on his head (one on the front and one on the back) to insert a man-made soft spot so that his brain would have room to grow.  When Zander was 5-and-a-half-months-old, he got a special helmet to shape and protect his head. We called it his “Buzz Lightyear” helmet.  He had the helmet until right after his second birthday.
-															In April 2012, Zander got his first set of tubes in his ears for repeated ear infections.
-															On November 20, 2012, Zander had a second head surgery for his Craniosynostosis to fill in the man-made soft spot. This was a week before his 6th birthday.
-															In January 2014, Zander was diagnosed with neuropathy/myopathy, or unexplained leg pain. He hurts after a short distance when walking.  He has a wheelchair for long distance travel. Even though he is in pain, he will run around and play with his friends, or breakdance to his heart’s content. Zander always tells his doctors, “You can&#39;t tell me what I can or can&#39;t do. I am going to do what I want because I want to!” He is very resilient.
-															In August 2014, Zander had a second set of tubes put in his ears, and in November 2015, he had a third set of tubes put in his ears.
-															Zander has ADHD, a form of Dyslexia, and food allergies, as well as seasonal allergies, asthma, Acid reflux and Gas reflux (which means he is in a small percentage of humans who take natural gulps of air during the day), the neuropathy/myopathy, restless leg syndrome, and the repeat ear infections. With all that he has against him, he is one of the strongest, smartest, and loving individuals that you will ever meet. He can brighten any room with just a smile. He loves to dance, run, and play!',
-            'image' => 'Zander W',
             )
-
         );
 ?>
 
