@@ -37,8 +37,11 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<p>2020 Captain and Emerging Leader Applications will open in August.</p>
-					<p> If you're still interested in getting involved, please email Brian Greenfield, Membership Manager at <a href="mailto:bgreenfield@floridadm.org">bgreenfield@floridadm.org</a>! </p>
+					<p>2020 Captain and Emerging Leader Applications will open 12:00 a.m. on Friday, August 23.</p>
+					<p>The online application forms are linked below. In order to be considered for either position, you must complete the online application form, create a Classy personal fundraising page, and pay the $25 application fee. If you are applying to both positions, you only need to pay the application fee once. Instructions on how to to complete both of these items can be found on the front page of either application.</p>
+					<p>The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0HAseSzBiPPvUFL" target="_blank">here</a>. This application will close at 11:59 p.m. on Friday, August 30.</p>
+					<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_9HceOiJ3hlPQcoB" target="_blank">here</a>. This application will close at 11:59 p.m. on Friday, August 30.
+					<p>If you have any questions regarding applications, please reach out to our Operations Manager, Bryan Greenfield, at <a href="mailto:bgreenfield@floridadm.org">bgreenfield@floridadm.org</a>.</p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
 					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2> -->
