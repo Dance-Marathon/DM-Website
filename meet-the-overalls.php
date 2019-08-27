@@ -265,10 +265,11 @@
 	    'motivation' => 'Every time I see the colorful windows of UF Shands Children\'s Hospital, I am reminded of the unimaginable battles that take place within those walls. The brave children who persevere through the hardest of times will forever motivate me and inspire me to continue our fight FTK.',
 	    'image' => 'Megan',
 		),
+		/* Recruitment Overall Spot
 		 array(
-	    'name' => 'Stella Matic',
+	    'name' => '',
 	    'position' => 'Recruitment Overall',
-	    'email' => 'smatic@floridadm.org',
+	    'email' => '@floridadm.org',
 	    'previous_involvement' => 'Emerging Leaders Program, Recruitment Captain',
 	    'major' => 'Sociology',
 	    'hometown' => 'Orlando, FL',
@@ -279,7 +280,7 @@
 	    'motivation' => 'The Miracle Children motivate me everyday to live life to the fullest. They remind me that life is too short to be anything less than happy and that everyday can and should be a good day. They are true warriors that inspire me every single day! ',
 	    'image' => 'Stella',
 		 ),
-
+		 */
 
 		  array(
 		   'name' => 'Katherine Dubina',
