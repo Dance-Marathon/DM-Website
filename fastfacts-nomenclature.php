@@ -52,7 +52,7 @@ include("includes/navbar.php");
         <p>
         <b>100%</b> of the funds raised by DM at UF go directly to UF Health Shands Children's Hospital, our local Children Miracle Network hospital. Of these funds, most recently, <b>48%</b> goes to research, <b>10%</b> to education and <b>42%</b> to patient care. 
         </p>
-        <p>Patient care funding provides necessities such as bandages and patient gowns, as well as life-saving equipment and hospital improvements including the recent expansion of the Neonatal Intensive Care Unit. These funds also provide sleeper sofas for parents, playrooms for children, and Child Life programs, in an effort to make hospital stays more enjoyable for children and their families. Research funding helps our doctors find solutions for incurable diseases such as diabetes, cystic fibrosis, and cancer, and it allows them to develop new technology and enhanced processes that improve the daily lives of pediatric patients. Education funding supports programs such as child life diversion therapy and goes toward raising funds and awareness for the Children’s Miracle Network.</p>
+        <p>Patient care funding provides necessities such as bandages and patient gowns, as well as life-saving equipment and hospital improvements including the recent expansion of the Neonatal Intensive Care Unit. These funds also provide sleeper sofas for parents, playrooms for children, and Child Life programs, in an effort to make hospital stays more enjoyable for children and their families. Research funding helps our doctors find solutions for incurable diseases such as diabetes, cystic fibrosis, and cancer, and it allows them to develop new technology and enhanced processes that improve the daily lives of pediatric patients. Education funding supports programs such as Child Life Diversion therapy and goes toward raising funds and awareness for the Children’s Miracle Network.</p>
 
         <h3>Length of Dance Marathon at UF</h3>
         <p>
@@ -123,7 +123,7 @@ include("includes/navbar.php");
 
         <h3>Motto</h3>
         <p>
-          FTK means “For the Kids”
+          FTK means “For The Kids”
         </p>
 
         <h3>Children and Their Families</h3>
@@ -139,46 +139,46 @@ include("includes/navbar.php");
           Miracle Gator Nation (19+)
         </p>
 
-        <h3>Volunteer Positions</h3>
+        <h3>Positions</h3>
         <ul>
           <li>
             Overall Directors
             <ul>
               <li>Executive Director</li>
-              <li>External Manager</li>
-              <li>Internal Manager</li>
-              <li>Membership Development Manager</li>
+              <li>Operations Manager</li>
+              <li>Marketing Manager</li>
+              <li>Membership Manager</li>
               <li>Finance Manager</li>
-              <li>Creative Development</li>
+              <li>Community Outreach</li>
               <li>Dancer Relations</li>
+              <li>Design and Technology</li>
               <li>Family Relations</li>
-              <li>Fundraising</li>
+              <li>Fundraising and Orginization Development</li>
               <li>Hospitality</li>
               <li>Leadership Development</li>
               <li>Marathon Relations</li>
               <li>Merchandise</li>
               <li>Morale</li>
               <li>Multimedia</li>
-              <li>Outreach</li>
               <li>Productions</li>
               <li>Public Relations</li>
               <li>Recruitment</li>
               <li>Sponsorships</li>
             </ul>
           </li>
-          <li>Assitant Directors & Captains
+          <li>Assistant Directors & Captains
             <ul>
-              <li>Creative Development</li>
+              <li>Community Outreach</li>
               <li>Dancer Relations</li>
+              <li>Design and Technology</li>
               <li>Family Relations</li>
-              <li>Fundraising</li>
+              <li>Fundraising and Orginization Development</li>
               <li>Hospitality</li>
               <li>Leadership Development</li>
               <li>Marathon Relations</li>
               <li>Merchandise</li>
               <li>Morale</li>
               <li>Multimedia</li>
-              <li>Outreach</li>
               <li>Productions</li>
               <li>Public Relations</li>
               <li>Recruitment</li>

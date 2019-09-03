@@ -44,9 +44,9 @@ include("includes/navbar.php");
 							<li> Select <b>'Register Now' </b> <li/>
 								<ul>
 									<li> If you are joining as an individual, click <b>‘As an Individual’</b>. </li>
-									<li> If you are joining an organization, click <b>‘Join a Team’ </b>and then find your team.  </li>
+									<li> If you are joining an Organization, click <b>‘Join a Team’ </b>and then find your team.  </li>
 									<ul>
-										<li>If your organization isn’t there, no worries! Click <b>‘Create a Team’</b> and then request that other members of your organization join the team online.</li>
+										<li>If your Organization isn’t there, no worries! Click <b>‘Create a Team’</b> and then request that other members of your organization join the team online.</li>
 									</ul> </ul>
 									<li> Next, select <b>‘Create an account’</b> and provide the login credentials that you will use to access your fundraising page and then your first and last name. </li>
 									<li> After, you can customize your fundraising page by setting your personal fundraising goal, creating a headline, and uploading a profile photo.</li>

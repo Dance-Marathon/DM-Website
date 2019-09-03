@@ -80,8 +80,8 @@
 										 <ul><a href="/ambassadors"><b>Ambassador:</b> </a>  Ambassadors serve as representatives for their Organizations. Their primary responsibility is to relay information to the members of their respective Organizations and to motivate them throughout the year.</ul>
 										 <ul><a href="/emerging-leaders"><b>Emerging Leader:</b> </a> Members of our Emerging Leaders Program work alongside the Recruitment Team, providing support to Captain Teams and brainstorming new ideas to ensure a successful future for our organization.</ul>
                      <ul><a href="/captain-teams"><b>Captain:</b> </a> Captains belong to 1 of 15 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
-                     <ul><a href="/captain-teams"><b>Assistant Directors:</b> </a> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain teams.</ul>
-                     <ul><a href="/meet-the-overalls"><b>Overall Directors:</b> </a> The 20 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain teams to oversee, expand, and promote our organization.</ul>
+                     <ul><a href="/captain-teams"><b>Assistant Directors:</b> </a> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain Teams.</ul>
+                     <ul><a href="/meet-the-overalls"><b>Overall Directors:</b> </a> The 20 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain Teams to oversee, expand, and promote our organization.</ul>
 
 							 <table style="width:100%">
 									<tr>

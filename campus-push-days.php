@@ -49,11 +49,11 @@
 
   			<h4><i>When</i></h2>
 
-			 It’s a surprise! Every year this event occurs without public knowledge and motivates fundraising through a 26.2 hour campaign. </li>
+			 It’s a surprise! Every year this event occurs without public knowledge and motivates fundraising through a 26.2-hour campaign. </li>
   			
   			<h4><i>What</i></h4>
 
-			26.2 hour fundraising campaign involving Dance Marathon at the University of Florida beginning in the morning at 8:00am and ending the subsequent day at 10:12 am.
+			A 26.2-hour fundraising campaign involving Dance Marathon at the University of Florida beginning in the morning at 8:00am and ending the subsequent day at 10:12 am.
 
 			<!-- Not needed anymore -->
   			<!-- <h2>Multiplying Miracles</h2>

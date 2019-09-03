@@ -1,17 +1,17 @@
 <?php
 	$status = "open";
-	$GLOBALS['page_title'] = 'FT5K | Events | Dance Marathon at UF';
+	$GLOBALS['page_title'] = 'Warrior Run | Events | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax FT5K">
+<div class="page-heading parallax warrior-run">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
 	  		<div class="col-md-12">
-    			<h1>Miracles In The Milky Way</h1>
+    			<h1>FT5K</h1>
 	  		</div>
     	</div>
 	  </div>
@@ -24,33 +24,25 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-            <li><a href="/mini-marathon">Mini-Marathon</a></li>
-            <li><a class="active">FT5K</a></li>
-            <li><a href="/miracle-gala">Miracle Gala</a></li>
-						<li><a href="/golf-tournament">Golf Tournament</a></li>
-							<li><a href="/dance-marathon">Dance Marathon </a></li>
-
+						<li><a href="/dance-marathon">Dance Marathon 2019</a></li>
+						<li><a href="/mini-marathon">Mini-Marathon</a></li>
+						<li><a href="/miracle-gala">Miracle Gala</a></li>
+						<li><a href="/Warrior">Warrior Run</a></li>
+						<li><a class="active">FT5K</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 
-				<h2>Miracles In The Milky Way</h2>
+				<h2>FT5K</h2>
+				<p>FT5K is a 5K race that brings together the UF campus and Gainesville community to benefit our Miracle Families at UF Health Shands Children’s Hospital. FT5K will take place in the Spring semester.</p>
+				<p>Registration for FT5K will open in January. Check back soon for the ticket link, or email Ashley Knoblauch, Productions Overall Director, at <a href="mailto:aknoblauch@floridadm.org">aknoblauch@floridadm.org for more information!</p>
 
-  			<p>Dance Marathon at UF’s annual FT5K is a 5K race benefitting UF Health Shands Children’s Hospital and Children’s Miracle Network. In its fourth year, the FT5K will bring together students and Gainesville community members, alike. This year, DM at UF is taking the race out of this world with the theme of Miracles in the Milky Way.</p><p> The galactical race will take place on <b> Sunday, February 19, 2017. Check-ins will begin promptly at 8:30 a.m. in the UF Commuter Lot, and the race will begin at 9:30 a.m. </b>A post-race runner's celebration will follow the race, ending around 11:30 a.m. The celebration will include: race awards, music, games, sponsor giveaways, a costume contest, and a photo booth.</p>
-				<h3>Sign Up</h3>
-				<p>Whether you’re a walker or a runner, anyone can register to participate! The registration fee is $25 and will include a t-shirt.</p>
-<p>					<a href="http://events.dancemarathon.com/event/MilkyWayFT5K" target="_blank">Sign up here</a>, to participate in the FT5K! </p>
-				<p> <b>Won’t be in Gainesville on this date? No worries! </b> You can register for our <b>virtual FT5K</b>, in which you can pledge to run 3 miles in a different location on the day of the race. This is a great way to get your friends and family together and run through your local community! Registration will be $25, and after proof of running the 5K, you will be mailed your runner’s packet and t-shirt.</p>
-
-<!-- <p>If you have any questions, please contact Adam Lassley,  Community Events Overall at <a href="mailto:alassley@floridadm.org">alassley@floridadm.org</a></p> -->
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
 	</div>
 </div>
-
-
 
 <?php include("includes/foot.php"); ?>

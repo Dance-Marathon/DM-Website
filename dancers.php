@@ -56,7 +56,7 @@ include("includes/navbar.php");
             <p></p>
             <h2>Register To Dance</h2>
             <p></p>
-            <p>Dance Marathon at the University of Florida is an annual 26.2 hour event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, more than 800 students stay awake and on their feet to raise money and awareness for Children's Miracle Network Hospitals.</p>
+            <p>Dance Marathon at the University of Florida is an annual 26.2-hour event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, more than 800 students stay awake and on their feet to raise money and awareness for Children's Miracle Network Hospitals.</p>
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the 26.2-hour event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <!--<p><a href="https://ufl.qualtrics.com/jfe/form/SV_cuUdQhI6008vojP" target="_blank">Click Here to Register to Dance</a></p>-->
             <p>Please email Claire Overholt, Dancer Relations Overall Director, at <a href="mailto:coverholt@floridadm.org">coverholt@floridadm.org </a> with any questions!</p>
@@ -65,8 +65,8 @@ include("includes/navbar.php");
           <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">
           <h3>Staying Healthy</h3>
             <ul>
-              <li>Stay hydrated! Be sure to have bring a water bottle with you to the event to ensure you are drinking enough water. Water and Gatorade will be provided at the event as well.</li>
-              <li>Stay energized! Take advantage of the meals provided by our sponsors throughout the event.</li>
+              <li>Stay hydrated! Be sure to have bring a water bottle with you to the event to ensure you are drinking enough water. Water and Gatorade will be provided at the Event as well.</li>
+              <li>Stay energized! Take advantage of the meals provided by our Sponsors throughout the Event.</li>
               <li>Take time to stretch during the event so your muscles don't get as tight and sore.</li>
               <li>Stay engaged! Participating in the activities, entertainment, and Linedance throughout the Event will help you stay motivated and make your experience more enjoyable.</li>
             </ul>
@@ -83,10 +83,10 @@ include("includes/navbar.php");
               <li>Deodorant</li> <!--Add video of where is my chapstick -->
               <li>Baby wipes</li>
               <li>Goldbond powder</li>
-              <li>UF DM fanny pack</li>
+              <li>DM at UF fanny pack</li>
               <li>Any necessary medications</li>
               <li>Glasses, contacts or contact solution if necessary</li>
-              <li>Costumes for theme hours</li>
+              <li>Costumes for Theme Hours</li>
               <li>Phone charger</li>
               <li>Study material for upcoming exams</li>
               <li>Games</li>
@@ -112,10 +112,10 @@ include("includes/navbar.php");
             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
             &nbsp;<br/>
             <h3>Register to Dance</h3>
-            <p>Dancer Registration for Dance Marathon is open for two weeks in the fall and two weeks in the spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
-            <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the fall and in the spring.</p>
-            <p>You may register to dance with an organization team or as an individual. If you are a member of an organization that does not currently participate in Dance Marathon, you may start a team by registering on Classy. See Starting a Team for more information.</p>
-            <p><em>Please note: registration does not guarantee Dancer spots. Dancer spots are allocated in the spring based off of organizational or individual achievements.</em></p>
+            <p>Dancer Registration for Dance Marathon is open for two weeks in the Fall and two weeks in the Spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
+            <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the Fall and in the Spring.</p>
+            <p>You may register to dance with an Organization team or as an individual. If you are a member of an Organization that does not currently participate in Dance Marathon, you may start a team by registering on Classy. See Starting a Team for more information.</p>
+            <p><em>Please note: registration does not guarantee Dancer spots. Dancer spots are allocated in the Spring based off of organizational or individual achievements.</em></p>
 
 
           </div>
@@ -125,13 +125,13 @@ include("includes/navbar.php");
                 <div class="panel-heading" role="tab" id="q1">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="false" aria-controls="a1">
-                      If I register to dance, am I guaranteed a dancer spot at DM?
+                      If I register to dance, am I guaranteed a Dancer spot at DM?
                     </a>
                   </h4>
                 </div>
                 <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
                   <div class="panel-body">
-                    Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each organization and individual.
+                    Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.
                   </div>
                 </div>
               </div>
@@ -209,7 +209,7 @@ include("includes/navbar.php");
                 <div class="panel-heading" role="tab" id="q7">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a7" aria-expanded="false" aria-controls="a7">
-                      Can I still dance if I am the Ambassador for my organization’s team?
+                      Can I still dance if I am the Ambassador for my Organization’s team?
                     </a>
                   </h4>
                 </div>
@@ -223,7 +223,7 @@ include("includes/navbar.php");
                 <div class="panel-heading" role="tab" id="q9">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">
-                      Who can come to the event?
+                      Who can come to the Event?
                     </a>
                   </h4>
                 </div>

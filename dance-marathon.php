@@ -36,6 +36,7 @@ include("includes/navbar.php");
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a href="/Warrior">Warrior Run</a></li>
+						<li><a href="/ft5k">FT5K</a></li>
 					</ul>
 				</div>
 			</div>
