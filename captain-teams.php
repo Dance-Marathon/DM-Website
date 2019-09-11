@@ -6,6 +6,258 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
+
+<script>
+
+  // this will grab the names of all the captians from the google doc
+
+   // ID of the Google Spreadsheet
+   var spreadsheetID = "1qGVFluq-wlSZGPX2ubEZ8TcqmhfaLyJVjNiJTl3F0EE";
+
+   // Make sure it is public or set to Anyone with link can view
+   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+
+   var counters = {
+     outreach: 0,
+     dancerrelations: 0,
+     designandtech: 0,
+     fundraising: 0,
+     hospitality: 0,
+     leadershipdevelopment: 0,
+     marathonrelations: 0,
+     merch: 0,
+     morale: 0,
+     multimedia: 0,
+     productions: 0,
+     pr: 0,
+     recruitment: 0,
+     sponsorships: 0,
+     familyrelations: 0
+   };
+
+   $('.outreach').append('<tr>');
+   $('.dancerrelations').append('<tr>');
+   $('.designandtech').append('<tr>');
+   $('.fundraising').append('<tr>');
+   $('.hospitality').append('<tr>');
+   $('.leadershipdevelopment').append('<tr>');
+   $('.marathonrelations').append('<tr>');
+   $('.merch').append('<tr>');
+   $('.morale').append('<tr>');
+   $('.multimedia').append('<tr>');
+   $('.productions').append('<tr>');
+   $('.pr').append('<tr>');
+   $('.recruitment').append('<tr>');
+   $('.sponsorships').append('<tr>');
+   $('.familyrelations').append('<tr>');
+   $.getJSON(url, function(data) {
+
+       var entry = data.feed.entry;
+
+       $(entry).each(function() {
+
+        // outreach
+        if (!($(entry)[1].gsx$communityoutreach.$t.includes("n/a"))) {
+            if(counters["outreach"] < 3) {
+              $('.outreach').append('<td>' + this.gsx$communityoutreach.$t + '</td>');
+              counters["outreach"]++;
+            } else {
+                $('.outreach').append('</tr>'); 
+                $('.outreach').append('<tr>');  
+                $('.outreach').append('<td>' + this.gsx$communityoutreach.$t + '</td>');
+                counters["outreach"] = 1;
+            }
+          }
+          // dancer relations
+          if (!($(entry)[1].gsx$dancerrelations.$t.includes("n/a"))) {
+            if(counters["dancerrelations"] < 3) {
+              $('.dancerrelations').append('<td>' + this.gsx$dancerrelations.$t + '</td>');
+              counters["dancerrelations"]++;
+            } else {
+                $('.dancerrelations').append('</tr>'); 
+                $('.dancerrelations').append('<tr>');  
+                $('.dancerrelations').append('<td>' + this.gsx$dancerrelations.$t + '</td>');
+                counters["dancerrelations"] = 1;
+            }
+          }
+          // design and technology
+          if (!($(entry)[1].gsx$designtechnoly.$t.includes("n/a"))) {
+            if(counters["designandtech"] < 3) {
+              $('.designandtech').append('<td>' + this.gsx$designtechnoly.$t + '</td>');
+              counters["designandtech"]++;
+            } else {
+                $('.designandtech').append('</tr>'); 
+                $('.designandtech').append('<tr>');  
+                $('.designandtech').append('<td>' + this.gsx$designtechnoly.$t + '</td>');
+                counters["designandtech"] = 1;
+            }
+          }
+           // fundraising
+        if (!($(entry)[1].gsx$fundraisingandorganizationdevelopment.$t.includes("n/a"))) {
+            if(counters["fundraising"] < 3) {
+              $('.fundraising').append('<td>' + this.gsx$fundraisingandorganizationdevelopment.$t + '</td>');
+              counters["fundraising"]++;
+            } else {
+                $('.fundraising').append('</tr>'); 
+                $('.fundraising').append('<tr>');  
+                $('.fundraising').append('<td>' + this.gsx$fundraisingandorganizationdevelopment.$t + '</td>');
+                counters["fundraising"] = 1;
+            }
+          }
+          // hospitality
+          if (!($(entry)[1].gsx$hospitality.$t.includes("n/a"))) {
+            if(counters["hospitality"] < 3) {
+              $('.hospitality').append('<td>' + this.gsx$hospitality.$t + '</td>');
+              counters["hospitality"]++;
+            } else {
+                $('.hospitality').append('</tr>'); 
+                $('.hospitality').append('<tr>');  
+                $('.hospitality').append('<td>' + this.gsx$hospitality.$t + '</td>');
+                counters["hospitality"] = 1;
+            }
+          }
+          // leadership and development
+          if (!($(entry)[1].gsx$leadershipdevelopment.$t.includes("n/a"))) {
+            if(counters["leadershipdevelopment"] < 3) {
+              $('.leadershipdevelopment').append('<td>' + this.gsx$leadershipdevelopment.$t + '</td>');
+              counters["leadershipdevelopment"]++;
+            } else {
+                $('.leadershipdevelopment').append('</tr>'); 
+                $('.leadershipdevelopment').append('<tr>');  
+                $('.leadershipdevelopment').append('<td>' + this.gsx$leadershipdevelopment.$t + '</td>');
+                counters["leadershipdevelopment"] = 1;
+            }
+          }
+           // marathon relations
+        if (!($(entry)[1].gsx$marathonrelations.$t.includes("n/a"))) {
+            if(counters["marathonrelations"] < 3) {
+              $('.marathonrelations').append('<td>' + this.gsx$marathonrelations.$t + '</td>');
+              counters["marathonrelations"]++;
+            } else {
+                $('.marathonrelations').append('</tr>'); 
+                $('.marathonrelations').append('<tr>');  
+                $('.marathonrelations').append('<td>' + this.gsx$marathonrelations.$t + '</td>');
+                counters["marathonrelations"] = 1;
+            }
+          }
+          // merchandise
+          if (!($(entry)[1].gsx$merchandise.$t.includes("n/a"))) {
+            if(counters["merch"] < 3) {
+              $('.merch').append('<td>' + this.gsx$merchandise.$t + '</td>');
+              counters["merch"]++;
+            } else {
+                $('.merch').append('</tr>'); 
+                $('.merch').append('<tr>');  
+                $('.merch').append('<td>' + this.gsx$merchandise.$t + '</td>');
+                counters["merch"] = 1;
+            }
+          }
+          // morale
+          if (!($(entry)[1].gsx$morale.$t.includes("n/a"))) {
+            if(counters["morale"] < 3) {
+              $('.morale').append('<td>' + this.gsx$morale.$t + '</td>');
+              counters["morale"]++;
+            } else {
+                $('.morale').append('</tr>'); 
+                $('.morale').append('<tr>');  
+                $('.morale').append('<td>' + this.gsx$morale.$t + '</td>');
+                counters["morale"] = 1;
+            }
+          }
+           // multimedia
+        if (!($(entry)[1].gsx$multimedia.$t.includes("n/a"))) {
+            if(counters["multimedia"] < 3) {
+              $('.multimedia').append('<td>' + this.gsx$multimedia.$t + '</td>');
+              counters["multimedia"]++;
+            } else {
+                $('.multimedia').append('</tr>'); 
+                $('.multimedia').append('<tr>');  
+                $('.multimedia').append('<td>' + this.gsx$multimedia.$t + '</td>');
+                counters["multimedia"] = 1;
+            }
+          }
+          // productions
+          if (!($(entry)[1].gsx$productions.$t.includes("n/a"))) {
+            if(counters["productions"] < 3) {
+              $('.productions').append('<td>' + this.gsx$productions.$t + '</td>');
+              counters["productions"]++;
+            } else {
+                $('.productions').append('</tr>'); 
+                $('.productions').append('<tr>');  
+                $('.productions').append('<td>' + this.gsx$productions.$t + '</td>');
+                counters["productions"] = 1;
+            }
+          }
+          // pr
+          if (!($(entry)[1].gsx$publicrelations.$t.includes("n/a"))) {
+            if(counters["pr"] < 3) {
+              $('.pr').append('<td>' + this.gsx$publicrelations.$t + '</td>');
+              counters["pr"]++;
+            } else {
+                $('.pr').append('</tr>'); 
+                $('.pr').append('<tr>');  
+                $('.pr').append('<td>' + this.gsx$publicrelations.$t + '</td>');
+                counters["pr"] = 1;
+            }
+          }
+           // recruitment
+        if (!($(entry)[1].gsx$recruitment.$t.includes("n/a"))) {
+            if(counters["recruitment"] < 3) {
+              $('.recruitment').append('<td>' + this.gsx$recruitment.$t + '</td>');
+              counters["recruitment"]++;
+            } else {
+                $('.recruitment').append('</tr>'); 
+                $('.recruitment').append('<tr>');  
+                $('.recruitment').append('<td>' + this.gsx$recruitment.$t + '</td>');
+                counters["recruitment"] = 1;
+            }
+          }
+          // sponsorships
+          if (!($(entry)[1].gsx$sponsorships.$t.includes("n/a"))) {
+            if(counters["sponsorships"] < 3) {
+              $('.sponsorships').append('<td>' + this.gsx$sponsorships.$t + '</td>');
+              counters["sponsorships"]++;
+            } else {
+                $('.sponsorships').append('</tr>'); 
+                $('.sponsorships').append('<tr>');  
+                $('.sponsorships').append('<td>' + this.gsx$sponsorships.$t + '</td>');
+                counters["sponsorships"] = 1;
+            }
+          }
+          // family relations
+          if (!($(entry)[1].gsx$familyrelations.$t.includes("n/a"))) {
+            if(counters["familyrelations"] < 3) {
+              $('.familyrelations').append('<td>' + this.gsx$familyrelations.$t + '</td>');
+              counters["familyrelations"]++;
+            } else {
+                $('.familyrelations').append('</tr>'); 
+                $('.familyrelations').append('<tr>');  
+                $('.familyrelations').append('<td>' + this.gsx$familyrelations.$t + '</td>');
+                counters["familyrelations"] = 1;
+            }
+          }
+          
+               
+       });
+   });
+   $('.outreach').append('</tr>');
+   $('.dancerrelations').append('</tr>');
+   $('.designandtech').append('</tr>');
+   $('.fundraising').append('</tr>');
+   $('.hospitality').append('</tr>');
+   $('.leadershipdevelopment').append('</tr>');
+   $('.marathonrelations').append('</tr>');
+   $('.merch').append('</tr>');
+   $('.morale').append('</tr>');
+   $('.multimedia').append('</tr>');
+   $('.productions').append('</tr>');
+   $('.pr').append('</tr>');
+   $('.recruitment').append('</tr>');
+   $('.sponsorships').append('</tr>');
+   $('.familyrelations').append('</tr>'); 
+   
+</script>
+
 <div class="page-heading parallax captain-teams">
   <div class="inner-wrapper">
    <div class="container">
@@ -62,6 +314,9 @@ include("includes/navbar.php");
                  <h4><b>Assistant Director of Events </b></h4>
                  Claire Mobley
                <h4>  <b>Captains</b></h4>
+               <table style="width:100%">
+                <tbody class="outreach"> </tbody>
+              </table>
 
                </div>
              </div>
@@ -83,9 +338,10 @@ include("includes/navbar.php");
               Alex Gagliano
               <h4><b>Assistant Director of Tracking and Logistics</b></h4>
               Carlie Yent
-
-
-<h4><b>Captains</b></h4>
+              <h4><b>Captains</b></h4>
+              <table style="width:100%">
+                <tbody class="dancerrelations"> </tbody>
+              </table>
 
             </div>
           </div>
@@ -100,14 +356,14 @@ include("includes/navbar.php");
             <div class="panel-body">
               <b> The Design & Technology Team </b>is a collection of graphic designers and software developers responsible for making Dance Marathon media come to life. Captains are responsible for either the development/maintenance of the website and mobile applications (iOS and Android) or the creation of all print/web design needs (e.g. merchandise, social media graphics, newsletters, calendars, etc.). Throughout the year, Captains work together to create high-tech, portfolio-quality materials that showcase Dance Marathon as a professional student-run movement. At the Event itself, Captains run the Tech Booth, which includes managing multiple screens inside the O’Dome, sending app notifications, coordinating audio/visual feeds, and creating in-event graphics.
               <br>
-              <h4><b>Assistant Director of Creative Development </b></h4>
-              Celia Planeta
               <h4><b>Assistant Director of Project Management</b></h4>
               Ali Sammour
               <h4><b>Assistant Director of Technology Logistics</b></h4>
               Kyle Bassignani
-     <h4>  <b> Captains</b></h4>
-
+              <h4>  <b> Captains</b></h4>
+              <table style="width:100%">
+                <tbody class="designandtech"> </tbody>
+              </table>
             </div>
           </div>
         </div>
@@ -131,6 +387,9 @@ include("includes/navbar.php");
               Lauren Connell
 
     <h4>      <b>Captains</b></h4>
+    <table style="width:100%">
+                <tbody class="familyrelations"> </tbody>
+              </table>
 
             </div>
           </div>
@@ -152,6 +411,9 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Organization Relations</b></h4>
               Jacqueline Lamm
    <h4>  <b> Captains</b></h4>
+   <table style="width:100%">
+                <tbody class="fundraising"> </tbody>
+              </table>
         <!-- <table style="width:100%">
           <tr>
 <td>  Alexia Yavalar  </td>
@@ -214,6 +476,9 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Stewardship</b></h4>
               Elizabeth Thompson
    <h4>  <b>Captains</b></h4>
+   <table style="width:100%">
+                <tbody class="hospitality"> </tbody>
+              </table>
 
 
             </div>
@@ -238,6 +503,9 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Emerging Leader Tracking</b></h4>
               Lauren Spataro
       <h4>  <b> Captains</b></h4>
+      <table style="width:100%">
+                <tbody class="leadershipdevelopment"> </tbody>
+              </table>
 
 
             </div>
@@ -262,6 +530,9 @@ include("includes/navbar.php");
 	          <h4><b>Assistant Director of Special Projects and Communication</b></h4>
               Alexis Pollak
        <h4>  <b>Captains </b></h4>
+       <table style="width:100%">
+                <tbody class="marathonrelations"> </tbody>
+              </table>
 
             </div>
           </div>
@@ -286,6 +557,9 @@ include("includes/navbar.php");
               Taylor Tribuiani
 
        <h4>  <b>Captains</b></h4>
+       <table style="width:100%">
+                <tbody class="merch"> </tbody>
+              </table>
 
 
             </div>
@@ -308,6 +582,9 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Mini Marathon Coordination</b></h4>
               Alex Sikoryak
       <h4>  <b> Captains</b></h4>
+      <table style="width:100%">
+                <tbody class="morale"> </tbody>
+              </table>
 
 
             </div>
@@ -332,6 +609,9 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Videography</b></h4>
               Erica Criss
     <h4>  <b>Captains</b></h4>
+    <table style="width:100%">
+                <tbody class="multimedia"> </tbody>
+              </table>
 
 
             </div>
@@ -355,6 +635,9 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Talent Relations </b></h4>
                 Vicky Wajsbrot
 <h4>   <b>Captains</b></h4>
+<table style="width:100%">
+                <tbody class="productions"> </tbody>
+              </table>
 
 
               </div>
@@ -378,6 +661,9 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Social Media </b></h4>
                 Madison Whalen
      <h4>  <b> Captains</b></h4>
+     <table style="width:100%">
+                <tbody class="pr"> </tbody>
+              </table>
 
 
               </div>
@@ -400,6 +686,9 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Tracking</b></h4>
                 Breen Kiel
            <h4>  <b>Captains</b></h4>
+           <table style="width:100%">
+                <tbody class="recruitment"> </tbody>
+              </table>
 
               </div>
             </div>
@@ -421,6 +710,9 @@ include("includes/navbar.php");
                 <h4><b>Assistant Director of Stewardship</b></h4>
                 Paige Leaming
           <h4>  <b>Captains</b></h4>
+          <table style="width:100%">
+                <tbody class="sponsorships"> </tbody>
+              </table>
 
               </div>
             </div>

@@ -265,11 +265,11 @@
 	    'motivation' => 'Every time I see the colorful windows of UF Shands Children\'s Hospital, I am reminded of the unimaginable battles that take place within those walls. The brave children who persevere through the hardest of times will forever motivate me and inspire me to continue our fight FTK.',
 	    'image' => 'Megan',
 		),
-		/* Recruitment Overall Spot
+
 		 array(
-	    'name' => '',
+	    'name' => 'Jenna Alderuccio',
 	    'position' => 'Recruitment Overall',
-	    'email' => '@floridadm.org',
+	    'email' => 'jalderuccio@floridadm.org',
 	    'previous_involvement' => 'Emerging Leaders Program, Recruitment Captain',
 	    'major' => 'Sociology',
 	    'hometown' => 'Orlando, FL',
@@ -278,9 +278,8 @@
 	    'fun_fact' => 'If there was one place I’d want to spend the rest of my life it would be Disney World!',
 	    'favorite_memory' => 'My favorite DM memory was seeing the Miracle kids become emotional when we hit $3 million last year. It showed that they appreciate all that we do and that they are just as proud of us as we are of them! ',
 	    'motivation' => 'The Miracle Children motivate me everyday to live life to the fullest. They remind me that life is too short to be anything less than happy and that everyday can and should be a good day. They are true warriors that inspire me every single day! ',
-	    'image' => 'Stella',
+	    'image' => 'Jenna',
 		 ),
-		 */
 
 		  array(
 		   'name' => 'Katherine Dubina',
