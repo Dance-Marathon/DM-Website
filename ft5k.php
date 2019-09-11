@@ -6,7 +6,7 @@
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax warrior-run">
+<div class="page-heading parallax ft5k">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
