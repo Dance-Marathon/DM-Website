@@ -6,6 +6,43 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
+<script>
+
+  // this will grab the names of all the captians from the google doc
+
+   // ID of the Google Spreadsheet
+   var spreadsheetID = "1qGVFluq-wlSZGPX2ubEZ8TcqmhfaLyJVjNiJTl3F0EE";
+
+   // Make sure it is public or set to Anyone with link can view
+   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+
+   $('.emergingleaders').append('<tr>');
+
+   $.getJSON(url, function(data) {
+
+       var entry = data.feed.entry;
+
+		var counter = 0;
+
+       $(entry).each(function() {
+
+        if (!($(entry)[1].gsx$emergingleaders.$t.includes("n/a"))) {
+            if(counter < 6) {
+              $('.emergingleaders').append('<td>' + this.gsx$emergingleaders.$t + '</td>');
+			  counter++;
+            } else {
+                $('.emergingleaders').append('</tr>'); 
+                $('.emergingleaders').append('<tr>');  
+                $('.emergingleaders').append('<td>' + this.gsx$emergingleaders.$t + '</td>');
+                counter = 1;
+            }
+          }    
+       });
+   });
+   $('.emergingleaders').append('</tr>');
+   
+</script>
+
 <div class="page-heading parallax elp">
  <div class="inner-wrapper">
 	 <div class="container">
@@ -39,9 +76,12 @@ include("includes/navbar.php");
 <p>The Dance Marathon Emerging Leaders Program aims to cultivate the leadership skills of new members of Dance Marathon at the University of Florida. The program strives to engage students who have a passion for helping others and who believe in our fight for a future without childhood illness. The Dance Marathon Emerging Leaders Program is a unique first step for students wanting to join the Dance Marathon movement.</p>
 <p>Members of Dance Marathon Emerging Leaders Program will attend monthly general body meetings as well as weekly small group meetings. At general body meetings, Emerging Leaders will have the opportunity to learn more about the goals and efforts of Dance Marathon, hear inspiring stories from our Miracle Families, and gain exposure to prominent speakers from the University of Florida and the Gainesville community. Emerging Leaders will join small groups of around twenty students who will have weekly meetings to work on projects and support each other through personal development and fundraising efforts throughout the year.</p>
 <p>Emerging Leaders will be given mentors from Dance Marathon’s various Captain Teams, providing them with resources to succeed inside and outside of the organization. We will work together with Emerging Leaders to help them develop within our organization and to receive feedback on how we can improve the Dance Marathon program. </p>
-<!--<h3>2019 Emerging Leaders</h3>
+<h3>2019 Emerging Leaders</h3>
 <p> Congratulations to our the members of 2019 Emerging Leaders Program! </p>
 <table style="width:100%">
+    <tbody class="emergingleaders"> </tbody>
+</table>
+<!--<table style="width:100%">
 <tr>
 	<td>	Abigail Boeneman	</td>
 	<td>	Adam Rosenblum	</td>
