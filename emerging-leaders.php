@@ -27,7 +27,7 @@ include("includes/navbar.php");
        $(entry).each(function() {
 
         if (!($(entry)[1].gsx$emergingleaders.$t.includes("n/a"))) {
-            if(counter < 6) {
+            if(counter < 5) {
               $('.emergingleaders').append('<td>' + this.gsx$emergingleaders.$t + '</td>');
 			  counter++;
             } else {
