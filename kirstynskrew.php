@@ -56,7 +56,7 @@
 					<li> Dance Marathon Captain Team Question and Answer  </li>
 					<li> Kirstyn’s Krew 2.62 hour fundraising and awareness push  </li>
 					</ul> -->
-					<h3>Kristyn's Krew</h3>
+					<h3>Kirstyn's Krew</h3>
 					<p>Kirstyn’s Krew is a new program in honor of Kirstyn Tripp, our Miracle Child who lost her battle to childhood illness in 2018. The purpose of Kirstyn’s Krew is for students to experience Dance Marathon at UF 2020 from a different perspective and learn more about our fight to end childhood illness. As a member of Kirstyn’s Krew, you will earn 5-10 hours of community service for your support of the children at UF Health Shands Children’s Hospital.</p>
 					<p>Kirstyn’s Krew will consist of both required and optional events over the course of our 26.2-hour event in the Spring.</p>
 					<p> Please email Jenna Alderuccio, Recruitment Overall Director, at <a href=mailto:jalderuccio@floridadm.org>jalderuccio@floridadm.org</a> with any questions! </p>
