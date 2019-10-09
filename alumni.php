@@ -31,6 +31,24 @@
 			'favorite_memory'       =>  'WOW, so many incredible memories to choose from! I would have to say one being when I had the amazing privilege and honor to receive the Jen Krug Award my senior year. As it was announced, I felt my fellow morale captains and best friends surround me, hugging and holding me (since I literally almost fell to the ground). What a truly special and unforgettable moment as I walked to receive the award hugging some of the miracle children and their families along the way who have touched my life forever. This moment still brings tears to my eyes because I know that DM has made me who I am today, it has given me so much joy, hope and love. This award meant everything to me; it was for these miracle children who I will continue to fight for every day, for the millions of dollars raised, and for the passion I will always have for this amazing cause. ALSO can\'t forget, getting to dress up in crazy costumes while doing the line dance are some of my favorite memories as well. :)</p>',
 			'continued'             =>  '"Dance Marathon led me to my career as a Certified Child Life Specialist, where I help children and families cope with the psychosocial stressors and challenges of a child’s hospitalization. I continue to use my passion for Dance Marathon every day as a Child Life Specialist working at a Children’s Miracle Network hospital, Arnold Palmer Hospital for Children in Orlando, Florida (full circle right!?). I owe so much to Dance Marathon and have been back to Dance Marathon for the past 3 years since graduating. I will continue to go back every year and continue to fight, raise money and dance for these kiddos who deserve a chance to be a kid and have a future!',
 			'image'                 =>  'MaryM'
+		),
+		array(
+			'name'                  =>  'Joelle Waksman',
+			'current_city'          =>  'Atlanta, GA',
+			'previous_involvement'  =>  '2010: Dancer</br>2011: Morale Staff</br>2012: Morale Captain</br>2013: Morale Captain + Linedance Team</br>2014: Morale Overall</br>2014-2018: DMA Member </p>',
+			'fun_fact'              =>  'My first job was a "motivational dancer" at bar/bat mitzvahs (and the occasional quinceañera) for Pure Energy Entertainment.',
+			'favorite_memory'       =>  'I cannot even begin to try and pick one, at this exact moment the first one that came to mind was when we came up with the closing song for the linedance in 2013. We closed our eyes and listened to it and pictured those moments and I totally broke down, chills, crying, screaming. It was the best.</p>',
+			'continued'             =>  'Every year except for one, I have been back to DM at UF! It has been the absolute best to a part of the DMA whatever that has turned out to look like year after year. As I become more and more "irrelevant" to the current students involved, I feel even more connected to where this program has come from and where it is growing to. FTK!',
+			'image'                 =>  'joelle'
+		),
+		array(
+			'name'                  =>  'Taylor Chambers',
+			'current_city'          =>  'Gainesville, FL',
+			'previous_involvement'  =>  '2012: Staff (FTKrew)</br>2013: Dancer Relations Captain</br>2014: Dancer Relations Overall</br>2015: Overall Director</p>',
+			'fun_fact'              =>  'I was a competitive gymnast for 10 years',
+			'favorite_memory'       =>  'After a long and stressful day of exams DM had an ice cream hospitality night scheduled. I was exhausted but decided to stop in and grab a scoop before heading home. I ended up spending an hour with our Captain Teams Miracle Family, the Pences, laughing and making ridiculous videos. It completely washed away the stress of the day and has always stood out to me as one of the best nights where my eyes were opened to the magic of DM and what a special organization it is.</p>',
+			'continued'             =>  'Continuing to live in Gainesville and working for UF Health has given me the unique opportunity to maintain ties with our Miracle Families and DM at UF. I continue to support local events and work build relationships with the students each year. Whether it is simply writing an encouraging email or getting coffee, I like to be available and give any resources I can to continue to grow the cause we all know and love.',
+			'image'                 =>  'chambers'
 		)
 	);
 
