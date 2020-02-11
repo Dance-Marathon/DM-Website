@@ -277,9 +277,9 @@ include("includes/navbar.php");
    });
   </script>
 
-    <script>
+  <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1shqpgE4IJORw9rZYa4-X_pZToul6Q1xsRQkiB5CrZBQ";
+   var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -289,7 +289,7 @@ include("includes/navbar.php");
     var entry = data.feed.entry;
 
     $(entry).each(function(){
-      $('.pink-bracket').append('<p>'+this.gsx$pink.$t+'</p>');
+          $('.pink-bracket').append('<p>'+this.gsx$pink.$t+'</p>');
 
     });
 
