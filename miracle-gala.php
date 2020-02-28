@@ -37,6 +37,7 @@
 
 				<h2>Miracle Gala</h2>
 
+<p>Tickets for Dance Marathon Miracle Gala 2020 are now available <a href="https://squareup.com/market/dance-marathon-at-uf/item/miracle-gala-ticket">here!</a></p>			
 <p>Each year, we invite guests to join us for an evening of fine dining and dancing to recognize all of the accomplishments of Dance Marathon at UF and the doctors at UF Health Shands Children’s Hospital. The Miracle Gala is a beautiful night to celebrate our movement and the incredible strides we make each year!</p>
  <p>For more information, please contact the Outreach Overall Director, Matt Migliazza, at <a href="mailto:mmigliazza@floridadm.org">mmigliazza@floridadm.org</a>. We look forward to seeing you there!</p>
 
