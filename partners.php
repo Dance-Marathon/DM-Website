@@ -565,6 +565,9 @@ DMA MEMBERS PAGE
           <div class="col-sm-2">
             <a href="http://www.thecoppercloset.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/2018/CopperCloset.png"/></a>
           </div>
+	  <div class="col-sm-2">
+            <a href="https://www.campus-scooters.com/" target="_blank"><img class="img-responsive" style="width: 75%; display: block; margin: auto;" src="assets/images/sponsors/scoot.png"/></a>
+          </div>
         </div>
 
 </center>
