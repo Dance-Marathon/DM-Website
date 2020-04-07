@@ -120,7 +120,7 @@ DMA MEMBERS PAGE
             <a href="https://www.hurricanebtw.com/"><img class="img-responsive" src="assets/images/sponsors/2020/GatorBTW Logo-2020.png" width="175" height="175"/></a>
           </div>
           <div class="col-sm-6">
-            <a href="http://www.miapalatincafe.com"><img class="img-responsive" src="assets/images/sponsors/apa.png" width="175" height="175" /></a>
+            <a href="http://www.miapalatincafe.com"><img class="img-responsive" src="assets/images/sponsors/2020/Mi Apa.png" width="175" height="175" /></a>
           </div>
         </div>
         <div style="margin-top: 35px;" class="row">
