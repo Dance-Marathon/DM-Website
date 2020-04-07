@@ -217,6 +217,12 @@
 </b></a>
 </i></p>
 
+<div style="text-align:center">
+  <h2><b>Covid 19 Update</b></h2>
+
+      Put the update text here. Put the update text here. Put the update text here. Put the update text here. Put the update text here. Put the update text here. Put the update text here. Put the update text here. Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.Put the update text here.
+
+</div>
 
 
     </div>

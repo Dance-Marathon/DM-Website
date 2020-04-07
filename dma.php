@@ -1,3 +1,3 @@
 <?php
-    header("Location: https://docs.google.com/forms/d/1BmlbhCSrQkvRyYE7S4go5uLMu-Q-xnTQSQHQXKc5VnE/viewform");
+    header("Location: https://docs.google.com/forms/d/e/1FAIpQLSebLvFrPQs3axz_5di7SBFW34eIFwmSTCf_AxfjTYcCSTQpiA/viewform");
 ?>
