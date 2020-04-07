@@ -326,7 +326,7 @@
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
 						<h3>Get Involved</h3>
 						<!-- This should work -->
-						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay FTK for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/1BmlbhCSrQkvRyYE7S4go5uLMu-Q-xnTQSQHQXKc5VnE>Become a member or renew your membership today.</a></p>
+						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay FTK for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLSebLvFrPQs3axz_5di7SBFW34eIFwmSTCf_AxfjTYcCSTQpiA/viewform>Become a member or renew your membership today.</a></p>
 						<p>Be sure to like the official page for <a href=https://www.facebook.com/FloridaDMAlumni?fref=ts>Dance Marathon at UF Alumni on Facebook</a> to stay connected with the rest of your Dance Marathon Alumni family.</p>
 
 						<h3>About</h3>
@@ -334,20 +334,59 @@
 <p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $54,925.83 to our final total, exhibiting their continued passion For The Kids.</p>
 <p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 per year and offers a variety of benefits.</p>
 
-				      <h3>Benefits</h3>
-				      <ul>
-					  	<li>Preferred floor access at the Event</li>
-					  	<li>Access to the Family Room at the Event</li>
-					  	<li>Behind-the-scenes Hospital Tour during the Event weekend</li>
-						<li>Opportunity to participate as an Alumni Dancer</li>
-						<li>An official DMA shirt at the Event</li>
-						<li>Receive fundraising incentives at the Event</li>
-						<li>Miracle Meal on the Sunday of the Event</li>
-						<li>Discounted ticket to the Miracle Gala</li>
-						<li>Newsletters keeping you up-to-date on DM at UF and the DMA</li>
-					  </ul>
-					  <h3>Newsletter</h3>
-				      <p>Each Captain Team sends monthly newsletters to their team’s Alumni, with information and updates on what’s happening with their team and the organization overall. If you would like to receive your team’s newsletter, please contact the current Overall Director of your respective former team.</p>
+				      <h3>Lifetime DMA Membership</h3>
+						<p>This year, we would like to introduce the <b>Lifetime DMA Membership!</b> This membership gives you the ability to register to the DMA with a one-time fee that will grant you a lifetime of engagement with Dance Marathon Alumni. This fee is tax-deductible and unlocks incredible benefits as a DM at UF alumni. Our goal as an organization is to continue to engage, involve, and update our alumni year over year on the impacts they have made, and continue to make, by supporting Dance Marathon at UF. </p>
+						<div></div>
+						<p>Within the Lifetime DMA Membership, there are <b><u>two</u></b> membership options:</p>
+						<div></div>
+					  <h4><i style="color:#f79b63;"><b>(1) Miracle Membership</b></i></h4>
+						<p>This <b>general membership</b> provides new DMA members with benefits outlined below, through a one-time fee of </b>$40</b>. The Miracle Membership, as it stands today, includes those registered members from the inception of the DMA (2015) to all current members (2020). This membership will automatically grandfather returning members, and new members to the DMA, into the Miracle Membership. </p>
+						<p><b><i>Membership Benefits Include:</i></b></p>
+							<ul>
+								<li>Monthly E-Newsletter updates</li>
+								<li>Preferred Access at the event to the DMA VIP room</li>
+								<li>Opportunity to participate as a DMA Dancer* at the event</li>
+								<li>Voting and leadership opportunities for the DMA Board</li>
+								<li>Inclusion and invites to regionally hosted DMA events</li>
+								<p><small>*DMA Dancer registration fees apply.</small></p>
+							</ul>
+					<h4><i style="color:#617ba6;"><b>(2) Legacy Membership</b></i></h4>
+						<p>This <b>upgraded membership</b> unlocks all membership benefits, plus the bonus membership benefits outlined below, through an annual fee of <b>$40</b>. This membership is ideal for those who plan to attend Dance Marathon at UF in person and over multiple years. If this is your first year signing up for the DMA, your one-time fee of <b>$40</b> will grant you this exclusive Legacy Membership.</p>
+						<p><b><i>Membership Benefits Include:</i></b></p>
+							<ul>
+								<li>Monthly E-Newsletter updates</li>
+								<li>Preferred Access at the event to the DMA VIP room</li>
+								<li>Opportunity to participate as a DMA Dancer* at the event</li>
+								<li>Voting and leadership opportunities for the DMA Board</li>
+								<li>Inclusion and invites to regionally hosted DMA events</li>
+							</ul>
+							<p><b style="color:#617ba6;">PLUS these Additional Membership Benefits:</b></p>
+							<ul>
+								<li>Opportunity to participate in a behind-the-scenes hospital tour</li>
+								<li>Opt-in to receive the DMA event t-shirt**</li>
+								<li>Discounted Miracle Gala tickets</li>
+								<li>Tickets to the DMA Brunch during the event</li>
+								<li>Ability to receive fundraising incentives during the event</li>
+								<li>Access to the Family Room at the event</li>
+								<p><small>*DMA Dancer registration fees apply.</small></p>
+								<p><small>**DMA event t-shirt opt-in includes a direct mailing option for those members unable to attend the event. </small></p>
+							</ul>	
+					<h4><b><u><i>Please note:</i></u></b></h4>
+					<p>1. As a <b style="color:#f79b63;">Miracle Member</b> of the DMA, you will have the benefit to maintain this status for life. You may elect to upgrade your membership to the new <b style="color:#617ba6;">Legacy Membership</b> as outlined below.</p>
+					<p>2. Any returning member, whose current membership lapses, will automatically move into the <b style="color:#f79b63;">Miracle Membership</b> status. These members may upgrade to the new <b style="color:#617ba6;">Legacy Membership</b> at any time throughout the year, up until one month before Dance Marathon weekend. </p>
+
+
+					  <h4><b><u>FAQs</u></b></h4>
+				      <p><b>Q: I have never been a part of the DMA before and just registered for the first time. What membership do I have? </b><br>
+					  <b>A:</b> As a first-time DMA member, your <b>$40</b> fee unlocks the <b style="color:#617ba6;">Legacy Membership</b> for your first year. After your first year, you will have the option to pay the annual fee of <b>$40</b> to continue your <b style="color:#617ba6;">Legacy Membership</b>, or you will be automatically shifted into the <b style="color:#f79b63;">Miracle Membership</b> at no cost.</p>
+					  <p><b>Q: What if I registered for the DMA in a previous year (2015-2020) and never renewed?</b><br>
+					  <b>A:</b> You will be grandfathered into the <b style="color:#f79b63;">Miracle Membership</b>!</p>
+					  <p><b>Q: Can I upgrade my <b style="color:#f79b63;">Miracle Membership</b> throughout the year?</b><br>
+					  <b>A:</b> Yes! However, you can only upgrade up until one month before the event so we are able to accommodate for all of the additional benefits (i.e. t-shirt, brunch, etc.).<br>
+					  <p><b>Q: I was a <b style="color:#617ba6;">Legacy Member</b> and forgot to renew... Am I still a member?</b><br>
+					  <b>A:</b> Yes! If you do not renew your Legacy Membership, you are automatically enrolled into the Miracle Membership for the upcoming year. </p>
+					  <div></div>
+					  <p><b>If you have any questions, please feel free to email them to <a href="alumni@floridadm.org">alumni@floridadm.org</a>.</b></p>
           	</div>
 
           	<div role="tabpanel" class="tab-pane fade" id="schools">
