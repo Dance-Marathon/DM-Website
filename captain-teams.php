@@ -494,45 +494,23 @@ include("includes/navbar.php");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q9">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">Marathon Relations North</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">Marathon Relations</a>
             </h4>
           </div>
           <div id="a9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q9">
             <div class="panel-body">
+              <b>Marathon Relations</b> is responsible for advising and growing Dance Marathon at UF’s high school programs, Mini Marathons. Marathon Relations is composed of two teams Marathon Relations North and Marathon Relations South. They energize and support our “Minis” by educating students on Children’s Miracle Network and Dance Marathon at UF’s history and culture. Captains focus on strengthening relationships with high schools around the state, by helping them plan and implement their own Mini Marathons. Most importantly, the Marathon Relations team attends all of our Mini Marathons, as well as hosts our partnering high school programs during Dance Marathon at the University of Florida. Captains will be responsible for at least one school which they will work with all year in order to ensure that school’s success.
               <br>
-              <h4><b>Overall Director</b></h4>
-              Mady Benton
-              <!-- <b> The Marathon Relations Team </b> is responsible for advising and growing Dance Marathon at UF’s high school programs, Mini Marathons. They energize and support our “Minis” by educating students on Children’s Miracle Network and Dance Marathon at UF’s history and culture. Captains focus on strengthening relationships with high schools around the state, by helping them plan and implement their own Mini Marathons. Most importantly, the Marathon Relations team attends all of our Mini Marathons, as well as hosts our partnering high school programs during Dance Marathon at the University of Florida. Captains will be responsible for at least one school which they will work with all year in order to ensure that school’s success.
-              <br></br>
-              <h4><b>Assistant Director of New and Emerging Programs</b></h4>
-              Sheri Kusatzky
-              <h4><b>Assistant Director of Northern Region</b></h4>
-              Madalyn Benton
-              <h4><b>Assistant Director of Southern Region</b></h4>
-              Kayla Anschuetz
-	          <h4><b>Assistant Director of Special Projects and Communication</b></h4>
-              Alexis Pollak
-       <h4>  <b>Captains </b></h4>
-       <table style="width:100%">
-                <tbody class="marathonrelations"> </tbody>
-              </table> -->
-
-            </div>
-          </div>
-        </div>
-        <div class="panel panel-default">
-          <div class="panel-heading" role="tab" id="q9">
-            <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a10" aria-expanded="false" aria-controls="a10">Marathon Relations South</a>
-            </h4>
-          </div>
-          <div id="a10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q10">
-            <div class="panel-body">
-              <br>
-              <h4><b>Overall Director</b></h4>
-              Alexis Pollak
-              <!-- <b> The Marathon Relations Team </b> is responsible for advising and growing Dance Marathon at UF’s high school programs, Mini Marathons. They energize and support our “Minis” by educating students on Children’s Miracle Network and Dance Marathon at UF’s history and culture. Captains focus on strengthening relationships with high schools around the state, by helping them plan and implement their own Mini Marathons. Most importantly, the Marathon Relations team attends all of our Mini Marathons, as well as hosts our partnering high school programs during Dance Marathon at the University of Florida. Captains will be responsible for at least one school which they will work with all year in order to ensure that school’s success.
-              <br></br>
+              <div style="float: left; width: 50%;">
+                <h4><b>North Overall Director</b></h4>
+                Mady Benton
+              </div>
+              <div style="float: left; width: 50%;">
+                <h4><b>South Overall Director</b></h4>
+                Alexis Pollak
+              </div>
+              
+              <!--<br></br>
               <h4><b>Assistant Director of New and Emerging Programs</b></h4>
               Sheri Kusatzky
               <h4><b>Assistant Director of Northern Region</b></h4>
