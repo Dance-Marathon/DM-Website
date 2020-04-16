@@ -502,11 +502,11 @@ include("includes/navbar.php");
               <b>Marathon Relations</b> is responsible for advising and growing Dance Marathon at UF’s high school programs, Mini Marathons. Marathon Relations is composed of two teams Marathon Relations North and Marathon Relations South. They energize and support our “Minis” by educating students on Children’s Miracle Network and Dance Marathon at UF’s history and culture. Captains focus on strengthening relationships with high schools around the state, by helping them plan and implement their own Mini Marathons. Most importantly, the Marathon Relations team attends all of our Mini Marathons, as well as hosts our partnering high school programs during Dance Marathon at the University of Florida. Captains will be responsible for at least one school which they will work with all year in order to ensure that school’s success.
               <br>
               <div style="float: left; width: 50%;">
-                <h4><b>North Overall Director</b></h4>
+                <h4><b>Overall Director of North</b></h4>
                 Mady Benton
               </div>
               <div style="float: left; width: 50%;">
-                <h4><b>South Overall Director</b></h4>
+                <h4><b>Overall Director of South</b></h4>
                 Alexis Pollak
               </div>
               
