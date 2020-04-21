@@ -423,7 +423,7 @@ include("includes/navbar.php");
               <br><br>
               <h4><b>Assistant Director of Canning and Special Projects</b></h4>
               James Greco
-              <h4><b>	Assistant Director of Pan. & IFC Organization Relations</b></h4>
+              <h4><b>	Assistant Director of Panhellenic & IFC Relations</b></h4>
               Clayton Gaulding
               <h4><b>Assistant Director of Student Organization Relations</b></h4>
               Carli Sley
