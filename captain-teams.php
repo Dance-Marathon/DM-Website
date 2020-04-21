@@ -616,7 +616,7 @@ include("includes/navbar.php");
               Anna Fitzpatrick
               <br><br>
               <h4><b>Assistant Director of Captain Relations</b></h4>
-              Michael Sivilli
+              Allison Felts
 			        <h4><b>Assistant Director of Fundraising</b></h4>
               Houston Barenholtz
               <h4><b>Assistant Director of Mini Marathon Coordination</b></h4>
