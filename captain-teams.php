@@ -309,15 +309,15 @@ include("includes/navbar.php");
           <br>
           <h4><b>Overall Director</b></h4>
           Grace Crowder
-          <!-- <br>
-                 <h4><b>Assistant Director of Community Partnerships </b></h4>
-                 Caitlyn Pennell
-                 <h4><b>Assistant Director of Connections and Communication</b></h4>
-                 Jamie Breit
-                 <h4><b>Assistant Director of Events </b></h4>
-                 Claire Mobley
-               <h4>  <b>Captains</b></h4>
-               <table style="width:100%">
+          <br><br>
+                 <h4><b>Assistant Director of Targeted Engagement & Communications</b></h4>
+                 Savannah Pitone
+                 <h4><b>	Assistant Director of Community Partnerships</b></h4>
+                 Lexi Myrback
+                 <h4><b>Assistant Director of Events</b></h4>
+                 Mikayla Carroll
+               <!-- <h4>  <b>Captains</b></h4> -->
+               <!-- <table style="width:100%">
                 <tbody class="outreach"> </tbody>
               </table> -->
 
@@ -337,15 +337,15 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Caroline Lee
-              <!-- <br>
+              <br><br>
               <h4><b>Assistant Director of Check-Ins</b></h4>
-              Peter Giannas
+              Johnna Downing
               <h4><b>Assistant Director of Dancer Engagement</b></h4>
-              Alex Gagliano
+              Jonathan Maya
               <h4><b>Assistant Director of Tracking and Logistics</b></h4>
-              Carlie Yent
-              <h4><b>Captains</b></h4>
-              <table style="width:100%">
+              Kelsey Matala
+              <!-- <h4><b>Captains</b></h4> -->
+              <!-- <table style="width:100%">
                 <tbody class="dancerrelations"> </tbody>
               </table> -->
 
@@ -364,13 +364,15 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Madison Hersch
-              <!-- <br>
-              <h4><b>Assistant Director of Project Management</b></h4>
-              Ali Sammour
-              <h4><b>Assistant Director of Technology Logistics</b></h4>
-              Kyle Bassignani
-              <h4>  <b> Captains</b></h4>
-              <table style="width:100%">
+              <br><br>
+              <h4><b>Assistant Director of Design</b></h4>
+              Julia Lavoy
+              <!-- <h4><b>Assistant Director of Technology</b></h4> -->
+              <!-- Kyle Bassignani -->
+              <h4><b>Assistant Director of Logistics</b></h4>
+              Dina Modlin
+              <!-- <h4>  <b> Captains</b></h4> -->
+              <!-- <table style="width:100%">
                 <tbody class="designandtech"> </tbody>
               </table> -->
             </div>
@@ -388,17 +390,17 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Courtney Kerwin
-              <!-- <br>
+              <br><br>
               <h4><b>Assistant Director of External Relations</b></h4>
-              Courtney Kerwin
+              Madelyn Corliss
               <h4><b>Assistant Director of Family Events</b></h4>
-              Sam Bradley
+              Shannon Jones
               <h4><b>Assistant Director of Family Outreach</b></h4>
-              Hannah Cooper
-			  <h4><b>Assistant Director of Internal Relations</b></h4>
               Lauren Connell
+			        <h4><b>Assistant Director of Internal Relations</b></h4>
+              Jennifer Gilby
 
-    <h4>      <b>Captains</b></h4>
+    <!-- <h4>      <b>Captains</b></h4>
     <table style="width:100%">
                 <tbody class="familyrelations"> </tbody>
               </table> -->
@@ -418,17 +420,19 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Emma McClane
-              <!-- <br>
+              <br><br>
               <h4><b>Assistant Director of Canning and Special Projects</b></h4>
-              Meaghan Norus
-              <h4><b>Assistant Director of Mini-Marathon Fundraising</b></h4>
-              Emma McClane
-              <h4><b>Assistant Director of Organization Relations</b></h4>
-              Jacqueline Lamm
-   <h4>  <b> Captains</b></h4>
+              James Greco
+              <h4><b>	Assistant Director of Pan. & IFC Organization Relations</b></h4>
+              Clayton Gaulding
+              <h4><b>Assistant Director of Student Organization Relations</b></h4>
+              Carli Sley
+              <h4><b>	Assistant Director of New & Emerging Organization Relations</b></h4>
+              Alexis Graves
+   <!-- <h4>  <b> Captains</b></h4>
    <table style="width:100%">
-                <tbody class="fundraising"> </tbody> -->
-              </table>
+                <tbody class="fundraising"> </tbody>
+              </table> -->
             </div>
           </div>
         </div>
@@ -445,14 +449,16 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Maddy Lee
-              <!--<br>
+              <br><br>
               <h4><b>Assistant Director of Hospitality Events</b></h4>
-              Scarlett Thorne
+              Alanna Cavallini
               <h4><b>Assistant Director of Hospitality Nights</b></h4>
-              Madison Lee
+              Sydnee Berman
               <h4><b>Assistant Director of Stewardship</b></h4>
-              Elizabeth Thompson
-   <h4>  <b>Captains</b></h4>
+              Ethan Paikowsky
+              <h4><b>Assistant Director of Internal Relations</b></h4>
+              Gibson Howard
+   <!-- <h4>  <b>Captains</b></h4>
    <table style="width:100%">
                 <tbody class="hospitality"> </tbody>
               </table> -->
@@ -473,17 +479,17 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Michelle Podolnyy
-              <!-- <br></br>
+              <br></br>
               <h4><b>Assistant Director of Emerging Leader Development</b></h4>
-              Connor Wax
-              <h4><b>Assistant Director of Emerging Leader Engagement</b></h4>
               Ashley Smokonich
+              <h4><b>Assistant Director of Emerging Leader Engagement</b></h4>
+              Jack Kirsch
               <h4><b>Assistant Director of Emerging Leader Outreach</b></h4>
-              Michelle Podolnyy
+              Madison Duncanson
               <h4><b>Assistant Director of Emerging Leader Tracking</b></h4>
-              Lauren Spataro
-      <h4>  <b> Captains</b></h4>
-      <table style="width:100%">
+              Alexyss Rainford
+      <!-- <h4>  <b> Captains</b></h4> -->
+      <!-- <table style="width:100%">
                 <tbody class="leadershipdevelopment"> </tbody>
               </table> -->
 
@@ -494,21 +500,59 @@ include("includes/navbar.php");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q9">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">Marathon Relations</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">Marathon Relations North</a>
             </h4>
           </div>
           <div id="a9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q9">
             <div class="panel-body">
               <b>Marathon Relations</b> is responsible for advising and growing Dance Marathon at UF’s high school programs, Mini Marathons. Marathon Relations is composed of two teams Marathon Relations North and Marathon Relations South. They energize and support our “Minis” by educating students on Children’s Miracle Network and Dance Marathon at UF’s history and culture. Captains focus on strengthening relationships with high schools around the state, by helping them plan and implement their own Mini Marathons. Most importantly, the Marathon Relations team attends all of our Mini Marathons, as well as hosts our partnering high school programs during Dance Marathon at the University of Florida. Captains will be responsible for at least one school which they will work with all year in order to ensure that school’s success.
               <br>
-              <div style="float: left; width: 50%;">
-                <h4><b>Overall Director of North</b></h4>
+                <h4><b>Overall Director</b></h4>
                 Mady Benton
-              </div>
-              <div style="float: left; width: 50%;">
-                <h4><b>Overall Director of South</b></h4>
+                <br><br>
+                <h4><b>	Assistant Director of New and Evolving</b></h4>
+                Lizanna Angeli
+                <h4><b>	Assistant Director of Finance and Sponsorships</b></h4>
+                Emily Giles
+                <h4><b>	Assistant Director of Projects and Communications</b></h4>
+                Asa Cooley
+              
+              <!--<br></br>
+              <h4><b>Assistant Director of New and Emerging Programs</b></h4>
+              Sheri Kusatzky
+              <h4><b>Assistant Director of Northern Region</b></h4>
+              Madalyn Benton
+              <h4><b>Assistant Director of Southern Region</b></h4>
+              Kayla Anschuetz
+	          <h4><b>Assistant Director of Special Projects and Communication</b></h4>
+              Alexis Pollak
+       <h4>  <b>Captains </b></h4>
+       <table style="width:100%">
+                <tbody class="marathonrelations"> </tbody>
+              </table> -->
+
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading" role="tab" id="q10">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#a10" aria-expanded="false" aria-controls="a10">Marathon Relations South</a>
+            </h4>
+          </div>
+          <div id="a10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q10">
+            <div class="panel-body">
+              <b>Marathon Relations</b> is responsible for advising and growing Dance Marathon at UF’s high school programs, Mini Marathons. Marathon Relations is composed of two teams Marathon Relations North and Marathon Relations South. They energize and support our “Minis” by educating students on Children’s Miracle Network and Dance Marathon at UF’s history and culture. Captains focus on strengthening relationships with high schools around the state, by helping them plan and implement their own Mini Marathons. Most importantly, the Marathon Relations team attends all of our Mini Marathons, as well as hosts our partnering high school programs during Dance Marathon at the University of Florida. Captains will be responsible for at least one school which they will work with all year in order to ensure that school’s success.
+              <br>
+                <h4><b>Overall Director</b></h4>
                 Alexis Pollak
-              </div>
+                <br><br>
+                <h4><b>	Assistant Director of New and Evolving</b></h4>
+                Rebecca Brennan
+                <h4><b>	Assistant Director of Finance and Sponsorships</b></h4>
+                Mary Claire Madden
+                <h4><b>	Assistant Director of Projects and Communications</b></h4>
+                Amanda De La Vega
               
               <!--<br></br>
               <h4><b>Assistant Director of New and Emerging Programs</b></h4>
@@ -539,17 +583,17 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Bryson Keel
-              <!-- <br></br>
+              <br></br>
               <h4><b>Assistant Director of Incentive Merchandise</b></h4>
-              Sajid Jafferjee
-              <h4><b>Assistant Director of Inventory</b></h4>
-              Emily McGaughy
+              Alexa Palermo
+              <h4><b>	Assistant Director of Inventory and Orders</b></h4>
+              Jordanna Herrmann
               <h4><b>Assistant Director of Mini Marathons</b></h4>
-              Bryson Keel
-			  <h4><b>Assistant Director of Orders</b></h4>
-              Taylor Tribuiani
+              Chris Stallings
+              <h4><b>Assistant Director of Internal Fundraising</b></h4>
+              Sadie Joba
 
-       <h4>  <b>Captains</b></h4>
+       <!-- <h4>  <b>Captains</b></h4>
        <table style="width:100%">
                 <tbody class="merch"> </tbody>
               </table> -->
@@ -570,14 +614,16 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Anna Fitzpatrick
-              <!-- <br>
+              <br><br>
               <h4><b>Assistant Director of Captain Relations</b></h4>
-              Sammie Saunders
-			  <h4><b>Assistant Director of Fundraising</b></h4>
-              Anna Fitzpatrick
+              Michael Sivilli
+			        <h4><b>Assistant Director of Fundraising</b></h4>
+              Houston Barenholtz
               <h4><b>Assistant Director of Mini Marathon Coordination</b></h4>
-              Alex Sikoryak
-      <h4>  <b> Captains</b></h4>
+              Zoë Hackshaw
+              <h4><b>	Assistant Director of Event Planning</b></h4>
+              Carlie Groeschen
+      <!-- <h4>  <b> Captains</b></h4>
       <table style="width:100%">
                 <tbody class="morale"> </tbody>
               </table> -->
@@ -598,16 +644,16 @@ include("includes/navbar.php");
               <br>
               <h4><b>Overall Director</b></h4>
               Paige Davis
-              <!-- <br>
+              <br><br>
               <h4><b>Assistant Director of Logistics</b></h4>
-              Gabriella Paul
-              <h4><b>Assistant Director of Photography</b></h4>
-              Mary Grace Paris
-              <h4><b>Assistant Director of Social Media</b></h4>
-              Paige Davis
-              <h4><b>Assistant Director of Videography</b></h4>
               Erica Criss
-    <h4>  <b>Captains</b></h4>
+              <h4><b>Assistant Director of Photography</b></h4>
+              Charles Hang
+              <h4><b>Assistant Director of Social Media</b></h4>
+              Gabriella Ginsburg
+              <h4><b>Assistant Director of Videography</b></h4>
+              Summer Torok
+    <!-- <h4>  <b>Captains</b></h4>
     <table style="width:100%">
                 <tbody class="multimedia"> </tbody>
               </table> -->
@@ -629,15 +675,15 @@ include("includes/navbar.php");
                 <br>
                 <h4><b>Overall Director</b></h4>
                 Jacqueline Lamm
-                <!-- <br>
+                <br><br>
                 <h4><b>Assistant Director of Campus Events </b></h4>
-                Carl Ty
+                Sofia Miret
                 <h4><b>Assistant Director of Logistics </b></h4>
-                Alex Smock
+                Lauren Isbel
                 <h4><b>Assistant Director of Talent Relations </b></h4>
-                Vicky Wajsbrot
-<h4>   <b>Captains</b></h4>
-<table style="width:100%">
+                Lauren Brunetti
+              <!-- <h4>   <b>Captains</b></h4>
+              <table style="width:100%">
                 <tbody class="productions"> </tbody>
               </table> -->
 
@@ -657,15 +703,16 @@ include("includes/navbar.php");
                 <br>
                 <h4><b>Overall Director</b></h4>
                 Maddy Whalen
-                <!-- <h4><b>Assistant Director of Internal Communications </b></h4>
-                Samantha Srebnick
+                <br><br>
+                <h4><b>Assistant Director of Internal Communications </b></h4>
+                Ashlyn Yarbrough
                 <h4><b>Assistant Director of Media Outreach </b></h4>
-                Allison Hellier
+                Alexis Ware
                 <h4><b>Assistant Director of Publications </b></h4>
-                Remi Storch
+                Hope Hathcock
                 <h4><b>Assistant Director of Social Media </b></h4>
-                Madison Whalen
-     <h4>  <b> Captains</b></h4>
+                Tori Grossman
+     <!-- <h4>  <b> Captains</b></h4>
      <table style="width:100%">
                 <tbody class="pr"> </tbody>
               </table> -->
@@ -686,14 +733,14 @@ include("includes/navbar.php");
                 <br>
                 <h4><b>Overall Director</b></h4>
                 Rebecca Daniel
-                <!-- <br>
+                <br><br>
                 <h4><b>Assistant Director of Campus Relations</b></h4>
-                Rebecca Daniel
+                Olivia Humbard
                 <h4><b>Assistant Director of Organization Development</b></h4>
-                Gianna Mangino
+                Madison Rossi
                 <h4><b>Assistant Director of Tracking</b></h4>
-                Breen Kiel
-           <h4>  <b>Captains</b></h4>
+                Brooklyn Nave
+           <!-- <h4>  <b>Captains</b></h4>
            <table style="width:100%">
                 <tbody class="recruitment"> </tbody>
               </table> -->
@@ -713,14 +760,14 @@ include("includes/navbar.php");
                 <br>
                 <h4><b>Overall Director</b></h4>
                 Sophie Shapiro
-                <!-- <br>
-                <h4><b>Assistant Director of In-Kind Donations</b></h4>
-                Galina Nelson
+                <br><br>
+                <h4><b>	Assistant Director of Outreach</b></h4>
+                Alexandra Heyer
                 <h4><b>Assistant Director of Internal Relations</b></h4>
-                Nicole Russo
+                Nina Berkowitz
                 <h4><b>Assistant Director of Stewardship</b></h4>
-                Paige Leaming
-          <h4>  <b>Captains</b></h4>
+                Hallie Richards
+          <!-- <h4>  <b>Captains</b></h4>
           <table style="width:100%">
                 <tbody class="sponsorships"> </tbody>
               </table> -->
