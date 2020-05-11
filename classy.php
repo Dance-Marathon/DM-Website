@@ -52,7 +52,7 @@
 <b>2. What should my billing statement list as the donation charge after I donate online?</b>
 <ul><li>SHANDS DEVELOPMENT ONL GAINESVILLE FL</li></ul>
 
-<p>If you have any further questions, please contact <a href="sgoldrich@floridadm.org">sgoldrich@floridadm.org</a>.</p>
+<p>If you have any further questions, please contact <a href="khenry@floridadm.org">khenry@floridadm.org</a>.</p>
 
 
       <?php } else { echo 'This page is currently closed.'; } ?>
