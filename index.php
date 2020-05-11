@@ -203,7 +203,7 @@
 <div id="event_banner">
 		<div class="row mt mb">
     </div>
-			
+
 	</div>
 
 
@@ -211,7 +211,7 @@
 
 
 
-      <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated its 25th year by raising a historic <i style="color:#617ba6;"><b>$3,230,025.23</b></i>!<br/>Join us in 2020 as we continue to make miracles <ii style="color:#f79b63;">
+      <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated its 26th year by raising a historic <i style="color:#617ba6;"><b>$2,526,418.24</b></i>!<br/>Join us in 2021 as we continue to make miracles <ii style="color:#f79b63;">
         <b> For The Kids!</b></i></br> <i  >
            <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
 </b></a>

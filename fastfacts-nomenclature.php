@@ -50,7 +50,7 @@ include("includes/navbar.php");
           <div role="tabpanel" class="tab-pane fade in active" id="fastfacts">
                     <h3>Where the Money Goes</h3>
         <p>
-        <b>100%</b> of the funds raised by DM at UF go directly to UF Health Shands Children's Hospital, our local Children Miracle Network hospital. Of these funds, most recently, <b>48%</b> goes to research, <b>10%</b> to education and <b>42%</b> to patient care. 
+        <b>100%</b> of the funds raised by DM at UF go directly to UF Health Shands Children's Hospital, our local Children Miracle Network hospital. Of these funds, most recently, <b>48%</b> goes to research, <b>10%</b> to education and <b>42%</b> to patient care.
         </p>
         <p>Patient care funding provides necessities such as bandages and patient gowns, as well as life-saving equipment and hospital improvements including the recent expansion of the Neonatal Intensive Care Unit. These funds also provide sleeper sofas for parents, playrooms for children, and Child Life programs, in an effort to make hospital stays more enjoyable for children and their families. Research funding helps our doctors find solutions for incurable diseases such as diabetes, cystic fibrosis, and cancer, and it allows them to develop new technology and enhanced processes that improve the daily lives of pediatric patients. Education funding supports programs such as Child Life Diversion therapy and goes toward raising funds and awareness for the Children’s Miracle Network.</p>
 
@@ -72,32 +72,32 @@ include("includes/navbar.php");
 
         <h3>Participants</h3>
         <p>
-          Number of Dancers in 2019: <b>825</b> (maximum capacity)
+          Number of Registered Dancers in 2020: <b>1,616</b> (maximum capacity)
           <br/>
-          Number of Captains: <b>531</b>
+          Number of Captains: <b>526</b>
           <br/>
-          Number of Emerging Leaders: <b>191</b>
+          Number of Emerging Leaders: <b>160</b>
           <br/>
-          Number of FTKrew: <b>74</b>
+          Number of Kirstyn's Krew: <b>N/A for 2020</b>
           <br/>
-          Number of Participants (including Overall Directors, Captains, Emerging Leaders and FTKrew): <b>5,896</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
+          Number of Participants (including Overall Directors, Captains, Emerging Leaders and Kirstyn's Krew): <b>5,926</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
           <br/>
-          Number of Miracle Families: <b>74</b>
+          Number of Miracle Families: <b>60</b>
           <br/>
-          Number of Sponsors: <b>150</b>
+          Number of Sponsors: <b>44</b>
           <br/>
-          Most Years as a Dancer: <b>12 years, Matt Michel</b> <!--change to exact-->
+          Most Years as a Dancer: <b>5 years</b> <!--change to exact-->
         </p>
 
         <h3>Fundraising</h3>
         <p>
-          <b>49,074</b> donations on Classy <!--change to exact-->
+          <b>41,758</b> donations on Classy <!--change to exact-->
           <br/>
-          <b>4,643</b> fundraisers raised at least $1 <!--change to exact-->
+          <b>2,676</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>
-          Amount raised in 2019: <b>$3,230,025.23</b>
+          Amount raised in 2020: <b>$2,526,418.24</b>
           <br/>
-          Total amount raised in past 25 years: more than <b>21.5 million dollars</b>
+          Total amount raised in past 26 years: more than <b>24 million dollars</b>
           <br/>
         </p>
           </div>
@@ -156,7 +156,8 @@ include("includes/navbar.php");
               <li>Fundraising and Orginization Development</li>
               <li>Hospitality</li>
               <li>Leadership Development</li>
-              <li>Marathon Relations</li>
+              <li>Marathon Relations North</li>
+              <li>Marathon Relations South</li>
               <li>Merchandise</li>
               <li>Morale</li>
               <li>Multimedia</li>
@@ -186,8 +187,8 @@ include("includes/navbar.php");
             </ul>
           </li>
           <li>Emerging Leaders</li>
-          <li>FTKrew</li>
-          <li>Delegates</li>
+          <li>Kirstyn's Krew</li>
+          <li>Ambassadors</li>
           <li>Dancers</li>
           <li>Fundraisers</li>
           <li>Dance Marathon Alumni (DMA)</li>
