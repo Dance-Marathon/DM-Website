@@ -24,11 +24,12 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-		  				<li><a href="/dance-marathon">Dance Marathon 2019</a></li>
+		  				<li><a href="/dance-marathon">Dance Marathon 2020</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a class="active">Miracle Gala</a></li>
-						<li><a href="/Warrior">Warrior Run</a></li>
-						<li><a href="/ft5k">FT5K</a></li>
+						<li><a href="/Miracles in Color 5K">Miracles in Color 5K</a></li>
+						<li><a href="/Moralloween">Moralloween</a></li>
+						<li><a href="/Moral Madness">Moral Madness</a></li>
           </ul>
         </div>
 			</div>
@@ -37,7 +38,7 @@
 
 				<h2>Miracle Gala</h2>
 
-<p>Tickets for Dance Marathon Miracle Gala 2020 are now available <a href="https://squareup.com/market/dance-marathon-at-uf/item/miracle-gala-ticket">here!</a></p>			
+<p>Tickets for Dance Marathon Miracle Gala 2020 are now available <a href="https://squareup.com/market/dance-marathon-at-uf/item/miracle-gala-ticket">here!</a></p>
 <p>Each year, we invite guests to join us for an evening of fine dining and dancing to recognize all of the accomplishments of Dance Marathon at UF and the doctors at UF Health Shands Children’s Hospital. The Miracle Gala is a beautiful night to celebrate our movement and the incredible strides we make each year!</p>
  <p>For more information, please contact the Outreach Overall Director, Matt Migliazza, at <a href="mailto:mmigliazza@floridadm.org">mmigliazza@floridadm.org</a>. We look forward to seeing you there!</p>
 

@@ -17,7 +17,7 @@ include("includes/navbar.php");
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1>Dance Marathon 2019
+					<h1>Dance Marathon 2020
 					</h1>
 				</div>
 			</div>
@@ -32,11 +32,12 @@ include("includes/navbar.php");
 			<div class="col-md-3">
 				<div class="sub-nav">
 					<ul>
-						<li><a class="active">Dance Marathon 2019</a></li>
+						<li><a class="active">Dance Marathon 2020</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
-						<li><a href="/Warrior">Warrior Run</a></li>
-						<li><a href="/ft5k">FT5K</a></li>
+						<li><a href="/Miracles in Color 5K">Miracles in Color 5K</a></li>
+						<li><a href="/Moralloween">Moralloween</a></li>
+						<li><a href="/Moral Madness">Moral Madness</a></li>
 					</ul>
 				</div>
 			</div>
@@ -81,7 +82,7 @@ include("includes/navbar.php");
  <!-- ASDJFKA:SDFJASDF -->
 								<div class="row mb">
 									<div class="col-md-12">
-										<h2>Livestream</h2>
+										<h2>2019 Event Livestream</h2>
 									</div>
 								</div>
 								<iframe width="560" height="315" src="https://www.youtube.com/embed/XKLMDu1HaRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
