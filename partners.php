@@ -66,7 +66,7 @@ DMA MEMBERS PAGE
       </p>
 
 
-      <p>If you have any questions, please contact our Sponsorships Overall Director, Katherine Dubina, at <a href="mailto:kdubina@floridadm.org">kdubina@floridadm.org</a></p>
+      <p>If you have any questions, please contact our Sponsorships Overall Director, Sophie Shapiro, at <a href="mailto:sshapiro@floridadm.org">sshapiro@floridadm.org</a></p>
 
 
 
@@ -298,7 +298,7 @@ DMA MEMBERS PAGE
 
       </div>
 
-  
+
 
       </div>
     </div>
