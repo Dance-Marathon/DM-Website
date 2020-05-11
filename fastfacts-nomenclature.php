@@ -176,7 +176,8 @@ include("includes/navbar.php");
               <li>Fundraising and Orginization Development</li>
               <li>Hospitality</li>
               <li>Leadership Development</li>
-              <li>Marathon Relations</li>
+              <li>Marathon Relations North</li>
+              <li>Marathon Relations South</li>
               <li>Merchandise</li>
               <li>Morale</li>
               <li>Multimedia</li>
