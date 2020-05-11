@@ -180,7 +180,7 @@
             <p>We are always looking for more high schools to join our Dance Marathon family. If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall Directors, Mady Benton and Alexis Pollak, at <a href="mbenton@floridadm.org">mbenton@floridadm.org</a> and <a href="apollak@floridadm.org">apollak@floridadm.org</a>.</p>
 >>>>>>> 63662c7f1123c17828cd88573ac9752ab6ac17e7
 
-            </div>
+        
 
             <div role="tabpanel" class="tab-pane fade" id="schools">
 			<ul>
