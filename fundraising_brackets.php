@@ -149,7 +149,7 @@ include("includes/navbar.php");
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
      <h2 class="text-center">Fundraising Brackets</h2>
-     <p class="text-center">About a month prior to the Event, all Organizations participating in Dance Marathon 2020 will be placed into Fundraising Brackets based on their current amount raised. Fundraising Brackets determine the number of Dancer spots allotted to each Organization. Organizations who have raised the most money will receive the greatest number of Dancer spots.</p>
+     <p class="text-center">About a month prior to the Event, all Organizations participating in Dance Marathon 2021 will be placed into Fundraising Brackets based on their current amount raised. Fundraising Brackets determine the number of Dancer spots allotted to each Organization. Organizations who have raised the most money will receive the greatest number of Dancer spots.</p>
 
 
   <script>
@@ -438,7 +438,7 @@ include("includes/navbar.php");
       </div>
     </div>
   </div>
-</div> 
+</div>
 
 
 

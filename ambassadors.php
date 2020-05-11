@@ -64,7 +64,7 @@ include("includes/navbar.php");
                 <li>Inform all Organization members of events, registration dates, fundraising incentives, etc.</li>
                 <li>Work with the Family Relations Team to engage with their respective Miracle Family throughout the year</li>
                 <li>Host a minimum of one Hospitality Night or fundraising event</li>
-                <li>Be in attendance at various Dance Marathon events during the year (i.e. Warrior Run, FTKickoff, FT5K, Miracle Family Events, etc.)</li>
+                <li>Be in attendance at various Dance Marathon events during the year (i.e. Miracles in Color 5K, Moralloween, Miracle Family Events, etc.)</li>
               </ul>
 
                 <p class="alert alert-info">Ambassadors are also eligible to apply for ELP and Captain positions in the Fall.</p>
@@ -90,7 +90,7 @@ include("includes/navbar.php");
             <li>Input your information and create a new Organization.</li>
             <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing Organization team.</li>
           </ol>
-            <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Kelsea Henry, at <a href=mailto:khenry@floridadm.org>khenry@floridadm.org</a> to inform her you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
+            <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Emma McClane, at <a href=mailto:emcclane@floridadm.org>emcclane@floridadm.org</a> to inform her you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
 
           </div>
         </div>
