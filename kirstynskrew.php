@@ -24,13 +24,14 @@
 			<div class="col-md-3">
   		  <div class="sub-nav">
           <ul>
-		  				<li><a href="/applications">Applications</a></li>
 						<li><a href="/alumni">Alumni</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
+						<li><a href="/applications">Applications</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/dancers">Dancers</a></li>
+						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a class="active">Kirstyn's Krew</a></li>
+						<li><a href="/organizations">Organizations</a></li>
           </ul>
         </div>
 			</div>
@@ -43,7 +44,7 @@
 					<p> Kirstyn’s Krew is a new program in honor of one of Miracle Children, Kirstyn Tripp, who lost her battle to childhood illness last year. The purpose of Kirstyn’s Krew is for students to experience Dance Marathon at UF 2019 and learn more about our fight to end childhood illness. As a member of Kirstyn’s Krew, you will earn 5-10 hours of community service for your support of the children at UF Health Shands Children’s Hospital.</p>
 					<p> Kirstyn’s Krew will consist of both required and optional events over the course of our 26.2 hour marathon on March 30-31. </p>
 					<p> The following events are required as a member of Kirstyn’s Krew: </p>
-					<ul> 
+					<ul>
 					<li> Informational meeting at 6:30 p.m. on March 26 </li>
 					<li> Dance Marathon Opening Ceremonies on March 30 at 11:00 a.m. </li>
 					<li> Dance Marathon Tour and Miracle Family Speech on March 30 between 1:00 p.m. and 3:00 p.m. </li>
@@ -60,7 +61,7 @@
 					<p>Applications for Kirstyn's Krew 2020 are now available <a href="https://ufl.qualtrics.com/jfe/form/SV_aYuplVMwxsrktYp">here</a> through March 16th at 11:59pm!</p>
 					<p>Kirstyn’s Krew is a program that honors Kirstyn Tripp, our Miracle Child who lost her battle to childhood illness in 2018. The purpose of Kirstyn’s Krew is for students to experience Dance Marathon at UF 2020 from a different perspective and learn more about our fight to end childhood illness. As a member of Kirstyn’s Krew, you will earn 5-10 hours of community service for your support of the children at UF Health Shands Children’s Hospital.</p>
 					<p>Kirstyn’s Krew will consist of both required and optional events over the course of our 26.2-hour event on March 28-29.</p>
-					<p> Please email Jenna Alderuccio, Recruitment Overall Director, at <a href=mailto:jalderuccio@floridadm.org>jalderuccio@floridadm.org</a> with any questions! </p>
+					<p> Please email Rebecca Daniel, Recruitment Overall Director, at <a href=mailto:rdaniel@floridadm.org>rdaniel@floridadm.org</a> with any questions! </p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
 					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2> -->

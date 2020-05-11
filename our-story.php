@@ -36,7 +36,7 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-       <p>Dance Marathon at UF is a yearlong effort involving community, hospitality and marketing events at local businesses that culminate in our Event each spring where students remain awake and on their feet for 26.2 hours to represent the hardships faced by children battling pediatric illness. DM at UF is one of the three founding Dance Marathon programs in the nation, and since our start we have raised more than $21.5 million For The Kids at UF Health Shands Children’s Hospital, our local CMN hospital. Today, Dance Marathon at UF involves 20 Overall Directors, 489 Captains, 191 Emerging Leaders, 150 Sponsors, 5,896 Fundraisers, and over 54,348 total donations. Everything we do is For The Kids</p>
+       <p>Dance Marathon at UF is a yearlong effort involving community, hospitality and marketing events at local businesses that culminate in our Event each spring where students remain awake and on their feet for 26.2 hours to represent the hardships faced by children battling pediatric illness. DM at UF is one of the three founding Dance Marathon programs in the nation, and since our start we have raised more than $24 million For The Kids at UF Health Shands Children’s Hospital, our local CMN hospital. Today, Dance Marathon at UF involves 21 Overall Directors, 526 Captains, 160 Emerging Leaders, 44 Sponsors, 5,926 Fundraisers, and over 54,348 total donations. Everything we do is For The Kids</p>
         <table class="table table-striped">
           <thead>
             <tr>
@@ -144,6 +144,10 @@
             <tr>
               <td>2019</td>
               <td>$3,230,025.23</td>
+						</tr>
+						<tr>
+							<td>2020</td>
+							<td>$2,526,418.24</td>
             </tr>
           </tbody>
         </table>

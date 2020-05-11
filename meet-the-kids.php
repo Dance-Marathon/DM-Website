@@ -143,7 +143,7 @@
 					  'name' => 'Jenna D.',
 						'description' =>'In may of 2010, Jenna became ill and was admitted to UF Health Shands Children’s Hospital with what would be later diagnosed as gastroparesis and IBS. She has had multiple procedures, surgeries, and lengthy hospital admissions over the several years to help manage her symptoms. Jenna has personally experienced the difference the programs sponsored by Children’s Miracle Network can make in the life of a child that is confined to the hospital.',
 						'image' => 'Jenna D',
-			  	),			   	
+			  	),
 			  	array(
 					  'name' => 'Jude and Oliver S.',
 						'description' => 'They were born at 26 weeks gestation (over three months early) and spent the first three months of their lives at the Shands NICU.  Both boys spent time in "giraffe" beds to control their body temperatures, on IV feeds then feeding tubes until they were big enough to begin bottle/nursing, were treated for infections, received blood for anemia.  Oliver additionally underwent a PDA ligation.  That&#39;s a lot of medical treatment, but we were actually really fortunate to not endure some of the more dire situations that micro preemies may experience.  After leaving Shands, we&#39;ve been lucky enough to not need readmission for anything.  At 4.5 years old, the only issues we face are with asthma and some allergies.  Jude and Oliver are both really energetic, curious boys.  They love playing pretend, building with their Legos, take gymnastics class, and are finishing up their VPK year at St. Michael&#39;s Day School, to begin kindergarten this Fall.',
@@ -379,7 +379,7 @@
 
 				<h3>For The Kids, For The Families</h3>
         <p>Dance Marathon at the University of Florida is very fortunate to have over 77 Miracle Families. Our Miracle Families are true inspirations and the pinnacle of what Dance Marathon stands for. The birthday parties, end-of-chemotherapy parties, and play dates that we have with the children constantly remind us of the true meaning behind “For The Kids” and “For All The Right Reasons.” The entire team at Dance Marathon is honored and privileged to have these amazing families attend Dance Marathon every year and support our students.</p>
-        <p>If you have any questions about the Family Relations program, or would like to become a Dance Marathon Miracle Family, please contact the Family Relations Overall Director, Lindsey Asher, at <a href="mailto:lasher@floridadm.org">lasher@floridadm.org</a></p>
+        <p>If you have any questions about the Family Relations program, or would like to become a Dance Marathon Miracle Family, please contact the Family Relations Overall Director, Courtney Kerwin, at <a href="mailto:ckerwin@floridadm.org">ckerwin@floridadm.org</a></p>
 
         <h3>Meet our Kids, Meet our Miracles</h3>
         <p>Take a moment to meet the heart and soul of our philanthropy. Our Miracle Children are the inspiration for every student who is part of DM at UF.</p>

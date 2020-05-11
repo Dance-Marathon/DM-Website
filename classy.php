@@ -41,7 +41,7 @@
       <?php if ($status == "open") { ?>
 
 				<h2>Classy</h2>
-				<p>UF Health Shands Children’s Hospital is utilizing Classy, an online fundraising platform, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will now be creating Classy accounts to begin fundraising for DM at UF 2020. Classy is safe and easy to use. To create a fundraising page, register using the link below:</p>
+				<p>UF Health Shands Children’s Hospital is utilizing Classy, an online fundraising platform, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will now be creating Classy accounts to begin fundraising for DM at UF 2021. Classy is safe and easy to use. To create a fundraising page, register using the link below:</p>
 				<a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292" target="_blank">Register To Fundraise</a>
 				<p></p>
 
@@ -52,7 +52,7 @@
 <b>2. What should my billing statement list as the donation charge after I donate online?</b>
 <ul><li>SHANDS DEVELOPMENT ONL GAINESVILLE FL</li></ul>
 
-<p>If you have any further questions, please contact <a href="sgoldrich@floridadm.org">sgoldrich@floridadm.org</a>.</p>
+<p>If you have any further questions, please contact <a href="khenry@floridadm.org">khenry@floridadm.org</a>.</p>
 
 
       <?php } else { echo 'This page is currently closed.'; } ?>

@@ -53,7 +53,7 @@ include("includes/navbar.php");
 									<li> From here, you can use the tools on Classy to send emails from a template, track your fundraising and personalize your fundraising page!</li>
 								</ol>
 
-								<p>If you have any questions about Classy contact the Fundraising & Organization Development Overall Director  <a href="mailto:khenry@floridadm.org  ">khenry@floridadm.org  </a></p>
+								<p>If you have any questions about Classy contact the Fundraising & Organization Development Overall Director  <a href="mailto:emcclane@floridadm.org  ">emcclane@floridadm.org  </a></p>
 
 						   	</div>
 							</div>

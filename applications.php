@@ -24,20 +24,21 @@
 			<div class="col-md-3">
   		  <div class="sub-nav">
           <ul>
-		  				<li><a class="active">Applications</a></li>
 						<li><a href="/alumni">Alumni</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
+						<li><a class="active">Applications</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/dancers">Dancers</a></li>
+						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
+						<li><a href="/organizations">Organizations</a></li>
           </ul>
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<p>2020 Captain and Emerging Leader Applications are now closed. For more information on getting involved in our cause, please reach out to our Recruitment Overall Director, Jenna Alderuccio at <a href="mailto:jalderuccio@floridadm.org">jalderuccio@floridadm.org</a>.</p>
+					<p>2020 Captain and Emerging Leader Applications are now closed. For more information on getting involved in our cause, please reach out to our Recruitment Overall Director, Rebecca Daniel at <a href="mailto:rdaniel@floridadm.org">rdaniel@floridadm.org</a>.</p>
 					<!-- <p>2020 Captain and Emerging Leader Applications will open 12:00 a.m. on Friday, August 23.</p>
 					<p>The online application forms are linked below. In order to be considered for either position, you must complete the online application form, create a Classy personal fundraising page, and pay the $25 application fee. If you are applying to both positions, you only need to pay the application fee once. Instructions on how to complete both of these items can be found on the front page of either application.</p>
 					<p>The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0HAseSzBiPPvUFL" target="_blank">here</a>. This application will close at 11:59 p.m. on Friday, August 30.</p>

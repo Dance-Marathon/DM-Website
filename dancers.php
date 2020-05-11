@@ -25,13 +25,14 @@ include("includes/navbar.php");
 
   			<div class="sub-nav">
           <ul>
-          <li><a href="/applications">Applications</a></li>
-						<li><a href="/alumni">Alumni</a></li>
-						<li><a href="/ambassadors">Ambassadors</a></li>
+            <li><a href="/alumni">Alumni</a></li>
+            <li><a href="/ambassadors">Ambassadors</a></li>
+            <li><a href="/applications">Applications</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a class="active">Dancers</a></li>
+            <li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
+            <li><a href="/organizations">Organizations</a></li>
 
           </ul>
         </div>
@@ -59,7 +60,7 @@ include("includes/navbar.php");
             <p>Dance Marathon at the University of Florida is an annual 26.2-hour event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, more than 800 students stay awake and on their feet to raise money and awareness for Children's Miracle Network Hospitals.</p>
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the 26.2-hour event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p><a href="https://ufl.qualtrics.com/jfe/form/SV_cOVFELSYJdiDbO5" target="_blank">Click Here to Register to Dance</a></p>
-            <p>Please email Claire Overholt, Dancer Relations Overall Director, at <a href="mailto:coverholt@floridadm.org">coverholt@floridadm.org </a> with any questions!</p>
+            <p>Please email Caroline Lee, Dancer Relations Overall Director, at <a href="mailto:clee@floridadm.org">clee@floridadm.org </a> with any questions!</p>
           </div>
 
           <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">

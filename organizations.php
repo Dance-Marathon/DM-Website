@@ -7,127 +7,23 @@ include("includes/navbar.php");
 
 $greek_organizations = array(
   array(
-    'organization'  =>  'Benton Engineering Council',
+    'organization'  =>  'Alpha Chi Omega',
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Beta Upsilon Chi',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Black Student Union',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Campus Juice',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Delta Nu Zeta',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Epsilon Sigma Alpha',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Florida Athletic Training',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Florida Cicerones',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Freshman Leadership Council',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Gamma Eta',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Gator Band',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Heal the World',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Health Quality Outreach Improvement',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'HOSA',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Levin College of Law',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Omega Phi Alpha',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Pre-Student Osteopathic Medical Association',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Preview Staff',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Sabor Latino',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Sigma Alpha',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'SOTA',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'SPTA',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Theta Alpha',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Theta Tau',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'UF Medlife',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'UF Model United Nations',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'UF College of Medicine',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'UF College of Pharmacy (PPAG)',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'UF Honors Program',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'UF Premed AMSA',
+    'organization'  =>  'Alpha Delta Pi',
     'link'          =>  ''
     ),
   array(
     'organization'  =>  'Alpha Epsilon Phi',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Alpha Epsilon Pi',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Alpha Epsilon Delta',
     'link'          =>  ''
     ),
   array(
@@ -139,11 +35,27 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
+    'organization'  =>  'Alpha Phi',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Alpha Phi Omega',
+    'link'          =>  ''
+    ),
+  array(
     'organization'  =>  'Alpha Tau Omega',
     'link'          =>  ''
     ),
   array(
+    'organization'  =>  'AMSA',
+    'link'          =>  ''
+    ),
+  array(
     'organization'  =>  'Beta Theta Pi',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Catholic Gators',
     'link'          =>  ''
     ),
   array(
@@ -152,10 +64,34 @@ $greek_organizations = array(
     ),
   array(
     'organization'  =>  'Chi Phi',
-    'link'          =>  '',
+    'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Delta Chi',
+    'organization'  =>  'CHSC',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'College of Education',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'College of Medicine',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'College of Nursing',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'College of Pharmacy',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Cupcakes for a Cure',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Dancin&#39; Gators',
     'link'          =>  ''
     ),
   array(
@@ -167,7 +103,15 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
+    'organization'  =>  'Delta Nu Zeta',
+    'link'          =>  ''
+    ),
+  array(
     'organization'  =>  'Delta Phi Epsilon',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Delta Sigma Phi',
     'link'          =>  ''
     ),
   array(
@@ -183,11 +127,55 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Kappa Alpha Theta',
+    'organization'  =>  'Doctors Without Borders Student Chapter',
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Kappa Alpha',
+    'organization'  =>  'Dream Team',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Epsilon Sigma Alpha',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Extreme Dance Company',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Footprints',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Gamma Eta',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Gamma Phi Beta',
+    'link'          =>  '',
+    ),
+  array(
+    'organization'  =>  'Gator Band',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Hispanic Student Association',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Indian Student Association',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Jewish Student Union',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Kappa Alpha Order',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Kappa Alpha Theta',
     'link'          =>  ''
     ),
   array(
@@ -207,7 +195,31 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Lambda Chi Alpha',
+    'organization'  =>  'Lamba Chi Alpha',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'National Society of Collegiate Scholars',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Nina Karlinsky Memorial Team',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Omega Phi Alpha',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Phi Delta Theta',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Phi Epsilon Kappa',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Phi Eta Sigma Honor Society',
     'link'          =>  ''
     ),
   array(
@@ -223,15 +235,15 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Phi Sigma Kappa',
-    'link'          =>  ''
-    ),
-  array(
     'organization'  =>  'Phi Sigma Pi',
     'link'          =>  ''
     ),
   array(
     'organization'  =>  'Pi Beta Phi',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Pi Delta Psi',
     'link'          =>  ''
     ),
   array(
@@ -243,7 +255,31 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Pi Lambda Phi',
+    'organization'  =>  'Pi Lamba Phi',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Pre-Legal Honor Society',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Preview Staff',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Public Health and Health Professions',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'SHPE',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Sigma Alpha',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Sigma Alpha Epsilon',
     'link'          =>  ''
     ),
   array(
@@ -259,15 +295,67 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Sigma Phi Lambda',
+    'organization'  =>  'Sigma Phi Epsilon',
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Tau Epsilon Phi',
+    'organization'  =>  'Sigma Phi Lamda',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Society of Women Engineers',
     'link'          =>  ''
     ),
   array(
     'organization'  =>  'Tau Kappa Epsilon',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'The Gator Aides',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'The Navigators',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Theta Alpha',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Theta Chi',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Theta Tau',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'Tone Def A Cappella',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'UF Honors Program',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'UF Innovation Academy',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'UF MBA',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'UF MEDLIFE',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'UF Signing Gators',
+    'link'          =>  ''
+    ),
+  array(
+    'organization'  =>  'UFAA: Florida Cicerones',
     'link'          =>  ''
     ),
   array(
@@ -276,106 +364,6 @@ $greek_organizations = array(
     ),
   array(
     'organization'  =>  'Zeta Tau Alpha',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Theta Chi',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Alpha Chi Omega',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Alpha Delta Pi',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Asian American Student Union',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Campus Diplomats',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'CMA EDU',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'College of Public Health and Health Professions',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'CRU at UF',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Dancin&#39; Gators',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Dream Team',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'English Language Institute',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Florida Club Swim & Dive',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Freshman Leadership Engineering Group',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Gamma Phi Beta',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Gator Alliance for World Health',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'HakeemGetzYouGainz',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Jewish Student Union',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'National Society of Collegiate Scholars',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Phi Delta Theta',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Pi Sigma Alpha',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'The Involvement Team',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'The Really Independent Florida Crocodile',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'UF College of Nursing',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'UF Student Government',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Alpha Epsilon Pi',
     'link'          =>  ''
     )
   );
@@ -405,12 +393,12 @@ usort($greek_organizations, 'compareAlphabetically');
   			<div class="sub-nav">
           <ul>
             <li><a href="/alumni">Alumni</a></li>
+            <li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/applications">Applications</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<!--<li><a href="/ftkrew">FTKrew</a></li>-->
+					  <li><a href="/kristynskrew">Kirstyn's Krew</a></li>
 						<li><a class="active">Organizations</a></li>
 
           </ul>
@@ -420,8 +408,8 @@ usort($greek_organizations, 'compareAlphabetically');
   		<?php if ($status == "open") { ?>
      <h3>Organizations</h3>
 		  <p>Over 100 Organizations at the University of Florida participate in Dance Marathon every year!</p>
-      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall Stella Matic at <a href=mailto:smatic@floridadm.org>smatic@floridadm.org</a></p>
-      <p>Below are the Organizations currently involved in Dance Marathon at UF 2019:</p>
+      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Rebecca Daniel, at <a href=mailto:rdaniel@floridadm.org>rdaniel@floridadm.org</a></p>
+      <p>Below are the Organizations currently involved in Dance Marathon at UF 2020:</p>
 
       <table class="table table-bordered table-middle">
         <tbody>

@@ -298,13 +298,14 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-		  				<li><a href="/applications">Applications</a></li>
 						<li><a class="active">Alumni</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
+						<li><a href="/applications">Applications</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/dancers">Dancers</a></li>
+						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
+						<li><a href="/organizations">Organizations</a></li>
           </ul>
         </div>
 			</div>
@@ -331,7 +332,7 @@
 
 						<h3>About</h3>
 
-<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $54,925.83 to our final total, exhibiting their continued passion For The Kids.</p>
+<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $66,528 to our final total, exhibiting their continued passion For The Kids.</p>
 <p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 per year and offers a variety of benefits.</p>
 
 				      <h3>Lifetime DMA Membership</h3>
@@ -370,7 +371,7 @@
 								<li>Access to the Family Room at the event</li>
 								<p><small>*DMA Dancer registration fees apply.</small></p>
 								<p><small>**DMA event t-shirt opt-in includes a direct mailing option for those members unable to attend the event. </small></p>
-							</ul>	
+							</ul>
 					<h4><b><u><i>Please note:</i></u></b></h4>
 					<p>1. As a <b style="color:#f79b63;">Miracle Member</b> of the DMA, you will have the benefit to maintain this status for life. You may elect to upgrade your membership to the new <b style="color:#617ba6;">Legacy Membership</b> as outlined below.</p>
 					<p>2. Any returning member, whose current membership lapses, will automatically move into the <b style="color:#f79b63;">Miracle Membership</b> status. These members may upgrade to the new <b style="color:#617ba6;">Legacy Membership</b> at any time throughout the year, up until one month before Dance Marathon weekend. </p>
