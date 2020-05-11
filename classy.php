@@ -41,7 +41,7 @@
       <?php if ($status == "open") { ?>
 
 				<h2>Classy</h2>
-				<p>UF Health Shands Children’s Hospital is utilizing Classy, an online fundraising platform, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will now be creating Classy accounts to begin fundraising for DM at UF 2020. Classy is safe and easy to use. To create a fundraising page, register using the link below:</p>
+				<p>UF Health Shands Children’s Hospital is utilizing Classy, an online fundraising platform, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will now be creating Classy accounts to begin fundraising for DM at UF 2021. Classy is safe and easy to use. To create a fundraising page, register using the link below:</p>
 				<a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292" target="_blank">Register To Fundraise</a>
 				<p></p>
 
