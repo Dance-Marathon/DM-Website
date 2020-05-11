@@ -62,8 +62,8 @@ include("includes/navbar.php");
               $('.outreach').append('<td>' + this.gsx$communityoutreach.$t + '</td>');
               counters["outreach"]++;
             } else {
-                $('.outreach').append('</tr>'); 
-                $('.outreach').append('<tr>');  
+                $('.outreach').append('</tr>');
+                $('.outreach').append('<tr>');
                 $('.outreach').append('<td>' + this.gsx$communityoutreach.$t + '</td>');
                 counters["outreach"] = 1;
             }
@@ -74,8 +74,8 @@ include("includes/navbar.php");
               $('.dancerrelations').append('<td>' + this.gsx$dancerrelations.$t + '</td>');
               counters["dancerrelations"]++;
             } else {
-                $('.dancerrelations').append('</tr>'); 
-                $('.dancerrelations').append('<tr>');  
+                $('.dancerrelations').append('</tr>');
+                $('.dancerrelations').append('<tr>');
                 $('.dancerrelations').append('<td>' + this.gsx$dancerrelations.$t + '</td>');
                 counters["dancerrelations"] = 1;
             }
@@ -86,8 +86,8 @@ include("includes/navbar.php");
               $('.designandtech').append('<td>' + this.gsx$designtechnoly.$t + '</td>');
               counters["designandtech"]++;
             } else {
-                $('.designandtech').append('</tr>'); 
-                $('.designandtech').append('<tr>');  
+                $('.designandtech').append('</tr>');
+                $('.designandtech').append('<tr>');
                 $('.designandtech').append('<td>' + this.gsx$designtechnoly.$t + '</td>');
                 counters["designandtech"] = 1;
             }
@@ -98,8 +98,8 @@ include("includes/navbar.php");
               $('.fundraising').append('<td>' + this.gsx$fundraisingandorganizationdevelopment.$t + '</td>');
               counters["fundraising"]++;
             } else {
-                $('.fundraising').append('</tr>'); 
-                $('.fundraising').append('<tr>');  
+                $('.fundraising').append('</tr>');
+                $('.fundraising').append('<tr>');
                 $('.fundraising').append('<td>' + this.gsx$fundraisingandorganizationdevelopment.$t + '</td>');
                 counters["fundraising"] = 1;
             }
@@ -110,8 +110,8 @@ include("includes/navbar.php");
               $('.hospitality').append('<td>' + this.gsx$hospitality.$t + '</td>');
               counters["hospitality"]++;
             } else {
-                $('.hospitality').append('</tr>'); 
-                $('.hospitality').append('<tr>');  
+                $('.hospitality').append('</tr>');
+                $('.hospitality').append('<tr>');
                 $('.hospitality').append('<td>' + this.gsx$hospitality.$t + '</td>');
                 counters["hospitality"] = 1;
             }
@@ -122,8 +122,8 @@ include("includes/navbar.php");
               $('.leadershipdevelopment').append('<td>' + this.gsx$leadershipdevelopment.$t + '</td>');
               counters["leadershipdevelopment"]++;
             } else {
-                $('.leadershipdevelopment').append('</tr>'); 
-                $('.leadershipdevelopment').append('<tr>');  
+                $('.leadershipdevelopment').append('</tr>');
+                $('.leadershipdevelopment').append('<tr>');
                 $('.leadershipdevelopment').append('<td>' + this.gsx$leadershipdevelopment.$t + '</td>');
                 counters["leadershipdevelopment"] = 1;
             }
@@ -134,8 +134,8 @@ include("includes/navbar.php");
               $('.marathonrelations').append('<td>' + this.gsx$marathonrelations.$t + '</td>');
               counters["marathonrelations"]++;
             } else {
-                $('.marathonrelations').append('</tr>'); 
-                $('.marathonrelations').append('<tr>');  
+                $('.marathonrelations').append('</tr>');
+                $('.marathonrelations').append('<tr>');
                 $('.marathonrelations').append('<td>' + this.gsx$marathonrelations.$t + '</td>');
                 counters["marathonrelations"] = 1;
             }
@@ -146,8 +146,8 @@ include("includes/navbar.php");
               $('.merch').append('<td>' + this.gsx$merchandise.$t + '</td>');
               counters["merch"]++;
             } else {
-                $('.merch').append('</tr>'); 
-                $('.merch').append('<tr>');  
+                $('.merch').append('</tr>');
+                $('.merch').append('<tr>');
                 $('.merch').append('<td>' + this.gsx$merchandise.$t + '</td>');
                 counters["merch"] = 1;
             }
@@ -158,8 +158,8 @@ include("includes/navbar.php");
               $('.morale').append('<td>' + this.gsx$morale.$t + '</td>');
               counters["morale"]++;
             } else {
-                $('.morale').append('</tr>'); 
-                $('.morale').append('<tr>');  
+                $('.morale').append('</tr>');
+                $('.morale').append('<tr>');
                 $('.morale').append('<td>' + this.gsx$morale.$t + '</td>');
                 counters["morale"] = 1;
             }
@@ -170,8 +170,8 @@ include("includes/navbar.php");
               $('.multimedia').append('<td>' + this.gsx$multimedia.$t + '</td>');
               counters["multimedia"]++;
             } else {
-                $('.multimedia').append('</tr>'); 
-                $('.multimedia').append('<tr>');  
+                $('.multimedia').append('</tr>');
+                $('.multimedia').append('<tr>');
                 $('.multimedia').append('<td>' + this.gsx$multimedia.$t + '</td>');
                 counters["multimedia"] = 1;
             }
@@ -182,8 +182,8 @@ include("includes/navbar.php");
               $('.productions').append('<td>' + this.gsx$productions.$t + '</td>');
               counters["productions"]++;
             } else {
-                $('.productions').append('</tr>'); 
-                $('.productions').append('<tr>');  
+                $('.productions').append('</tr>');
+                $('.productions').append('<tr>');
                 $('.productions').append('<td>' + this.gsx$productions.$t + '</td>');
                 counters["productions"] = 1;
             }
@@ -194,8 +194,8 @@ include("includes/navbar.php");
               $('.pr').append('<td>' + this.gsx$publicrelations.$t + '</td>');
               counters["pr"]++;
             } else {
-                $('.pr').append('</tr>'); 
-                $('.pr').append('<tr>');  
+                $('.pr').append('</tr>');
+                $('.pr').append('<tr>');
                 $('.pr').append('<td>' + this.gsx$publicrelations.$t + '</td>');
                 counters["pr"] = 1;
             }
@@ -206,8 +206,8 @@ include("includes/navbar.php");
               $('.recruitment').append('<td>' + this.gsx$recruitment.$t + '</td>');
               counters["recruitment"]++;
             } else {
-                $('.recruitment').append('</tr>'); 
-                $('.recruitment').append('<tr>');  
+                $('.recruitment').append('</tr>');
+                $('.recruitment').append('<tr>');
                 $('.recruitment').append('<td>' + this.gsx$recruitment.$t + '</td>');
                 counters["recruitment"] = 1;
             }
@@ -218,8 +218,8 @@ include("includes/navbar.php");
               $('.sponsorships').append('<td>' + this.gsx$sponsorships.$t + '</td>');
               counters["sponsorships"]++;
             } else {
-                $('.sponsorships').append('</tr>'); 
-                $('.sponsorships').append('<tr>');  
+                $('.sponsorships').append('</tr>');
+                $('.sponsorships').append('<tr>');
                 $('.sponsorships').append('<td>' + this.gsx$sponsorships.$t + '</td>');
                 counters["sponsorships"] = 1;
             }
@@ -230,14 +230,14 @@ include("includes/navbar.php");
               $('.familyrelations').append('<td>' + this.gsx$familyrelations.$t + '</td>');
               counters["familyrelations"]++;
             } else {
-                $('.familyrelations').append('</tr>'); 
-                $('.familyrelations').append('<tr>');  
+                $('.familyrelations').append('</tr>');
+                $('.familyrelations').append('<tr>');
                 $('.familyrelations').append('<td>' + this.gsx$familyrelations.$t + '</td>');
                 counters["familyrelations"] = 1;
             }
           }
-          
-               
+
+
        });
    });
    $('.outreach').append('</tr>');
@@ -254,8 +254,8 @@ include("includes/navbar.php");
    $('.pr').append('</tr>');
    $('.recruitment').append('</tr>');
    $('.sponsorships').append('</tr>');
-   $('.familyrelations').append('</tr>'); 
-   
+   $('.familyrelations').append('</tr>');
+
 </script>
 
 <div class="page-heading parallax captain-teams">
@@ -276,13 +276,14 @@ include("includes/navbar.php");
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
+            <li><a href="/alumni">Alumni</a></li>
+            <li><a href="/ambassadors">Ambassadors</a></li>
             <li><a href="/applications">Applications</a></li>
-						<li><a href="/alumni">Alumni</a></li>
-						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a class="active">Captain Teams</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/dancers">Dancers</a></li>
+            <li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
+            <li><a href="/organizations">Organizations</a></li>
           </ul>
         </div>
 			</div>
@@ -386,7 +387,7 @@ include("includes/navbar.php");
           </div>
           <div id="a5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q5">
             <div class="panel-body">
-              <b> Family Relations Captains </b> serve as liaisons between the Dance Marathon community and the Miracle Families. Captains are paired with at least one Miracle Family, and their responsibilities include: maintaining consistent contact with their respective Miracle Families, working on the Pen Pal program, and coordinating events between the Miracle Families and participating Organizations through Miracle Child Teams. Captains will attend monthly Family Fun Days in order to connect Miracle Families to the Dance Marathon community. Captains also volunteer at UF Health Shands Children’s Hospital in Pediatric Units 44 and 45. Captains create the family room for the 26.2-hour event and facilitate activities and entertainment for the Miracle Families throughout the entirety of the Event. 
+              <b> Family Relations Captains </b> serve as liaisons between the Dance Marathon community and the Miracle Families. Captains are paired with at least one Miracle Family, and their responsibilities include: maintaining consistent contact with their respective Miracle Families, working on the Pen Pal program, and coordinating events between the Miracle Families and participating Organizations through Miracle Child Teams. Captains will attend monthly Family Fun Days in order to connect Miracle Families to the Dance Marathon community. Captains also volunteer at UF Health Shands Children’s Hospital in Pediatric Units 44 and 45. Captains create the family room for the 26.2-hour event and facilitate activities and entertainment for the Miracle Families throughout the entirety of the Event.
               <br>
               <h4><b>Overall Director</b></h4>
               Courtney Kerwin
@@ -416,7 +417,7 @@ include("includes/navbar.php");
           </div>
           <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
             <div class="panel-body">
-              <b> The Fundraising and Organization Development Team </b> is responsible for financial oversight, funds processing, collections, and fundraising strategies/incentives. These Captains play an integral role in the success of Dance Marathon at UF by ensuring that the total fundraising reveal is accurate up until the very last minute, when the final numbers are raised. This team is also responsible for coordinating the Organization Ambassador Program to ensure Ambassadors of Organizations have updated and accurate information about all upcoming events, deadlines, and fundraising tracking. Each Captain will be assigned several Organizations to keep informed and to certify their Organizations' success. He/she is also expected to coordinate with the Family Relations and Dancer Relations Teams in regard to his/her Organization(s). 
+              <b> The Fundraising and Organization Development Team </b> is responsible for financial oversight, funds processing, collections, and fundraising strategies/incentives. These Captains play an integral role in the success of Dance Marathon at UF by ensuring that the total fundraising reveal is accurate up until the very last minute, when the final numbers are raised. This team is also responsible for coordinating the Organization Ambassador Program to ensure Ambassadors of Organizations have updated and accurate information about all upcoming events, deadlines, and fundraising tracking. Each Captain will be assigned several Organizations to keep informed and to certify their Organizations' success. He/she is also expected to coordinate with the Family Relations and Dancer Relations Teams in regard to his/her Organization(s).
               <br>
               <h4><b>Overall Director</b></h4>
               Emma McClane
@@ -436,7 +437,7 @@ include("includes/navbar.php");
             </div>
           </div>
         </div>
-        
+
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q7">
             <h4 class="panel-title">
@@ -516,7 +517,7 @@ include("includes/navbar.php");
                 Emily Giles
                 <h4><b>	Assistant Director of Projects and Communications</b></h4>
                 Asa Cooley
-              
+
               <!--<br></br>
               <h4><b>Assistant Director of New and Emerging Programs</b></h4>
               Sheri Kusatzky
@@ -553,7 +554,7 @@ include("includes/navbar.php");
                 Mary Claire Madden
                 <h4><b>	Assistant Director of Projects and Communications</b></h4>
                 Amanda De La Vega
-              
+
               <!--<br></br>
               <h4><b>Assistant Director of New and Emerging Programs</b></h4>
               Sheri Kusatzky
@@ -610,7 +611,7 @@ include("includes/navbar.php");
           </div>
           <div id="a12" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q12">
             <div class="panel-body">
-              <b> The Morale Team </b> is responsible for keeping the spirit of Dance Marathon energetic, positive, and meaningful throughout the entire year, prior to and during the 26.2-hour event. They do this through engaging with students and the UF community, hosting Fall and Spring fundraisers, attending both Dance Marathon and UF-related events, interacting with high school students at Mini Marathons, and much more. They constantly work to uplift, inspire, and encourage every member of the DM at UF community. In addition, Morale is in charge of creating, planning, and executing “Theme Hours,” which are unique hours during the big Event that include costumes and activities to entertain the Dancers. Finally, Morale Captains create the revered Linedance, which uplifts and connects every person at the 26.2-hour event. Morale then teaches and demonstrates the Linedance at the Event and throughout the year. 
+              <b> The Morale Team </b> is responsible for keeping the spirit of Dance Marathon energetic, positive, and meaningful throughout the entire year, prior to and during the 26.2-hour event. They do this through engaging with students and the UF community, hosting Fall and Spring fundraisers, attending both Dance Marathon and UF-related events, interacting with high school students at Mini Marathons, and much more. They constantly work to uplift, inspire, and encourage every member of the DM at UF community. In addition, Morale is in charge of creating, planning, and executing “Theme Hours,” which are unique hours during the big Event that include costumes and activities to entertain the Dancers. Finally, Morale Captains create the revered Linedance, which uplifts and connects every person at the 26.2-hour event. Morale then teaches and demonstrates the Linedance at the Event and throughout the year.
               <br>
               <h4><b>Overall Director</b></h4>
               Anna Fitzpatrick
@@ -729,7 +730,7 @@ include("includes/navbar.php");
             </div>
             <div id="a17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q17">
               <div class="panel-body">
-                <b> The Recruitment Team </b> The Recruitment Team is responsible for the recruitment of Dancers, Kirstyn’s Krew, Captains, Emerging Leaders, and Organizations to participate in Dance Marathon at UF. Throughout the year, Captains will give presentations and flyer about our cause to various organizations across campus, working to convey the miracles that Dance Marathon creates, and how each organization can give back to their local Children’s Miracle Network Hospital. Recruitment Captains are integral parts of the movement as they inspire and create leaders in our community, all while raising awareness about Dance Marathon and its purpose. Each Recruitment Captain is also in charge of recruiting external organizations who are not currently a part of Dance Marathon, in order to expand our involvement throughout the University of Florida and find ways to support other organizations the way they support us. 
+                <b> The Recruitment Team </b> The Recruitment Team is responsible for the recruitment of Dancers, Kirstyn’s Krew, Captains, Emerging Leaders, and Organizations to participate in Dance Marathon at UF. Throughout the year, Captains will give presentations and flyer about our cause to various organizations across campus, working to convey the miracles that Dance Marathon creates, and how each organization can give back to their local Children’s Miracle Network Hospital. Recruitment Captains are integral parts of the movement as they inspire and create leaders in our community, all while raising awareness about Dance Marathon and its purpose. Each Recruitment Captain is also in charge of recruiting external organizations who are not currently a part of Dance Marathon, in order to expand our involvement throughout the University of Florida and find ways to support other organizations the way they support us.
                 <br>
                 <h4><b>Overall Director</b></h4>
                 Rebecca Daniel
