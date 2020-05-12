@@ -26,9 +26,9 @@
           <ul>
 		  				<li><a href="/dance-marathon">Dance Marathon 2020</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
-						<li><a class="/miracle-gala">Miracle Gala</a></li>
+						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a href="/Miracles-in-Color-5K">Miracles in Color 5K</a></li>
-						<li><a href="active">Moralloween</a></li>
+						<li><a class="active">Moralloween</a></li>
 						<li><a href="/Moral-Madness">Moral Madness</a></li>
           </ul>
         </div>
@@ -36,7 +36,7 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 
-				<h2>Moraloween</h2>
+				<h2>Moralloween</h2>
 
                 <p>Moralloween is an annual fall fundraiser put on by Dance Marathon at UF, a student-run philanthropy that raises funds and awareness year-round For The Kids at UF Health Shands Children’s Hospital! Organizations across campus participate by creating booths with activities, candy, and ways to bond with attendees and Miracle Families. Moralloween has a DJ, great food, and is a great way for everyone to get in the Halloween spirit!</p>
 
