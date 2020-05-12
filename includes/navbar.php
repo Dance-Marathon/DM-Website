@@ -49,8 +49,8 @@
 				<li <?php echo ($parent == 'get-involved') ? "class='open'" : ""; ?>>
 					<a href="/get-involved" class="dropdown-toggle">Get Involved</a>
 					<ul class="dropdown-menu" role="menu">
-					  <li><a href="/applications">Applications</a></li>
 						<li><a href="/alumni">Alumni</a></li>
+					  	<li><a href="/applications">Applications</a></li>
 						<li><a href="/ambassadors">Ambassadors</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
