@@ -27,7 +27,7 @@
   				  <li><a href="/dance-marathon">Dance Marathon 2020</a></li>
 					  <li><a href="/mini-marathon">Mini-Marathon</a></li>
             <li><a href="/miracle-gala">Miracle Gala</a></li>
-            <li><a href="/Miracles-in-Color-5K">Miracles in Color 5K</a></li>
+            <li><a href="/Miracles-in-Color-5k">Miracles in Color 5K</a></li>
 					  <li><a href="/Moralloween">Moralloween</a></li>
 						<li><a href="/Moral-Madness">Moral Madness</a></li>
 
