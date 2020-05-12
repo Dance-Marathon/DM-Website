@@ -39,7 +39,7 @@
 				<h2>Moralloween</h2>
 
                 <p>Moralloween is an annual fall fundraiser put on by Dance Marathon at UF, a student-run philanthropy that raises funds and awareness year-round For The Kids at UF Health Shands Children’s Hospital! Organizations across campus participate by creating booths with activities, candy, and ways to bond with attendees and Miracle Families. Moralloween has a DJ, great food, and is a great way for everyone to get in the Halloween spirit!</p>
-
+				<p>For more information, please contact the Morale Overall Director, Anna Fitzpatrick, at <a href="mailto:afitzpatrick@floridadm.org">afitzpatrick@floridadm.org</a>.</p>
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>

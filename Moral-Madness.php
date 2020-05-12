@@ -39,7 +39,7 @@
 				<h2>Moral Madness</h2>
 
                 <p>Morale Madness is a basketball tournament put on by Dance Marathon at UF, a student-run philanthropy that raises funds and awareness year-round For The Kids at UF Health Shands Children’s Hospital! The basketball games are 3 v. 3 half court games, with 3-5 individuals per team. If you aren't playing on a team, you can stop by to cheer on your friends, hang out with our Miracle Families, enjoy some good food, and have fun!</p>
-
+				<p>For more information, please contact the Morale Overall Director, Anna Fitzpatrick, at <a href="mailto:afitzpatrick@floridadm.org">afitzpatrick@floridadm.org</a>.</p>
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>

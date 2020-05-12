@@ -39,7 +39,7 @@
 				<h2>Miracles in Color 5K</h2>
 
                 <p>Our annual Miracles in Color 5k is a color run. Runners and walkers become vibrant and colorful throughout the course as they pass by our many color stations. This event is great for all ages and athletic abilities and includes free food, a live DJ, and more! It will be held in February 2021, and registration for the event will open at the end of 2020.</p>
-
+				<p>For more information, please contact the Community Outreach Overall Director, Grace Crowder, at <a href="mailto:gcrowder@floridadm.org">gcrowder@floridadm.org</a>.</p>
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
