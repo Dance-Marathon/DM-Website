@@ -746,6 +746,15 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.delegates {
    background-image: url("/assets/images/sectionbg/2021/Ambassadors.jpg");
 }
+.page-heading.parallax.madness {
+   background-image: url("/assets/images/sectionbg/2021/Morale Madness.jpg");
+}
+.page-heading.parallax.moralloween {
+   background-image: url("/assets/images/sectionbg/2021/moralloween.png");
+}
+.page-heading.parallax.miraclesincolor {
+   background-image: url("/assets/images/sectionbg/2021/miracles in color.jpg");
+}
 .page-heading.parallax.orgs {
    background-image: url("/assets/images/sectionbg/2021/Organizations.jpg");
 }
