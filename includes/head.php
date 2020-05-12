@@ -29,7 +29,7 @@
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
         <!-- injector:css -->
-        <link rel="stylesheet" href="/dist/1589244529819/css/DM-Website.min.css">
+        <link rel="stylesheet" href="/dist/1589323319189/css/DM-Website.min.css">
         <!-- endinjector -->
 
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -42,7 +42,7 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
     <!-- injector:js -->
-    <script src="/dist/1589244529819/js/DM-Website.min.js"></script>
+    <script src="/dist/1589323319189/js/DM-Website.min.js"></script>
     <!-- endinjector -->
 
     <script>
