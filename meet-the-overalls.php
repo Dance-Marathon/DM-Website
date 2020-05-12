@@ -12,7 +12,7 @@
 	  array(
 	    'name'                  =>  'Claire Overholt',
 	    'position'              =>  'Executive Director',
-	    'email'                 =>  'cbennett@floridadm.org',
+	    'email'                 =>  'coverholt@floridadm.org',
 	    'previous_involvement'  =>  'Dancer, Recruitment Captain, Assistant Director of Campus Relations, Internal Communications Manager',
 	    'major'                 =>  'Information Systems & Operations Management',
 	    'hometown'              =>  'Orlando, FL',
@@ -29,7 +29,7 @@
 	  	array(
 		 'name' => 'Kelsea Henry',
 		 'position' => 'Finance Manager',
-		 'email' => 'sgoldrich@floridadm.org',
+		 'email' => 'khenry@floridadm.org',
 		 'previous_involvement' => 'ELP, Assistant Director of Organization Relations for Recruitment',
 		 'major' => 'Economics and Public Relations',
 		 'hometown' => 'Vero Beach, FL',
@@ -43,7 +43,7 @@
 		array(
 		 'name' => 'Hannah Cooper',
 		 'position' => 'Operations Manager',
-		 'email' => 'bgreenfield@floridadm.org',
+		 'email' => 'hcooper@floridadm.org',
 		 'previous_involvement' => 'Dancer, Family Relations Captain, Assistant Director of Family Events, Family Relations Overall Director',
 		 'major' => 'Management',
 		 'hometown' => 'Plant City, FL',
@@ -58,7 +58,7 @@
 		array(
 		'name'                  =>  'Mary Grace Paris',
 	    'position'              =>  'Marketing Manager',
-	    'email'                 =>  'mhill@floridadm.org',
+	    'email'                 =>  'mgparis@floridadm.org',
 	    'previous_involvement'  =>  'Multimedia Captain, Multimedia Overall',
 	    'major'                 =>  'Public Relations',
 	    'hometown'              =>  'Ashburn, VA',
@@ -72,7 +72,7 @@
 	  array(
 	    'name'                  =>  'Brianna Sekul',
 	    'position'              =>  'Membership Manager',
-	    'email'                 =>  'ydawoud@floridadm.org',
+	    'email'                 =>  'bsekul@floridadm.org',
 	    'previous_involvement'  =>  'Dancer, Morale Captain (2 years), Morale Overall',
 	    'major'                 =>  'Medical Anthropology',
 	    'hometown'              =>  'Windermere, FL',
@@ -86,7 +86,7 @@
 	  	   array(
 	    'name' => 'Grace Crowder',
 	    'position' => 'Community Outreach Overall',
-	    'email' => 'mmigliazza@floridadm.org',
+	    'email' => 'gcrowder@floridadm.org',
 	    'previous_involvement' => 'Founder of high school Dance Marathon, Community Events Captain, Assistant Director of Event Planning for the Outreach Team ',
 	    'major' => 'Health Science',
 	    'hometown' => 'Tallahassee, FL',
@@ -100,7 +100,7 @@
 	   array(
 	    'name' => 'Caroline Lee',
 	    'position' => 'Dancer Relations Overall',
-	    'email' => 'coverholt@floridadm.org',
+	    'email' => 'clee@floridadm.org',
 	    'previous_involvement' => 'Marathon Relations Captain, Assistant Director of Expansion and Strategy for Mini Marathons',
 	    'major' => 'Business Administration-Information Systems',
 	    'hometown' => 'Winter Park, FL',
@@ -114,7 +114,7 @@
 	   array(
 	    'name' => 'Madison Hersch',
 	    'position' => 'Design & Technology Overall',
-	    'email' => 'scantor@floridadm.org',
+	    'email' => 'mhersch@floridadm.org',
 	    'previous_involvement' => ' 2-year Dancer, Creative Development Captain',
 	    'major' => 'Computer Science Engineering',
 	    'hometown' => 'Orlando, FL',
@@ -128,7 +128,7 @@
 		array(
 		 'name' => 'Courtney Kerwin',
 		 'position' => 'Family Relations Overall',
-		 'email' => 'lasher@floridadm.org',
+		 'email' => 'ckerwin@floridadm.org',
 		 'previous_involvement' => 'Family Relations Captain, Assistant Director of Family Events',
 		 'major' => 'Mechanical Engineering',
 		 'hometown' => 'Sarasota, FL',
@@ -142,7 +142,7 @@
 		array(
 	    'name' => 'Emma McClane',
 	    'position' => 'Fundraising and Organization Development Overall',
-	    'email' => 'khenry@floridadm.org',
+	    'email' => 'emcclane@floridadm.org',
 	    'previous_involvement' => 'Fundraising Captain, Assistant Director of Canning and Offline Transactions',
 	    'major' => 'Business',
 	    'hometown' => 'Cooper City, FL',
@@ -156,7 +156,7 @@
 		array(
 	   'name' => 'Maddy Lee',
 		 'position' => 'Hospitality Overall',
-		 'email' => 'bsekul@floridadm.org',
+		 'email' => 'mlee@floridadm.org',
 	   'previous_involvement' => 'Dancer, 2-year Hospitality Captain',		   'major' => 'Marketing ',
 	   'hometown' => 'Weston, FL',
 	   'outside_involvement' => 'AEΦ, Gator Innovators, JSU, UF Sensory Lab',
@@ -169,7 +169,7 @@
 		 array(
 		'name' => 'Michelle Podolnyy',
 		'position' => 'Leadership Development Overall',
-		'email' => 'kcarroll@floridadm.org',
+		'email' => 'mpodolnyy@floridadm.org',
 		'previous_involvement' => 'Recruitment Captain, Assistant Director of Professional Development',
 		'major' => 'Marketing',
 		'hometown' => 'Tallahassee, FL',
@@ -183,7 +183,7 @@
 		  array(
 		   'name' => 'Mady Benton',
 		   'position' => 'Marathon Relations North Overall',
-		   'email' => 'swhiddon@floridadm.org',
+		   'email' => 'mbenton@floridadm.org',
 		   'previous_involvement' => 'Suncoast High School Mini Marathon Founder, Marathon Relations Captain (Saint Francis Catholic Academy), Marathon Relations Assistant Director of Southern Program',
 		   'major' => 'Accounting, Minor: Information Systems',
 		   'hometown' => 'Wellington, FL',
@@ -197,7 +197,7 @@
 		  array(
 			'name' => 'Alexis Pollak',
 			'position' => 'Marathon Relations South Overall',
-			'email' => 'swhiddon@floridadm.org',
+			'email' => 'apollak@floridadm.org',
 			'previous_involvement' => 'Suncoast High School Mini Marathon Founder, Marathon Relations Captain (Saint Francis Catholic Academy), Marathon Relations Assistant Director of Southern Program',
 			'major' => 'Accounting, Minor: Information Systems',
 			'hometown' => 'Wellington, FL',
@@ -211,7 +211,7 @@
 		 array(
 	    'name' => 'Bryson Keel',
 	    'position' => 'Merchandise Overall',
-	    'email' => 'clhota@floridadm.org',
+	    'email' => 'bkeel@floridadm.org',
 	    'previous_involvement' => 'Dancer, Merchandise Captain',
 	    'major' => 'Advertising',
 	    'hometown' => 'Palm Beach, FL',
@@ -225,7 +225,7 @@
 	   array(
 	    'name' => 'Anna Fitzpatrick',
 	    'position' => 'Morale Overall',
-	    'email' => 'ialfonso@floridadm.org',
+	    'email' => 'afitzpatrick@floridadm.org',
 	    'previous_involvement' => 'Dancer, 2-year Morale Captain ',
 	    'major' => 'Applied Physiology and Kinesiology ',
 	    'hometown' => 'Tampa, FL',
@@ -239,7 +239,7 @@
 		 array(
 	    'name' => 'Paige Davis',
 	    'position' => 'Multimedia Overall',
-	    'email' => 'msteffes@floridadm.org',
+	    'email' => 'pdavis@floridadm.org',
 	    'previous_involvement' => 'Assistant Director of Videography',
 	    'major' => 'Telecommunications (Production) and Marketing',
 	    'hometown' => 'Tampa, FL',
@@ -254,7 +254,7 @@
 		 array(
 			'name' => 'Jacqueline Lamm',
 			'position' => 'Productions Overall',
-			'email' => 'aknoblauch@floridadm.org',
+			'email' => 'jlamm@floridadm.org',
 			'previous_involvement' => 'Dancer, Productions Captain, Assistant Director of Talent Relations',
 			'major' => 'Journalism and Psychology',
 			'hometown' => 'Tarpon Springs, FL',
@@ -266,9 +266,9 @@
 			'image' => 'Jacqueline_Lamm',
 		 ),
 		  array(
-	    'name' => 'Madison Whalen',
+	    'name' => 'Maddy Whalen',
 	    'position' => 'Public Relations Overall',
-	    'email' => 'mfreedman@floridadm.org',
+	    'email' => 'mwhalen@floridadm.org',
 	    'previous_involvement' => 'Public Relations Captain, Assistant Director of Social Media',
 	    'major' => 'Accounting',
 	    'hometown' => 'Memphis, TN',
@@ -283,7 +283,7 @@
 		 array(
 	    'name' => 'Rebecca Daniel',
 	    'position' => 'Recruitment Overall',
-	    'email' => 'jalderuccio@floridadm.org',
+	    'email' => 'rdaniel@floridadm.org',
 	    'previous_involvement' => 'Emerging Leaders Program, Recruitment Captain',
 	    'major' => 'Sociology',
 	    'hometown' => 'Orlando, FL',
@@ -298,7 +298,7 @@
 		  array(
 		   'name' => 'Sophie Shapiro',
 		   'position' => 'Sponsorships Overall',
-		   'email' => 'kdubina@floridadm.org',
+		   'email' => 'sshapiro@floridadm.org',
 		   'previous_involvement' => 'Sponsorships Captain',
 		   'major' => 'Biology and Spanish',
 		   'hometown' => 'Fort Lauderdale, FL',
