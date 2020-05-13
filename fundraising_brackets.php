@@ -119,7 +119,7 @@ include("includes/navbar.php");
 </style>
 
 
-<div class="page-heading parallax orgs">
+<div class="page-heading parallax brackets">
   <div class="inner-wrapper">
    <div class="container">
      <div class="row">

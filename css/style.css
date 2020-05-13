@@ -773,6 +773,9 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.applications {
    background-image: url("/assets/images/sectionbg/2021/Applications.png");
 }
+.page-heading.parallax.brackets {
+   background-image: url("/assets/images/sectionbg/2021/Fundraising Bracket.jpg");
+}
 .page-heading.parallax.classy {
    background-image: url("/assets/images/sectionbg/2021/Classy_DonorDrive.jpg");
 }

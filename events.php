@@ -29,7 +29,7 @@
             <li><a href="/miracle-gala">Miracle Gala</a></li>
             <li><a href="/Miracles-in-Color-5k">Miracles in Color 5K</a></li>
 					  <li><a href="/Moralloween">Moralloween</a></li>
-						<li><a href="/Moral-Madness">Moral Madness</a></li>
+						<li><a href="/Moral-Madness">Morale Madness</a></li>
 
            <!-- <li><a href="/event">Event</a></li>NOT YET MADE -->
 
