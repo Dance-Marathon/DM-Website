@@ -61,7 +61,7 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-                Please contact our Public Relations Overall Director, Megan Freedman, at <a href="mailto:mfreedman@floridadm.org">mfreedman@floridadm.org</a>.
+                Please contact our Public Relations Overall Director, Maddy Whalen, at <a href="mailto:mwhalen@floridadm.org">mwhalen@floridadm.org</a>.
               </div>
             </div>
           </div>
