@@ -152,7 +152,7 @@ include("includes/navbar.php");
      <p class="text-center">About a month prior to the Event, all Organizations participating in Dance Marathon 2021 will be placed into Fundraising Brackets based on their current amount raised. Fundraising Brackets determine the number of Dancer spots allotted to each Organization. Organizations who have raised the most money will receive the greatest number of Dancer spots.</p>
 
 
-  <script>
+  <!-- <script>
   /**
         use this to display the fundrasing brackets
    */
@@ -313,13 +313,13 @@ include("includes/navbar.php");
     });
 
    });
-  </script>
+  </script> -->
 
 
 <!-- this is also needed -->
 
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
         <div id="red-bracket-wrapper">
@@ -438,7 +438,7 @@ include("includes/navbar.php");
       </div>
     </div>
   </div>
-</div>
+</div>  -->
 
 
 
