@@ -93,7 +93,7 @@
 					<a href="/register-to-fundraise" class="dropdown-toggle">Fundraising</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href ="/campus-push-days">Transform Today</a></li>
-						<li><a href ="/classy">Classy</a></li>
+						<li><a href ="/donordrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
