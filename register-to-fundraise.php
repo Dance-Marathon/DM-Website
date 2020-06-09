@@ -49,7 +49,7 @@ include("includes/navbar.php");
 										<li>If your Organization isn’t there, no worries! Click <b>‘Create a Team’</b> and then request that other members of your organization join the team online.</li>
 									</ul> </ul>
 									<li> Next, select <b>‘Create an account’</b> and provide the login credentials that you will use to access your fundraising page and then your first and last name. </li>
-									<li> After, you can customize your fundraising page by setting your personal fundraising goal, creating a headline, and uploading a profile photo.</li>
+									<li> After, you can customize your fundraising page by setting your personal fundraising goal, creating a headline, and uploading a profile photo. Use this <a href="docs/how-to-guide.pdf" target="_blank">How-To Guide</a> for step by step instructions.</li>
 									<li> From here, you can use the tools on Classy to send emails from a template, track your fundraising and personalize your fundraising page!</li>
 								</ol>
 
