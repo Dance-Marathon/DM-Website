@@ -25,7 +25,7 @@ include("includes/navbar.php");
 				<div class="sub-nav">
           <ul>
 						<li><a href="/campus-push-days">Transform Today</a></li>
-						<li><a href="/classy">Classy</a></li>
+						<li><a href="/DonorDrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
@@ -40,20 +40,24 @@ include("includes/navbar.php");
 
 					<p>Just follow the steps below:</p>
 					<ol>
-						<li>Follow this <a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292" target="_blank">Link</a> to register now!
-							<li> Select <b>'Register Now' </b> <li/>
+						<li>Follow this <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4042" target="_blank">Link</a> to register now!
+							<li> Select <b>'Register Now' </b>
 								<ul>
-									<li> If you are joining as an individual, click <b>‘As an Individual’</b>. </li>
-									<li> If you are joining an Organization, click <b>‘Join a Team’ </b>and then find your team.  </li>
-									<ul>
-										<li>If your Organization isn’t there, no worries! Click <b>‘Create a Team’</b> and then request that other members of your organization join the team online.</li>
+									  <li> If you have a DonorDrive account from DM at UF 2016-2019, select <b>‘Login to your account’</b>. </li>
+								  	<li> If you do not have a DonorDrive account, then create an account now.  </li>
 									</ul> </ul>
-									<li> Next, select <b>‘Create an account’</b> and provide the login credentials that you will use to access your fundraising page and then your first and last name. </li>
-									<li> After, you can customize your fundraising page by setting your personal fundraising goal, creating a headline, and uploading a profile photo.</li>
-									<li> From here, you can use the tools on Classy to send emails from a template, track your fundraising and personalize your fundraising page!</li>
+					  	<li> Next, select your role.
+								<ul>
+							   		<li> If you are joining an Organization, click <b>‘Join a Team’</b> and then search for your team name. </li>
+											<ul>
+												<li> If your Organization isn’t there, no worries! Click <b>‘Create a Team’</b> by including your Team Name and Team Fundraising Goal. </li>
+											</ul> </ul>
+						  <li> After, you will finalize your registration by answering the questions presented.
+							<li> Once you have registered on DonorDrive, you can customize your fundraising page by adding a profile picture, editing your story, and updating your fundraising goal.
+							<li> From here, you can use the tools on DonorDrive to send emails from a template, track your fundraising, and share your fundraising link with others! </li>
 								</ol>
 
-								<p>If you have any questions about Classy contact the Fundraising & Organization Development Overall Director  <a href="mailto:emcclane@floridadm.org  ">emcclane@floridadm.org  </a></p>
+								<p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director  <a href="mailto:emcclane@floridadm.org  ">emcclane@floridadm.org  </a></p>
 
 						   	</div>
 							</div>
