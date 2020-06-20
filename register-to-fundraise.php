@@ -25,7 +25,7 @@ include("includes/navbar.php");
 				<div class="sub-nav">
           <ul>
 						<li><a href="/campus-push-days">Transform Today</a></li>
-						<li><a href="/DonorDrive">DonorDrive</a></li>
+						<li><a href ="/donordrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
