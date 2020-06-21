@@ -67,7 +67,6 @@ include("includes/navbar.php");
                 <li>Be in attendance at various Dance Marathon events during the year (i.e. Miracles in Color 5K, Moralloween, Miracle Family Events, etc.)</li>
               </ul>
 
-                <p class="alert alert-info">Ambassadors are also eligible to apply for ELP and Captain positions in the Fall.</p>
 
               <h3>Responsibilities during the 26.2-hour event:</h3>
               <ul>
