@@ -53,8 +53,8 @@ include("includes/navbar.php");
 												<li> If your Organization isn’t there, no worries! Click <b>‘Create a Team’</b> by including your Team Name and Team Fundraising Goal. </li>
 											</ul> </ul>
 						  <li> After, you will finalize your registration by answering the questions presented.
-							<li> Once you have registered on DonorDrive, you can customize your fundraising page by adding a profile picture, editing your story, and updating your fundraising goal.
-							<li> From here, you can use the tools on DonorDrive to send emails from a template, track your fundraising, and share your fundraising link with others! Use this <a href="assets/PDFs/how-to-guide.pdf" target="_blank">How-To Guide</a> for step by step instructions. </li>
+							<li> Once you have registered on DonorDrive, you can customize your fundraising page by adding a profile picture, editing your story, and updating your fundraising goal. Use this <a href="assets/PDFs/how-to-guide.pdf" target="_blank">How-To Guide</a> for step by step instructions.
+							<li> From here, you can use the tools on DonorDrive to send emails from a template, track your fundraising, and share your fundraising link with others! </li>
 								</ol>
 
 								<p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director  <a href="mailto:emcclane@floridadm.org  ">emcclane@floridadm.org  </a></p>
