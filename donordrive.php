@@ -42,7 +42,7 @@
 
 				<h2>DonorDrive</h2>
 				<p>UF Health Shands Children’s Hospital is utilizing DonorDrive, an online fundraising platform, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will now be creating DonorDrive accounts to begin fundraising for DM at UF 2021. DonorDrive is safe and easy to use. To create a fundraising page, register using the link below:</p>
-				<a href="https://donate.giving.ufhealth.org/campaign/dance-marathon-at-the-university-of-florida-2020/c223292" target="_blank">Register To Fundraise</a>
+				<a href="https://events.dancemarathon.com/index.cfm?fuseaction=register.start&eventID=4042" target="_blank">Register To Fundraise</a>
 				<p></p>
 
 				<h3>FAQ:</h3>
