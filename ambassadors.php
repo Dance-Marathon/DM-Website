@@ -55,7 +55,7 @@ include("includes/navbar.php");
             <h3>What is an Ambassador?</h3>
             <p>Organization Ambassadors serve as a liaison between Dance Marathon and their respective organization.</p>
 
-            <p>Organization Ambassadors will attend weekly meetings to receive information to relay to their organizations and to work on professional and personal development. Each Organization will be assigned their own Fundraising and Organization Development Captain to work with on organization involvement and fundraising throughout the year.</P>
+            <p>Organization Ambassadors will attend weekly meetings to receive information to relay to their Organizations and to work on professional and personal development. These meetings will allow Ambassadors to think creatively and brainstorm together to create new ways to incentivize and engage their members in Dance Marathon. Each Organization will be assigned a Fundraising & Organization Development Captain to work with on Organization involvement and fundraising throughout the year.<P>
 
               <h3>Responsibilities:</h3>
               <ul>
@@ -73,10 +73,11 @@ include("includes/navbar.php");
               <ul>
                 <li>Help assign Dancer buddies prior to the Event for each Dancer</li>
                 <li>Work with their Fundraising and Organization Development Captain to encourage and help Dancers fundraise at the Event</li>
+                <li>Relay important information to Dancers throughout the Event</li>
                 <li>Be available for Dancers in case of emergency</li>
               </ul>
 
-              <p class="alert alert-info">Ambassadors can also be Dancers if they choose and are eligible for free Dancer Registration upon meeting expectations of the program.</p>
+              <p class="alert alert-info">Ambassadors are also encouraged to be Dancers if they choose and are eligible for free Dancer Registration upon meeting expectations of the program.</p>
 
 
           </div>
