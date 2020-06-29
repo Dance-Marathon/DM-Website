@@ -20,7 +20,7 @@
 		        'name'  => 'Annabelle D.',
 						'description' => 'When I was only three months old, doctors told my mommy and daddy that I needed a heart transplant.  I was sent to UF Health Shands Children’s Hospital where I was put on a ventilator to help keep me alive until my new heart was ready. That machine was purchased with funds from Children’s Miracle Network Hospitals.
 															After I received my transplant, my doctors learned that I have a rare and progressive disease – Leigh’s Syndrome – which is a mitochondrial disease. Because my condition is complex, I visit UF Health Shands Children’s Hospital and Arnold Palmer Hospital for Children quite often and have seen the Miracle Balloon sticker on the medical equipment CMN Hospitals has helped purchase. When I am at the hospital for long periods of time, CMN Hospitals helps make my hospital stays a little brighter by supplying toys to the Cardiovascular Intensive Care Unit.',
-	          'image' => 'AnabelleDykes',
+	          'image' => 'AnnabelleDykes',
 		        ),
 					array(
 				    'name'  => 'Arden T.',
@@ -36,7 +36,7 @@
         array(
             'name' => 'Bailey A.',
             'description' => 'Bailey was born with a rare chromosomal condition called Turner Syndrome in which the female is missing an X chromosome. Turner Syndrome occurs to 1 in every 2000 live females births. Some conditions can be heart and kidney defects, hearing or eyesight problems, short stature, swollen hands and feet, scoliosis, learning disabilities and even infertility. When Bailey was born, we had never heard of Turner Syndrome and the only information we had was what we could find on the Internet. Bailey was home for 3 days and then spent the next three weeks of her life in the cardiac NICU having a repair done on the coarctation of the aorta of her heart. She started a daily injections of Growth Hormones at age 2 and will continue to take them daily until puberty. Bailey attends the UF Turner Syndrome Clinic every 4 months where she is seen by many specialist such as endocrinology to monitor her growth, cardiology for EKGs and Ecos, nephrology to monitor her single kidney, psychology for education consults, and dental as needed. In the beginning, it was hard to accept this diagnosis. People quickly learn that Bailey is just an active 6 year old with a bright bubbly personality who touches lives everywhere she goes! Our family continues to spread awareness of Turner Syndrome by hosting "chasing butterflies walks" annually.',
-            'image' => 'BaileyAbbot',
+            'image' => 'BaileyAbbott',
             ),
         array(
             'name' => 'Bailey W.',
@@ -194,7 +194,7 @@
             array(
             'name' => 'Kirstynn T.',
             'description' => 'Luke was a perfectly healthy kid up until he was 18 months old, we started noticing he was acting differently. He started getting bruises all over his body, so when we took him to the doctor, we were told he had Acute Lymphoblastic Leukemia. He immediately started treatment at Shands and will continue to receive chemo treatments for the next 3 years. He is always smiling through all the hardships he faces every day. All the doctors and nurses love to play with Luke and he loves them all too!' ,
-						'image' => 'KirstynnTripp',
+						'image' => 'KirstynTripp',
             ),
             array(
             'name' => 'Lauren P.',
@@ -327,7 +327,7 @@
             <!-- Button trigger modal -->
             <div class="col-xs-3">
                 <a href="#" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-                    <img class="img-circle img-Miralce Children" src="<?php echo ('/assets/images/kids/Miracle Children/'.$kids[$i]['image']); ?>.jpg" alt="..."><br>
+                    <img class="img-circle img-thumbnail" src="<?php echo ('/assets/images/kids/Miracle Children/'.$kids[$i]['image']); ?>.jpg" alt="..."><br>
                     <p><?php echo $kids[$i]['name']; ?></p>
                 </a>
             </div>
