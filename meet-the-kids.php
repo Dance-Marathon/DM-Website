@@ -234,7 +234,7 @@
 															Today, McKenna is a happy, inquisitive and active 7-year-old who enjoys tap dancing, Tae Kwan Do, painting and Disney. While she will likely need future interventions, which are likely to include a heart transplant, for the time being, McKenna is living and loving life. Even with a baseline oxygen saturation level of about 85, she keeps up well with her classmates and is full of energy. She is courageous, kind and loves adventures.
 															We thank God everyday for blessing us with the world-class healthcare McKenna receives at UFHealth. The doctors, nurses and healthcare professionals that make up "Team McKenna" have become like an extension of our family. We are grateful to them, we love them, and we thank God for them every day.
 															In fact, our family moved to Gainesville in 2014 in part to be closer to our team at UFHealth. Now that we are settled, we are excited about adventures to come and sharing our story with others as we get into our role as an Ambassador Family for the Children&#39;s Miracle Network.',
-            'image' => 'McKennaBrown',
+            'image' => 'McKennaBrown 2',
             ),
 						array(
 							'name' => 'Nakia F.',
