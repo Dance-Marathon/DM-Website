@@ -138,13 +138,6 @@ Eli received outpatient occupational and physical therapy at UF Health Rehab Cen
 					'image' => 'EvangelineOwens',
 					),
         array(
-            'name'  => 'Powie P.',
-            'description' => 'When Powie Patterson was 2 weeks old, she stopped breathing during her first family outing. She was hospitalized, and that was the first time we heard the words “mitochondrial disease.” The path to diagnosis was long and winding, as mito can be difficult to diagnose, and because there is no effective treatment, we focus on treating her symptoms.
-Powie sees nine specialists at UF Health Shands Children’s Hospital and four specialists elsewhere. Mito is a systematic disease and impacts many of her organ systems. She relies on many medications and several medical interventions to function. The Patterson family is very fortunate that Shands Children’s Hospital has a pediatric gastric stimulator program that has allowed Powie to thrive!
-Powie is now 7 and just entered 2nd grade. We now have the correct supports in place, and she’s truly doing so well! She’s a very typical child who loves school, her siblings, and her puppies! Dance Marathon at UF has become one of her most favorite things in this world!',
-						'image' => 'Hadley(Powie) Patterson',
-            ),
-        array(
             'name'  => 'Hannah S.',
             'description' => 'In 2004, Joel Strickland was diagnosed with cystinosis, and Hannah Strcikland has since been diagnosed with cystinosis as well. Joel started his treatment at UF Health Shands Children’s Hospital when their family received the news that Joel’s underlying condition caused renal failure, and he would need a kidney transplant. There have been so many little blessings along Joel and Hannah’s recent journey amidst their trials. Child Life has been especially relevant to both Hannah and Joel. Their many specialists have genuinely touched Joel and Hannah’s family.',
             'image' => 'HannahStrickland',
@@ -359,6 +352,13 @@ Owen was born blue. He was immediately placed on a ventilator and a ton of life 
  Today, Owen is an energetic 7 year old that loves playing with his big brother, Noah!',
             'image' => 'OwenMaier',
 						),
+						array(
+		            'name'  => 'Powie P.',
+		            'description' => 'When Powie Patterson was 2 weeks old, she stopped breathing during her first family outing. She was hospitalized, and that was the first time we heard the words “mitochondrial disease.” The path to diagnosis was long and winding, as mito can be difficult to diagnose, and because there is no effective treatment, we focus on treating her symptoms.
+		Powie sees nine specialists at UF Health Shands Children’s Hospital and four specialists elsewhere. Mito is a systematic disease and impacts many of her organ systems. She relies on many medications and several medical interventions to function. The Patterson family is very fortunate that Shands Children’s Hospital has a pediatric gastric stimulator program that has allowed Powie to thrive!
+		Powie is now 7 and just entered 2nd grade. We now have the correct supports in place, and she’s truly doing so well! She’s a very typical child who loves school, her siblings, and her puppies! Dance Marathon at UF has become one of her most favorite things in this world!',
+								'image' => 'Hadley(Powie) Patterson',
+		            ),
 						array(
 							'name'=> 'Reilly R.',
 							'description' => 'Reilly Rodgers was diagnosed with hypoplastic left heart syndrome (HLHS) at his 20-week ultrasound. At 11 days old, he had his first open-heart surgery, and at 5 months, he had his second open-heart surgery. At the end of August 2019, Reilly had his third open-heart surgery. Reilly\'s congenital heart defect  is a lifelong battle and will result in a heart transplant in the next couple of years.',
