@@ -138,7 +138,7 @@ Eli received outpatient occupational and physical therapy at UF Health Rehab Cen
 					'image' => 'EvangelineOwens',
 					),
         array(
-            'name'  => 'Hadley P.',
+            'name'  => 'Powie P.',
             'description' => 'When Powie Patterson was 2 weeks old, she stopped breathing during her first family outing. She was hospitalized, and that was the first time we heard the words “mitochondrial disease.” The path to diagnosis was long and winding, as mito can be difficult to diagnose, and because there is no effective treatment, we focus on treating her symptoms.
 Powie sees nine specialists at UF Health Shands Children’s Hospital and four specialists elsewhere. Mito is a systematic disease and impacts many of her organ systems. She relies on many medications and several medical interventions to function. The Patterson family is very fortunate that Shands Children’s Hospital has a pediatric gastric stimulator program that has allowed Powie to thrive!
 Powie is now 7 and just entered 2nd grade. We now have the correct supports in place, and she’s truly doing so well! She’s a very typical child who loves school, her siblings, and her puppies! Dance Marathon at UF has become one of her most favorite things in this world!',
@@ -258,7 +258,7 @@ She did well with a few complications, but earlier this year, her transplanted k
 			          'image' => 'KinseyBogart',
 				        ),
             array(
-            'name' => 'Kirstynn T.',
+            'name' => 'Kirstyn T.',
             'description' => 'In loving memory
 															August 17, 2004 to April 16, 2018
 															“Love is a remarkable superpower”
