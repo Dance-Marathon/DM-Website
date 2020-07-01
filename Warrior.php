@@ -3,6 +3,7 @@
 	$GLOBALS['page_title'] = 'Warrior Run | Events | Dance Marathon at UF';
 	$GLOBALS['parent'] = 'events';
 	include("includes/head.php");
+	include("includes/navbar.php");
 ?>
 
 <div class="page-heading parallax warrior-run">
