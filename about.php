@@ -28,7 +28,7 @@
 						<li><a href="/uf-health">CMN & UF Health</a></li>
 						<li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li><!-- page not made-->
 						<li><a href="/faq">FAQ</a></li>
-						<li><a href="/meetthekids">Meet The Kids</a></li>
+						<li><a href="/meet-the-kids">Meet The Kids</a></li>
 						<li><a href="/our-story">Our Story</a></li>
 						<li><a href="/press-releases">Press Release</a></li>
           </ul>
