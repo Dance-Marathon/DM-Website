@@ -192,9 +192,9 @@ Jenna received a diagnosis of common variable immunodeficiency. She receives mon
 		          'image' => 'JennaRogers',
 			        ),
 					array(
-						     'name'  => 'Joel S.',
-							 'description' => 'In 2004, Joel Strickland was diagnosed with cystinosis, and Hannah Strcikland has since been diagnosed with cystinosis as well. Joel started his treatment at UF Health Shands Children’s Hospital when their family received the news that Joel’s underlying condition caused renal failure, and he would need a kidney transplant. There have been so many little blessings along Joel and Hannah’s recent journey amidst their trials. Child Life has been especially relevant to both Hannah and Joel. Their many specialists have genuinely touched Joel and Hannah’s family.',
-				       'image' => 'JoelStrickland',
+						  'name'  => 'Joel S.',
+							'description' => 'In 2004, Joel Strickland was diagnosed with cystinosis, and Hannah Strcikland has since been diagnosed with cystinosis as well. Joel started his treatment at UF Health Shands Children’s Hospital when their family received the news that Joel’s underlying condition caused renal failure, and he would need a kidney transplant. There have been so many little blessings along Joel and Hannah’s recent journey amidst their trials. Child Life has been especially relevant to both Hannah and Joel. Their many specialists have genuinely touched Joel and Hannah’s family.',
+				      'image' => 'JoelStrickland',
 					     ),
 			  	array(
 					  'name' => 'Jude and Oliver S.',
