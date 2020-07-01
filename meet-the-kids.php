@@ -29,11 +29,7 @@ The level of care available at Shands Children’s Hospital has kept Annabelle�
 				    'name'  => 'Arden T.',
 						'description' => 'When Arden Thornbury was only 3 months old, doctors told her parents that she needed a heart transplant. She was sent to UF Health Shands Children’s Hospital where she was put on a ventilator to help keep her alive until her new heart was ready. That machine was purchased with funds from Children’s Miracle Network Hospitals. After Arden received her transplant, her doctors learned that she had a rare and progressive disease, Leigh syndrome, which is a mitochondrial disease. Because her condition is complex, Arden visits Shands Children’s Hospital and Arnold Palmer Hospital for Children quite often and has seen the Miracle Balloon sticker on the medical equipment CMN has helped purchase. When Arden is at the hospital for long periods of time, CMN Hospitals help make her hospital stays a little brighter by supplying toys to the Cardiovascular Intensive Care Unit.',
 			      'image' => 'ArdenThornbury',
-<<<<<<< HEAD
 				     ),
-=======
-             ),
->>>>>>> 34151c8629acaf92ca18daabcc931b8d32f24e03
         array(
             'name' => 'Ayden M.',
             'description' => 'At 3 years old, Ayden Morgan was diagnosed with a rare inoperable brain tumor called pilocytic astrocytoma with glioma blast. He lost his vision at age 3 and had a total of 17 surgeries and many treatments within his first year at Shands. His family and he have traveled to St. Judes Hospital in Memphis, Tennessee, where they lived for eight months while Ayden received treatments along with two more surgeries. Upon returning from Memphis, Ayden now receives treatment at Arnold Palmer Hospital in Orlando, another CMN hospital. Ayden just underwent his 21st surgery. He is undergoing active chemotherapy treatment now and will continue that treatment for years and years to come. Unlike most kids, Ayden will receive treatment into his 30's or longer, and he will never be in remission or cancer-free unless a true miracle happens. Because of CMN hospitals, Ayden is alive today! The Morgan family is truly thankful for all CMN does for kids and that these hospitals always keep fighting to help the next one.',
