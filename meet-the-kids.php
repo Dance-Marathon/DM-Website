@@ -73,15 +73,6 @@ One year later, Camden came down with RSV, and his heart failure became worse. A
 ',
             'image' => 'CamdenAyres',
             ),
-        array(
-            'name'  => 'Chloe N.',
-            'description' => 'Chloe Novak was diagnosed in utero with Turner syndrome and corresponding heart complications, including hypoplastic left heart syndrome. One week after birth, Chloe underwent a Norwood procedure. When she was 5 months old, Chloe had a Glenn procedure performed to improve her oxygenation. There were many complications involved with this procedure, and it became evident that Chloe needed a new heart.
-
-At around 18 months, her condition deteriorated, and she eventually went into universal organ failure. Her kidneys stopped working, so the doctors had to start dialysis. She was so swollen that fluid started leaking out of her skin, and her eyes wouldn\'t close.
-
-Just as we were saying goodbye, a miracle happened, and we received a call that a heart was available. Miraculously, Chloe was transplanted the day after her 2nd birthday and has been doing amazingly well ever since. Chloe still requires constant care due to secondary complications including hypogammaglobulinemia and the newest to the list: aortic dissection.  Nonetheless, her spirits are high, and she has a great love of life. We are very thankful for the research dollars that the Children’s Miracle Network provides to our hospital. Your donation might provide the funds for a breakthrough that will improve the quality of life for so many children.',
-            'image' => 'ChloeNovak',
-            ),
 				array(
 						'name'  => 'Claire E.',
 						'description' => 'Claire Essex was born at UF Health Shands Children’s Hospital and stayed in the NICU for 64 days. During that time, her family met with the specialists in Pediatrics and really liked everyone. During her stay, the doctors helped Claire fight off methicillin-resistant staphylococcus aureus (MRSA) in her eye and gave her family confidence in their medical team.
