@@ -41,7 +41,7 @@
           <p>Dance Marathon at the University of Florida’s Sponsorships team will connect your company with one of UF’s most celebrated traditions and the second largest student-run philanthropy in the United States, with access to an extensive network of supporters of all ages and demographics. </p>
 
 
-          <p> For more information, view our sponsorship opportunities <a href="assets/PDFs/SponsorshipPacket.pdf" target="_blank">here.</a>
+          <p> For more information, view our sponsorship opportunities <a href="assets/PDFs/2021Sponsorship_Packet copy.pdf" target="_blank">here.</a>
           </p>
 
 

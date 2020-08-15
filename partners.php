@@ -62,7 +62,7 @@ DMA MEMBERS PAGE
       <p>Dance Marathon at UF is so thankful for the support of our generous Sponsors! DM at UF offers many different ways to get involved as a Sponsor for our cause, each with various benefits to show our appreciation for your support. Our Sponsorships Team will connect your company with our Organization, along with access to an extensive network of supporters of all ages and demographics.</p>
 
 
-      <p> For more information, view our sponsorship opportunities <a href="assets/PDFs/SponsorshipPacket.pdf" target="_blank">here.</a>
+      <p> For more information, view our sponsorship opportunities <a href="assets/PDFs/2021Sponsorship_Packet copy.pdf" target="_blank">here.</a>
       </p>
 
 
