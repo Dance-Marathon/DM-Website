@@ -366,10 +366,6 @@ include("includes/navbar.php");
               <h4><b>Overall Director</b></h4>
               Madison Hersch
               <br><br>
-              <h4><b>Assistant Director of Design</b></h4>
-              Julia Lavoy
-              <!-- <h4><b>Assistant Director of Technology</b></h4> -->
-              <!-- Kyle Bassignani -->
               <h4><b>Assistant Director of Logistics</b></h4>
               Dina Modlin
               <!-- <h4>  <b> Captains</b></h4> -->
