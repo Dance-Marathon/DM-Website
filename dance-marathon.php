@@ -17,7 +17,7 @@ include("includes/navbar.php");
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1>Dance Marathon 2020
+					<h1>Dance Marathon 2021
 					</h1>
 				</div>
 			</div>
@@ -32,7 +32,7 @@ include("includes/navbar.php");
 			<div class="col-md-3">
 				<div class="sub-nav">
 					<ul>
-						<li><a class="active">Dance Marathon 2020</a></li>
+						<li><a class="active">Dance Marathon 2021</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a href="/Miracles-in-Color-5k">Miracles in Color 5K</a></li>
@@ -44,6 +44,8 @@ include("includes/navbar.php");
 
 			<div class="col-md-8 col-md-push-1">
 
+<p> We are so excited to see everyone safely at the O'Connell center on April 10 - 11, 2021! </p>
+	<p>Follow us on social media for event updates! </p>
 				<!-- <?php if ($status == "open") { ?>
 
 					<div class="row">
