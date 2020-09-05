@@ -38,12 +38,21 @@
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<p>2021 Captain and Emerging Leader Applications are now open!<p>
-					<P>Click <a href="assets/PDFs/app-questions copy.pdf" target="_blank">here</a> to view the Captain Application questions.</p>
-					<p>The online application forms are linked below. In order to be considered for either position, you must complete the online application form, create a DonorDrive personal fundraising page, and pay the $25 application fee. If you are applying to both positions, you only need to pay the application fee once. Instructions on how to complete both of these items can be found on the front page of either application.</p>
-					<p>The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0HAseSzBiPPvUFL" target="_blank">here</a>. </p>
-					<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_9HceOiJ3hlPQcoB" target="_blank">here</a>.
-					<p> Both applications will close at 11:59 PM on Friday, September 11. </p>
+					<p>Thank you for your interest in Dance Marathon at the University of Florida 2021.<p>
+					<p>The online application forms are linked below. In order to be considered for a Captain or ELP position, you must:</p>
+					<ul>
+						<li>Complete the online application form</li>
+						<li>Create a DonorDrive personal fundraising page</li>
+						<li>Pay the $25 application fee. You only need to pay the application fee once even if you are applying for more than one position. Instructions on how to complete both of these items can be found on the front page of either application.</li>
+					</ul>
+					You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. You can apply to be an Ambassador even if you hold another position, and you will be able to do both.</p>
+<b>Captain Application</b>
+					<p>The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_86qi9WwllA1Rhch" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at 11:59 PM on Friday, September 11. </p>
+					<p>Click <a href="assets/PDFs/app-questions copy.pdf" target="_blank">here</a> to view the Captain Application questions.</p>
+<b>Emerging Leaders Application</b>
+					<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_e4A0J1I4Grjqy3P" target="_blank">here</a>. This application will close at 11:59 PM on Friday, September 11.</p>
+<b>Ambassador Application</b>
+					<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0IKjaRR7u8VbjTv" target="_blank">here</a>. This application will close at 11:59 PM on Sunday, September 20. </p>
 					<p>If you have any questions regarding applications, please reach out to our Operations Manager, Hannah Cooper, at <a href="mailto:hcooper@floridadm.org">hcooper@floridadm.org</a>.</p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
