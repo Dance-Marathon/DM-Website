@@ -57,6 +57,8 @@ include("includes/navbar.php");
 
             <p>Organization Ambassadors will attend weekly meetings to receive information to relay to their Organizations and to work on professional and personal development. These meetings will allow Ambassadors to think creatively and brainstorm together to create new ways to incentivize and engage their members in Dance Marathon. Each Organization will be assigned a Fundraising & Organization Development Captain to work with on Organization involvement and fundraising throughout the year.<P>
 
+            Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here</a> to view the 2021 Ambassador Guidelines</p>
+
               <h3>Responsibilities:</h3>
               <ul>
                 <li>Recruit and motivate members of their Organization to fundraise and participate</li>
