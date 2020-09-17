@@ -24,7 +24,8 @@ include("includes/navbar.php");
      fundraising: 0,
      hospitality: 0,
      leadershipdevelopment: 0,
-     marathonrelations: 0,
+     marathonrelationsnorth: 0,
+     marathonrelationssouth: 0,
      merch: 0,
      morale: 0,
      multimedia: 0,
@@ -41,7 +42,8 @@ include("includes/navbar.php");
    $('.fundraising').append('<tr>');
    $('.hospitality').append('<tr>');
    $('.leadershipdevelopment').append('<tr>');
-   $('.marathonrelations').append('<tr>');
+   $('.marathonrelationsnorth').append('<tr>');
+   $('.marathonrelationssouth').append('<tr>');
    $('.merch').append('<tr>');
    $('.morale').append('<tr>');
    $('.multimedia').append('<tr>');
@@ -129,15 +131,26 @@ include("includes/navbar.php");
             }
           }
            // marathon relations
-        if (!($(entry)[1].gsx$marathonrelations.$t.includes("n/a"))) {
-            if(counters["marathonrelations"] < 3) {
-              $('.marathonrelations').append('<td>' + this.gsx$marathonrelations.$t + '</td>');
-              counters["marathonrelations"]++;
+        if (!($(entry)[1].gsx$marathonrelationsnorth.$t.includes("n/a"))) {
+            if(counters["marathonrelationsnorth"] < 3) {
+              $('.marathonrelationsnorth').append('<td>' + this.gsx$marathonrelationsnorth.$t + '</td>');
+              counters["marathonrelationsnorth"]++;
             } else {
-                $('.marathonrelations').append('</tr>');
-                $('.marathonrelations').append('<tr>');
-                $('.marathonrelations').append('<td>' + this.gsx$marathonrelations.$t + '</td>');
-                counters["marathonrelations"] = 1;
+                $('.marathonrelationsnorth').append('</tr>');
+                $('.marathonrelationsnorth').append('<tr>');
+                $('.marathonrelationsnorth').append('<td>' + this.gsx$marathonrelationsnorth.$t + '</td>');
+                counters["marathonrelationsnorth"] = 1;
+            }
+          }
+          if (!($(entry)[1].gsx$marathonrelationssouth.$t.includes("n/a"))) {
+            if(counters["marathonrelationssouth"] < 3) {
+              $('.marathonrelationssouth').append('<td>' + this.gsx$marathonrelationssouth.$t + '</td>');
+              counters["marathonrelationssouth"]++;
+            } else {
+                $('.marathonrelationssouth').append('</tr>');
+                $('.marathonrelationssouth').append('<tr>');
+                $('.marathonrelationssouth').append('<td>' + this.gsx$marathonrelationssouth.$t + '</td>');
+                counters["marathonrelationssouth"] = 1;
             }
           }
           // merchandise
@@ -246,7 +259,8 @@ include("includes/navbar.php");
    $('.fundraising').append('</tr>');
    $('.hospitality').append('</tr>');
    $('.leadershipdevelopment').append('</tr>');
-   $('.marathonrelations').append('</tr>');
+   $('.marathonrelationsnorth').append('</tr>');
+   $('.marathonrelationssouth').append('</tr>');
    $('.merch').append('</tr>');
    $('.morale').append('</tr>');
    $('.multimedia').append('</tr>');
@@ -317,10 +331,10 @@ include("includes/navbar.php");
                  Lexi Myrback
                  <h4><b>Assistant Director of Events</b></h4>
                  Mikayla Carroll
-               <!-- <h4>  <b>Captains</b></h4> -->
-               <!-- <table style="width:100%">
+               <h4>  <b>Captains</b></h4>
+               <table style="width:100%">
                 <tbody class="outreach"> </tbody>
-              </table> -->
+              </table>
 
                </div>
              </div>
@@ -345,10 +359,10 @@ include("includes/navbar.php");
               Jonathan Maya
               <h4><b>Assistant Director of Tracking and Logistics</b></h4>
               Kelsey Matala
-              <!-- <h4><b>Captains</b></h4> -->
-              <!-- <table style="width:100%">
+              <h4><b>Captains</b></h4>
+              <table style="width:100%">
                 <tbody class="dancerrelations"> </tbody>
-              </table> -->
+              </table>
 
             </div>
           </div>
@@ -368,12 +382,12 @@ include("includes/navbar.php");
               <br><br>
               <h4><b>Assistant Director of Logistics</b></h4>
               Dina Modlin
-              <!-- <h4>  <b> Captains</b></h4> -->
-              <!-- <table style="width:100%">
-                <tbody class="designandtech"> </tbody>
-              </table> -->
               <h4><b>Assistant Director of Technology</b></h4>
               Isabella Bond
+              <h4>  <b> Captains</b></h4>
+              <table style="width:100%">
+                <tbody class="designandtech"> </tbody>
+              </table>
             </div>
           </div>
         </div>
@@ -399,10 +413,10 @@ include("includes/navbar.php");
 			        <h4><b>Assistant Director of Internal Relations</b></h4>
               Jennifer Gilby
 
-    <!-- <h4>      <b>Captains</b></h4>
+    <h4>      <b>Captains</b></h4>
     <table style="width:100%">
                 <tbody class="familyrelations"> </tbody>
-              </table> -->
+              </table>
 
             </div>
           </div>
@@ -428,10 +442,10 @@ include("includes/navbar.php");
               Carli Sley
               <h4><b>	Assistant Director of New & Emerging Organization Relations</b></h4>
               Alexis Graves
-   <!-- <h4>  <b> Captains</b></h4>
+   <h4>  <b> Captains</b></h4>
    <table style="width:100%">
                 <tbody class="fundraising"> </tbody>
-              </table> -->
+              </table>
             </div>
           </div>
         </div>
@@ -457,10 +471,10 @@ include("includes/navbar.php");
               Ethan Paikowsky
               <h4><b>Assistant Director of Internal Relations</b></h4>
               Gibson Howard
-   <!-- <h4>  <b>Captains</b></h4>
+   <h4>  <b>Captains</b></h4>
    <table style="width:100%">
                 <tbody class="hospitality"> </tbody>
-              </table> -->
+              </table>
 
 
             </div>
@@ -487,10 +501,10 @@ include("includes/navbar.php");
               Madison Duncanson
               <h4><b>Assistant Director of Emerging Leader Tracking</b></h4>
               Alexyss Rainford
-      <!-- <h4>  <b> Captains</b></h4> -->
-      <!-- <table style="width:100%">
+      <h4>  <b> Captains</b></h4>
+      <table style="width:100%">
                 <tbody class="leadershipdevelopment"> </tbody>
-              </table> -->
+              </table>
 
 
             </div>
@@ -516,19 +530,11 @@ include("includes/navbar.php");
                 <h4><b>	Assistant Director of Projects and Communications</b></h4>
                 Asa Cooley
 
-              <!--<br></br>
-              <h4><b>Assistant Director of New and Emerging Programs</b></h4>
-              Sheri Kusatzky
-              <h4><b>Assistant Director of Northern Region</b></h4>
-              Madalyn Benton
-              <h4><b>Assistant Director of Southern Region</b></h4>
-              Kayla Anschuetz
-	          <h4><b>Assistant Director of Special Projects and Communication</b></h4>
-              Alexis Pollak
+
        <h4>  <b>Captains </b></h4>
        <table style="width:100%">
-                <tbody class="marathonrelations"> </tbody>
-              </table> -->
+                <tbody class="marathonrelationsnorth"> </tbody>
+              </table>
 
             </div>
           </div>
@@ -553,19 +559,11 @@ include("includes/navbar.php");
                 <h4><b>	Assistant Director of Projects and Communications</b></h4>
                 Amanda De La Vega
 
-              <!--<br></br>
-              <h4><b>Assistant Director of New and Emerging Programs</b></h4>
-              Sheri Kusatzky
-              <h4><b>Assistant Director of Northern Region</b></h4>
-              Madalyn Benton
-              <h4><b>Assistant Director of Southern Region</b></h4>
-              Kayla Anschuetz
-	          <h4><b>Assistant Director of Special Projects and Communication</b></h4>
-              Alexis Pollak
+              <br>
        <h4>  <b>Captains </b></h4>
        <table style="width:100%">
-                <tbody class="marathonrelations"> </tbody>
-              </table> -->
+                <tbody class="marathonrelationssouth"> </tbody>
+              </table>
 
             </div>
           </div>
@@ -592,10 +590,10 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Internal Fundraising</b></h4>
               Sadie Joba
 
-       <!-- <h4>  <b>Captains</b></h4>
+       <h4>  <b>Captains</b></h4>
        <table style="width:100%">
                 <tbody class="merch"> </tbody>
-              </table> -->
+              </table>
 
 
             </div>
@@ -622,10 +620,10 @@ include("includes/navbar.php");
               Zoë Hackshaw
               <h4><b>	Assistant Director of Event Planning</b></h4>
               Carlie Groeschen
-      <!-- <h4>  <b> Captains</b></h4>
+      <h4>  <b> Captains</b></h4>
       <table style="width:100%">
                 <tbody class="morale"> </tbody>
-              </table> -->
+              </table>
 
 
             </div>
@@ -652,10 +650,10 @@ include("includes/navbar.php");
               Gabriella Ginsburg
               <h4><b>Assistant Director of Videography</b></h4>
               Summer Torok
-    <!-- <h4>  <b>Captains</b></h4>
+    <h4>  <b>Captains</b></h4>
     <table style="width:100%">
                 <tbody class="multimedia"> </tbody>
-              </table> -->
+              </table>
 
 
             </div>
@@ -681,10 +679,10 @@ include("includes/navbar.php");
                 Lauren Isbel
                 <h4><b>Assistant Director of Talent Relations </b></h4>
                 Lauren Brunetti
-              <!-- <h4>   <b>Captains</b></h4>
+              <h4>   <b>Captains</b></h4>
               <table style="width:100%">
                 <tbody class="productions"> </tbody>
-              </table> -->
+              </table>
 
 
               </div>
@@ -713,10 +711,10 @@ include("includes/navbar.php");
                 Hope Hathcock
                 <h4><b>Assistant Director of Social Media </b></h4>
                 Tori Grossman
-     <!-- <h4>  <b> Captains</b></h4>
+     <h4>  <b> Captains</b></h4>
      <table style="width:100%">
                 <tbody class="pr"> </tbody>
-              </table> -->
+              </table>
 
 
               </div>
@@ -741,10 +739,10 @@ include("includes/navbar.php");
                 Madison Rossi
                 <h4><b>Assistant Director of Tracking</b></h4>
                 Brooklyn Nave
-           <!-- <h4>  <b>Captains</b></h4>
+           <h4>  <b>Captains</b></h4>
            <table style="width:100%">
                 <tbody class="recruitment"> </tbody>
-              </table> -->
+              </table>
 
               </div>
             </div>
@@ -768,10 +766,10 @@ include("includes/navbar.php");
                 Nina Berkowitz
                 <h4><b>Assistant Director of Stewardship</b></h4>
                 Hallie Richards
-          <!-- <h4>  <b>Captains</b></h4>
+          <h4>  <b>Captains</b></h4>
           <table style="width:100%">
                 <tbody class="sponsorships"> </tbody>
-              </table> -->
+              </table>
 
               </div>
             </div>
