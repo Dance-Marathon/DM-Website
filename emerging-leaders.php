@@ -79,7 +79,7 @@ include("includes/navbar.php");
 <p>During the Main Event, Emerging Leaders will have the ability to use the skills they’ve learned throughout the year to participate in various leadership opportunities. </p>
 <p>All in all, the Emerging Leaders Program aspires to provide students wanting to join the Dance Marathon movement with a unique and immersive learning opportunity that allows students to instill positive change within the organization while also learning about the Dance Marathon community as a whole.</p>
 <h3>2020 Emerging Leaders</h3>
-<p> Congratulations to our the members of 2020 Emerging Leaders Program! </p>
+<p> Congratulations to our the members of 2021 Emerging Leaders Program! </p>
 <table style="width:100%">
     <tbody class="emergingleaders"> </tbody>
 </table>
