@@ -6,6 +6,43 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
+<script>
+
+  // this will grab the names of all the captians from the google doc
+
+   // ID of the Google Spreadsheet
+   var spreadsheetID = "1qGVFluq-wlSZGPX2ubEZ8TcqmhfaLyJVjNiJTl3F0EE";
+
+   // Make sure it is public or set to Anyone with link can view
+   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+
+   $('.ambassadors').append('<tr>');
+
+   $.getJSON(url, function(data) {
+
+       var entry = data.feed.entry;
+
+		var counter = 0;
+
+       $(entry).each(function() {
+
+        if (!($(entry)[1].gsx$ambassadors.$t.includes("n/a"))) {
+            if(counter < 4) {
+              $('.ambassadors').append('<td>' + this.gsx$ambassadors.$t + '</td>');
+			  counter++;
+            } else {
+                $('.ambassadors').append('</tr>');
+                $('.ambassadors').append('<tr>');
+                $('.ambassadors').append('<td>' + this.gsx$ambassadors.$t + '</td>');
+                counter = 1;
+            }
+          }
+       });
+   });
+   $('.ambassadors').append('</tr>');
+
+</script>
+
 <div class="page-heading parallax delegates">
   <div class="inner-wrapper">
    <div class="container">
@@ -45,6 +82,7 @@ include("includes/navbar.php");
         <ul class="nav nav-tabs" role="tablist">
           <li role="presentation" class="active"><a href="#become-a-delegate" aria-controls="become-a-delegate" role="tab" data-toggle="tab">Become an Ambassador</a></li>
           <li role="presentation"><a href="#starting-a-team" aria-controls="starting-a-team" role="tab" data-toggle="tab">Starting a Team</a></li>
+          <li role="presentation"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">Ambassadors</a></li>
         </ul>
 
         <!-- Tab panes -->
@@ -95,9 +133,15 @@ include("includes/navbar.php");
             <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Emma McClane, at <a href=mailto:emcclane@floridadm.org>emcclane@floridadm.org</a> to inform her you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
 
           </div>
+          <div role="tabpanel" class="tab-pane fade" id="ambassadors">
+          <h3>2021 Emerging Leaders</h3>
+          <table style="width:100%">
+            <tbody class="ambassadors"> </tbody>
+        </table>
         </div>
-
+        </div>
       </div>
+      
       <?php } else { echo 'This page is currently closed.'; } ?>
     </div>
   </div>
