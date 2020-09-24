@@ -26,14 +26,14 @@ include("includes/navbar.php");
 
        $(entry).each(function() {
 
-        if (!($(entry)[1].gsx$ambassadors.$t.includes("n/a"))) {
-            if(counter < 4) {
-              $('.ambassadors').append('<td>' + this.gsx$ambassadors.$t + '</td>');
-			  counter++;
+        if (!($(entry)[1].gsx$ambassadororg.$t.includes("n/a")) && !($(entry)[1].gsx$ambassadors.$t.includes("n/a")) && !(this.gsx$ambassadororg.$t === '')) {
+            if(counter < 2) {
+              $('.ambassadors').append('<td>' + '<b>'+this.gsx$ambassadororg.$t+'</b>' + ' : ' + this.gsx$ambassadors.$t + '</td>');
+			      counter++;
             } else {
                 $('.ambassadors').append('</tr>');
                 $('.ambassadors').append('<tr>');
-                $('.ambassadors').append('<td>' + this.gsx$ambassadors.$t + '</td>');
+                $('.ambassadors').append('<td>' + '<b>'+this.gsx$ambassadororg.$t+'</b>' + ' : ' + this.gsx$ambassadors.$t + '</td>');
                 counter = 1;
             }
           }
