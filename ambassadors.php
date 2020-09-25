@@ -82,7 +82,7 @@ include("includes/navbar.php");
         <ul class="nav nav-tabs" role="tablist">
           <li role="presentation" class="active"><a href="#become-a-delegate" aria-controls="become-a-delegate" role="tab" data-toggle="tab">Become an Ambassador</a></li>
           <li role="presentation"><a href="#starting-a-team" aria-controls="starting-a-team" role="tab" data-toggle="tab">Starting a Team</a></li>
-          <li role="presentation"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">Ambassadors</a></li>
+          <li role="presentation"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">2021 Ambassadors</a></li>
         </ul>
 
         <!-- Tab panes -->
@@ -134,14 +134,14 @@ include("includes/navbar.php");
 
           </div>
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">
-          <h3>2021 Emerging Leaders</h3>
-          <table style="width:100%">
+          <h3>2021 Ambassadors</h3>
+          <table style="width:115%">
             <tbody class="ambassadors"> </tbody>
         </table>
         </div>
         </div>
       </div>
-      
+
       <?php } else { echo 'This page is currently closed.'; } ?>
     </div>
   </div>
