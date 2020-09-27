@@ -143,7 +143,7 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Footprints',
+    'organization'  =>  'Footprints: Buddy and Support Program',
     'link'          =>  ''
     ),
   array(
