@@ -6,7 +6,7 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
-<script>
+<!-- <script>
 
   // this will grab the names of all the captians from the google doc
 
@@ -41,7 +41,7 @@ include("includes/navbar.php");
    });
    $('.ambassadors').append('</tr>');
 
-</script>
+</script> -->
 
 <div class="page-heading parallax delegates">
   <div class="inner-wrapper">
@@ -136,7 +136,14 @@ include("includes/navbar.php");
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">
           <h3>2021 Emerging Leaders</h3>
           <table style="width:100%">
-            <tbody class="ambassadors"> </tbody>
+            <tbody> 
+              <tr>
+                <td><b>Alpha Chi Omega</b><br>Haley Spooner<br>Eliana Burgos</td>
+                <td><b>Alpha Delta Pi</b><br>Megan Rooney<br>Bridget Richer</td></tr>
+              <tr>
+                <td><b>Alpha Epsilon Phi</b><br>Hannah Freeman<br>Madalyn Lueken</td>
+                <td><b>Alpha Epsilon Pi</b><br>Benjamin Speizman<br>Ross Unger</td></tr>
+            </tbody>
         </table>
         </div>
         </div>
