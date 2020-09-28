@@ -134,7 +134,7 @@ include("includes/navbar.php");
 
           </div>
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">
-          <h3>2021 Emerging Leaders</h3>
+          <h3>2021 Ambassadors</h3>
           <table style="width:100%">
             <tbody>
               <tr>
