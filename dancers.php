@@ -252,6 +252,22 @@ include("includes/navbar.php");
                   </div>
                 </div>
               </div>
+                
+            <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="q13">
+                  <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a13" aria-expanded="false" aria-controls="a13">
+                      What if I am not in an Organization and want to register as an individual?
+                    </a>
+                  </h4>
+                </div>
+                <div id="a13" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q13">
+                  <div class="panel-body">
+                    You do not have to be in an Organization to register to Dance. You can register as an individual using the link under Dancer Resources; individual Dancers will be placed onto the Gator Aides team. Gator Aides is a team that allows individual Dancers to participate in Dance Marathon at UF with a group although they are not registered with an Organization. 
+                  </div>
+                </div>
+              </div>
+                
             </div>
           </div>
         </div>
