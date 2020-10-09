@@ -46,6 +46,7 @@ include("includes/navbar.php");
           <li role="presentation" class="active"><a href="#what-is-dancing-ftk" aria-controls="what-is-dancing-ftk" role="tab" data-toggle="tab">What is Dancing?</a></li>
           <li role="presentation"><a href="#dancer-faqs" aria-controls="dancer-faqs" role="tab" data-toggle="tab">Dancer FAQs</a></li>
           <li role="presentation"><a href="#dancer-resources" aria-controls="dancer-resources" role="tab" data-toggle="tab">Dancer Resources</a></li>
+          <li role="presentation"><a href="#dancing-as-an-individual" aria-controls="dancing-as-an-individual" role="tab" data-toggle="tab">Dancing as an Individual</a></li>
           <li role="presentation"><a href="#in-event-dancer-tips" aria-controls="in-event-dancer-tips" role="tab" data-toggle="tab">In-Event Dancer Tips</a></li>
         </ul>
 
@@ -62,6 +63,15 @@ include("includes/navbar.php");
             <p>In addition to standing 26.2 hours at the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
             <p><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">Click Here to Register to Dance</a></p>
             <p>Please email Caroline Lee, Dancer Relations Overall Director, at <a href="mailto:clee@floridadm.org">clee@floridadm.org </a> with any questions!</p>
+          </div>
+            
+        <div role="tabpanel" class="tab-pane fade in active" id="dancing-as-an-individual">
+
+            <h2>Dancing as an Individual</h2>
+            <p></p>
+            <p>You have the option to register to Dance as an individual. When registering to Dance, it will ask you which Organization you are participating with, and there will be an option that says “Participating as an Individual.” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
+            <p>Individual Dancers are placed on a team called Gator Aides. Being a part of Gator Aides will allow you to make connections with other individual Dancers as well as our Miracle Children. Gator Aides have additional opportunities, meetings, and events throughout the year you can choose to attend that will allow you to become even more involved in our cause. </p>
+            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Rebecca Daniel, at <a href="mailto:rdaniel@floridadm.org"> </a></p>
           </div>
 
           <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">
