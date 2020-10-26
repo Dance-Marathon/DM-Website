@@ -58,6 +58,13 @@ If you are looking to make a financial contribution to support our cause, you ca
 If you are looking to register to Dance in our 2021 Main Event, you can register to Dance <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">here.</a> All registered Dancers must also create a DonorDrive page, you can do so <a href="https://events.dancemarathon.com/index.cfm?fuseaction=register.start&eventID=4042" target="_blank">here.</a> Dancer registration is only open for the duration of Transform Today. 
 If you are looking for additional resources to help with fundraising on Transform Today, click <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">here.</a> All registered Dancers must also create a DonorDrive page, you can do so <a href="https://drive.google.com/drive/folders/1juPbkFsqrFn6Sec6FY_KM9HVUfWMRXlQ?usp=sharing" target="_blank">here.</a>
 
+ <h4><i>Hospitality Nights</i></h4>
+
+ Hospitality Nights serve as an opportunity for the local Gainesville community can support Dance Marathon at UF’s fundraising efforts. On Transform Today, hospitality nights will be occurring at Bento on the Archer Rd. and 13th St. locations from 11 a.m. to 10 p.m. and at Chipotle on University Ave. from 4 p.m. to 8 p.m. Make sure to mention Dance Marathon at UF at check out and a portion of the proceeds will benefit the patients at UF Health Shands Children’s Hospital!
+
+Mobile orders are available for both Bento and Chipotle hospitality nights. The mobile ordering code for Bento is UFDance and the mobile ordering code for Chipotle is CMCN98H. 
+
+
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
