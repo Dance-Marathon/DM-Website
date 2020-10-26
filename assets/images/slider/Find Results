@@ -650,7 +650,7 @@ Searching 3806 files for ".jpg"
   840  }
   841  */
   842  .page-heading.parallax.transform-today {
-  843:   background-image: url("/assets/images/sectionbg/2021/transform-today.jpg");
+  843:   background-image: url("/assets/images/sectionbg/2021/transform-today.png");
   844  }
   845  */
 
