@@ -50,7 +50,7 @@ From 8 a.m. on October 27 to 10:12 a.m. on October 28. Dance Marathon at the Uni
 
 Transform Today is Dance Marathon at the University of Florida’s Fall fundraising campaign. For 26.2 hours from 8 a.m. until 10:12 a.m. the next day, Dance Marathon at UF compiles our efforts to raise funds and awareness to transform the lives of the children and families at UF Health Shands Children’s Hospital. 
 
-<h4><i>How Can I Get Involved<i><h4>
+<h4><i>How Can I Get Involved</i></h4>
 
 Transform Today is Dance Marathon at the University of Florida’s largest fundraising campaign in the Fall semester. There are a variety of different ways to join our movement and help us transform the lives of our student body, the lives of the children at UF Health Shands Children’s Hospital, and the lives of each other. 
 
