@@ -6,7 +6,7 @@
 	include("includes/navbar.php");
 ?>
 
-<div class="page-heading parallax moralloween">
+<div class="page-heading parallax transform today">
   <div class="inner-wrapper">
 	  <div class="container">
     	<div class="row">
