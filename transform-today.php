@@ -41,15 +41,15 @@
                 <h4><i>Why</i></h4>
 
                 For 26.2 hours, Dance Marathon at the University of Florida unites during this fundraising campaign to transform the lives of the patients at UF Health Shands Children’s hospital. In only 26.2 hours, our campus community rises to create as many miracles as possible for the children and families at Shands Children’s Hospital.
-
+<br></br>
 <h4><i>When</i></h2>
 
 From 8 a.m. on October 27 to 10:12 a.m. on October 28. Dance Marathon at the University of Florida will be hosting activities on the Reitz North Lawn and will have canning stations on-campus and throughout Gainesville.  </li>
-
+<br></br>
 <h4><i>What</i></h4>
 
 Transform Today is Dance Marathon at the University of Florida’s Fall fundraising campaign. For 26.2 hours from 8 a.m. until 10:12 a.m. the next day, Dance Marathon at UF compiles our efforts to raise funds and awareness to transform the lives of the children and families at UF Health Shands Children’s Hospital. 
-
+<br></br>
 <h4><i>How Can I Get Involved</i></h4>
 
 Transform Today is Dance Marathon at the University of Florida’s largest fundraising campaign in the Fall semester. There are a variety of different ways to join our movement and help us transform the lives of our student body, the lives of the children at UF Health Shands Children’s Hospital, and the lives of each other. </br>
@@ -57,6 +57,7 @@ Transform Today is Dance Marathon at the University of Florida’s largest fundr
 <br>If you are looking to make a financial contribution to support our cause, you can donate using our DonorDrive, linked <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donordrive.donate&EventID=4042" target="_blank">here.</a></br> 
 <br>If you are looking to register to Dance in our 2021 Main Event, you can register to Dance <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">here.</a> All registered Dancers must also create a DonorDrive page, you can do so <a href="https://events.dancemarathon.com/index.cfm?fuseaction=register.start&eventID=4042" target="_blank">here.</a> Dancer registration is only open for the duration of Transform Today. </br>
 <br>If you are looking for additional resources to help with fundraising on Transform Today, click <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">here.</a>
+ <br></br>
  <h4><i>Hospitality Nights</i></h4>
 
  Hospitality Nights serve as an opportunity for the local Gainesville community can support Dance Marathon at UF’s fundraising efforts. On Transform Today, hospitality nights will be occurring at Bento on the Archer Rd. and 13th St. locations from 11 a.m. to 10 p.m. and at Chipotle on University Ave. from 4 p.m. to 8 p.m. Make sure to mention Dance Marathon at UF at check out and a portion of the proceeds will benefit the patients at UF Health Shands Children’s Hospital!
