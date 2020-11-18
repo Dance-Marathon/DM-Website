@@ -1,7 +1,7 @@
 # DM-Website
 The website for Dance Marathon at the University of Florida
 
-How to get running locally:
+How to run it locally using simple methods:
 
 Download npm, grunt, and mamp
 
