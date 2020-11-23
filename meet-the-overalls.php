@@ -67,7 +67,7 @@
 	    'fun_fact'              =>  'I collect records and love all things rock n roll!',
 	    'favorite_memory'       =>  'All of the amazing people that I&#39;ve met through this organization and am still meeting today.',
 	    'motivation'            =>  'Making others happy!',
-	    'image'                 =>  'Mary Grace_Paris',
+	    'image'                 =>  'Mary_Grace',
 	  ),
 	  array(
 	    'name'                  =>  'Brianna Sekul',
@@ -123,7 +123,7 @@
 	    'fun_fact' => 'I am a pretty avid Yoyo-er!',
 	    'favorite_memory' => 'My favorite DM Memory is my first year dancing. It was my first exposure to the Dance Marathon community, and the passion and energy I felt walking into the O\'Dome that Saturday morning, seeing all of these college students so driven by this cause resonated with me greatly. ',
 	    'motivation' => 'The Miracle Children and their families motivate me. The children and their families go through the most challenging times anyone could imagine with a smile on their face. Their perseverance and positivity inspires me to live life to the fullest. ',
-	    'image' => 'Maddie_Hersch',
+	    'image' => 'Madison_Hersch',
 	   ),
 		array(
 		 'name' => 'Courtney Kerwin',
@@ -151,7 +151,7 @@
 	    'fun_fact' => 'I used to do competitive horseback riding!',
 	    'favorite_memory' => 'Meeting some of my best friends and people that have inspired me in ways I never imagined. ',
 	    'motivation' => 'Being able to create happy memories for others. I believe that everyone deserves to look back on a childhood filled with happy thoughts, unclouded by the memories of hospital visits, medication, and needles. DM at UF helps provide positive experiences for children and their families so that they can make amazing memories that will last a lifetime. Being a part of a movement that does this is truly incredible. ',
-	    'image' => 'Emma_McClane',
+	    'image' => 'Emma_McClaine',
 	   ),
 		array(
 	   'name' => 'Maddy Lee',
@@ -277,7 +277,7 @@
 	    'fun_fact' => 'I am a Justin Timberlake enthusiast!',
 	    'favorite_memory' => 'Every year during the event I always find 20 minutes to go sit up in the bleachers of the O\'Dome and let everything soak in. As I step away from the craziness and give myself time to reflect on the year, I always find myself overwhelmed with gratitude for DM at UF. I will always hold those special moments close to my heart!',
 	    'motivation' => 'Every time I see the colorful windows of UF Shands Children\'s Hospital, I am reminded of the unimaginable battles that take place within those walls. The brave children who persevere through the hardest of times will forever motivate me and inspire me to continue our fight FTK.',
-	    'image' => 'Madison_Whalen',
+	    'image' => 'Maddy_Whalen',
 		),
 
 		 array(
@@ -346,7 +346,7 @@
           } ?>
           <div class="col-sm-4">
             <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/overalls/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
+              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/overalls2020/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
               <h3><?php echo $overalls[$i]['name']; ?></h3>
             </a>
             <p style="text-align: center;">
