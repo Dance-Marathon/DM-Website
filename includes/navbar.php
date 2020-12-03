@@ -116,9 +116,9 @@
 
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
-				  <li><a href="http://urlgeni.us/instagram/dmatuf"><i class="fa fa-instagram"></i></a></li>
-				  <li><a href="http://urlgeni.us/twitter/floridaDM"><i class="fa fa-twitter"></i></a></li>
-				  <li><a href="http://urlgeni.us/facebook/floridaDM"><i class="fa fa-facebook"></i></a></li>
+				  <li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fa fa-instagram"></i></a></li>
+				  <li><a href="https://twitter.com/floridadm?lang=en"><i class="fa fa-twitter"></i></a></li>
+				  <li><a href="https://www.facebook.com/floridaDM/"><i class="fa fa-facebook"></i></a></li>
 			  </ul>
 			</div><!--/.nav-collapse -->
 		  </div>
