@@ -47,7 +47,7 @@ Join us for the Miracles in Color 5K on February 13, 2021 at Flavet Field. Mirac
 				<p>Registration closes Tuesday, Feb. 9 at 11:59 p.m. After that point, no more online registrations will be accepted. No registration will be allowed at the event due to capacity limits.</p>
 				<p>All proceeds will be donated to UF Health Shands Children's Hospital, our local Children's Miracle Network Hospital, from Dance Marathon at the University of Florida.</p>
 				<p>*Don't want to be colored with powder? We will give you something to indicate to our color team that you want to stay clean. </p>
-				<p>For more information, please contact the Operations Manager, Hannah Cooper, at <a href="mailto:hcooper@floridadm.org">hcooper@floridadm.org\</a>.</p>
+				<p>For more information, please contact the Operations Manager, Hannah Cooper, at hcooper@floridadm.org.</p>
 
                <h2>Race Day Info</h2>
 
