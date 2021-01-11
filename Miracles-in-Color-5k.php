@@ -60,12 +60,12 @@ Join us for the Miracles in Color 5K on February 13, 2021 at Flavet Field. Mirac
 			   <p>A Color Run is a 5 kilometer race involving powder paint, inspired by the Hindu Festival of Holi. Participants wear white at the beginning of the race and are covered with color by the end. To learn more about Holi you can visit <a href="https://www.holifestival.org/" target="_blank">here.</a> </p>
               
 			   <h3>What safety precautions are being taken to prevent the spread and transmission of COVID-19?</h3>
-               <p>This plan has been developed within the current CDC, Florida Department of Health, and University of Florida guidelines for managing an event space while preventing the spread and transmission of COVID-19.</P>
+               <br>This plan has been developed within the current CDC, Florida Department of Health, and University of Florida guidelines for managing an event space while preventing the spread and transmission of COVID-19.</br>
                <br>All UF students attending the Miracles in Color 5K will be required to provide proof of a “Cleared” status on their ONE.UF to indicate that they are cleared to attend campus events.</br>
                <br>A safety clearance form will be sent to all participants prior to the event to screen for symptoms and exposure prior to attending the event. If participants are experiencing symptoms, exposed to COVID-19, or not cleared for campus, then they will not be permitted to participant in the event.</br>
              
 			  <h3>Will I need to wear a facial covering while running?</h3>
-               <p>Yes, facial coverings are required for the duration of the event.</p>
+               <br>Yes, facial coverings are required for the duration of the event.</br>
                <br>Masks with exhalation valves or vents allow air to be expelled and are prohibited because they do not provide protection to others. </br>
                 <br>In addition, neck gaiters and bandanas should not be worn unless no other face covering is available. </br>
               
