@@ -38,7 +38,7 @@
       <?php if ($status == "open") { ?>
 
 				<h2>Miracles in Color 5K</h2>
-                <p>Purchase the tickets  <p> Check out our resource folder <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4383" target="_blank">here.</a>
+                <p>Purchase the tickets <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4383" target="_blank">here.</a>
                 <p>Welcome to the Miracles in Color 5K benefiting UF Health Shands Children's Hospital!
 Join us for the Miracles in Color 5K on February 13, 2021 at Flavet Field. Miracles in Color is open to anyone who wants to support our cause and have a great time. We couldn't think of a better way for you to spend your Saturday morning than with paint and by supporting a hospital that is so prominent in our community!
   </p>
