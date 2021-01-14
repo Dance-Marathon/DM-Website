@@ -84,7 +84,9 @@ Join us for the Miracles in Color 5K on February 13, 2021 at Flavet Field. Mirac
               <h3>Will there be chip timing at the Miracles in Color 5K?</h3>
 			  <p>No, there is no official timing system for the 5K. </p>
 
-
+              <h3>Can I bring my animal to the Miracles in Color 5K?</h3>
+			  <p>Animals are not permitted to attend Dance Marathon at UF events unless they are a certified service animal.</p>
+      
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
