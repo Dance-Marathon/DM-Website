@@ -241,6 +241,68 @@ include("includes/navbar.php");
           </div>
 		</div>
 
+        <h4>Dancers</h4>
+		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingThirteen">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+				How will the in-person Dancer experience be this year?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseThirteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThirteen">
+              <div class="panel-body">
+			  The Dancer experience will uphold the traditional Dancer experience while adapting to CDC guidelines. Dancer shifts will include Miracle Stories, Theme Hours, entertainment, meals and more. Dancers will stand, if able, with no sleep and no caffeine for the duration of the 13.1-hour shift in solidarity with every child affected by pediatric illness.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingFourteen">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+				How will Dancer shifts get assigned?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseFourteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFourteen">
+              <div class="panel-body">
+			  Dancers will preference shifts once their Dancer spot is confirmed on March 26. We cannot guarantee which shift a Dancer will be assigned due to space availability. Dancers will have until March 31 to preference their shifts and until April 2 to confirm their spot in that specific shift.
+			  <br><br>Dancers will sign up with a group of two to four members of their Organization which will serve as their QuaranTeam for the duration of the shift. They will be in the same Dancer Group as their QuaranTeam.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingFifteen">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+				What is a Dancer Group?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseFifteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFifteen">
+              <div class="panel-body">
+			  A Dancer Group is a small group of approximately 20 Dancers who will remain together for the duration of the Main Event. Groups will remain physically distanced throughout the event. Each Dancer Group will be paired with a Dancer Relations Captain or a Recruitment Captain. Dancer Groups will rotate throughout the O’Connell Center periodically to ensure that everyone can experience all aspects of the Main Event while following the O’Connell Center capacities.
+              </div>
+            </div>
+          </div>
+		  <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingSixteen">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+				How do you get selected to be a Dancer?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseSixteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSixteen">
+              <div class="panel-body">
+			  Dancer spots will be allocated to each Organization based on their yearlong fundraising and involvement. 
+			  <br><br>Organizations select Dancers from their Registered Dancer lists and submit the names to DM at UF. Organization Dancer lists will be due by March 26.
+              </div>
+            </div>
+          </div> 
+		</div>
+
 
 
 
