@@ -415,6 +415,54 @@ include("includes/navbar.php");
           </div>
 		 </div> 
 
+		 <h4>High Schoolers</h4>
+		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwentyfour">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyfour" aria-expanded="false" aria-controls="collapseTwentyfour">
+				What will in-person engagement be?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTwentyfour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentyfour">
+              <div class="panel-body">
+			  More details will be provided regarding high school in-person visitor involvement at the Main Event. If you have further questions, please email mainevent@floridadm.org.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwentyfive">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyfive" aria-expanded="false" aria-controls="collapseTwentyfive">
+				How can we engage virtually?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTwentyfive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwenty">
+              <div class="panel-body">
+			  High schoolers will have the opportunity to engage with DM at UF over various social media platforms. The Marathon Relations Teams will provide information on additional virtual engagement opportunities for high school programs.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwentysix">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentysix" aria-expanded="false" aria-controls="collapseTwentysix">
+				Will we need to find somewhere to stay if we attend in-person? 
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTwentysix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentysix">
+              <div class="panel-body">
+			  Dance Marathon at UF does not provide accommodations for visitors. 
+              </div>
+            </div>
+          </div>
+		</div> 
+
+		<br><h4>For additional questions, email mainevent@floridadm.org </h4>
+
 
 				<!-- <?php if ($status == "open") { ?>
 
