@@ -64,15 +64,15 @@ include("includes/navbar.php");
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
               <div class="panel-body">
                 -Dance Marathon at UF is working closely with UF Screen, Test & Protect to ensure that the Main Event can safely occur following the University of Florida and CDC event guidelines. Dr. Cindy Prins, the UF Screen, Test & Protect Campus Infection Preventionist, has reviewed the current Main Event safety plan. DM at UF will continue to work with Dr. Prins and UF Screen, Test & Protect as we plan for the Main Event.
-				<br>-All UF students attending the Dance Marathon at UF Main Event will be required to provide proof of a “Cleared” status on their ONE.UF to indicate that they are cleared to attend campus events. We are advising all members to quarantine for two weeks leading up to the Main Event to reduce the risk of exposure to COVID-19. All members will have their temperatures checked before entering the Stephen C. O’Connell Center. Temperatures must be below 100.5° to attend the Main Event.
-				<br>-On-site volunteer medical staff will be available to assist with any injuries or illnesses that may occur throughout the Main Event.
-				<br>-The O’Connell Center and UF Screen, Test & Protect have adjusted capacities to allow for physical distancing. Capacities are broken down according to each location in the O’Connell Center and will be strictly enforced.
-				<br>-All participants will be required to wear a face covering for the duration of the Main Event.
-				<br>     -Masks with exhalation valves or vents that allow air to be expelled are prohibited because they do not provide protection to others. 
-				<br>     -In addition, neck gaiters and bandanas should not be worn unless no other face covering is available.
-				<br>     -Participants will be asked to arrive with their own face covering, however, we will have disposable masks available if someone forgets their face covering.
-				<br>-Visitors’ contact with UF students will be as limited as possible.
-				<br>-Thorough and frequent cleaning procedures will be done throughout the O’Connell Center during the Main Event. This will include but is not limited to, hydrostatic sprayers, routinely disinfecting highly trafficked surfaces and hand sanitizing stations.
+				<br><br>All UF students attending the Dance Marathon at UF Main Event will be required to provide proof of a “Cleared” status on their ONE.UF to indicate that they are cleared to attend campus events. We are advising all members to quarantine for two weeks leading up to the Main Event to reduce the risk of exposure to COVID-19. All members will have their temperatures checked before entering the Stephen C. O’Connell Center. Temperatures must be below 100.5° to attend the Main Event.
+				<br><br>On-site volunteer medical staff will be available to assist with any injuries or illnesses that may occur throughout the Main Event.
+				<br><br>The O’Connell Center and UF Screen, Test & Protect have adjusted capacities to allow for physical distancing. Capacities are broken down according to each location in the O’Connell Center and will be strictly enforced.
+				<br><br>All participants will be required to wear a face covering for the duration of the Main Event.
+				<br><br>Masks with exhalation valves or vents that allow air to be expelled are prohibited because they do not provide protection to others. 
+				<br><br>In addition, neck gaiters and bandanas should not be worn unless no other face covering is available.
+				<br><br>Participants will be asked to arrive with their own face covering, however, we will have disposable masks available if someone forgets their face covering.
+				<br><br>Visitors’ contact with UF students will be as limited as possible.
+				<br><br>Thorough and frequent cleaning procedures will be done throughout the O’Connell Center during the Main Event. This will include but is not limited to, hydrostatic sprayers, routinely disinfecting highly trafficked surfaces and hand sanitizing stations.
               </div>
             </div>
           </div>
