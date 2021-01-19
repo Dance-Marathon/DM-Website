@@ -46,6 +46,9 @@ include("includes/navbar.php");
 			<div class="col-md-8 col-md-push-1">
 
 <p> We are so excited to see everyone safely at the O'Connell center on April 10 - 11, 2021! </p>
+<p>Dance Marathon at the University of Florida is excited to share information regarding our Main Event on April 10-11. Our main priority is keeping our members, Miracle Families and community safe while the COVID-19 pandemic continues to affect the world. We have been working with UF Screen, Test & Protect Program and the Stephen C. O’Connell Center to establish safe protocols and guidelines during our in-person event. </p>
+<p>We will offer a virtual event option that will provide participants with a complete Main Event experience. The virtual option will be open to anyone to accommodate varying levels of comfortability with their attendance to Dance Marathon 2021.</p>
+<p>The Main Event will look different than it has the last 26 years, but we are excited for the opportunity to change and grow. After establishing safety protocols, our priority is to provide a memorable experience for all of our members while creating miracles for the children treated at UF Health Shands Children’s Hospital.</p>
 	<p>Follow us on social media for event updates! </p>
 
 <h2>Main Event FAQs</h2>
