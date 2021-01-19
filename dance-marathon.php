@@ -212,28 +212,28 @@ include("includes/navbar.php");
 		<h4>Miracles Families</h4>
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           <div class="panel panel-default">
-            <div class="panel-heading" role="tab" id="headingOne">
+            <div class="panel-heading" role="tab" id="headingEleven">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
 				Can Miracles Families attend the entire event?
                 </a>
               </h4>
             </div>
-            <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+            <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEleven">
               <div class="panel-body">
 			  The duration of time that each Miracle Family can be present in the O’Connell Center will vary depending on the number of families who are interested in attending. Please lookout for an email from the Family Relations Overall, Courtney Kerwin, to indicate your interest level. Once this information is collected, Family shifts will be announced.
               </div>
             </div>
           </div>
           <div class="panel panel-default">
-            <div class="panel-heading" role="tab" id="headingTwo">
+            <div class="panel-heading" role="tab" id="headingTwelve">
               <h4 class="panel-title">
-                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
 				What are the precautions to ensure the safety of the Miracle Children?
                 </a>
               </h4>
             </div>
-            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div id="collapseTwelve" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwelve">
               <div class="panel-body">
 			  We are committed to the health and safety of all of our Miracle Families and members. To ensure the safety of our Miracle Children there will be routine cleaning and sanitizing procedures throughout the O’Connell Center. Each child’s medical team must approve, review or advise their attendance to Dance Marathon 2021. More details will be provided regarding Miracle Child involvement. If you have further questions please contact mainevent@floridadm.org.
               </div>
