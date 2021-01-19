@@ -108,13 +108,13 @@ include("includes/navbar.php");
             <div class="panel-heading" role="tab" id="headingFour">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-				Are these decisions finalized?
+				Why are there two shifts?
                 </a>
               </h4>
             </div>
             <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
               <div class="panel-body">
-			  These plans have been developed within the current CDC, Florida Department of Health and University of Florida guidelines for managing an event space while preventing the spread and transmission of COVID-19. All information is subject to change to achieve our goal of keeping members, Miracle Families and our community safe.
+			  Two shifts allow us to provide more Dancer spots while keeping our members safe and following the capacities from the O’Connell Center.
               </div>
             </div>
           </div> 
@@ -122,13 +122,14 @@ include("includes/navbar.php");
             <div class="panel-heading" role="tab" id="headingFive">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-				Why are there two shifts?
+				What is the date and time of each shift?
                 </a>
               </h4>
             </div>
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
               <div class="panel-body">
-			  Two shifts allow us to provide more Dancer spots while keeping our members safe and following the capacities from the O’Connell Center.
+			  Orange Shift 1: April 10, 8 a.m. - 9:06 p.m.
+			  <br>Blue Shift 2: April 11, 6 a.m. - 7:06 p.m.
               </div>
             </div>
           </div>
@@ -136,14 +137,73 @@ include("includes/navbar.php");
             <div class="panel-heading" role="tab" id="headingSix">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-				What is the date and time of each shift?
+				Will visitors be able to attend the Main Event in the O’Connell Center?
                 </a>
               </h4>
             </div>
             <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
               <div class="panel-body">
-			  Orange Shift 1: April 10, 8 a.m. - 9:06 p.m.
-			  <br>Blue Shift 2: April 11, 6 a.m. - 7:06 p.m.
+			  Visitors must be invited by Dance Marathon at UF to attend the Main Event. More information will be provided soon regarding visitor invitations. 
+			  <br><br>Visitor invitations are in place to ensure the safety of our members and prevent the outside spread of COVID-19. 
+			  <br><br>The Main Event will be live-streamed to provide a virtual opportunity for visitors to tune in to the event and stay up to date on what is happening live at the O’Connell Center.
+              </div>
+            </div>
+          </div>
+		  <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingSeven">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+				How do I know which shift I will attend for Dance Marathon 2021?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+              <div class="panel-body">
+			  Dancers will preference shifts once their spot is confirmed. We cannot guarantee which shift a Dancer will be assigned due to space availability. Please see the Dancer FAQ section for more information on shifts, preference deadlines and Dancer groups. 
+			  <br><br>Captains will coordinate with their Overall Director to preference their assignments. Please see the Captain FAQ section for more information. 
+			  <br><br>Emerging Leaders will be assigned shifts based on their Unit. Please see the Emerging Leader FAQ section for more information.
+              </div>
+            </div>
+          </div>
+		  <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingEight">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+				Will the engagement be the same at each shift?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
+              <div class="panel-body">
+			  Similar engagement will be provided at Orange Shift 1 and Blue Shift 2. Our goal is to provide the same experience for all Dancers, regardless of the shift. Each shift will include Theme Hours, Linedances, fundraising incentives and more.
+              </div>
+            </div>
+          </div>
+		  <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingNine">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
+				Will everyone be allowed to attend Total Reveal?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
+              <div class="panel-body">
+			  Captains, Emerging Leaders, Dancers and Ambassadors will be invited back to attend our Total Reveal in person. All members will be physically distanced in the 100 and 200 level stands for Total Reveal. The reveal will be live-streamed on various social media platforms for anyone to tune in. 
+              </div>
+            </div>
+          </div>
+		  <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTen">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
+				Will any meals be provided?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
+              <div class="panel-body">
+			  Meals will be provided at the Main Event. The final details regarding meals are pending and will be provided when finalized.
               </div>
             </div>
           </div>
