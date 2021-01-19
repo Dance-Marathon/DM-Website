@@ -383,6 +383,38 @@ include("includes/navbar.php");
           </div>
 		 </div> 
 
+		 <h4>Emerging Leaders Program</h4>
+		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwentytwo">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwentytwo" aria-expanded="false" aria-controls="collapseTwentytwo">
+				Will I be able to attend both shifts?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTwentytwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentytwo">
+              <div class="panel-body">
+			  Emerging Leaders will attend one Dancer shift, assigned based on their Unit.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwentythree">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentythree" aria-expanded="false" aria-controls="collapseTwentythree">
+				What will the Emerging Leaders Program experience be like?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTwentythree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentythree">
+              <div class="panel-body">
+			  Emerging Leaders will have specific roles for their shifts and will be able to experience the entirety of a shift at the Main Event. More details will be provided throughout the semester from the Leadership Development Captain Team.
+              </div>
+            </div>
+          </div>
+		 </div> 
+
 
 				<!-- <?php if ($status == "open") { ?>
 
