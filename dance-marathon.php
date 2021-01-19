@@ -50,7 +50,7 @@ include("includes/navbar.php");
 
 <h2>Main Event FAQs</h2>
     <h3>We have provided specific questions for the following general groups:</h3>
-      <h4>All Participants</h4>
+    <br>  <h4>All Participants</h4>
 
 	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           <div class="panel panel-default">
