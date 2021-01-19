@@ -303,6 +303,52 @@ include("includes/navbar.php");
           </div> 
 		</div>
 
+		<h4>Ambassadors</h4>
+		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingSeventeen">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
+				Will I be able to attend both shifts?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseSeventeen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeventeen">
+              <div class="panel-body">
+			  Ambassadors are encouraged to register to dance, meaning that they would be assigned to one shift. There will be a designated area for Ambassadors to come during either shift to assist their Organization’s Dancers.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingEighteen">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
+				Will every Dancer in my Organization have to attend the same shift?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseEighteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEighteen">
+              <div class="panel-body">
+			  No, every Dancer from an Organization may be in the same shift but that is unlikely. Dancers from each Organization will be split into each shift.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingNineteen">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseNineteen" aria-expanded="false" aria-controls="collapseNineteen">
+				How will fundraising levels work?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseNineteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNineteen">
+              <div class="panel-body">
+			  Fundraising levels are determined based on an Organization’s fundraising, Spirit Points and the number of locked Dancers. When combined, Organizations will be placed into a fundraising level and compete against other Organizations for their spot. Fundraising levels will determine the number of Dancers from each Organization who can attend the Main Event. More information will be provided to Ambassadors regarding fundraising levels.
+              </div>
+            </div>
+          </div>
+		</div>
+
 
 
 
