@@ -349,7 +349,39 @@ include("includes/navbar.php");
           </div>
 		</div>
 
-
+        <h4>Captains</h4>
+		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwenty">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">
+				What will Captain attendance look like?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTwenty" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwenty">
+              <div class="panel-body">
+			  Captains will be assigned different times to attend depending on the Captain Team’s role in the Main Event. The duration of shifts will vary depending on the Team’s role. Your Overall Director will assign shifts closer to the Main Event.
+			  <br><br>All Captains will be invited to attend the Overnight Captain & ELP Engagement.
+			  <br><br>The 200 level stands will be reserved for Captains for the duration of the Main Event to observe the Dancer shifts.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwentyone">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyone" aria-expanded="false" aria-controls="collapseTwentyone">
+				How will my team’s responsibilities change?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseTwentyone" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentyone">
+              <div class="panel-body">
+			  Please contact your Overall Director for individual team changes.
+              </div>
+            </div>
+          </div>
+		 </div> 
 
 
 				<!-- <?php if ($status == "open") { ?>
