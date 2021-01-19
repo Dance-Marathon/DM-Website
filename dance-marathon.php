@@ -50,18 +50,29 @@ include("includes/navbar.php");
 
 <h2>Main Event FAQs</h2>
     <h3>We have provided specific questions for the following general groups:</h3>
+      <h4>All Participants</h4>
+
 	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="headingOne">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                  How can I ask a specific question?
+				What precautions are in place to ensure safety at the Main Event?
                 </a>
               </h4>
             </div>
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
               <div class="panel-body">
-                We love questions! Send any inquiries to <a href="mailto:floridadm@floridadm.org">floridadm@floridadm.org</a>.
+                -Dance Marathon at UF is working closely with UF Screen, Test & Protect to ensure that the Main Event can safely occur following the University of Florida and CDC event guidelines. Dr. Cindy Prins, the UF Screen, Test & Protect Campus Infection Preventionist, has reviewed the current Main Event safety plan. DM at UF will continue to work with Dr. Prins and UF Screen, Test & Protect as we plan for the Main Event.
+				<br>-All UF students attending the Dance Marathon at UF Main Event will be required to provide proof of a “Cleared” status on their ONE.UF to indicate that they are cleared to attend campus events. We are advising all members to quarantine for two weeks leading up to the Main Event to reduce the risk of exposure to COVID-19. All members will have their temperatures checked before entering the Stephen C. O’Connell Center. Temperatures must be below 100.5° to attend the Main Event.
+				<br>-On-site volunteer medical staff will be available to assist with any injuries or illnesses that may occur throughout the Main Event.
+				<br>-The O’Connell Center and UF Screen, Test & Protect have adjusted capacities to allow for physical distancing. Capacities are broken down according to each location in the O’Connell Center and will be strictly enforced.
+				<br>-All participants will be required to wear a face covering for the duration of the Main Event.
+				<br>     -Masks with exhalation valves or vents that allow air to be expelled are prohibited because they do not provide protection to others. 
+				<br>     -In addition, neck gaiters and bandanas should not be worn unless no other face covering is available.
+				<br>     -Participants will be asked to arrive with their own face covering, however, we will have disposable masks available if someone forgets their face covering.
+				<br>-Visitors’ contact with UF students will be as limited as possible.
+				<br>-Thorough and frequent cleaning procedures will be done throughout the O’Connell Center during the Main Event. This will include but is not limited to, hydrostatic sprayers, routinely disinfecting highly trafficked surfaces and hand sanitizing stations.
               </div>
             </div>
           </div>
@@ -69,13 +80,13 @@ include("includes/navbar.php");
             <div class="panel-heading" role="tab" id="headingTwo">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  Who should I contact if I have a press inquiry?
+				Will there be virtual engagement for those unable to attend or uncomfortable attending in-person?
                 </a>
               </h4>
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-                Please contact our Public Relations Overall Director, Maddy Whalen, at <a href="mailto:mwhalen@floridadm.org">mwhalen@floridadm.org</a>.
+			  Yes! The Main Event will be live-streamed on various social media platforms. There will be additional opportunities for Dancers, Captains, Emerging Leaders, Ambassadors, high schoolers and visitors to attend virtually.
               </div>
             </div>
           </div>
@@ -83,44 +94,56 @@ include("includes/navbar.php");
             <div class="panel-heading" role="tab" id="headingThree">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  Can I send a donation via check?
+				Are these decisions finalized?
                 </a>
               </h4>
             </div>
             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
               <div class="panel-body">
-                Of course you can! Please make all checks out to Children's Miracle Network, and send them to
-                <br><br>CMN Attn: DM at UF
-                <br>PO Box 100386
-                <br>Gainesville, FL 32610
+			  These plans have been developed within the current CDC, Florida Department of Health and University of Florida guidelines for managing an event space while preventing the spread and transmission of COVID-19. All information is subject to change to achieve our goal of keeping members, Miracle Families and our community safe.
               </div>
             </div>
           </div>
-          <div class="panel panel-default">
+		  <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="headingFour">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                  Where can I get instant updates about DM at UF?
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+				Are these decisions finalized?
                 </a>
               </h4>
             </div>
             <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
               <div class="panel-body">
-                Like us on <a href="http://www.facebook.com/floridaDM">Facebook</a> and follow us on <a href="http://www.twitter.com/floridadm">Twitter</a> and <a href="http://www.instagram.com/dmatuf">Instagram</a>.
+			  These plans have been developed within the current CDC, Florida Department of Health and University of Florida guidelines for managing an event space while preventing the spread and transmission of COVID-19. All information is subject to change to achieve our goal of keeping members, Miracle Families and our community safe.
               </div>
             </div>
-          </div>
+          </div> 
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="headingFive">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                  Do you have questions about dancing?
+				Why are there two shifts?
                 </a>
               </h4>
             </div>
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
               <div class="panel-body">
-                Check out our <a href="http://www.floridadm.org/dancers">Dancer Page</a> for Dancer information and FAQs.
+			  Two shifts allow us to provide more Dancer spots while keeping our members safe and following the capacities from the O’Connell Center.
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingSix">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+				What is the date and time of each shift?
+                </a>
+              </h4>
+            </div>
+            <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+              <div class="panel-body">
+			  Orange Shift 1: April 10, 8 a.m. - 9:06 p.m.
+			  <br>Blue Shift 2: April 11, 6 a.m. - 7:06 p.m.
               </div>
             </div>
           </div>
