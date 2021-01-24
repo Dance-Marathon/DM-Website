@@ -56,7 +56,7 @@ Join us for the Miracles in Color 5K on February 13, 2021 at Flavet Field. Mirac
 			   <p>Check your email for more information, and email hcooper@floridadm.org with any questions.</p>
 
 			   <h2>FAQs</h2>
-			   <h3>What is a Color Run?</h3>
+			   <h3>What is a Color Run? </h3>
 			   <p>A Color Run is a 5 kilometer race involving powder paint, inspired by the Hindu Festival of Holi. Participants wear white at the beginning of the race and are covered with color by the end. To learn more about Holi you can visit <a href="https://www.holifestival.org/" target="_blank">here.</a> </p>
 
 			   <h3>What safety precautions are being taken to prevent the spread and transmission of COVID-19?</h3>
