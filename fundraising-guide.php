@@ -27,7 +27,7 @@
 						
 						<li><a href ="/donordrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
-						<li><a href="/fundraising_brackets">Fundraising Brackets</a></li>
+						<li><a href="/fundraising_brackets">Organization Impact Levels</a></li>
 						<li><a class="active">Fundraising Guide</a></li>
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
           </ul>

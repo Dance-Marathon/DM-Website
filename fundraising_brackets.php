@@ -1,6 +1,6 @@
 <?php
 $status = "open";
-$GLOBALS['page_title'] = 'Fundraising Brackets | Students | Dance Marathon at UF';
+$GLOBALS['page_title'] = 'Organization Impact Levels | Students | Dance Marathon at UF';
 $GLOBALS['parent'] = 'get-involved';
 include("includes/head.php");
 include("includes/navbar.php");
@@ -29,14 +29,14 @@ include("includes/navbar.php");
 
  #red-bracket-wrapper{
     background-color: #BE2025;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
 
   #blue-bracket-wrapper{
     background-color: #1555C4;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -44,7 +44,7 @@ include("includes/navbar.php");
 
 #green-bracket-wrapper{
     background-color: #0AB14F;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -52,7 +52,7 @@ include("includes/navbar.php");
 
 #yellow-bracket-wrapper{
     background-color: #F3CF6A;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -60,7 +60,7 @@ include("includes/navbar.php");
 
 #purple-bracket-wrapper{
     background-color: #D54BEC;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -68,7 +68,7 @@ include("includes/navbar.php");
 
 #orange-bracket-wrapper{
     background-color: #FA5F05;
-    padding: 45px;
+    padding: 35px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -76,7 +76,7 @@ include("includes/navbar.php");
 
 #pink-bracket-wrapper{
     background-color: #F65CB0;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -84,7 +84,7 @@ include("includes/navbar.php");
 
 #gray-bracket-wrapper{
     background-color: #5F5F5F;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -140,20 +140,19 @@ include("includes/navbar.php");
             
 						<li><a href ="/donordrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
-						<li><a class="active">Fundraising Brackets</a></li>
+						<li><a class="active">Organization Impact Levels</a></li>
             <li><a href="/fundraising-guide">Fundraising Guide</a></li>
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
           </ul>
         </div>
 			</div>
 
-      <!--
+      
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-     <h2 class="text-center">Fundraising Brackets</h2>
-     <p class="text-center">About a month prior to the Event, all Organizations participating in Dance Marathon 2021 will be placed into Fundraising Brackets based on their total amount fundraised, spirit points, and locked dancer spots. Fundraising Brackets determine the number of Dancer spots allotted to each Organization. Organizations who have raised the most money will receive the greatest number of Dancer spots.</p>
--->
-
+     <h2 style="font-weight: bold;">Organization Impact Levels</h2>
+     <p>Organization Impact Levels determine the number of Dancer spots each Organization can earn for the Main Event. The Organization’s standing within the Impact Levels is determined by a combination of fundraising, Spirit Points and Locked Dancer Spots. Each Impact Level requires a minimum fundraising amount in order to enter into it, and there are a maximum number of Organizations that can exist in each Impact Level. Organization Impact Levels will change as the semester continues and Organizations continue to fundraise, get Spirit Points and earn Locked Dancer Spots.</p>
+      </div>
    <script>
   /**
         use this to display the fundrasing brackets
@@ -319,7 +318,7 @@ include("includes/navbar.php");
 
 <!-- this is also needed -->
 
-
+<div class="col-md-6 col-md-push-2">
  <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
@@ -458,7 +457,7 @@ include("includes/navbar.php");
   </div>
 </div>
 
-
+</div>
 
   <?php } else { echo 'This page is currently closed.'; } ?>
 </div>
