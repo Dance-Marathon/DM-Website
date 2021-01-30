@@ -140,8 +140,8 @@ include("includes/navbar.php");
             
 						<li><a href ="/donordrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
-						<li><a class="active">Organization Impact Levels</a></li>
             <li><a href="/fundraising-guide">Fundraising Guide</a></li>
+            <li><a class="active">Organization Impact Levels</a></li>
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
           </ul>
         </div>
