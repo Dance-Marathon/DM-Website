@@ -47,7 +47,7 @@ include("includes/navbar.php");
           <li role="presentation"><a href="#dancer-faqs" aria-controls="dancer-faqs" role="tab" data-toggle="tab">Dancer FAQs</a></li>
           <li role="presentation"><a href="#dancer-resources" aria-controls="dancer-resources" role="tab" data-toggle="tab">Dancer Resources</a></li>
           <li role="presentation"><a href="#dancing-as-an-individual" aria-controls="dancing-as-an-individual" role="tab" data-toggle="tab">Dancing as an Individual</a></li>
-          <li role="presentation"><a href="#in-event-dancer-tips" aria-controls="in-event-dancer-tips" role="tab" data-toggle="tab">In-Event Dancer Tips</a></li>
+         <!-- <li role="presentation"><a href="#in-event-dancer-tips" aria-controls="in-event-dancer-tips" role="tab" data-toggle="tab">In-Event Dancer Tips</a></li> -->
         </ul>
 
         <!-- Tab panes -->
