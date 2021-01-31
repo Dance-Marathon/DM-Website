@@ -74,7 +74,7 @@ include("includes/navbar.php");
             <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Rebecca Daniel, at <a href="mailto:rdaniel@floridadm.org">rdaniel@floridadm.org</a></p>
           </div>
 
-          <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">
+         <!-- <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">
           <h3>Staying Healthy</h3>
             <ul>
               <li>Stay hydrated! Be sure to bring a water bottle with you to the event to ensure you are drinking enough water. Water and Gatorade will be provided at the Event as well.</li>
@@ -92,7 +92,7 @@ include("includes/navbar.php");
               <li>Toothbrush & toothpaste</li>
               <li>Hairbrush</li>
               <li>Chapstick</li>
-              <li>Deodorant</li> <!--Add video of where is my chapstick -->
+              <li>Deodorant</li> 
               <li>Baby wipes</li>
               <li>Goldbond powder</li>
               <li>DM at UF fanny pack</li>
@@ -118,7 +118,7 @@ include("includes/navbar.php");
               <li>If you have medications, you will be able to turn these in to your Ambassador or Dancer Relations Captain and they will be kept safe in our Medical Room with our medical personnel.</li>
             </ul>
           <p></p>
-          </div>
+          </div> --> 
 
           <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
