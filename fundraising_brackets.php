@@ -1,6 +1,6 @@
 <?php
 $status = "open";
-$GLOBALS['page_title'] = 'Fundraising Brackets | Students | Dance Marathon at UF';
+$GLOBALS['page_title'] = 'Organization Impact Levels | Students | Dance Marathon at UF';
 $GLOBALS['parent'] = 'get-involved';
 include("includes/head.php");
 include("includes/navbar.php");
@@ -29,14 +29,14 @@ include("includes/navbar.php");
 
  #red-bracket-wrapper{
     background-color: #BE2025;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
 
   #blue-bracket-wrapper{
     background-color: #1555C4;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -44,7 +44,7 @@ include("includes/navbar.php");
 
 #green-bracket-wrapper{
     background-color: #0AB14F;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -52,23 +52,23 @@ include("includes/navbar.php");
 
 #yellow-bracket-wrapper{
     background-color: #F3CF6A;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
 
 
 #purple-bracket-wrapper{
-    background-color: #9149E1;
-    padding: 45px;
+    background-color: #D54BEC;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
 
 
 #orange-bracket-wrapper{
-    background-color: #F05F39;
-    padding: 45px;
+    background-color: #FA5F05;
+    padding: 35px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -76,7 +76,7 @@ include("includes/navbar.php");
 
 #pink-bracket-wrapper{
     background-color: #F65CB0;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -84,7 +84,7 @@ include("includes/navbar.php");
 
 #gray-bracket-wrapper{
     background-color: #5F5F5F;
-    padding: 45px;
+    padding: 25px;
     margin-top: 35px;
     border-radius: 15px;
   }
@@ -124,7 +124,7 @@ include("includes/navbar.php");
    <div class="container">
      <div class="row">
        <div class="col-md-12">
-         <h1>Fundraising Brackets</h1>
+         <h1>Organization Impact Levels</h1>
        </div>
      </div>
    </div>
@@ -140,25 +140,26 @@ include("includes/navbar.php");
             
 						<li><a href ="/donordrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
-						<li><a class="active">Fundraising Brackets</a></li>
             <li><a href="/fundraising-guide">Fundraising Guide</a></li>
+            <li><a class="active">Organization Impact Levels</a></li>
             <li><a href="/register-to-fundraise">Register to Fundraise</a></li>
           </ul>
         </div>
 			</div>
+
+      
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
-     <h2 class="text-center">Fundraising Brackets</h2>
-     <p class="text-center">About a month prior to the Event, all Organizations participating in Dance Marathon 2021 will be placed into Fundraising Brackets based on their total amount fundraised, spirit points, and locked dancer spots. Fundraising Brackets determine the number of Dancer spots allotted to each Organization. Organizations who have raised the most money will receive the greatest number of Dancer spots.</p>
-
-
-  <!-- <script>
+     <h2 style="font-weight: bold;">Organization Impact Levels</h2>
+     <p>Organization Impact Levels determine the number of Dancer spots each Organization can earn for the Main Event. The Organization’s standing within the Impact Levels is determined by a combination of fundraising, Spirit Points and Locked Dancer Spots. Each Impact Level requires a minimum fundraising amount in order to enter into it, and there are a maximum number of Organizations that can exist in each Impact Level. Organization Impact Levels will change as the semester continues and Organizations continue to fundraise, get Spirit Points and earn Locked Dancer Spots.</p>
+      </div>
+   <script>
   /**
         use this to display the fundrasing brackets
    */
 
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
+   var spreadsheetID = "1htGfq9WSgHy78bIW0iOulgi2-Vl3p3xJsTUkyjTcY7M";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -178,7 +179,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
+   var spreadsheetID = "1htGfq9WSgHy78bIW0iOulgi2-Vl3p3xJsTUkyjTcY7M";
 
    //Hello Future Tech person. This is Ryan Gruszczyk speaking.
    //The Next ED probably wants you to update this page. Lucky for you, some genius before me
@@ -206,7 +207,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
+   var spreadsheetID = "1htGfq9WSgHy78bIW0iOulgi2-Vl3p3xJsTUkyjTcY7M";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -224,7 +225,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-  var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
+  var spreadsheetID = "1htGfq9WSgHy78bIW0iOulgi2-Vl3p3xJsTUkyjTcY7M";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -242,7 +243,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
+   var spreadsheetID = "1htGfq9WSgHy78bIW0iOulgi2-Vl3p3xJsTUkyjTcY7M";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -260,7 +261,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
+   var spreadsheetID = "1htGfq9WSgHy78bIW0iOulgi2-Vl3p3xJsTUkyjTcY7M";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -279,7 +280,7 @@ include("includes/navbar.php");
 
   <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
+   var spreadsheetID = "1htGfq9WSgHy78bIW0iOulgi2-Vl3p3xJsTUkyjTcY7M";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -298,7 +299,7 @@ include("includes/navbar.php");
 
     <script>
    // ID of the Google Spreadsheet
-   var spreadsheetID = "1WlVLUI8j92gDznJ3CE06xMKHZ8sVpQQif4NOYryTp6w";
+   var spreadsheetID = "1htGfq9WSgHy78bIW0iOulgi2-Vl3p3xJsTUkyjTcY7M";
 
    // Make sure it is public or set to Anyone with link can view
    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
@@ -313,21 +314,23 @@ include("includes/navbar.php");
     });
 
    });
-  </script> -->
-
+  </script> 
 
 <!-- this is also needed -->
 
-
-<!-- <div class="container-fluid">
+<div class="col-md-6 col-md-push-2">
+ <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
         <div id="red-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">Red</h1>
-          <h3 id="bracket-dancers-title"> 32 Dancers </h3>
+          <h1 id="bracket-title">Miracle Level</h1>
+
+          <h3 id="bracket-dancers-title"> 24 Dancers </h3>
+          <h3 id="bracket-dancers-title">Minimum: $35,000</h3>
           <hr>
           <div id="bracket-orgs" class="red-bracket"></div>
+          
         </div>
       </div>
     </div>
@@ -339,10 +342,12 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="blue-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">Blue</h1>
-          <h3 id="bracket-dancers-title">26 Dancers </h3>
+          <h1 id="bracket-title">Family Level</h1>
+          <h3 id="bracket-dancers-title">20 Dancers </h3>
+          <h3 id="bracket-dancers-title">Minimum: $28,000</h3>
           <hr>
           <div id="bracket-orgs" class="blue-bracket"></div>
+          
         </div>
       </div>
     </div>
@@ -354,10 +359,12 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="green-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">Green</h1>
-          <h3 id="bracket-dancers-title">20 Dancers </h3>
+          <h1 id="bracket-title">Believe Level</h1>
+          <h3 id="bracket-dancers-title">16 Dancers </h3>
+          <h3 id="bracket-dancers-title">Minimum: $20,000</h3>
           <hr>
           <div id="bracket-orgs" class="green-bracket"></div>
+          
         </div>
       </div>
     </div>
@@ -369,10 +376,12 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="yellow-bracket-wrapper">
         <div class="text-center">
-          <h1 id="light-bracket-title">Yellow</h1>
-          <h3 id="light-bracket-dancers-title">14 Dancers</h3>
+          <h1 id="light-bracket-title">Hope Level</h1>
+          <h3 id="light-bracket-dancers-title">12 Dancers</h3>
+          <h3 id="light-bracket-dancers-title">Minimum: $12,000</h3>
           <hr id="hr">
           <div id="light-bracket-orgs" class="yellow-bracket"></div>
+          
         </div>
       </div>
     </div>
@@ -384,10 +393,12 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="purple-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">Purple</h1>
+          <h1 id="bracket-title">Inspire Level</h1>
           <h3 id="bracket-dancers-title">8 Dancers</h3>
+          <h3 id="bracket-dancers-title">Minimum: $6,000</h3>
           <hr>
           <div id="bracket-orgs" class="purple-bracket"></div>
+          
         </div>
       </div>
     </div>
@@ -399,10 +410,12 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="orange-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">Orange</h1>
+          <h1 id="bracket-title">Gator Level</h1>
           <h3 id="bracket-dancers-title">6 Dancers</h3>
+          <h3 id="bracket-dancers-title">Minimum: $2,500</h3>
           <hr>
           <div id="bracket-orgs" class="orange-bracket"></div>
+          
         </div>
       </div>
     </div>
@@ -415,10 +428,12 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="pink-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">Pink</h1>
+          <h1 id="bracket-title">Bravery Level</h1>
           <h3 id="bracket-dancers-title"> 4 Dancers  </h3>
+          <h3 id="bracket-dancers-title">Minimum: $1,500</h3>
           <hr>
           <div id="bracket-orgs" class="pink-bracket"></div>
+          
         </div>
       </div>
     </div>
@@ -430,17 +445,19 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="gray-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">Gray</h1>
+          <h1 id="bracket-title">FTK Level</h1>
           <h3 id="bracket-dancers-title"> 2 Dancers </h3>
+          <h3 id="bracket-dancers-title">Minimum: $500</h3>
           <hr>
           <div id="bracket-orgs" class="gray-bracket"></div>
+          
         </div>
       </div>
     </div>
   </div>
-</div>  -->
+</div>
 
-
+</div>
 
   <?php } else { echo 'This page is currently closed.'; } ?>
 </div>

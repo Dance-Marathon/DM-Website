@@ -313,24 +313,27 @@
           <div class="row">
             <table style="width:100%">
               <tr>
-                <th><img class="img-responsive" src="/assets/images/awards/Alumni 16.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Web 16.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Merch 15.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Morale 14.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Campaign 14.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Shirt 13.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-15.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-14.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards_Artboard 1.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-02.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/best merchandise.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-03.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-04.png" /></th>
               </tr>
             </table>
             <table style="width:100%">
               <tr>
-                <th><img class="img-responsive" src="/assets/images/awards/Innovation 12.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Comma 12.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Online 10.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Social.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Website 08.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Closing 05.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Letter 04.png" /></th>
-                <th><img class="img-responsive" src="/assets/images/awards/Opening 03.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-05.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-06.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-07.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-08.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-09.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-10.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-11.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-13.png" /></th>
+                <th><img class="img-responsive" src="/assets/images/awards/DM Awards-12.png" /></th>
+ 
               </tr>
             </table>
             <br>
