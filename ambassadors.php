@@ -108,7 +108,7 @@ include("includes/navbar.php");
               </ul>
 
 
-              <h3>Responsibilities during the 26.2-hour event:</h3>
+              <h3>Responsibilities during the Main Event:</h3>
               <ul>
                 <li>Help assign Dancer buddies prior to the Event for each Dancer</li>
                 <li>Work with their Fundraising and Organization Development Captain to encourage and help Dancers fundraise at the Event</li>
