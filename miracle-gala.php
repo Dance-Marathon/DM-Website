@@ -45,6 +45,10 @@
 <p>There are two ticket options available:</p>  
 <ul>
 <li>$40 for a VIP ticket</li>
+<ul>
+<li>Includes an Event Package shipped to you with exclusive merchandise, Miracle Gala items, and more </li>
+<li>VIP Hour before the event</li>
+</ul>
 <li>$10 for a General Ticket </li>
 <li>Legacy DMA Members will be offered a 20% discount on either option.</li>
 </ul>    
