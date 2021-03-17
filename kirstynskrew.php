@@ -60,8 +60,8 @@
 
 
 					<h3>Kirstyn's Krew</h3>
-					<p>Application <b>OPENS:</b> March 29th</p>
-					<br>Application <b>CLOSES:</b> April 5th 11:59 p.m.</br>
+					<p>Application <b>OPENS:</b> March 29th
+					   Application <b>CLOSES:</b> April 5th 11:59 p.m.</p>
 					<!--<p>Applications for Kirstyn's Krew 2020 are now available <a href="https://ufl.qualtrics.com/jfe/form/SV_aYuplVMwxsrktYp">here</a> through March 16th at 11:59pm!</p>-->
 				    <h4><i>General Information</i></h4>
 					<p>Kirstyn’s Krew is a program that honors Kirstyn Tripp, our Miracle Child who lost her battle to childhood illness in 2018. The purpose of Kirstyn’s Krew is for students to experience Dance Marathon at UF 2021 from a different perspective and learn more about our fight to end childhood illness. </p>
