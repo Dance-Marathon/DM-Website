@@ -46,6 +46,7 @@
 <ul>
 <li>$40 for a VIP ticket</li>
 <ul>
+<li>Purchase your VIP event tickets by the evening of 3/21 to ensure you get your event package on time</li>
 <li>Includes an Event Package shipped to you with exclusive merchandise, Miracle Gala items, and more </li>
 <li>VIP Hour before the event</li>
 </ul>
