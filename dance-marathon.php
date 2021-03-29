@@ -66,10 +66,10 @@ include("includes/navbar.php");
             </div>
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
               <div class="panel-body">
-                Dance Marathon at UF is working closely with UF Screen, Test & Protect to ensure that the Main Event can safely occur following the University of Florida and CDC event guidelines. Dr. Cindy Prins, the UF Screen, Test & Protect Campus Infection Preventionist, has reviewed the current Main Event safety plan. DM at UF will continue to work with Dr. Prins and UF Screen, Test & Protect as we plan for the Main Event.
-				<br><br>All UF students attending the Dance Marathon at UF Main Event will be required to provide proof of a “Cleared” status on their ONE.UF to indicate that they are cleared to attend campus events. We are advising all members to quarantine for two weeks leading up to the Main Event to reduce the risk of exposure to COVID-19. All members will have their temperatures checked before entering the Stephen C. O’Connell Center. Temperatures must be below 100.5° to attend the Main Event.
+                Dance Marathon at UF is working closely with UF Health Screen, Test & Protect to ensure that the Main Event can safely occur following the University of Florida and CDC event guidelines. Dr. Cindy Prins, the UF Health Screen, Test & Protect Campus Infection Preventionist, has reviewed the current Main Event safety plan. DM at UF will continue to work with Dr. Prins and UF Health Screen, Test & Protect as we plan for the Main Event.
+				<br><br>All UF students attending the Dance Marathon at UF Main Event will be required to provide proof of a “Cleared” status on their ONE.UF to indicate that they are cleared to attend campus events. We are advising all members to limit unnecessary exposures for two weeks leading up to the Main Event to reduce the risk of exposure to COVID-19. All members will have their temperatures checked before entering the Stephen C. O’Connell Center. Temperatures must be below 100.4° to attend the Main Event.
 				<br><br>On-site volunteer medical staff will be available to assist with any injuries or illnesses that may occur throughout the Main Event.
-				<br><br>The O’Connell Center and UF Screen, Test & Protect have adjusted capacities to allow for physical distancing. Capacities are broken down according to each location in the O’Connell Center and will be strictly enforced.
+				<br><br>The O’Connell Center and UF Health Screen, Test & Protect have adjusted capacities to allow for physical distancing. Capacities are broken down according to each location in the O’Connell Center and will be strictly enforced.
 				<br><br>All participants will be required to wear a face covering for the duration of the Main Event.
 				<br><br>Masks with exhalation valves or vents that allow air to be expelled are prohibited because they do not provide protection to others.
 				<br><br>In addition, neck gaiters and bandanas should not be worn unless no other face covering is available.
@@ -89,7 +89,7 @@ include("includes/navbar.php");
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-			  Yes! The Main Event will be live-streamed on various social media platforms. There will be additional opportunities for Dancers, Captains, Emerging Leaders, Ambassadors, high schoolers and visitors to attend virtually.
+			  Yes! The Main Event will be live-streamed on various social media platforms. There will be additional opportunities for Dancers, Captains, Emerging Leaders, Ambassadors, high schoolers and visitors to attend virtually. Visit the Dance Marathon 2021 Virtual Event page to learn more about our virutal options.
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@ include("includes/navbar.php");
             </div>
             <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
               <div class="panel-body">
-			  Visitors must be invited by Dance Marathon at UF to attend the Main Event. More information will be provided soon regarding visitor invitations.
+			  Visitors must be invited by Dance Marathon at UF to attend the Main Event. Visitor invitations have been sent out for the Main Event.
 			  <br><br>Visitor invitations are in place to ensure the safety of our members and prevent the outside spread of COVID-19.
 			  <br><br>The Main Event will be live-streamed to provide a virtual opportunity for visitors to tune in to the event and stay up to date on what is happening live at the O’Connell Center.
               </div>
@@ -192,7 +192,7 @@ include("includes/navbar.php");
             </div>
             <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
               <div class="panel-body">
-			  Captains, Emerging Leaders, Dancers and Ambassadors will be invited back to attend our Total Reveal in person. All members will be physically distanced in the 100 and 200 level stands for Total Reveal. The reveal will be live-streamed on various social media platforms for anyone to tune in.
+			  Captains, Emerging Leaders, Dancers, Ambassadors and Kristyn's Krew will be invited back to attend our Total Reveal in person. All members will be physically distanced in the 100 and 200 level stands for Total Reveal. The reveal will be live-streamed on DM at UF social media platforms for anyone to tune in.
               </div>
             </div>
           </div>
@@ -206,7 +206,7 @@ include("includes/navbar.php");
             </div>
             <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
               <div class="panel-body">
-			  Meals will be provided at the Main Event. The final details regarding meals are pending and will be provided when finalized.
+			  Meals will be provided to Dancers at the Main Event. All meals will be served by Hospitality Captains who will wear gloves and sanitize frequently. Participants will be instructed to eat outside under covered parking garages or under tents. Additional information regarding food safety will be provided to those groups.
               </div>
             </div>
           </div>
@@ -256,7 +256,7 @@ include("includes/navbar.php");
             </div>
             <div id="collapseThirteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThirteen">
               <div class="panel-body">
-			  The Dancer experience will uphold the traditional Dancer experience while adapting to CDC guidelines. Dancer shifts will include Miracle Stories, Theme Hours, entertainment, meals and more. Dancers will stand, if able, with no sleep and no caffeine for the duration of the 13.1-hour shift in solidarity with every child affected by pediatric illness.
+			  The Dancer experience will uphold the traditional Dancer experience while adapting to CDC guidelines. Dancer shifts will include Miracle Stories, Theme Hours, entertainment, meals and more. Dancers will stand, if able, with no sleep and no caffeine for the duration of their 13.1-hour shift in solidarity with every child affected by pediatric illness.
               </div>
             </div>
           </div>
@@ -270,7 +270,7 @@ include("includes/navbar.php");
             </div>
             <div id="collapseFourteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFourteen">
               <div class="panel-body">
-			  Dancers will preference shifts once their Dancer spot is confirmed on March 26. We cannot guarantee which shift a Dancer will be assigned due to space availability. Dancers will have until March 31 to preference their shifts and until April 2 to confirm their spot in that specific shift.
+			  Dancers will preference shifts once their Dancer spot is confirmed on March 26. We cannot guarantee which shift a Dancer will be assigned due to space availability. Dancers will have until Tuesday, March 30 at 12 p.m. to preference their shifts and until Friday, April 2 to confirm their spot in that specific shift.
 			  <br><br>Dancers will sign up with a group of two to four members of their Organization which will serve as their QuaranTeam for the duration of the shift. They will be in the same Dancer Group as their QuaranTeam.
               </div>
             </div>
