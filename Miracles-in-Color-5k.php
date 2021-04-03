@@ -25,6 +25,7 @@
   			<div class="sub-nav">
           <ul>
 		  				<li><a href="/dance-marathon">Dance Marathon 2021</a></li>
+						<li><a href="/dance-marathon-virtual">Dance Marathon Virtual Event 2021</a></li> 
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a class="active">Miracles in Color 5K</a></li>

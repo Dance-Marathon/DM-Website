@@ -33,6 +33,7 @@ include("includes/navbar.php");
 				<div class="sub-nav">
 					<ul>
 						<li><a class="active">Dance Marathon 2021</a></li>
+            <li><a href="/dance-marathon-virtual">Dance Marathon Virtual Event 2021</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a href="/Miracles-in-Color-5k">Miracles in Color 5K</a></li>
