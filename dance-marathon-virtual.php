@@ -40,7 +40,7 @@
 
 				<h2>Dance Marathon Virtual Event</h2>
 
-                    <p>Dance Marathon at the University of Florida is hosting our Main Event on April 10-11. We are so excited to be able to have a portion of our members join us in the Stephen C. O’Connell Center and safely participate in two 13.1-hour shifts. We are also hosting a variety of virtual options throughout the Dance Marathon 2021 weekend for those unable to join us in person. Each tab has a schedule, as well as links for each group to follow to enjoy their virtual experience.</p>
+                    <p>Dance Marathon at the University of Florida is hosting our Main Event on April 10-11. We are so excited to be able to have a portion of our members join us in the Stephen C. O’Connell Center and safely participate in two 13.1-hour shifts. We are also hosting a variety of virtual options throughout the Dance Marathon 2021 weekend for those unable to join us in person. Each tab has a schedule, as well as links for each group to follow and enjoy their virtual experience.</p>
 	<div role="tabpanel">
 
 <!-- Nav tabs -->
@@ -116,7 +116,7 @@
 			     </ul>
          </div>
 	
-         <div role="tabpanel" class="tab-pane fade in active" id="alumni-virtaul">
+         <div role="tabpanel" class="tab-pane fade" id="alumni-virtaul">
 
 	       <h2>Alumni</h2>
 	          <p></p>
@@ -148,7 +148,7 @@
 
 
 
-  <div role="tabpanel" class="tab-pane fade" id="general-vitual">
+  <div role="tabpanel" class="tab-pane fade in active" id="general-vitual">
 	
 	<p>Information Update Coming Soon!</p>
   </div>

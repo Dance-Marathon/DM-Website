@@ -179,7 +179,7 @@
             <p>We are always looking for more high schools to join our Dance Marathon family. If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall Directors, Mady Benton and Alexis Pollak, at <a href="mbenton@floridadm.org">mbenton@floridadm.org</a> and <a href="apollak@floridadm.org">apollak@floridadm.org</a>.</p>
 
 
-            <div role="tabpanel" class="tab-pane fade" id="schools">
+            <div role="tabpanel" class="tab-pane fade in active" id="schools">
 			<ul>
 			<li>Oak Hall School</li>
 <li>Buchholz High School</li>
@@ -208,7 +208,7 @@
 </ul>
           </div>
 
-          <div role="tabpanel" class="tab-pane fade" id="whatsmyzone">
+          <div role="tabpanel" class="tab-pane fade in active" id="whatsmyzone">
           <img src="/assets/images/hsdm/zoningpg1.png" width="697" height="889" title="zoningpg1" alt="zoningpg1" />
 
             </div>
