@@ -68,11 +68,12 @@
 				 </ul>
 				<h4>Sunday</h4>
 				 <ul>
-				    <li>Miracles on Broadway Zoom - 8:00 a.m. - 10:00 a.m.  Fundraising Breakouts</li>
+				    <li>Opening Ceremonies Livestream: 6:00 a.m. - 7:00 a.m.</li>
+				    <li>Theme Hour Zoom: Miracles on Broadway - 8:00 a.m. - 10:00 a.m.  Fundraising Breakouts</li>
 					<li>Dream for Donny - 10:30 - 11:00 p.m.</li>
-					<li>DM Games Zoom - 12:10 - 1:50 p.m.  Fundraising Berakouts</li>
+					<li>Theme Hour Zoom: DM Games - 12:10 - 1:50 p.m.  Fundraising Berakouts</li>
 					<li>DM on a Field - Norman, 2:00 - 4:00 p.m.</li>
-					<li>SS DM Zoom - 3:10 - 5:00 p.m.  Fundraising Breakouts</li>
+					<li>Theme Hour Zoom: SS DM - 3:10 - 5:00 p.m.  Fundraising Breakouts</li>
 					<li>Miracle Stories every hour (8:20 a.m., 9:20 a.m., 10:20 a.m., 11:20 a.m., 12:20 p.m., 1:20 p.m., 3:20 p.m., 4:20 p.m.)</li>
 					<li>Closing Ceremonies and Total Reveal: In the O’Dome 6:00 p.m. - 7:06 p.m. (Sign in at Gate 3 at the O’Dome by 5:45 p.m.)</li>
 			     </ul>
@@ -81,11 +82,11 @@
 				<h4>Saturday</h4>
 				 <ul>
 				    <li>Opening Ceremonies Live stream - 8:00 a.m. - 9:00 a.m.</li>
-					<li>Greece/Grease Zoom - 10:10 a.m. - 12:00 p.m.  Fundraising Breakout</li>
+					<li>Theme Hour Zoom: Greece/Grease - 10:10 a.m. - 12:00 p.m.  Fundraising Breakout</li>
 					<li>DM on a Field - Norman, 12:00 - 2:00 p.m.</li>
 					<li>All for Arden - 12:30 - 1:00 p.m.</li>
-					<li>Survivor Zoom - 2:10 - 3:50 p.m.  Fundraising Breakout</li>
-					<li>Out of the Page Zoom - 5:10 - 7:00 p.m.  Fundraising Breakout</li>
+					<li>Theme Hour Zoom: Survivor - 2:10 - 3:50 p.m.  Fundraising Breakout</li>
+					<li>Theme Hour Zoom: Out of the Page - 5:10 - 7:00 p.m.  Fundraising Breakout</li>
 					<li>Miracle Stories every hour (10:20 a.m., 11:20 a.m., 12:20 a.m., 1:20 p.m., 2:20 p.m., 3:20 p.m, 5:20 p.m., 6:20 pm.)</li>
 			     </ul>
 				<h4>Sunday</h4>
@@ -96,7 +97,7 @@
 			 <h2>Virtual Dancer Schedule</h2>
 			   <h3>Saturday</h3>
 			   <ul>
-				    <li>Opening Ceremonies Live Stream - 8:00 a.m. - 9:00 a.m.</li>
+				    <li>Opening Ceremonies Livestream - 8:00 a.m. - 9:00 a.m.</li>
 					<li>Theme Hour Zoom: Greece/Grease - 10:10 a.m. - 12:00 p.m.  Fundraising breakouts</li>
 					<li>DM on a Field - Norman, 12:00 - 2:00 p.m.</li>
 					<li>All for Arden - 12:30 - 1:00 p.m.</li>
@@ -106,6 +107,7 @@
 			     </ul>
 			    <h3>Sunday</h3>
 				<ul>
+				    <li>Opening Ceremonies Livestream: 6:00 a.m. - 7:00 a.m.</li>
 				    <li>Theme Hour Zooom: Miracles on Broadway Zoom - 8:00 a.m. - 10:00 a.m.  Fundraising Breakouts</li>
 					<li>Dream for Donny - 10:30 - 11:00 p.m.</li>
 					<li>Theme Hour Zoom: DM Games - 12:10 - 1:50 p.m.  Fundraising Berakouts</li>
