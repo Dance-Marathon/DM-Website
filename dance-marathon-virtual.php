@@ -43,18 +43,46 @@
                     <p>Dance Marathon at the University of Florida is hosting our Main Event on April 10-11. We are so excited to be able to have a portion of our members join us in the Stephen C. O’Connell Center and safely participate in two 13.1-hour shifts. We are also hosting a variety of virtual options throughout the Dance Marathon 2021 weekend for those unable to join us in person. Each tab has a schedule, as well as links for each group to follow and enjoy their virtual experience.</p>
        <div role="tabpanel">
 
+<script>
+
+function tabs(evt, cityName) {
+  // Declare all variables
+  var i, tabcontent;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tab-pane");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  var tablinks = ["dancers-virtual","alumni-virtual","general-virtual"];
+  for (i = 0; i < 3; i++) {
+	 // console.log(tablinks[i]);
+    tablinks[i].className = "tab-pane fade";
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  
+  document.getElementById(cityName).style.display = "block";
+  document.getElementById(cityName).className += " in active";
+  console.log(evt.currentTarget);
+}
+
+</script>
+
 <!-- Nav tabs -->
          <ul class="nav nav-tabs" role="tablist">
-          <li role="presentation" class="active"><a href="#dancers-virtual" aria-controls="dancers-virtual" role="tab" data-toggle="tab">Dancers</a></li>
-          <li role="presentation"><a href="#alumni-virutal" aria-controls="alumni-virtual" role="tab" data-toggle="tab">Alumni</a></li>
-          <li role="presentation"><a href="#general-virtual" aria-controls="general-virtual" role="tab" data-toggle="tab">General</a></li>
+          <li role="presentation" class="active"><a onclick="tabs(event, 'dancers-virtual')" href="#dancers-virtual" aria-controls="dancers-virtual" role="tab" data-toggle="tab" class="tab-links">Dancers</a></li>
+          <li role="presentation"><a href="#alumni-virutal" onclick="tabs(event, 'alumni-virtual')" aria-controls="alumni-virtual" role="tab" data-toggle="tab" class="tab-links">Alumni</a></li>
+          <li role="presentation"><a href="#general-virtual" onclick="tabs(event, 'general-virtual')" aria-controls="general-virtual" role="tab" data-toggle="tab" class="tab-links">General</a></li>
          <!-- <li role="presentation"><a href="#dancing-as-an-individual" aria-controls="dancing-as-an-individual" role="tab" data-toggle="tab">Dancing as an Individual</a></li> -->
  
          </ul>
 
 <!-- Tab panes -->
          <div class="tab-content">
-          <div role="tabpanel" class="tab-pane fade in active" id="dancers-virtual">
+          <div role="tabpanel" class="tab-pane fade active in" id="dancers-virtual">
 
 	          <h2>Dancers</h2>
 	          <p></p>
@@ -118,7 +146,7 @@
 			     </ul>
            </div>
 	
-          <div role="tabpanel" class="tab-pane fade" id="alumni-virtaul">
+          <div role="tabpanel" class="tab-pane fade" id="alumni-virtual">
 
 	       <h2>Alumni</h2>
 	          <p></p>
@@ -150,7 +178,7 @@
 
 
 
-            <div role="tabpanel" class="tab-pane fade" id="general-vitual">
+            <div role="tabpanel" class="tab-pane fade " id="general-virtual">
 	
 	        <p>Information Update Coming Soon!</p>
            </div>
