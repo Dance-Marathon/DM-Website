@@ -148,10 +148,10 @@
 
 
 
-  <div role="tabpanel" class="tab-pane fade in active" id="general-vitual">
+          <div role="tabpanel" class="tab-pane fade" id="general-vitual">
 	
-	<p>Information Update Coming Soon!</p>
-  </div>
+	        <p>Information Update Coming Soon!</p>
+         </div>
 
   <!--
   <div role="tabpanel" class="tab-pane fade" id="dancer-faqs">
@@ -300,9 +300,9 @@
 	  </div>
 		
 	</div> -->
-  </div>
-</div>
-</div>
+          </div>
+        </div>
+    </div>
 
 
 			<?php } else { echo 'This page is currently closed.'; } ?>
