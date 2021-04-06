@@ -142,7 +142,7 @@ function tabs(evt, cityName) {
 					<li>DM on a Field - Norman, 2:00 - 4:00 p.m.</li>
 					<li>Theme Hour Zoom: SS DM - 3:10 - 5:00 p.m.  Fundraising Breakouts</li>
 					<li>Miracle Stories every hour (8:20 a.m., 9:20 a.m., 10:20 a.m., 11:20 a.m., 12:20 p.m., 1:20 p.m., 3:20 p.m., 4:20 p.m.)</li>
-					<li>Closing Ceremonies and Total Reveal: In the O’Dome 6:00 p.m. - 7:06 p.m. (Sign in at Gate 3 at the O’Dome by 5:45 p.m.)</li>
+					<li>Closing Ceremonies and Total Reveal Livestream: 6:00 p.m. - 7:06 p.m.</li>
 			     </ul>
            </div>
 	
