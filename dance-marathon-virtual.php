@@ -162,7 +162,7 @@ function tabs(evt, cityName) {
 					<li>Miracle Gala: 6:00 - 9:00 p.m.
 					    <li>6:00 - 7:00 p.m.: VIP Hour</li>
                         <li>7:00 - 9:00 p.m.</li>
-                        <li>Purchase tickets here. The links will be emailed to you. Reach out to gcrowder@floridadm.org with any questions.</li>
+                        <li>Purchase tickets <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4541" target="_blank">here.</a> The links will be emailed to you. Reach out to gcrowder@floridadm.org with any questions.</li>
 					</li>
 			    </ul>
 			    <h3>Sunday</h3>
