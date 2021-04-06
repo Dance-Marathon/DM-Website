@@ -156,21 +156,21 @@ function tabs(evt, cityName) {
 			     <ul>
 				    <li>Opening Ceremonies Live Stream - 8:00 a.m. - 9:00 a.m.</li>
 					<li>Stop! It’s Alumni Time. Zoom: 3:30 - 4:30 p.m.
-                        <br>Stop! It’s Alumni Time kickoff Livestream 3:30 p.m.</br>
-                        <br>2020 Linedance Livestream: 4:20 p.m.</br>
+                        <li>Stop! It’s Alumni Time kickoff Livestream 3:30 p.m.</li>
+                        <li>2020 Linedance Livestream: 4:20 p.m.</li>
                      </li>
-					<li>Gala: 6:00 - 9:00 p.m.
-					    <br>6:00 - 7:00 p.m.: VIP Hour</br>
-                        <br>7:00 - 9:00 p.m.</br>
-                        <br>Purchase tickets here. The links will be emailed to you. Reach out to gcrowder@floridadm.org with any questions.</br>
+					<li>Miracle Gala: 6:00 - 9:00 p.m.
+					    <li>6:00 - 7:00 p.m.: VIP Hour</li>
+                        <li>7:00 - 9:00 p.m.</li>
+                        <li>Purchase tickets here. The links will be emailed to you. Reach out to gcrowder@floridadm.org with any questions.</li>
 					</li>
 			    </ul>
 			    <h3>Sunday</h3>
 				<ul>
 				    <li>Opening Ceremonies Livestream: 6:00 a.m. - 7:00 a.m.</li>
 					<li>Alumni Zoom: 12:00 - 1:00 p.m.
-                        <br>2018 Linedance (4 year Dancer)</br>
-						<br>Livestream Watch Party: 12:10 p.m.</br>
+                        <li>2018 Linedance (4 year Dancer)</li>
+						<li>Livestream Watch Party: 12:10 p.m.</li>
                     </li>
 					<li>Closing Ceremonies and Total Reveal Livestream: 6:10 p.m. - 7:06 p.m.</li>
 			     </ul>
