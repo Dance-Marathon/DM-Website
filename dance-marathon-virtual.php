@@ -155,23 +155,26 @@ function tabs(evt, cityName) {
 	       <h3>Saturday</h3>
 			     <ul>
 				    <li>Opening Ceremonies Live Stream - 8:00 a.m. - 9:00 a.m.</li>
-					<li>Stop! It’s Alumni Time. Zoom: 3:30 - 4:30 p.m.
+					<li>Stop! It’s Alumni Time. Zoom: 3:30 - 4:30 p.m.</li>
+					<ul>
                         <li>Stop! It’s Alumni Time kickoff Livestream 3:30 p.m.</li>
                         <li>2020 Linedance Livestream: 4:20 p.m.</li>
-                     </li>
-					<li>Miracle Gala: 6:00 - 9:00 p.m.
+                     </ul>
+					<li>Miracle Gala: 6:00 - 9:00 p.m.</li>
+					<ul>
 					    <li>6:00 - 7:00 p.m.: VIP Hour</li>
                         <li>7:00 - 9:00 p.m.</li>
                         <li>Purchase tickets <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4541" target="_blank">here.</a> The links will be emailed to you. Reach out to gcrowder@floridadm.org with any questions.</li>
-					</li>
+					</ul>
 			    </ul>
 			    <h3>Sunday</h3>
 				<ul>
 				    <li>Opening Ceremonies Livestream: 6:00 a.m. - 7:00 a.m.</li>
-					<li>Alumni Zoom: 12:00 - 1:00 p.m.
+					<li>Alumni Zoom: 12:00 - 1:00 p.m.</li>
+					<ul>
                         <li>2018 Linedance (4 year Dancer)</li>
 						<li>Livestream Watch Party: 12:10 p.m.</li>
-                    </li>
+                    </ul>
 					<li>Closing Ceremonies and Total Reveal Livestream: 6:10 p.m. - 7:06 p.m.</li>
 			     </ul>
             </div>
@@ -187,11 +190,12 @@ function tabs(evt, cityName) {
 			     <ul>
 				    <li>Opening Ceremonies Live Stream - 8:00 a.m. - 9:00 a.m.</li>
 					<li>Closing Ceremonies Livestream: 8:20 p.m. - 9:06 p.m.</li>
-					<li>Miracle Gala: 6:00 - 9:00 p.m
+					<li>Miracle Gala: 6:00 - 9:00 p.m</li>
+					<ul>
                         <li>6:00 - 7:00 p.m.: VIP Hour</li>
                         <li>7:00 - 9:00 p.m.</li>
 						<li>Purchase tickets here. The links will be emailed to you. Reach out to gcrowder@floridadm.org with any questions.</li>
-                     </li>
+                     </ul>
 					<li>Miracle Stories every hour (10:20 a.m., 11:20 a.m., 12:20 a.m., 1:20 p.m., 2:20 p.m., 3:20 p.m, 5:20 p.m., 6:20 pm.)</li>
 			    </ul>
 			    <h4>Sunday</h4>
