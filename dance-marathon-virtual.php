@@ -123,7 +123,7 @@ function tabs(evt, cityName) {
 				 </ul>
 	            
 			 <h2>Virtual Dancer Schedule</h2>
-			   <h3>Saturday</h3>
+			   <h4>Saturday</h4>
 			   <ul>
 				    <li>Opening Ceremonies Livestream - 8:00 a.m. - 9:00 a.m.</li>
 					<li>Theme Hour Zoom: Greece/Grease - 10:10 a.m. - 12:00 p.m.  Fundraising breakouts</li>
@@ -133,7 +133,7 @@ function tabs(evt, cityName) {
 					<li>Theme Hour Zoom: Out of the Page - 5:10 - 7:00 p.m.  Fundraising breakouts</li>
 					<li>Miracle Stories every hour (10:20 a.m., 11:20 a.m., 12:20 a.m., 1:20 p.m., 2:20 p.m., 3:20 p.m, 5:20 p.m., 6:20 pm.)</li>
 			     </ul>
-			    <h3>Sunday</h3>
+			    <h4>Sunday</h4>
 				<ul>
 				    <li>Opening Ceremonies Livestream: 6:00 a.m. - 7:00 a.m.</li>
 				    <li>Theme Hour Zooom: Miracles on Broadway Zoom - 8:00 a.m. - 10:00 a.m.  Fundraising Breakouts</li>
@@ -180,8 +180,27 @@ function tabs(evt, cityName) {
 
             <div role="tabpanel" class="tab-pane fade " id="general-virtual">
 	
-	        <p>Information Update Coming Soon!</p>
-           </div>
+	             <h2>General</h2>
+				   <p>Faculty, parents, community members and high school students are invited to virtually participate in Dance Marathon at UF 2021 through our livestreams. Tune into our livestreams with @dmatuf on Instagram and Dance Marathon at UF on Facebook for Miracle Stories, fundraising hours and more! </p>
+                 <h3>General Schedule</h3>
+				 <h4>Saturday</h4>
+			     <ul>
+				    <li>Opening Ceremonies Live Stream - 8:00 a.m. - 9:00 a.m.</li>
+					<li>Closing Ceremonies Livestream: 8:20 p.m. - 9:06 p.m.</li>
+					<li>Miracle Gala: 6:00 - 9:00 p.m
+                        <li>6:00 - 7:00 p.m.: VIP Hour</li>
+                        <li>7:00 - 9:00 p.m.</li>
+						<li>Purchase tickets here. The links will be emailed to you. Reach out to gcrowder@floridadm.org with any questions.</li>
+                     </li>
+					<li>Miracle Stories every hour (10:20 a.m., 11:20 a.m., 12:20 a.m., 1:20 p.m., 2:20 p.m., 3:20 p.m, 5:20 p.m., 6:20 pm.)</li>
+			    </ul>
+			    <h4>Sunday</h4>
+				<ul>
+				    <li>Opening Ceremonies Livestream: 6:00 a.m. - 7:00 a.m.</li>
+					<li>Closing Ceremonies and Total Reveal Livestream: 6:10 p.m. - 7:06 p.m.</li>
+					<li>Miracle Stories every hour (8:20 a.m., 9:20 a.m., 10:20 a.m., 11:20 a.m., 12:20 p.m., 1:20 p.m., 3:20 p.m., 4:20 p.m.)</li>
+			     </ul>
+		   </div>
 
   
 		
