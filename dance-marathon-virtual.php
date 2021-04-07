@@ -56,7 +56,7 @@ function tabs(evt, cityName) {
   }
 
   // Get all elements with class="tablinks" and remove the class "active"
-  var tablinks = ["dancers-virtual","alumni-virtual","general-virtual"];
+  var tablinks = ["dancers-virtual","alumni-virtual","general-virtual","sponsers-virtual"];
   for (i = 0; i < 3; i++) {
 	 // console.log(tablinks[i]);
     tablinks[i].className = "tab-pane fade";
@@ -76,6 +76,7 @@ function tabs(evt, cityName) {
           <li role="presentation" class="active"><a onclick="tabs(event, 'dancers-virtual')" href="#dancers-virtual" aria-controls="dancers-virtual" role="tab" data-toggle="tab" class="tab-links">Dancers</a></li>
           <li role="presentation"><a href="#alumni-virutal" onclick="tabs(event, 'alumni-virtual')" aria-controls="alumni-virtual" role="tab" data-toggle="tab" class="tab-links">Alumni</a></li>
           <li role="presentation"><a href="#general-virtual" onclick="tabs(event, 'general-virtual')" aria-controls="general-virtual" role="tab" data-toggle="tab" class="tab-links">General</a></li>
+		  <li role="presentation"><a href="#sponsers-virtual" onclick="tabs(event, 'sponsers-virtual')" aria-controls="sponsers-virtual" role="tab" data-toggle="tab" class="tab-links">Sponsers</a></li>
          <!-- <li role="presentation"><a href="#dancing-as-an-individual" aria-controls="dancing-as-an-individual" role="tab" data-toggle="tab">Dancing as an Individual</a></li> -->
  
          </ul>
@@ -179,6 +180,174 @@ function tabs(evt, cityName) {
             <div role="tabpanel" class="tab-pane fade " id="general-virtual">
 	
 	        <p>Information Update Coming Soon!</p>
+           </div>
+
+		   <div role="tabpanel" class="tab-pane fade " id="sponsers-virtual">
+	
+	        <div class="col-md-8">
+
+
+    <h2>Our 2021 Virtual Sponsors</h2>
+    <hr>
+      <div class="sponsor-section">
+        <div class="row">
+          <div class="col-sm-7">
+            <img style="max-width:100%" src="assets\images\VSponsers\1200px-Marriott_Vacations_Worldwide_Corporation_logo.svg.png" alt="centered image" />
+          </div>
+        </div>
+        <div style="height: 35px;"></div>
+        <div class="col-sm-7">
+          <img style="max-width:100%" src="assets\images\VSponsers\Bento Logo.png" alt="centered image" />
+        </div>
+        <div style="height: 35px;"></div>
+        <div class="row">
+          <div class="col-sm-7">
+            <img style="max-width:100%" src="assets\images\VSponsers\bjs.png" alt="centered image" />
+          </div>
+        </div>
+        <div style="height: 35px;"></div>
+        <div class="row">
+          <div class="col-sm-7">
+            <img style="max-width:100%" src="assets\images\VSponsers\Bradenton+Yacht+Club.png" alt="centered image" />
+          </div>
+        </div>
+        <div style="height: 35px;"></div>
+        <div class="row">
+          <div class="col-sm-7">
+            <img style="max-width:100%" src="assets\images\VSponsers\Bz Gelati.PNG" alt="centered image" />
+          </div>
+        </div>
+
+		<div></div>
+
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="max-width:100%" src="assets\images\VSponsers\Chick-fil-a logo-page-001.jpg" alt="centered image" />
+          </div>
+		  </div>
+		  <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="max-width:100%" src="assets\images\VSponsers\Copy of Piesanos-page-001.jpg" alt="centered image" />
+          </div>
+        </div>
+
+        <div style="margin-top: 35px;" class="row">
+           <div class="col-sm-6">
+            <img style="max-width:100%" src="assets\images\VSponsers\Dominos logo.jpg" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+            <img style="max-width:100%" src="assets\images\VSponsers\Dunkin+Logo_mid.jpg" alt="centered image" />
+          </div>
+        </div>
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="max-width:100%" src="assets\images\VSponsers\Gainesville_3rdAve_Standard_Logo (1).png" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+            <img style="max-width:100%" src="assets\images\VSponsers\Gator D_Lites.png" alt="centered image" />
+          </div>
+        </div>
+		<br/><br/>
+         <div  class="row">
+          <div class="col-sm-6">
+            <img style="max-width:100%" src="assets\images\VSponsers\jersey mikes logo.png" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+            <img style="max-width:100%" src="assets\images\VSponsers\logo_bv 2.jpg" alt="centered image" />
+          </div>
+        </div>
+        <div style="margin-top: 35px;" class="row">
+         <div class="col-sm-6">
+           <img style="max-width:100%" src="assets\images\VSponsers\logo-top.png" alt="centered image" />
+         </div>
+         <div class="col-sm-6">
+           <img style="max-width:100%" src="assets\images\VSponsers\logo.png" alt="centered image" />
+         </div>
+       </div>
+
+      </div>
+      <hr>
+      <center>
+      <div class="sponsor-section">
+        <div  class="row">
+          <div class="col-sm-4">
+            <img style="max-width:100%" src="assets\images\VSponsers\maple street.png" alt="centered image" />
+          </div>
+          <div class="col-sm-4">
+            <img style="max-width:100%" src="assets\images\VSponsers\Mi Apa Logo.png" alt="centered image" />
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div  class="row">
+          <div class="col-sm-4">
+            <img style="max-width:100%" src="assets\images\VSponsers\mojo hogtown logo.jpg" alt="centered image" />
+          </div>
+          <div class="col-sm-4">
+            <img style="max-width:100%" src="assets\images\VSponsers\Monster_Energy_logo.png" alt="centered image" />
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div  class="row">
+          <div class="col-sm-4">
+            <img style="max-width:100%" src="assets\images\VSponsers\PDQ-page-001.jpg" alt="centered image" />
+          </div>
+          <div class="col-sm-4">
+            <img style="max-width:100%" src="assets\images\VSponsers\Sababa Logo.jpg" alt="centered image" />
+          </div>
+        </div>
+        <div  class="row">
+          <div class="col-sm-4">
+            <img style="max-width:100%" src="assets\images\VSponsers\social.jpg.png" alt="centered image" />
+          </div>
+          <div class="col-sm-4">
+              <img style="max-width:100%" src="assets\images\VSponsers\Texas Roadhouse Logo.png" alt="centered image" />
+          </div>
+        </div>
+        <div  class="row">
+          <div class="col-sm-4">
+            <img style="max-width:100%" src="assets\images\VSponsers\university_standard-01 (5).png" alt="centered image" />
+          </div>
+          <div class="col-sm-4">
+              <img style="max-width:100%" src="assets\images\VSponsers\Unknown (1).png" alt="centered image" />
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div></div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img style="max-width:100%" src="assets\images\VSponsers\Unknown-6.png" alt="centered image" />
+          </div>
+
+          <div class="col-sm-3">
+            <img style="max-width:100%" src="assets\images\VSponsers\xajsZ7Yh.png" alt="centered image" />
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img style="max-width:100%" src="assets\images\VSponsers\zaxbys.png" alt="centered image" />
+          </div>
+        </div>
+
+      </div>
+
+
+
+      </div>
+    </div>
+    </div>
+  </div>
+  </div>
+  <div style="margin-top: 25px;" class="row">
+</div>
            </div>
 
   
