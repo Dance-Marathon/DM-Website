@@ -108,7 +108,7 @@ function tabs(evt, cityName) {
 				    <li>Opening Ceremonies Livestream: 6:00 a.m. - 7:00 a.m.</li>
 				    <li>Theme Hour Zoom: Miracles on Broadway - 8:00 a.m. - 10:00 a.m.  Fundraising Breakouts</li>
 					<li>Dream for Donny - 10:30 - 11:00 p.m.</li>
-					<li>Theme Hour Zoom: DM Games - 12:10 - 1:50 p.m.  Fundraising Berakouts</li>
+					<li>Theme Hour Zoom: DM Games - 12:10 - 1:50 p.m.  Fundraising Breakouts</li>
 					<li>DM on a Field - Norman, 2:00 - 4:00 p.m.</li>
 					<li>Theme Hour Zoom: SS DM - 3:10 - 5:00 p.m.  Fundraising Breakouts</li>
 					<li>Miracle Stories every hour (8:20 a.m., 9:20 a.m., 10:20 a.m., 11:20 a.m., 12:20 p.m., 1:20 p.m., 3:20 p.m., 4:20 p.m.)</li>
