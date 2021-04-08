@@ -220,154 +220,122 @@ function tabs(evt, cityName) {
 	        <div class="col-md-8">
 
 
-    <h2>Our 2021 Virtual Sponsors</h2>
+    <h2 class="text-center">Our 2021 Virtual Sponsors</h2>
     <hr>
-      <div class="sponsor-section">
-        <div class="row">
-          <div class="col-sm-7">
-            <img style="max-width:100%" src="assets\images\VSponsers\1200px-Marriott_Vacations_Worldwide_Corporation_logo.svg.png" alt="centered image" />
-          </div>
-        </div>
-        <div style="height: 35px;"></div>
-        <div class="col-sm-7">
-          <img style="max-width:100%" src="assets\images\VSponsers\Bento Logo.png" alt="centered image" />
-        </div>
-        <div style="height: 35px;"></div>
-        <div class="row">
-          <div class="col-sm-7">
-            <img style="max-width:100%" src="assets\images\VSponsers\bjs.png" alt="centered image" />
-          </div>
-        </div>
-        <div style="height: 35px;"></div>
-        <div class="row">
-          <div class="col-sm-7">
-            <img style="max-width:100%" src="assets\images\VSponsers\Bradenton+Yacht+Club.png" alt="centered image" />
-          </div>
-        </div>
-        <div style="height: 35px;"></div>
-        <div class="row">
-          <div class="col-sm-7">
-            <img style="max-width:100%" src="assets\images\VSponsers\Bz Gelati.PNG" alt="centered image" />
-          </div>
-        </div>
-
-		<div></div>
-
+      <div class="sponsor-section text-center">
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <img style="max-width:100%" src="assets\images\VSponsers\Chick-fil-a logo-page-001.jpg" alt="centered image" />
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\1200px-Marriott_Vacations_Worldwide_Corporation_logo.svg.png" alt="centered image" />
+          </div>
+        <div class="col-sm-6">
+          <img style="height:150px; width:200px;" src="assets\images\VSponsers\Bento Logo.png" alt="centered image" />
+        </div>
+		</div>
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\bjs.png" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Bradenton+Yacht+Club.png" alt="centered image" />
+          </div>
+        </div>
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Bz Gelati.PNG" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Chick-fil-a logo-page-001.jpg" alt="centered image" />
           </div>
 		  </div>
 		  <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <img style="max-width:100%" src="assets\images\VSponsers\Copy of Piesanos-page-001.jpg" alt="centered image" />
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Copy of Piesanos-page-001.jpg" alt="centered image" />
           </div>
-        </div>
-
-        <div style="margin-top: 35px;" class="row">
            <div class="col-sm-6">
-            <img style="max-width:100%" src="assets\images\VSponsers\Dominos logo.jpg" alt="centered image" />
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Dominos logo.jpg" alt="centered image" />
+          </div>
+		  </div>
+		  <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Dunkin+Logo_mid.jpg" alt="centered image" />
           </div>
           <div class="col-sm-6">
-            <img style="max-width:100%" src="assets\images\VSponsers\Dunkin+Logo_mid.jpg" alt="centered image" />
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Gainesville_3rdAve_Standard_Logo (1).png" alt="centered image" />
+          </div>
+		  </div>
+		  <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Gator D_Lites.png" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\jersey mikes logo.png" alt="centered image" />
+          </div>
+		  </div>
+		  <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\logo_bv 2.jpg" alt="centered image" />
+          </div>
+         <div class="col-sm-6">
+           <img style="height:150px; width:200px;" src="assets\images\VSponsers\logo-top.png" alt="centered image" />
+         </div>
+		 </div>
+	   <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\maple street.png" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Mi Apa Logo.png" alt="centered image" />
           </div>
         </div>
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <img style="max-width:100%" src="assets\images\VSponsers\Gainesville_3rdAve_Standard_Logo (1).png" alt="centered image" />
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\mojo hogtown logo.jpg" alt="centered image" />
           </div>
           <div class="col-sm-6">
-            <img style="max-width:100%" src="assets\images\VSponsers\Gator D_Lites.png" alt="centered image" />
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Monster_Energy_logo.png" alt="centered image" />
           </div>
         </div>
-		<br/><br/>
-         <div  class="row">
+		<div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <img style="max-width:100%" src="assets\images\VSponsers\jersey mikes logo.png" alt="centered image" />
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\PDQ-page-001.jpg" alt="centered image" />
           </div>
           <div class="col-sm-6">
-            <img style="max-width:100%" src="assets\images\VSponsers\logo_bv 2.jpg" alt="centered image" />
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Sababa Logo.jpg" alt="centered image" />
           </div>
         </div>
         <div style="margin-top: 35px;" class="row">
-         <div class="col-sm-6">
-           <img style="max-width:100%" src="assets\images\VSponsers\logo-top.png" alt="centered image" />
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\social.jpg.png" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+              <img style="height:150px; width:200px;" src="assets\images\VSponsers\Texas Roadhouse Logo.png" alt="centered image" />
+          </div>
+        </div>
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\university_standard-01 (5).png" alt="centered image" />
+          </div>
+          <div class="col-sm-6">
+              <img style="height:150px; width:200px;" src="assets\images\VSponsers\Unknown (1).png" alt="centered image" />
+          </div>
+        </div>
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\Unknown-6.png" alt="centered image" />
+          </div>
+
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\xajsZ7Yh.png" alt="centered image" />
+          </div>
+        </div>
+
+        <div style="margin-top: 35px;" class="row">
+          <div class="col-sm-6">
+            <img style="height:150px; width:200px;" src="assets\images\VSponsers\zaxbys.png" alt="centered image" />
+          </div>
+		  <div class="col-sm-6">
+           <img style="height:150px; width:200px;" src="assets\images\VSponsers\logo.png" alt="centered image" />
          </div>
-         <div class="col-sm-6">
-           <img style="max-width:100%" src="assets\images\VSponsers\logo.png" alt="centered image" />
-         </div>
-       </div>
-
-      </div>
-      <hr>
-      <center>
-      <div class="sponsor-section">
-        <div  class="row">
-          <div class="col-sm-4">
-            <img style="max-width:100%" src="assets\images\VSponsers\maple street.png" alt="centered image" />
-          </div>
-          <div class="col-sm-4">
-            <img style="max-width:100%" src="assets\images\VSponsers\Mi Apa Logo.png" alt="centered image" />
-          </div>
-        </div>
-        <div style="height: 35px;">
-        </div>
-        <div  class="row">
-          <div class="col-sm-4">
-            <img style="max-width:100%" src="assets\images\VSponsers\mojo hogtown logo.jpg" alt="centered image" />
-          </div>
-          <div class="col-sm-4">
-            <img style="max-width:100%" src="assets\images\VSponsers\Monster_Energy_logo.png" alt="centered image" />
-          </div>
-        </div>
-        <div style="height: 35px;">
-        </div>
-        <div  class="row">
-          <div class="col-sm-4">
-            <img style="max-width:100%" src="assets\images\VSponsers\PDQ-page-001.jpg" alt="centered image" />
-          </div>
-          <div class="col-sm-4">
-            <img style="max-width:100%" src="assets\images\VSponsers\Sababa Logo.jpg" alt="centered image" />
-          </div>
-        </div>
-        <div  class="row">
-          <div class="col-sm-4">
-            <img style="max-width:100%" src="assets\images\VSponsers\social.jpg.png" alt="centered image" />
-          </div>
-          <div class="col-sm-4">
-              <img style="max-width:100%" src="assets\images\VSponsers\Texas Roadhouse Logo.png" alt="centered image" />
-          </div>
-        </div>
-        <div  class="row">
-          <div class="col-sm-4">
-            <img style="max-width:100%" src="assets\images\VSponsers\university_standard-01 (5).png" alt="centered image" />
-          </div>
-          <div class="col-sm-4">
-              <img style="max-width:100%" src="assets\images\VSponsers\Unknown (1).png" alt="centered image" />
-          </div>
-        </div>
-      </div>
-      <hr>
-      <div></div>
-
-        <div style="height: 35px;">
-        </div>
-        <div class="row">
-          <div class="col-sm-3">
-            <img style="max-width:100%" src="assets\images\VSponsers\Unknown-6.png" alt="centered image" />
-          </div>
-
-          <div class="col-sm-3">
-            <img style="max-width:100%" src="assets\images\VSponsers\xajsZ7Yh.png" alt="centered image" />
-          </div>
-        </div>
-
-        <div style="height: 35px;">
-        </div>
-        <div class="row">
-          <div class="col-sm-3">
-            <img style="max-width:100%" src="assets\images\VSponsers\zaxbys.png" alt="centered image" />
-          </div>
         </div>
 
       </div>
