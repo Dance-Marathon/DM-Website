@@ -41,6 +41,14 @@
 				<h2>Dance Marathon Virtual Event</h2>
 
                     <p>Dance Marathon at the University of Florida is hosting our Main Event on April 10-11. We are so excited to be able to have a portion of our members join us in the Stephen C. O’Connell Center and safely participate in two 13.1-hour shifts. We are also hosting a variety of virtual options throughout the Dance Marathon 2021 weekend for those unable to join us in person. Each tab has a schedule, as well as links for each group to follow and enjoy their virtual experience.</p>
+                    <p>Check out what's going on below!</p>
+                    <ul>
+                      <li>Alumni zoom: <a href="https://ufl.zoom.us/j/95643231990" target="_blank">https://ufl.zoom.us/j/95643231990</a></li>
+                      <li>General zoom: <a href="https://cmnhospitals.zoom.us/s/82583068420;" target="_blank">https://cmnhospitals.zoom.us/s/82583068420;</a></li>
+                      <li>Merchandise: <a href="https://dance-marathon-at-uf-510104.square.site/" target="_blank">https://dance-marathon-at-uf-510104.square.site/</a></li>
+                      <li>Silent Auction: <a href="https://event.gives/dmuf21" target="_blank">https://event.gives/dmuf21</a></li>
+                      <li>Livestream: <a href="https://www.facebook.com/floridaDM" target="_blank">https://www.facebook.com/floridaDM</a></li>
+                    </ul>
        <div role="tabpanel">
 
 <script>
