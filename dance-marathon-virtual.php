@@ -84,7 +84,7 @@ function tabs(evt, cityName) {
           <li role="presentation" class="active"><a onclick="tabs(event, 'dancers-virtual')" href="#dancers-virtual" aria-controls="dancers-virtual" role="tab" data-toggle="tab" class="tab-links">Dancers</a></li>
           <li role="presentation"><a href="#alumni-virutal" onclick="tabs(event, 'alumni-virtual')" aria-controls="alumni-virtual" role="tab" data-toggle="tab" class="tab-links">Alumni</a></li>
           <li role="presentation"><a href="#general-virtual" onclick="tabs(event, 'general-virtual')" aria-controls="general-virtual" role="tab" data-toggle="tab" class="tab-links">General</a></li>
-		  <li role="presentation"><a href="#sponsers-virtual" onclick="tabs(event, 'sponsers-virtual')" aria-controls="sponsers-virtual" role="tab" data-toggle="tab" class="tab-links">Sponsers</a></li>
+		  <li role="presentation"><a href="#sponsers-virtual" onclick="tabs(event, 'sponsers-virtual')" aria-controls="sponsers-virtual" role="tab" data-toggle="tab" class="tab-links">Sponsors</a></li>
          <!-- <li role="presentation"><a href="#dancing-as-an-individual" aria-controls="dancing-as-an-individual" role="tab" data-toggle="tab">Dancing as an Individual</a></li> -->
  
          </ul>
