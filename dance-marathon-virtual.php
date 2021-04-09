@@ -159,6 +159,7 @@ function tabs(evt, cityName) {
 
 	       <h2>Alumni</h2>
 	          <p></p>
+            <p><li>Alumni Zoom: <a href="https://ufl.zoom.us/j/95643231990" target="_blank">https://ufl.zoom.us/j/95643231990</a></li></p>
 	          <p>Alumni will have the opportunity to participate in Dance Marathon 2021 through our virtual platforms. A schedule of events can be found on the “General” tab, and Alumni-specific virtual opportunities are available below. Alumni can participate in the Alumni Power Hour on Saturday, April 10 before attending the virtual Miracle Gala. Miracle Gala tickets can be purchased with the link below. All Alumni are invited to tune into our live streams with @dmatuf on Instagram and Dance Marathon at UF on Facebook for Miracle Stories, fundraising hours and more! </p>
 	          <p></p>
 	       <h3>Saturday</h3>
