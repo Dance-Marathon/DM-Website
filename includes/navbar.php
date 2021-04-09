@@ -112,8 +112,8 @@
 				 <!--
 				 <li><a href="/blog/">Blog</a></li>
 				 -->
-
-                <li class="open"><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.donate&eventID=4042" target="_blank" class="active">Zoom</a</li>
+				
+                <li><a href="https://cmnhospitals.zoom.us/s/82583068420" target="_blank">Zoom</a></li>
 
 				<li class="open"><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.donate&eventID=4042" target="_blank" class="active">Donate</a></li>
 
