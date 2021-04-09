@@ -73,7 +73,7 @@ DMA MEMBERS PAGE
  <div class="col-md-8">
 
 
-    <h2>Our 2020 Sponsors</h2>
+    <h2>Our 2021 Sponsors</h2>
     <hr>
       <div class="sponsor-section">
         <div class="row">
