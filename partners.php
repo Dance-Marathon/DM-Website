@@ -78,29 +78,31 @@ DMA MEMBERS PAGE
       <div class="sponsor-section">
         <div class="row">
           <div class="col-sm-7">
-            <a href="https://www.marriottvacationsworldwide.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/marriottvacationsworldwide.png" alt="centered image" /></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\2.jpeg" alt="centered image" /></a>
           </div>
+
+
         </div>
         <div style="height: 35px;"></div>
         <div class="col-sm-7">
-          <a href="https://pediatrics.med.ufl.edu/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/Department-of-Pediatrics.png"/></a>
+          <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\02b.jpg"/></a>
         </div>
         <div style="height: 35px;"></div>
         <div class="row">
           <div class="col-sm-7">
-            <a href="https://nextranusa.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/Nextran.png" /></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\61kgN9ohr-L._SX679_.jpg" /></a>
           </div>
         </div>
         <div style="height: 35px;"></div>
         <div class="row">
           <div class="col-sm-7">
-            <a href="https://www.dominos.com/en/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2020/Dominos.png" /></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\128547084_3386906604753678_8593378286001317595_o.jpg" /></a>
           </div>
         </div>
         <div style="height: 35px;"></div>
         <div class="row">
           <div class="col-sm-7">
-            <a href="https://thestandardgainesville.landmark-properties.com/" target="_blank"><img class="img-responsive" src="assets/images/sponsors/2018/standard.png" /></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\aldi logo.jpg" /></a>
           </div>
         </div>
 
@@ -108,43 +110,43 @@ DMA MEMBERS PAGE
 
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <a href="https://studyedge.com/landing"><img class="img-responsive" src="assets/images/sponsors/2018/se.png" width="150" height="150" /></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\Arthur+Yates+and+Son+Jewelers-logo-script.png" width="150" height="150" /></a>
           </div>
           <div class="col-sm-6">
-            <a href="http://gatorsdockside.com"><img class="img-responsive" src="assets/images/sponsors/2018/gd.png" width="150" height="150" /></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\bagel bakery logo.png" width="150" height="150" /></a>
           </div>
         </div>
 
         <div style="margin-top: 35px;" class="row">
            <div class="col-sm-6">
-            <a href="https://www.hurricanebtw.com/"><img class="img-responsive" src="assets/images/sponsors/2020/GatorBTW Logo-2020.png" width="175" height="175"/></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\Bento Logo.png" width="175" height="175"/></a>
           </div>
           <div class="col-sm-6">
-            <a href="http://www.miapalatincafe.com"><img class="img-responsive" src="assets/images/sponsors/2020/Mi Apa.png" width="175" height="175" /></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\bjs.png" width="175" height="175" /></a>
           </div>
         </div>
         <div style="margin-top: 35px;" class="row">
           <div class="col-sm-6">
-            <a href="http://www.gatordlites.com/"><img class="img-responsive" src="assets/images/sponsors/2018/Dlites.png" width="175" height="175"/></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\bobo_s logo.JPG" width="175" height="175"/></a>
           </div>
           <div class="col-sm-6">
-            <a href="https://www.eatpdq.com/"><img class="img-responsive" src="assets/images/sponsors/PDQ.jpg" width="175" height="175"/></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\Bradenton+Yacht+Club.png" width="175" height="175"/></a>
           </div>
         </div>
          <div  class="row">
           <div class="col-sm-6">
-            <a href="https://www.chick-fil-a.com/"><img class="img-responsive" src="assets/images/sponsors/2020/Chick-fil-a logo-1.png" width="1000" height="1000" /></a>
+            <img class="img-responsive" src="assets/images/sponsors/2020/Chick-fil-a logo-1.png" width="1000" height="1000" /></a>
           </div>
           <div class="col-sm-6">
-            <a href="https://www.giftcertificatesandmore.com/"><img class="img-responsive" src="assets/images/sponsors/2020/gcm logo.png" width="275" height="275"/></a>
+            <img class="img-responsive" src="assets\images\sponsors\2021\Bz Gelati.PNG" width="275" height="275"/></a>
           </div>
         </div>
         <div style="margin-top: 35px;" class="row">
          <div class="col-sm-6">
-           <a href="https://livplusgainesville.com/"><img class="img-responsive" src="assets/images/sponsors/2020/liv-plus-gainesville-1.png" width="175" height="175" /></a>
+           <img class="img-responsive" src="assets\images\sponsors\2021\Dominos logo.jpg" width="175" height="175" /></a>
          </div>
          <div class="col-sm-6">
-           <a href="https://www.smokinnotes.com/"><img class="img-responsive"  src="assets/images/sponsors/2020/SmokinNotesLogo.jpg" width="275" height="275"/></a>
+           <img class="img-responsive"  src="assets\images\sponsors\2021\DoubleTree-Logo-Black_HR.png" width="275" height="275"/></a>
          </div>
        </div>
 
@@ -154,46 +156,46 @@ DMA MEMBERS PAGE
       <div class="sponsor-section">
         <div  class="row">
           <div class="col-sm-4">
-            <a href="https://www.starbucks.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/starbucks.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Dunkin+Logo_mid.jpg"/></a>
           </div>
           <div class="col-sm-4">
-            <a href="https://www.valefoodco.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/vale.png"/></a>
-          </div>
-        </div>
-        <div style="height: 35px;">
-        </div>
-        <div  class="row">
-          <div class="col-sm-4">
-            <a href="https://www.zaxbys.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/zaxbys.png"/></a>
-          </div>
-          <div class="col-sm-4">
-            <a href="https://newscooters4less.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/NS4L-new-logo1.jpg"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\FarNiente-CMYK.png"/></a>
           </div>
         </div>
         <div style="height: 35px;">
         </div>
         <div  class="row">
           <div class="col-sm-4">
-            <a href="http://panerabread.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/panera logo.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Gainesville_3rdAve_Standard_Logo (1).png"/></a>
           </div>
           <div class="col-sm-4">
-            <a href="https://www.kindsnacks.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/kind logo.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Gator D_Lites.png"/></a>
+          </div>
+        </div>
+        <div style="height: 35px;">
+        </div>
+        <div  class="row">
+          <div class="col-sm-4">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\get_club_logo.jpg"/></a>
+          </div>
+          <div class="col-sm-4">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\gomacro logo.PNG"/></a>
           </div>
         </div>
         <div  class="row">
           <div class="col-sm-4">
-            <a href="https://www.lloydclarkesports.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/Lloyd Clarke Sports.jpg"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\HoganHogan_Logo.png"/></a>
           </div>
           <div class="col-sm-4">
-              <a href="https://www.eatatbento.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/Bento_Logo_06_19.jpg"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\images.png"/></a>
           </div>
         </div>
         <div  class="row">
           <div class="col-sm-4">
-            <a href="https://www.aldi.us/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/aldi logo.jpg"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\impulse logo.jpg"/></a>
           </div>
           <div class="col-sm-4">
-              <a href="https://www.larryssubs.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/larrys.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\jersey mikes logo.png"/></a>
           </div>
         </div>
       </div>
@@ -204,25 +206,11 @@ DMA MEMBERS PAGE
         </div>
         <div class="row">
           <div class="col-sm-3">
-            <a href="https://www.bjs.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/bjs.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Kendra-Scott-Logo.gif"/></a>
           </div>
 
           <div class="col-sm-3">
-            <a href="https://grubkitchenandbar.com/stores/gainesville/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/grub logo.png"/></a>
-          </div>
-        </div>
-
-        <div style="height: 35px;">
-        </div>
-        <div class="row">
-          <div class="col-sm-3">
-            <a href="https://piesanostogo.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/Piesanos-1.png"/></a>
-          </div>
-          <div class="col-sm-3">
-            <a href="https://www.orangetheoryfitness.com" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/cropped_1.png"/></a>
-          </div>
-          <div class="col-sm-3">
-            <a href="https://impulsenutrition.org/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/impulse logo.jpg"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\LivPlus_Gainesville-Color.png"/></a>
           </div>
         </div>
 
@@ -230,27 +218,13 @@ DMA MEMBERS PAGE
         </div>
         <div class="row">
           <div class="col-sm-3">
-            <a href="https://www.fit2run.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/logo.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\logo_bv 2.jpg"/></a>
           </div>
           <div class="col-sm-3">
-            <a href="https://www.nestle.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/nestle logo.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Logo-2016-2.jpg"/></a>
           </div>
           <div class="col-sm-3">
-            <a href="https://eatcilantrotacos.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/Cilantro-Tacos-Logo.png"/></a>
-          </div>
-        </div>
-
-        <div style="height: 35px;">
-        </div>
-        <div class="row">
-          <div class="col-sm-3">
-            <a href="https://www.thehyppo.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/hyppo logo.png"/></a>
-          </div>
-          <div class="col-sm-3">
-            <a href="https://www.jerseymikes.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/jersey mikes logo.png"/></a>
-          </div>
-          <div class="col-sm-3">
-            <a href="https://www.campus-scooters.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/Campus-Scooter.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\logo-top.png"/></a>
           </div>
         </div>
 
@@ -258,27 +232,13 @@ DMA MEMBERS PAGE
         </div>
         <div class="row">
           <div class="col-sm-3">
-            <a href="https://www.chipotle.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/Chipotle-Logo.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\logo.png"/></a>
           </div>
           <div class="col-sm-3">
-            <a href="https://www.pandaexpress.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/panda express.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\LogoOriginal_2015-05-27-12-30-28.jpg"/></a>
           </div>
           <div class="col-sm-3">
-            <a href="https://aeroon24th.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/aero.jpeg"/></a>
-          </div>
-        </div>
-
-        <div style="height: 35px;">
-        </div>
-        <div class="row">
-          <div class="col-sm-3">
-            <a href="https://guayaki.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/yerbamate.png"/></a>
-          </div>
-          <div class="col-sm-3">
-            <a href="https://www.pitchmedia.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/pitchmedia.jpeg"/></a>
-          </div>
-          <div class="col-sm-3">
-            <a href="https://www.bagelbakerygainesville.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/bagel bakery logo.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\LovesLogo_Horizontal2019_RGB.png"/></a>
           </div>
         </div>
 
@@ -286,13 +246,151 @@ DMA MEMBERS PAGE
         </div>
         <div class="row">
           <div class="col-sm-3">
-            <a href="http://lifesouth.org/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/lifesouth.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\maple street.png"/></a>
           </div>
           <div class="col-sm-3">
-            <a href="https://www.halopotatodonuts.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/halo logo.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\MarriottVacationsWorldwide (1).png"/></a>
           </div>
           <div class="col-sm-3">
-            <a href="https://modpizza.com/" target="_blank"><img class="img-responsive" style="display: block; margin: auto;" src="assets/images/sponsors/2020/mod.png"/></a>
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\maxresdefault 8.28.25 PM.jpg"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\metro diner.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Mi Apa Logo.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\mojo hogtown logo.jpg"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Monster_Energy_logo.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\original.jpeg"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Peach Valley.png"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\PWD11.jpg"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\relish.jpg"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\rendition.0014000000lHV1vAAG01082020102245707.1200.630.imagecache.jpeg"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Sababa Logo.jpg"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\SE_Logo_Color-1024x444.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\social.jpg.png"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Student-Maid-Brigade-Logo.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Texas Roadhouse Logo.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\tgi fridays.PNG"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\university_standard-01 (5).png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Unknown (1).png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Unknown-5.png"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Unknown.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\unnamed (1).png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\unnamed-1.png"/></a>
+          </div>
+        </div>
+        
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\unnamed.jpg"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\unnamed.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Untitled-Artwork.png"/></a>
+          </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\yogapodlogo_cmyk.jpg"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\zaxbys.png"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\LL.PNG"/></a>
+          </div>
+        </div>
+
+        
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\PDQ.PNG"/></a>
+          </div>
+          <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\piezanos.PNG"/></a>
           </div>
         </div>
 
