@@ -51,8 +51,8 @@
 					<p>Click <a href="assets/PDFs/app-questions copy.pdf" target="_blank">here</a> to view the Captain Application questions.</p> -->
 <b>Emerging Leaders Application</b> Now Closed </p>
 					<!-- <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_e4A0J1I4Grjqy3P" target="_blank">here</a>. This application will close at 11:59 PM on Friday, September 11.</p> -->
-<b>Ambassador Application</b>
-                    <p>Now Closed</p>
+<b>Ambassador Application</b> Now Closed </p>
+                    
 					<!--<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0IKjaRR7u8VbjTv" target="_blank">here</a>. This application will close at 11:59 PM on Sunday, September 20. You can apply to be an Ambassador even if you hold another position, and you will be able to do both. </p>-->
 					<!--<p>If you have any questions regarding applications, please reach out to our Operations Manager, Hannah Cooper, at <a href="mailto:hcooper@floridadm.org">hcooper@floridadm.org</a>.</p>-->
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
