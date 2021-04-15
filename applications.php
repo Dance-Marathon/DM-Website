@@ -46,9 +46,9 @@
 						<li>Pay the application fee. You only need to pay the application fee once even if you are applying for more than one position. Instructions on how to complete both of these items can be found on the front page of either application.</li>
 					</ul>
 <b>Manager Application</b>
-		<a href = "/Documents/2022 Manager Application.pdf"></a>
+Click <a href="Documents/2022 Manager Application.pdf" target="_blank">here</a> to view the 2022 Manager Application</p>
 <b>Overall Director Application</b>
-		<p><a href = "/Documents/2022 Overall Director Application.pdf"></a></p>
+Click <a href="Documents/2022 Overall Director Application.pdf" target="_blank">here</a> to view the 2022 Manager Application</p>
 					<!-- You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. You can apply to be an Ambassador even if you hold another position, and you will be able to do both.</p> -->
 <b>Captain Application</b> Now Closed </p>
 					<!-- <p>The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_86qi9WwllA1Rhch" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at 11:59 PM on Friday, September 11. </p>
