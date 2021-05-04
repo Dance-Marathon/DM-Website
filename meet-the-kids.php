@@ -93,14 +93,6 @@ She is now a healthy 8 year old who loves to dance and play soccer! Courtney con
 						'image' => 'Dani-Lynn Early',
             ),
         array(
-            'name'  => 'Donovan T.',
-            'description' => 'Donovan Taft was diagnosed with spina bifida myelomeningocele, Chiari II malformation, hydrocephalus, and bilateral clubfoot at 20 weeks gestation at his fetal anatomy scan.
-Donovan is the sixth child in his family; he is their surprise who came full of surprises. His mother intended to have a home birth with Donovan, but when the ultrasound technician at UF Health Shands Children’s Hospital saw his anomalies, she consulted maternal fetal medicine. Dr. Gregg came in and told Donovan’s parents his diagnoses. Donovan’s parents met with a genetics counselor, Jill, and she explained the many possibilities after birth such as paralysis, neurogenic bowel and bladder, and more. Children with spina bifida are known for snowflake qualities, meaning that no two children experience the same symptoms. The doctors told Donovan’s parents that he would have to be born by cesarean section, and he would have to have his open lesion closed between 24 to 72 hours after his birth.
-Donovan’s mother went into labor five days before her scheduled C-section. Donovan was born in the OR with Dr. Gregg, and Dr. Governale flew in from Ohio to perform his closure. Donovan had his repair at 2 days old, and he was required to stay on his tummy for three weeks to heal. Donovan has had three brain surgeries, many procedures and imaging, and he is followed by a team of about 12 specialists, 98% of whom are here at UF Health Shands.
-Donovan is nearly 2 years old and the happiest, most wonderful little boy. Donovan and his family are very thankful for Children’s Miracle Network, Dance Marathon, and everyone who pours their time and effort into making such a large impact on children fighting disease, illness, and rare abnormalities. They are immensely grateful for DM at UF and can see the difference it has made each day when they walk into appointments or admissions at the hospital.',
-            'image' => 'DonovanTaft',
-            ),
-        array(
             'name'  => 'Elizabeth C.',
 						'description' => 'Elizabeth Chapman is diagnosed with untyped Glycogen storage disease (GSD). When she was 6, Elie was brought to the Pediatric Emergency Room at UF Health Shands Children’s Hospital after vomiting over 30 times. At the hospital, the doctors discovered that her blood sugar level was at 42, and she had a seizure. Elie’s family was referred to Dr. Weinstein, a world-renowned doctor for GSD, at Shands Children’s Hospital. Elie’s family learned that patients with this disorder are unable to fully break down glycogen to glucose and, therefore, are dependent on a continuous supply of glucose. Without this supply of glucose, hypoglycemia, lactic acidosis and seizures can occur.
 
