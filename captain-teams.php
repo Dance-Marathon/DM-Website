@@ -594,7 +594,7 @@ include("includes/navbar.php");
               <h4><b>Assistant Director of Inventory</b></h4>
               Karson Keiber
               <h4><b>	Assistant Director of Fundraising and Incentives</b></h4>
-              Zach Zelnak
+              Zach Zelenak
               <h4><b>Assistant Director of Internal Operations</b></h4>
               Mckinley Elson
               <h4><b>Assistant Director of Stores</b></h4>
