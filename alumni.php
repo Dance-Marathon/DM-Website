@@ -327,7 +327,7 @@
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
 						<h3>Get Involved</h3>
 						<!-- This should work -->
-						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay FTK for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLSebLvFrPQs3axz_5di7SBFW34eIFwmSTCf_AxfjTYcCSTQpiA/viewform>Become a member or renew your membership today.</a></p>
+						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay FTK for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLScCkmkxiWUOKqgCh-ERRSKYWLf6qxTBb4anrEDXhquefkOhcQ/viewform?gxids=7628>Become a member or renew your membership today.</a></p>
 						<p>Be sure to like the official page for <a href=https://www.facebook.com/FloridaDMAlumni?fref=ts>Dance Marathon at UF Alumni on Facebook</a> to stay connected with the rest of your Dance Marathon Alumni family.</p>
 
 						<h3>About</h3>
