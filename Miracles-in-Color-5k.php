@@ -25,7 +25,7 @@
   			<div class="sub-nav">
           <ul>
 		  				<li><a href="/dance-marathon">Dance Marathon 2021</a></li>
-						<li><a href="/dance-marathon-virtual">Dance Marathon Virtual Event 2021</a></li> 
+						<li><a href="/dance-marathon-virtual">Dance Marathon Virtual Event 2021</a></li>
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a class="active">Miracles in Color 5K</a></li>
@@ -39,9 +39,9 @@
       <?php if ($status == "open") { ?>
 
 				<h2>Miracles in Color 5K</h2>
-                <p>Purchase the tickets <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4383" target="_blank">here.</a>
+                <p>Tickets are no longer available.</a>
                 <p>Welcome to the Miracles in Color 5K benefiting UF Health Shands Children's Hospital!
-Join us for the Miracles in Color 5K on February 13, 2021 at Flavet Field. Miracles in Color is open to anyone who wants to support our cause and have a great time. We couldn't think of a better way for you to spend your Saturday morning than with paint and by supporting a hospital that is so prominent in our community!
+Join us for the Miracles in Color 5K at Flavet Field. Miracles in Color is open to anyone who wants to support our cause and have a great time. We couldn't think of a better way for you to spend your Saturday morning than with paint and by supporting a hospital that is so prominent in our community!
   </p>
                 <p>The course runs through the University of Florida campus and will have color stations throughout the course as well as at the finish line. At each color station, runners will be doused in color.* All participants will be provided with a Miracles In Color 5K white shirt during registration.</p>
 				<p>This year we are offering a virtual 5K option! Virtual participants will be provided a “Race Day Bundle” with a t-shirt and colored powder. There are individual tickets, as well as tickets for groups of two or four. Virtual registration must be completed by February 4 to guarantee shipping arrival before February 13.</p>

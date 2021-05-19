@@ -50,7 +50,7 @@
 <b>Overall Director Application</b> Now Closed </p>
 <!--Click <a href="Documents/2022 Overall Director Application.pdf" target="_blank">here</a> to view the 2022 Overall Director Application</p>-->
 					<!-- You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. You can apply to be an Ambassador even if you hold another position, and you will be able to do both.</p> -->
-<b>Assistant Director Applications</b> Coming Soon </p>
+<b>Assistant Director Applications</b> Now Closed </p>
 <b>Captain Application</b> Now Closed </p>
 					<!-- <p>The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_86qi9WwllA1Rhch" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at 11:59 PM on Friday, September 11. </p>
 					<p>Click <a href="assets/PDFs/app-questions copy.pdf" target="_blank">here</a> to view the Captain Application questions.</p> -->

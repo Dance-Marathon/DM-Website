@@ -40,14 +40,14 @@
 
 				<h2>Morale Madness</h2>
 
-                <p>Morale Madness is a 10 v. 10 kickball tournament taking place on March 14 from 1-5 p.m. A virtual option will be available over Zoom for those unable to attend the in-person tournament. Read below for more information regarding the event, teams, tickets and safety requirements. </p>
+                <p>Morale Madness is a 10 v. 10 kickball tournament. Read below for more information regarding the event, teams, tickets and safety requirements. </p>
 				<p><b>What:</b> 10 v. 10 kickball tournament </p>
 				<p><b>Where:</b> RecSports Softball Fields or virtual</p>
-				<p><b>When:</b> Sunday, March 14 from 1-5 p.m. Game times will be staggered, your team will be contacted closer to the event with information regarding your specific time. </p>
+				<p><b>When:</b> Keep checking this page for updates! </p>
 				<p><b>Teams:</b> All teams can have up to 10 players</p>
 				<p><b>Tickets:</b> Tickets are available <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4558">here.</a> Tickets can be purchased online for $5 per player or $50 for your entire team using the “Team Ticket” option. Purchase a ticket to play in the kickball tournament and to learn more about UF Health Shands Children’s Hospital. Virtual participants do not need to purchase a ticket. </p>
 				<p><b>Safety Requirements:</b> All in-person participants will be required to complete a safety clearance questionnaire before signing in at the event and present a “Cleared” ONE.UF status. Participants will be required to wear facial coverings for the entirety of the event; masks with vents or exhalation valves will not be permitted. Masks are highly encouraged over the use of a bandana or gaiter alternative. Participants are encouraged to attend in QuaranTeams of two to four individuals and physical distancing will be enforced throughout the entirety of the event. </p>
-				<p>For more information, please contact the Morale Overall Director, Anna Fitzpatrick, at <a href="mailto:afitzpatrick@floridadm.org">afitzpatrick@floridadm.org</a>.</p>
+				<p>For more information, please contact the Morale Overall Director, Michael Sivilli, at <a href="mailto:msivilli@floridadm.org">msivilli@floridadm.org</a>.</p>
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
