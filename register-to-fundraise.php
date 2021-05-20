@@ -57,7 +57,7 @@ include("includes/navbar.php");
 							<li> From here, you can use the tools on DonorDrive to send emails from a template, track your fundraising, and share your fundraising link with others! </li>
 								</ol>
 
-								<p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director  <a href="mailto:emcclane@floridadm.org  ">emcclane@floridadm.org  </a></p>
+								<p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director at <a href="mailto:cgaulding@floridadm.org  ">cgaulding@floridadm.org  </a></p>
 
 						   	</div>
 							</div>
