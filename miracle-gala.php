@@ -40,7 +40,7 @@
 
 				<h2>Miracle Gala</h2>
 
-<p>Tickets for the 2021 Virtual Dance Marathon Miracle Gala are no longer available.</p>
+<p>Tickets for the 2021 virtual Dance Marathon Miracle Gala are now available <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4541">here!</a></p>
 <p>Each year, we invite guests to join us for an evening of fine dining and dancing to recognize all of the accomplishments of Dance Marathon at UF and the doctors at UF Health Shands Children’s Hospital. This year, the Miracle Gala will be held 100% virtually. </p>
 <p>We are focusing on reminiscing on and celebrating the past 27 years of DM at UF, with the theme being “Our Time Then vs. Our Time Now.” The night will be filled with many Special Guests, including Miracle Families, UF Health Shands Staff, members of our High School Program, Keynote Speakers, an Alumni Spotlight, and more! All attendees will also have access to participate in a Silent Auction and Raise the Paddle.</p>
 <p>There are two ticket options available:</p>  

@@ -40,7 +40,14 @@
 
 				<h2>Dance Marathon Virtual Event</h2>
 
-                    <p>Dance Marathon at the University of Florida hosted our Main Event on April 10-11. We were so excited to have had a portion of our members join us in the Stephen C. O’Connell Center and safely participate in two 13.1-hour shifts. We  also hosted a variety of virtual options throughout the Dance Marathon 2021 weekend for those unable to join us in person. Each tab had a schedule, as well as links for each group to follow and enjoy their virtual experience.</p>
+                    <p>Dance Marathon at the University of Florida is hosting our Main Event on April 10-11. We are so excited to be able to have a portion of our members join us in the Stephen C. O’Connell Center and safely participate in two 13.1-hour shifts. We are also hosting a variety of virtual options throughout the Dance Marathon 2021 weekend for those unable to join us in person. Each tab has a schedule, as well as links for each group to follow and enjoy their virtual experience.</p>
+                    <p>Check out what's going on below!</p>
+                    <ul>
+                      <li>General Zoom: <a href="https://cmnhospitals.zoom.us/s/82583068420;" target="_blank">https://cmnhospitals.zoom.us/s/82583068420;</a></li>
+                      <li>Additional Livestream Option: <a href="https://www.facebook.com/floridaDM" target="_blank">https://www.facebook.com/floridaDM</a></li>
+                      <li>Alumni Zoom: <a href="https://ufl.zoom.us/j/95643231990" target="_blank">https://ufl.zoom.us/j/95643231990</a></li>
+                      <li>Merchandise: <a href="https://dance-marathon-at-uf-510104.square.site/" target="_blank">https://dance-marathon-at-uf-510104.square.site/</a></li>
+                      <li>Silent Auction: <a href="https://event.gives/dmuf21" target="_blank">https://event.gives/dmuf21</a></li>
                     </ul>
        <div role="tabpanel">
 
@@ -88,8 +95,8 @@ function tabs(evt, cityName) {
 
 	          <h2>Dancers</h2>
 	          <p></p>
-	          <p>Dancers had the opportunity to participate in Dance Marathon at UF 2021 in-person or virtually. In-person Dancers attended the Orange Shift 1 on Saturday, April 10 from 8 a.m. to 9:06 p.m. or Blue Shift 2 on Sunday, April 11 from 6 a.m. to 7:06 p.m. We encouraged all of our Dancers to continue their event online once their Dancer shift ended. Fully virtual Dancers had the option to join Theme Hour and Fundraising Zooms and tune into our live streams.</p>
-	          <p>On April 10 from 12-2 p.m., Dancers who did not participate in the in-person Orange Shift 1 were invited to join us on Norman Field for food, games and more. On April 11 from 2-4 p.m.,  Dancers who are not participating in the in-person Blue Shift 2 were invited to join us on Norman Field for food, games and more.</p>
+	          <p>Dancers will have the opportunity to participate in Dance Marathon at UF 2021 in-person or virtually. In-person Dancers will attend the Orange Shift 1 on Saturday, April 10 from 8 a.m. to 9:06 p.m. or Blue Shift 2 on Sunday, April 11 from 6 a.m. to 7:06 p.m. We encourage all of our Dancers to continue their event online once their Dancer shift ends. Fully virtual Dancers have the option to join Theme Hour and Fundraising Zooms and tune into our live streams.</p>
+	          <p>On April 10 from 12-2 p.m., Dancers who are not participating in the in-person Orange Shift 1 are invited to join us on Norman Field for food, games and more. On April 11 from 2-4 p.m.,  Dancers who are not participating in the in-person Blue Shift 2 are invited to join us on Norman Field for food, games and more.</p>
 	          <p></p>
 			  <h3>Orange Shift Schedule</h3>
 			    <h4>Saturday</h4>
@@ -152,8 +159,8 @@ function tabs(evt, cityName) {
 
 	       <h2>Alumni</h2>
 	          <p></p>
-
-	          <p>Alumni had the opportunity to participate in Dance Marathon 2021 through our virtual platforms. Our alumni-specific virtual opportunities are listed below. Alumni could participate in the Alumni Power Hour on Saturday, April 10 before attending the virtual Miracle Gala. All Alumni were invited to tune into our live streams with @dmatuf on Instagram and Dance Marathon at UF on Facebook for Miracle Stories, fundraising hours and more! </p>
+            <p><li>Alumni Zoom: <a href="https://ufl.zoom.us/j/95643231990" target="_blank">https://ufl.zoom.us/j/95643231990</a></li></p>
+	          <p>Alumni will have the opportunity to participate in Dance Marathon 2021 through our virtual platforms. A schedule of events can be found on the “General” tab, and Alumni-specific virtual opportunities are available below. Alumni can participate in the Alumni Power Hour on Saturday, April 10 before attending the virtual Miracle Gala. Miracle Gala tickets can be purchased with the link below. All Alumni are invited to tune into our live streams with @dmatuf on Instagram and Dance Marathon at UF on Facebook for Miracle Stories, fundraising hours and more! </p>
 	          <p></p>
 	       <h3>Saturday</h3>
 			     <ul>
@@ -187,7 +194,7 @@ function tabs(evt, cityName) {
             <div role="tabpanel" class="tab-pane fade " id="general-virtual">
 	
 	             <h2>General</h2>
-				   <p>Faculty, parents, community members and high school students were invited to virtually participate in Dance Marathon at UF 2021 through our livestreams. Our livestreams were available with @dmatuf on Instagram and Dance Marathon at UF on Facebook for Miracle Stories, fundraising hours and more! </p>
+				   <p>Faculty, parents, community members and high school students are invited to virtually participate in Dance Marathon at UF 2021 through our livestreams. Tune into our livestreams with @dmatuf on Instagram and Dance Marathon at UF on Facebook for Miracle Stories, fundraising hours and more! </p>
                  <h3>General Schedule</h3>
 				 <h4>Saturday</h4>
 			     <ul>
