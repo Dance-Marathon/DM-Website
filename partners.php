@@ -66,7 +66,7 @@ DMA MEMBERS PAGE
       </p>
 
 
-      <p>If you have any questions, please contact our Sponsorships Overall Director, Sophie Shapiro, at <a href="mailto:sshapiro@floridadm.org">sshapiro@floridadm.org</a></p>
+      <p>If you have any questions, please contact our Sponsorships Overall Director, Emily Hull, at <a href="mailto:ehull@floridadm.org">ehull@floridadm.org</a></p>
 
 
 
