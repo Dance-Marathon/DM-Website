@@ -62,7 +62,7 @@ include("includes/navbar.php");
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p>In addition to standing, if able, for the duration of the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
             <p><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">Click Here to Register to Dance</a></p>
-            <p>Please email Caroline Lee, Dancer Relations Overall Director, at <a href="mailto:clee@floridadm.org">clee@floridadm.org </a> with any questions!</p>
+            <p>Please email Daniela Suarez, Dancer Relations Overall Director, at <a href="mailto:dsuarez@floridadm.org">dsuarez@floridadm.org </a> with any questions!</p>
           </div>
             
         <div role="tabpanel" class="tab-pane fade in active" id="dancing-as-an-individual">
@@ -71,7 +71,7 @@ include("includes/navbar.php");
             <p></p>
             <p>You have the option to register to Dance as an individual. When registering to Dance, it will ask you which Organization you are participating with, and there will be an option that says “Participating as an Individual.” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
             <p>Individual Dancers are placed on a team called Gator Aides. Being a part of Gator Aides will allow you to make connections with other individual Dancers as well as our Miracle Children. Gator Aides have additional opportunities, meetings, and events throughout the year you can choose to attend that will allow you to become even more involved in our cause. </p>
-            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Rebecca Daniel, at <a href="mailto:rdaniel@floridadm.org">rdaniel@floridadm.org</a></p>
+            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Olivia Humbard, at <a href="mailto:ohumbardl@floridadm.org">ohumbard@floridadm.org</a></p>
           </div>
 
          <!-- <div role="tabpanel" class="tab-pane fade" id="in-event-dancer-tips">
