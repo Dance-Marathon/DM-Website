@@ -404,9 +404,9 @@ Thank you for making a difference in the life of a child through the Children’
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 
-				<h3>For The Kids, For The Families</h3>
-        <p>Dance Marathon at the University of Florida is very fortunate to have over 77 Miracle Families. Our Miracle Families are true inspirations and the pinnacle of what Dance Marathon stands for. The birthday parties, end-of-chemotherapy parties, and play dates that we have with the children constantly remind us of the true meaning behind “For The Kids” and “For All The Right Reasons.” The entire team at Dance Marathon is honored and privileged to have these amazing families attend Dance Marathon every year and support our students.</p>
-        <p>If you have any questions about the Family Relations program, or would like to become a Dance Marathon Miracle Family, please contact the Family Relations Overall Director, Courtney Kerwin, at <a href="mailto:ckerwin@floridadm.org">ckerwin@floridadm.org</a></p>
+				<h3>For The Families</h3>
+        <p>Dance Marathon at the University of Florida is very fortunate to have over 77 Miracle Families. Our Miracle Families are true inspirations and the pinnacle of what Dance Marathon stands for. The birthday parties, end-of-chemotherapy parties, and play dates that we have with the children constantly remind us of the true meaning behind “For All The Right Reasons.” The entire team at Dance Marathon is honored and privileged to have these amazing families attend Dance Marathon every year and support our students.</p>
+        <p>If you have any questions about the Family Relations program, or would like to become a Dance Marathon Miracle Family, please contact the Family Relations Overall Director, Scotty Trethewey, at <a href="mailto:strethewey@floridadm.org">strethewey@floridadm.org</a></p>
 
         <h3>Meet our Kids, Meet our Miracles</h3>
         <p>Take a moment to meet the heart and soul of our philanthropy. Our Miracle Children are the inspiration for every student who is part of DM at UF.</p>
