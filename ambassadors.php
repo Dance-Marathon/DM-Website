@@ -130,7 +130,7 @@ include("includes/navbar.php");
             <li>Input your information and create a new Organization.</li>
             <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing Organization team.</li>
           </ol>
-            <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Emma McClane, at <a href=mailto:emcclane@floridadm.org>emcclane@floridadm.org</a> to inform her you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
+            <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Clayton Gaulding, at <a href=mailto:cgaulding@floridadm.org>cgaulding@floridadm.org</a> to inform him you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email him to let him know you started a team.</p>
 
           </div>
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">
