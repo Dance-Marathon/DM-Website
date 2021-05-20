@@ -408,7 +408,7 @@ usort($greek_organizations, 'compareAlphabetically');
   		<?php if ($status == "open") { ?>
      <h3>Organizations</h3>
 		  <p>Over 100 Organizations at the University of Florida participate in Dance Marathon every year!</p>
-      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Rebecca Daniel, at <a href=mailto:rdaniel@floridadm.org>rdaniel@floridadm.org</a></p>
+      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Olivia Humbard, at <a href=mailto:ohumbard@floridadm.org>ohumbard@floridadm.org</a></p>
       <p>Below are the Organizations currently involved in Dance Marathon at UF 2021:</p>
 
       <table class="table table-bordered table-middle">
