@@ -50,7 +50,7 @@
           <li><a href="/Documents/TransformTodayPressRelease2015.pdf" target="_blank">Transform Today</a> 11/18/15</li>
         </ul> -->
 
-        <p>If you have any questions, please contact Maddy Whalen, Public Relations Overall Director, at <a href="mailto:mwhalen@floridadm.org">mwhalen@floridadm.org</a>.</p>
+        <p>If you have any questions, please contact Kristina Smith, Public Relations Overall Director, at <a href="mailto:ksmith@floridadm.org">ksmith@floridadm.org</a>.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
