@@ -374,16 +374,20 @@ DMA MEMBERS PAGE
           <div class="col-sm-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\yogapodlogo_cmyk.jpg"/></a>
           </div>
+                <div class="col-sm-3">
+                <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\YerbaMate.png"/></a>
+            </div>
           <div class="col-sm-3">
             <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\zaxbys.png"/></a>
-          </div>
-          <div class="col-sm-3">
-            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\LL.PNG"/></a>
           </div>
         </div>
 
         
         <div style="height: 35px;">
+        </div/
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\LL.PNG"/></a>
+        </div>
         </div>
         <div class="row">
           <div class="col-sm-3">
@@ -394,6 +398,44 @@ DMA MEMBERS PAGE
           </div>
         </div>
 
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Yeti.png"/></a>
+        </div>
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\KCB.png"/></a>
+        </div>
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\Dick's.png"/></a>
+        </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\wg.png"/></a>
+        </div>
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\yates.png"/></a>
+        </div>
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\tradewinds.jpeg"/></a>
+        </div>
+        </div>
+
+        <div style="height: 35px;">
+        </div>
+        <div class="row">
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\bagelsu.jpeg"/></a>
+        </div>
+        <div class="col-sm-3">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\bjw.png"/></a>
+        </div>
+        </div>
       </div>
 
 
