@@ -55,7 +55,7 @@
 <li>Legacy DMA Members will be offered a 20% discount on either option.</li>
 </ul>    
 <p>Although the event will look a little different, we still encourage you to put on your Black-tie attire and get ready to enjoy a night to remember, as the Miracle Gala is a beautiful night to celebrate our movement and the incredible strides we make each year!</p> 
-<p>For more information, please contact the Community Outreach Overall Director, Melissa Tempest, at mtempest@floridadm.org. We look forward to seeing you there!</p>       
+<p>For more information, please contact the Community Outreach Overall Director, Melissa Tempest, at <a href=mailto:mtempest@floridadm.org>mtempest@floridadm.org</a>. We look forward to seeing you there!</p>       
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
