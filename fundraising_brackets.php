@@ -445,7 +445,7 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="gray-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">FTK Level</h1>
+          <h1 id="bracket-title">Gray Level</h1>
           <h3 id="bracket-dancers-title"> 2 Dancers </h3>
           <h3 id="bracket-dancers-title">Minimum: $500</h3>
           <hr>
