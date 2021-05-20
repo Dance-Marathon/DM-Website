@@ -11,7 +11,7 @@
 			'previous_involvement'  =>  'Recruitment Overall Director, Recruitment Captain, Dancer, Delegate',
 			'fun_fact'				=>  'I snuck into the Pit section at an Ariana Grande concert and caught the lollipop that she threw into the crowd',
 			'favorite_memory'       =>  'Ahhh there are so many. There are many memories that stick out in my mind, and all of them revolve around the many people that have influence my life as a part of this organization. The one that is sticking out to me right now is getting my Miracle Band cut off on stage during closing ceremonies right before we raise the total for DM 2017!',
-			'continued'             =>  'I try to remain FTK in everything that I do, and I will *officially* be a pediatrician in May 2021! I\'ve spent the last 4 years of my life learning medicine to be that physician that takes care of all of the kiddos that we benefit with the money that we raise. Every day in the hospital, I see the CMN balloons everywhere, and I remember the impact that we have on the care of these children and families. Realize that the Miracle Families only represent a small fraction of all of the patients that the money that you raise benefits!',
+			'continued'             =>  'I try to honor my experiences at DM at UF in everything that I do, and I will *officially* be a pediatrician in May 2021! I\'ve spent the last 4 years of my life learning medicine to be that physician that takes care of all of the kiddos that we benefit with the money that we raise. Every day in the hospital, I see the CMN balloons everywhere, and I remember the impact that we have on the care of these children and families. Realize that the Miracle Families only represent a small fraction of all of the patients that the money that you raise benefits!',
 			'image'                 =>  'Whelihan'
 		),
 		array(
@@ -20,7 +20,7 @@
 			'previous_involvement'  =>  'Dancer (2012), Community Events Captain (2012-2015), Family Relations Captain (2015-2017), Family Relations AD of Outreach (2017), Jen Krug Award Recipient (2017), Miracle Network Dance Marathon Distinguished Leadership Award Recipient (2017), DMA General Member (2017-Present), DMA Board Member + Secretary (2019-2020), DMA Board President (2020-2021)',
 			'fun_fact'              =>  'Whenever I see someone sporting UF or Gator Sports merchandize around the City, I always say with great enthusiasm, "Go Gators!" and chomp with them! It truly is a Gator Nation, even in New York City!',
 			'favorite_memory'       =>  'My most favorite and cherished DM Memory is when Zander Wyant, a Miracle Child, became my Godson. I will forever be grateful that DM at UF brought my family and closest friends into my life!',
-			'continued'             =>  'To this day, having graduated Grad School from UF in 2017, I still live and breathe the mission of Dance Marathon in almost every, if not all, aspects of my life! To be For The Kids is a forever commitment. I am honored to serve as the President of the Dance Marathon Alumni for DM at UF 2021 and cannot wait to see the miracles we create together For All The Right Reasons! Go Gators.',
+			'continued'             =>  'To this day, having graduated Grad School from UF in 2017, I still live and breathe the mission of Dance Marathon in almost every, if not all, aspects of my life! The fight to end childhood illness is a forever commitment. I am honored to serve as the President of the Dance Marathon Alumni for DM at UF 2021 and cannot wait to see the miracles we create together For All The Right Reasons! Go Gators.',
 			'image'                 =>  'Kelsey'
 		),
 		array(
@@ -47,7 +47,7 @@
 			'previous_involvement'  =>  'I was a 4 year dancer and a creative development captain for a year.',
 			'fun_fact'              =>  'Even though I was a 4 year dancer, I think my dancing abilities actually got worse each year.',
 			'favorite_memory'       =>  'There are so many amazing Dance Marathon memories, but I think my favorite is my first year as a dancer, I remember the reveal at the end of DM and realizing we raised over a million dollars! It was in that moment that it hit me just how important and amazing Dance Marathon really was and I fell in love with the cause.',
-			'continued'             =>  'First and foremost, I’ve carried on Dance Marathon by joining the DMA to stay involved even from a thousand miles away! Also, I have continued to fundraise and to support my previous captain team members and organization’s dancers. In Boston, I enjoy talking about DM to those unfamiliar with the cause and wanting to learn more. Lastly, being a part of Dance Marathon at UF taught me so much about hard work, passion, and dedication and I try to incorporate those values into my life everyday. I\'ve loved watching DM grow and adapt each year, and I feel so blessed to have been able to been able to continue to participate, whether it\'s in the O Dome or virtually. FTK always!',
+			'continued'             =>  'First and foremost, I’ve carried on Dance Marathon by joining the DMA to stay involved even from a thousand miles away! Also, I have continued to fundraise and to support my previous captain team members and organization’s dancers. In Boston, I enjoy talking about DM to those unfamiliar with the cause and wanting to learn more. Lastly, being a part of Dance Marathon at UF taught me so much about hard work, passion, and dedication and I try to incorporate those values into my life everyday. I\'ve loved watching DM grow and adapt each year, and I feel so blessed to have been able to been able to continue to participate, whether it\'s in the O Dome or virtually.',
 			'image'                 =>  'Harvey'
 		)
 	);
@@ -327,12 +327,12 @@
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
 						<h3>Get Involved</h3>
 						<!-- This should work -->
-						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay FTK for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLScCkmkxiWUOKqgCh-ERRSKYWLf6qxTBb4anrEDXhquefkOhcQ/viewform?gxids=7628>Become a member or renew your membership today.</a></p>
+						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay a member of DM at UF for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLScCkmkxiWUOKqgCh-ERRSKYWLf6qxTBb4anrEDXhquefkOhcQ/viewform?gxids=7628>Become a member or renew your membership today.</a></p>
 						<p>Be sure to like the official page for <a href=https://www.facebook.com/FloridaDMAlumni?fref=ts>Dance Marathon at UF Alumni on Facebook</a> to stay connected with the rest of your Dance Marathon Alumni family.</p>
 
 						<h3>About</h3>
 
-<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $66,528 to our final total, exhibiting their continued passion For The Kids.</p>
+<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $66,528 to our final total, exhibiting their continued passion helping to end childhood illness.</p>
 <p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 per year and offers a variety of benefits.</p>
 
 				      <h3>Lifetime DMA Membership</h3>
