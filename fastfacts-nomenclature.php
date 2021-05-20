@@ -121,11 +121,6 @@ include("includes/navbar.php");
           Second Reference: UF Health Shands
         </p>
 
-        <h3>Motto</h3>
-        <p>
-          FTK means “For The Kids”
-        </p>
-
         <h3>Children and Their Families</h3>
         <p>
           Miracle Family
