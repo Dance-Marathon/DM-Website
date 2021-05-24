@@ -13,7 +13,7 @@
 			'fun_fact'				=>  '',
 			'favorite_memory'       =>  '',
 			'continued'             =>  '',
-			'image'                 =>  'Whelihan'
+			'image'                 =>  ''
 		),
 		array(
 			'name'                  =>  'Arie Hariton',
@@ -23,7 +23,7 @@
 			'fun_fact'              =>  '',
 			'favorite_memory'       =>  '',
 			'continued'             =>  '',
-			'image'                 =>  'Kelsey'
+			'image'                 =>  ''
 		),
 		array(
               'name'                  =>  'Kelsey Johnson',
@@ -33,7 +33,7 @@
               'fun_fact'              =>  '',
               'favorite_memory'       =>  '',
               'continued'             =>  '',
-			'image'                 =>  'Hernandez'
+			'image'                 =>  ''
 		),
 		array(
               'name'                  =>  'Johnathan Pereyra',
@@ -43,7 +43,7 @@
               'fun_fact'              =>  '',
               'favorite_memory'       =>  '',
               'continued'             =>  '',
-			'image'                 =>  'Mandese'
+			'image'                 =>  ''
 		),
 		array(
               'name'                  =>  'Jesse Sands',
@@ -53,7 +53,7 @@
               'fun_fact'              =>  '',
               'favorite_memory'       =>  '',
               'continued'             =>  '',
-			'image'                 =>  'Harvey'
+			'image'                 =>  ''
 		)
 	);
 
