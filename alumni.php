@@ -7,7 +7,7 @@
 	$overalls = array(
 		array(
 			'name'                  =>  'Alexandra "Zandy" Hernandez',
-			'email'                 =>  'ahernandez405@gmail.com',
+			'email'                 =>  '',
             'current_city'          =>  '',
 			'previous_involvement'  =>  '2017 Community Outreach Overall and DMA President 2020-2021',
 			'fun_fact'				=>  '',
@@ -17,7 +17,7 @@
 		),
 		array(
 			'name'                  =>  'Arie Hariton',
-            'email'                 =>  'ariehariton@gmail.com',
+            'email'                 =>  '',
 			'current_city'          =>  '',
 			'previous_involvement'  =>  '2018 Fundraising and Organization Development Overall',
 			'fun_fact'              =>  '',
@@ -27,7 +27,7 @@
 		),
 		array(
               'name'                  =>  'Kelsey Johnson',
-              'email'                 =>  'kelseyjohnson719@gmail.com',
+              'email'                 =>  '',
               'current_city'          =>  '',
               'previous_involvement'  =>  '2017 Merchandise Assitant Director',
               'fun_fact'              =>  '',
@@ -37,7 +37,7 @@
 		),
 		array(
               'name'                  =>  'Johnathan Pereyra',
-              'email'                 =>  'jonathanmichael224@gmail.com',
+              'email'                 =>  '',
               'current_city'          =>  '',
               'previous_involvement'  =>  '2018 Creative Development/Design & Technology Overall',
               'fun_fact'              =>  '',
@@ -47,7 +47,7 @@
 		),
 		array(
               'name'                  =>  'Jesse Sands',
-              'email'                 =>  'jsandsuf@gmail.com',
+              'email'                 =>  '',
               'current_city'          =>  '',
               'previous_involvement'  =>  '2017 Finance Manager',
               'fun_fact'              =>  '',
