@@ -36,7 +36,7 @@
 			'image'                 =>  ''
 		),
 		array(
-              'name'                  =>  'Johnathan Pereyra',
+              'name'                  =>  'Jonathan Pereyra',
               'email'                 =>  '',
               'current_city'          =>  '',
               'previous_involvement'  =>  '2018 Creative Development/Design & Technology Overall',
