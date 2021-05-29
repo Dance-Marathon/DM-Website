@@ -167,10 +167,6 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Jewish Student Union',
-    'link'          =>  ''
-    ),
-  array(
     'organization'  =>  'Kappa Alpha Order',
     'link'          =>  ''
     ),
