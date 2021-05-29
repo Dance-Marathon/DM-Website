@@ -23,10 +23,6 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Alpha Epsilon Delta',
-    'link'          =>  ''
-    ),
-  array(
     'organization'  =>  'Alpha Gamma Rho',
     'link'          =>  ''
     ),
@@ -139,10 +135,6 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Extreme Dance Company',
-    'link'          =>  ''
-    ),
-  array(
     'organization'  =>  'Footprints: Buddy and Support Program',
     'link'          =>  ''
     ),
@@ -160,10 +152,6 @@ $greek_organizations = array(
     ),
   array(
     'organization'  =>  'Hispanic Student Association',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Indian Student Association',
     'link'          =>  ''
     ),
   array(
