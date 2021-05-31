@@ -86,7 +86,7 @@
 	  	   array(
 	    'name' => 'Melissa Tempest',
 	    'position' => 'Community Outreach Overall',
-	    'email' => 'mtepest@floridadm.org',
+	    'email' => 'mtempest@floridadm.org',
 	    'previous_involvement' => 'Founder of high school Dance Marathon, Community Events Captain, Assistant Director of Event Planning for the Outreach Team ',
 	    'major' => 'Health Science',
 	    'hometown' => 'Tallahassee, FL',
