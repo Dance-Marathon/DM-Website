@@ -12,7 +12,7 @@
 	  array(
 	    'name'                  =>  'Alexis Pollak',
 	    'position'              =>  'Executive Director',
-	    'email'                 =>  'apollack@floridadm.org',
+	    'email'                 =>  'apollak@floridadm.org',
 	    'previous_involvement'  =>  'Dancer, Recruitment Captain, Assistant Director of Campus Relations, Internal Communications Manager',
 	    'major'                 =>  'Information Systems & Operations Management',
 	    'hometown'              =>  'Orlando, FL',
