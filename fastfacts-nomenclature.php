@@ -61,47 +61,42 @@ include("includes/navbar.php");
           After 2008: <b>26.2 hours</b>
         </p>
 
-        <h3>Total Hours Danced</h3>
-        <p>
-          <b>678</b> hours
-          <br/>
-          <b>388,696.2</b> hours by all of our dancers <b>combined</b> <!--change to exact-->
-          <br/>
-          Year that DM at UF started: <b>1995</b>
-        </p>
-
         <h3>Participants</h3>
         <p>
-          Number of Registered Dancers in 2020: <b>1,616</b> (maximum capacity)
+          Number of Registered Dancers in 2021: <b>640</b> (maximum capacity with COVID 19)
           <br/>
-          Number of Captains: <b>526</b>
+          Number of Captains: <b>469</b>
           <br/>
-          Number of Emerging Leaders: <b>160</b>
+          Number of Emerging Leaders: <b>153</b>
           <br/>
-          Number of Kirstyn's Krew: <b>N/A for 2020</b>
+          Number of Kirstyn's Krew: <b>27</b>
           <br/>
-          Number of Participants (including Overall Directors, Captains, Emerging Leaders and Kirstyn's Krew): <b>5,926</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
+          Number of Participants (including Overall Directors, Captains, Emerging Leaders and Kirstyn's Krew): <b>255</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
           <br/>
-          Number of Miracle Families: <b>60</b>
+          Number of Miracle Families: <b>46</b>
           <br/>
-          Number of Sponsors: <b>44</b>
+          Number of Sponsors: <b>74</b>
           <br/>
-          Most Years as a Dancer: <b>5 years</b> <!--change to exact-->
+          Most Years as a Dancer: <b>4 years</b> <!--change to exact-->
         </p>
 
         <h3>Fundraising</h3>
         <p>
-          <b>41,758</b> donations on Classy <!--change to exact-->
+          <b>44,899</b> donations on DonorDrive <!--change to exact-->
           <br/>
-          <b>2,676</b> fundraisers raised at least $1 <!--change to exact-->
+          <b>2,715</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>
-          Amount raised in 2020: <b>$2,526,418.24</b>
+          Amount raised in 2021: <b>$2,270,311.40</b>
           <br/>
-          Total amount raised in past 26 years: more than <b>24 million dollars</b>
+          Total amount raised in past 27 years: nearly <b>27 million dollars</b>
           <br/>
-        </p>
+          Alumni Contribution: $83,235.89
+          <br/>
           </div>
+        </p>
           <div role="tabpanel" class="tab-pane fade" id="nomenclature">
+                                  
+        
 
            <h3>Event Title</h3>
         <p>
