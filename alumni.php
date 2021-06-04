@@ -285,7 +285,7 @@
 
 <style>
 .page-heading.parallax.alumni {
-background-image: url("/assets/images/BannerPhotos2021/Ben_G-5.jpg");
+background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 }
 </style>
 
