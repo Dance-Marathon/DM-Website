@@ -720,7 +720,7 @@ DEFAULT TEMPLATE STYLES
   font-size: 24px;
 }
 .page-heading.parallax.about {
-   background-image: url("/assets/images/sectionbg/2021/Ambassadors.jpg");
+background-image: url("/assets/images/sectionbg/2021/Ambassadors.jpg");
 }
 .page-heading.parallax.kristynskrew {
    background-image: url("/assets/images/sectionbg/2021/kirstynskrew.png");
