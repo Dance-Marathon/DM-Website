@@ -284,7 +284,7 @@
 </script>
 
 <style>
-.page-heading.parallax.about {
+.page-heading.parallax.alumni {
 background-image: url("/assets/images/BannerPhotos2021/Ben_G-5.jpg");
 }
 </style>
