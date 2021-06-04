@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading
 
 @font-face {
   font-family:"Aveline";
-  src: url("/assets/fonts/AvelineScript.ttf") 
+  src: url("/assets/fonts/AvelineScript.ttf")
 }
 
 /*
@@ -720,7 +720,7 @@ DEFAULT TEMPLATE STYLES
   font-size: 24px;
 }
 .page-heading.parallax.about {
-   background-image: url("/assets/images/sectionbg/2021/About Us.jpg");
+   background-image: url("/assets/images/sectionbg/2021/About Us2.jpg");
 }
 .page-heading.parallax.kristynskrew {
    background-image: url("/assets/images/sectionbg/2021/kirstynskrew.png");
@@ -729,7 +729,7 @@ DEFAULT TEMPLATE STYLES
    background-image: url("/assets/images/sectionbg/2021/Our Story.jpg");
 }
 .page-heading.parallax.about-dma {
-   background-image: url("/assets/images/sectionbg/2021/Alumni.png");
+   background-image: url("/assets/images/BannerPhotos21/AidanEvans4.jpg");
 }
 .page-heading.parallax.list-dma {
    background-image: url("/assets/images/sectionbg/alumnimembersbanner.jpg");
@@ -857,7 +857,7 @@ DEFAULT TEMPLATE STYLES
 .page-heading.parallax.ft5k {
    background-image: url("/assets/images/sectionbg/2021/Miracles in color.jpg");
 }
-  
+
 /*
 .page-heading.parallax.e404 {
   background-image: url("/assets/images/sectionbg/404.jpg");
