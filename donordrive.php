@@ -7,7 +7,7 @@
 ?>
 <style>
 .page-heading.parallax.DonorDrive {
-background-image: url("/assets/images/BannerPhotos21/KVO-1091.jpg");
+background-image: url("/assets/images/BannerPhotos21/Katerina_R-51.jpg");
 }
 </style>
 <div class="page-heading parallax DonorDrive">
