@@ -6,6 +6,12 @@
 	include("includes/navbar.php");
 ?>
 
+<style>
+.page-heading.parallax.uf-health {
+background-image: url("/assets/images/BannerPhotos21/DSC04630.jpg");
+}
+</style>
+
 <div class="page-heading parallax uf-health">
   <div class="inner-wrapper">
 	  <div class="container">
