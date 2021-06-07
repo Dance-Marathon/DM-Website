@@ -372,7 +372,11 @@ Thank you for making a difference in the life of a child through the Children’
             )
         );
 ?>
-
+<style>
+.page-heading.parallax.meet_the_kids {
+background-image: url("/assets/images/BannerPhotos21/Bailly_G-52.jpg");
+}
+</style>
 <div class="page-heading parallax meet_the_kids">
   <div class="inner-wrapper">
 	  <div class="container">
