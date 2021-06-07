@@ -5,7 +5,11 @@ $GLOBALS['parent'] = 'about';
 include("includes/head.php");
 include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.about {
+background-image: url("/assets/images/BannerPhotos21/Sarena_S-12 (1).jpg");
+}
+</style>
 <div class="page-heading parallax fast-facts">
   <div class="inner-wrapper">
    <div class="container">
