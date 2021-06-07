@@ -357,7 +357,11 @@ function compareAlphabetically($a, $b) {
 }
 usort($greek_organizations, 'compareAlphabetically');
 ?>
-
+<style>
+.page-heading.parallax.orgs {
+background-image: url("/assets/images/BannerPhotos21/KVO-1615.jpg");
+}
+</style>
 <div class="page-heading parallax orgs">
   <div class="inner-wrapper">
    <div class="container">
