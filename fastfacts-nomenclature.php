@@ -7,7 +7,7 @@ include("includes/navbar.php");
 ?>
 <style>
 .page-heading.parallax.about {
-background-image: url("/assets/images/BannerPhotos21/Sarena_S-12 (1).jpg");
+background-image: url("/assets/images/BannerPhotos21/Sarena_S-12.jpg");
 }
 </style>
 <div class="page-heading parallax fast-facts">
