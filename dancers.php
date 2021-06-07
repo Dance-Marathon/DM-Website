@@ -5,7 +5,11 @@ $GLOBALS['parent'] = 'get-involved';
 include("includes/head.php");
 include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.dancers {
+background-image: url("/assets/images/BannerPhotos21/Rachel_F-0710.jpg");
+}
+</style>
 <div class="page-heading parallax dancers">
   <div class="inner-wrapper">
    <div class="container">
