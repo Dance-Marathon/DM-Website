@@ -42,7 +42,11 @@ include("includes/navbar.php");
    $('.emergingleaders').append('</tr>');
 
 </script>
-
+<style>
+.page-heading.parallax.elp {
+background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
+}
+</style>
 <div class="page-heading parallax elp">
  <div class="inner-wrapper">
 	 <div class="container">
