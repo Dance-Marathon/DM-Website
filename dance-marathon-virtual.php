@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.gala {
+background-image: url("/assets/images/BannerPhotos21/erica_marjorie-116.jpg");
+}
+</style>
 <div class="page-heading parallax gala">
   <div class="inner-wrapper">
 	  <div class="container">
