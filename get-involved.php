@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.get-involved {
+background-image: url("/assets/images/BannerPhotos21/IMG_3231.jpg");
+}
+</style>
 <div class="page-heading parallax get-involved">
   <div class="inner-wrapper">
 	  <div class="container">
