@@ -2,6 +2,11 @@
   $GLOBALS['page_title'] = 'Dance Marathon at UF';
   include("includes/head.php");
 ?>
+<style>
+.page-heading.parallax.index {
+background-image: url("/assets/images/BannerPhotos21/Charles-H-5.jpg");
+}
+</style>
 <!-- intro -->
 <div class="top">
   <div class="intro">
