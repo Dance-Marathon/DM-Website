@@ -6,7 +6,7 @@
 	include("includes/navbar.php");
 ?>
 <style>
-.page-heading.parallax.kirstynskrew {
+.page-heading.parallax.kristynskrew {
 background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD239.jpg");
 }
 </style>
