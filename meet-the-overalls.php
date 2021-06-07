@@ -321,6 +321,11 @@
   );
 ?>
 
+<style>
+.page-heading.parallax.meet-the-overalls {
+background-image: url("/assets/images/BannerPhotos21/Charles-H-5.jpg");
+}
+</style>
 
 <div class="page-heading parallax meet-the-overalls">
   <div class="inner-wrapper">
