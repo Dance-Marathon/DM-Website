@@ -6,10 +6,6 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 
-<style>
-.page-heading.parallax.fast-facts {
-   background-image: url("/assets/images/BannerPhotos21/Sarena_S-12 (1).jpg");
-}
 <div class="page-heading parallax fast-facts">
   <div class="inner-wrapper">
    <div class="container">
