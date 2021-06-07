@@ -6,7 +6,7 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 <style>
-.page-heading.parallax.about {
+.page-heading.parallax.fast-facts {
 background-image: url("/assets/images/BannerPhotos21/Sarena_S-12.jpg");
 }
 </style>
