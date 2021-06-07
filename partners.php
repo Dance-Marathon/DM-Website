@@ -26,7 +26,11 @@ DMA MEMBERS PAGE
 	font-weight: 700;
 }
 </style>
-
+<style>
+.page-heading.parallax.sponsors {
+background-image: url("/assets/images/BannerPhotos21/IMG_6476.jpg");
+}
+</style>
 <div class="page-heading parallax sponsors">
   <div class="inner-wrapper">
     <div class="container">
