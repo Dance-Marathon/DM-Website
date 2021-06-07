@@ -5,7 +5,11 @@ $GLOBALS['parent'] = '';
 include("includes/head.php");
 include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.register_fundraise {
+background-image: url("/assets/images/BannerPhotos21/IMG_8130.jpg");
+}
+</style>
 <div class="page-heading parallax register_fundraise">
 	<div class="inner-wrapper">
 		<div class="container">
