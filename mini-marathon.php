@@ -129,7 +129,11 @@
 						),
         );
 ?>
-
+<style>
+.page-heading.parallax.hsdm-events {
+background-image: url("/assets/images/BannerPhotos21/Katerina_R-29.jpg");
+}
+</style>
 <div class="page-heading parallax hsdm-events">
   <div class="inner-wrapper">
 	  <div class="container">
