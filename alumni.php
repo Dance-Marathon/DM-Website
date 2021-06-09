@@ -43,7 +43,7 @@
               'fun_fact'              =>  'I bleached my hair for DM and my team called me Blondathon',
               'favorite_memory'       =>  'Driving around Gainesville with my team delivering Mac and Cheese for our Spring fundraiser.',
               'continued'             =>  'A little bit of Dance Marathon has been with me since graduation, whether it be continuing app development in my career, attending the event as an alumni, or reaching out to the current members of Creative Development/Design & Technology and supporting them in whatever way I can.',
-			'image'                 =>  'Jpereyra.jpeg'
+			'image'                 =>  'Jpereyra'
 		),
 		array(
               'name'                  =>  'Jesse Sands',
@@ -408,7 +408,7 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 			          } ?>
 			          <div class="col-sm-4">
 			            <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-			              <img class="img-circle img-thumbnail" src="<?php echo ('/assets/images/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
+			              <img class="img-circle img-thumbnail" src="<?php echo ('/assets/images/DMA_Headshots21/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
 			              <h3><?php echo $overalls[$i]['name']; ?></h3>
 			            </a>
 			            <p style="text-align: center;">
