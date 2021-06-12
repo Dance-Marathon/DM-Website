@@ -115,11 +115,7 @@ Eli received outpatient occupational and physical therapy at UF Health Rehab Cen
 						'description' => 'Emily Monroe was born premature at 23 weeks and started life being blind in her right eye. Eventually, her family started to notice that she was having more trouble seeing and were concerned about the vision in her left eye. Doctors at UF Health Shands Children’s Hospital diagnosed her with uveitis. Despite her diagnosis, Emily  is full of energy and loves the movie Frozen!',
 						'image' => 'EmilyMonroe',
 		        ),
-	    	array(
-					'name'  => 'Evangeline O.',
-					'description' => 'Evangeline Owens has a genetic disorder called mitochondrial disease. Mito, for short, causes the cells to be unable to produce enough energy for the affected organs to work properly. Evangeline has seven affected organ systems, and much of her daily life is supported in some way by surgical interventions, medical equipment, medications, and supplements.  However, because of CMN and the great care she receives at UF Health Shands Children’s Hospital, she gets to focus on just being a kid. She loves gymnastics and Minecraft. Evangeline’s favorite color is purple, and she wants to be a doctor when she grows up!',
-					'image' => 'EvangelineOwens',
-					),
+	    	
         array(
             'name'  => 'Hannah S.',
             'description' => 'In 2004, Joel Strickland was diagnosed with cystinosis, and Hannah Strickland has since been diagnosed with cystinosis as well. Joel started his treatment at UF Health Shands Children’s Hospital when their family received the news that Joel’s underlying condition caused renal failure, and he would need a kidney transplant. There have been so many little blessings along Joel and Hannah’s recent journey amidst their trials. Child Life has been especially relevant to both Hannah and Joel. Their many specialists have genuinely touched Joel and Hannah’s family.',
