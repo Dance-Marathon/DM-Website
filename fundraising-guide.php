@@ -40,7 +40,7 @@ background-image: url("/assets/images/BannerPhotos21/MA-9963.JPG");
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 			 <p>Take a look at all the different ways you can fundraise with Dance Marathon at UF! Whether you ask friends and family to support you, showcase your passion on social media, participate in canning, or volunteer your time for donations, there are so many ways to fundraise for DM at UF. Read more about all of these options below!</p>
-			 <p> Check out our fundraising guide <a href="assets/PDFs/FundraisingKit_2021.pdf" target="_blank">here.</a>
+			 <p> Check out our fundraising guide <a href="assets/PDFs/FundraisingKit2022.pdf" target="_blank">here.</a>
 			 <p> Check out our resource folder <a href="https://drive.google.com/drive/folders/1juPbkFsqrFn6Sec6FY_KM9HVUfWMRXlQ?usp=sharing" target="_blank">here.</a>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
