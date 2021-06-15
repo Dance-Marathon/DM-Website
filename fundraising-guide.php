@@ -28,7 +28,7 @@ background-image: url("/assets/images/BannerPhotos21/MA-9963.JPG");
 		<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						
+
 						<li><a href ="/donordrive">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a class="active">Fundraising Guide</a></li>
@@ -41,7 +41,6 @@ background-image: url("/assets/images/BannerPhotos21/MA-9963.JPG");
       <?php if ($status == "open") { ?>
 			 <p>Take a look at all the different ways you can fundraise with Dance Marathon at UF! Whether you ask friends and family to support you, showcase your passion on social media, participate in canning, or volunteer your time for donations, there are so many ways to fundraise for DM at UF. Read more about all of these options below!</p>
 			 <p> Check out our fundraising guide <a href="assets/PDFs/FundraisingKit2022.pdf" target="_blank">here.</a>
-			 <p> Check out our resource folder <a href="https://drive.google.com/drive/folders/1juPbkFsqrFn6Sec6FY_KM9HVUfWMRXlQ?usp=sharing" target="_blank">here.</a>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
@@ -98,7 +97,7 @@ background-image: url("/assets/images/BannerPhotos21/MA-9963.JPG");
 								 <ul>
 								 <b><li>What is it?</b> - Soliciting loose change and small dollar donations outside of public places or businesses in order to benefit Dance Marathon at the University of Florida and UF Health Shands Children’s Hospital.</li>
 								 <b><li>How can I benefit?</b>- The money you raise via these efforts can be credited to your personal fundraising page as you look to raise more money and awareness!</li>
-								 <b><li>How to do it?</b> - First, obtain specially designed canning buckets from our Fundraising & Organization Development Team (contact <a href="mailto:cgaulding@floridadm.org">cgaulding@floridadm.org</a> for further information). Email, call, or go inside a local business in your hometown and request to speak to the General Manager regarding canning donations. They will be sure and inform you of all the necessary regulations, and allow you to coordinate a time that works for both you and the business. Be sure and show up promptly and dressed in Dance Marathon at UF attire to help spread your message! From there, talk to customers as they leave the business about donating to your cause. No donation is too small and every amount helps make miracles! </li>
+								 <b><li>How to do it?</b> - First, obtain specially designed canning buckets from our Sponsorships Team (contact <a href="mailto:ehull@floridadm.org">ehull@floridadm.org</a> for further information). Email, call, or go inside a local business in your hometown and request to speak to the General Manager regarding canning donations. They will be sure and inform you of all the necessary regulations, and allow you to coordinate a time that works for both you and the business. Be sure and show up promptly and dressed in Dance Marathon at UF attire to help spread your message! From there, talk to customers as they leave the business about donating to your cause. No donation is too small and every amount helps make miracles! </li>
 								 </ul>
 
 								 <!--<a href="assets/PDFs/Incentive-Levels-2018.pdf" target="_blank"> <h4>Fundraising Levels</h4> </a>-->
