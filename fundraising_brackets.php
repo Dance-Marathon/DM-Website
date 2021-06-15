@@ -118,7 +118,11 @@ include("includes/navbar.php");
   }
 </style>
 
-
+<style>
+.page-heading.parallax.brackets {
+background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg");
+}
+</style>
 <div class="page-heading parallax brackets">
   <div class="inner-wrapper">
    <div class="container">
@@ -445,7 +449,7 @@ include("includes/navbar.php");
     <div class="col-md-12">
         <div id="gray-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">FTK Level</h1>
+          <h1 id="bracket-title">Gray Level</h1>
           <h3 id="bracket-dancers-title"> 2 Dancers </h3>
           <h3 id="bracket-dancers-title">Minimum: $500</h3>
           <hr>

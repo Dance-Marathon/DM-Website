@@ -23,10 +23,6 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Alpha Epsilon Delta',
-    'link'          =>  ''
-    ),
-  array(
     'organization'  =>  'Alpha Gamma Rho',
     'link'          =>  ''
     ),
@@ -139,10 +135,6 @@ $greek_organizations = array(
     'link'          =>  ''
     ),
   array(
-    'organization'  =>  'Extreme Dance Company',
-    'link'          =>  ''
-    ),
-  array(
     'organization'  =>  'Footprints: Buddy and Support Program',
     'link'          =>  ''
     ),
@@ -160,14 +152,6 @@ $greek_organizations = array(
     ),
   array(
     'organization'  =>  'Hispanic Student Association',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Indian Student Association',
-    'link'          =>  ''
-    ),
-  array(
-    'organization'  =>  'Jewish Student Union',
     'link'          =>  ''
     ),
   array(
@@ -373,7 +357,11 @@ function compareAlphabetically($a, $b) {
 }
 usort($greek_organizations, 'compareAlphabetically');
 ?>
-
+<style>
+.page-heading.parallax.orgs {
+background-image: url("/assets/images/BannerPhotos21/KVO-1615.jpg");
+}
+</style>
 <div class="page-heading parallax orgs">
   <div class="inner-wrapper">
    <div class="container">
@@ -408,7 +396,7 @@ usort($greek_organizations, 'compareAlphabetically');
   		<?php if ($status == "open") { ?>
      <h3>Organizations</h3>
 		  <p>Over 100 Organizations at the University of Florida participate in Dance Marathon every year!</p>
-      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Rebecca Daniel, at <a href=mailto:rdaniel@floridadm.org>rdaniel@floridadm.org</a></p>
+      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Olivia Humbard, at <a href=mailto:ohumbard@floridadm.org>ohumbard@floridadm.org</a></p>
       <p>Below are the Organizations currently involved in Dance Marathon at UF 2021:</p>
 
       <table class="table table-bordered table-middle">

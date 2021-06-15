@@ -14,7 +14,7 @@
       </ol> -->
       <div class="carousel-inner">
         <div class="item active">
-          <img class="img-responsive"  src="assets/images/sectionbg/2021/home page.png">
+          <img class="img-responsive"  src="assets/images/sectionbg/2021/TotalReveal.jpeg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <!-- <div class="col-md-6">
@@ -211,8 +211,8 @@
 
 
 
-      <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated its 26th year by raising a historic <i style="color:#617ba6;"><b>$2,526,418.24</b></i>!<br/>Join us on April 10 - 11, 2021 in the O'Connell Center as we continue to make miracles <ii style="color:#f79b63;">
-        <b> For The Kids!</b></i></br> <i  >
+      <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated its 27th year by raising a historic <i style="color:#617ba6;"><b>$2,270,311.40</b></i>!<br/>
+
            <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
 </b></a>
 </i></p>
@@ -226,7 +226,7 @@
       <div class="col-md-3">
         <i class="fa icon-foot"></i>
         <h3>Our Story</h3>
-        <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $21.5 million For The Kids at UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
+        <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $21.5 million for the Miracle Families UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
         <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
       </div>
       <div class="col-md-3">
@@ -240,7 +240,7 @@
       <div class="col-md-3">
         <i class="fa icon-shirt"></i>
         <h3>Silent Auction</h3>
-        <p>Check out the awesome items available in our silent auction! From exotic vacations to Tiffany's jewelry, we've got anything you could want. And the best part is that it's all For The Kids!</p>
+        <p>Check out the awesome items available in our silent auction! From exotic vacations to Tiffany's jewelry, we've got anything you could want.</p>
         <p><a class="btn btn-default" href="https://www.winningcause.org/dancemarathonatuf/" role="button" target="_blank">Shop Now</a></p>
       </div>
 -->

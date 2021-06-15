@@ -5,7 +5,11 @@
   include("includes/head.php");
   include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.employee-matching {
+background-image: url("/assets/images/BannerPhotos21/KVO-1172.jpg");
+}
+</style>
 <div class="page-heading parallax employee-matching">
   <div class="inner-wrapper">
     <div class="container">
@@ -38,7 +42,7 @@
 
       <h3>Employee Matching</h3>
       <p>
-        Have you considered that your company might match your donation and multiply your contribution For The Kids? Every company has its own guidelines for matching. To find out if your company has a matching program, visit <a href="https://www.matchinggifts.com/uff">https://www.matchinggifts.com/uff</a>.
+        Have you considered that your company might match your donation and multiply your contribution? Every company has its own guidelines for matching. To find out if your company has a matching program, visit <a href="https://www.matchinggifts.com/uff">https://www.matchinggifts.com/uff</a>.
       </p>
 
       <p>
@@ -50,7 +54,7 @@
           If your company uses an online platform for gift matching, submit an online gift matching verification form through your company’s portal and use the information listed below as the destination for your contribution. To be appropriately matched in the most efficient manner, we encourage matching through our preferred donation location listed below. Shands Teaching Hospital and Clinics, Inc. is our local Children’s Miracle Network Hospital and it is easiest to complete your employee match through this local option.
         </li>
         <li>
-        Obtain a matching gift verification form from your Human Resources Department.  Complete the form and list our organization name below.  If you directed your donation to Children’s Miracle Network, please email <a href="mailto:coverholt@floridadm.org">coverholt@floridadm.org</a> with a copy of the matching gift verification form.
+        Obtain a matching gift verification form from your Human Resources Department.  Complete the form and list our organization name below.  If you directed your donation to Children’s Miracle Network, please email <a href="mailto:apollack@floridadm.org">apollack@floridadm.org</a> with a copy of the matching gift verification form.
         </li>
       </ol>
 
@@ -69,7 +73,7 @@
           Gainesville, FL 32610-0386
       </address>
 
-* PLEASE NOTE: If you are selecting this preferred donation location, please do not list Dance Marathon at the University of Florida or CMN as the matching entity. Many companies will not accept this request, as our tax exempt status is included under the larger umbrella of Shands Teaching Hospital and Clinics, Inc. If you have any questions about this process, please reach out to Lindsay Ritenbaugh, Development Associate for Children’s Miracle Network, for clarification at RITENL@shands.ufl.edu.
+* PLEASE NOTE: If you are selecting this preferred donation location, please do not list Dance Marathon at the University of Florida or CMN as the matching entity. Many companies will not accept this request, as our tax exempt status is included under the larger umbrella of Shands Teaching Hospital and Clinics, Inc. If you have any questions about this process, please reach out to Lindsay Ritenbaugh, Development Associate for Children’s Miracle Network, for clarification at <a href=mailto:RITENL@shands.ufl.edu>RITENL@shands.ufl.edu.</a>
 
       <h3>Alternative Donation Location</h3>
       <address>
@@ -99,12 +103,12 @@
         </ul>
       <p>
         <strong>
-          PLEASE NOTE: Notify Kelsea Henry at <a href="mailto:khenry@floridadm.org">khenry@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
+          PLEASE NOTE: Notify Kayla Anschuetz at <a href="mailto:kanschuetz@floridadm.org">kanschuetz@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
         </strong>
       </p>
       <p>
         <strong>
-          Important - Please do not fill out any forms sent with checks; instead turn them in directly into the Finance Manager reachable at <a href="mailto:khenry@floridadm.org">khenry@floridadm.org</a>.
+          Important - Please do not fill out any forms sent with checks; instead turn them in directly into the Finance Manager reachable at <a href="mailto:kanschuetz@floridadm.org">kanschuetz@floridadm.org</a>.
         </strong>
       </p>
 

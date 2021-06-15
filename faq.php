@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.faq {
+background-image: url("/assets/images/BannerPhotos21/Belleview-MadiA-3067.JPG");
+}
+</style>
 <div class="page-heading parallax faq">
   <div class="inner-wrapper">
 	  <div class="container">
@@ -61,7 +65,7 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-                Please contact our Public Relations Overall Director, Maddy Whalen, at <a href="mailto:mwhalen@floridadm.org">mwhalen@floridadm.org</a>.
+                Please contact our Public Relations Overall Director, Kristina Smith, at <a href="mailto:ksmith@floridadm.org">ksmith@floridadm.org</a>.
               </div>
             </div>
           </div>

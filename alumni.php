@@ -6,49 +6,54 @@
 	include("includes/navbar.php");
 	$overalls = array(
 		array(
-			'name'                  =>  'Joey Whelihan',
-			'current_city'          =>  'Gainesville, FL',
-			'previous_involvement'  =>  'Recruitment Overall Director, Recruitment Captain, Dancer, Delegate',
-			'fun_fact'				=>  'I snuck into the Pit section at an Ariana Grande concert and caught the lollipop that she threw into the crowd',
-			'favorite_memory'       =>  'Ahhh there are so many. There are many memories that stick out in my mind, and all of them revolve around the many people that have influence my life as a part of this organization. The one that is sticking out to me right now is getting my Miracle Band cut off on stage during closing ceremonies right before we raise the total for DM 2017!',
-			'continued'             =>  'I try to remain FTK in everything that I do, and I will *officially* be a pediatrician in May 2021! I\'ve spent the last 4 years of my life learning medicine to be that physician that takes care of all of the kiddos that we benefit with the money that we raise. Every day in the hospital, I see the CMN balloons everywhere, and I remember the impact that we have on the care of these children and families. Realize that the Miracle Families only represent a small fraction of all of the patients that the money that you raise benefits!',
-			'image'                 =>  'Whelihan'
+			'name'                  =>  'Alexandra "Zandy" Hernandez',
+			'email'                 =>  '',
+            'current_city'          =>  'Atlanta, GA',
+			'previous_involvement'  =>  '"2015 Recruitment Captain, 2016 Recruitment Assistant Director, 2017 Outreach Overall Director, 2021 DMA Board Member, 2022 DMA President"',
+			'fun_fact'				=>  'I ate pizza for dinner for a week straight because I was dedicated to going to the various hospitality nights that week.',
+			'favorite_memory'       =>  'I will never forget standing with my fellow Recruitment Captains during closing ceremonies of Dance Marathon at UF 2015.  When we realized we had raised over $2 million for the first time, we burst into tears and a huge group hug. I would not have wanted to share that moment with anyone else.',
+			'continued'             =>  'My involvement in Dance Marathon shaped me both professionally and personally.  It left such a profound impact on my life that I love sharing with others whenever given the chance.  My time on the DMA Board has provided me with a more hands on opportunity to continue my involvement with DM and raise awareness for the cause.',
+			'image'                 =>  'AHernandez'
 		),
 		array(
-			'name'                  =>  'Kelsey Torgerson',
-			'current_city'          =>  'Manhattan, New York City',
-			'previous_involvement'  =>  'Dancer (2012), Community Events Captain (2012-2015), Family Relations Captain (2015-2017), Family Relations AD of Outreach (2017), Jen Krug Award Recipient (2017), Miracle Network Dance Marathon Distinguished Leadership Award Recipient (2017), DMA General Member (2017-Present), DMA Board Member + Secretary (2019-2020), DMA Board President (2020-2021)',
-			'fun_fact'              =>  'Whenever I see someone sporting UF or Gator Sports merchandize around the City, I always say with great enthusiasm, "Go Gators!" and chomp with them! It truly is a Gator Nation, even in New York City!',
-			'favorite_memory'       =>  'My most favorite and cherished DM Memory is when Zander Wyant, a Miracle Child, became my Godson. I will forever be grateful that DM at UF brought my family and closest friends into my life!',
-			'continued'             =>  'To this day, having graduated Grad School from UF in 2017, I still live and breathe the mission of Dance Marathon in almost every, if not all, aspects of my life! To be For The Kids is a forever commitment. I am honored to serve as the President of the Dance Marathon Alumni for DM at UF 2021 and cannot wait to see the miracles we create together For All The Right Reasons! Go Gators.',
-			'image'                 =>  'Kelsey'
+			'name'                  =>  'Arie Hariton',
+            'email'                 =>  '',
+			'current_city'          =>  'San Francisco, CA',
+			'previous_involvement'  =>  'Fundraising Overall 2018, Fundraising Captain 2017',
+			'fun_fact'              =>  'I have been to all 7 continents',
+			'favorite_memory'       =>  'Raising the numbers for the first year DM raised over $3 million and seeing the joy and reactions from everyone.',
+			'continued'             =>  'Participated in DMA events, kept up with Miracle Families through social media, and continued to donate to members of the Fundraising team!',
+			'image'                 =>  'AriH'
 		),
 		array(
-			'name'                  =>  'Alexandra ("Zandy") Hernandez',
-			'current_city'          =>  'Asheville',
-			'previous_involvement'  =>  'I served as a Recruitment Captain for a year, a Recruitment Assistant Director for a year, and then as the first Outreach Overall, starting the Miracle Gala and working with the DMA',
-			'fun_fact'              =>  'I ate pizza for every meal for a week because (1) I love pizza, and (2) it raised money for DM',
-			'favorite_memory'       =>  'Transform Today.  The energy on campus is unmatched and everyone comes together in such an incredible way.  Transform Today my senior year was unforgettable.  We set out to raise $262,000 and raised $422,557.  I will never forget the moment when our Finance Manager walked out and told us the total.  We were in awe, and I continue to be in awe of what DM at UF is capable of doing on Transform Today.',
-			'continued'             =>  'I carry on Dance Marathon by giving back every year, and by keeping it as a part of my conversations.  Dance Marathon defined my college experience, and whenever I have the opportunity to share the cause, I do.',
-			'image'                 =>  'Hernandez'
+              'name'                  =>  'Kelsey Johnson',
+              'email'                 =>  '',
+              'current_city'          =>  'Saint Augustine, FL',
+              'previous_involvement'  =>  '"Dancer - 2014, Captain, Marketing - 2015, Captain, Merchandise - 2016, Assistant Director, Merchandise - 2017"',
+              'fun_fact'              =>  'I have a habit of doing embarrassing things for donations. I once turned myself into a peanut butter & jelly sandwich, and have run the 5K dressed as an alien and in a banana costume!',
+              'favorite_memory'       =>  'Performing in the DM Talent Show as Nick Mullen backup dancers as he sang Man in the Mirror by Michael Jackson, or embarrassing Mr. Scott Mullen year after year by winning fundraising challenges!',
+              'continued'             =>  'I have continued to both fundraise and donate to Dance Marathon since I graduated from UF in 2017 and have had the opportunity to attend the event as an alumna. This past year I was also able to stay involved with the DMA miracle family, the Mullens, and consider their family as my extended famil.',
+			'image'                 =>  'KJohnson'
 		),
 		array(
-			'name'                  =>  'Maria Mandese',
-			'current_city'          =>  'Orlando, Florida',
-			'previous_involvement'  =>  '2013: Dancer</br>2014: Morale Captain</br>2015: Morale Captain + Line dance Team</br>2016: Morale Captain</br>2016-2020: DMA Member</p>',
-			'fun_fact'              =>  'When I was in middle school, my grandparents sent me to Space Camp at Kennedy Space Center! I also don’t know how to whistle!',
-			'favorite_memory'       =>  'WOW, so many incredible memories to choose from! I would have to say one being when I had the amazing privilege and honor to receive the Jen Krug Award my senior year. As it was announced, I felt my fellow morale captains and best friends surround me, hugging and holding me (since I literally almost fell to the ground). What a truly special and unforgettable moment as I walked to receive the award hugging some of the miracle children and their families along the way who have touched my life forever. This moment still brings tears to my eyes because I know that DM has made me who I am today, it has given me so much joy, hope and love. This award meant everything to me; it was for these miracle children who I will continue to fight for every day, for the millions of dollars raised, and for the passion I will always have for this amazing cause. ALSO can\'t forget, getting to dress up in crazy costumes while doing the line dance are some of my favorite memories as well. :)',
-			'continued'             =>  'Dance Marathon led me to my career as a Certified Child Life Specialist, where I help children and families cope with the psychosocial stressors and challenges of a child’s hospitalization. I continue to use my passion for Dance Marathon every day as a Child Life Specialist working at a Children’s Miracle Network hospital, Arnold Palmer Hospital for Children in Orlando, Florida (full circle right!?). I owe so much to Dance Marathon and have been back to Dance Marathon for the past 4 years since graduating (of course virtually this year!!). I will continue to go back every year and continue to fight, raise money and dance for these kiddos who deserve a chance to be a kid and have a future!',
-			'image'                 =>  'Mandese'
+              'name'                  =>  'Jonathan Pereyra',
+              'email'                 =>  '',
+              'current_city'          =>  'Fort Lauderdale, FL',
+              'previous_involvement'  =>  'Creative Development Overall 2018',
+              'fun_fact'              =>  'I bleached my hair for DM and my team called me Blondathon',
+              'favorite_memory'       =>  'Driving around Gainesville with my team delivering Mac and Cheese for our Spring fundraiser.',
+              'continued'             =>  'A little bit of Dance Marathon has been with me since graduation, whether it be continuing app development in my career, attending the event as an alumni, or reaching out to the current members of Creative Development/Design & Technology and supporting them in whatever way I can.',
+			'image'                 =>  'Jpereyra'
 		),
 		array(
-			'name'                  =>  'Mary Hanvey',
-			'current_city'          =>  'Boston, MA',
-			'previous_involvement'  =>  'I was a 4 year dancer and a creative development captain for a year.',
-			'fun_fact'              =>  'Even though I was a 4 year dancer, I think my dancing abilities actually got worse each year.',
-			'favorite_memory'       =>  'There are so many amazing Dance Marathon memories, but I think my favorite is my first year as a dancer, I remember the reveal at the end of DM and realizing we raised over a million dollars! It was in that moment that it hit me just how important and amazing Dance Marathon really was and I fell in love with the cause.',
-			'continued'             =>  'First and foremost, I’ve carried on Dance Marathon by joining the DMA to stay involved even from a thousand miles away! Also, I have continued to fundraise and to support my previous captain team members and organization’s dancers. In Boston, I enjoy talking about DM to those unfamiliar with the cause and wanting to learn more. Lastly, being a part of Dance Marathon at UF taught me so much about hard work, passion, and dedication and I try to incorporate those values into my life everyday. I\'ve loved watching DM grow and adapt each year, and I feel so blessed to have been able to been able to continue to participate, whether it\'s in the O Dome or virtually. FTK always!',
-			'image'                 =>  'Harvey'
+              'name'                  =>  'Jesse Sands',
+              'email'                 =>  '',
+              'current_city'          =>  'Atlanta, GA',
+              'previous_involvement'  =>  '2017 Finance Manager',
+              'fun_fact'              =>  'I spent ages 6-12 living in the Netherlands',
+              'favorite_memory'       =>  'I had the opportunity to spend an hour at the top of the ODome during the event as an OT member.  Seeing the joy of the miracle families and the dancers really made me appreciate the opportunity to be there and all of the hard work of the folks involved to get us to that day.',
+              'continued'             =>  'I have continued to stay involved through the DMAlumni organization and still keep in touch with some of the miracle families I met at UF',
+			'image'                 =>  'JesseS'
 		)
 	);
 
@@ -278,7 +283,11 @@
  });
 </script>
 
-
+<style>
+.page-heading.parallax.alumni {
+background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
+}
+</style>
 
 <div class="page-heading parallax alumni">
   <div class="inner-wrapper">
@@ -327,12 +336,12 @@
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
 						<h3>Get Involved</h3>
 						<!-- This should work -->
-						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay FTK for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLScCkmkxiWUOKqgCh-ERRSKYWLf6qxTBb4anrEDXhquefkOhcQ/viewform?gxids=7628>Become a member or renew your membership today.</a></p>
+						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay a member of DM at UF for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLScCkmkxiWUOKqgCh-ERRSKYWLf6qxTBb4anrEDXhquefkOhcQ/viewform?gxids=7628>Become a member or renew your membership today.</a></p>
 						<p>Be sure to like the official page for <a href=https://www.facebook.com/FloridaDMAlumni?fref=ts>Dance Marathon at UF Alumni on Facebook</a> to stay connected with the rest of your Dance Marathon Alumni family.</p>
 
 						<h3>About</h3>
 
-<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $66,528 to our final total, exhibiting their continued passion For The Kids.</p>
+<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $66,528 to our final total, exhibiting their continued passion helping to end childhood illness.</p>
 <p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 per year and offers a variety of benefits.</p>
 
 				      <h3>Lifetime DMA Membership</h3>
@@ -399,7 +408,7 @@
 			          } ?>
 			          <div class="col-sm-4">
 			            <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-			              <img class="img-circle img-thumbnail" src="<?php echo ('/assets/images/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
+			              <img class="img-circle img-thumbnail" src="<?php echo ('/assets/images/DMA_Headshots21/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
 			              <h3><?php echo $overalls[$i]['name']; ?></h3>
 			            </a>
 			            <p style="text-align: center;">

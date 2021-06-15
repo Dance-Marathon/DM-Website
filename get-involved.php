@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.get-involved {
+background-image: url("/assets/images/BannerPhotos21/IMG_3231.jpg");
+}
+</style>
 <div class="page-heading parallax get-involved">
   <div class="inner-wrapper">
 	  <div class="container">
@@ -38,7 +42,7 @@
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-			 <p>Take a look at all of the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Dancer, Emerging Leader, Ambassador, Fundraiser, or member of Kirstyn’s Krew, this page is your path to getting involved! There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and help us make miracles For The Kids.</p>
+			 <p>Take a look at all of the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Dancer, Emerging Leader, Ambassador, Fundraiser, or member of Kirstyn’s Krew, this page is your path to getting involved! There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and help us make miracles.</p>
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
@@ -76,7 +80,7 @@
 								<p>If you would like to get involved with our organization, check out the list of positions below!</p>
 
 									   <ul><a href="/organizations"><b>Organization:</b></a> 	Student Organizations work year-round to support our cause.</ul>
-                     <ul><a href="/dancers"><b>Dancer:</b></a> Dancers stand on their feet if able for the duration of our Main Event in April to raise funds and awareness For The Kids at UF Health Shands Children’s Hospital.</ul>
+                     <ul><a href="/dancers"><b>Dancer:</b></a> Dancers stand on their feet if able for the duration of our Main Event in April to raise funds and awareness for UF Health Shands Children’s Hospital.</ul>
 										 <ul><a href="/emerging-leaders"><b>Emerging Leader:</b> </a> Members of our Emerging Leaders Program work alongside the Recruitment Team, providing support to Captain Teams and brainstorming new ideas to ensure a successful future for our organization.</ul>
                      <ul><a href="/captain-teams"><b>Captain:</b> </a> Captains belong to 1 of 16 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
                      <ul><a href="/captain-teams"><b>Assistant Directors:</b> </a> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain Teams.</ul>
