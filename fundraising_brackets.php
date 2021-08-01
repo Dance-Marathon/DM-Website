@@ -118,7 +118,11 @@ include("includes/navbar.php");
   }
 </style>
 
-
+<style>
+.page-heading.parallax.brackets {
+background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg");
+}
+</style>
 <div class="page-heading parallax brackets">
   <div class="inner-wrapper">
    <div class="container">

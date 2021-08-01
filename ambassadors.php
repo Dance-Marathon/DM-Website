@@ -43,6 +43,12 @@ include("includes/navbar.php");
 
 </script> -->
 
+<style>
+.page-heading.parallax.delegates {
+background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg");
+}
+</style>
+
 <div class="page-heading parallax delegates">
   <div class="inner-wrapper">
    <div class="container">

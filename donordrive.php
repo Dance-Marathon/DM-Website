@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.DonorDrive {
+background-image: url("/assets/images/BannerPhotos21/Katerina_R-51.jpg");
+}
+</style>
 <div class="page-heading parallax DonorDrive">
   <div class="inner-wrapper">
 	  <div class="container">
@@ -24,7 +28,7 @@
 			<div class="col-md-3">
   			<div class="sub-nav">
           <ul>
-						
+
 						<li><a class="active">DonorDrive</a></li>
 						<li><a href="/employee-matching">Employee Matching</a></li>
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
@@ -41,14 +45,14 @@
       <?php if ($status == "open") { ?>
 
 				<h2>DonorDrive</h2>
-				<p>UF Health Shands Children’s Hospital is utilizing DonorDrive, an online fundraising platform, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will now be creating DonorDrive accounts to begin fundraising for DM at UF 2021. DonorDrive is safe and easy to use. To create a fundraising page, register using the link below:</p>
-				<a href="https://events.dancemarathon.com/index.cfm?fuseaction=register.start&eventID=4042" target="_blank">Register To Fundraise</a>
+				<p>UF Health Shands Children’s Hospital is continuing to use DonorDrive, an online fundraising platform used widely by Children’s Miracle Network Hospitals, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will be creating DonorDrive accounts to begin fundraising for DM at UF 2022. DonorDrive is safe and easy to use, and was utilized by UF Health Shands Children’s Hospital this past year. To create a fundraising page, register using the link below:</p>
+				<a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4669" target="_blank">Register To Fundraise</a>
 				<p></p>
 
 				<h3>FAQ:</h3>
 
 <b>1. If I had a fundraising page last year, do I need to create a new account with DonorDrive and a new fundraising page this year?</b>
-<ul><li>Yes! Each year that you choose to participate with Dance Marathon, you will need to create a fundraising page. Additionally, this year, each individual that registers to fundraise will need to create a DonorDrive account if they have not used this platform before (DM at UF 2016-2019). </li></ul>
+<ul><li>Yes! Each year that you choose to participate with Dance Marathon, you will need to create a fundraising page. </li></ul>
 <b>2. What should my billing statement list as the donation charge after I donate online?</b>
 <ul><li>Children's Miracle Network</li>
 <li>Location: Salt Lake City, UT</li></ul>

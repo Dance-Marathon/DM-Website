@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.miraclesincolor {
+background-image: url("/assets/images/BannerPhotos21/5k_2-13-21_SarahD24.jpg");
+}
+</style>
 <div class="page-heading parallax miraclesincolor">
   <div class="inner-wrapper">
 	  <div class="container">

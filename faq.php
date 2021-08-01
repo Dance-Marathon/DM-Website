@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.faq {
+background-image: url("/assets/images/BannerPhotos21/Belleview-MadiA-3067.JPG");
+}
+</style>
 <div class="page-heading parallax faq">
   <div class="inner-wrapper">
 	  <div class="container">

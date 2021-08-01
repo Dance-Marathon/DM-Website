@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.kristynskrew {
+background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD239.jpg");
+}
+</style>
 <div class="page-heading parallax kristynskrew">
   <div class="inner-wrapper">
 	  <div class="container">

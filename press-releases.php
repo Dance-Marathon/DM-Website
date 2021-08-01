@@ -5,7 +5,11 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 ?>
-
+<style>
+.page-heading.parallax.press {
+background-image: url("/assets/images/BannerPhotos21/MoraleMadness_SarahXD47.jpg");
+}
+</style>
 <div class="page-heading parallax press">
   <div class="inner-wrapper">
 	  <div class="container">

@@ -271,7 +271,11 @@ include("includes/navbar.php");
    $('.familyrelations').append('</tr>');
 
 </script>
-
+<style>
+.page-heading.parallax.captain-teams {
+background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
+}
+</style>
 <div class="page-heading parallax captain-teams">
   <div class="inner-wrapper">
    <div class="container">
