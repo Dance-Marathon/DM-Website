@@ -115,7 +115,7 @@
 
 
 				<li class="open"><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.donate&eventID=4669" target="_blank" class="active">Donate</a></li>
-
+ 
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
 				  <li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fa fa-instagram"></i></a></li>
