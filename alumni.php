@@ -9,8 +9,8 @@
 			'name'                  =>  'Alexandra "Zandy" Hernandez',
 			'email'                 =>  '',
             'current_city'          =>  'Atlanta, GA',
-			'previous_involvement'  =>  '"2015 Recruitment Captain, 2016 Recruitment Assistant Director, 2017 Outreach Overall Director, 2021 DMA Board Member, 2022 DMA President"',
-			'fun_fact'				=>  'I ate pizza for dinner for a week straight because I was dedicated to going to the various hospitality nights that week.',
+			'previous_involvement'  =>  '2015 Recruitment Captain, 2016 Recruitment Assistant Director, 2017 Outreach Overall Director, 2021 DMA Board Member, 2022 DMA President',
+              'fun_fact'                =>  'I ate pizza for dinner for a week straight because I was dedicated to going to the various hospitality nights that week.',
 			'favorite_memory'       =>  'I will never forget standing with my fellow Recruitment Captains during closing ceremonies of Dance Marathon at UF 2015.  When we realized we had raised over $2 million for the first time, we burst into tears and a huge group hug. I would not have wanted to share that moment with anyone else.',
 			'continued'             =>  'My involvement in Dance Marathon shaped me both professionally and personally.  It left such a profound impact on my life that I love sharing with others whenever given the chance.  My time on the DMA Board has provided me with a more hands on opportunity to continue my involvement with DM and raise awareness for the cause.',
 			'image'                 =>  'AHernandez'
@@ -19,8 +19,8 @@
 			'name'                  =>  'Arie Hariton',
             'email'                 =>  '',
 			'current_city'          =>  'San Francisco, CA',
-			'previous_involvement'  =>  'Fundraising Overall 2018, Fundraising Captain 2017',
-			'fun_fact'              =>  'I have been to all 7 continents',
+			'previous_involvement'  =>  '2017 Fundraising Captain, 2018 Fundraising Overall',
+			'fun_fact'              =>  'I have been to all 7 continents.',
 			'favorite_memory'       =>  'Raising the numbers for the first year DM raised over $3 million and seeing the joy and reactions from everyone.',
 			'continued'             =>  'Participated in DMA events, kept up with Miracle Families through social media, and continued to donate to members of the Fundraising team!',
 			'image'                 =>  'AriH'
@@ -29,20 +29,20 @@
               'name'                  =>  'Kelsey Johnson',
               'email'                 =>  '',
               'current_city'          =>  'Saint Augustine, FL',
-              'previous_involvement'  =>  '"Dancer - 2014, Captain, Marketing - 2015, Captain, Merchandise - 2016, Assistant Director, Merchandise - 2017"',
+              'previous_involvement'  =>  '2014 Dancer, 2015 Marketing Captain, 2016 Merchandise Captain, 2017 Merchandise Assistant Director',
               'fun_fact'              =>  'I have a habit of doing embarrassing things for donations. I once turned myself into a peanut butter & jelly sandwich, and have run the 5K dressed as an alien and in a banana costume!',
               'favorite_memory'       =>  'Performing in the DM Talent Show as Nick Mullen backup dancers as he sang Man in the Mirror by Michael Jackson, or embarrassing Mr. Scott Mullen year after year by winning fundraising challenges!',
-              'continued'             =>  'I have continued to both fundraise and donate to Dance Marathon since I graduated from UF in 2017 and have had the opportunity to attend the event as an alumna. This past year I was also able to stay involved with the DMA miracle family, the Mullens, and consider their family as my extended famil.',
+              'continued'             =>  'I have continued to both fundraise and donate to Dance Marathon since I graduated from UF in 2017 and have had the opportunity to attend the event as an alumna. This past year I was also able to stay involved with the DMA miracle family, the Mullens, and consider their family as my extended family.',
 			'image'                 =>  'KJohnson'
 		),
 		array(
               'name'                  =>  'Jonathan Pereyra',
               'email'                 =>  '',
               'current_city'          =>  'Fort Lauderdale, FL',
-              'previous_involvement'  =>  'Creative Development Overall 2018',
-              'fun_fact'              =>  'I bleached my hair for DM and my team called me Blondathon',
-              'favorite_memory'       =>  'Driving around Gainesville with my team delivering Mac and Cheese for our Spring fundraiser.',
-              'continued'             =>  'A little bit of Dance Marathon has been with me since graduation, whether it be continuing app development in my career, attending the event as an alumni, or reaching out to the current members of Creative Development/Design & Technology and supporting them in whatever way I can.',
+              'previous_involvement'  =>  '2017 Creative Development Captain, 2018 Creative Development Overall',
+              'fun_fact'              =>  'I bleached my hair for DM and my team called me Blondathon.',
+              'favorite_memory'       =>  'Standing behind the Tech booth and being able to watch the event unfold from the best seat in the house.',
+              'continued'             =>  'A little bit of Dance Marathon has been with me since graduation, whether it be continuing app development in my career, attending the event as an alumnus, or reaching out to the current members of Creative Development/Design & Technology and supporting them in whatever way I can.',
 			'image'                 =>  'Jpereyra'
 		),
 		array(
@@ -50,9 +50,9 @@
               'email'                 =>  '',
               'current_city'          =>  'Atlanta, GA',
               'previous_involvement'  =>  '2017 Finance Manager',
-              'fun_fact'              =>  'I spent ages 6-12 living in the Netherlands',
+              'fun_fact'              =>  'I spent ages 6-12 living in the Netherlands.',
               'favorite_memory'       =>  'I had the opportunity to spend an hour at the top of the ODome during the event as an OT member.  Seeing the joy of the miracle families and the dancers really made me appreciate the opportunity to be there and all of the hard work of the folks involved to get us to that day.',
-              'continued'             =>  'I have continued to stay involved through the DMAlumni organization and still keep in touch with some of the miracle families I met at UF',
+              'continued'             =>  'I have continued to stay involved through the DMA and still keep in touch with some of the miracle families I met at UF',
 			'image'                 =>  'JesseS'
 		)
 	);
@@ -326,7 +326,6 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
           <ul class="nav nav-tabs" role="tablist">
             <li role="presentation" class="active"><a href="#mini-marathon" aria-controls="mini-marathon" role="tab" data-toggle="tab">About DM Alumni</a></li>
             <li role="presentation"><a href="#schools" aria-controls="schools" role="tab" data-toggle="tab">Meet The DMA Board</a></li>
-            <li role="presentation"><a href="#whatsmyzone" aria-controls="whatsmyzone" role="tab" data-toggle="tab">DM Alumni Members</a></li>
           </ul>
 
           <!-- Tab panes -->
@@ -334,15 +333,18 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
           <div class="tab-content">
 
             <div role="tabpanel" class="tab-pane fade in active" id="mini-marathon">
-						<h3>Get Involved</h3>
+
+			
+			<h3>About</h3>
+
+<p>Since 1995, Dance Marathon at UF has raised over $26 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>
+<p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, Dance Marathon at UF Alumni gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $40 per year and offers a variety of benefits.</p>
+
+						<h3>Get Involved!</h3>
 						<!-- This should work -->
-						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay a member of DM at UF for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <a href=https://docs.google.com/forms/d/e/1FAIpQLScCkmkxiWUOKqgCh-ERRSKYWLf6qxTBb4anrEDXhquefkOhcQ/viewform?gxids=7628>Become a member or renew your membership today.</a></p>
-						<p>Be sure to like the official page for <a href=https://www.facebook.com/FloridaDMAlumni?fref=ts>Dance Marathon at UF Alumni on Facebook</a> to stay connected with the rest of your Dance Marathon Alumni family.</p>
+						<p>Our Dance Marathon at UF Alumni continue to support our cause and spread our movement, even after they graduate.  Join the DMA and stay a member of DM at UF for years to come with exclusive alumni access at the event and the opportunity to continue your involvement beyond your years at UF. <br><a href=https://dmatuf.page.link/lifetime>Become a member today!</a></p>
+						<p>Follow us on <a href=https://www.instagram.com/dmatufalumni>Instagram</a>, and be sure to like the official page for <a href=https://www.facebook.com/dmatufalumni>Dance Marathon at UF Alumni on Facebook</a> to stay connected with the rest of your DM at UF Alumni family.</p>
 
-						<h3>About</h3>
-
-<p>Since 1995, Dance Marathon at UF has raised over $18.2 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States. This past year, the DMA contributed $66,528 to our final total, exhibiting their continued passion helping to end childhood illness.</p>
-<p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, the Dance Marathon Alumni group gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $35 per year and offers a variety of benefits.</p>
 
 				      <h3>Lifetime DMA Membership</h3>
 						<p>This year, we would like to introduce the <b>Lifetime DMA Membership!</b> This membership gives you the ability to register to the DMA with a one-time fee that will grant you a lifetime of engagement with Dance Marathon Alumni. This fee is tax-deductible and unlocks incredible benefits as a DM at UF alumni. Our goal as an organization is to continue to engage, involve, and update our alumni year over year on the impacts they have made, and continue to make, by supporting Dance Marathon at UF. </p>
@@ -350,7 +352,7 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 						<p>Within the Lifetime DMA Membership, there are <b><u>two</u></b> membership options:</p>
 						<div></div>
 					  <h4><i style="color:#f79b63;"><b>(1) Miracle Membership</b></i></h4>
-						<p>This <b>general membership</b> provides new DMA members with benefits outlined below, through a one-time fee of </b>$40</b>. The Miracle Membership, as it stands today, includes those registered members from the inception of the DMA (2015) to all current members (2020). This membership will automatically grandfather returning members, and new members to the DMA, into the Miracle Membership. </p>
+						<p>This <b>general membership</b> provides new DMA members with benefits outlined below, through a one-time fee of </b>$40</b>. The Miracle Membership, as it stands today, includes those registered members from the inception of the DMA (2015) to all current members (2021). This membership will automatically grandfather returning members, and new members to the DMA, into the Miracle Membership. </p>
 						<p><b><i>Membership Benefits Include:</i></b></p>
 							<ul>
 								<li>Monthly E-Newsletter updates</li>
@@ -389,7 +391,7 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 					  <h4><b><u>FAQs</u></b></h4>
 				      <p><b>Q: I have never been a part of the DMA before and just registered for the first time. What membership do I have? </b><br>
 					  <b>A:</b> As a first-time DMA member, your <b>$40</b> fee unlocks the <b style="color:#617ba6;">Legacy Membership</b> for your first year. After your first year, you will have the option to pay the annual fee of <b>$40</b> to continue your <b style="color:#617ba6;">Legacy Membership</b>, or you will be automatically shifted into the <b style="color:#f79b63;">Miracle Membership</b> at no cost.</p>
-					  <p><b>Q: What if I registered for the DMA in a previous year (2015-2020) and never renewed?</b><br>
+					  <p><b>Q: What if I registered for the DMA in a previous year (2015-2021) and never renewed?</b><br>
 					  <b>A:</b> You will be grandfathered into the <b style="color:#f79b63;">Miracle Membership</b>!</p>
 					  <p><b>Q: Can I upgrade my <b style="color:#f79b63;">Miracle Membership</b> throughout the year?</b><br>
 					  <b>A:</b> Yes! However, you can only upgrade up until one month before the event so we are able to accommodate for all of the additional benefits (i.e. t-shirt, brunch, etc.).<br>
