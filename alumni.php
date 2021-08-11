@@ -13,7 +13,7 @@
               'fun_fact'                =>  'I ate pizza for dinner for a week straight because I was dedicated to going to the various hospitality nights that week.',
 			'favorite_memory'       =>  'I will never forget standing with my fellow Recruitment Captains during closing ceremonies of Dance Marathon at UF 2015.  When we realized we had raised over $2 million for the first time, we burst into tears and a huge group hug. I would not have wanted to share that moment with anyone else.',
 			'continued'             =>  'My involvement in Dance Marathon shaped me both professionally and personally.  It left such a profound impact on my life that I love sharing with others whenever given the chance.  My time on the DMA Board has provided me with a more hands on opportunity to continue my involvement with DM and raise awareness for the cause.',
-			'image'                 =>  'AHernandez'
+			'image'                 =>  'zandy'
 		),
 		array(
 			'name'                  =>  'Arie Hariton',
@@ -23,7 +23,7 @@
 			'fun_fact'              =>  'I have been to all 7 continents.',
 			'favorite_memory'       =>  'Raising the numbers for the first year DM raised over $3 million and seeing the joy and reactions from everyone.',
 			'continued'             =>  'Participated in DMA events, kept up with Miracle Families through social media, and continued to donate to members of the Fundraising team!',
-			'image'                 =>  'AriH'
+			'image'                 =>  'ari'
 		),
 		array(
               'name'                  =>  'Kelsey Johnson',
@@ -33,7 +33,7 @@
               'fun_fact'              =>  'I have a habit of doing embarrassing things for donations. I once turned myself into a peanut butter & jelly sandwich, and have run the 5K dressed as an alien and in a banana costume!',
               'favorite_memory'       =>  'Performing in the DM Talent Show as Nick Mullen backup dancers as he sang Man in the Mirror by Michael Jackson, or embarrassing Mr. Scott Mullen year after year by winning fundraising challenges!',
               'continued'             =>  'I have continued to both fundraise and donate to Dance Marathon since I graduated from UF in 2017 and have had the opportunity to attend the event as an alumna. This past year I was also able to stay involved with the DMA miracle family, the Mullens, and consider their family as my extended family.',
-			'image'                 =>  'KJohnson'
+			'image'                 =>  'kelsey'
 		),
 		array(
               'name'                  =>  'Jonathan Pereyra',
@@ -43,7 +43,7 @@
               'fun_fact'              =>  'I bleached my hair for DM and my team called me Blondathon.',
               'favorite_memory'       =>  'Standing behind the Tech booth and being able to watch the event unfold from the best seat in the house.',
               'continued'             =>  'A little bit of Dance Marathon has been with me since graduation, whether it be continuing app development in my career, attending the event as an alumnus, or reaching out to the current members of Creative Development/Design & Technology and supporting them in whatever way I can.',
-			'image'                 =>  'Jpereyra'
+			'image'                 =>  'jonathan'
 		),
 		array(
               'name'                  =>  'Jesse Sands',
@@ -53,7 +53,7 @@
               'fun_fact'              =>  'I spent ages 6-12 living in the Netherlands.',
               'favorite_memory'       =>  'I had the opportunity to spend an hour at the top of the ODome during the event as an OT member.  Seeing the joy of the miracle families and the dancers really made me appreciate the opportunity to be there and all of the hard work of the folks involved to get us to that day.',
               'continued'             =>  'I have continued to stay involved through the DMA and still keep in touch with some of the miracle families I met at UF',
-			'image'                 =>  'JesseS'
+			'image'                 =>  'jesse'
 		)
 	);
 
