@@ -43,27 +43,33 @@ background-image: url("/assets/images/BannerPhotos21/DSC07473.jpg");
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
 					<br>Thank you for your interest in Dance Marathon at the University of Florida 2022.</br>
-					<br>The online application forms are linked below. In order to be considered for a position, you must:</br>
+					<br>The online application forms are linked below. In order to be considered for a a Captain, ELP, or Ambassador position, you must:,</br>
 					<ul>
 						<li>Complete the online application form</li>
 						<li>Create a DonorDrive personal fundraising page</li>
-						<li>Pay the application fee. You only need to pay the application fee once even if you are applying for more than one position. Instructions on how to complete both of these items can be found on the front page of either application.</li>
+						<li>Pay the $25 application fee. You only need to pay the application fee <b>once</b> even if you are applying for more than one position. Instructions on how to complete both of these items can be found on the front page of either application.</li>
 					</ul>
+                    <br> You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. To be eligible to be an Ambassador, you <b>can not</b> hold another position as well. </br>
+                        
+<br>
+</br>
+                        
 <b>Manager Application</b> Now Closed</p>
 <!-- Click <a href="Documents/2022 Manager Application.pdf" target="_blank">here</a> to view the 2022 Manager Application</p>-->
 <b>Overall Director Application</b> Now Closed </p>
 <!--Click <a href="Documents/2022 Overall Director Application.pdf" target="_blank">here</a> to view the 2022 Overall Director Application</p>-->
 					<!-- You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. You can apply to be an Ambassador even if you hold another position, and you will be able to do both.</p> -->
 <b>Assistant Director Applications</b> Now Closed </p>
-<b>Captain Application</b> Now Closed </p>
-					<!-- <p>The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_86qi9WwllA1Rhch" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at 11:59 PM on Friday, September 11. </p>
-					<p>Click <a href="assets/PDFs/app-questions copy.pdf" target="_blank">here</a> to view the Captain Application questions.</p> -->
-<b>Emerging Leaders Application</b> Now Closed </p>
-					<!-- <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_e4A0J1I4Grjqy3P" target="_blank">here</a>. This application will close at 11:59 PM on Friday, September 11.</p> -->
-<b>Ambassador Application</b> Now Closed </p>
+<b>Captain Application</b>
+					The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_ey6G1kOFYWmcrTo" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>11:59 PM EST on Friday, September 3</b>.
+					<p>A PDF of all Captain Application questions can be found <a href="assets/PDFs/ApplicationQuestions.pdf" target="_blank">here</a>.</p>
+
+<b>Emerging Leaders Application</b>
+					<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0vzpwH8jOnh0YRw" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Thursday, September 9</b>.</p>
+<b>Ambassador Application</b>
                     
-					<!--<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0IKjaRR7u8VbjTv" target="_blank">here</a>. This application will close at 11:59 PM on Sunday, September 20. You can apply to be an Ambassador even if you hold another position, and you will be able to do both. </p>-->
-					<!--<p>If you have any questions regarding applications, please reach out to our Operations Manager, Hannah Cooper, at <a href="mailto:hcooper@floridadm.org">hcooper@floridadm.org</a>.</p>-->
+					<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_8IX6TuGzURJg4se" target="_blank">here</a>. This application will close at <b>12:00 PM <u>NOON</u> EST on Monday, September 13</b>. You can apply to be an Ambassador even if you hold another position, and you will be able to do both. </p>
+					<p>If you have any questions regarding applications, please reach out to our Operations Manager, Maddie Hersch, at <a href="mailto:mhersch@floridadm.org">mhersch@floridadm.org</a>.</p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
 					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2> -->
