@@ -339,9 +339,28 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                  Sophia Alday
                <h4>  <b>Captains</b></h4>
                <table style="width:100%">
-                <tbody class="outreach"> </tbody>
+                <tbody class="outreach">
+          Abigail Dugas |
+          Allyson Carlos |
+          Anthony Lamberto |
+          Aria Patel |
+          Bridget Richer |
+          Emily Chattin |
+          Gabi Goldenberg |
+          Heather Sley |
+          Jackson Jeffares |
+          Jacqueline Banas |
+          Julia Riordan |
+          Katherine Borland |
+          MacKenzie Steele |
+          Madison Woodard |
+          Nataly Montenegro |
+          Raquel Castillo |
+          Regan Bellantoni |
+          Sarina Parikh |
+          Zoe Leitner
+          </tbody>
               </table>
-
                </div>
              </div>
            </div>
@@ -366,8 +385,50 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Assistant Director of Internal Relations</b></h4>
               Olivia Galler
               <h4><b>Captains</b></h4>
+                    
               <table style="width:100%">
-                <tbody class="dancerrelations"> </tbody>
+                <tbody class="dancerrelations">
+                    Aaliyah Guillaume |
+                    Abbey Ladd |
+                    Alexander Katsotis |
+                    Aline Capuano |
+                    Alli Schwartz |
+                    Andie Galpern |
+                    Annika Holmstrom |
+                    Carlos Vela |
+                    Chloe Wai |
+                    Coryell Dreyer |
+                    Daniel Lewis |
+                    Emily Lupo |
+                    Emily Martin |
+                    Emily Sage |
+                    Gabriella Garcia-Linares |
+                    Garrett Gerard |
+                    Giselle Gelobter |
+                    Hannah Dvorchik |
+                    Jasmine Romay |
+                    Jordyn Taylor |
+                    Kaitlyn Parent |
+                    Kaleigh Lentine |
+                    Kandace Marciniak |
+                    Kyra Carney |
+                    Lillian Wiggins |
+                    Lilly Randolph |
+                    Lindsey Sachs |
+                    Mai-Brie Conklin |
+                    Maisie Farrell |
+                    Marissa Northrop |
+                    Mary Pahides |
+                    Michael Hampton |
+                    Natalie Good |
+                    Nicole Cuomo |
+                    Nicole Klein |
+                    Owen Blackwell |
+                    Rachael Siegel |
+                    Renee Hayford |
+                    Samantha Sawka |
+                    Shaina Varghese |
+                    Sylvan Contreras</tbody>
               </table>
 
             </div>
@@ -396,7 +457,28 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Max Dotson
               <h4>  <b> Captains</b></h4>
               <table style="width:100%">
-                <tbody class="designandtech"> </tbody>
+                <tbody class="designandtech">
+                   Alicia Steffy |
+                   Cameron Appel |
+                   Chris Kohlbeck |
+                   Courtney Chalmers |
+                   David Allen |
+                   Dylan Tarlowe |
+                   Freya Garcia |
+                   Hailey Paek |
+                   Hannah Batista |
+                   Jessica Page |
+                   Jordan Corina |
+                   Lexy Cohen |
+                   Lilly McGuire |
+                   Matthew Hanson |
+                   Nikki Ogden |
+                   Olivia Grinage |
+                   Rajvi Maisuria |
+                   Scott Hasson |
+                   Sophie Gaer |
+                   Trinity Sullivan |
+                   Victoria De Alba</tbody>
               </table>
             </div>
           </div>
@@ -420,12 +502,56 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Carley Smith
               <h4><b>Assistant Director of Family Outreach</b></h4>
               Elizabeth Naeter
-			        <h4><b>Assistant Director of Internal Relations</b></h4>
+              <h4><b>Assistant Director of Internal Relations</b></h4>
               Sheelagh Dunn
 
     <h4>      <b>Captains</b></h4>
     <table style="width:100%">
-                <tbody class="familyrelations"> </tbody>
+                <tbody class="familyrelations">
+                  Abby McDade |
+                  Adriana Laine |
+                  Alexa Miller |
+                  Alexis Waltzer |
+                  Ali Torregrosa |
+                  Allison Walsh |
+                  Anne-Charles Zimmer |
+                  Caroline McMillan |
+                  Cole Kinchla |
+                  Connor Duffy |
+                  Connor Pitisci |
+                  Elizabeth Gluck |
+                  Ethan Davis |
+                  Faith Freeman |
+                  Faith Ramirez |
+                  Halle Silver |
+                  Hannah Kairab |
+                  Hollen Parsons |
+                  Isabel Curtis |
+                  Jake Siegel |
+                  Jamisyn Derks |
+                  Jennifer Gilby |
+                  Jordana Schube |
+                  Katie Lescano |
+                  Lily Dvorchik |
+                  Madelyn Corliss |
+                  Mary Bennett |
+                  Matthew Blade |
+                  Matthew Warchol |
+                  Maxx Wexler |
+                  Meredith Swift |
+                  Michael Muhlbach |
+                  Molly Sankey |
+                  Morgan Hilton |
+                  Nicole Chandeck |
+                  Noah Towbin |
+                  Nolan Anschuetz |
+                  Patrick Kline |
+                  Rachel Nattis |
+                  Rachel Vogin |
+                  Savannah Alday |
+                  Shannon Duffy |
+                  Shannon Jones |
+                  Taylor Doering</tbody>
               </table>
 
             </div>
@@ -454,7 +580,31 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Kellyn Murphy
    <h4>  <b> Captains</b></h4>
    <table style="width:100%">
-                <tbody class="fundraising"> </tbody>
+                <tbody class="fundraising">
+                Aine Booth |
+                Alexa Mazloff |
+                Allison Graves |
+                Andrew Kistner |
+                Clara Flint |
+                Cora Gilbert |
+                Dilon Bruncaj |
+                Elizabeth Martynow |
+                Helen Abbott |
+                Isabel Ponce |
+                Janel Hernandez |
+                Kara Farrell |
+                Katrina Harbaruk |
+                Kendall Hartland |
+                Madalyn Lueken |
+                Madison Wolfgang |
+                Molly Hubbard |
+                Morgan Simpson |
+                Olivia Delevan |
+                Olivia Drexler |
+                Sofia Rizzo |
+                Vaishnavi Mavilla |
+                Victoria Grande |
+                Victoria Lutz</tbody>
               </table>
             </div>
           </div>
@@ -483,7 +633,38 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Yasmeen Asfoor
    <h4>  <b>Captains</b></h4>
    <table style="width:100%">
-                <tbody class="hospitality"> </tbody>
+                <tbody class="hospitality">
+                  Abby Nussbaum |
+                  Adam Birnbaum |
+                  Adam Paroff |
+                  Allison Burns |
+                  Ashley Carpenter |
+                  Ava Peiser |
+                  Ben Soto |
+                  Brooke Freeman |
+                  Gabrielle Gorwitz |
+                  Grace Henderson |
+                  Hannah Roberts |
+                  Jack Linkhorst |
+                  Jada Kamuf |
+                  Jamie Braverman |
+                  Jessica Smock |
+                  Josh Perper |
+                  Lexi Ginsburg |
+                  Liam O'Brien |
+                  Lindsey Brodsky |
+                  Mackenzie Bartlett |
+                  Madison Schain |
+                  Makenna Utegaard |
+                  Morgan Smith |
+                  Olivia Wootton |
+                  Parker Hershkowitz |
+                  Rachel Early |
+                  Reese Harper |
+                  Riley Duffy |
+                  Sam Speizman |
+                  Sophia Alvarez |
+                  Sydney Richardson</tbody>
               </table>
 
 
@@ -513,7 +694,39 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Amelia Williamson
       <h4>  <b> Captains</b></h4>
       <table style="width:100%">
-                <tbody class="leadershipdevelopment"> </tbody>
+                <tbody class="leadershipdevelopment">
+                  Abigail Strzempka |
+                  Alex Gruber |
+                  Amanda Carroll |
+                  Aoife Redmond |
+                  Brooke Collins |
+                  Camille Lazarus |
+                  Claire Wilbur |
+                  Corinna Kuschnitzky |
+                  Emma Kate Joiner |
+                  Emma Ladd |
+                  Freedom Scholes |
+                  Grayson Eastman |
+                  Haley Mainwaring |
+                  Isabella Nielsen |
+                  Juliana Tragakis |
+                  Katie Hellmann |
+                  Landry Baliton |
+                  Logan Crawford |
+                  Madelyn Debski |
+                  Madelyne Egan |
+                  Madison Duncanson |
+                  Marcella Almgren |
+                  Mauricio Mata |
+                  Megan Blankenship |
+                  Nawaf Alay |
+                  Raelin Terrell |
+                  Reece Tappan |
+                  Rhea Patel |
+                  Samantha Tedesco |
+                  Sophia Matthews |
+                  William Jarrett |
+                  Willow Oblin</tbody>
               </table>
 
 
@@ -545,7 +758,33 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
 
        <h4>  <b>Captains </b></h4>
        <table style="width:100%">
-                <tbody class="marathonrelationsnorth"> </tbody>
+                <tbody class="marathonrelationsnorth">
+                  Acadia Schwartz |
+                  Adriana Ortega |
+                  Ashley Liddell |
+                  Bethany Pichardo |
+                  Charlotte Rosenberg |
+                  Chloe Rubin |
+                  Claire Weitz |
+                  Daphne Furman |
+                  Elizabeth Calabro |
+                  Harper Grabenhorst |
+                  Isabel Acosta |
+                  Ivey Young |
+                  John Todd Girman |
+                  Kaley Hildebrand |
+                  Katie Kovar |
+                  Kayla Zweben |
+                  Kaylin White |
+                  Kevin Labra |
+                  Kierra Hill |
+                  Lane Fontana |
+                  Laurel Guffey |
+                  Lauren Still |
+                  Lexi Devescovi |
+                  Natalie Work |
+                  Ryan Athay |
+                  Sophia Spata</tbody>
               </table>
 
             </div>
@@ -576,7 +815,29 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <br>
        <h4>  <b>Captains </b></h4>
        <table style="width:100%">
-                <tbody class="marathonrelationssouth"> </tbody>
+                <tbody class="marathonrelationssouth">
+                      Chloe Cornett |
+                      Efthymia Copulos |
+                      Elizabeth Alarcon |
+                      Ellie Templeton |
+                      Gabbi Thaw |
+                      Gabriela Mantilla |
+                      Jacqueline Aloumanis |
+                      Jessica Winograd |
+                      Jordan Fallen |
+                      Kristin Deaver |
+                      Kylie Davison |
+                      Lauren Suggs |
+                      Matthew Lehman |
+                      Michael Sommer |
+                      Natalia Matteo |
+                      Olivia Peiser |
+                      Rhian Alaniz |
+                      Rocco Abiusi |
+                      Skylar Finkel |
+                      SkylarRose Margolin |
+                      Sophia Uribe |
+                      Toni JeBailey</tbody>
               </table>
 
             </div>
@@ -606,7 +867,40 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
 
        <h4>  <b>Captains</b></h4>
        <table style="width:100%">
-                <tbody class="merch"> </tbody>
+                <tbody class="merch">
+                  Alexa Bond |
+                  Andrea Pacheco |
+                  Anna Kate Stoner |
+                  Bryce Brandfon |
+                  Dailey Dellenbach |
+                  Elisabeth Kern |
+                  Elizabeth Flammer |
+                  Emily Chicarella |
+                  Emily Gill |
+                  Emily Work |
+                  Emma MacLaren |
+                  Erin Konopka |
+                  Gabrielle Klinkner |
+                  Grace Borer |
+                  Grace Gordish |
+                  Grant Meece |
+                  Jackie Snytte |
+                  Jacob Warchola |
+                  Jacy Grosz |
+                  Jamie Ambos |
+                  Kaitlyn Utz |
+                  Kalie Wright |
+                  Kendall Chassman |
+                  Kimberly Noble |
+                  Leighton Scroggie |
+                  Makenzi Rench |
+                  Maya Rodrig |
+                  Nicole DeSilva |
+                  Nina Diaz |
+                  Patrick Grey |
+                  Rachel Taylor |
+                  Samantha Roth |
+                  Taylor Stevens</tbody>
               </table>
 
 
@@ -636,7 +930,51 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Arielle Waters
       <h4>  <b> Captains</b></h4>
       <table style="width:100%">
-                <tbody class="morale"> </tbody>
+                <tbody class="morale">
+                    Adrian Mendoza |
+                    Allison Felts |
+                    Annaleah Esp |
+                    Brandon Gerardi |
+                    Brooke Micallef |
+                    Caroline Murray |
+                    Claudia Morales |
+                    Courtney Thomas |
+                    Daniel (DJ) Gallup |
+                    Dante Prado |
+                    Drew McNally |
+                    Eileen Vara |
+                    Elizabeth Kern |
+                    Erin Juhl |
+                    Filomena Selvanik |
+                    Gabriella Oliveira |
+                    Haley Wadsworth |
+                    Halle Prilik |
+                    Isabel Chris |
+                    Isabella Leandri |
+                    Jackie Hunter |
+                    Jacob Smith |
+                    Julia Cesare |
+                    Juliette Andrews |
+                    Juliette Paymayesh |
+                    Katherine Polaski |
+                    Katherine Signori |
+                    Katie Swartzlander |
+                    Kayla Kaufman |
+                    Lauren Nau |
+                    Lexi DoVale |
+                    Liz Delegal |
+                    Liz Noonan |
+                    Madison Payne |
+                    Naomi Simon |
+                    Natalie Saliwanchik |
+                    Peyten Hernandez |
+                    Ryan Beany |
+                    Ryan Linthorst |
+                    Sara Liss |
+                    Seth Kahler |
+                    Sofia Isayev |
+                    Sydney Fialkow |
+                    Zachary Frielich</tbody>
               </table>
 
 
@@ -666,7 +1004,29 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Benjamin Grijalva
     <h4>  <b>Captains</b></h4>
     <table style="width:100%">
-                <tbody class="multimedia"> </tbody>
+                <tbody class="multimedia">
+                    Aidan Evans |
+                    Alayna Garber |
+                    Anna Glass |
+                    Arnav Barpujari |
+                    Braden Romano |
+                    Emma Bissell |
+                    Emyle Garcia |
+                    Grace Winkel |
+                    Harry Reamy |
+                    Isabel Crist |
+                    Isabelle Logan |
+                    Jennifer Lena |
+                    Kelli Ross |
+                    Madison Murray |
+                    Marlee Wittner |
+                    Maura Schaeffer |
+                    Natalie Tajeddine |
+                    Rachel Friedman |
+                    Sarah Devine |
+                    Sarena Seeger |
+                    Sophia Gonzalez |
+                    Sydney Calle</tbody>
               </table>
 
 
@@ -695,7 +1055,33 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 Delaney Currie
               <h4>   <b>Captains</b></h4>
               <table style="width:100%">
-                <tbody class="productions"> </tbody>
+                <tbody class="productions">
+                        Aileen Nguyen |
+                        Arcadio Ortiz |
+                        Arielle Fritz |
+                        Arushi Chandok |
+                        Courtney Walsh |
+                        David Brennan |
+                        Dylan Goodelle |
+                        Emily Guerra |
+                        Esaan Azizi |
+                        Hayley Landman |
+                        Heather Parrish |
+                        Justin Tunley |
+                        Kedron Burt |
+                        Kristina Cajiao |
+                        Logan Spiegelman |
+                        Mackenzie Potts |
+                        Matthew Barrett |
+                        Mayson Sparkman |
+                        Melia Palomino |
+                        Olivia Stango |
+                        Reagan Pomp |
+                        Robert Brunner |
+                        Samantha Flyer |
+                        Sarah Blankenship |
+                        Sophia Baird |
+                        Tyler Hersch</tbody>
               </table>
 
 
@@ -723,7 +1109,28 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 Isabella Voigt
      <h4>  <b> Captains</b></h4>
      <table style="width:100%">
-                <tbody class="pr"> </tbody>
+                <tbody class="pr">
+                        Alessandra Morales |
+                        Alexia Berenger |
+                        Alexis Gershuny |
+                        Ashley Hearn |
+                        Carlee Hontz |
+                        Emma Suttell |
+                        Gaby Tryzmel |
+                        Hope Barrist |
+                        Jamie Knox |
+                        Jessica Bershad |
+                        Joanna Salvat |
+                        Juliana Giraldo |
+                        Karina Wilson |
+                        Kearstin Massa |
+                        Leah Grobman |
+                        Linsey Harrison |
+                        Lisa Gatti |
+                        Olivia Romano |
+                        Suzannah Kelly |
+                        Sydney Pappas |
+                        Trevor Isakson</tbody>
               </table>
 
 
@@ -751,7 +1158,39 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 Katie Casserly
            <h4>  <b>Captains</b></h4>
            <table style="width:100%">
-                <tbody class="recruitment"> </tbody>
+                <tbody class="recruitment">
+                        Allie Harbaruk |
+                        Anna-Sophia Hadley |
+                        Ashley Kiker |
+                        Brooke Bonkowski |
+                        Bryanne Parks |
+                        Christel Zimmer |
+                        Dara Gottlieb |
+                        David Russo |
+                        Hannah Laird |
+                        Isabella DelRosario |
+                        Julian Alberto |
+                        Kacey Hamlin |
+                        Kasey Permenter |
+                        Kelsey Coville |
+                        Lauren Kuller |
+                        Leah Jeffrey |
+                        Lolina-Sophia Bruggeman-Munoz |
+                        Maddie Abdoney |
+                        Madelon Enneking |
+                        Madelynn Marshall |
+                        Madison Lutz |
+                        Madison St. Pierre |
+                        Mary Hanania |
+                        MaryKate Arbuckle |
+                        Matthew Castro |
+                        Nicole Turner |
+                        Payton Zweber |
+                        Rachel Hamaker |
+                        Taryn Smith |
+                        Tomas Gayoso |
+                        Victoria Moltzan |
+                        Victoria Theiss</tbody>
               </table>
 
               </div>
@@ -778,7 +1217,36 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 Kristina Ludel
           <h4>  <b>Captains</b></h4>
           <table style="width:100%">
-                <tbody class="sponsorships"> </tbody>
+                <tbody class="sponsorships">
+                    Alexa Katz |
+                    Alexandra Patrascoiu |
+                    Andrew Pao |
+                    Austin Armbruster |
+                    Bianca Papa |
+                    Caitlin Moran |
+                    Carley McCammon |
+                    Emily Barlow |
+                    Emily Bernstein |
+                    Emma Campbell |
+                    Hayley Barnett |
+                    Jacob Pool |
+                    Jenna Stevens |
+                    Jessica Judge |
+                    Kate Gaucher |
+                    Kendall DeFranco |
+                    Leetal Prezelmayer |
+                    Makayla Ho |
+                    Manuel Uribe |
+                    Matthew Ohlhaber |
+                    McKenna Cullen |
+                    Morgan Mielke |
+                    Noelle Behar |
+                    Preston Serra |
+                    Sarah McPherson |
+                    Sophia Galinos |
+                    Sophia Marne |
+                    Tyman Cronin |
+                    Yasmine Mohseni</tbody>
               </table>
 
               </div>
