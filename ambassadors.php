@@ -88,7 +88,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
         <ul class="nav nav-tabs" role="tablist">
           <li role="presentation" class="active"><a href="#become-a-delegate" aria-controls="become-a-delegate" role="tab" data-toggle="tab">Become an Ambassador</a></li>
           <li role="presentation"><a href="#starting-a-team" aria-controls="starting-a-team" role="tab" data-toggle="tab">Starting a Team</a></li>
-          <li role="presentation"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">2021 Ambassadors</a></li>
+          <li role="presentation"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">2022 Ambassadors</a></li>
         </ul>
 
         <!-- Tab panes -->
@@ -101,7 +101,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 
             <p>Organization Ambassadors will attend weekly meetings to receive information to relay to their Organizations and to work on professional and personal development. These meetings will allow Ambassadors to think creatively and brainstorm together to create new ways to incentivize and engage their members in Dance Marathon. Each Organization will be assigned a Fundraising & Organization Development Captain to work with on Organization involvement and fundraising throughout the year.<P>
 
-            Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here</a> to view the 2021 Ambassador Guidelines</p>
+            Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here</a> to view the 2022 Ambassador Guidelines</p>
 
               <h3>Responsibilities:</h3>
               <ul>
@@ -140,130 +140,129 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 
           </div>
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">
-          <h3>2021 Ambassadors</h3>
+          <h3>2022 Ambassadors</h3>
           <table style="width:100%; table-layout: fixed">
             <tbody>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Chi Omega</b><br>Haley Spooner<br>Eliana Burgos</td>
-                <td style="vertical-align:top"><b>Delta Gamma</b><br>Madison Compton<br>Abigail Search</td>
-                <td style="vertical-align:top"><b>Kappa Phi Epsilon</b><br>Tomas Gayoso</td>
-                <td style="vertical-align:top"><b>Sigma Kappa</b><br>Caroline Lunny<br>Grace Adams</td></tr>
+                <td style="vertical-align:top"><b>Alpha Chi Omega</b><br>Grace Tyler<br></td>
+                <td style="vertical-align:top"><b>Delta Tau Delta</b><br>Edgard Miranda<br>John Fry </td>
+                <td style="vertical-align:top"><b>Phi Delta Theta</b><br>Griffin Lamp <br>Sam Zimelman</td>
+                <td style="vertical-align:top"><b>UF Pre-Physician Assistant Association</b><br>Tayna Moreira</td></tr>
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Delta Pi</b><br>Megan Rooney<br>Bridget Richer</td>
-                <td style="vertical-align:top"><b>Delta Nu Zeta</b><br>Salome Rivera<br>Sarah Russ</td>
-                <td style="vertical-align:top"><b>Kappa Sigma</b><br>Hunter Gaskin</td>
-                <td style="vertical-align:top"><b>Sigma Nu</b><br>Edgar Moreno Jr</td></tr>
+                <td style="vertical-align:top"><b>Alpha Delta Pi</b><br>Chloe Hazelett<br>Courtney White</td>
+                <td style="vertical-align:top"><b>Delta Upsilon</b><br>Alexander Monteagudo</td>
+                <td style="vertical-align:top"><b>Pi Beta Phi</b><br>Isabella Morales<br>Morgan Emmi</td>
+                <td style="vertical-align:top"><b>Zeta Beta Tau</b><br>Coby Farhi </td></tr>
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Epsilon Delta</b><br>Martha-Grace McLean</td>
-                <td style="vertical-align:top"><b>Delta Phi Epsilon</b><br>Abby Nussbaum<br>Shelly Nezaria</td>
-                <td style="vertical-align:top"><b>Lambda Chi Alpha</b><br>Christopher Skibicki</td>
-                <td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Cameron Shannon</td></tr>
+                <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Olivia Steinman<br>Rachel Staple</td>
+                <td style="vertical-align:top"><b>Delta Zeta</b><br>Julia Musso<br>Julia White</td>
+                <td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Conor Bowen <br>John Dunphy </td>
+                <td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Jessica Halvorsen<br>Shira Isaak</td></tr>
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Hannah Freeman<br>Madalyn Lueken</td>
-                <td style="vertical-align:top"><b>Delta Sigma Phi</b><br>Cooper Martin</td>
-                <td style="vertical-align:top"><b>Nina Karlinsky Memorial Team</b><br>Alex Goldman</td>
-                <td style="vertical-align:top"><b>Society of Women Engineers</b><br>Kalia Martin<br>Samantha Kirse</td></tr>
+                <td style="vertical-align:top"><b>Alpha Epsilon Pi</b><br>Ari Kulka<br>Ross Unger</td>
+                <td style="vertical-align:top"><b>Dream Team</b><br>Kevin Avaiya<br>Saketh Damera</td>
+                <td style="vertical-align:top"><b>Pi Kappa Phi</b><br>Ben Jenkins </td>
+                
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Epsilon Pi</b><br>Benjamin Speizman<br>Ross Unger</td>
-                <td style="vertical-align:top"><b>Delta Tau Delta</b><br>William Rodriguez<br>Bobby Brunner</td>
-                <td style="vertical-align:top"><b>Omega Phi Alpha</b><br>Lauren Zweifel<br>Caitlin Field</td>
-                <td style="vertical-align:top"><b>Tau Kappa Epsilon</b><br>David Mahan<br>Joaquim Jose</td></tr>
+                <td style="vertical-align:top"><b>Alpha Gamma Rho</b><br>Dillon Rodriguez<br></td>
+                <td style="vertical-align:top"><b>EMPRESS</b><br>Dartaisha Bass<br>Thanh Do</td>
+                <td style="vertical-align:top"><b>Pi Lambda Phi</b><br>Dan Buonadonna<br>Corey Loss </td>
+                
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Gamma Rho</b><br>Andrew Priest<br>Austin Lee</td>
-                <td style="vertical-align:top"><b>Delta Upsilon</b><br>Bronson Hervey</td>
-                <td style="vertical-align:top"><b>Phi Delta Theta</b><br>Ryan Bell<br>Zachary Copenhaver</td>
-                <td style="vertical-align:top"><b>The Gator Aides</b><br>Paula Mello<br>Lesly Salgado<br>Maria Santos</td></tr>
+                <td style="vertical-align:top"><b>Alpha Omicron Pi</b><br>Sydney Mandell<br></td>
+                <td style="vertical-align:top"><b>Footprints: Buddy and Support Program</b><br>Chloe Caylor<br>Molly O'Neill</td>
+                <td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Julia DuPuye</td>
+                
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Omicron Pi</b><br>Bailly Gray<br>Allison Hillier</td>
-                <td style="vertical-align:top"><b>Delta Zeta</b><br>Hannah Harding<br>Ashley Ruf</td>
-                <td style="vertical-align:top"><b>Phi Epsilon Kappa</b><br>Jordan Irwin</td>
-                <td style="vertical-align:top"><b>Theta Alpha</b><br>Victoria Lutz<br>Melia Palomino</td></tr>
+                <td style="vertical-align:top"><b>Alpha Phi</b><br>Abby Coleman<br>Nikki Perrino</td>
+                <td style="vertical-align:top"><b>Gamma Eta</b><br>Natalia Perez</td>
+                <td style="vertical-align:top"><b>Preview Staff</b><br>Angelina Del Toro</td>
+                
               <tr><td><br></td></tr>
                <tr>
-                <td style="vertical-align:top"><b>Alpha Phi</b><br>Kat Harbaruk<br>Sasha Stadnik</td>
-                <td style="vertical-align:top"><b>Doctors Without Borders</b><br>Kelsey Harre<br>Carter Davis</td>
-                <td style="vertical-align:top"><b>Phi Gamma Delta (Fiji)</b><br>Julian Alberto</td>
-                <td style="vertical-align:top"><b>Theta Chi</b><br>Alex Gruber</td></tr>
+                <td style="vertical-align:top"><b>Alpha Tau Omega</b><br>Ciaran O'Rourke<br></td>
+                <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Emma Nelson<br>Julia Rocco<br>Shannon Jones</td>
+                <td style="vertical-align:top"><b>Sigma Alpha</b><br>Peyton Corbin </td></tr>
+                
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Tau Omega</b><br>Connor Pitischi<br>Max Phillips</td>
-                <td style="vertical-align:top"><b>Dream Team</b><br>Summer Stavrevski</td>
-                <td style="vertical-align:top"><b>Phi Kappa Tau</b><br>Oliver Hewett</td>
-                <td style="vertical-align:top"><b>Theta Tau</b><br>Mckenzie Channon<br>Molly Durnas</td></tr>
+                <td style="vertical-align:top"><b>AMSA</b><br>Hannah Pardo <br>Taylor Tompkins</td>
+                <td style="vertical-align:top"><b>Hispanic Student Association</b><br>Daniela Sanchez</td>
+                <td style="vertical-align:top"><b>Sigma Alpha Epsilon</b><br>Nick Miller<br>Paris Mihaj</td></tr>
+                
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>AMSA</b><br>Karan Kwatra<br>Hannah Pardo</td>
-                <td style="vertical-align:top"><b>Footprints: Buddy and Support Program</b><br>Michael Aji<br>Kenna Hildenbrand</td>
-                <td style="vertical-align:top"><b>Phi Mu</b><br>Anna Long<br>Jenna Lance</td>
+                <td style="vertical-align:top"><b>Beta Theta Pi</b><br>Enzo Benkiran<br>Grant Schmid</td>
+                <td style="vertical-align:top"><b>Kappa Alpha Order</b><br>Nick Soviero</td>
+                <td style="vertical-align:top"><b>Sigma Chi</b><br>Connor Short</td></tr>
+                
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>Catholic Gators</b><br>Diana Brunner<br>Gisela Rojas-Carreno</td>
+                <td style="vertical-align:top"><b>Kappa Alpha Theta</b><br>Brianne Fabiano<br>Taylor Ehrlich</td>
+                <td style="vertical-align:top"><b>Sigma Kappa</b><br>Marlee Tobik</td></tr>
+                
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>Chi Omega</b><br>Sara Matos<br>Sarah Daly</td>
+                <td style="vertical-align:top"><b>Kappa Delta</b><br>Aliyah Formont<br>Olivia Leeper</td>
+                <td style="vertical-align:top"><b>Sigma Nu</b><br>Kameron Turner </td></tr>
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>Chi Phi</b><br>Jacob Rothenberg<br>Sean Kurvers</td>
+                <td style="vertical-align:top"><b>Kappa Kappa Gamma</b><br>Angelina Del Toro<br>Bianca Hong </td>
+                <td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Alexander Briones</td></tr>
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>College of Nursing</b><br>Brandy Morales<br>Samantha Bloom</td>
+                <td style="vertical-align:top"><b>Kappa Phi Epsilon</b><br>Glen Dizon<br>Mackey Jones</td>
+                <td style="vertical-align:top"><b>Society of Women Engineers</b><br>Bailey Ballard<br>Jazmine Sandoval</td></tr>
+                
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>College of Pharmacy</b><br>Jordyn Wiener<br>Karla Hernandez Martinez</td>
+                <td style="vertical-align:top"><b>Kappa Sigma</b><br>Nolan Hensley </td>
+                <td style="vertical-align:top"><b>Tau Epsilon Phi</b><br>Teo Resnik</td></tr>
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>Delta Chi</b><br>Josh Rosner</td>
+                <td style="vertical-align:top"><b>Lambda Chi Alpha</b><br>Lucas Pereira<br>Jason Davis </td>
+                <td style="vertical-align:top"><b>Tau Kappa Epsilon</b><br>Jorge Valarezo</td></tr>
+                
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>Delta Delta Delta</b><br>Elizabeth Wainer<br>Kate Caranante</td>
+                <td style="vertical-align:top"><b>Nina Karlinsky Memorial Team</b><br>Ronald Rodriguez</td>
+                <td style="vertical-align:top"><b>Theta Alpha</b><br>Claire Schreiber<br>Julia Quinones</td></tr>
+                
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>Delta Gamma</b><br>Abigail Search<br>Kara Motsch</td>
+                <td style="vertical-align:top"><b>Omega Phi Alpha</b><br>Brooke Peck</td>
+                <td style="vertical-align:top"><b>Theta Chi</b><br>Gabriel Jewelewicz</td></tr>
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>Delta Nu Zeta</b><br>Eliza Thorn<br>Natalie Hayek</td>
+                <td style="vertical-align:top"><b>Theta Tau</b><br>Gabriela Rodrigo<br>Jaren Palmasani</td></tr>
+              <tr><td><br></td></tr>
+              <tr>
+                <td style="vertical-align:top"><b>Delta Phi Epsilon</b><br>Irina Frangos<br>Sydney Weisman</td>
+                <td style="vertical-align:top"><b>Phi Eta Sigma Honor Society</b><br>Isabella Guzzo</td>
                 <td style="vertical-align:top"><b>Tone Def A Cappella</b><br>Georgina Vitola</td></tr>
+                
+                <td style="vertical-align:top"><b>Phi Kappa Tau</b><br>Alessaandro Perugini</td>
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Benton Engineering Council</b><br>Leah Radovich</td>
-                <td style="vertical-align:top"><b>Gamma Eta</b><br>Paola Velez</td>
-                <td style="vertical-align:top"><b>Pi Beta Phi</b><br>Mackenzie Potts<br>Kylie Phifer</td>
-                <td style="vertical-align:top"><b>UF Club Field Hockey</b><br>Serena Patel</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>Beta Theta Pi</b><br>Michael Hampton<br>Alexander Propsta</td>
-                <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Jordan Edelman<br>Aine Booth</td>
-                <td style="vertical-align:top"><b>Pi Delta Psi</b><br>Duc Huynh</td>
-                <td style="vertical-align:top"><b>UF Innovation Academy</b><br>Autumn Farmer</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>Campus Diplomats</b><br>Gracie Johnson<br>Logan Foster</td>
-                <td style="vertical-align:top"><b>Gator ADAA</b><br>Aashka Shah<br>Richa Bhavsar</td>
-                <td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Matthew Devarona<br>Matthew Benavidez</td>
-                <td style="vertical-align:top"><b>UF MEDLIFE</b><br>Joceline Rodriguez-Saucedo<br>Gabriela Arias</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>Catholic Gators</b><br>Gisela Rojas-Carreno<br>Karina Czubkowski</td>
-                <td style="vertical-align:top"><b>Gator Band</b><br>Lindsey Aumann</td>
-                <td style="vertical-align:top"><b>Pi Kappa Phi</b><br>Nicholas Albury</td>
-                <td style="vertical-align:top"><b>UF Pre-Physician Assistant Association</b><br>Nainika Kumar<br>Hannah Hide</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>Chi Omega</b><br>Alyssa Alalouf<br>Sarah Daly</td>
-                <td style="vertical-align:top"><b>Hearts for the Homeless</b><br>Maria Serafim<br>Miranda Omenaca</td>
-                <td style="vertical-align:top"><b>Pi Lambda Phi</b><br>Jacob Needle<br>Logan Clyatt</td>
-                <td style="vertical-align:top"><b>UFAA: Florida Cicerones</b><br>Jennifer Lena<br>Molly Lantinberg</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>Chi Phi</b><br>James Greco<br>Jacob Rothenberg</td>
-                <td style="vertical-align:top"><b>Hispanic Student Association</b><br>Daylenis Clavijos</td>
-                <td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Jordan Edelman<br>Jacy Grosz</td>
-                <td style="vertical-align:top"><b>Zeta Beta Tau</b><br>Coby Farhi</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>Class Councils</b><br>Daniel Gallup</td>
-                <td style="vertical-align:top"><b>Indian Student Association</b><br>Kamakshi Dhillon</td>
-                <td style="vertical-align:top"><b>Preview Staff</b><br>Daisy Facio-Aguiniga</td>
-                <td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Wylie Nelson<br>Ekaterina Ivanova</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>College of Nursing</b><br>Lauren Sevilla<br>Brandy Morales</td>
-                <td style="vertical-align:top"><b>Kappa Alpha Order</b><br>John Kuebel</td>
-                <td style="vertical-align:top"><b>Public Health and Health Professions</b><br>Alyssa Dellutri<br>Summer Stavrevski</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>College of Pharmacy</b><br>Cristina Alberti<br>Nicole Larusso</td>
-                <td style="vertical-align:top"><b>Kappa Alpha Theta</b><br>Danielle Burstein<br>Madalyn Pensabene</td>
-                <td style="vertical-align:top"><b>Sigma Alpha</b><br>Peyton Corbin</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>Cupcakes for a Cure</b><br>Kylie Sartalamacchia</td>
-                <td style="vertical-align:top"><b>Kappa Delta</b><br>Mia Fisher<br>Celeste Baro</td>
-                <td style="vertical-align:top"><b>Sigma Alpha Epsilon</b><br>Parker McHenry<br>Paris Mihaj</td></tr>
-              <tr><td><br></td></tr>
-              <tr>
-                <td style="vertical-align:top"><b>Delta Delta Delta</b><br>Kaitlyn Roberts<br>Zoe Estberg</td>
-                <td style="vertical-align:top"><b>Kappa Kappa Gamma</b><br>Kendall Tabachnik<br>Meredith Fortini</td>
-                <td style="vertical-align:top"><b>Sigma Chi</b><br>Alan Ruiz</td></tr>
+                <td style="vertical-align:top"><b>Delta Sigma Phi</b><br>CJ Martin<br>Daniel Dvorak</td>
+                <td style="vertical-align:top"><b>Phi Mu</b><br>Emma Tullio<br>Samantha Butler</td>
+                <td style="vertical-align:top"><b>UF Honors Program</b><br>Claudia Elena</td></tr>
+                
 
 
             </tbody>
