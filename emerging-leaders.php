@@ -82,225 +82,225 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 <p>Members of the Emerging Leaders Program will attend weekly small group meetings and monthly general body meetings. Throughout their small group meetings, Emerging Leaders will focus on: completing diverse projects that uplift and inspire the Dance Marathon community, shadowing various Captain Teams present throughout Dance Marathon, expanding their knowledge and personal fundraising efforts through resources that will allow them to succeed inside and outside of Dance Marathon, and participating in bonding with like minded peers. At general body meetings, Emerging Leaders will have the opportunity to learn more about the goals and efforts of Dance Marathon, hear inspiring stories from our Miracle Families, and gain exposure to prominent speakers from the University of Florida and the Gainesville community.</p>
 <p>During the Main Event, Emerging Leaders will have the ability to use the skills they’ve learned throughout the year to participate in various leadership opportunities. </p>
 <p>All in all, the Emerging Leaders Program aspires to provide students wanting to join the Dance Marathon movement with a unique and immersive learning opportunity that allows students to instill positive change within the organization while also learning about the Dance Marathon community as a whole.</p>
-<h3>2021 Emerging Leaders</h3>
-<p> Congratulations to our the members of 2021 Emerging Leaders Program! </p>
+<h3>2022 Emerging Leaders</h3>
+<p> Congratulations to our the members of 2022 Emerging Leaders Program! </p>
 <table style="width:100%">
     <tbody class="emergingleaders"> </tbody>
 </table>
-<!--<table style="width:100%">
+<table style="width:100%">
 <tr>
-	<td>	Abigail Boeneman	</td>
-	<td>	Adam Rosenblum	</td>
-	<td>	Adrian Mendoza	</td>
-	<td>	Adriana Laine	</td>
-	<td>	Aidan Evans	</td>
-	<td>	Alex Goldman	</td>
+	<td>	Abbey Lantinberg	</td>
+	<td>	Abby Cohen	</td>
+	<td>	Abigail Scharber	</td>
+	<td>	Adel Acs	</td>
+	<td>	Adele Dorion	</td>
+	<td>	Adrianna Figueroa	</td>
 </tr>
  <tr>
-	 <td>	Alexandra Guerra	</td>
-	 <td>	Alexandra Heyer	</td>
-	 <td>	alexia lugo	</td>
-	 <td>	Alivia Baxendell	</td>
-	 <td>	Allison Brummer	</td>
-	 <td>	Alyssa Morford	</td>
+	 <td>	Aidan Copeland	</td>
+	 <td>	Alana Toby	</td>
+	 <td>	Alejandro Ramirez	</td>
+	 <td>	Alexandra Bravo	</td>
+	 <td>	Alexandra Longa	</td>
+	 <td>	Alina Kershner	</td>
 </tr>
 <tr>
-	<td>	Amanda Fentress	</td>
-	<td>	Amanda Wichterman	</td>
-	<td>	Ana Ibarrola	</td>
-	<td>	Angelica Byrd	</td>
-	<td>	Annabelle Groux	</td>
-	<td>	Ansley Jones	</td>
+	<td>	Alissa Serovich	</td>
+	<td>	Allie Shockley	</td>
+	<td>	Allison Haley	</td>
+	<td>	Allison Volmer	</td>
+	<td>	Alyssa Liebegott	</td>
+	<td>	Amanda Veltri	</td>
 </tr>
 <tr>
-	<td>	Anthony Rahbany	</td>
-	<td>	Anya Wiener Benitez	</td>
-	<td>	Ariel Gordon	</td>
-	<td>	Ashia Hightower	</td>
-	<td>	Ashley Taylor	</td>
-	<td>	Ashton Greusel	</td>
+	<td>	Andrew Bass	</td>
+	<td>	Andrew Neclerio	</td>
+	<td>	Andrew Ruales	</td>
+	<td>	Anna Garst	</td>
+	<td>	Anna Kate Smith	</td>
+	<td>	Ansley Goldstein	</td>
 </tr>
 <tr>
-	<td>	Aubrey Kilduff	</td>
-	<td>	Ava Daly	</td>
-	<td>	Bailey Petty	</td>
-	<td>	Blakely Paymani	</td>
-	<td>	Breann Barone	</td>
-	<td>	Bridget Hartig	</td>
+	<td>	Ariana Martinez	</td>
+	<td>	Ashley Dankese	</td>
+	<td>	Ava Carter	</td>
+	<td>	Ava Dinow	</td>
+	<td>	Ben Zion	</td>
+	<td>	Benjamin Kirsch	</td>
 </tr>
 <tr>
-	<td>	Brittany Steinfeld	</td>
-	<td>	Brooklyn Nave	</td>
-	<td>	Caden Cress	</td>
-	<td>	Caitlyn Pinto	</td>
-	<td>	Campbell Jones	</td>
-	<td>	Carli Sley	</td>
+	<td>	Benjamin Tempest	</td>
+	<td>	Bianca Arocha	</td>
+	<td>	Brian Beckman	</td>
+	<td>	Brielle Serovich	</td>
+	<td>	Bronson Allemand	</td>
+	<td>	Cameron Slade	</td>
 </tr>
 <tr>
-	<td>	Carly Beverly	</td>
-  <td>	Carly Swanson	</td>
-  <td>	Cayla Epstein	</td>
-  <td>	Charles Hang	</td>
-  <td>	Chelsea Caplan	</td>
-  <td>	Chloe Judge	</td>
+	<td>	Camila Acevedo	</td>
+  <td>	Camille Eyman	</td>
+  <td>	Camryn Boyette	</td>
+  <td>	Caroline Bush	</td>
+  <td>	Catherine Zykoski	</td>
+  <td>	Chloe Jezerinac	</td>
 </tr>
 <tr>
-	<td>	Chris Stallings	</td>
-	<td>	Clayton Gaulding	</td>
-	<td>	Colette Bialick	</td>
-	<td>	Collin Walsh	</td>
-	<td>	Corey Reeves	</td>
-	<td>	Coryell Dreyer	</td>
+	<td>	Christian Hunter	</td>
+	<td>	Clarissa Johnston	</td>
+	<td>	Cole Carpinteri	</td>
+	<td>	David Zaibert	</td>
+	<td>	Diana Stepankovskaya	</td>
+	<td>	Eden Rickmers	</td>
 </tr>
 <tr>
-	<td>	Courtney Crenshaw	</td>
-	<td>	Dalena Nguyen	</td>
-	<td>	Daniela Suarez	</td>
-	<td>	Danielle Silva	</td>
-	<td>	Daphne Furman	</td>
-	<td>	Dayanis Oliva	</td>
+	<td>	Elise Heidlebaugh	</td>
+	<td>	Eliza Greenwald	</td>
+	<td>	Ellen Rowland	</td>
+	<td>	Emily Valenza	</td>
+	<td>	Emma Ackerman	</td>
+	<td>	Emma Silverman	</td>
 </tr>
 <tr>
-	<td>	Deep PATEL	</td>
-  <td>	Delaney Czworka	</td>
-  <td>	Dina Modlin	</td>
-  <td>	Dominic Salamone	</td>
-  <td>	Dylan Nugent	</td>
-  <td>	Eliezer Cruz	</td>
+	<td>	Emma Turba	</td>
+  <td>	Erin Partlow	</td>
+  <td>	Flynn Baliton	</td>
+  <td>	Gabriella Williams	</td>
+  <td>	Gabrielle Goldberg	</td>
+  <td>	Georgette Suarez	</td>
 </tr>
 <tr>
-	<td>	Elisabeth (Lizzie) Lewalski	</td>
-  <td>	Emily Karas	</td>
-  <td>	Emily Myers	</td>
-  <td>	Eric De Rezende	</td>
-  <td>	Ethan Kramer	</td>
-  <td>	Faith Freeman	</td>
+	<td>	Gina Fimiano	</td>
+  <td>	Griffin Boyd	</td>
+  <td>	Hailey Hartle	</td>
+  <td>	Haley Bohm	</td>
+  <td>	Hensley Smith	</td>
+  <td>	Isabella Fogarty	</td>
 </tr>
 <tr>
-	<td>	Francesca Ycaza	</td>
-	<td>	Gabriela Garcia	</td>
-	<td>	Gabriela Hernandez	</td>
-	<td>	Grace Hogan	</td>
-	<td>	Grace Tyler	</td>
-	<td>	Gracie Curran	</td>
+	<td>	Jackson Bond	</td>
+	<td>	Jacob Borukhin	</td>
+	<td>	Jacob Veeder	</td>
+	<td>	Jason Bravo	</td>
+	<td>	Jayden Broome	</td>
+	<td>	Joey DiMario	</td>
 </tr>
 <tr>
-	<td>	Gregory Buettner	</td>
-	<td>	Haley Esperanza	</td>
-	<td>	Haley Spooner	</td>
-	<td>	Hannah Cohen	</td>
-	<td>	Hannah Howell	</td>
-	<td>	Hollyann Brown	</td>
+	<td>	Joey Sheiner	</td>
+	<td>	John Jackel	</td>
+	<td>	Jordan Cohan	</td>
+	<td>	Jordan Hartman	</td>
+	<td>	Jordyn Smith	</td>
+	<td>	Joshua Waters	</td>
 </tr>
 <tr>
-	<td>	Houston Barenholtz	</td>
-  <td>	Jack Braverman	</td>
-  <td>	Jack Brennan	</td>
-  <td>	Jack Kirsch	</td>
-  <td>	Jacob Warchola	</td>
-  <td>	Jake Peter	</td>
+	<td>	Julia Boas	</td>
+  <td>	Juliana Greer	</td>
+  <td>	Juliet Bell	</td>
+  <td>	Kaitlin Crivello	</td>
+  <td>	Kate Wagner	</td>
+  <td>	Katie Perez	</td>
 </tr>
 <tr>
-	<td>	Jared Herbert	</td>
-	<td>	Jazlyn Edwards	</td>
-	<td>	Jenna Whitney	</td>
-	<td>	Jennifer Gilby	</td>
-	<td>	Jillian Hersman	</td>
-	<td>	Joel Rios-Rodriguez	</td>
+	<td>	Kelsey Johnson	</td>
+	<td>	Kiki Innes	</td>
+	<td>	Kristen Russo	</td>
+	<td>	Lauren Howell	</td>
+	<td>	Lauren Maya	</td>
+	<td>	Lauren Vonhof	</td>
 </tr>
 <tr>
-	<td>	John Hermes	</td>
-	<td>	Jonathan Fernandez	</td>
-	<td>	Jonathan Maya	</td>
-	<td>	Jonathan Trilla	</td>
-	<td>	Jonquil (Jonny) Sekula	</td>
-	<td>	Joseph Gage BonJorn	</td>
+	<td>	Leah Richard	</td>
+	<td>	Leamarie Mattia	</td>
+	<td>	Leif Holmstrom	</td>
+	<td>	Lily Dechen	</td>
+	<td>	Lily Weiss	</td>
+	<td>	Logan Black	</td>
 </tr>
 <tr>
-	<td>	Joseph Lavoie	</td>
-	<td>	Julia Cordover	</td>
-	<td>	Juliana Licata	</td>
-	<td>	Juliana Tragakis	</td>
-	<td>	Kaiya-rai Sarmenta	</td>
-	<td>	Karis Perusek	</td>
+	<td>	Lucas Alvarado	</td>
+	<td>	Luke Broding	</td>
+	<td>	Maclane Fisher	</td>
+	<td>	Macy Monsour	</td>
+	<td>	Macy Thompson	</td>
+	<td>	Madeline Gubbini	</td>
 </tr>
 <tr>
-	<td>	Karli Kimbrough	</td>
-	<td>	Katherine Powell	</td>
-	<td>	Kathryn (Katie) Herstik	</td>
-	<td>	Kathryn Byers	</td>
-	<td>	Kathryn Quintero	</td>
-	<td>	Katie Puccio	</td>
+	<td>	Madison Holmes	</td>
+	<td>	Maggie McGuane	</td>
+	<td>	Mallory Padgett	</td>
+	<td>	Mammoon Sukhera	</td>
+	<td>	Mandy Eastwood	</td>
+	<td>	Margaret McMahan	</td>
 </tr>
 <tr>
-	<td>	Kayley Hamilton	</td>
-	<td>	Kelsy Coughlin	</td>
-	<td>	Kendall Tabachnik	</td>
-	<td>	Kendra Hall	</td>
-	<td>	Kira Pratico	</td>
-	<td>	Krista Stevens	</td>
+	<td>	Mary Grace Kelly	</td>
+	<td>	Mason Solomon	</td>
+	<td>	Michael Behling	</td>
+	<td>	Miranda Benjamin	</td>
+	<td>	Morgan Francis	</td>
+	<td>	Morgan Tafel	</td>
 </tr>
 <tr>
-	<td>	Landry Baliton	</td>
-  <td>	Lauren Bouskila	</td>
-  <td>	Lauren Hetrzroni	</td>
-  <td>	Lauren Toledo	</td>
-  <td>	Leacy Burton	</td>
-  <td>	Leighton Scroggie	</td>
+	<td>	Nadya DeFreitas	</td>
+  <td>	Natalie Krupsky	</td>
+  <td>	Natalie Sesodia	</td>
+  <td>	Nina Fiedler	</td>
+  <td>	Olivia Glass	</td>
+  <td>	Olivia Knier	</td>
 </tr>
 <tr>
-	<td>	Lilli Levinson	</td>
-	<td>	Lilliam Drenth	</td>
-	<td>	Lily Mild	</td>
-	<td>	Luana Souza	</td>
-	<td>	Lucia Costas Velasco	</td>
-	<td>	Luis De La Rosa	</td>
+	<td>	Olivia Udell	</td>
+	<td>	Payton Kadivar	</td>
+	<td>	Quinn Healy	</td>
+	<td>	Rachel Beer	</td>
+	<td>	Rachel Rosen	</td>
+	<td>	Raquel Alvarado	</td>
 </tr>
 <tr>
-	<td>	Luz Mata	</td>
-  <td>	Lyndi George	</td>
-  <td>	Mackenzie Bender	</td>
-  <td>	Maddie Abdoney	</td>
-  <td>	Maddy Michielssen	</td>
-  <td>	Madison Artzt	</td>
+	<td>	Raymond Steinbrecher	</td>
+  <td>	Rhyan Tappan	</td>
+  <td>	Rocio Santiago	</td>
+  <td>	Ryan Boyle	</td>
+  <td>	Ryan Magee	</td>
+  <td>	Ryan Maze	</td>
 </tr>
 <tr>
-	<td>	Madison Camporese	</td>
-	<td>	Madison Duncanson	</td>
-	<td>	Madison Wnuk	</td>
-	<td>	mariana maciel	</td>
-	<td>	Mariana Monforte	</td>
-	<td>	Mark Pennington	</td>
+	<td>	Ryan Tweeddale	</td>
+	<td>	Sabrina Roizman	</td>
+	<td>	Samantha Fink	</td>
+	<td>	Samantha Litman	</td>
+	<td>	Samantha Robbins	</td>
+	<td>	Sara Sugerman	</td>
 </tr>
 <tr>
-	<td>	Mary Kate Urbanski	</td>
-	<td>	Matias Villanueva	</td>
-	<td>	Matthew Comeau	</td>
-	<td>	Matthew Whitman	</td>
-	<td>	Matthew Wroblewski	</td>
-	<td>	Maxwell Gravenstine	</td>
+	<td>	Savannah Chalmers	</td>
+	<td>	Savannah Traub	</td>
+	<td>	Scarlett Cooney	</td>
+	<td>	Sebastian Russe	</td>
+	<td>	Skyler Hayes	</td>
+	<td>	Sophe Sokolik	</td>
 </tr>
 <tr>
-	<td>	Melissa Tempest	</td>
-  <td>	Michael Connelly	</td>
-  <td>	Michael Contu	</td>
-  <td>	Michael Sivilli	</td>
-  <td>	Michelle Fernandez-Valle	</td>
-  <td>	Miguelangel Ruiz	</td>
+	<td>	Sophia Clemmensen	</td>
+  <td>	Sophia Linale	</td>
+  <td>	Sophia Villaverde	</td>
+  <td>	Spencer Gary	</td>
+  <td>	Stephanie Buell	</td>
+  <td>	Taylor Benson	</td>
 </tr>
 <tr>
-	<td>	Molly Lantinberg	</td>
-  <td>	Morgan Hilton	</td>
-  <td>	Natalia Guerra	</td>
-  <td>	Natalia Thornton	</td>
-  <td>	Nawaf Alay	</td>
-  <td>	Nhuy Nguyen	</td>
+	<td>	Taylor Callaway	</td>
+  <td>	Timothy Sterling	</td>
+  <td>	Tyller Bauer	</td>
+  <td>	Valeria Ortega	</td>
+  <td>	Vanessa Hurtado	</td>
+  <td>	Veronica Nobles	</td>
 </tr>
 <tr>
-	<td>	Nicole Sanborn	</td>
-  <td>	Noah Denker	</td>
-  <td>	Olivia Panzica	</td>
-  <td>	Rachel Early	</td>
+	<td>	Will Eckert	</td>
+  <td>	Will Steed	</td>
+  <td>	Zachary Elowitch	</td>
+  <td>	Zoe Robert	</td><!--
   <td>	Rachel Friedman	</td>
   <td>	Rachel Kelly	</td>
 </tr>
@@ -353,13 +353,13 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
   <td>	Zoie Danyali	</td>
 </tr>
 <tr>
-	<td>	Rebekah Shields 	</td>
+	<td>	Rebekah Shields 	</td> -->
 </tr>
 </table>
 					 </div>
 				 </div>
 			 </div>
-		 </div>-->
+		 </div>
 
 </div>
 </div>
