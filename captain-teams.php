@@ -590,7 +590,6 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 Clara Flint |
                 Cora Gilbert |
                 Dilon Bruncaj |
-                Elizabeth Martynow |
                 Helen Abbott |
                 Isabel Ponce |
                 Janel Hernandez |
@@ -778,9 +777,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                   Katie Kovar |
                   Kayla Zweben |
                   Kaylin White |
-                  Kevin Labra |
                   Kierra Hill |
-                  Lane Fontana |
                   Laurel Guffey |
                   Lauren Still |
                   Lexi Devescovi |
