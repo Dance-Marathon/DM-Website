@@ -342,9 +342,10 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <tbody class="outreach">
           Abigail Dugas |
           Allyson Carlos |
-          Anthony Lamberto |
           Aria Patel |
           Bridget Richer |
+          Caitlin Casady |
+          Caroline Labrit |
           Emily Chattin |
           Gabi Goldenberg |
           Heather Sley |
@@ -358,6 +359,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
           Raquel Castillo |
           Regan Bellantoni |
           Sarina Parikh |
+          Sonali Vijay |
           Zoe Leitner
           </tbody>
               </table>
