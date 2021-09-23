@@ -66,9 +66,9 @@ background-image: url("/assets/images/BannerPhotos21/DSC07473.jpg");
 -->
 <b>Emerging Leaders Application</b> Now Closed </p>
 				<!--	<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0vzpwH8jOnh0YRw" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Thursday, September 9</b>.</p> -->
-<b>Ambassador Application</b>
+<b>Ambassador Application</b> Now Closed
                     
-					<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_8IX6TuGzURJg4se" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Monday, September 13</b>. </p>
+				<!--	<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_8IX6TuGzURJg4se" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Monday, September 13</b>. </p>
 					<p>If you have any questions regarding applications, please reach out to our Operations Manager, Maddie Hersch, at <a href="mailto:mhersch@floridadm.org">mhersch@floridadm.org</a>.</p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
