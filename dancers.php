@@ -65,10 +65,10 @@ background-image: url("/assets/images/BannerPhotos21/Rachel_F-0710.jpg");
             <p>Dance Marathon at the University of Florida is an annual event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, students stay awake and on their feet, if able, to raise money and awareness for Children's Miracle Network Hospitals.</p>
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p>In addition to standing, if able, for the duration of the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
-            <p><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">Click Here to Register to Dance</a></p>
+            <p><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4927" target="_blank">Click Here to Register to Dance</a></p>
             <p>Please email Daniela Suarez, Dancer Relations Overall Director, at <a href="mailto:dsuarez@floridadm.org">dsuarez@floridadm.org </a> with any questions!</p>
           </div>
-            
+
         <div role="tabpanel" class="tab-pane fade in active" id="dancing-as-an-individual">
 
             <h2>Dancing as an Individual</h2>
@@ -96,7 +96,7 @@ background-image: url("/assets/images/BannerPhotos21/Rachel_F-0710.jpg");
               <li>Toothbrush & toothpaste</li>
               <li>Hairbrush</li>
               <li>Chapstick</li>
-              <li>Deodorant</li> 
+              <li>Deodorant</li>
               <li>Baby wipes</li>
               <li>Goldbond powder</li>
               <li>DM at UF fanny pack</li>
@@ -122,7 +122,7 @@ background-image: url("/assets/images/BannerPhotos21/Rachel_F-0710.jpg");
               <li>If you have medications, you will be able to turn these in to your Ambassador or Dancer Relations Captain and they will be kept safe in our Medical Room with our medical personnel.</li>
             </ul>
           <p></p>
-          </div> --> 
+          </div> -->
 
           <div role="tabpanel" class="tab-pane fade" id="dancer-resources">
             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
@@ -266,7 +266,7 @@ background-image: url("/assets/images/BannerPhotos21/Rachel_F-0710.jpg");
                   </div>
                 </div>
               </div>
-                
+
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="q14">
                   <h4 class="panel-title">
@@ -277,11 +277,11 @@ background-image: url("/assets/images/BannerPhotos21/Rachel_F-0710.jpg");
                 </div>
                 <div id="a14" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q14">
                   <div class="panel-body">
-                    You do not have to be in an Organization to register to Dance. You can register as an individual using the link under Dancer Resources; individual Dancers will be placed onto the Gator Aides team. Gator Aides is a team that allows individual Dancers to participate in Dance Marathon at UF with a group although they are not registered with an Organization. 
+                    You do not have to be in an Organization to register to Dance. You can register as an individual using the link under Dancer Resources; individual Dancers will be placed onto the Gator Aides team. Gator Aides is a team that allows individual Dancers to participate in Dance Marathon at UF with a group although they are not registered with an Organization.
                   </div>
                 </div>
               </div>
-                
+
             </div>
           </div>
         </div>
