@@ -15,7 +15,7 @@ include("includes/navbar.php");
    var spreadsheetID = "1qGVFluq-wlSZGPX2ubEZ8TcqmhfaLyJVjNiJTl3F0EE";
 
    // Make sure it is public or set to Anyone with link can view
-   var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+   var url = "https://sheets.googleapis.com/v4/spreadsheets/" + spreadsheetID + "/values?alt=json";
 
    var counters = {
      outreach: 0,
