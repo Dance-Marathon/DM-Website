@@ -33,9 +33,9 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1091.jpg");
 						<li><a href="/mini-marathon">Mini-Marathon</a></li>
 						<li><a href="/miracle-gala">Miracle Gala</a></li>
 						<li><a href="/Miracles-in-Color-5k">Miracles in Color 5K</a></li>
-						<li><a class="Moralloween">Moralloween</a></li>
+						<li><a href="Moralloween">Moralloween</a></li>
 						<li><a href="/Moral-Madness">Morale Madness</a></li>
-						<li><a href="/active">Transform Today</a></li>
+						<li><a class="active">Transform Today</a></li>
           </ul>
         </div>
 			</div>
