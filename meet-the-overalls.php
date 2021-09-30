@@ -114,7 +114,7 @@
 	    'image' => 'Daniela_Suarez',
 	   ),
 	   array(
-	    'name' => 'coolest overall',
+	    'name' => 'Dina Modlin',
 	    'position' => 'Design & Technology Overall',
 	    'email' => 'dmodlin@floridadm.org',
 	    'previous_involvement' => ' 2-year Dancer, Creative Development Captain',
