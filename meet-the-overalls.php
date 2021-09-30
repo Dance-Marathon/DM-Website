@@ -5,6 +5,8 @@
 	include("includes/head.php");
 	include("includes/navbar.php");
 
+
+
   $overalls = array(
 		array(
 	  'image'                 =>  'Blank',
@@ -112,7 +114,7 @@
 	    'image' => 'Daniela_Suarez',
 	   ),
 	   array(
-	    'name' => 'Dina Modlin',
+	    'name' => 'coolest overall',
 	    'position' => 'Design & Technology Overall',
 	    'email' => 'dmodlin@floridadm.org',
 	    'previous_involvement' => ' 2-year Dancer, Creative Development Captain',
@@ -425,10 +427,10 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-5.jpg");
             echo '</div>';
           }
         } ?>
-				<div>
+		<!--		<div>
 					<h2>Donation Problems?</h2>
 					<p>If you have Classy questions, or problems with a donation, please contact <a href="mailto:cgaulding@floridadm.org ">cgaulding@floridadm.org </a></p>
-				</div>
+				</div> -->
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 
