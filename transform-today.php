@@ -49,11 +49,11 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1091.jpg");
 <br></br>
 <h4><i>When</i></h2>
 
-Stay tuned for our announcement of Transform Today 2022!  </li>
+Transform Today 2022 is from 9:00 a.m. on October 26th until 11:12 a.m. on October 27th!  </li>
 <br></br>
 <h4><i>What</i></h4>
 
-Transform Today is Dance Marathon at the University of Florida’s Fall fundraising campaign. For 26.2 hours from 8 a.m. until 10:12 a.m. the next day, Dance Marathon at UF compiles our efforts to raise funds and awareness to transform the lives of the children and families at UF Health Shands Children’s Hospital. 
+Transform Today is Dance Marathon at the University of Florida’s Fall fundraising campaign. For 26.2 hours from 9 a.m. until 11:12 a.m. the next day, Dance Marathon at UF compiles our efforts to raise funds and awareness to transform the lives of the children and families at UF Health Shands Children’s Hospital. 
 <br></br>
 <h4><i>How Can I Get Involved</i></h4>
 
