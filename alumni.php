@@ -347,9 +347,10 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 
 
 				      <h3>Lifetime DMA Membership</h3>
-						<p>This year, we would like to introduce the <b>Lifetime DMA Membership!</b> This membership gives you the ability to register to the DMA with a one-time fee that will grant you a lifetime of engagement with Dance Marathon Alumni. This fee is tax-deductible and unlocks incredible benefits as a DM at UF alumni. Our goal as an organization is to continue to engage, involve, and update our alumni year over year on the impacts they have made, and continue to make, by supporting Dance Marathon at UF. </p>
+						<p>This lifetime membership provides the following benefits for a one-time fee of $40. If you are signing up for the DMA for the first time, you will receive a complimentary Event Package outlined underneath the membership benefits. Purchase the Lifetime DMA Miracle Membership <a href=https://dance-marathon-at-uf-510104.square.site/product/2022-dance-marathon-alumni-lifetime-membership/1?cs=true&cst=custom> here </a>. <p> </p>
+                            
 						<div></div>
-						<p>Within the Lifetime DMA Membership, there are <b><u>two</u></b> membership options:</p>
+					<!--	<p>Within the Lifetime DMA Membership, there are <b><u>two</u></b> membership options:</p>
 						<div></div>
 					  <h4><i style="color:#f79b63;"><b>(1) Miracle Membership</b></i></h4>
 						<p>This <b>general membership</b> provides new DMA members with benefits outlined below, through a one-time fee of </b>$40</b>. The Miracle Membership, as it stands today, includes those registered members from the inception of the DMA (2015) to all current members (2021). This membership will automatically grandfather returning members, and new members to the DMA, into the Miracle Membership. </p>
@@ -363,7 +364,7 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 								<p><small>*DMA Dancer registration fees apply.</small></p>
 							</ul>
 					<h4><i style="color:#617ba6;"><b>(2) Legacy Membership</b></i></h4>
-						<p>This <b>upgraded membership</b> unlocks all membership benefits, plus the bonus membership benefits outlined below, through an annual fee of <b>$40</b>. This membership is ideal for those who plan to attend Dance Marathon at UF in person and over multiple years. If this is your first year signing up for the DMA, your one-time fee of <b>$40</b> will grant you this exclusive Legacy Membership.</p>
+						<p>This <b>upgraded membership</b> unlocks all membership benefits, plus the bonus membership benefits outlined below, through an annual fee of <b>$40</b>. This membership is ideal for those who plan to attend Dance Marathon at UF in person and over multiple years. If this is your first year signing up for the DMA, your one-time fee of <b>$40</b> will grant you this exclusive Legacy Membership.</p> -->
 						<p><b><i>Membership Benefits Include:</i></b></p>
 							<ul>
 								<li>Monthly E-Newsletter updates</li>
@@ -371,32 +372,34 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 								<li>Opportunity to participate as a DMA Dancer* at the event</li>
 								<li>Voting and leadership opportunities for the DMA Board</li>
 								<li>Inclusion and invites to regionally hosted DMA events</li>
+                                <li>First year members get a complimentary Event Package</li>
+                                <p><small>*DMA Dancer registration fees apply.</small></p>
 							</ul>
-							<p><b style="color:#617ba6;">PLUS these Additional Membership Benefits:</b></p>
+							<p><b style="color:#f79b63;">Event Package:</b></p>
 							<ul>
+                                <p>DMA members can purchase an exclusive event package to enhance their experience during the Dance Marathon weekend in spring. This package is ideal for those who plan to attend Dance Marathon at UF and can be purchased for $40 up to one month before the event. If this is your first year signing up for the DMA, you will automatically receive a complimentary Event Package included in your Lifetime Miracle Membership. Purchase the DMA Event Package <a href=https://dance-marathon-at-uf-510104.square.site/product/2022-dance-marathon-alumni-lifetime-membership/1?cs=true&cst=custom> here</a>.</p>
+                                <p><b style="color:#f79b63;">The Event Package includes:</b></p>
 								<li>Opportunity to participate in a behind-the-scenes hospital tour</li>
 								<li>Opt-in to receive the DMA event t-shirt**</li>
 								<li>Discounted Miracle Gala tickets</li>
 								<li>Tickets to the DMA Brunch during the event</li>
 								<li>Ability to receive fundraising incentives during the event</li>
 								<li>Access to the Family Room at the event</li>
-								<p><small>*DMA Dancer registration fees apply.</small></p>
-								<p><small>**DMA event t-shirt opt-in includes a direct mailing option for those members unable to attend the event. </small></p>
-							</ul>
+                                <p><small>*DMA event t-shirt opt-in includes a direct mailing option for those members unable to attend the  event.</small></p>
+								<p><small>**Dependent on COVID-19 protocols and regulations.</small></p>
+							</ul> <!--
 					<h4><b><u><i>Please note:</i></u></b></h4>
 					<p>1. As a <b style="color:#f79b63;">Miracle Member</b> of the DMA, you will have the benefit to maintain this status for life. You may elect to upgrade your membership to the new <b style="color:#617ba6;">Legacy Membership</b> as outlined below.</p>
 					<p>2. Any returning member, whose current membership lapses, will automatically move into the <b style="color:#f79b63;">Miracle Membership</b> status. These members may upgrade to the new <b style="color:#617ba6;">Legacy Membership</b> at any time throughout the year, up until one month before Dance Marathon weekend. </p>
-
+-->
 
 					  <h4><b><u>FAQs</u></b></h4>
 				      <p><b>Q: I have never been a part of the DMA before and just registered for the first time. What membership do I have? </b><br>
-					  <b>A:</b> As a first-time DMA member, your <b>$40</b> fee unlocks the <b style="color:#617ba6;">Legacy Membership</b> for your first year. After your first year, you will have the option to pay the annual fee of <b>$40</b> to continue your <b style="color:#617ba6;">Legacy Membership</b>, or you will be automatically shifted into the <b style="color:#f79b63;">Miracle Membership</b> at no cost.</p>
+					  <b>A:</b> As a first-time DMA member, your <b>$40</b> fee makes you a Lifetime Miracle Member and provides you with a complimentary Event Package.The following year, you will have to pay $40 for the Event Package if you so choose.  </p>
 					  <p><b>Q: What if I registered for the DMA in a previous year (2015-2021) and never renewed?</b><br>
-					  <b>A:</b> You will be grandfathered into the <b style="color:#f79b63;">Miracle Membership</b>!</p>
-					  <p><b>Q: Can I upgrade my <b style="color:#f79b63;">Miracle Membership</b> throughout the year?</b><br>
-					  <b>A:</b> Yes! However, you can only upgrade up until one month before the event so we are able to accommodate for all of the additional benefits (i.e. t-shirt, brunch, etc.).<br>
-					  <p><b>Q: I was a <b style="color:#617ba6;">Legacy Member</b> and forgot to renew... Am I still a member?</b><br>
-					  <b>A:</b> Yes! If you do not renew your Legacy Membership, you are automatically enrolled into the Miracle Membership for the upcoming year. </p>
+					  <b>A:</b> You are already a Lifetime Miracle Member! Should you want an Event Package, you will have to purchase one for $40. The link to purchase is available <a href=https://dance-marathon-at-uf-510104.square.site/product/2022-dance-marathon-alumni-lifetime-membership/1?cs=true&cst=custom> here </a>.</p>
+                          <p><b>Q: Can I purchase an Event Package throughout the year?</b> <br>
+                          <b>A:</b> Yes! However, you can only purchase it up until one month before the event so we are able to accommodate for all of the additional benefits (i.e. t-shirt, brunch, etc.). This year the final day you can purchase the event package is February 28th.<br>
 					  <div></div>
 					  <p><b>If you have any questions, please feel free to email them to <a href="alumni@floridadm.org">alumni@floridadm.org</a>.</b></p>
           	</div>
