@@ -36,9 +36,10 @@ background-image: url("/assets/images/BannerPhotos21/Gracie C13.jpg");
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-        <h3>A Yearlong Philanthropy</h3>
-        <p>Dance Marathon is a yearlong commitment that includes many fundraising events aimed at reaching University students, businesses, and Gainesville residents. These events help us create a fun and exciting atmosphere while raising awareness about DM, whether it is through social media or inspirational stories from our Miracle Children who speak at the events. DM at UF's community events are all highly anticipated as they build up throughout the year toward the main Event in the spring.</p>
-        <p>Your involvement in these events is what makes them successful! Reaching out for the support of the entire community is vital for the continued success of Gainesville's local Children's Miracle Network Hospital. For more information about how to get involved in these events, please contact us at <a href="floridadm@floridadm.org">floridadm@floridadm.org</a>.</p>
+        <p>Dance Marathon at UF aims to support the community which gives so much to our cause by uplifting local non-profits and service organizations, our Community Partners,  throughout the year! DM at UF offers service opportunities for our members to engage with these Community Partners year round and earn spirit points. </p>
+        <p>If you are interested in becoming a Community Partner or have any questions, please contact our Community Outreach Overall Director, Melissa Tempest at
+            <a href="mtempest@floridadm.org">mtempest@floridadm.org</a>.</p>
+>>>>>>> Stashed changes
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
