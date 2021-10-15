@@ -102,6 +102,16 @@
 					</ul>
 				</li>
 
+				<li <?php echo ($parent == 'service') ? "class='open'" : ""; ?>>
+					<a href="/service" class="dropdown-toggle">Service</a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href ="/community-partners">Community Partners</a></li>
+						<li><a href="/volunteer-dates">Volunteer Dates</a></li>
+					</ul>
+				</li>
+				
+
+
 
 
 <!--SPACEEEEEEEE ---->

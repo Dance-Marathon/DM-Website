@@ -36,23 +36,9 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1172.jpg");
       <div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 
-<<<<<<< Updated upstream
-      <h3>Volunteer Dates</h3>
-      <p>
-          Dance Marathon at University of Florida is an organization led by servant leaders that strive to spread their passion for giving and creating change beyond our immediate campus. Members will receive one spirit point for engaging in a service event. </p>
-
-      <p> Keep Alachua County Beautiful Volunteering - October 23rd, 2021 </p>
-              <p> Help keep our communities beautiful by cleaning DM at UF’s adopted road and beyond! Register for this event
-              <a href="https://forms.gle/xx2pDPbyxaPF3wmBAX">here</a>. </p>
-
-      <p> Giving Tuesday - November 30th, 2021 </p>
-              <p> This is an organization-wide service day where all members will be able to dedicate the day to giving back to our community by volunteering with our Community Partners.
-          Registration for this event will be available here in the near future. </p>
-=======
           <h3>Volunteer Dates</h3>
           <p>
               Dance Marathon at University of Florida is an organization led by servant leaders that strive to spread their passion for giving and creating change beyond our immediate campus. Members will receive one spirit point for engaging in a service event. </p>
->>>>>>> Stashed changes
 
           <p> Keep Alachua County Beautiful Volunteering - October 23rd, 2021 </p>
                   <p> Help keep our communities beautiful by cleaning DM at UF’s adopted road and beyond! Register for this event
@@ -63,7 +49,6 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1172.jpg");
               Registration for this event will be available here in the near future. </p>
 
           </ol>
-
       <?php } else { echo 'This page is currently closed.'; } ?>
       </div>
     </div>
