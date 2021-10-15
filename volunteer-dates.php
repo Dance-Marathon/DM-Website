@@ -42,7 +42,7 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1172.jpg");
 
           <p> Keep Alachua County Beautiful Volunteering - October 23rd, 2021 </p>
                   <p> Help keep our communities beautiful by cleaning DM at UF’s adopted road and beyond! Register for this event
-                  <a href="https://forms.gle/xx2pDPbyxaPF3wmBAX">here</a>. </p>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrpJw6OuYWN8KGGnC-X-T3xJusHGztDXBVBCj6tzOlaQ1pDg/viewform">here</a>. </p>
 
           <p> Giving Tuesday - November 30th, 2021 </p>
                   <p> This is an organization-wide service day where all members will be able to dedicate the day to giving back to our community by volunteering with our Community Partners.
