@@ -37,13 +37,18 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1172.jpg");
       <div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
 
-      <h3>Community Partners</h3>
+      <h3>Meet our Community Partners:</h3>
       <p>
-        Insert words here     
+          Meet our Community Partners for the 2021- 2022 year! These non-profit and service organizations help better the lives of those who live in the Gainesville Community, the community which gives so much to Dance Marathon at UF. As an organization whose goal is to create change, we hope to uplift our Community Partners throughout the year.
       </p>
 
-      </ol>
-
+        </div>
+        <div style="height: 35px;"></div>
+        <div class="row">
+        <div class="col-sm-7">
+            <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\CommunityPartners-01.png" width="865" height="1080" /></a>
+      </div>
+      </div>
       <?php } else { echo 'This page is currently closed.'; } ?>
       </div>
     </div>
