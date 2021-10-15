@@ -14,7 +14,7 @@
       </ol> -->
       <div class="carousel-inner">
         <div class="item active">
-          <img class="img-responsive"  src="assets/images/sectionbg/2021/TotalRevealhome.jpeg">
+          <img class="img-responsive"  src="assets/images/sectionbg/2021/TotalReveal.jpeg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <!-- <div class="col-md-6">
