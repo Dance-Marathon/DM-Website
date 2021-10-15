@@ -49,7 +49,7 @@
   </div>
 </div>
 <?php include("includes/navbar.php"); ?>
-<div class="container">
+<div class="container"> 
 
 <?php if ($dance_marathon_event_started == true) { ?>
 
