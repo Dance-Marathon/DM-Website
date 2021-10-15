@@ -39,7 +39,7 @@ background-image: url("/assets/images/BannerPhotos21/Gracie C13.jpg");
 
           <p>Dance Marathon at UF aims to support the community which gives so much to our cause by uplifting local non-profits and service organizations, our Community Partners,  throughout the year! DM at UF offers service opportunities for our members to engage with these Community Partners year round and earn spirit points. </p>
           <p>If you are interested in becoming a Community Partner or have any questions, please contact our Community Outreach Overall Director, Melissa Tempest at
-              <a href="mtempest@floridadm.org">mtempest@floridadm.org</a>.</p>
+              <a href="mailto:mtempest@floridadm.org">mtempest@floridadm.org</a>.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
