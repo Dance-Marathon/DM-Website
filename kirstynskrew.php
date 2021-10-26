@@ -64,12 +64,13 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD239.jpg");
 
 
 					<h3>Kirstyn's Krew</h3>
-					<p>Registration <b>OPENS:</b> March 29th</p>
-					<p>Registration <b>CLOSES:</b> April 5th 11:59 p.m.</p>
-					<p>Registration for Kirstyn's Krew 2021 is now closed. </p>
+					<p>Registration <b>OPENS:</b> October 18th</p>
+					<!-- <p>Registration <b>CLOSES:</b> April 5th 11:59 p.m.</p> -->
+					<p>Registration for Kirstyn's Krew 2021 is now open. </p>
 				    <h4><i>General Information</i></h4>
-					<p>Kirstyn’s Krew is a program that honors Kirstyn Tripp, our Miracle Child who lost her battle to childhood illness in 2018. The purpose of Kirstyn’s Krew is for students to experience Dance Marathon at UF 2021 from a different perspective and learn more about our fight to end childhood illness. </p>
-					<p>As a member of Kirstyn’s Krew, you will be permitted to attend a 3-hour shift on either April 10th or April 11th. The shift will consist of a private teaching of the Linedance by our Morale team, an hour in visitation stands overlooking our event, and an opportunity to hear from and get to know Kirstyn’s family. You will get to experience all that Dance Marathon at UF is and celebrate the miracles we make together for the children at UF Health Shands Children's Hospital.</p>
+					<p>Kirstyn’s Krew is a program that honors Kirstyn Tripp, our Miracle Child who lost her battle to childhood illness in 2018. Kirstyn's Krew allows students to experience Dance Marathon at the University of Florida from a different perspective and learn more about our fight to end pediatric illness. </p>
+					<p>As a member of Kirstyn’s Krew, throughout the year, participants will experience all that Dance Marathon at UF has to offer and celebrate the Miracles we make together for the children at UF Health Shands Children's Hospital. You will have the opportunity to participate in all DM at UF events, as well as events only open to Kirstyn's Krew, such as bonding events with the Tripp Family.</p>
+                    <p>At the Main Event, you will be permitted to attend a 6-hour shift on either March 26th or March 27th. The shift will consist of a private teaching of the Linedance by our Morale team, various activities around the O’Dome, and an opportunity to hear from and get to know Kirstyn’s family. Kirstyn’s Krew will have a rolling application that requires a $13 minimum fundraising amount on your personal fundraising page. The $13 is raised in honor of her life and the amazing impact she made on our Organization and everyone in her life.</p>
 					<p> Please email Olivia Humbard, Recruitment Overall Director, at <a href=mailto:ohumabrd@floridadm.org>ohumbard@floridadm.org</a> with any questions! </p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
