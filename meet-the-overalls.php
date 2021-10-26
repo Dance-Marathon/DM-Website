@@ -40,7 +40,7 @@
 		 'fun_fact' => 'This is going to be my 7th year of participating in DM, as I was a part of my high school\'s program for 4 years as well. Shout out VBHS!',
 		 'favorite_memory' => 'My last Dance Marathon as a high school student. That was the day that solidified my love and passion for this organization and it’s cause. I knew then that this was a movement I wanted to be a part of for the rest of my life. ',
 		 'motivation' => 'My biggest sources of motivation come from two different places. The first of these is drawn from the courageous Miracle Children and their families that we benefit through this organization. The second source of inspiration stems from the thousands of college students who could be doing a million other things with their time, but instead chose to dedicate their time and efforts to drastically impacting pediatric illness. ',
-		 'image' => 'Kayla_Anschuetz',
+		 'image' => 'KaylaAnschuetz',
 		),
 		array(
 		 'name' => 'Madison Hersch',
@@ -54,7 +54,7 @@
 		 'fun_fact' => 'I am ambidextrous! ',
 		 'favorite_memory' => 'My favorite Dance Marathon memory comes from two years ago. My fraternity was paired with Kendall \'Miss K\' Lewis and we had the pleasure of getting to know her over the year. One day when we had an ice cream fundraiser for her at Sweet Dreams, and she was complaining about doing her homework, I made her a bet that if she got good marks on her report card then she could \'pie\' me in the face at DM. She never let me live it down throughout the year and constantly reminded me of the bet. She got every perfect marks on her report card, so Kendall and her sister Taylor got to each \'pie\' me at DM with orange and blue pies. I may have been sticky for the rest of the event, but I know they loved every second of it! It\'s the little things that make a difference to these kids, and with that being said Kendall and the Lewis family have become great friends, even family to me! This tradition continues today as well, last year I took three pies from the sass master herself!',
 		 'motivation' => 'The Kids! What we accomplish for the kids and their families is truly remarkable! The Miracle Children year in and year out continue to be the inspiration for myself and the light upon on our organization. Every time that I hear a Miracle Story or when I get the chance to meet a new Miracle Family brings chills and aspirations for a greater tomorrow. The bravery and strength of the Miracle Children and their families truly inspire me to keep going and keep fighting because even when the odds were against them they didn\'t give up. These children and these families have taught me so many life lessons that I will carry on with for the rest of my life and for that I am forever grateful. Grateful For The Kids, grateful for the families, grateful for the smiles, and grateful for the memories. That\'s what motivates me!',
-		 'image' => 'Madison_Hersch',
+		 'image' => 'Maddie_Hersch',
 		),
 
 		array(
@@ -69,7 +69,7 @@
 	    'fun_fact'              =>  'I collect records and love all things rock n roll!',
 	    'favorite_memory'       =>  'All of the amazing people that I&#39;ve met through this organization and am still meeting today.',
 	    'motivation'            =>  'Making others happy!',
-	    'image'                 =>  'Paige_Davis',
+	    'image'                 =>  'PaigeDavis',
 	  ),
 	  array(
 	    'name'                  =>  'Houston Barenholtz',
@@ -83,7 +83,7 @@
 	    'fun_fact'              =>  'I was named after the young girl in the book To Kill a Mockingbird.',
 	    'favorite_memory'       =>  'Every year, Dance Marathon is my favorite weekend of the year. The entire weekend and feeling that Dance Marathon gives me is hands down my favorite part of college. However, if I had to pick a specific moment, it would be the last Line Dance from Dance Marathon 2017. Morale teaches the Line Dance throughout the event, and it is amazing to watch from the side stage as over 800 dancers learn it. By the end of the event everyone is so full of emotion and watching everyone do the Line Dance teary-eyed and in unison is amazing.',
 	    'motivation'            =>  'Every time that I see one of the Miracle Children smile, it motivates me and reminds me why we do what we do. The fact that we are able to come together as a community and put smiles on these childrens&#39; faces is constant motivation. I feel so lucky that I am surrounded by an organization, children, and friends that never cease to inspire and motivate me. Dance Marathon has provided me with a lifelong goal to help others and fight for an end to childhood illness in Gainesville and all over the world.',
-	    'image'                 =>  'Houston_Barenholtz',
+	    'image'                 =>  'Houston',
 	  ),
 	  	   array(
 	    'name' => 'Melissa Tempest',
@@ -97,7 +97,7 @@
 	    'fun_fact' => 'One time I got 2nd degree burns from Ramen noodles.',
 	    'favorite_memory' => 'My favorite DM memory was watching my little brother Jack rock out on the guitar during the kid\'s talent show!',
 	    'motivation' => 'Every time one of our Miracle Children laughs or smiles it reminds me how important it is that we do what we do. Their unwavering strength inspires me every day to do all that I can to keep them laughing and smiling. ',
-	    'image' => 'Melissa_Tempest',
+	    'image' => 'MelissaTempest',
 	   ),
 	   array(
 	    'name' => 'Daniela Suarez',
@@ -125,7 +125,7 @@
 	    'fun_fact' => 'I am a pretty avid Yoyo-er!',
 	    'favorite_memory' => 'My favorite DM Memory is my first year dancing. It was my first exposure to the Dance Marathon community, and the passion and energy I felt walking into the O\'Dome that Saturday morning, seeing all of these college students so driven by this cause resonated with me greatly. ',
 	    'motivation' => 'The Miracle Children and their families motivate me. The children and their families go through the most challenging times anyone could imagine with a smile on their face. Their perseverance and positivity inspires me to live life to the fullest. ',
-	    'image' => 'Dina_Modlin',
+	    'image' => 'Dina',
 	   ),
 		array(
 		 'name' => 'Scotty Trethewey',
@@ -139,7 +139,7 @@
 		 'fun_fact' => 'I have been SCUBA certified since I was 8 years old. I was headbutted by a shark during my first "open water" dive.',
 		 'favorite_memory' => 'On-stage selfie with Camden and the entire O\'Connell center during DM2018',
 		 'motivation' => 'A quote describes my motivation; \'To the world you may be one person, but to one person you may be the world\'. I want to make a lasting positive impact on every single person I meet.',
-		 'image' => 'Scotty_Trethewey',
+		 'image' => 'ScottyTrethewey',
 		 ),
 		array(
 	    'name' => 'Clayton Gaulding',
@@ -180,7 +180,7 @@
 		'fun_fact' => 'I lived in Costa Rica for 2 years!',
 		'favorite_memory' => 'My favorite DM memory comes from this past year. When the closing ceremonies video played, I was reminded of how much my team and I had accomplished over the past year. This experience with them and seeing DM at UF make 3 million miracles was such an unforgettable moment.',
 		'motivation' => 'The tangible differences Dance Marathon at UF and Children\'s Miracle Network makes on the lives of children and families who need it most. ',
-		'image' => 'Jack_Kirsch',
+		'image' => 'JackKirsch',
 		 ),
 		  array(
 		   'name' => 'Emily Giles',
@@ -194,7 +194,7 @@
 		   'fun_fact' => 'I dressed as a banana and danced on the side of the road for two years to advertise for the Wellington Green Market. ',
 		   'favorite_memory' => 'At DM18, I had the awesome honor to be selected as the \'Assistant Director of the Year\' and accept the award on stage during the Closing Ceremonies. While receiving the award was incredible, my favorite memory was my walk to the stage. Haley, Rachel and both Declan and Ayden\'s family, wrapped me in a hug, crying, telling me how proud they were of me. That\'s a feeling I will hold onto forever, and the feeling I remember anytime I need to smile. ',
 		   'motivation' => 'Every day I\'m lucky to talk to the most passionate, dedicated high school and college students that have ever existed. I\'m motivated by these students, the pride they feel when their events come together, their abilities to overcome any roadblock in their path, and their passion For The Kids. I\'m motivated by one generation, fighting for the next!',
-		   'image' => 'Emily_Giles',
+		   'image' => 'EmilyGiles',
 		  ),
 		  array(
 			'name' => 'Amanda de la Vega',
@@ -222,7 +222,7 @@
 	    'fun_fact' => 'I broke Google not once, but twice.',
 	    'favorite_memory' => 'My favorite DM memory this year was listening to Nick Mullen tell his Miracle Story. This was so special to me because when I first met him in the beginning of the year, he did not like to tell his story in front of even a small group of Merchandise Captains, but at the event he stood up in front of 800 people and nailed it! This was such an eye opening moment for me where I realized that not only are we raising funds for this cause, but we are also offering love and support to each of these children. ',
 	    'motivation' => 'Each story I hear and each family I meet drives my passion for this organization! ',
-	    'image' => 'Sadie_Joba',
+	    'image' => 'SadieJoba',
 	   ),
 	   array(
 	    'name' => 'Michael Sivilli',
@@ -236,7 +236,7 @@
 	    'fun_fact' => 'I\'ve owned venus fly traps, a hermit crab, and a dwarf hamster, and 2 crocs all in college.',
 	    'favorite_memory' => 'My favorite DM memory was sitting at the top of the O\'Dome watching over a thousand people do the Linedance and how it brought them all together and made everyone so happy! ',
 	    'motivation' => 'The kids. Their love for life under the hardest circumstances pushes me every single day to do everything that I can for them.  They deserve the world and the fact that DM at UF brings together so many students who all fight for something bigger than themselves is so inspring.',
-	    'image' => 'Michael_Sivilli',
+	    'image' => 'MikeSivilli',
 		),
 		 array(
 	    'name' => 'Charles Hang',
@@ -265,7 +265,7 @@
 			'fun_fact' => 'I have been playing the piano since I was six years old! ',
 			'favorite_memory' => 'It is so difficult to choose just one, but my favorite DM memory would have to be the moment immediately following the total reveal at DM at UF 2018. Truthfully, the number had almost nothing to do with it. I looked at the number for a second and was filled with pride, but then I turned my attention to everyone\'s faces. I noticed everyone in the room was overcome with emotion. I watched friends embrace and Miracle Children jump into our arms, tears streaming down their faces. There wasn\'t a dry eye in the house. Watching hundreds upon hundreds of people realizing the magnitude of their efforts was absolutely incredible. The moment after the total reveal is so much more than seeing a number. It is hope, joy and knowledge that our efforts and goals have come to fruition. We made a tangible, real impact on the lives of these kids we treasure so much. I will never forget that moment. ',
 			'motivation' => 'Our Miracle Children and their families! They are some of the most wonderful people I have ever met, and I am forever grateful to be a part of their lives. They make me want to be a better person. Additionally, I am motivated by everyone involved in Dance Marathon at UF. Seeing hundreds of students work tirelessly and selflessly to help the kids is truly inspiring. It is a privilege to work alongside them to fight for our Miracle Children to have the healthy lives and futures they deserve. ',
-			'image' => 'Sofia_Miret',
+			'image' => 'SofiMiret',
 		 ),
 		  array(
 	    'name' => 'Kristina Smith',
@@ -279,7 +279,7 @@
 	    'fun_fact' => 'I am a Justin Timberlake enthusiast!',
 	    'favorite_memory' => 'Every year during the event I always find 20 minutes to go sit up in the bleachers of the O\'Dome and let everything soak in. As I step away from the craziness and give myself time to reflect on the year, I always find myself overwhelmed with gratitude for DM at UF. I will always hold those special moments close to my heart!',
 	    'motivation' => 'Every time I see the colorful windows of UF Shands Children\'s Hospital, I am reminded of the unimaginable battles that take place within those walls. The brave children who persevere through the hardest of times will forever motivate me and inspire me to continue our fight FTK.',
-	    'image' => 'Kristina_Smith',
+	    'image' => 'KristinaSmith',
 		),
 
 		 array(
@@ -294,7 +294,7 @@
 	    'fun_fact' => 'If there was one place I’d want to spend the rest of my life it would be Disney World!',
 	    'favorite_memory' => 'My favorite DM memory was seeing the Miracle kids become emotional when we hit $3 million last year. It showed that they appreciate all that we do and that they are just as proud of us as we are of them! ',
 	    'motivation' => 'The Miracle Children motivate me everyday to live life to the fullest. They remind me that life is too short to be anything less than happy and that everyday can and should be a good day. They are true warriors that inspire me every single day! ',
-	    'image' => 'Olivia_Humbard',
+	    'image' => 'OliviaHumbard',
 		 ),
 
 		  array(
@@ -309,7 +309,7 @@
 		   'fun_fact' => 'I used to be Tumblr famous in 2012. ',
 		   'favorite_memory' => 'Getting my hospital band cut off by Elie at closing ceremonies last year was definitely a powerful moment. It really bought together everything we had worked so hard for and reminded me why we do what we do.',
 		   'motivation' => 'I\'ve always loved working with and helping kids. After graduation, I hope to go to medical school to pursue my dream of becoming a pediatrician.',
-		   'image' => 'Emily_Hull',
+		   'image' => 'EmilyHull',
 		 ),
 
 		array(
@@ -353,7 +353,7 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-5.jpg");
           } ?>
           <div class="col-sm-4">
             <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/overalls2021/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
+              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT2022/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
               <h3><?php echo $overalls[$i]['name']; ?></h3>
             </a>
             <p style="text-align: center;">
