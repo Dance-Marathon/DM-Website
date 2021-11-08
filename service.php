@@ -30,7 +30,7 @@ background-image: url("/assets/images/BannerPhotos21/Gracie C13.jpg");
   			<div class="sub-nav">
           <ul>
 		  				<li><a href ="/community-partners">Community Partners</a></li>
-						<li><a href="/volunteer-dates">Volunteer</a></li>
+						<li><a href="/volunteer-dates">Volunteer Dates</a></li>
           </ul>
         </div>
 			</div>

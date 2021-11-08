@@ -40,14 +40,11 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1172.jpg");
           <p>
               Dance Marathon at University of Florida is an organization led by servant leaders that strive to spread their passion for giving and creating change beyond our immediate campus. Members will receive one spirit point for engaging in a service event. </p>
 
-          <p> Keep Alachua County Beautiful Volunteering - October 23rd, 2021 </p>
-                  <p> Help keep our communities beautiful by cleaning DM at UF’s adopted road and beyond! Register for this event
-                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrpJw6OuYWN8KGGnC-X-T3xJusHGztDXBVBCj6tzOlaQ1pDg/viewform">here</a>. </p>
-
           <p> Giving Tuesday - November 30th, 2021 </p>
                   <p> This is an organization-wide service day where all members will be able to dedicate the day to giving back to our community by volunteering with our Community Partners.
-              Registration for this event will be available here in the near future. </p>
-
+              Please register to volunteer for this event by clicking 
+              <a href="https://docs.google.com/spreadsheets/d/1OHumWMMJXPUxoKTIaztcvdPNoXdwK00a8mj0SetUzhg/edit?usp=sharing">here</a>. </p>
+          <p> If you are unable to volunteer, please participate in the Canned Food Drive with Hitchcock Field and Fork Food Pantry between 11/8 - 11/18 by bringing a canned food to your meetings or check-ins for an extra spirit point.</p>
           </ol>
       <?php } else { echo 'This page is currently closed.'; } ?>
       </div>
