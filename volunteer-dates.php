@@ -43,7 +43,7 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1172.jpg");
           <p> Giving Tuesday - November 30th, 2021 </p>
                   <p> This is an organization-wide service day where all members will be able to dedicate the day to giving back to our community by volunteering with our Community Partners.
               Please register to volunteer for this event by clicking 
-              <a href="https://docs.google.com/spreadsheets/d/1OHumWMMJXPUxoKTIaztcvdPNoXdwK00a8mj0SetUzhg/edit?usp=sharing">here</a>. </p>
+              <a href="https://docs.google.com/spreadsheets/d/17hRc6pJBqxHhnI-4G_Rkv9ikcnVg46HqPKTsaPnY9bc/edit">here</a>. </p>
           <p> If you are unable to volunteer, please participate in the Canned Food Drive with Hitchcock Field and Fork Food Pantry between 11/8 - 11/18 by bringing a canned food to your meetings or check-ins for an extra spirit point.</p>
           </ol>
       <?php } else { echo 'This page is currently closed.'; } ?>
