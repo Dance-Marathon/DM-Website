@@ -45,11 +45,10 @@ background-image: url("/assets/images/BannerPhotos21/5k_2-13-21_SarahD24.jpg");
                 <p>Tickets are no longer available.</p>
         
                 <p>Welcome to the Miracles in Color 5K benefiting UF Health Shands Children's Hospital!
-Join us for the Miracles in Color 5K on February 13, 2021 at Flavet Field. Miracles in Color is open to anyone who wants to support our cause and have a great time. We couldn't think of a better way for you to spend your Saturday morning than with paint and by supporting a hospital that is so prominent in our community!
+Join us for the Miracles in Color 5K on February 19, 2022 at Flavet Field. Miracles in Color is open to anyone who wants to support our cause and have a great time. We couldn't think of a better way for you to spend your Saturday morning than with paint and by supporting a hospital that is so prominent in our community!
   </p>
                 <p>The course runs through the University of Florida campus and will have color stations throughout the course as well as at the finish line. At each color station, runners will be doused in color.* All participants will be provided with a Miracles In Color 5K white shirt during registration.</p>
-				<p>This year we are offering a virtual 5K option! Virtual participants will be provided a “Race Day Bundle” with a t-shirt and colored powder. There are individual tickets, as well as tickets for groups of two or four. Virtual registration must be completed by February 4 to guarantee shipping arrival before February 13.</p>
-				<p>Registration closes Tuesday, Feb. 9 at 11:59 p.m. After that point, no more online registrations will be accepted. No registration will be allowed at the event due to capacity limits.</p>
+				<!-- <p>Registration closes Tuesday, Feb. 9 at 11:59 p.m. After that point, no more online registrations will be accepted. No registration will be allowed at the event due to capacity limits.</p> -->
 				<p>All proceeds will be donated to UF Health Shands Children's Hospital, our local Children's Miracle Network Hospital, from Dance Marathon at the University of Florida.</p>
 				<p>*Don't want to be colored with powder? We will give you something to indicate to our color team that you want to stay clean. </p>
 				<p>For more information, please contact the Operations Manager, Madison Hersch, at <a href=mailto:mhersch@floridadm.org>mhersch@floridadm.org.</a></p>
