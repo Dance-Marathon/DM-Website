@@ -40,7 +40,7 @@
 						<li><a href="/faq">FAQ</a></li>
 						<li><a href="/meet-the-kids">Meet the Kids</a></li>
 						<li><a href="/our-story">Our Story</a></li>
-						<li><a href="/press-releases">Press Release</a></li>
+                        <li><a href="/press-releases">Press Release</a></li>
 						<!--<li><a href="/dmaa">DMAA</a></li>-->
             			<!--<li><a href="/alumni">Alumni</a></li>-->
 					</ul>
@@ -69,7 +69,6 @@
 					<ul class="dropdown-menu" role="menu">
 						<!--<li><a href="/campus-events">Campus Events</a></li> -->
 						<li><a href="/dance-marathon">Dance Marathon 2021 </a></li>
-						<li><a href="/dance-marathon-virtual">DM Virtual Event 2021 </a></li>
 						<!--<li><a href="/golf-tournament">Golf Tournament</a></li>-->
 						<li><a href="/mini-marathon">Mini-Marathons</a></li>
 						<!--<li><a href="">Running Event (Coming Soon)</a></li>-->
