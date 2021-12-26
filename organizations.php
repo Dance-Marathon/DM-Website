@@ -388,6 +388,8 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1615.jpg");
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 					  <li><a href="/kristynskrew">Kirstyn's Krew</a></li>
 						<li><a class="active">Organizations</a></li>
+            <li><a href="/service">Service</a></li>
+
 
           </ul>
         </div>

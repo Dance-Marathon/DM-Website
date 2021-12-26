@@ -65,14 +65,16 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 		 <div class="col-md-3">
 			 <div class="sub-nav">
 					<ul>
-            <li><a href="/alumni">Alumni</a></li>
-            <li><a href="/ambassadors">Ambassadors</a></li>
-          	<li><a href="/applications">Applications</a></li>
+						<li><a href="/alumni">Alumni</a></li>
+						<li><a href="/ambassadors">Ambassadors</a></li>
+						<li><a href="/applications">Applications</a></li>
 						<li><a href="/captain-teams">Captain Teams</a></li>
 						<li><a href="/dancers">Dancers</a></li>
-            <li><a class="active">Emerging Leaders</a></li>
+						<li><a class="active">Emerging Leaders</a></li>
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
-            <li><a class="organizations">Organizations</a></li>
+						<li><a class="organizations">Organizations</a></li>
+						<li><a href="/service">Service</a></li>
+
 					</ul>
 			 </div>
 		 </div>

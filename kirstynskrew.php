@@ -36,6 +36,8 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD239.jpg");
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a class="active">Kirstyn's Krew</a></li>
 						<li><a href="/organizations">Organizations</a></li>
+						<li><a href="/service">Service</a></li>
+
           </ul>
         </div>
 			</div>

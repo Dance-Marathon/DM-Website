@@ -315,6 +315,8 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
 						<li><a href="/organizations">Organizations</a></li>
+						<li><a href="/service">Service</a></li>
+
           </ul>
         </div>
 			</div>
