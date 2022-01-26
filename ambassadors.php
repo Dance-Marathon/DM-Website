@@ -76,6 +76,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
             <li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
             <li><a href="/organizations">Organizations</a></li>
+            <li><a href="/service">Service</a></li>
 
           </ul>
         </div>

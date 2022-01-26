@@ -36,6 +36,8 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD239.jpg");
 						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
 						<li><a class="active">Kirstyn's Krew</a></li>
 						<li><a href="/organizations">Organizations</a></li>
+						<li><a href="/service">Service</a></li>
+
           </ul>
         </div>
 			</div>
@@ -73,6 +75,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD239.jpg");
                     <p>At the Main Event, you will be permitted to attend a 6-hour shift on either March 26th or March 27th. The shift will consist of a private teaching of the Linedance by our Morale team, various activities around the O’Dome, and an opportunity to hear from and get to know Kirstyn’s family. Kirstyn’s Krew will have a rolling application that requires a $13 minimum fundraising amount on your personal fundraising page. The $13 is raised in honor of her life and the amazing impact she made on our Organization and everyone in her life.</p>
 					<p> Please email Olivia Humbard, Recruitment Overall Director, at <a href=mailto:ohumabrd@floridadm.org>ohumbard@floridadm.org</a> with any questions! </p>
                     <p> Here is the link to the <a href="https://ufl.qualtrics.com/jfe/form/SV_8CxLWPxjbiH872e" target"_blank">Kirstyn’s Krew Application</a>. </p>
+                    <p><i> *Note: You cannot be on Kirstyn’s Krew and a Dance Marathon Captain Team. </i></p>
 					<!-- This is the Just copy and paste the 2018 link here with updating the words -->
 					 <!-- <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_aeH0EvqGWgRY4nz" target="_blank">2019 Emerging Leaders Program Application</a></h2>
 					 <h2><a href="https://ufl.qualtrics.com/jfe/form/SV_9XiQPLmMzs1x9hH" target="_blank">2019 Captain Application</a></h2> -->

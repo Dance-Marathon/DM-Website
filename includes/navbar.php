@@ -57,6 +57,7 @@
 						<li><a href="/dancers">Dancers</a></li>
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
 						<li><a href="/organizations">Organizations</a></li>
+						<li><a href="/service">Service</a></li>
 
 						<!--	<li><a href="/overall-applications">Overall Applications</a></li>  -->
 					</ul>
@@ -98,14 +99,6 @@
 						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
 						<li><a href="/fundraising_brackets">Organization Impact Levels</a></li>
 						<li><a href="/register-to-fundraise">Register to Fundraise</a></li>
-					</ul>
-				</li>
-
-				<li <?php echo ($parent == 'service') ? "class='open'" : ""; ?>>
-					<a href="/service" class="dropdown-toggle">Service</a>
-					<ul class="dropdown-menu" role="menu">
-						<li><a href ="/community-partners">Community Partners</a></li>
-						<li><a href="/volunteer-dates">Volunteer Dates</a></li>
 					</ul>
 				</li>
 				
