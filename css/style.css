@@ -268,6 +268,7 @@ NAVIGATION MENU
 .navbar-collapse .navbar-nav.navbar-left:first-child {
   margin-left:0;
 }
+
 ul.social-icons > li {
   float:right;
 }
@@ -284,6 +285,8 @@ ul.social-icons > li > a {
 ul.social-icons > li > a:hover, ul.social-icons > li > a:focus {
   background-color: #f79b63;
 }
+
+
 .navbar-right{
   margin: 0;
 }
