@@ -62,22 +62,13 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingOne">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-				What precautions are in place to ensure safety at the Main Event?
+                What will the event look like this year compared to the 2021 Main Event?
                 </a>
               </h4>
             </div>
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
               <div class="panel-body">
-                Dance Marathon at UF is working closely with UF Health Screen, Test & Protect to ensure that the Main Event can safely occur following the University of Florida and CDC event guidelines. Dr. Cindy Prins, the UF Health Screen, Test & Protect Campus Infection Preventionist, has reviewed the current Main Event safety plan. DM at UF will continue to work with Dr. Prins and UF Health Screen, Test & Protect as we plan for the Main Event.
-				<br><br>All UF students attending the Dance Marathon at UF Main Event will be required to provide proof of a “Cleared” status on their ONE.UF to indicate that they are cleared to attend campus events. We are advising all members to limit unnecessary exposures for two weeks leading up to the Main Event to reduce the risk of exposure to COVID-19. All members will have their temperatures checked before entering the Stephen C. O’Connell Center. Temperatures must be below 100.4° to attend the Main Event.
-				<br><br>On-site volunteer medical staff will be available to assist with any injuries or illnesses that may occur throughout the Main Event.
-				<br><br>The O’Connell Center and UF Health Screen, Test & Protect have adjusted capacities to allow for physical distancing. Capacities are broken down according to each location in the O’Connell Center and will be strictly enforced.
-				<br><br>All participants will be required to wear a face covering for the duration of the Main Event.
-				<br><br>Masks with exhalation valves or vents that allow air to be expelled are prohibited because they do not provide protection to others.
-				<br><br>In addition, neck gaiters and bandanas should not be worn unless no other face covering is available.
-				<br><br>Participants will be asked to arrive with their own face covering, however, we will have disposable masks available if someone forgets their face covering.
-				<br><br>Visitors’ contact with UF students will be as limited as possible.
-				<br><br>Thorough and frequent cleaning procedures will be done throughout the O’Connell Center during the Main Event. This will include but is not limited to, hydrostatic sprayers, routinely disinfecting highly trafficked surfaces and hand sanitizing stations.
+                This year, Dance Marathon at UF will be returning to a regular 26.2-hour-long event. We will be returning to our typical capacities and plan to engage everyone in the Stephen C. O'Connell Center in one 26.2-hour shift. We plan to stay up to date and follow all CDC guidelines regarding COVID-19; we will update participants as the event approaches and the final policies.
               </div>
             </div>
           </div>
@@ -85,13 +76,23 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingTwo">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-				Will there be virtual engagement for those unable to attend or uncomfortable attending in-person?
+                What precautions are in place to ensure safety at the Main Event?
                 </a>
               </h4>
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <div class="panel-body">
-			  Yes! The Main Event will be live-streamed on various social media platforms. There will be additional opportunities for Dancers, Captains, Emerging Leaders, Ambassadors, high schoolers and visitors to attend virtually. Visit the Dance Marathon 2021 Virtual Event page to learn more about our virutal options.
+                    <b>COVID-19 </b>
+                    <p>All UF students attending the DM at UF Main Event will be required to wear a CDC-approved mask at all times during the event. We will be advising all members to limit unnecessary exposures for two weeks leading up to the Main Event to reduce the risk of exposure to COVID-19.
+                    <p>     -Masks with exhalation valves or vents that allow air to be expelled are prohibited because they do not protect others. </p>
+                    <p>     -In addition, neck gaiters and bandanas should not be worn unless no other face-covering is available. </p>
+                    <p>     -Participants will be asked to arrive with their own face covering; however, we will have disposable masks available if someone forgets their face covering. </p>
+                    <p>During all serving and interactive activities, we will wipe down all frequently touched surfaces to prevent the spread of any germs or illnesses. </p>
+                    <p> <b>GENERAL SAFETY</b></p>
+                    <p>On-site volunteer medical staff will be available to assist with any injuries or illnesses that may occur throughout the Main Event.
+This year, we will be implementing bag checks and security precautions to ensure the safety of all individuals in the O’Connell Center.</p>
+
+
               </div>
             </div>
           </div>
@@ -99,13 +100,13 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingThree">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-				Are these decisions finalized?
+            Will there be virtual engagement for those unable to attend or uncomfortable attending in person?
                 </a>
               </h4>
             </div>
             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
               <div class="panel-body">
-			  These plans have been developed within the current CDC, Florida Department of Health and University of Florida guidelines for managing an event space while preventing the spread and transmission of COVID-19. All information is subject to change to achieve our goal of keeping members, Miracle Families and our community safe.
+                While there will be no formal virtual engagement, the event's entirety will be live-streamed.
               </div>
             </div>
           </div>
@@ -113,13 +114,27 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingFour">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-				Why are there two shifts?
+                Will visitors be able to attend the Main Event in the O’Connell Center?
                 </a>
               </h4>
             </div>
             <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
               <div class="panel-body">
-			  Two shifts allow us to provide more Dancer spots while keeping our members safe and following the capacities from the O’Connell Center.
+                <p>Yes. This year all visitors are welcome to attend the Main Event. However, they must be checked in, go through security, and be escorted to their respected location. All visitors are welcome to view the Main Event floor from the 100 level stands. </p>
+<p><b>VIPs </b></p>
+<p>VIPs must be invited by Dance Marathon at UF to have access to the Center Court Club to enjoy snacks, beverages, and a place to hang out for the duration of their visit. </p>
+<p>VIPs include: Overall Team family members, past Overall Team members, the DMA, faculty, and staff (by invitation only) </p>
+<p><b>Alumni</b></p>
+<p>All Dance Marathon at UF Alumni are welcome to attend our Main Event. Alumni will have to check-in, go through security, and are welcome on the floor during their respective wristband time.</p>
+<p><b>UF Faculty and Staff</b></p>
+<p>Any UF Faculty and Staff who attend the Main Event will be escorted and shown around by a Recruitment or Community Outreach Captain. If they would like to go on the floor, they will need to receive a colored wristband and go at that time.</p>
+<p><b>Sponsors</b></p>
+<p>Any sponsor who attends the Main Event will be escorted and shown around by a Sponsorship Captain. If they would like to go on the floor, they will need to receive a colored wristband and go at that time.</p>
+<p><b>High Schools</b></p>
+<p>A chaperone must accompany any High School student at all times. If they would like to go on the floor, they will need to receive a colored wristband and go at that time. In addition, Marathon Relations will be hosting special engagements for them.</p>
+<p><b>Friends and Family</b></p>
+<p>Any other visitors are welcome to come and check in to our event. As long as they go through security and receive a wristband, visitors will be allowed on the floor during their wristband color shift time.</p>
+
               </div>
             </div>
           </div>
@@ -127,14 +142,18 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingFive">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-				What is the date and time of each shift?
+                Will any meals be provided?
                 </a>
               </h4>
             </div>
             <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
               <div class="panel-body">
-			  Orange Shift 1: April 10, 8 a.m. - 9:06 p.m.
-			  <br>Blue Shift 2: April 11, 6 a.m. - 7:06 p.m.
+<p><b>Participant meals: </b></p>
+<p>Meals will be provided to all Dancers, Emerging Leaders, Captains, and Assistant Directors at the Main Event. All meals will be served by Hospitality Captains who will wear gloves and sanitize frequently. </p>
+<p><b>External meals: </b></p>
+<p>All VIP visitors will have access to snacks and beverages in the Center Court Club.
+All Miracle Families will receive meals in the Family Room during the event. <p>
+
               </div>
             </div>
           </div>
@@ -150,7 +169,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
               <div class="panel-body">
 			  Visitors must be invited by Dance Marathon at UF to attend the Main Event. Visitor invitations have been sent out for the Main Event.
 			  <br><br>Visitor invitations are in place to ensure the safety of our members and prevent the outside spread of COVID-19.
-			  <br><br>The Main Event will be live-streamed to provide a virtual opportunity for visitors to tune in to the event and stay up to date on what is happening live at the O’Connell Center.
+			  <br><br>The Main Event will be live-streamed to provide a virtual opportunity for visitors to tune in to the event and stay up to date on what is happening live at the O’Connell Center. <!--
               </div>
             </div>
           </div>
@@ -208,7 +227,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             </div>
             <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
               <div class="panel-body">
-			  Meals will be provided to Dancers at the Main Event. All meals will be served by Hospitality Captains who will wear gloves and sanitize frequently. Participants will be instructed to eat outside under covered parking garages or under tents. Additional information regarding food safety will be provided to those groups.
+			  Meals will be provided to Dancers at the Main Event. All meals will be served by Hospitality Captains who will wear gloves and sanitize frequently. Participants will be instructed to eat outside under covered parking garages or under tents. Additional information regarding food safety will be provided to those groups. -->
               </div>
             </div>
           </div>
@@ -226,7 +245,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             </div>
             <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEleven">
               <div class="panel-body">
-			  The duration of time that each Miracle Family can be present in the O’Connell Center will vary depending on the number of families who are interested in attending. Please lookout for an email from the Family Relations Overall, Courtney Kerwin, to indicate your interest level. Once this information is collected, Family shifts will be announced.
+                The duration of time that each Miracle Family can be present in the O’Connell Center will vary depending on the number of families interested in attending. Please lookout for an email from the Family Relations Overall, Scotty Tretheway, to indicate your interest level. Once this information is collected, Family shifts will be announced.
               </div>
             </div>
           </div>
@@ -234,13 +253,13 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingTwelve">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
-				What are the precautions to ensure the safety of the Miracle Children?
+                What are the precautions to ensure the safety of the Miracle Children?
                 </a>
               </h4>
             </div>
             <div id="collapseTwelve" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwelve">
               <div class="panel-body">
-			  We are committed to the health and safety of all of our Miracle Families and members. To ensure the safety of our Miracle Children there will be routine cleaning and sanitizing procedures throughout the O’Connell Center. Each child’s medical team must approve, review or advise their attendance to Dance Marathon 2021. More details will be provided regarding Miracle Child involvement. If you have further questions please contact mainevent@floridadm.org.
+            We are committed to the health and safety of our Miracle Families and members. Routine cleaning and sanitizing procedures will be conducted throughout the O’Connell Center. More details will be provided regarding Miracle Child involvement. For questions, contact <a href="mailto:mainevent@floridadm.org">mainevent@floridadm.org</a>.
               </div>
             </div>
           </div>
@@ -258,7 +277,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             </div>
             <div id="collapseThirteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThirteen">
               <div class="panel-body">
-			  The Dancer experience will uphold the traditional Dancer experience while adapting to CDC guidelines. Dancer shifts will include Miracle Stories, Theme Hours, entertainment, meals and more. Dancers will stand, if able, with no sleep and no caffeine for the duration of their 13.1-hour shift in solidarity with every child affected by pediatric illness.
+            The Dancer experience will uphold the traditional Dancer experience, as has taken place in the past. Dancers will get to be at the Main Event for the entire 26.2 hours and spend the night in the O’Connell Center. Dancers will stand, if able, with no sleep and no caffeine for the whole event in solidarity with every child affected by pediatric illness.
               </div>
             </div>
           </div>
@@ -266,14 +285,14 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingFourteen">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
-				How will Dancer shifts get assigned?
+            How do you get selected to be a Dancer?
                 </a>
               </h4>
             </div>
             <div id="collapseFourteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFourteen">
               <div class="panel-body">
-			  Dancers will preference shifts once their Dancer spot is confirmed on March 26. We cannot guarantee which shift a Dancer will be assigned due to space availability. Dancers will have until Tuesday, March 30 at 12 p.m. to preference their shifts and until Friday, April 2 to confirm their spot in that specific shift.
-			  <br><br>Dancers will sign up with a group of two to four members of their Organization which will serve as their QuaranTeam for the duration of the shift. They will be in the same Dancer Group as their QuaranTeam.
+                Dancer spots will be allocated to each Organization based on their yearlong fundraising and involvement. <br></br>
+                Organizations select Dancers from their Registered Dancer lists and submit the names to DM at UF. Organization Dancer lists will be due by March 18. <!--
               </div>
             </div>
           </div>
@@ -302,7 +321,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div id="collapseSixteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSixteen">
               <div class="panel-body">
 			  Dancer spots will be allocated to each Organization based on their yearlong fundraising and involvement.
-			  <br><br>Organizations select Dancers from their Registered Dancer lists and submit the names to DM at UF. Organization Dancer lists will be due by March 26.
+			  <br><br>Organizations select Dancers from their Registered Dancer lists and submit the names to DM at UF. Organization Dancer lists will be due by March 26.-->
               </div>
             </div>
           </div>
@@ -314,13 +333,15 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingSeventeen">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
-				Will I be able to attend both shifts?
+            Will I be able to attend the full Main Event?
                 </a>
               </h4>
             </div>
             <div id="collapseSeventeen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeventeen">
               <div class="panel-body">
-			  Ambassadors are encouraged to register to dance, meaning that they would be assigned to one shift. There will be a designated area for Ambassadors to come during either shift to assist their Organization’s Dancers.
+                Ambassadors are encouraged to register to dance, meaning they would be welcome to participate in our 26.2-hour event. <br></br>
+                If Ambassadors do not register to dance, they will be welcome to attend the event as a general visitor.
+
               </div>
             </div>
           </div>
@@ -328,13 +349,13 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingEighteen">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
-				Will every Dancer in my Organization have to attend the same shift?
+                How will fundraising levels work?
                 </a>
               </h4>
             </div>
             <div id="collapseEighteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEighteen">
               <div class="panel-body">
-			  No, every Dancer from an Organization may be in the same shift but that is unlikely. Dancers from each Organization will be split into each shift.
+Fundraising levels are determined based on an Organization’s fundraising, Spirit Points, and the number of locked Dancers. When combined, Organizations will be placed into a fundraising level and compete against other Organizations for their spot. Fundraising levels will determine the number of Dancers from each Organization who can attend the Main Event. More information will be provided to Ambassadors regarding fundraising levels.<!--
               </div>
             </div>
           </div>
@@ -348,7 +369,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             </div>
             <div id="collapseNineteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNineteen">
               <div class="panel-body">
-			  Fundraising levels are determined based on an Organization’s fundraising, Spirit Points and the number of locked Dancers. When combined, Organizations will be placed into a fundraising level and compete against other Organizations for their spot. Fundraising levels will determine the number of Dancers from each Organization who can attend the Main Event. More information will be provided to Ambassadors regarding fundraising levels.
+			  Fundraising levels are determined based on an Organization’s fundraising, Spirit Points and the number of locked Dancers. When combined, Organizations will be placed into a fundraising level and compete against other Organizations for their spot. Fundraising levels will determine the number of Dancers from each Organization who can attend the Main Event. More information will be provided to Ambassadors regarding fundraising levels.-->
               </div>
             </div>
           </div>
@@ -360,15 +381,16 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingTwenty">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">
-				What will Captain attendance look like?
+            What will Captain attendance look like?
                 </a>
               </h4>
             </div>
             <div id="collapseTwenty" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwenty">
               <div class="panel-body">
-			  Captains will be assigned different times to attend depending on the Captain Team’s role in the Main Event. The duration of shifts will vary depending on the Team’s role. Your Overall Director will assign shifts closer to the Main Event.
-			  <br><br>All Captains will be invited to attend the Overnight Captain & ELP Engagement.
-			  <br><br>The 200 level stands will be reserved for Captains for the duration of the Main Event to observe the Dancer shifts.
+            Captains will be required to be at the Main Event for the full 26.2 hours. Overall Directors may assign shifts depending on specific team roles, but all shifts will remain inside the O’Connell Center. <br></br>
+            The 200 level stands will be reserved for Captains for the duration of the Main Event to observe the floor engagement.<br></br>
+            All Captains will receive meals and a sleep shift during the Main Event.<!--
+
               </div>
             </div>
           </div>
@@ -382,7 +404,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             </div>
             <div id="collapseTwentyone" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentyone">
               <div class="panel-body">
-			  Please contact your Overall Director for individual team changes.
+			  Please contact your Overall Director for individual team changes.-->
               </div>
             </div>
           </div>
@@ -394,13 +416,15 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingTwentytwo">
               <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwentytwo" aria-expanded="false" aria-controls="collapseTwentytwo">
-				Will I be able to attend both shifts?
+                What will the Emerging Leaders Program experience be like?
                 </a>
               </h4>
             </div>
             <div id="collapseTwentytwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentytwo">
               <div class="panel-body">
-			  Emerging Leaders will attend one Dancer shift, assigned based on their Unit.
+            This year, Emerging Leaders will have specific roles during the Main Event. More details will be provided from the Leadership Development Captain Team. <br></br>
+            All Emerging Leaders will receive meals and a sleep shift during the Main Event.<!--
+
               </div>
             </div>
           </div>
@@ -414,7 +438,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             </div>
             <div id="collapseTwentythree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentythree">
               <div class="panel-body">
-			  Emerging Leaders will have specific roles for their shifts and will be able to experience the entirety of a shift at the Main Event. More details will be provided throughout the semester from the Leadership Development Captain Team.
+			  Emerging Leaders will have specific roles for their shifts and will be able to experience the entirety of a shift at the Main Event. More details will be provided throughout the semester from the Leadership Development Captain Team.-->
               </div>
             </div>
           </div>
@@ -432,7 +456,7 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             </div>
             <div id="collapseTwentyfour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentyfour">
               <div class="panel-body">
-			  More details will be provided regarding high school in-person visitor involvement at the Main Event. If you have further questions, please email mainevent@floridadm.org.
+                More details regarding high school in-person visitor involvement at the Main Event will be provided. If you have further questions, please email <a href="mailto:mainevent@floridadm.org">mainevent@floridadm.org</a>.
               </div>
             </div>
           </div>
@@ -440,13 +464,13 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             <div class="panel-heading" role="tab" id="headingTwentyfive">
               <h4 class="panel-title">
                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyfive" aria-expanded="false" aria-controls="collapseTwentyfive">
-				How can we engage virtually?
+            Will we need to find somewhere to stay if we attend in person?
                 </a>
               </h4>
             </div>
             <div id="collapseTwentyfive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwenty">
               <div class="panel-body">
-			  High schoolers will have the opportunity to engage with DM at UF over various social media platforms. The Marathon Relations Teams will provide information on additional virtual engagement opportunities for high school programs.
+                Dance Marathon at UF does not provide accommodations for visitors.<!--
               </div>
             </div>
           </div>
@@ -460,13 +484,13 @@ background-image: url("/assets/images/BannerPhotos21/erica_marjorie-19.jpg");
             </div>
             <div id="collapseTwentysix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwentysix">
               <div class="panel-body">
-			  Dance Marathon at UF does not provide accommodations for visitors.
+			  Dance Marathon at UF does not provide accommodations for visitors.-->
               </div>
             </div>
           </div>
 		</div>
 
-		<br><h4>For additional questions, email mainevent@floridadm.org </h4>
+		<br><h4>For additional questions, email <a href="mailto:mainevent@floridadm.org">mainevent@floridadm.org</a>. </h4>
 
 
 				<!-- <?php if ($status == "open") { ?>
