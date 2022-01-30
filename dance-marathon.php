@@ -152,7 +152,7 @@ This year, we will be implementing bag checks and security precautions to ensure
 <p>Meals will be provided to all Dancers, Emerging Leaders, Captains, and Assistant Directors at the Main Event. All meals will be served by Hospitality Captains who will wear gloves and sanitize frequently. </p>
 <p><b>External meals: </b></p>
 <p>All VIP visitors will have access to snacks and beverages in the Center Court Club.
-All Miracle Families will receive meals in the Family Room during the event. <p>
+All Miracle Families will receive meals in the Family Room during the event. <p> <!--
 
               </div>
             </div>
