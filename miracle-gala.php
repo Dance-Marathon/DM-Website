@@ -43,20 +43,11 @@ background-image: url("/assets/images/BannerPhotos21/Overnight_SarahD30.jpg");
 
 				<h2>Miracle Gala</h2>
 
-<p>Each year, we invite guests to join us for an evening of fine dining and dancing to recognize all of the accomplishments of Dance Marathon at UF and the doctors at UF Health Shands Children’s Hospital. </p>
-<p>We are focusing on reminiscing on and celebrating the past 28 years of DM at UF, with the theme being “Our Time Then vs. Our Time Now.” The night will be filled with many Special Guests, including Miracle Families, UF Health Shands Staff, members of our High School Program, Keynote Speakers, an Alumni Spotlight, and more! All attendees will also have access to participate in a Silent Auction and Raise the Paddle.</p>
-<p>There are two ticket options available:</p>  
-<ul>
-<li>$40 for a VIP ticket</li>
-<ul>
-<li>Includes an Event Package shipped to you with exclusive merchandise, Miracle Gala items, and more </li>
-<li>VIP Hour before the event</li>
-</ul>
-<li>$10 for a General Ticket </li>
-<li>Legacy DMA Members will be offered a 20% discount on either option.</li>
-</ul>    
-<p>We encourage you to put on your Black-tie attire and get ready to enjoy a night to remember, as the Miracle Gala is a beautiful night to celebrate our movement and the incredible strides we make each year!</p>
-<p>For more information, please contact the Community Outreach Overall Director, Melissa Tempest, at <a href=mailto:mtempest@floridadm.org>mtempest@floridadm.org</a>. We look forward to seeing you there!</p>       
+<p>Each year, Dance Marathon at UF hosts their Annual Miracle Gala the first night of the Main Event. This year, the Annual Miracle Gala will be held on March 26th, 2022 from 6 PM - 9 PM EST. This year’s Miracle Gala theme is Change Their Future in tribute to our yearlong campaign to #ChooseChange. We hope you will join us to raise funds and awareness for the children at UF Health Shands Children’s Hospital and help Change Their Future.</p>
+<p>This black-tie event is designed for the Dance Marathon at UF community to celebrate a year of achievements, meet other community members and our Miracle Families, experience fine dining, hear from guest speakers, receive exclusive tours of the Main Event, participate in our Silent Auction, and take part in our Raise the Paddle fundraiser which benefits a participant of the donor’s choice. </p>
+<p>The night will be filled with many Special Guests, including Miracle Families, UF Health Shands Staff, Community Partners, Sponsors, members of our High School Program, Keynote Speakers, an Alumni Spotlight, and more!</p>
+<p>Ticket sales will be launched shortly! When they become available, they will be found here. </p>
+<p>For more information or questions about sponsoring the event, please contact the Community Outreach Overall Director, Melissa Tempest, at <a href=mailto:mtempest@floridadm.org>mtempest@floridadm.org</a>. We look forward to seeing you there! </p>    
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
