@@ -66,7 +66,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD239.jpg");
 
 
 					<h3>Kirstyn's Krew</h3>
-					<p>Registration <b>CLOSES:</b> March 23rd at 5 p.m.</p>
+					<p>Registration <b>CLOSES:</b> March 23rd at 9 p.m.</p>
 					<!-- <p>Registration <b>CLOSES:</b> April 5th 11:59 p.m.</p> -->
 					<p>Registration for Kirstyn's Krew 2021 is now open. </p>
 				    <h4><i>General Information</i></h4>
