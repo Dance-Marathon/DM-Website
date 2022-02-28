@@ -40,10 +40,11 @@ background-image: url("/assets/images/BannerPhotos21/IMG_3231.jpg");
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-		<p>Take a look at all of the different ways you can get involved with Dance Marathon at UF. There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and 
-help us make miracles. <p>
-	<p><a class="btn btn-default" id="download-app" href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4927" role="button">Register to Dance</a> <p>
-		
+		<p style="padding-top:0;">Take a look at all of the different ways <b style="color:#f79b63;"><b>you can get involved </b></b>with Dance Marathon at UF. There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and <b style="color:#617ba6;"><b>help us make miracles.</b></b>
+ <p>
+	<p><a class="btn btn-default" id="download-app" href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4927" role="button">Register to Dance</a>
+	 <p>
+
  
 
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
