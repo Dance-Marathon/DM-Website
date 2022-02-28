@@ -9,6 +9,15 @@
 .page-heading.parallax.get-involved {
 background-image: url("/assets/images/BannerPhotos21/IMG_3231.jpg");
 }
+.btn-default.button {
+	color: #f79b63;
+  background-color: #ffffff;
+  border-color: #f79b63;
+  font-size: 14px;
+  border: 2px solid;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
 </style>
 <div class="page-heading parallax get-involved">
   <div class="inner-wrapper">
@@ -26,24 +35,17 @@ background-image: url("/assets/images/BannerPhotos21/IMG_3231.jpg");
 	<div class="container">
 		<div class="row">
 		<div class="col-md-3">
-  			<div class="sub-nav">
-          <ul>
-						<li><a href="/alumni">Alumni</a></li>
-						<li><a href="/ambassadors">Ambassadors</a></li>
-						<li><a href="/applications">Applications</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
-						<li><a href="/organizations">Organizations</a></li>
-						<li><a href="/service">Service</a></li>
-
-          </ul>
+  			
         </div>
 			</div>
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
-			 <p>Take a look at all of the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Dancer, Emerging Leader, Ambassador, Fundraiser, or member of Kirstyn’s Krew, this page is your path to getting involved! There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and help us make miracles.</p>
+		<p>Take a look at all of the different ways you can get involved with Dance Marathon at UF. There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and 
+help us make miracles. <p>
+	<p><a class="btn btn-default" id="download-app" href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4927" role="button">Register to Dance</a> <p>
+		
+ 
+
 				<!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="q1">
