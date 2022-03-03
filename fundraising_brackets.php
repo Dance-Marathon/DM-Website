@@ -329,10 +329,11 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
         <div id="red-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Miracle Level</h1>
-
-          <h3 id="bracket-dancers-title"> 24 Dancers </h3>
-          <h3 id="bracket-dancers-title">Minimum: $35,000</h3>
+          <h3 id="bracket-dancers-title"> 30 Dancers </h3>
+          <h3 id="bracket-dancers-title">Minimum: $30,000</h3>
           <hr>
+            <h2 style="color:white">Team Kendall</h2>
+            <h4 style="color:white"><i>Delta Gamma & Zeta Beta Tau</i></h4>
           <div id="bracket-orgs" class="red-bracket"></div>
           
         </div>
@@ -347,8 +348,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
         <div id="blue-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Family Level</h1>
-          <h3 id="bracket-dancers-title">20 Dancers </h3>
-          <h3 id="bracket-dancers-title">Minimum: $28,000</h3>
+          <h3 id="bracket-dancers-title">24 Dancers </h3>
+          <h3 id="bracket-dancers-title">Minimum: $24,000</h3>
           <hr>
           <div id="bracket-orgs" class="blue-bracket"></div>
           
@@ -364,9 +365,11 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
         <div id="green-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Believe Level</h1>
-          <h3 id="bracket-dancers-title">16 Dancers </h3>
-          <h3 id="bracket-dancers-title">Minimum: $20,000</h3>
+          <h3 id="bracket-dancers-title">20 Dancers </h3>
+          <h3 id="bracket-dancers-title">Minimum: $16,000</h3>
           <hr>
+            <h2 style="color:white">Team Jude and Olive</h2>
+            <h4 style="color:white"><i>Delta Phi Epsilon & Alpha Epsilon Pi</i></h4>
           <div id="bracket-orgs" class="green-bracket"></div>
           
         </div>
@@ -380,10 +383,20 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
     <div class="col-md-12">
         <div id="yellow-bracket-wrapper">
         <div class="text-center">
-          <h1 id="light-bracket-title">Hope Level</h1>
-          <h3 id="light-bracket-dancers-title">12 Dancers</h3>
-          <h3 id="light-bracket-dancers-title">Minimum: $12,000</h3>
-          <hr id="hr">
+          <h1 id="light-bracket-title"style="color:white">Hope Level</h1>
+          <h3 id="light-bracket-dancers-title"style="color:white">16 Dancers</h3>
+          <h3 id="light-bracket-dancers-title"style="color:white">Minimum: $10,000</h3>
+          <hr id=style="color:white""hr">
+            <h2 style="color:white">Team Max</h2>
+            <h4 style="color:white"><i>Delta Delta Delta & Phi Delta Theta</i></h4>
+            <h2 style="color:white">Team Kinsey</h2>
+            <h4 style="color:white"><i>Kappa Delta & Pi Lambda Phi</i></h4>
+            <h2 style="color:white">Team Mazzy</h2>
+            <h4 style="color:white"><i>The Gator Aides</i></h4>
+            <h2 style="color:white">Team Mckenna</h2>
+            <h4 style="color:white"><i>Alpha Omicron Pi & Pi Kappa Phi</i></h4>
+            <h2 style="color:white">Team Lilliana</h2>
+            <h4 style="color:white"><i>Gamma Phi Beta & Phi Kappa Tau</i></h4>
           <div id="light-bracket-orgs" class="yellow-bracket"></div>
           
         </div>
@@ -398,9 +411,25 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
         <div id="purple-bracket-wrapper">
         <div class="text-center">
           <h1 id="bracket-title">Inspire Level</h1>
-          <h3 id="bracket-dancers-title">8 Dancers</h3>
+          <h3 id="bracket-dancers-title">10 Dancers</h3>
           <h3 id="bracket-dancers-title">Minimum: $6,000</h3>
           <hr>
+            <h2 style="color:white">Team Courtney</h2>
+            <h4 style="color:white"><i>Alpha Phi & Alpha Gamma Rho</i></h4>
+            <h2 style="color:white">Team Powie</h2>
+            <h4 style="color:white"><i>Delta Zeta and Kappa Sigma</i></h4>
+            <h2 style="color:white">Team Owen</h2>
+            <h4 style="color:white"><i>Alpha Epsilon Phi & Chi Phi</i></h4>
+            <h2 style="color:white">Team Kaitlynn</h2>
+            <h4 style="color:white"><i>Sigma Kappa & Delta Sigma Phi</i></h4>
+            <h2 style="color:white">Team Cason</h2>
+            <h4 style="color:white"><i>Chi Omega & Sigma Phi Epsilon</i></h4>
+            <h2 style="color:white">Team Camden</h2>
+            <h4 style="color:white"><i>Kappa Alhpa Order</i></h4>
+            <h2 style="color:white">Team Bailey</h2>
+            <h4 style="color:white"><i>Phi Mu & Theta Chi</i></h4>
+            <h2 style="color:white">Team Adrienne</h2>
+            <h4 style="color:white"><i>Alpha Chi Omega & Delta Tau Delta</i></h4>
           <div id="bracket-orgs" class="purple-bracket"></div>
           
         </div>
@@ -418,6 +447,26 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <h3 id="bracket-dancers-title">6 Dancers</h3>
           <h3 id="bracket-dancers-title">Minimum: $2,500</h3>
           <hr>
+            <h2 style="color:white">Team Bailey</h2>
+            <h4 style="color:white"><i>AMSA</i></h4>
+            <h2 style="color:white">Team Cat</h2>
+            <h4 style="color:white"><i>College of Nursing</i></h4>
+            <h2 style="color:white">Team Ayden</h2>
+            <h4 style="color:white"><i>Pi Beta Phi & Lambda Chi Alpha</i></h4>
+            <h2 style="color:white">Team Izabella</h2>
+            <h4 style="color:white"><i>Alpha Delta Pi & Sigma Chi</i></h4>
+            <h2 style="color:white">Team Beckett</h2>
+            <h4 style="color:white"><i>Kappa Kappa Gamma & Alpha Tau Omega</i></h4>
+            <h2 style="color:white">Team Nate</h2>
+            <h4 style="color:white"><i>Zeta Tau Alpha & Beta Theta Pi</i></h4>
+            <h2 style="color:white">Team Elie</h2>
+            <h4 style="color:white"><i>Kappa Alpha Theta & Tau Epsilon Phi</i></h4>
+            <h2 style="color:white">Team Hannah and Joel</h2>
+            <h4 style="color:white"><i>Omega Phi Alpha</i></h4>
+            <h2 style="color:white">Team Abby</h2>
+            <h4 style="color:white"><i>Pi Kappa Alpha</i></h4>
+            <h2 style="color:white">Team Madison</h2>
+            <h4 style="color:white"><i>Delta Chi</i></h4>
           <div id="bracket-orgs" class="orange-bracket"></div>
           
         </div>
@@ -436,6 +485,26 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <h3 id="bracket-dancers-title"> 4 Dancers  </h3>
           <h3 id="bracket-dancers-title">Minimum: $1,500</h3>
           <hr>
+            <h2 style="color:white">Team Dani-Lynn</h2>
+            <h4 style="color:white"><i>Sigma Nu & Delta Nu Zeta</i></h4>
+            <h2 style="color:white">Team Lauren</h2>
+            <h4 style="color:white"><i>UF Pre-Physician Assistant Association</i></h4>
+            <h2 style="color:white">Team Samuel</h2>
+            <h4 style="color:white"><i>UF Honors Program</i></h4>
+            <h2 style="color:white">Team Isaiah</h2>
+            <h4 style="color:white"><i>Banton Engineering Council & Society of Women Engineers</i></h4>
+            <h2 style="color:white">Team Eli</h2>
+            <h4 style="color:white"><i>Nina Karinsky Memorial Team</i></h4>
+            <h2 style="color:white">Team Gracie</h2>
+            <h4 style="color:white"><i>Theta Alpha & Kappa Phi Epsilon</i></h4>
+            <h2 style="color:white">Team Alyssa</h2>
+            <h4 style="color:white"><i>Catholic Gators</i></h4>
+            <h2 style="color:white">Team Wyatt</h2>
+            <h4 style="color:white"><i>Theta Tau</i></h4>
+            <h2 style="color:white">Team Arden</h2>
+            <h4 style="color:white"><i>UF PVMC</i></h4>
+            <h2 style="color:white">Team Wyatt</h2>
+            <h4 style="color:white"><i>Tau Kappa Epsilon</i></h4>
           <div id="bracket-orgs" class="pink-bracket"></div>
           
         </div>
@@ -449,10 +518,26 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
     <div class="col-md-12">
         <div id="gray-bracket-wrapper">
         <div class="text-center">
-          <h1 id="bracket-title">Gray Level</h1>
+          <h1 id="bracket-title">Change Level</h1>
           <h3 id="bracket-dancers-title"> 2 Dancers </h3>
           <h3 id="bracket-dancers-title">Minimum: $500</h3>
           <hr>
+            <h2 style="color:white">Team Annabelle</h2>
+            <h4 style="color:white"><i>Black Student Union</i></h4>
+            <h2 style="color:white">Team Jada</h2>
+            <h4 style="color:white"><i>Footprints Buddy and Support Program</i></h4>
+            <h2 style="color:white">Team Payton</h2>
+            <h4 style="color:white"><i>Gamma Eta</i></h4>
+            <h2 style="color:white">Team Bennett and Reilly</h2>
+            <h4 style="color:white"><i>EMPRESS Interest Group</i></h4>
+            <h2 style="color:white">Team Jack</h2>
+            <h4 style="color:white"><i>Pre-Legal Honor Society</i></h4>
+            <h2 style="color:white">Team Kaliah</h2>
+            <h4 style="color:white"><i>Delta Upsilon</i></h4>
+            <h2 style="color:white">Team Elyse</h2>
+            <h4 style="color:white"><i>Hispanic Student Union</i></h4>
+            <h2 style="color:white">Team Randy</h2>
+            <h4 style="color:white"><i>Miracle Makers</i></h4>
           <div id="bracket-orgs" class="gray-bracket"></div>
           
         </div>
