@@ -351,6 +351,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <h3 id="bracket-dancers-title">24 Dancers </h3>
           <h3 id="bracket-dancers-title">Minimum: $24,000</h3>
           <hr>
+            <h2 style="color:white">Team Jude and Oliver</h2>
+            <h4 style="color:white"><i>Delta Phi Epsilon & Alpha Epsilon Pi</i></h4>
           <div id="bracket-orgs" class="blue-bracket"></div>
           
         </div>
@@ -368,8 +370,10 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <h3 id="bracket-dancers-title">20 Dancers </h3>
           <h3 id="bracket-dancers-title">Minimum: $16,000</h3>
           <hr>
-            <h2 style="color:white">Team Jude and Olive</h2>
-            <h4 style="color:white"><i>Delta Phi Epsilon & Alpha Epsilon Pi</i></h4>
+            <h2 style="color:white">Team Kinsey</h2>
+            <h4 style="color:white"><i>Kappa Delta & Pi Lambda Phi</i></h4>
+            <h2 style="color:white">Team Mazzy</h2>
+            <h4 style="color:white"><i>The Gator Aides</i></h4>
           <div id="bracket-orgs" class="green-bracket"></div>
           
         </div>
@@ -389,14 +393,12 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <hr id=style="color:white""hr">
             <h2 style="color:white">Team Max</h2>
             <h4 style="color:white"><i>Delta Delta Delta & Phi Delta Theta</i></h4>
-            <h2 style="color:white">Team Kinsey</h2>
-            <h4 style="color:white"><i>Kappa Delta & Pi Lambda Phi</i></h4>
-            <h2 style="color:white">Team Mazzy</h2>
-            <h4 style="color:white"><i>The Gator Aides</i></h4>
             <h2 style="color:white">Team Mckenna</h2>
             <h4 style="color:white"><i>Alpha Omicron Pi & Pi Kappa Phi</i></h4>
             <h2 style="color:white">Team Lilliana</h2>
             <h4 style="color:white"><i>Gamma Phi Beta & Phi Kappa Tau</i></h4>
+            <h2 style="color:white">Team Courtney</h2>
+            <h4 style="color:white"><i>Alpha Phi & Alpha Gamma Rho</i></h4>
           <div id="light-bracket-orgs" class="yellow-bracket"></div>
           
         </div>
@@ -414,8 +416,6 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <h3 id="bracket-dancers-title">10 Dancers</h3>
           <h3 id="bracket-dancers-title">Minimum: $6,000</h3>
           <hr>
-            <h2 style="color:white">Team Courtney</h2>
-            <h4 style="color:white"><i>Alpha Phi & Alpha Gamma Rho</i></h4>
             <h2 style="color:white">Team Powie</h2>
             <h4 style="color:white"><i>Delta Zeta and Kappa Sigma</i></h4>
             <h2 style="color:white">Team Owen</h2>
@@ -425,11 +425,13 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
             <h2 style="color:white">Team Cason</h2>
             <h4 style="color:white"><i>Chi Omega & Sigma Phi Epsilon</i></h4>
             <h2 style="color:white">Team Camden</h2>
-            <h4 style="color:white"><i>Kappa Alhpa Order</i></h4>
+            <h4 style="color:white"><i>Kappa Alpha Order</i></h4>
             <h2 style="color:white">Team Bailey</h2>
             <h4 style="color:white"><i>Phi Mu & Theta Chi</i></h4>
             <h2 style="color:white">Team Adrienne</h2>
             <h4 style="color:white"><i>Alpha Chi Omega & Delta Tau Delta</i></h4>
+            <h2 style="color:white">Team Bailey</h2>
+            <h4 style="color:white"><i>AMSA</i></h4>
           <div id="bracket-orgs" class="purple-bracket"></div>
           
         </div>
@@ -447,8 +449,6 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <h3 id="bracket-dancers-title">6 Dancers</h3>
           <h3 id="bracket-dancers-title">Minimum: $2,500</h3>
           <hr>
-            <h2 style="color:white">Team Bailey</h2>
-            <h4 style="color:white"><i>AMSA</i></h4>
             <h2 style="color:white">Team Cat</h2>
             <h4 style="color:white"><i>College of Nursing</i></h4>
             <h2 style="color:white">Team Ayden</h2>
@@ -467,6 +467,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
             <h4 style="color:white"><i>Pi Kappa Alpha</i></h4>
             <h2 style="color:white">Team Madison</h2>
             <h4 style="color:white"><i>Delta Chi</i></h4>
+            <h2 style="color:white">Team Dani-Lynn</h2>
+            <h4 style="color:white"><i>Sigma Nu & Delta Nu Zeta</i></h4>
           <div id="bracket-orgs" class="orange-bracket"></div>
           
         </div>
@@ -485,8 +487,6 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <h3 id="bracket-dancers-title"> 4 Dancers  </h3>
           <h3 id="bracket-dancers-title">Minimum: $1,500</h3>
           <hr>
-            <h2 style="color:white">Team Dani-Lynn</h2>
-            <h4 style="color:white"><i>Sigma Nu & Delta Nu Zeta</i></h4>
             <h2 style="color:white">Team Lauren</h2>
             <h4 style="color:white"><i>UF Pre-Physician Assistant Association</i></h4>
             <h2 style="color:white">Team Samuel</h2>
@@ -505,6 +505,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
             <h4 style="color:white"><i>UF PVMC</i></h4>
             <h2 style="color:white">Team Wyatt</h2>
             <h4 style="color:white"><i>Tau Kappa Epsilon</i></h4>
+            <h2 style="color:white">Team Annabelle</h2>
+            <h4 style="color:white"><i>Black Student Union</i></h4>
           <div id="bracket-orgs" class="pink-bracket"></div>
           
         </div>
@@ -522,8 +524,6 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine52.jpg")
           <h3 id="bracket-dancers-title"> 2 Dancers </h3>
           <h3 id="bracket-dancers-title">Minimum: $500</h3>
           <hr>
-            <h2 style="color:white">Team Annabelle</h2>
-            <h4 style="color:white"><i>Black Student Union</i></h4>
             <h2 style="color:white">Team Jada</h2>
             <h4 style="color:white"><i>Footprints Buddy and Support Program</i></h4>
             <h2 style="color:white">Team Payton</h2>
