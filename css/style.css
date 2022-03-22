@@ -5,18 +5,33 @@ FONTS
 */
 
 body {
-  font-family: Avenir, arial, sans-serif;
+  font-family: 'Montserrat-Medium', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading, .btn-default, .flip-clock-divider .flip-clock-label {
-	font-family: Oswald, arial, sans-serif;
+	font-family: 'Metropolis';
 }
-.page-heading.parallax h1 {
-  font-family: Aveline, cursive, arial;
+.page-heading.parallax.about h1 {
+  font-family: 'Metropolis';
+}
+
+.metropolis-font {
+  font-family: 'Metropolis';
 }
 
 @font-face {
-  font-family:"Aveline";
-  src: url("/assets/fonts/AvelineScript.ttf")
+  font-family:"Monserrat-Bold";
+  src: url("/assets/fonts/Montserrat-Bold.otf")
+}
+
+@font-face {
+  font-family:"Monserrat-Medium";
+  src: url("/assets/fonts/Montserrat-Medium.otf")
+}
+
+@font-face 
+{
+  font-family:"Metropolis";
+  src: url("assets/fonts/metropolis-bold.otf")
 }
 
 /*
@@ -268,7 +283,6 @@ NAVIGATION MENU
 .navbar-collapse .navbar-nav.navbar-left:first-child {
   margin-left:0;
 }
-
 ul.social-icons > li {
   float:right;
 }
@@ -285,8 +299,6 @@ ul.social-icons > li > a {
 ul.social-icons > li > a:hover, ul.social-icons > li > a:focus {
   background-color: #f79b63;
 }
-
-
 .navbar-right{
   margin: 0;
 }

@@ -272,9 +272,40 @@ include("includes/navbar.php");
 
 </script>
 <style>
-.page-heading.parallax.captain-teams {
-background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
-}
+  .page-heading.parallax.captain-teams {
+    background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
+  }
+  .panel-block {
+    display: flex;
+    text-align: center;
+    background-color: white;
+    flex-direction: column;
+  }
+  .panel {
+    background-color: white;
+    border-style: none;
+    width: 70%;
+    margin-left: 15%;
+
+  }
+  .panel-default {
+    background-color: white;
+    border-style: none;
+    width: 70%;
+  }
+  .panel-title {
+    background-color: #C4C4C4;
+    border-style: none;
+    color: white;
+    font-weight: 800;
+    width: 100%;
+    font-size: 14px;
+  }
+  .panel-body {
+    text-align: left;
+  }
+
+  
 </style>
 <div class="page-heading parallax captain-teams">
   <div class="inner-wrapper">
@@ -291,22 +322,6 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
 <div class="page-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-3">
-  			<div class="sub-nav">
-          <ul>
-            <li><a href="/alumni">Alumni</a></li>
-            <li><a href="/ambassadors">Ambassadors</a></li>
-            <li><a href="/applications">Applications</a></li>
-						<li><a class="active">Captain Teams</a></li>
-						<li><a href="/dancers">Dancers</a></li>
-            <li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
-            <li><a href="/organizations">Organizations</a></li>
-            <li><a href="/service">Service</a></li>
-          </ul>
-        </div>
-			</div>
-			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
       <h3>Captain Teams</h3>
 <!--      <p>Emerging Leaders List can be found <a href="/emerging-leaders">here</a></p> -->
@@ -316,13 +331,13 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <li><b>Captains</b> are leaders within our organization who have specific duties throughout the year depending on their teams. There are 16 Captain Teams, each having vastly different responsibilities to ensure the growth and promotion of our cause on many different fronts. Captains typically have weekly or biweekly meetings and are a vital part of the Dance Marathon family. Captains applications are released at the beginning of Fall semester. </li>
       </ul>
       <p>Click each tab below to learn more about each team and its responsibilities.</p>
-      <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-       <div class="panel panel-default">
+      <div class="panel-group panel-block" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q13">
-           <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#a13" aria-expanded="false" aria-controls="a13">Community Outreach</a>
-          </h4>
-        </div>
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#a13" aria-expanded="false" aria-controls="a13">COMMUNITY OUTREACH</a>
+            </h4>
+          </div>
         <div id="a13" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q13">
          <div class="panel-body">
            <b>The Community Outreach Team</b> seeks to grow the Dance Marathon community beyond our student body by sharing our passion and mission to Faculty and Staff, Members’ Families, Dance Marathon Alumni (DMA), and the broader Gainesville community. The servant leaders of this team focus on creating lasting relationships with our Community Partners by engaging in regular volunteering events and planning organization-wide service days, including but not limited to Giving Tuesday. The members of this team connect our Faculty and Staff, Members’ Families, and Dance Marathon Alumni to our yearlong engagements and organize events such as Faculty Appreciation Week, Family Weekend, and DMA Weekend. This team brings together this entire community by planning the annual Miracle Gala, a formal occasion during the main event where we honor outstanding members of the DM community and hold Raise The Paddle.
@@ -371,7 +386,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
           <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q3">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a3" aria-expanded="false" aria-controls="a3">Dancer Relations</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a3" aria-expanded="false" aria-controls="a3">DANCER RELATIONS</a>
             </h4>
           </div>
           <div id="a3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q3">
@@ -440,7 +455,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q2">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Design & Technology</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">DESIGN & TECHNOLOGY</a>
             </h4>
           </div>
           <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
@@ -489,7 +504,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q5">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a5" aria-expanded="false" aria-controls="a5">Family Relations</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a5" aria-expanded="false" aria-controls="a5">FAMILY RELATIONS</a>
             </h4>
           </div>
           <div id="a5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q5">
@@ -563,7 +578,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q6">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="false" aria-controls="a6">Fundraising and Organization Development</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="false" aria-controls="a6">FUNDRAISING AND ORGANIZATION DEVELOPMENT</a>
             </h4>
           </div>
           <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
@@ -615,7 +630,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q7">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a7" aria-expanded="false" aria-controls="a7">Hospitality</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a7" aria-expanded="false" aria-controls="a7">HOSPITALITY</a>
             </h4>
           </div>
           <div id="a7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q7">
@@ -676,7 +691,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q8">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a8" aria-expanded="false" aria-controls="a8">Leadership Development</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a8" aria-expanded="false" aria-controls="a8">LEADERSHIP DEVELOPMENT</a>
             </h4>
           </div>
           <div id="a8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q8">
@@ -738,7 +753,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q9">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">Marathon Relations North</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">MARATHON RELATIONS NORTH</a>
             </h4>
           </div>
           <div id="a9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q9">
@@ -793,7 +808,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q10">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a10" aria-expanded="false" aria-controls="a10">Marathon Relations South</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a10" aria-expanded="false" aria-controls="a10">MARATHON RELATIONS SOUTH</a>
             </h4>
           </div>
           <div id="a10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q10">
@@ -846,7 +861,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q11">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a11" aria-expanded="false" aria-controls="a11">Merchandise</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a11" aria-expanded="false" aria-controls="a11">MERCHANDISE</a>
             </h4>
           </div>
           <div id="a11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q11">
@@ -910,7 +925,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q12">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a12" aria-expanded="false" aria-controls="a12">Morale</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a12" aria-expanded="false" aria-controls="a12">MORALE</a>
             </h4>
           </div>
           <div id="a12" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q12">
@@ -984,7 +999,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q14">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a14" aria-expanded="false" aria-controls="a14">Multimedia</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a14" aria-expanded="false" aria-controls="a14">MULTIMEDIA</a>
             </h4>
           </div>
           <div id="a14" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q14">
@@ -1037,7 +1052,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
            <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q15">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a15" aria-expanded="false" aria-controls="a15">Productions</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a15" aria-expanded="false" aria-controls="a15">PRODUCTIONS</a>
               </h4>
             </div>
             <div id="a15" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q15">
@@ -1091,7 +1106,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q16">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a16" aria-expanded="false" aria-controls="a16">Public Relations</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a16" aria-expanded="false" aria-controls="a16">PUBLIC RELATIONS</a>
               </h4>
             </div>
             <div id="a16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q16">
@@ -1140,7 +1155,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q17">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a17" aria-expanded="false" aria-controls="a17">Recruitment</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a17" aria-expanded="false" aria-controls="a17">RECRUITMENT</a>
               </h4>
             </div>
             <div id="a17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q17">
@@ -1199,7 +1214,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
           <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="q18">
               <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a18" aria-expanded="false" aria-controls="a18">Sponsorships</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#a18" aria-expanded="false" aria-controls="a18">SPONSORSHIPS</a>
               </h4>
             </div>
             <div id="a18" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q18">
@@ -1249,7 +1264,6 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                     Yasmine Mohseni</tbody>
               </table>
 
-              </div>
             </div>
           </div>
         </div>
