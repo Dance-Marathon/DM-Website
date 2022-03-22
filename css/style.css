@@ -5,18 +5,29 @@ FONTS
 */
 
 body {
-  font-family: Avenir, arial, sans-serif;
+  font-family: 'Montserrat-Medium', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading, .btn-default, .flip-clock-divider .flip-clock-label {
-	font-family: Oswald, arial, sans-serif;
+	font-family: 'Metropolis', arial, sans-serif;
 }
 .page-heading.parallax h1 {
   font-family: Aveline, cursive, arial;
 }
 
 @font-face {
-  font-family:"Aveline";
-  src: url("/assets/fonts/AvelineScript.ttf")
+  font-family:"Monserrat-Bold";
+  src: url("/assets/fonts/Montserrat-Bold.otf")
+}
+
+@font-face {
+  font-family:"Monserrat-Medium";
+  src: url("/assets/fonts/Montserrat-Medium.otf")
+}
+
+@font-face 
+{
+  font-family:"Metropolis";
+  src: url("assets/fonts/metropolis-bold.otf")
 }
 
 /*
