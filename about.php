@@ -386,11 +386,11 @@
 	  
 		// Show the current tab, and add an "active" class to the button that opened the tab
 		document.getElementById(cityName).style.display = "block";
-		if (cityName === 'our-story') {
-			document.getElementById('story').style.display = "block";
-			tablinksSub = document.getElementsByClassName("tablinks-subtab");
-			tablinksSub[0].className += " active";
-		}
+		// if (cityName === 'our-story') {
+		// 	document.getElementById('story').style.display = "block";
+		// 	tablinksSub = document.getElementsByClassName("tablinks-subtab");
+		// 	tablinksSub[0].className += " active";
+		// }
 		document.getElementById('nomen').style.display = "none";
 		// if (cityName === 'faq')
 		evt.currentTarget.className += " active";
@@ -511,15 +511,45 @@
 		border-bottom: 2px solid #F79B63;
 		height: 50px;
 	}
-	.nomenclature.tabcontent-subtab {
-		background-color: green;
-	}
 	.nomen {
 		display: none;
 		width: 55%;
 		margin-left: 22.75%;
 		margin-top: -3%;
 	}
+	@media only screen and (max-width: 600px) {
+		.tab button {
+			width: 100px;
+		}
+		.check-out-button {
+			width: 150px;
+			padding: 0;
+		}
+		.subtab {
+			width: 100%;
+			margin-left: 0%;
+		}
+		.subtab button {
+			padding: 0px 0px;
+			font-size: 14px;
+		}
+		.tabcontent {
+			padding: 10px;
+			width: 100%;
+			margin-left: 0%;
+		}
+		.nomen {
+			width: 100%;
+			margin-left: 6%;
+			margin-top: -10%;
+		}
+		.tabcontent-subtab {
+			padding: 10px;
+			width: 100%;
+			margin-left: 0%;
+		}
+	}
+}
 </style>
 
 <div class="page-heading parallax about metropolis-font">
