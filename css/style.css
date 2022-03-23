@@ -5,10 +5,10 @@ FONTS
 */
 
 body {
-  font-family: 'Montserrat-Medium', sans-serif;
+  font-family: 'Montserrat-Medium';
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading, .btn-default, .flip-clock-divider .flip-clock-label {
-	font-family: 'Metropolis', arial, sans-serif;
+	font-family: 'Metropolis';
 }
 .page-heading.parallax h1 {
   font-family: Aveline, cursive, arial;
@@ -39,18 +39,18 @@ body, html {
   height: 100%;
 }
 body {
-  color: #5a5a5a;
+  color: #000000;
 	font-weight: 300;
   font-size: 16px;
 }
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
-  color: #5a5a5a;
+  color: #000000;
   font-weight: 400;
 }
 p {
   line-height:26px;
   margin:0 0 26px;
-  color: #696969
+  color: #000000
 }
 p + p:last-child {
   margin: 0;
@@ -128,20 +128,22 @@ a, a:focus, :focus {
 .nav-tabs {
   border-bottom: 3px solid #5a5a5a;
   margin-bottom: 20px;
+  color: #000000
 }
 .nav-tabs > li {
   margin-bottom: 0;
+  color: #000000
 }
 .nav-tabs > li > a, .nav-tabs > li > a:hover, .nav-tabs > li > a:focus, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
   border: none;
   border-radius: 0;
-  color: #696969;
+  color: #000000;
 }
 .nav-tabs > li > a:hover, .nav-tabs > li > a:focus, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
   background: #5a5a5a;
-  color: #fff;
+  color: #000000;
 }
 .carousel-control{
   width: 10%;
