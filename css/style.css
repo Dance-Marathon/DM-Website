@@ -5,13 +5,17 @@ FONTS
 */
 
 body {
-  font-family: 'Montserrat-Medium';
+  font-family: 'Montserrat-Medium', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading, .btn-default, .flip-clock-divider .flip-clock-label {
 	font-family: 'Metropolis';
 }
-.page-heading.parallax h1 {
-  font-family: Aveline, cursive, arial;
+.page-heading.parallax.about h1 {
+  font-family: 'Metropolis';
+}
+
+.metropolis-font {
+  font-family: 'Metropolis';
 }
 
 @font-face {

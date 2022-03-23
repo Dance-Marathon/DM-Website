@@ -44,10 +44,37 @@ include("includes/navbar.php");
 </script> -->
 
 <style>
-.page-heading.parallax.delegates {
-background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg");
-}
-
+  .page-heading.parallax.delegates {
+    background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg");
+  }
+  .tabs {
+		overflow: hidden;
+		border-bottom: 2px solid black;
+		width: 70%;
+		margin-left: 15%;
+		background-color: none;
+		display: flex;
+		justify-content: space-evenly;
+		margin-bottom: 3%;
+  }
+  .subtabs {
+    background-color: none;
+		font-weight: 700;
+		color: black;
+		float: left;
+		border: none;
+		outline: none;
+		cursor: pointer;
+		width: 33%;
+		padding: 14px 16px;
+		transition: 0.1s;
+  }
+  .subtabs button:active {
+    background-color: none;
+    color: #F79B63;
+		border-bottom: 2px solid #F79B63;
+		height: 50px;
+  }
 </style>
 
 <div class="page-heading parallax delegates">
@@ -65,32 +92,13 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 <div class="page-content">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-3">
-
-  			<div class="sub-nav">
-          <ul>
-	          <li><a href="/alumni">Alumni</a></li>
-            <li><a class="active">Ambassadors</a></li>
-            <li><a href="/applications">Applications</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/dancers">Dancers</a></li>
-            <li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
-            <li><a href="/organizations">Organizations</a></li>
-            <li><a href="/service">Service</a></li>
-
-          </ul>
-        </div>
-			</div>
-			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
       <div role="tabpanel">
-
         <!-- Nav tabs -->
-        <ul class="nav nav-tabs" role="tablist">
-          <li role="presentation" class="active"><a href="#become-a-delegate" aria-controls="become-a-delegate" role="tab" data-toggle="tab">Become an Ambassador</a></li>
-          <li role="presentation" ><a href="#starting-a-team" aria-controls="starting-a-team" role="tab" data-toggle="tab">Starting a Team</a></li>
-          <li role="presentation"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">2022 Ambassadors</a></li>
+        <ul class="nav nav-tabs tabs" role="tablist">
+          <li role="presentation" class="active subtabs"><a href="#become-a-delegate" aria-controls="become-a-delegate" role="tab" data-toggle="tab">Become an Ambassador</a></li>
+          <li role="presentation" class="subtabs"><a href="#starting-a-team" aria-controls="starting-a-team" role="tab" data-toggle="tab">Starting a Team</a></li>
+          <li role="presentation" class="subtabs"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">2022 Ambassadors</a></li>
         </ul>
 
         <!-- Tab panes -->
@@ -269,8 +277,6 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 
             </tbody>
         </table>
-        </div>
-        </div>
       </div>
 
       <?php } else { echo 'This page is currently closed.'; } ?>

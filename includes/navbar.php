@@ -28,9 +28,9 @@
 			</div>
 			<div class="navbar-collapse collapse">
 			  <ul class="sf-menu navbar-nav navbar-left">
-					<li <?php echo ($parent == 'contactus') ? "class='open'" : ""; ?>>
-						<a href="/meet-the-overalls" class="dropdown-toggle">Contact Us</a>
-					</li>
+					<!-- <li <?php echo ($parent == 'contactus') ? "class='open'" : ""; ?>>
+							<a href="/meet-the-overalls">Contact Us</a>
+					</li> -->
 				<li <?php echo ($parent == 'about') ? "class='open'" : ""; ?>>
 					<a href="/about" class="dropdown-toggle">About</a>
 					<ul class="dropdown-menu" role="menu">
@@ -41,6 +41,8 @@
 						<li><a href="/meet-the-kids">Meet the Kids</a></li>
 						<li><a href="/our-story">Our Story</a></li>
                         <li><a href="/press-releases">Press Release</a></li>
+						<li><a href="/meet-the-overalls">Contact Us</a></li>
+
 						<!--<li><a href="/dmaa">DMAA</a></li>-->
             			<!--<li><a href="/alumni">Alumni</a></li>-->
 					</ul>
@@ -58,6 +60,8 @@
 						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
 						<li><a href="/organizations">Organizations</a></li>
 						<li><a href="/service">Service</a></li>
+						<li><a href="/partners" class="dropdown-toggle">Sponsors</a></li>
+
 
 						<!--	<li><a href="/overall-applications">Overall Applications</a></li>  -->
 					</ul>
@@ -86,9 +90,9 @@
 					</ul>
 				</li>
 
-				<li <?php echo ($parent == 'partners') ? "class='open'" : ""; ?>>
+				<!-- <li <?php echo ($parent == 'partners') ? "class='open'" : ""; ?>>
 					<a href="/partners" class="dropdown-toggle">Sponsors</a>
-				</li>
+				</li> -->
 
 
 				<li <?php echo ($parent == 'fundraising') ? "class='open'" : ""; ?>>
@@ -120,9 +124,11 @@
 
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
-				  <li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fa fa-instagram"></i></a></li>
-				  <li><a href="https://twitter.com/floridadm?lang=en"><i class="fa fa-twitter"></i></a></li>
-				  <li><a href="https://www.facebook.com/floridaDM/"><i class="fa fa-facebook"></i></a></li>
+				  <div>
+				  	<li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fa fa-instagram"></i></a></li>
+				  	<li><a href="https://twitter.com/floridadm?lang=en"><i class="fa fa-twitter"></i></a></li>
+				  	<li><a href="https://www.facebook.com/floridaDM/"><i class="fa fa-facebook"></i></a></li>
+				  </div>
 			  </ul>
 			</div><!--/.nav-collapse -->
 		  </div>
