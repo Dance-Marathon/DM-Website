@@ -90,9 +90,9 @@ background-image: url("/assets/images/BannerPhotos21/Sarena_S-12.jpg");
           <br/>
           <b>2,715</b> fundraisers raised at least $1 <!--change to exact-->
           <br/>
-          Amount raised in 2021: <b>$2,270,311.40</b>
+          Amount raised in 2022: <b>$2,334,217.21</b>
           <br/>
-          Total amount raised in past 27 years: nearly <b>27 million dollars</b>
+          Total amount raised in past 28 years: nearly <b>29 million dollars</b>
           <br/>
           Alumni Contribution: $83,235.89
           <br/>
