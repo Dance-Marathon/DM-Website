@@ -157,6 +157,8 @@ background-image: url("/assets/images/BannerPhotos21/Charles_H-20.jpg");
                <td>2021</td>
                <td>$2,270,311.40</td>
 </tr>
+            <td>2022</td>
+           <td>$2,334,217.21</td>
           </tbody>
         </table>
       <?php } else { echo 'This page is currently closed.'; } ?>
