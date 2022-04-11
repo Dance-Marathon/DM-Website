@@ -114,7 +114,7 @@
 				 <!--
 				 <li><a href="/blog/">Blog</a></li>
 				 -->
-				<li><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4927" target="_blank">Register to Dance</a></li>
+				
 
 				<li class="open"><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.donate&eventID=4669" target="_blank" class="active">Donate</a></li>
 
