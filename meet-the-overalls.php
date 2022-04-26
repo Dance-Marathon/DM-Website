@@ -12,9 +12,9 @@
 	  'image'                 =>  'Blank',
 	  ),
 	  array(
-	    'name'                  =>  'Alexis Pollak',
+	    'name'                  =>  'Amanda De La Vega',
 	    'position'              =>  'Executive Director',
-	    'email'                 =>  'apollak@floridadm.org',
+	    'email'                 =>  'adelavega@floridadm.org',
 	    'previous_involvement'  =>  'Dancer, Recruitment Captain, Assistant Director of Campus Relations, Internal Communications Manager',
 	    'major'                 =>  'Information Systems & Operations Management',
 	    'hometown'              =>  'Orlando, FL',
@@ -23,15 +23,15 @@
 	    'fun_fact'              =>  'I can&#39;t go a single day without making my bed at school, but when I come home - all bets are off.',
 	    'favorite_memory'       =>  'While I can&#39;t choose one specific year, my favorite Dance Marathon memory usually takes place right after the total number is revealed. While everyone is in complete shock, I take the time to look around and watch the Miracle Families. They&#39;re hugging, crying, and talking with one another - as they are in shock of the number that was just raised. Then, moments later, once that initial shock has worn off - students begin to surround them, squeezing them as tight as possible and crying in shock alongside them. Each year, I am amazed by this outpouring of love and support that is shown by both UF students and Miracle Families. It is a reminder that what we do truly does matter, and that what we do truly does make millions of miracles in these children&#39;s lives.',
 	    'motivation'            =>  'While my greatest motivation is all of our Miracle Children (obviously!), I am also motivated by every individual that stands and fights For The Kids. While that may seem cliché since there are over 7,000 students on campus fighting For The Kids, each individual truly does inspire me. It is amazing to see college students using their time, effort, and money to raise funds and awareness For The Kids at UF Health Shands Children&#39;s Hospital. The Miracle Children are the most deserving individuals I&#39;ve ever had the privilege to meet, and fighting for them means fighting for their opportunity to have a normal childhood, without weekly treatments, medications, and hospital stays. I believe it is our duty in life to give back to others, and participating in Dance Marathon at the University of Florida is the greatest way to do so.',
-	    'image'                 =>  'Alexis_Pollak',
+	    'image'                 =>  'ED.JPG',
 	  ),
 	  array(
 	  'image'                 =>  'Blank',
 	  ),
 	  	array(
-		 'name' => 'Kayla Anschuetz',
+		 'name' => 'Emily Giles',
 		 'position' => 'Finance Manager',
-		 'email' => 'kanschuetz@floridadm.org',
+		 'email' => 'egiles@floridadm.org',
 		 'previous_involvement' => 'ELP, Assistant Director of Organization Relations for Recruitment',
 		 'major' => 'Economics and Public Relations',
 		 'hometown' => 'Vero Beach, FL',
@@ -43,9 +43,9 @@
 		 'image' => 'KaylaAnschuetz',
 		),
 		array(
-		 'name' => 'Madison Hersch',
+		 'name' => 'Zachary Zelenak',
 		 'position' => 'Operations Manager',
-		 'email' => 'mhersch@floridadm.org',
+		 'email' => 'zzelenak@floridadm.org',
 		 'previous_involvement' => 'Dancer, Family Relations Captain, Assistant Director of Family Events, Family Relations Overall Director',
 		 'major' => 'Management',
 		 'hometown' => 'Plant City, FL',
@@ -58,9 +58,9 @@
 		),
 
 		array(
-		'name'                  =>  'Paige Davis',
+		'name'                  =>  'Isabella Voigt',
 	    'position'              =>  'Marketing Manager',
-	    'email'                 =>  'pdavis@floridadm.org',
+	    'email'                 =>  'ivoigt@floridadm.org',
 	    'previous_involvement'  =>  'Multimedia Captain, Multimedia Overall',
 	    'major'                 =>  'Public Relations',
 	    'hometown'              =>  'Ashburn, VA',
@@ -72,9 +72,9 @@
 	    'image'                 =>  'PaigeDavis',
 	  ),
 	  array(
-	    'name'                  =>  'Houston Barenholtz',
+	    'name'                  =>  'Oriana Mendez',
 	    'position'              =>  'Membership Manager',
-	    'email'                 =>  'hbarenholtz@floridadm.org',
+	    'email'                 =>  'omendez@floridadm.org',
 	    'previous_involvement'  =>  'Dancer, Morale Captain (2 years), Morale Overall',
 	    'major'                 =>  'Medical Anthropology',
 	    'hometown'              =>  'Windermere, FL',
@@ -86,9 +86,9 @@
 	    'image'                 =>  'Houston',
 	  ),
 	  	   array(
-	    'name' => 'Melissa Tempest',
+	    'name' => 'Bridget Richer',
 	    'position' => 'Community Outreach Overall',
-	    'email' => 'mtempest@floridadm.org',
+	    'email' => 'bricher@floridadm.org',
 	    'previous_involvement' => 'Founder of high school Dance Marathon, Community Events Captain, Assistant Director of Event Planning for the Outreach Team ',
 	    'major' => 'Health Science',
 	    'hometown' => 'Tallahassee, FL',
@@ -100,9 +100,9 @@
 	    'image' => 'MelissaTempest',
 	   ),
 	   array(
-	    'name' => 'Daniela Suarez',
+	    'name' => 'Lily Batley',
 	    'position' => 'Dancer Relations Overall',
-	    'email' => 'dsuarez@floridadm.org',
+	    'email' => 'lbatley@floridadm.org',
 	    'previous_involvement' => 'Marathon Relations Captain, Assistant Director of Expansion and Strategy for Mini Marathons',
 	    'major' => 'Business Administration-Information Systems',
 	    'hometown' => 'Winter Park, FL',
@@ -114,9 +114,9 @@
 	    'image' => 'Daniela_Suarez',
 	   ),
 	   array(
-	    'name' => 'Dina Modlin',
+	    'name' => 'Brianna Barron',
 	    'position' => 'Design & Technology Overall',
-	    'email' => 'dmodlin@floridadm.org',
+	    'email' => 'bbarron@floridadm.org',
 	    'previous_involvement' => ' 2-year Dancer, Creative Development Captain',
 	    'major' => 'Computer Science Engineering',
 	    'hometown' => 'Orlando, FL',
@@ -128,9 +128,9 @@
 	    'image' => 'Dina',
 	   ),
 		array(
-		 'name' => 'Scotty Trethewey',
+		 'name' => 'Carley Smith',
 		 'position' => 'Family Relations Overall',
-		 'email' => 'strethewey@floridadm.org',
+		 'email' => 'csmith@floridadm.org',
 		 'previous_involvement' => 'Family Relations Captain, Assistant Director of Family Events',
 		 'major' => 'Mechanical Engineering',
 		 'hometown' => 'Sarasota, FL',
@@ -142,9 +142,9 @@
 		 'image' => 'ScottyTrethewey',
 		 ),
 		array(
-	    'name' => 'Clayton Gaulding',
+	    'name' => 'Kellyn Murphy',
 	    'position' => 'Fundraising and Organization Development Overall',
-	    'email' => 'cgaulding@floridadm.org',
+	    'email' => 'kmurphy@floridadm.org',
 	    'previous_involvement' => 'Fundraising Captain, Assistant Director of Canning and Offline Transactions',
 	    'major' => 'Business',
 	    'hometown' => 'Cooper City, FL',
@@ -156,9 +156,9 @@
 	    'image' => 'Clayton_Gaulding',
 	   ),
 		array(
-	   'name' => 'Halley Kunda',
+	   'name' => 'Gwyneth Bishara',
 		 'position' => 'Hospitality Overall',
-		 'email' => 'hkunda@floridadm.org',
+		 'email' => 'gbishara@floridadm.org',
 	   'previous_involvement' => 'Dancer, 2-year Hospitality Captain',		   'major' => 'Marketing ',
 	   'hometown' => 'Weston, FL',
 	   'outside_involvement' => 'AEΦ, Gator Innovators, JSU, UF Sensory Lab',
@@ -169,9 +169,9 @@
 	   'image' => 'Halley_Kunda',
 		  ),
 		 array(
-		'name' => 'Jack Kirsch',
+		'name' => 'Amelia Williamson',
 		'position' => 'Leadership Development Overall',
-		'email' => 'jkirsch@floridadm.org',
+		'email' => 'awilliamson@floridadm.org',
 		'previous_involvement' => 'Recruitment Captain, Assistant Director of Professional Development',
 		'major' => 'Marketing',
 		'hometown' => 'Tallahassee, FL',
@@ -183,9 +183,9 @@
 		'image' => 'JackKirsch',
 		 ),
 		  array(
-		   'name' => 'Emily Giles',
+		   'name' => 'Harper Grabenhorst',
 		   'position' => 'Marathon Relations North Overall',
-		   'email' => 'egiles@floridadm.org',
+		   'email' => 'hgrabenhorst@floridadm.org',
 		   'previous_involvement' => 'Suncoast High School Mini Marathon Founder, Marathon Relations Captain (Saint Francis Catholic Academy), Marathon Relations Assistant Director of Southern Program',
 		   'major' => 'Accounting, Minor: Information Systems',
 		   'hometown' => 'Wellington, FL',
@@ -197,9 +197,9 @@
 		   'image' => 'EmilyGiles',
 		  ),
 		  array(
-			'name' => 'Amanda de la Vega',
+			'name' => 'Rebecca Brennan',
 			'position' => 'Marathon Relations South Overall',
-			'email' => 'adelavega@floridadm.org',
+			'email' => 'rbrennan@floridadm.org',
 			'previous_involvement' => 'Suncoast High School Mini Marathon Founder, Marathon Relations Captain (Saint Francis Catholic Academy), Marathon Relations Assistant Director of Southern Program',
 			'major' => 'Accounting, Minor: Information Systems',
 			'hometown' => 'Wellington, FL',
@@ -211,9 +211,9 @@
 			'image' => 'Amanda_DeLaVega',
 		  ),
 		 array(
-	    'name' => 'Sadie Joba',
+	    'name' => 'McKinley Elson',
 	    'position' => 'Merchandise Overall',
-	    'email' => 'sjoba@floridadm.org',
+	    'email' => 'melson@floridadm.org',
 	    'previous_involvement' => 'Dancer, Merchandise Captain',
 	    'major' => 'Advertising',
 	    'hometown' => 'Palm Beach, FL',
@@ -225,9 +225,9 @@
 	    'image' => 'SadieJoba',
 	   ),
 	   array(
-	    'name' => 'Michael Sivilli',
+	    'name' => 'Victoria Leary',
 	    'position' => 'Morale Overall',
-	    'email' => 'msivilli@floridadm.org',
+	    'email' => 'vleary@floridadm.org',
 	    'previous_involvement' => 'Dancer, 2-year Morale Captain ',
 	    'major' => 'Applied Physiology and Kinesiology ',
 	    'hometown' => 'Tampa, FL',
@@ -239,9 +239,9 @@
 	    'image' => 'MikeSivilli',
 		),
 		 array(
-	    'name' => 'Charles Hang',
+	    'name' => 'Katerina Rettino',
 	    'position' => 'Multimedia Overall',
-	    'email' => 'chang@floridadm.org',
+	    'email' => 'krettino@floridadm.org',
 	    'previous_involvement' => 'Assistant Director of Videography',
 	    'major' => 'Telecommunications (Production) and Marketing',
 	    'hometown' => 'Tampa, FL',
@@ -254,9 +254,9 @@
 	   ),
 
 		 array(
-			'name' => 'Sofia Miret',
+			'name' => 'Kathryn Taylor',
 			'position' => 'Productions Overall',
-			'email' => 'smiret@floridadm.org',
+			'email' => 'ktaylor@floridadm.org',
 			'previous_involvement' => 'Dancer, Productions Captain, Assistant Director of Talent Relations',
 			'major' => 'Journalism and Psychology',
 			'hometown' => 'Tarpon Springs, FL',
@@ -268,9 +268,9 @@
 			'image' => 'SofiMiret',
 		 ),
 		  array(
-	    'name' => 'Kristina Smith',
+	    'name' => 'Molly Metcalf',
 	    'position' => 'Public Relations Overall',
-	    'email' => 'ksmith@floridadm.org',
+	    'email' => 'mmetcalf@floridadm.org',
 	    'previous_involvement' => 'Public Relations Captain, Assistant Director of Social Media',
 	    'major' => 'Accounting',
 	    'hometown' => 'Memphis, TN',
@@ -283,9 +283,9 @@
 		),
 
 		 array(
-	    'name' => 'Olivia Humbard',
+	    'name' => 'Brandon White',
 	    'position' => 'Recruitment Overall',
-	    'email' => 'ohumbard@floridadm.org',
+	    'email' => 'bwhite@floridadm.org',
 	    'previous_involvement' => 'Emerging Leaders Program, Recruitment Captain',
 	    'major' => 'Sociology',
 	    'hometown' => 'Orlando, FL',
@@ -298,9 +298,9 @@
 		 ),
 
 		  array(
-		   'name' => 'Emily Hull',
+		   'name' => 'Alexa Katz',
 		   'position' => 'Sponsorships Overall',
-		   'email' => 'ehull@floridadm.org',
+		   'email' => 'akatz@floridadm.org',
 		   'previous_involvement' => 'Sponsorships Captain',
 		   'major' => 'Biology and Spanish',
 		   'hometown' => 'Fort Lauderdale, FL',
@@ -353,7 +353,7 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-5.jpg");
           } ?>
           <div class="col-sm-4">
             <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT2022/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
+              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT2023/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
               <h3><?php echo $overalls[$i]['name']; ?></h3>
             </a>
             <p style="text-align: center;">
