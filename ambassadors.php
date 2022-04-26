@@ -141,8 +141,9 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 
           </div>
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">
-          <h3>2022 Ambassadors</h3>
-          <table style="width:100%; table-layout: fixed">
+          <h3>2023 Ambassadors</h3>
+            <p>    Keep an eye out for applications! </p>
+<!--          <table style="width:100%; table-layout: fixed">
             <tbody>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Chi Omega</b><br>Grace Tyler<br></td>
@@ -262,7 +263,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr>
                 <td style="vertical-align:top"><b>Delta Sigma Phi</b><br>CJ Martin<br>Daniel Dvorak</td>
                 <td style="vertical-align:top"><b>Phi Mu</b><br>Emma Tullio<br>Samantha Butler</td>
-                <td style="vertical-align:top"><b>UF Honors Program</b><br>Claudia Elena</td></tr>
+                <td style="vertical-align:top"><b>UF Honors Program</b><br>Claudia Elena</td></tr> -->
                 
 
 
