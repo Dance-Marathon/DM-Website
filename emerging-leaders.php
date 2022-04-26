@@ -84,11 +84,11 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 <p>Members of the Emerging Leaders Program will attend weekly small group meetings and monthly general body meetings. Throughout their small group meetings, Emerging Leaders will focus on: completing diverse projects that uplift and inspire the Dance Marathon community, shadowing various Captain Teams present throughout Dance Marathon, expanding their knowledge and personal fundraising efforts through resources that will allow them to succeed inside and outside of Dance Marathon, and participating in bonding with like minded peers. At general body meetings, Emerging Leaders will have the opportunity to learn more about the goals and efforts of Dance Marathon, hear inspiring stories from our Miracle Families, and gain exposure to prominent speakers from the University of Florida and the Gainesville community.</p>
 <p>During the Main Event, Emerging Leaders will have the ability to use the skills they’ve learned throughout the year to participate in various leadership opportunities. </p>
 <p>All in all, the Emerging Leaders Program aspires to provide students wanting to join the Dance Marathon movement with a unique and immersive learning opportunity that allows students to instill positive change within the organization while also learning about the Dance Marathon community as a whole.</p>
-<h3>2022 Emerging Leaders</h3>
-<p> Congratulations to our the members of 2022 Emerging Leaders Program! </p>
+<h3>2023 Emerging Leaders</h3>
+<p> Keep an eye out for applications! </p>
 <table style="width:100%">
     <tbody class="emergingleaders"> </tbody>
-</table>
+<!-- </table>
 <table style="width:100%">
 <tr>
 	<td>	Abbey Lantinberg	</td>
