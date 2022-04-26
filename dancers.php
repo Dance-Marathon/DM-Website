@@ -67,14 +67,14 @@ background-image: url("/assets/images/BannerPhotos21/Rachel_F-0710.jpg");
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p>In addition to standing, if able, for the duration of the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
             <p><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4927" target="_blank">Click Here to Register to Dance</a></p>
-            <p>Please email Daniela Suarez, Dancer Relations Overall Director, at <a href="mailto:dsuarez@floridadm.org">dsuarez@floridadm.org </a> with any questions!</p>
+            <p>Please email Lily Batley, Dancer Relations Overall Director, at <a href="mailto:lbatley@floridadm.org">lbatley@floridadm.org </a> with any questions!</p>
           </div>
                 <br></br>
                 <div class="tab-content">
                   <div role="tabpanel" class="tab-pane fade in active" id="what-is-dancing-ftk">
 
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/cyJscPeXUdg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    <p></p>
+<!--                    <iframe width="560" height="315" src="https://www.youtube.com/embed/cyJscPeXUdg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <p></p> -->
         <div role="tabpanel" class="tab-pane fade in active" id="dancing-as-an-individual">
 
             <h2>Dancing as an Individual</h2>
