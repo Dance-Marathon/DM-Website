@@ -23,7 +23,7 @@
 	    'fun_fact'              =>  'I can&#39;t go a single day without making my bed at school, but when I come home - all bets are off.',
 	    'favorite_memory'       =>  'While I can&#39;t choose one specific year, my favorite Dance Marathon memory usually takes place right after the total number is revealed. While everyone is in complete shock, I take the time to look around and watch the Miracle Families. They&#39;re hugging, crying, and talking with one another - as they are in shock of the number that was just raised. Then, moments later, once that initial shock has worn off - students begin to surround them, squeezing them as tight as possible and crying in shock alongside them. Each year, I am amazed by this outpouring of love and support that is shown by both UF students and Miracle Families. It is a reminder that what we do truly does matter, and that what we do truly does make millions of miracles in these children&#39;s lives.',
 	    'motivation'            =>  'While my greatest motivation is all of our Miracle Children (obviously!), I am also motivated by every individual that stands and fights For The Kids. While that may seem cliché since there are over 7,000 students on campus fighting For The Kids, each individual truly does inspire me. It is amazing to see college students using their time, effort, and money to raise funds and awareness For The Kids at UF Health Shands Children&#39;s Hospital. The Miracle Children are the most deserving individuals I&#39;ve ever had the privilege to meet, and fighting for them means fighting for their opportunity to have a normal childhood, without weekly treatments, medications, and hospital stays. I believe it is our duty in life to give back to others, and participating in Dance Marathon at the University of Florida is the greatest way to do so.',
-	    'image'                 =>  'ED.JPG',
+	    'image'                 =>  'Amanda_DeLaVega',
 	  ),
 	  array(
 	  'image'                 =>  'Blank',
@@ -40,7 +40,7 @@
 		 'fun_fact' => 'This is going to be my 7th year of participating in DM, as I was a part of my high school\'s program for 4 years as well. Shout out VBHS!',
 		 'favorite_memory' => 'My last Dance Marathon as a high school student. That was the day that solidified my love and passion for this organization and it’s cause. I knew then that this was a movement I wanted to be a part of for the rest of my life. ',
 		 'motivation' => 'My biggest sources of motivation come from two different places. The first of these is drawn from the courageous Miracle Children and their families that we benefit through this organization. The second source of inspiration stems from the thousands of college students who could be doing a million other things with their time, but instead chose to dedicate their time and efforts to drastically impacting pediatric illness. ',
-		 'image' => 'Finance.jpeg',
+		 'image' => 'EmilyGiles',
 		),
 		array(
 		 'name' => 'Zachary Zelenak',
@@ -353,7 +353,7 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-5.jpg");
           } ?>
           <div class="col-sm-4">
             <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT2023/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
+              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT2022/'.$overalls[$i]['image']); ?>.jpg" alt="..."><br>
               <h3><?php echo $overalls[$i]['name']; ?></h3>
             </a>
             <p style="text-align: center;">
