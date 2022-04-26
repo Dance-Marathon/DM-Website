@@ -153,7 +153,7 @@
 	    'fun_fact' => 'I used to do competitive horseback riding!',
 	    'favorite_memory' => 'Meeting some of my best friends and people that have inspired me in ways I never imagined. ',
 	    'motivation' => 'Being able to create happy memories for others. I believe that everyone deserves to look back on a childhood filled with happy thoughts, unclouded by the memories of hospital visits, medication, and needles. DM at UF helps provide positive experiences for children and their families so that they can make amazing memories that will last a lifetime. Being a part of a movement that does this is truly incredible. ',
-	    'image' => 'kellyn.JPG',
+	    'image' => 'kellyn.jpeg',
 	   ),
 		array(
 	   'name' => 'Gwyneth Bishara',
@@ -236,7 +236,7 @@
 	    'fun_fact' => 'I\'ve owned venus fly traps, a hermit crab, and a dwarf hamster, and 2 crocs all in college.',
 	    'favorite_memory' => 'My favorite DM memory was sitting at the top of the O\'Dome watching over a thousand people do the Linedance and how it brought them all together and made everyone so happy! ',
 	    'motivation' => 'The kids. Their love for life under the hardest circumstances pushes me every single day to do everything that I can for them.  They deserve the world and the fact that DM at UF brings together so many students who all fight for something bigger than themselves is so inspring.',
-	    'image' => 'morale.jpeg',
+	    'image' => 'victoria.jpeg',
 		),
 		 array(
 	    'name' => 'Katerina Rettino',
@@ -265,7 +265,7 @@
 			'fun_fact' => 'I have been playing the piano since I was six years old! ',
 			'favorite_memory' => 'It is so difficult to choose just one, but my favorite DM memory would have to be the moment immediately following the total reveal at DM at UF 2018. Truthfully, the number had almost nothing to do with it. I looked at the number for a second and was filled with pride, but then I turned my attention to everyone\'s faces. I noticed everyone in the room was overcome with emotion. I watched friends embrace and Miracle Children jump into our arms, tears streaming down their faces. There wasn\'t a dry eye in the house. Watching hundreds upon hundreds of people realizing the magnitude of their efforts was absolutely incredible. The moment after the total reveal is so much more than seeing a number. It is hope, joy and knowledge that our efforts and goals have come to fruition. We made a tangible, real impact on the lives of these kids we treasure so much. I will never forget that moment. ',
 			'motivation' => 'Our Miracle Children and their families! They are some of the most wonderful people I have ever met, and I am forever grateful to be a part of their lives. They make me want to be a better person. Additionally, I am motivated by everyone involved in Dance Marathon at UF. Seeing hundreds of students work tirelessly and selflessly to help the kids is truly inspiring. It is a privilege to work alongside them to fight for our Miracle Children to have the healthy lives and futures they deserve. ',
-			'image' => 'kathryn.jpeg',
+			'image' => 'katy.jpeg',
 		 ),
 		  array(
 	    'name' => 'Molly Metcalf',
