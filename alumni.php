@@ -339,7 +339,7 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 			
 			<h3>About</h3>
 
-<p>Since 1995, Dance Marathon at UF has raised over $26 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>
+<p>Since 1995, Dance Marathon at UF has raised over $28 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>
 <p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, Dance Marathon at UF Alumni gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $40 per year and offers a variety of benefits.</p>
 
 						<h3>Get Involved!</h3>
