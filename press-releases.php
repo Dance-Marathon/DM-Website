@@ -54,7 +54,7 @@ background-image: url("/assets/images/BannerPhotos21/MoraleMadness_SarahXD47.jpg
           <li><a href="/Documents/TransformTodayPressRelease2015.pdf" target="_blank">Transform Today</a> 11/18/15</li>
         </ul> -->
 
-        <p>If you have any questions, please contact Kristina Smith, Public Relations Overall Director, at <a href="mailto:ksmith@floridadm.org">ksmith@floridadm.org</a>.</p>
+        <p>If you have any questions, please contact Molly Metcalf, Public Relations Overall Director, at <a href="mailto:mmetcalf@floridadm.org">mmetcalf@floridadm.org</a>.</p>
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>
