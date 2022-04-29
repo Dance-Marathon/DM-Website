@@ -69,7 +69,7 @@
 	    'fun_fact'              =>  'I collect records and love all things rock n roll!',
 	    'favorite_memory'       =>  'All of the amazing people that I&#39;ve met through this organization and am still meeting today.',
 	    'motivation'            =>  'Making others happy!',
-	    'image'                 =>  'isabella.jpeg',
+	    'image'                 =>  'isabella.jpg',
 	  ),
 	  array(
 	    'name'                  =>  'Oriana Mendez',
@@ -180,7 +180,7 @@
 		'fun_fact' => 'I lived in Costa Rica for 2 years!',
 		'favorite_memory' => 'My favorite DM memory comes from this past year. When the closing ceremonies video played, I was reminded of how much my team and I had accomplished over the past year. This experience with them and seeing DM at UF make 3 million miracles was such an unforgettable moment.',
 		'motivation' => 'The tangible differences Dance Marathon at UF and Children\'s Miracle Network makes on the lives of children and families who need it most. ',
-		'image' => 'amelia.jpeg',
+		'image' => 'lia.jpeg',
 		 ),
 		  array(
 		   'name' => 'Harper Grabenhorst',
@@ -236,7 +236,7 @@
 	    'fun_fact' => 'I\'ve owned venus fly traps, a hermit crab, and a dwarf hamster, and 2 crocs all in college.',
 	    'favorite_memory' => 'My favorite DM memory was sitting at the top of the O\'Dome watching over a thousand people do the Linedance and how it brought them all together and made everyone so happy! ',
 	    'motivation' => 'The kids. Their love for life under the hardest circumstances pushes me every single day to do everything that I can for them.  They deserve the world and the fact that DM at UF brings together so many students who all fight for something bigger than themselves is so inspring.',
-	    'image' => 'victoria.jpeg',
+	    'image' => 'vleary.jpeg',
 		),
 		 array(
 	    'name' => 'Katerina Rettino',
@@ -250,7 +250,7 @@
 	    'fun_fact' => 'I was born in Guayaquil, Ecuador and I am bilingual.',
 	    'favorite_memory' => 'My favorite DM memory was near the end of this year\'s Opening Ceremony. I was in charge of making the Opening Ceremonies video and this year we decided to incorporate the moment that the Dancers stood up into the video. My favorite memory was this moment in which the Dancers realized it was time for their 26.2 hour journey to begin. This was my favorite memory because it meant our video was successful in sending our message across without necessarily telling the Dancers they had to stand up.',
 	    'motivation' => 'What motivates me is my passion for filmmaking and helping others.',
-	    'image' => 'katerina.jpeg',
+	    'image' => 'kat.jpeg',
 	   ),
 
 		 array(
@@ -353,7 +353,7 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-5.jpg");
           } ?>
           <div class="col-sm-4">
             <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT2023/'.$overalls[$i]['image']); ?>" alt="..."><br>
+              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/bestheadshotsyoueverdidsee/'.$overalls[$i]['image']); ?>" alt="..."><br>
               <h3><?php echo $overalls[$i]['name']; ?></h3>
             </a>
             <p style="text-align: center;">
