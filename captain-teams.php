@@ -762,13 +762,13 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <h4><b>Overall Director</b></h4>
                 Brandon White
                 <br><br>
-           <!--     <h4><b>Assistant Director of Campus Relations</b></h4>
+                <h4><b>Assistant Director of Campus Relations</b></h4>
                 Mary Kate Arbuckle
                 <h4><b>Assistant Director of Faculty Relations</b></h4>
                 Taryn Smith
                 <h4><b>Assistant Director of Tracking</b></h4>
                 Anne-Sophia "Sophie" Hadley
-           <h4>  <b>Captains</b></h4> -->
+         <!--  <h4>  <b>Captains</b></h4> -->
            <table style="width:100%">
                 <tbody class="recruitment">
                         </tbody>
@@ -790,13 +790,13 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <h4><b>Overall Director</b></h4>
                 Alexa Katz
                 <br><br>
-          <!--      <h4><b>	Assistant Director of Logistics</b></h4>
+                <h4><b>	Assistant Director of Logistics</b></h4>
                 Sophia Marne
                 <h4><b>Assistant Director of Outreach</b></h4>
                 Alexandra Patrascoiu
                 <h4><b>Assistant Director of Stewardship</b></h4>
                 Kate Gaucher
-          <h4>  <b>Captains</b></h4> -->
+        <!--  <h4>  <b>Captains</b></h4> -->
           <table style="width:100%">
                 <tbody class="sponsorships">
                     </tbody>
