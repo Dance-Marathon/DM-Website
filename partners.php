@@ -59,7 +59,7 @@ background-image: url("/assets/images/BannerPhotos21/IMG_6476.jpg");
       <p>Dance Marathon at UF is so thankful for the support of our generous Sponsors! DM at UF offers many different ways to get involved as a Sponsor for our cause, each with various benefits to show our appreciation for your support. Our Sponsorships Team will connect your company with our Organization, along with access to an extensive network of supporters of all ages and demographics.</p>
       <p> For more information, view our sponsorship opportunities <a href="assets/PDFs/2021Sponsorship_Packet copy.pdf" target="_blank">here.</a>
       </p>
-      <p>If you have any questions, please contact our Sponsorships Overall Director, Emily Hull, at <a href="mailto:ehull@floridadm.org">ehull@floridadm.org</a></p>
+      <p>If you have any questions, please contact our Sponsorships Overall Director, Alexa Katz, at <a href="mailto:akatz@floridadm.org">akatz@floridadm.org</a></p>
       <div >
           <h2>Our 2021 Sponsors</h2>
           <div class="sponsor-section">
