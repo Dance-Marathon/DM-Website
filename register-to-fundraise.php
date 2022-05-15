@@ -61,7 +61,7 @@ background-image: url("/assets/images/BannerPhotos21/IMG_8130.jpg");
 							<li> From here, you can use the tools on DonorDrive to send emails from a template, track your fundraising, and share your fundraising link with others! </li>
 								</ol>
 
-								<p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director at <a href="mailto:cgaulding@floridadm.org  ">cgaulding@floridadm.org  </a></p>
+								<p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director at <a href="mailto:kmurphy@floridadm.org  ">kmurphy@floridadm.org  </a></p>
 
 						   	</div>
 							</div>
