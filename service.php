@@ -67,12 +67,13 @@ background-image: url("/assets/images/BannerPhotos21/Gracie C13.jpg");
 					</div>
 					<div role="tabpanel" class="tab-pane fade" id="dates">
 						<h3>Volunteer Dates</h3>
-          				<p>Dance Marathon at University of Florida is an organization led by servant leaders that strive to spread their passion for giving and creating change beyond our immediate campus. Members will receive one spirit point for engaging in a service event. </p>
+          				<!--<p>Dance Marathon at University of Florida is an organization led by servant leaders that strive to spread their passion for giving and creating change beyond our immediate campus. Members will receive one spirit point for engaging in a service event. </p>
 						<p> Giving Tuesday - November 30th, 2021 </p>
                   		<p> This is an organization-wide service day where all members will be able to dedicate the day to giving back to our community by volunteering with our Community Partners.
               			Please register to volunteer for this event by clicking 
               			<a href="https://docs.google.com/spreadsheets/d/17hRc6pJBqxHhnI-4G_Rkv9ikcnVg46HqPKTsaPnY9bc/edit">here</a>. </p>
-          				<p> If you are unable to volunteer, please participate in the Canned Food Drive with Hitchcock Field and Fork Food Pantry between 11/8 - 11/18 by bringing a canned food to your meetings or check-ins for an extra spirit point.</p>
+          				<p> If you are unable to volunteer, please participate in the Canned Food Drive with Hitchcock Field and Fork Food Pantry between 11/8 - 11/18 by bringing a canned food to your meetings or check-ins for an extra spirit point.</p>-->
+						<p> Check back soon! </p>
           			</div>
           			<div role="tabpanel" class="tab-pane fade" id="partners">
 						<h3>Meet our Community Partners:</h3>
