@@ -58,7 +58,7 @@ background-image: url("/assets/images/BannerPhotos21/5k_2-13-21_SarahD24.jpg");
 
               <p>*Don't want to be colored with powder? We will give you something to indicate to our color team that you want to stay clean. </p>
 
-				<p>For more information, please contact the Operations Manager, Madison Hersch, at <a href=mailto:mhersch@floridadm.org>mhersch@floridadm.org.</a></p>
+				<p>For more information, please contact the Operations Manager, Zachary Zelenak, at <a href=mailto:zzelenak@floridadm.org>zzelenak@floridadm.org.</a></p>
 
                <h2>Race Day Info</h2>
 
@@ -66,7 +66,7 @@ background-image: url("/assets/images/BannerPhotos21/5k_2-13-21_SarahD24.jpg");
               
               <p>There is parking available at Flavet Field, but please arrive early to ensure you have time to sign in before your scheduled race. </p>
 
-              <p>Check your email for more information, and email <a href=mailto:mhersch@floridadm.org>mhersch@floridadm.org.</a> with any questions. </p>
+              <p>Check your email for more information, and email <a href=mailto:zzelenak@floridadm.org>zzelenak@floridadm.org</a> with any questions. </p>
 
 			   <h2>FAQs</h2>
 			   <h3>What is a Color Run? </h3>
