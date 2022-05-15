@@ -226,7 +226,7 @@
       <div class="col-md-3">
         <i class="fa icon-foot"></i>
         <h3>Our Story</h3>
-        <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $21.5 million for the Miracle Families UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
+        <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $28 million for the Miracle Families UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
         <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
       </div>
       <div class="col-md-3">
