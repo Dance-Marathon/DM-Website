@@ -330,7 +330,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
           <h4><b>Overall Director</b></h4>
           Bridget Richer
           <br><br>
-              <!--   <h4><b>Assistant Director of Alumni Engagement</b></h4>
+                 <h4><b>Assistant Director of Alumni Engagement</b></h4>
                  
                  <h4><b>	Assistant Director of Campus Relations</b></h4>
                  
@@ -338,7 +338,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                  
                  <h4><b>Assistant Director of Events</b></h4>
                  
-               <h4>  <b>Captains</b></h4> -->
+               <!--<h4>  <b>Captains</b></h4> -->
                <table style="width:100%">
                 <tbody class="outreach">
           </tbody>
@@ -360,13 +360,15 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Overall Director</b></h4>
               Lily Batley
               <br><br>
-             <!-- <h4><b>Assistant Director of Check-Ins</b></h4>
-              
+              <h4><b>Assistant Director of Check-Ins</b></h4>
+              Marissa Northrop
               <h4><b>Assistant Director of Dancer Engagement</b></h4>
-              
+              Nikki Cuomo
               <h4><b>Assistant Director of Internal Relations</b></h4>
-              
-              <h4><b>Captains</b></h4> -->
+              Emily Lupo
+	      <h4><b>Assistant Director of External Relations</b></h4>
+              Abbey Ladd
+              <!--<h4><b>Captains</b></h4> -->
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
@@ -389,15 +391,15 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Overall Director</b></h4>
               Brianna Barron
               <br><br>
-        <!--      <h4><b>Assistant Director of Design</b></h4>
-              Gabrielle Friedman
+              <h4><b>Assistant Director of Internal Design</b></h4>
+              Cameron Appel
+		<h4><b>Assistant Director of External Design</b></h4>
+              Jordan Corina
               <h4><b>Assistant Director of Technology</b></h4>
-              Brianna Barron
+              Hailey Paek
               <h4><b>Assistant Director of Internal Affairs</b></h4>
-              Kshama Shetty
-              <h4><b>Assistant Director of External Affairs</b></h4>
-              Max Dotson
-              <h4>  <b> Captains</b></h4> -->
+              Anderson Allen
+              <!--<h4>  <b> Captains</b></h4> -->
               <table style="width:100%">
                 <tbody class="designandtech">
                    </tbody>
@@ -417,17 +419,17 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <br>
               <h4><b>Overall Director</b></h4>
               Carley Smith
-        <!--      <br><br>
-              <h4><b>Assistant Director of External Relations</b></h4>
-              Nicole Seo
+              <br><br>
               <h4><b>Assistant Director of Family Events</b></h4>
-              Carley Smith
+              Rachel Nattis
               <h4><b>Assistant Director of Family Outreach</b></h4>
-              Elizabeth Naeter
-              <h4><b>Assistant Director of Internal Relations</b></h4>
-              Sheelagh Dunn
+              Isabel Curtis
+              <h4><b>Assistant Director of Tracking</b></h4>
+              Caroline McMillan
+              <h4><b>Assistant Director of Community</b></h4>
+              Michael Muhlbach
 
-    <h4>      <b>Captains</b></h4> -->
+    <!--<h4>      <b>Captains</b></h4> -->
     <table style="width:100%">
                 <tbody class="familyrelations">
                   </tbody>
@@ -449,14 +451,14 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Overall Director</b></h4>
               Kellyn Murphy
               <br><br>
-       <!--       <h4><b>	Assistant Director of Panhellenic & IFC Relations</b></h4>
-              Harrison Stoker
-              <h4><b>Assistant Director of Student & Emerging Organizations</b></h4>
-              Chloe Maugans
+       <!--       <h4><b>	Assistant Director of Organization Relations</b></h4>
+              Victoria Grande
+              <h4><b>Assistant Director of Fundraising Engagement</b></h4>
+              Molly Hubbard
               <h4><b>	Assistant Director of Internal Operations</b></h4>
-              Dea Jahovaj
+              Dilon Bruncaj
               <h4><b>Assistant Director of External Operations</b></h4>
-              Kellyn Murphy
+              Janel Hernandez
    <h4>  <b> Captains</b></h4> -->
    <table style="width:100%">
                 <tbody class="fundraising">
@@ -479,15 +481,15 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Overall Director</b></h4>
               Gwyneth Bishara
               <br><br>
-          <!--    <h4><b>Assistant Director of Hospitality Events</b></h4>
-              Alexander Kanfer
+              <h4><b>Assistant Director of Hospitality Events</b></h4>
+              Brooke Freeman
               <h4><b>Assistant Director of Hospitality Nights</b></h4>
-              Kaylee Carr
+              Riley Duffy
               <h4><b>Assistant Director of Stewardship</b></h4>
-              Gwyneth Bishara
+              Ava Peiser
               <h4><b>Assistant Director of Internal Relations</b></h4>
-              Yasmeen Asfoor
-   <h4>  <b>Captains</b></h4> -->
+              Allison Burns
+  <!-- <h4>  <b>Captains</b></h4> -->
    <table style="width:100%">
                 <tbody class="hospitality">
                   </tbody>
@@ -510,15 +512,15 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Overall Director</b></h4>
               Amelia Williamson
               <br></br>
-         <!--     <h4><b>Assistant Director of Emerging Leader Development</b></h4>
+              <h4><b>Assistant Director of Development</b></h4>
               Darian Schneider
               <h4><b>Assistant Director of Engagement</b></h4>
-              Coleman Brown
+              Alex Gruber
               <h4><b>Assistant Director of Outreach</b></h4>
-              Yasmine Gillespie
+              Emma Kate Joiner
               <h4><b>Assistant Director of Tracking</b></h4>
-              Amelia Williamson
-      <h4>  <b> Captains</b></h4> -->
+              Corinna Kuschnitzky
+     <!-- <h4>  <b> Captains</b></h4> -->
       <table style="width:100%">
                 <tbody class="leadershipdevelopment">
                   </tbody>
@@ -541,17 +543,17 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <h4><b>Overall Director</b></h4>
                 Harper Grabenhorst
                 <br><br>
-             <!--   <h4><b>	Assistant Director of Northern Programs</b></h4>
-                Gerda Naeter
+                <h4><b>	Assistant Director of Northern Programs</b></h4>
+                Kaylin White
                 <h4><b>	Assistant Director of New and Evolving Programs</b></h4>
-                Andrea Sellers
+                Claire Weitz
                 <h4><b>	Assistant Director of Finance and Sponsorships</b></h4>
-                Madeleine MacLaren
+                Ryan Athay
                 <h4><b>	Assistant Director of Projects and Communications</b></h4>
-                Michelle McKenna
+                Kayla Zweben
 
 
-       <h4>  <b>Captains </b></h4> -->
+      <!-- <h4>  <b>Captains </b></h4> -->
        <table style="width:100%">
                 <tbody class="marathonrelationsnorth">
                   </tbody>
@@ -573,17 +575,17 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <h4><b>Overall Director</b></h4>
                 Rebecca Brennan
                 <br><br>
-          <!--      <h4><b>	Assistant Director of Southern Programs</b></h4>
-                Mary Reagan Phillips
+               <h4><b>	Assistant Director of Southern Programs</b></h4>
+                Toni JeBailey
                 <h4><b>	Assistant Director of New and Evolving Programs</b></h4>
-                Rebecca Brennan
+                Jackie Aloumanis
                 <h4><b>	Assistant Director of Finance and Sponsorships</b></h4>
                 Abigail Crawford
                 <h4><b>	Assistant Director of Projects and Communications</b></h4>
-                Morgan DuPont
+                Mary Reagan Phillips
 
               <br>
-       <h4>  <b>Captains </b></h4> -->
+       <!-- <h4>  <b>Captains </b></h4> -->
        <table style="width:100%">
                 <tbody class="marathonrelationssouth">
                       </tbody>
@@ -605,16 +607,16 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Overall Director</b></h4>
               McKinley Elson
               <br></br>
-         <!--     <h4><b>Assistant Director of Inventory</b></h4>
-              Karson Keiber
-              <h4><b>	Assistant Director of Fundraising and Incentives</b></h4>
-              Zach Zelenak
+             <h4><b>Assistant Director of Inventory and Incentives</b></h4>
+              Jackie Snytte
+              <h4><b>	Assistant Director of Fundraising</b></h4>
+              Bryce Brandfon
               <h4><b>Assistant Director of Internal Operations</b></h4>
-              Mckinley Elson
+              Kalie Wright
               <h4><b>Assistant Director of Stores</b></h4>
-              Katie Michel
+              Emily Gill
 
-       <h4>  <b>Captains</b></h4> -->
+       <!-- <h4>  <b>Captains</b></h4> -->
        <table style="width:100%">
                 <tbody class="merch">
                   </tbody>
@@ -637,15 +639,15 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Overall Director</b></h4>
               Victoria Leary
               <br><br>
-         <!--     <h4><b>Assistant Director of Captain Relations</b></h4>
-              Victoria Leary
+              <h4><b>Assistant Director of Captain Relations</b></h4>
+              Sydney Fialkow
 			        <h4><b>Assistant Director of Fundraising</b></h4>
-              Logan Foster
+              Seth Kahler
               <h4><b>Assistant Director of Mini Marathon Coordination</b></h4>
-              Gage BonJorn
+              Julia Cesare
               <h4><b>	Assistant Director of Event Planning</b></h4>
-              Arielle Waters
-      <h4>  <b> Captains</b></h4> -->
+              Kat Polaski
+     <!--  <h4>  <b> Captains</b></h4> -->
       <table style="width:100%">
                 <tbody class="morale">
                     </tbody>
@@ -668,15 +670,15 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Overall Director</b></h4>
               Katerina Rettino
               <br><br>
-         <!--     <h4><b>Assistant Director of Logistics</b></h4>
-              Kim-Anh Vo
+              <h4><b>Assistant Director of Logistics</b></h4>
+              Marlee Wittner
               <h4><b>Assistant Director of Photography</b></h4>
-              Lauren Bonet
+              Natalie Tajeddine
               <h4><b>Assistant Director of Social Media</b></h4>
-              Katerina Rettino
+              Anna Glass
               <h4><b>Assistant Director of Videography</b></h4>
-              Benjamin Grijalva
-    <h4>  <b>Captains</b></h4> -->
+              Braden Romano
+    <!-- <h4>  <b>Captains</b></h4> -->
     <table style="width:100%">
                 <tbody class="multimedia">
                     </tbody>
@@ -700,12 +702,12 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <h4><b>Overall Director</b></h4>
                 Kathryn Taylor
                 <br><br>
-       <!--         <h4><b>Assistant Director of Campus Events </b></h4>
-                Kathryn Taylor
-                <h4><b>Assistant Director of Logistics </b></h4>
-                Jack Drohan
+       <!--         <h4><b>Assistant Director of External Logistics </b></h4>
+                David Brennan
+                <h4><b>Assistant Director of Internal Logistics </b></h4>
+                Dylan Goodelle
                 <h4><b>Assistant Director of Talent Relations </b></h4>
-                Delaney Currie
+                Samantha Flyer
               <h4>   <b>Captains</b></h4> -->
               <table style="width:100%">
                 <tbody class="productions">
@@ -729,13 +731,15 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <h4><b>Overall Director</b></h4>
                 Molly Metcalf
                 <br><br>
-        <!--        <h4><b>Assistant Director of Communications </b></h4>
-                Molly Metcalf
+                <h4><b>Assistant Director of Communications </b></h4>
+                Carlee Hontz
                 <h4><b>Assistant Director of Publications </b></h4>
-                Hope Hathcock
+                Ashley Hearn
                 <h4><b>Assistant Director of Social Media </b></h4>
-                Isabella Voigt
-     <h4>  <b> Captains</b></h4> -->
+                Jamie Knox
+<h4><b>Assistant Director of Media Outreach </b></h4>
+                Karina Wilson
+     <!--<h4>  <b> Captains</b></h4> -->
      <table style="width:100%">
                 <tbody class="pr">
                         </tbody>
@@ -759,11 +763,11 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 Brandon White
                 <br><br>
            <!--     <h4><b>Assistant Director of Campus Relations</b></h4>
-                Brandon White
-                <h4><b>Assistant Director of Organization Development</b></h4>
-                Elizabeth Docherty
+                Mary Kate Arbuckle
+                <h4><b>Assistant Director of Faculty Relations</b></h4>
+                Taryn Smith
                 <h4><b>Assistant Director of Tracking</b></h4>
-                Katie Casserly
+                Anne-Sophia "Sophie" Hadley
            <h4>  <b>Captains</b></h4> -->
            <table style="width:100%">
                 <tbody class="recruitment">
@@ -787,11 +791,11 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 Alexa Katz
                 <br><br>
           <!--      <h4><b>	Assistant Director of Logistics</b></h4>
-                Regan Erickson
+                Sophia Marne
                 <h4><b>Assistant Director of Outreach</b></h4>
-                Chelsea Nicholls
+                Alexandra Patrascoiu
                 <h4><b>Assistant Director of Stewardship</b></h4>
-                Kristina Ludel
+                Kate Gaucher
           <h4>  <b>Captains</b></h4> -->
           <table style="width:100%">
                 <tbody class="sponsorships">
