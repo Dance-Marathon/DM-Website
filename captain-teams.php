@@ -331,13 +331,13 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
           Bridget Richer
           <br><br>
                  <h4><b>Assistant Director of Alumni Engagement</b></h4>
-                 
-                 <h4><b>	Assistant Director of Campus Relations</b></h4>
-                 
-                 <h4><b>Assistant Director of Community Partnerships</b></h4>
-                 
-                 <h4><b>Assistant Director of Events</b></h4>
-                 
+                 Madison Woodard
+                 <h4><b>	Assistant Director of Community Partnerships</b></h4>
+                 Jackson Jeffares
+                 <h4><b>Assistant Director of Creative Events</b></h4>
+                 Aria Patel
+                 <h4><b>Assistant Director of Event Logistics</b></h4>
+                 Katherine Borland
                <!--<h4>  <b>Captains</b></h4> -->
                <table style="width:100%">
                 <tbody class="outreach">
