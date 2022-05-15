@@ -57,7 +57,7 @@ background-image: url("/assets/images/BannerPhotos21/Katerina_R-51.jpg");
 <ul><li>Children's Miracle Network</li>
 <li>Location: Salt Lake City, UT</li></ul>
 
-<p>If you have any further questions, please contact our Finance Manager, Kayla Anschuetz, at <a href="kanschuetz@floridadm.org">kanschuetz@floridadm.org</a>.</p>
+<p>If you have any further questions, please contact our Finance Manager, Emily Giles, at <a href="egiles@floridadm.org">egiles@floridadm.org</a>.</p>
 
 
       <?php } else { echo 'This page is currently closed.'; } ?>
