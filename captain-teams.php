@@ -668,10 +668,10 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <b>The Multimedia Team</b> is responsible for all Dance Marathon at UF photography and videography throughout the year and during the Event. The main goal of the Team is to capture content that represents DM at UF and its cause. The Captains are expected to promptly edit, sort, and upload their photos and videos to update our organization’s Facebook, Instagram, YouTube, and other social media platforms. Furthermore, Captains are responsible for acquiring the camera equipment and software needed, including Adobe Lightroom and Premiere Pro. In addition, Captains are expected to attend all DM at UF events, including at least three Mini Marathons. Captains should have experience and interest in photography and/or videography, editing experience, and be willing and motivated to grow in their craft throughout the year. During the 26.2-hour Event, Captains take photos and videos to contribute to the social media.
               <br>
               <h4><b>Overall Director</b></h4>
-              Katerina Rettino
+              Marlee Wittner
               <br><br>
               <h4><b>Assistant Director of Logistics</b></h4>
-              Marlee Wittner
+              Madison Murray
               <h4><b>Assistant Director of Photography</b></h4>
               Natalie Tajeddine
               <h4><b>Assistant Director of Social Media</b></h4>
