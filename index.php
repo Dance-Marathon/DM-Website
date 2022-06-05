@@ -14,7 +14,7 @@
       </ol> -->
       <div class="carousel-inner">
         <div class="item active">
-          <img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">
+          <img class="img-responsive"  src="assets/images/sectionbg/2021/2022reveal.jpeg">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <!-- <div class="col-md-6">
@@ -211,16 +211,18 @@
 
 
 
-      <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated our 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
+      <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is a student-led philanthropic movement that raises funds and awareness for our local Children’s Miracle Network Hospital, UF Health Shands Children’s Hospital. Dance Marathon at UF is the largest and highest fundraising philanthropy in the southeastern United States.<br/> We just celebrated our 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
 
-           <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
-</b></a>
+           <!--a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
+</b></a-->
 </i></p>
 
     </div>
   </div>
 </div>
+
 <div class="education">
+  
   <div class="container text-center">
     <div class="row">
       <div class="col-md-3">
@@ -232,8 +234,8 @@
       <div class="col-md-3">
         <i class="fa icon-balloon"></i>
         <h3>CMN Hospitals<br>& UF Health</h3>
-        <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
-          <!--Update this information, we are highter than when we made this website -->
+        <p>Ranked one of the top 50 pediatric hospitals in the nation in eight categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
+          <!--Update this information, we are highter than when we made this website  Anderson: We have 8 as of July 2021 -->
         <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
       </div>
 <!--
@@ -243,20 +245,22 @@
         <p>Check out the awesome items available in our silent auction! From exotic vacations to Tiffany's jewelry, we've got anything you could want.</p>
         <p><a class="btn btn-default" href="https://www.winningcause.org/dancemarathonatuf/" role="button" target="_blank">Shop Now</a></p>
       </div>
--->
+
       <div class="col-md-3">
         <i class="fa fa-mobile" style="font-size: 52px; line-height: 40px;"></i>
         <h3>DM App</h3>
         <p>Get the latest DM updates, learn about our cause, and more with our new DM app!</p>
         <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
       </div>
+  -->
       <div class="col-md-3">
         <i class="fa fa-heart"></i>
         <h3>Miracle Families</h3>
         <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
         <p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
       </div>
-    </div>
+  </div>
+  
   </div>
 </div>
 <!--<div class="counter">
@@ -305,7 +309,7 @@
     </div>
   </div>
 </div>
-
+<!--
 <div class="education">
   <div class="container text-center">
     <div class="row">
@@ -343,5 +347,6 @@
     </div>
   </div>
 </div>
+  -->
 
 <?php include("includes/foot.php"); ?>

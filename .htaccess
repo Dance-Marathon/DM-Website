@@ -2,8 +2,13 @@ RewriteEngine On
 
 ErrorDocument 404 /404.php
 
-# Resolve .php file for extensionless php urls
-RewriteRule ^([^/.]+)$ $1.php [L]
+# secuirty addition to prevent outside access of any . files : Working
+RedirectMatch 404 /\..*$
 
-# Redirect 
+# Resolve .php file for extensionless php urls : trying to see if this can be integrated to organize the website better
+RewriteRule ^:(about)$ /info/$1.php
+
+RewriteRule ^([^/.]+)$ $1.php
+
+# Redirect
 Redirect 301 /silent-auction https://www.winningcause.org/dancemarathonatuf/

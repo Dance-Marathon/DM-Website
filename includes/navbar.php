@@ -32,7 +32,7 @@
 						<a href="/meet-the-overalls" class="dropdown-toggle">Contact Us</a>
 					</li>
 				<li <?php echo ($parent == 'about') ? "class='open'" : ""; ?>>
-					<a href="/about" class="dropdown-toggle">About</a>
+					<a href=":about" class="dropdown-toggle">About</a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href ="/blog">Blog</a></li>
 						<li><a href="/uf-health">CMNH & UF Health</a></li>
@@ -108,7 +108,7 @@
 
 <!--SPACEEEEEEEE ---->
 
-				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">Store</a></li>
+				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">Shop</a></li>
 				<li><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4669" target="_blank">Register to Fundraise</a></li>
 
 				 <!--

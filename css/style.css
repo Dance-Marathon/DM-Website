@@ -360,8 +360,13 @@ HOMEPAGE STYLES
   padding:5px 10px;
   background-color: #f79b63;
 }
+.col-md-2{
+  display: flexbox;
+  justify-content: center;
+}
 .education .col-md-3 {
   padding: 30px 15px;
+  
 }
 .education .col-md-3 + .col-md-3:last-child {
   padding-bottom: 60px;
