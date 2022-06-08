@@ -64,11 +64,9 @@ background-image: url("/assets/images/BannerPhotos21/IMG_6476.jpg");
           <h2>Our 2021 Sponsors</h2>
           <div class="sponsor-section">
             <div class="row sponsors-block">
-                <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\SponsorsPage_1.png"/></a>
+                <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\sponsorslist23.jpg"/></a>
             </div>
-            <div class="row sponsors-block">
-              <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\SponsorsPage_2.png"/></a>
-            </div>
+            
           </div>    
       </div>
     </div>
