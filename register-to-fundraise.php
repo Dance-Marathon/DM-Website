@@ -47,7 +47,7 @@ background-image: url("/assets/images/BannerPhotos21/IMG_8130.jpg");
 						<li>Follow this <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4669" target="_blank">Link </a> to register now!
 							<li> Select <b>'Register Now' </b>
 								<ul>
-									  <li> If you have a DonorDrive account from DM at UF 2021, select <b>‘Login to your account’</b>. </li>
+									  <li> If you have a DonorDrive account from DM at UF 2022, select <b>‘Login to your account’</b>. </li>
 								  	<li> If you do not have a DonorDrive account, then create an account now.  </li>
 									</ul> </ul>
 					  	<li> Next, select your role.
