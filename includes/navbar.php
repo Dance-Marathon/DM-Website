@@ -109,14 +109,15 @@
 <!--SPACEEEEEEEE ---->
 
 				<li><a href="https://squareup.com/market/dance-marathon-at-uf" target="_blank">Store</a></li>
-				<li><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4669" target="_blank">Register to Fundraise</a></li>
+				<!--
+				<li><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5233" target="_blank">Register to Fundraise</a></li>
 
-				 <!--
+				 
 				 <li><a href="/blog/">Blog</a></li>
 				 -->
 				
 
-				<li class="open"><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.donate&eventID=4669" target="_blank" class="active">Donate</a></li>
+				<li class="open"><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5233" target="_blank" class="active">Donate</a></li>
 
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
