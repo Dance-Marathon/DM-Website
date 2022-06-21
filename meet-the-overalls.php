@@ -325,7 +325,7 @@
 
 <style>
 .page-heading.parallax.meet-the-overalls {
-background-image: url("/assets/images/BannerPhotos21/contact us.jpg");
+background-image: url("/assets/images/BannerPhotos21/contact us copy.jpg");
 }
 </style>
 
