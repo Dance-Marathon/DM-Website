@@ -31,7 +31,7 @@ DMA MEMBERS PAGE
 </style>
 <style>
 .page-heading.parallax.sponsors {
-background-image: url("/assets/images/BannerPhotos21/Sponsors.jpg");
+background-image: url("/assets/images/BannerPhotos21/Sponsors (1).jpg");
 }
 </style>
 <div class="page-heading parallax sponsors">
