@@ -7,7 +7,7 @@
 ?>
 <style>
 .page-heading.parallax.events {
-background-image: url("/assets/images/BannerPhotos21/Gracie C13.jpg");
+background-image: url("/assets/images/BannerPhotos21/events.jpg");
 }
 </style>
 <div class="page-heading parallax events">
