@@ -7,7 +7,7 @@ include("includes/navbar.php");
 ?>
 <style>
 .page-heading.parallax.register_fundraise {
-background-image: url("/assets/images/BannerPhotos21/IMG_8130.jpg");
+background-image: url("/assets/images/BannerPhotos21/Fundraising.jpg");
 }
 </style>
 <div class="page-heading parallax register_fundraise">
