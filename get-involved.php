@@ -7,7 +7,7 @@
 ?>
 <style>
 .page-heading.parallax.get-involved {
-background-image: url("/assets/images/BannerPhotos21/IMG_3231.jpg");
+background-image: url("/assets/images/BannerPhotos21/Get involed.jpg");
 }
 </style>
 <div class="page-heading parallax get-involved">
