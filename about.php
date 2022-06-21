@@ -7,7 +7,7 @@
 ?>
 <style>
 .page-heading.parallax.about {
-background-image: url("/assets/images/BannerPhotos21/about us.jpg");
+background-image: url("/assets/images/BannerPhotos21/about us (1).jpg");
 }
 </style>
 
