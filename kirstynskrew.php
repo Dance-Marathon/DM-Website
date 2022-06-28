@@ -66,7 +66,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD239.jpg");
 
 
 					<h3>Kirstyn's Krew</h3>
-					<p>Registration for Kirstyn's Krew 2021 is now closed. </p>
+					<!--<p>Registration for Kirstyn's Krew 2021 is now closed. </p>-->
 				    <h4><i>General Information</i></h4>
 					<p>Kirstyn’s Krew is a program that honors Kirstyn Tripp, our Miracle Child who lost her battle to childhood illness in 2018. Kirstyn's Krew allows students to experience Dance Marathon at the University of Florida from a different perspective and learn more about our fight to end pediatric illness. </p>
 					<p>As a member of Kirstyn’s Krew, throughout the year, participants will experience all that Dance Marathon at UF has to offer and celebrate the Miracles we make together for the children at UF Health Shands Children's Hospital. You will have the opportunity to participate in all DM at UF events, as well as events only open to Kirstyn's Krew, such as bonding events with the Tripp Family.</p>

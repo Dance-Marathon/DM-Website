@@ -138,7 +138,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
             <li>Input your information and create a new Organization.</li>
             <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing Organization team.</li>
           </ol>
-            <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Clayton Gaulding, at <a href=mailto:cgaulding@floridadm.org>cgaulding@floridadm.org</a> to inform him you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email him to let him know you started a team.</p>
+            <p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Kellyn Murphy, at <a href=mailto:kmurphy@floridadm.org>kmurphy@floridadm.org</a> to inform her you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email her to let her know you started a team.</p>
 
           </div>
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">

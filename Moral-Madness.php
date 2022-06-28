@@ -51,7 +51,7 @@ background-image: url("/assets/images/BannerPhotos21/Katerina_R-16.jpg");
 				<p><b>When:</b> Sunday, February 27th from 12-5:30 p.m. Game times will be staggered, your team will be contacted closer to the event with information regarding your specific start time. </p>
 				<p><b>Teams:</b> Teams should be composed of 10 players!</p>
 				<p><b>Tickets:</b> Tickets will be available on January 24th. Tickets can be purchased online in one of three ways. A Spectator Ticket ($3) grants you access to the event and all we have to offer, but does not grant you access to play in the tournament. If you want to play in the tournament purchase either a $5 Player Ticket or a $50 Team Ticket using the “Team Ticket” option. We hope to see you there for all of the fun and to learn more about UF Health Shands Children’s Hospital. </p>
-				<p>For more information, please contact the Morale Overall Director, Michael Sivilli, at <a href="mailto:msivilli@floridadm.org">msivilli@floridadm.org</a>.</p>
+				<p>For more information, please contact the Morale Overall Director, Victoria Leary, at <a href="mailto:vleary@floridadm.org">vleary@floridadm.org</a>.</p>
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>

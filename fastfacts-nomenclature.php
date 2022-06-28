@@ -67,19 +67,17 @@ background-image: url("/assets/images/BannerPhotos21/Sarena_S-12.jpg");
 
         <h3>Participants</h3>
         <p>
-          Number of Registered Dancers in 2021: <b>640</b> (maximum capacity with COVID 19)
+          Number of Registered Dancers in 2022: <b>1250</b> 
           <br/>
-          Number of Captains: <b>469</b>
+          Number of Captains: <b>467</b>
           <br/>
-          Number of Emerging Leaders: <b>153</b>
+          Number of Emerging Leaders: <b>160</b>
           <br/>
-          Number of Kirstyn's Krew: <b>27</b>
+          Number of Kirstyn's Krew: <b>53</b>
           <br/>
-          Number of Participants (including Overall Directors, Captains, Emerging Leaders and Kirstyn's Krew): <b>255</b> <!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
+          Number of Miracle Families: <b>56</b>
           <br/>
-          Number of Miracle Families: <b>46</b>
-          <br/>
-          Number of Sponsors: <b>74</b>
+          Number of Sponsors: <b>123</b>
           <br/>
           Most Years as a Dancer: <b>4 years</b> <!--change to exact-->
         </p>

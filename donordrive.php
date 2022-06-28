@@ -45,8 +45,8 @@ background-image: url("/assets/images/BannerPhotos21/Katerina_R-51.jpg");
       <?php if ($status == "open") { ?>
 
 				<h2>DonorDrive</h2>
-				<p>UF Health Shands Children’s Hospital is continuing to use DonorDrive, an online fundraising platform used widely by Children’s Miracle Network Hospitals, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will be creating DonorDrive accounts to begin fundraising for DM at UF 2022. DonorDrive is safe and easy to use, and was utilized by UF Health Shands Children’s Hospital this past year. To create a fundraising page, register using the link below:</p>
-				<a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4669" target="_blank">Register To Fundraise</a>
+				<p>UF Health Shands Children’s Hospital is continuing to use DonorDrive, an online fundraising platform used widely by Children’s Miracle Network Hospitals, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will be creating DonorDrive accounts to begin fundraising for DM at UF 2023. DonorDrive is safe and easy to use, and was utilized by UF Health Shands Children’s Hospital this past year. To create a fundraising page, register using the link below:</p>
+				<a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5233" target="_blank">Register To Fundraise</a>
 				<p></p>
 
 				<h3>FAQ:</h3>
@@ -57,7 +57,7 @@ background-image: url("/assets/images/BannerPhotos21/Katerina_R-51.jpg");
 <ul><li>Children's Miracle Network</li>
 <li>Location: Salt Lake City, UT</li></ul>
 
-<p>If you have any further questions, please contact our Finance Manager, Kayla Anschuetz, at <a href="kanschuetz@floridadm.org">kanschuetz@floridadm.org</a>.</p>
+<p>If you have any further questions, please contact our Finance Manager, Emily Giles, at <a href="egiles@floridadm.org">egiles@floridadm.org</a>.</p>
 
 
       <?php } else { echo 'This page is currently closed.'; } ?>

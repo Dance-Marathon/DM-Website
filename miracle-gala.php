@@ -48,7 +48,7 @@ background-image: url("/assets/images/BannerPhotos21/Overnight_SarahD30.jpg");
 <p>This black-tie event is designed for the Dance Marathon at UF community to celebrate a year of achievements, meet other community members and our Miracle Families, experience fine dining, hear from guest speakers, receive exclusive tours of the Main Event, participate in our Silent Auction, and take part in our Raise the Paddle fundraiser which benefits a participant of the donor’s choice. </p>
 <p>The night will be filled with many Special Guests, including Miracle Families, UF Health Shands Staff, Community Partners, Sponsors, members of our High School Program, Keynote Speakers, an Alumni Spotlight, and more!</p>
 <p>Ticket sales will be launched shortly! When they become available, they will be found here. </p>
-<p>For more information or questions about sponsoring the event, please contact the Community Outreach Overall Director, Melissa Tempest, at <a href=mailto:mtempest@floridadm.org>mtempest@floridadm.org</a>. We look forward to seeing you there! </p>    
+<p>For more information or questions about sponsoring the event, please contact the Community Outreach Overall Director, Bridget Richer, at <a href=mailto:bricher@floridadm.org>bricher@floridadm.org</a>. We look forward to seeing you there! </p>    
 			<?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 		</div>

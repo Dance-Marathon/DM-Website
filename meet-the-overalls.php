@@ -239,9 +239,9 @@
 	    'image' => 'vleary.JPEG',
 		),
 		 array(
-	    'name' => 'Katerina Rettino',
+	    'name' => 'Marlee Wittner',
 	    'position' => 'Multimedia Overall',
-	    'email' => 'krettino@floridadm.org',
+	    'email' => 'mwittner@floridadm.org',
 	    'previous_involvement' => 'Assistant Director of Videography',
 	    'major' => 'Telecommunications (Production) and Marketing',
 	    'hometown' => 'Tampa, FL',
@@ -250,7 +250,7 @@
 	    'fun_fact' => 'I was born in Guayaquil, Ecuador and I am bilingual.',
 	    'favorite_memory' => 'My favorite DM memory was near the end of this year\'s Opening Ceremony. I was in charge of making the Opening Ceremonies video and this year we decided to incorporate the moment that the Dancers stood up into the video. My favorite memory was this moment in which the Dancers realized it was time for their 26.2 hour journey to begin. This was my favorite memory because it meant our video was successful in sending our message across without necessarily telling the Dancers they had to stand up.',
 	    'motivation' => 'What motivates me is my passion for filmmaking and helping others.',
-	    'image' => 'kat.JPEG',
+	    'image' => 'marlee.jpeg',
 	   ),
 
 		 array(
@@ -325,7 +325,7 @@
 
 <style>
 .page-heading.parallax.meet-the-overalls {
-background-image: url("/assets/images/BannerPhotos21/Charles-H-5.jpg");
+background-image: url("/assets/images/BannerPhotos21/contact us copy.jpg");
 }
 </style>
 

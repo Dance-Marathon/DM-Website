@@ -7,7 +7,7 @@ include("includes/navbar.php");
 ?>
 <style>
 .page-heading.parallax.register_fundraise {
-background-image: url("/assets/images/BannerPhotos21/IMG_8130.jpg");
+background-image: url("/assets/images/BannerPhotos21/Fundraising (1).jpg");
 }
 </style>
 <div class="page-heading parallax register_fundraise">
@@ -44,10 +44,10 @@ background-image: url("/assets/images/BannerPhotos21/IMG_8130.jpg");
 
 					<p>Just follow the steps below:</p>
 					<ol>
-						<li>Follow this <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4669" target="_blank">Link </a> to register now!
+						<li>Follow this <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5233" target="_blank">Link </a> to register now!
 							<li> Select <b>'Register Now' </b>
 								<ul>
-									  <li> If you have a DonorDrive account from DM at UF 2021, select <b>‘Login to your account’</b>. </li>
+									  <li> If you have a DonorDrive account from DM at UF 2022, select <b>‘Login to your account’</b>. </li>
 								  	<li> If you do not have a DonorDrive account, then create an account now.  </li>
 									</ul> </ul>
 					  	<li> Next, select your role.
@@ -61,7 +61,7 @@ background-image: url("/assets/images/BannerPhotos21/IMG_8130.jpg");
 							<li> From here, you can use the tools on DonorDrive to send emails from a template, track your fundraising, and share your fundraising link with others! </li>
 								</ol>
 
-								<p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director at <a href="mailto:cgaulding@floridadm.org  ">cgaulding@floridadm.org  </a></p>
+								<p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director at <a href="mailto:kmurphy@floridadm.org  ">kmurphy@floridadm.org  </a></p>
 
 						   	</div>
 							</div>
