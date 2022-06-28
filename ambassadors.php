@@ -89,7 +89,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
         <ul class="nav nav-tabs" role="tablist">
           <li role="presentation" class="active"><a href="#become-a-delegate" aria-controls="become-a-delegate" role="tab" data-toggle="tab">Become an Ambassador</a></li>
           <li role="presentation"><a href="#starting-a-team" aria-controls="starting-a-team" role="tab" data-toggle="tab">Starting a Team</a></li>
-          <li role="presentation"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">2022 Ambassadors</a></li>
+          <li role="presentation"><a href="#ambassadors" aria-controls="ambassadors" role="tab" data-toggle="tab">2023 Ambassadors</a></li>
         </ul>
 
         <!-- Tab panes -->
@@ -102,7 +102,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 
             <p>Organization Ambassadors will attend weekly meetings to receive information to relay to their Organizations and to work on professional and personal development. These meetings will allow Ambassadors to think creatively and brainstorm together to create new ways to incentivize and engage their members in Dance Marathon. Each Organization will be assigned a Fundraising & Organization Development Captain to work with on Organization involvement and fundraising throughout the year.<P>
 
-            Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here</a> to view the 2022 Ambassador Guidelines</p>
+          <p>    Click <a href="https://ufl.qualtrics.com/jfe/form/SV_8IX6TuGzURJg4se" target="_blank">here</a> to apply to be a 2023 Ambassador! </p>
+          <p>Applications close July 8th. </p>
 
               <h3>Responsibilities:</h3>
               <ul>
@@ -142,7 +143,10 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
           </div>
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">
           <h3>2023 Ambassadors</h3>
-            <p>    Keep an eye out for applications! </p>
+            <p>    Click <a href="https://ufl.qualtrics.com/jfe/form/SV_8IX6TuGzURJg4se" target="_blank">here</a> to apply to be a 2023 Ambassador! </p>
+                <p>Applications close July 8th. </p>
+                
+                
 <!--          <table style="width:100%; table-layout: fixed">
             <tbody>
               <tr>
