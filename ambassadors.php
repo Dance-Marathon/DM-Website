@@ -109,7 +109,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <ul>
                 <li>Creating a DonorDrive page and fundraising a minimum of $500, as well as participating as a Dancer at the Main Event</li>
                 <li>Attending weekly meetings on Thursday at the Reitz</li>
-                <li>Purchasing a Check - In Shirt and official Ambassador Polo from the DM at UF Store</li>
+                <li>Purchasing a Check-In Shirt and official Ambassador Polo from the DM at UF Store</li>
                 <li>Motivating members of their Organization to fundraise, participate, and become involved with Dance Marathon</li>
                 <li>Informing all Organization members of events, registration dates, fundraising incentives, etc.</li>
                 <li>Working with the Family Relations Team to engage with their respective Miracle Family throughout the year</li>
