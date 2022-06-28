@@ -107,24 +107,31 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 
               <h3>Responsibilities:</h3>
               <ul>
-                <li>Recruit and motivate members of their Organization to fundraise and participate</li>
-                <li>Encourage members to get involved with Dance Marathon</li>
-                <li>Inform all Organization members of events, registration dates, fundraising incentives, etc.</li>
-                <li>Work with the Family Relations Team to engage with their respective Miracle Family throughout the year</li>
-                <li>Host a minimum of one Hospitality Night or fundraising event</li>
-                <li>Be in attendance at various Dance Marathon events during the year (i.e. Miracles in Color 5K, Moralloween, Miracle Family Events, etc.)</li>
-              </ul>
+                <li>Creating a DonorDrive page and fundraising a minimum of $500, as well as participating as a Dancer at the Main Event</li>
+                <li>Attending weekly meetings on Thursday at the Reitz</li>
+                <li>Purchasing a Check - In Shirt and official Ambassador Polo from the DM at UF Store</li>
+                <li>Motivating members of their Organization to fundraise, participate, and become involved with Dance Marathon</li>
+                <li>Informing all Organization members of events, registration dates, fundraising incentives, etc.</li>
+                <li>Working with the Family Relations Team to engage with their respective Miracle Family throughout the year</li>
+                <li>Hosting a minimum of one Hospitality Night or fundraising event (per semester)</li>
+                <li>Being in attendance and participating at Miracles in Color 5K, Moralloween, and Miracle Family Events (including a table at Moralloween)</li>
+                <li>Being leaders and change-makers within their respective organizations</li>
+            </ul>
 
 
-              <h3>Responsibilities during the Main Event:</h3>
+              <h3>Main Event Responsibilities:</h3>
               <ul>
-                <li>Help assign Dancer buddies prior to the Event for each Dancer</li>
-                <li>Work with their Fundraising and Organization Development Captain to encourage and help Dancers fundraise at the Event</li>
-                <li>Relay important information to Dancers throughout the Event</li>
-                <li>Be available for Dancers in case of emergency</li>
+                <li>Helping assign Dancer buddies prior to the Event for each Dancer</li>
+                    <li>Working with their Fundraising and Organization Development Captain to encourage and help Dancers fundraise at the Event</li>
+                    <li>Relaying important information to Dancers throughout the Event</li>
+                    <li>Being available for Dancers in case of emergency</li>
+                    <li>Being a support system and encouraging leader for members during the event </li>
+
               </ul>
 
-              <p class="alert alert-info">Ambassadors are also encouraged to be Dancers if they choose and are eligible for free Dancer Registration upon meeting expectations of the program.</p>
+              <p class="alert alert-info">*Ambassadors are expected to attend the entire Main Event and assist with inter-organization activities throughout the year. <br></br>
+                        
+                       **This year, Ambassadors will not be able to also be Captains on other Dance Marathon Teams.</p>
 
 
           </div>
