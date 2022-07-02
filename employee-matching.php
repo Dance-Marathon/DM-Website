@@ -73,7 +73,7 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1172.jpg");
           Gainesville, FL 32610-0386
       </address>
 
-* PLEASE NOTE: If you are selecting this preferred donation location, please do not list Dance Marathon at the University of Florida or CMN as the matching entity. Many companies will not accept this request, as our tax exempt status is included under the larger umbrella of Shands Teaching Hospital and Clinics, Inc. If you have any questions about this process, please reach out to Lindsay Ritenbaugh, Development Associate for Children’s Miracle Network, for clarification at <a href=mailto:RITENL@shands.ufl.edu>RITENL@shands.ufl.edu.</a>
+* PLEASE NOTE: If you are selecting this preferred donation location, please do not list Dance Marathon at the University of Florida or CMN as the matching entity. Many companies will not accept this request, as our tax exempt status is included under the larger umbrella of Shands Teaching Hospital and Clinics, Inc. If you have any questions about this process, please reach out to Lindsay Ritenbaugh, Development Associate for Children’s Miracle Network, for clarification at <a href=mailto:@ ttov0002@shands.ufl.edu> ttov0002@shands.ufl.edu.</a>
 
       <h3>Alternative Donation Location</h3>
       <address>
