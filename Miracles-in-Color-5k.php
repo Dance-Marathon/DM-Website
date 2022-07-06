@@ -47,8 +47,8 @@ background-image: url("/assets/images/BannerPhotos21/5k_2-13-21_SarahD24.jpg");
           Welcome to the Miracles in Color 5K benefiting UF Health Shands Children's Hospital!
           Miracles in Color is open to anyone who wants to support our cause and have a great time. In addition to our 5k run, we will have free food and merchandise to purchase on Flavet Field. We couldn't think of a better way for you to spend your Saturday morning than with paint and by supporting a hospital that is so prominent in our community!
   </p>
-              <p> Purchase <a href=https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5022>Miracles in Color 5k Tickets here!</a>* </p>
-              
+             <!-- <p> Purchase <a href=https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5022>Miracles in Color 5k Tickets here!</a>* </p>
+              -->
               <p><i> *Tickets purchased after January 31 will not include a complimentary 5K shirt </i></p>
               <p> The course runs through the University of Florida campus and will have color stations throughout the course as well as at the finish line. At each color station, runners will be doused in color.* <u>All participants will be provided with a Miracles In Color 5k white shirt with registration.</u> </p>
 
