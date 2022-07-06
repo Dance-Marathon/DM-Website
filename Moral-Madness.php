@@ -44,7 +44,8 @@ background-image: url("/assets/images/BannerPhotos21/Katerina_R-16.jpg");
 				<h2>Morale Madness</h2>
 
           
-                <p> Purchase tickets <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5062" target="_blank">HERE!</a>
+               <!-- <p> Purchase tickets <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5062" target="_blank">HERE!</a>
+-->
                 <p>Morale Madness is a 10 v. 10 kickball tournament taking place on February 27th from 12-5:30 p.m. Read below for more information regarding the event, teams, and tickets. </p>
 				<p><b>What:</b> 10 v. 10 kickball tournament </p>
 				<p><b>Where:</b> RecSports Softball Fields </p>
