@@ -767,7 +767,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <h4><b>Assistant Director of Faculty Relations</b></h4>
                 Taryn Smith
                 <h4><b>Assistant Director of Tracking</b></h4>
-                Anne-Sophia "Sophie" Hadley
+                Anna-Sophia "Sophie" Hadley
          <!--  <h4>  <b>Captains</b></h4> -->
            <table style="width:100%">
                 <tbody class="recruitment">
