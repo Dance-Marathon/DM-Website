@@ -149,8 +149,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
           </div>
           <div role="tabpanel" class="tab-pane fade" id="ambassadors">
           <h3>2023 Ambassadors</h3>
-            <p>    Click <a href="https://ufl.qualtrics.com/jfe/form/SV_8IX6TuGzURJg4se" target="_blank">here</a> to apply to be a 2023 Ambassador! </p>
-                <p>Applications close July 8th. </p>
+            <p>    2023 Ambassadors Coming Soon! </p>
                 
                 
 <!--          <table style="width:100%; table-layout: fixed">
