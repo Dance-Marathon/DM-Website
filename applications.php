@@ -67,7 +67,7 @@ background-image: url("/assets/images/BannerPhotos21/DSC07473.jpg");
 -->
 <b>Emerging Leaders Application</b> Now Closed </p>
 				<!--	<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0vzpwH8jOnh0YRw" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Thursday, September 9</b>.</p> -->
-<b>Ambassador Application</b> Click <a href="https://ufl.qualtrics.com/jfe/form/SV_8IX6TuGzURJg4se" target="_blank">here</a> to apply to be a 2023 Ambassador! <i>*Applications close July 8th. </i>
+<b>Ambassador Application</b> Now Closed </p>
                         
                   <br></br>
                         <p>If you have any questions regarding applications, please reach out to our Operations Manager, Zach Zelenak, at <a href="mailto:zzelenak@floridadm.org">zzelenak@floridadm.org</a>.</p>
