@@ -173,7 +173,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 <td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Jessica Halvorsen<br>Shira Isaak</td></tr>
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Epsilon Pi</b><br>Jason Snytte<br></td>
+                <td style="vertical-align:top"><b>Alpha Epsilon Pi</b><br>Joshua Levin<br>Jason Snytte<br></td>
                 <td style="vertical-align:top"><b>Dream Team</b><br>Kevin Avaiya<br>Saketh Damera</td>
                 <td style="vertical-align:top"><b>Pi Kappa Phi</b><br>Ben Jenkins </td>
                 
