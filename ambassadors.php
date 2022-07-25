@@ -211,7 +211,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr>
                 <td style="vertical-align:top"><b>Beta Theta Pi</b><br>Paul Kolsun<br></td>
                 <td style="vertical-align:top"><b>Kappa Alpha Order</b><br>Nick Soviero</td>
-                <td style="vertical-align:top"><b>Sigma Chi</b><br>Brogen Tagman</td></tr>
+                <td style="vertical-align:top"><b>Sigma Chi</b><br>Brogen Tagman<br>William Galleher</td></tr>
                 
               <tr><td><br></td></tr>
               <tr>
