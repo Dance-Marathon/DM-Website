@@ -267,7 +267,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 <td style="vertical-align:top"><b>Phi Eta Sigma Honor Society</b><br>Cade Ferguson</td>
                 <td style="vertical-align:top"><b>Tone Def A Cappella</b><br>Georgina Vitola</td></tr>
                 
-                <td style="vertical-align:top"><b>Phi Kappa Tau</b><br>Alessaandro Perugini</td>
+                <td style="vertical-align:top"><b>Phi Kappa Tau</b><br>Brian Beckman</td>
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Sigma Phi</b><br>Jack Ziegler<br>Elijah Bloyer</td>
