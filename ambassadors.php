@@ -185,15 +185,15 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Omicron Pi</b><br>Sydney Mandell<br></td>
-                <td style="vertical-align:top"><b>Footprints: Buddy and Support Program</b><br>Chloe Caylor<br>Molly O'Neill</td>
+                <!--<td style="vertical-align:top"><b>Alpha Omicron Pi</b><br>Sydney Mandell<br></td>-->
+                <!--<td style="vertical-align:top"><b>Footprints: Buddy and Support Program</b><br>Chloe Caylor<br>Molly O'Neill</td>-->
                 <td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>
                 
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Phi</b><br>Casey Strauss<br></td>
-                <td style="vertical-align:top"><b>Gamma Eta</b><br>Natalia Perez</td>
-                <td style="vertical-align:top"><b>Preview Staff</b><br>Angelina Del Toro</td>
+                <!--<td style="vertical-align:top"><b>Gamma Eta</b><br>Natalia Perez</td>-->
+                <!--<td style="vertical-align:top"><b>Preview Staff</b><br>Angelina Del Toro</td>-->
                 
               <tr><td><br></td></tr>
                <tr>
