@@ -186,7 +186,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Phi</b><br>Casey Strauss<br></td>
-                <td style="vertical-align:top"><b>Sigma Chi</b><br>Brogen Tagman<br>William Galleher</td></tr>
+                <td style="vertical-align:top"><b>Sigma Chi</b><br>Brogan Tagman<br>William Galleher</td></tr>
                 <!--<td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>-->
                 
               <tr><td><br></td></tr>
