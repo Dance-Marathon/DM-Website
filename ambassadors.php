@@ -221,7 +221,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Delta Gamma</b><br>Gabriella Torres de Navarra<br></td>
+                <td style="vertical-align:top"><b>Delta Gamma</b><br>Gabriela Torres de Navarra<br></td>
                 <td style="vertical-align:top"><b>UF Honors Program</b><br>Claudia Elena Johnson Cuellar<br></td></tr> 
                 <!--<td style="vertical-align:top"><b>Sigma Nu</b><br>Zachary Terwilliger </td></tr>-->
               <tr><td><br></td></tr>
