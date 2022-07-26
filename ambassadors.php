@@ -250,7 +250,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr>
                 <!--<td style="vertical-align:top"><b>Delta Delta Delta</b><br>Elizabeth Wainer<br>Kate Caranante</td>-->
                <!-- <td style="vertical-align:top"><b>Nina Karlinsky Memorial Team</b><br>Ronald Rodriguez</td>-->
-                <td style="vertical-align:top"><b>Theta Alpha</b><br>Claire Schreiber<br>Julia Quinones</td></tr>
+                <!--<td style="vertical-align:top"><b>Theta Alpha</b><br>Claire Schreiber<br>Julia Quinones</td></tr>-->
                 
               <tr><td><br></td></tr>
               <tr>
@@ -260,7 +260,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Nu Zeta</b><br>Kyra Kimball<br>Sparsha Padi</td>
-                <td style="vertical-align:top"><b>Theta Tau</b><br>Gabriela Rodrigo<br>Jaren Palmasani</td></tr>
+                <!--<td style="vertical-align:top"><b>Theta Tau</b><br>Gabriela Rodrigo<br>Jaren Palmasani</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Phi Epsilon</b><br>Emma Glech<br>Rachel Lerner </td>
