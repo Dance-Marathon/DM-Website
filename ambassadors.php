@@ -197,26 +197,26 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
                <tr>
-                <td style="vertical-align:top"><b>Alpha Tau Omega</b><br>Ciaran O'Rourke<br></td>
+                <!--<td style="vertical-align:top"><b>Alpha Tau Omega</b><br>Ciaran O'Rourke<br></td>-->
                 <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Alexic Pullos<br></td>
-                <td style="vertical-align:top"><b>Sigma Alpha</b><br>Peyton Corbin </td></tr>
+                <!--<td style="vertical-align:top"><b>Sigma Alpha</b><br>Peyton Corbin </td></tr>-->
                 
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>AMSA</b><br>Taylor Tompkins<br>Hayley Makowski</td>
                 <td style="vertical-align:top"><b>Hispanic Student Association</b><br>Paula Gonzalez</td>
-                <td style="vertical-align:top"><b>Sigma Alpha Epsilon</b><br>Nick Miller<br>Paris Mihaj</td></tr>
+                <!--<td style="vertical-align:top"><b>Sigma Alpha Epsilon</b><br>Nick Miller<br>Paris Mihaj</td></tr>-->
                 
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Beta Theta Pi</b><br>Paul Kolsun<br></td>
-                <td style="vertical-align:top"><b>Kappa Alpha Order</b><br>Nick Soviero</td>
+                <!--<td style="vertical-align:top"><b>Kappa Alpha Order</b><br>Nick Soviero</td>-->
                 <td style="vertical-align:top"><b>Sigma Chi</b><br>Brogen Tagman<br>William Galleher</td></tr>
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Catholic Gators</b><br>Diana Brunner<br>Gisela Rojas-Carreno</td>
-                <td style="vertical-align:top"><b>Kappa Alpha Theta</b><br>Brianne Fabiano<br>Taylor Ehrlich</td>
+                <!--<td style="vertical-align:top"><b>Catholic Gators</b><br>Diana Brunner<br>Gisela Rojas-Carreno</td>-->
+                <!--<td style="vertical-align:top"><b>Kappa Alpha Theta</b><br>Brianne Fabiano<br>Taylor Ehrlich</td>-->
                 <td style="vertical-align:top"><b>Sigma Kappa</b><br>Danielle DePaul</td></tr>
                 
               <tr><td><br></td></tr>
@@ -248,8 +248,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Delta Delta Delta</b><br>Elizabeth Wainer<br>Kate Caranante</td>
-                <td style="vertical-align:top"><b>Nina Karlinsky Memorial Team</b><br>Ronald Rodriguez</td>
+                <!--<td style="vertical-align:top"><b>Delta Delta Delta</b><br>Elizabeth Wainer<br>Kate Caranante</td>-->
+               <!-- <td style="vertical-align:top"><b>Nina Karlinsky Memorial Team</b><br>Ronald Rodriguez</td>-->
                 <td style="vertical-align:top"><b>Theta Alpha</b><br>Claire Schreiber<br>Julia Quinones</td></tr>
                 
               <tr><td><br></td></tr>
@@ -265,7 +265,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr>
                 <td style="vertical-align:top"><b>Delta Phi Epsilon</b><br>Emma Glech<br>Rachel Lerner </td>
                 <td style="vertical-align:top"><b>Phi Eta Sigma Honor Society</b><br>Cade Ferguson</td>
-                <td style="vertical-align:top"><b>Tone Def A Cappella</b><br>Georgina Vitola</td></tr>
+                <!--<td style="vertical-align:top"><b>Tone Def A Cappella</b><br>Georgina Vitola</td></tr>-->
                 
                 <td style="vertical-align:top"><b>Phi Kappa Tau</b><br>Brian Beckman</td>
               <tr><td><br></td></tr>
