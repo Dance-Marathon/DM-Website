@@ -256,7 +256,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr>
                 <td style="vertical-align:top"><b>Kappa Delta</b><br>Kshama Shetty <br></td>
                 <!--<td style="vertical-align:top"><b>Omega Phi Alpha</b><br>Rachel Farmer<br>Kristen Rifenberg</td>-->
-                <td style="vertical-align:top"><b>Theta Chi</b><br>Sazzad Mabud</td></tr>
+                <!--<td style="vertical-align:top"><b>Theta Chi</b><br>Sazzad Mabud</td></tr> -->
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Kappa Phi Epsilon</b><br>Paul McKenzie<br></td>
