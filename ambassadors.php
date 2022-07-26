@@ -227,7 +227,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Nu Zeta</b><br>Kyra Kimball<br>Sparsha Padi</td>
-                <!--<td style="vertical-align:top"><b>Kappa Kappa Gamma</b><br>Angelina Del Toro<br>Bianca Hong </td>-->
+                <td style="vertical-align:top"><b>Zeta Beta Tau</b><br>Brendan Kligerman<br>Coby Farhi</td>
                 <!--<td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Benjamin Lang</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
