@@ -231,20 +231,20 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 <td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Benjamin Lang</td></tr>
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>College of Nursing</b><br>Brandy Morales<br>Samantha Bloom</td>
+                <!--<td style="vertical-align:top"><b>College of Nursing</b><br>Brandy Morales<br>Samantha Bloom</td>-->
                 <td style="vertical-align:top"><b>Kappa Phi Epsilon</b><br>Paul McKenzie<br></td>
                 <td style="vertical-align:top"><b>Society of Women Engineers</b><br>Elena Rollins<br>Alessandra Andreozzi</td></tr>
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>College of Pharmacy</b><br>Jordyn Wiener<br>Karla Hernandez Martinez</td>
+                <!--<td style="vertical-align:top"><b>College of Pharmacy</b><br>Jordyn Wiener<br>Karla Hernandez Martinez</td>-->
                 <td style="vertical-align:top"><b>Kappa Sigma</b><br>Nolan Hensley </td>
                 <td style="vertical-align:top"><b>Tau Epsilon Phi</b><br>Teo Resnik</td></tr>
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Chi</b><br>Tor Moncrieff</td>
                 <td style="vertical-align:top"><b>Lambda Chi Alpha</b><br>Nickolas Powers<br>  </td>
-                <td style="vertical-align:top"><b>Tau Kappa Epsilon</b><br>Jorge Valarezo</td></tr>
+                <!--<td style="vertical-align:top"><b>Tau Kappa Epsilon</b><br>Jorge Valarezo</td></tr>-->
                 
               <tr><td><br></td></tr>
               <tr>
@@ -271,7 +271,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Sigma Phi</b><br>Jack Ziegler<br>Elijah Bloyer</td>
-                <td style="vertical-align:top"><b>Phi Mu</b><br>Emma Tullio<br>Samantha Butler</td>
+                <!--<td style="vertical-align:top"><b>Phi Mu</b><br>Emma Tullio<br>Samantha Butler</td>-->
                 <td style="vertical-align:top"><b>UF Honors Program</b><br>Claudia Elena Johnson Cuellar<br></td></tr> 
                 
 
