@@ -156,31 +156,31 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
             <tbody>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Chi Omega</b><br>Louisiana Morancy<br></td>
-                <td style="vertical-align:top"><b>Delta Tau Delta</b><br>Edgard Miranda<br>John Fry </td>
-                <td style="vertical-align:top"><b>Phi Delta Theta</b><br>Answer Langer <br>Sam Zimelman</td>
-                <td style="vertical-align:top"><b>UF Pre-Physician Assistant Association</b><br>Tayna Moreira</td></tr>
+                <!--<td style="vertical-align:top"><b>Delta Tau Delta</b><br>Edgard Miranda<br>John Fry </td>-->
+                <td style="vertical-align:top"><b>Phi Delta Theta</b><br>Answer Langer <br></td>
+                <!--<td style="vertical-align:top"><b>UF Pre-Physician Assistant Association</b><br>Tayna Moreira</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Delta Pi</b><br>Lola Accardi<br></td>
-                <td style="vertical-align:top"><b>Delta Upsilon</b><br>Alexander Monteagudo</td>
-                <td style="vertical-align:top"><b>Pi Beta Phi</b><br>Isabella Morales<br>Morgan Emmi</td>
+                <!--<td style="vertical-align:top"><b>Delta Upsilon</b><br>Alexander Monteagudo</td>-->
+                <!--<td style="vertical-align:top"><b>Pi Beta Phi</b><br>Isabella Morales<br>Morgan Emmi</td>-->
                 <td style="vertical-align:top"><b>Zeta Beta Tau</b><br>Brendan Kligerman<br>Coby Farhi</td></tr>
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Maggie Goldenberg<br></td>
-                <td style="vertical-align:top"><b>Delta Zeta</b><br>Julia Musso<br>Julia White</td>
-                <td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Conor Bowen <br>John Dunphy </td>
-                <td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Jessica Halvorsen<br>Shira Isaak</td></tr>
+                <!--<td style="vertical-align:top"><b>Delta Zeta</b><br>Julia Musso<br>Julia White</td>-->
+                <!--<td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Conor Bowen <br>John Dunphy </td>-->
+                <!--<td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Jessica Halvorsen<br>Shira Isaak</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Epsilon Pi</b><br>Joshua Levin<br>Jason Snytte<br></td>
-                <td style="vertical-align:top"><b>Dream Team</b><br>Kevin Avaiya<br>Saketh Damera</td>
-                <td style="vertical-align:top"><b>Pi Kappa Phi</b><br>Ben Jenkins </td>
+                <!--<td style="vertical-align:top"><b>Dream Team</b><br>Kevin Avaiya<br>Saketh Damera</td>-->
+                <!--<td style="vertical-align:top"><b>Pi Kappa Phi</b><br>Ben Jenkins </td>-->
                 
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Gamma Rho</b><br>Cole Verano<br></td>
-                <td style="vertical-align:top"><b>EMPRESS</b><br>Dartaisha Bass<br>Thanh Do</td>
+                <!--<td style="vertical-align:top"><b>EMPRESS</b><br>Dartaisha Bass<br>Thanh Do</td>-->
                 <td style="vertical-align:top"><b>Pi Lambda Phi</b><br>Daniel Chaiet<br>  </td>
                 
               <tr><td><br></td></tr>
@@ -272,7 +272,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr>
                 <td style="vertical-align:top"><b>Delta Sigma Phi</b><br>Jack Ziegler<br>Elijah Bloyer</td>
                 <td style="vertical-align:top"><b>Phi Mu</b><br>Emma Tullio<br>Samantha Butler</td>
-                <td style="vertical-align:top"><b>UF Honors Program</b><br>Claudia Elena<br>Johnson Cuellar</td></tr> 
+                <td style="vertical-align:top"><b>UF Honors Program</b><br>Claudia Elena Johnson Cuellar<br></td></tr> 
                 
 
 
