@@ -221,13 +221,13 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Chi Omega</b><br>Sara Matos<br>Sarah Daly</td>
+                <!--<td style="vertical-align:top"><b>Chi Omega</b><br>Sara Matos<br>Sarah Daly</td>-->
                 <td style="vertical-align:top"><b>Kappa Delta</b><br>Kshama Shetty <br></td>
                 <td style="vertical-align:top"><b>Sigma Nu</b><br>Zachary Terwilliger </td></tr>
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Chi Phi</b><br>Jacob Bravo<br>Cole Carpinteri</td>
-                <td style="vertical-align:top"><b>Kappa Kappa Gamma</b><br>Angelina Del Toro<br>Bianca Hong </td>
+                <!--<td style="vertical-align:top"><b>Kappa Kappa Gamma</b><br>Angelina Del Toro<br>Bianca Hong </td>-->
                 <td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Benjamin Lang</td></tr>
               <tr><td><br></td></tr>
               <tr>
