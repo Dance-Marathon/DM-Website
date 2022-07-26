@@ -242,7 +242,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 <!--<td style="vertical-align:top"><b>Tau Epsilon Phi</b><br>Teo Resnik</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Alexic Pullos<br></td>
+                <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Alexis Pullos<br></td>
                 <!--<td style="vertical-align:top"><b>Lambda Chi Alpha</b><br>Nickolas Powers<br>  </td>-->
                 <!--<td style="vertical-align:top"><b>Tau Kappa Epsilon</b><br>Jorge Valarezo</td></tr>-->
                 
