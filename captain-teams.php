@@ -582,7 +582,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                 <h4><b>	Assistant Director of Finance and Sponsorships</b></h4>
                 Abigail Crawford
                 <h4><b>	Assistant Director of Projects and Communications</b></h4>
-                Mary Reagan Phillips
+                Chloe Cornett
 
               <br>
        <!-- <h4>  <b>Captains </b></h4> -->
