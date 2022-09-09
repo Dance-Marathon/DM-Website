@@ -102,7 +102,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 
             <p>Organization Ambassadors will attend weekly meetings to receive information to relay to their Organizations and to work on professional and personal development. These meetings will allow Ambassadors to think creatively and brainstorm together to create new ways to incentivize and engage their members in Dance Marathon. Each Organization will be assigned a Fundraising & Organization Development Captain to work with on Organization involvement and fundraising throughout the year.<P>
 
-          <p>    2023 Ambassadors Coming Soon! </p>
+          <p>    The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_cHj3FXm5dpiGSAC" target="_blank">here</a>. This application will close at <b>8:00 PM EST</b> on <b>Monday, September 12</b>. </p>
 
               <h3>Responsibilities:</h3>
               <ul>
