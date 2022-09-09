@@ -68,7 +68,7 @@ Click <a href="Documents/2022 Overall Director Application.pdf" target="_blank">
 <b>Emerging Leaders Application</b> <!-- Now Closed -->
 					<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_3TNT3WCljhDOJLw" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Monday, September 12</b>.</p>
 <b>Ambassador Application</b> </p>
-                    <p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_cHj3FXm5dpiGSAC" target="_blank">here</a>. This application will close at <b>12:00 PM (NOON) EST</b> on <b>Monday, September 12</b>. </p>
+                    <p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_cHj3FXm5dpiGSAC" target="_blank">here</a>. This application will close at <b>8:00 PM EST</b> on <b>Monday, September 12</b>. </p>
                   <br></br>
                         <p>If you have any questions regarding applications, please reach out to our Operations Manager, Zach Zelenak, at <a href="mailto:zzelenak@floridadm.org">zzelenak@floridadm.org</a>.</p>
                     
