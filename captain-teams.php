@@ -389,10 +389,48 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Emily Lupo
 	      <h4><b>Assistant Director of External Relations</b></h4>
               Abbey Ladd
-              <!--<h4><b>Captains</b></h4> -->
+              <h4><b>Captains</b></h4> 
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
+			Aline Capuano |
+			Ashleigh Churchill |
+			Bianca Ciancio |
+			Abigail Cohen |
+			Mai-Brie Conklin |
+			Bayley Edwards |
+			Maisie Farrell |
+			Andie Galpern |
+			Garrett Gerard |
+			Marielle Goldschlag |
+			Natalie Good |
+			Michael Hampton |
+			Annika Holmstrom |
+			Payton Kadivar |
+			Alex Katsotis |
+			Emily Kelly |
+			Nicole Klein |
+			Sabrina Kresse |
+			Kellie Kulp |
+			Caroline Lee |
+			Kaleigh Lentine |
+			Daniel Lewis |
+			Morgan Liotta |
+			Lauren Maya |
+			Carley Mccammon |
+			Mary Pahides |
+			Alejandro Ramirez |
+			Lauren Rugh |
+			Carly Salk |
+			Kristin Santaniello |
+			Samantha Sawka |
+			Alli Schwartz |
+			Rachael Siegel |
+			Samantha Smith |
+			Gianna Spadavecchia |
+			Sara Sugerman |
+			Amanda Veltri |
+			Chloe Wai
                     </tbody>
               </table>
 
@@ -420,9 +458,23 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Hailey Paek
               <h4><b>Assistant Director of Internal Affairs</b></h4>
               Anderson Allen
-              <!--<h4>  <b> Captains</b></h4> -->
+              <h4>  <b> Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="designandtech">
+			Rachel Bernstein |
+			Lexy Cohen |
+			Camille Eyman |
+			Jessica Freeman |
+			Gabrielle Friedman |
+			Natalie Kwak |
+			Joshua Lamb |
+			Katie Mcdonnell |
+			Lauren Nigri |
+			Rachel Peterson |
+			Sami Sepehri |
+			Emsley Thornton |
+			Aaron Upchurch |
+			Sydney Wall
                    </tbody>
               </table>
             </div>
@@ -520,9 +572,36 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Dilon Bruncaj
               <h4><b>Assistant Director of External Operations</b></h4>
               Janel Hernandez
-  <!-- <h4>  <b> Captains</b></h4> -->
+   <h4>  <b> Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="fundraising">
+			Mya Arong |
+			Elijah Bloyer |
+			Aine Booth |
+			Alexander Briones |
+			Savannah Chalmers |
+			Grey Chapin |
+			Abby Coleman |
+			Jessie Cramer |
+			Olivia Delevan |
+			Daniel Dvorak |
+			Morgan Emmi |
+			Clara Flint |
+			Irina Frangos |
+			Andrew Kistner |
+			Zackary Kroyer |
+			Madalyn Lueken |
+			Victoria Lutz |
+			Vaia Mavilla |
+			Alexa Mazloff |
+			Kara Motsch |
+			Andrew Neclerio |
+			Nolan Sanchez |
+			Ellie Saunders |
+			Morgan Simpson |
+			Nick Soviero |
+			Lara Symons |
+			Jack Watkins
                 </tbody>
               </table>
             </div>
@@ -550,9 +629,29 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Ava Peiser
               <h4><b>Assistant Director of Internal Relations</b></h4>
               Allison Burns
-  <!-- <h4>  <b>Captains</b></h4> -->
+  <h4>  <b>Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="hospitality">
+			Adam Birnbaum |
+			Natalya Escobar |
+			Reese Harper |
+			Parker Hershkowitz |
+			Alex Licht |
+			Ethan Morandi |
+			Abby Nussbaum |
+			Liam O'Brien |
+			Adam Paroff |
+			Caroline Patterson |
+			Leah Rison |
+			Julia Saltzstein |
+			Madison Schain |
+			Ava Sheppard |
+			Jessica Squadrito |
+			Haley Strauch |
+			Samantha Strobel |
+			Ian Tajalli |
+			Rhyan Tappan |
+			Mackendrick Zavitz
                   </tbody>
               </table>
 
@@ -581,9 +680,41 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               Emma Kate Joiner
               <h4><b>Assistant Director of Tracking</b></h4>
               Corinna Kuschnitzky
-     <!-- <h4>  <b> Captains</b></h4> -->
+     <h4>  <b> Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="leadershipdevelopment">
+			Emma Ackerman |
+			Marcella Almgren |
+			Andrew Bass |
+			Michael Behling |
+			Taylor Benson |
+			Megan Blankenship |
+			Camryn Boyette |
+			Ryan Boyle |
+			Ally Bravo |
+			Coleman Brown |
+			Amanda Carroll |
+			Ava Carter |
+			Brooke Collins |
+			Logan Crawford |
+			Madelyn Debski |
+			Mandy Eastwood |
+			Christian Hunter |
+			William Jarrett |
+			Chloe Jezerinac |
+			Sophia Linale |
+			Haley Mainwaring |
+			Sophia Matthews |
+			Maggie Mcmahan |
+			Willow Oblin |
+			Rhea Patel |
+			Aoife Redmond |
+			Joey Sheiner |
+			Hensley Smith |
+			Abigail Strzempka |
+			Reece Tappan |
+			Samantha Tedesco |
+			Alana Toby
                   </tbody>
               </table>
 
