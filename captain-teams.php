@@ -429,7 +429,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Assistant Director of Community</b></h4>
               Michael Muhlbach
 
-    <h4>      <b>Captains</b></h4> 
+   <!-- <h4>      <b>Captains</b></h4> 
 		     <table style="width:100%">
                 <tbody class="familyrelations">
 		        Nolan Anschuetz |
@@ -473,7 +473,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
 			Alexis Waltzer |
 			Anne-Charles Zimmer
                   </tbody>
-              </table>
+              </table>-->
 
             </div>
           </div>
