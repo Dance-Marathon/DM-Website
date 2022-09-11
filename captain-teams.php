@@ -429,9 +429,49 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Assistant Director of Community</b></h4>
               Michael Muhlbach
 
-    <!--<h4>      <b>Captains</b></h4> -->
-    <table style="width:100%">
+    <h4>      <b>Captains</b></h4> 
+		     <table style="width:100%">
                 <tbody class="familyrelations">
+		        Nolan Anschuetz |
+		        Samara Becker |
+		        Rachel Beer |
+			Mary Bennett |
+		        Logan Black |
+		        Jackson Bond |
+			Brooke Christopher |
+			Olivia Daniel |
+			Ethan Davis |
+			Jamsiyn Derks |
+			Taylor Doering |
+			Piper Dowdell |
+			Lily Dvorchik |
+			Faith Freeman |
+			Grace Freeman |
+			Dawson Geller |
+			Hannah Kairab |
+			Patrick Kline |
+			Abbey Lantinberg |
+			Samantha Litman |
+			Ryan Magee |
+			Abby Mcdade |
+			Alexa Miller |
+			Gabrielle Monk |
+			Macy Monsour |
+			Hollen Parsons |
+			Connor Pitisci |
+			Faith Ramirez |
+			Kristen Russo |
+			Ally Salzberg |
+			Molly Sankey |
+			Halle Silver |
+			Amelia Tayag |
+			Paola Toro |
+			Ali Torregrosa |
+			Noah Towbin |
+			Gabby Vogel |
+			Rachel Vogin |
+			Alexis Waltzer |
+			Anne-Charles Zimmer
                   </tbody>
               </table>
 
