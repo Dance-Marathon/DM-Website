@@ -338,9 +338,30 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
                  Aria Patel
                  <h4><b>Assistant Director of Event Logistics</b></h4>
                  Katherine Borland
-               <!--<h4>  <b>Captains</b></h4> -->
+               <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
+			Alyssa Ali |
+			Regan Bellantoni |
+			Miranda Benjamin |
+			Caitlin Casady |
+			Emily Chattin |
+			Adele Dorion |
+			Abigail Dugas |
+			Aadil Farid |
+			Isabella Fogarty |
+			Gabi Goldenberg |
+			Maya Hershkowitz |
+			Miles Jeffares |
+			Maggie Mcguane |
+			Nataly Montenegro |
+			Sarina Parikh |
+			Zoe Primack |
+			Heather Sley |
+			Lani Tudor-Dodd |
+			Sonali Vijay |
+			Gabriella Williams |
+			David Zaibert
           </tbody>
               </table>
                </div>
@@ -429,7 +450,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
               <h4><b>Assistant Director of Community</b></h4>
               Michael Muhlbach
 
-   <!-- <h4>      <b>Captains</b></h4> 
+    <h4>      <b>Captains</b></h4> 
 		     <table style="width:100%">
                 <tbody class="familyrelations">
 		        Nolan Anschuetz |
@@ -473,7 +494,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
 			Alexis Waltzer |
 			Anne-Charles Zimmer
                   </tbody>
-              </table>-->
+              </table>
 
             </div>
           </div>
