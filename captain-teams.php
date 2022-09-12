@@ -950,6 +950,7 @@ background-image: url("/assets/images/BannerPhotos21/VeroBeach_SarahXD193.jpg");
 			Dylan Siegel |
 			Casey Siner |
 			Jacob Smith |
+            Kristina Smith |
 			Katie Swartzlander |
 			Courtney Thomas |
 			Eileen Vara |
