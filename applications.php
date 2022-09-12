@@ -42,7 +42,7 @@ background-image: url("/assets/images/BannerPhotos21/DSC07473.jpg");
 			<div class="col-md-8 col-md-push-1">
       <?php if ($status == "open") { ?>
  					<h3>Applications </h3>
-					<br>Thank you for your interest in Dance Marathon at the University of Florida 2022.</br>
+					<br>Thank you for your interest in Dance Marathon at the University of Florida 2023.</br>
 					<br>The online application forms are linked below. In order to be considered for a a Captain, ELP, or Ambassador position, you must:,</br>
 					<ul>
 						<li>Complete the online application form</li>
