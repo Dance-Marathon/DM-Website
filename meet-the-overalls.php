@@ -435,10 +435,10 @@ background-image: url("/assets/images/BannerPhotos21/contact us copy.jpg");
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
 <br></br>
-<p> Sarah Forron, Univeristy Advisor </p>
+<p> <b>Sarah Forron</b>, Univeristy Advisor </p>
 <p> <a href="mailto:sforron@floridadm.org ">sforron@floridadm.org </p>
 <br></br>
-<p> Tara Tovkach, Hospital Advisor </p>
+<p> <b>Tara Tovkach</b>, Hospital Advisor </p>
 <p> <a href="mailto:hospitaladvisor@floridadm.org ">hospitaladvisor@floridadm.org </p>
 		</div>
 	</div>
