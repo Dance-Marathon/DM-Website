@@ -361,6 +361,7 @@ background-image: url("/assets/images/BannerPhotos21/contact us copy.jpg");
               <br><a href="mailto:<?php echo $overalls[$i]['email']; ?>"><?php echo $overalls[$i]['email']; ?></a>
             </p>
           </div>
+
 					<!-- if function below = it was undergrad it will click (none do) change to name so that the two next to drew dont click after everyone has info -->
 					<?php
 					// if($overalls[$i]['major']){
@@ -433,7 +434,12 @@ background-image: url("/assets/images/BannerPhotos21/contact us copy.jpg");
 				</div> -->
       <?php } else { echo 'This page is currently closed.'; } ?>
 			</div>
-
+<br></br>
+<p> Sarah Forron, Univeristy Advisor </p>
+<p> <a href="mailto:sforron@floridadm.org ">sforron@floridadm.org </p>
+<br></br>
+<p> Tara Tovkach, Hospital Advisor </p>
+<p> <a href="mailto:hospitaladvisor@floridadm.org ">hospitaladvisor@floridadm.org </p>
 		</div>
 	</div>
 </div>
