@@ -164,7 +164,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Delta Pi</b><br>Lola Accardi<br></td>
-                <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Alexis Pullos<br>Lauren Klein</td></tr></td>
+                <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Alexis Pullos<br>Lauren Klein</td>
 <td style="vertical-align:top"><b>Sigma Kappa</b><br>Danielle DePaul</td></tr>
                 
               
@@ -209,8 +209,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 <tr><td><br></td></tr>
                <tr>
 		       <td style="vertical-align:top"><b>AMSA</b><br>Taylor Tompkins<br>Hayley Makowski</td>
-<td style="vertical-align:top"><b>Kappa Delta</b><br>Kshama Shetty<br>Madeline Browy</td></tr></td>
-<td style="vertical-align:top"><b>Theta Alpha</b><br>Kyla Clewis </td>
+<td style="vertical-align:top"><b>Kappa Delta</b><br>Kshama Shetty<br>Madeline Browy</td>
+<td style="vertical-align:top"><b>Theta Alpha</b><br>Kyla Clewis </td></tr>
 		      
                 
                 
@@ -228,7 +228,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
 <td style="vertical-align:top"><b>Beta Theta Pi</b><br>Paul Kolsun<br></td>		      
                 
                 <td style="vertical-align:top"><b>Kappa Phi Epsilon</b><br>Paul McKenzie<br>Aidan Hall</td></tr></td>
- <td style="vertical-align:top"><b>Theta Tau</b><br>Rebecca Merwin<br>Katherine Walsh</td>
+			<td style="vertical-align:top"><b>Theta Tau</b><br>Rebecca Merwin<br>Katherine Walsh</td></tr>
                                
 <tr><td><br></td></tr>
               <tr>
