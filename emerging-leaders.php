@@ -155,14 +155,14 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 	<td>	Grace Carreno	</td>
 	<td>	Grace Krantzberg	</td>
 </tr>
-<tr>
+<!--<tr>
 	<td>	Elise Heidlebaugh	</td>
 	<td>	Eliza Greenwald	</td>
 	<td>	Ellen Rowland	</td>
 	<td>	Emily Valenza	</td>
 	<td>	Emma Ackerman	</td>
 	<td>	Emma Silverman	</td>
-</tr>
+</tr>-->
 <tr>
 	<td>	Grace Peters	</td>
   <td>	Grace Press	</td>
