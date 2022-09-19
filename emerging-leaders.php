@@ -219,8 +219,16 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 	<td>	Katherine Nessa	</td>
 	<td>	Kayleigh Sullivan	</td>
 </tr>
-<tr>
+	<tr>
 	<td>	Kendall Wilson	</td>
+	<td>	Kiara Mackenney	</td>
+	<td>	Kimberley Winn	</td>
+	<td>	Kira Schwartzberg	</td>
+	<td>	Koralene Pearce	</td>
+	<td>	Kylie Finkelstein	</td>
+</tr>
+<tr>
+	<td>	Kylie Katims	</td>
 	<td>	Kylie Warsaw	</td>
 	<td>	Laynee Plawa	</td>
 	<td>	Liam Berko	</td>
@@ -272,38 +280,38 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 	<td>	Rebecca Reich	</td>
 	<td>	Remi Sanchez	</td>
 	<td>	Rilee Spegar	</td>
+	<td>	Riley Hearn	</td>
 	<td>	Ryan Goldblum	</td>
-	<td>	Samantha Guerrero	</td>
 </tr>
 <tr>
+	<td>	Samantha Guerrero	</td>
 	<td>	Samantha Kinggard	</td>
 	<td>	Samuel Bennet	</td>
-	<td>	Sarah McCluskey	</td>
-	<td>	Sean Behling</td>
+	<td>	Sarah McCluskey</td>
+	<td>	Sean Behling	</td>
 	<td>	Sheryl Kim	</td>
-	<td>	Skylar Mac Calla	</td>
 </tr>
 <tr>
-	<td>	Sophia Cuna	</td>
+	<td>	Skylar Mac Calla	</td>
+  <td>	Sophia Cuna	</td>
   <td>	Sydney Corn	</td>
   <td>	Timothy Hodges	</td>
   <td>	Trevor Shepherd	</td>
   <td>	Tyler Bonnoront	</td>
-  <td>	Tyler Sentz	</td>
 </tr>
 <tr>
-	<td>	Vanessa Waskowski	</td>
-  <td>	Victoria Poliak	</td>
-  <td>	Victoria Shelford</td>
+	<td>	Tyler Sentz	</td>
+  <td>	Vanessa Waskowski	</td>
+  <td>	Victoria Poliak</td>
+  <td>	Victoria Shelford	</td>
   <td>	Whitney Dreyer	</td>
   <td>	William Lynfatt	</td>
-  <td>	Yedalm Song	</td>
 </tr>
 <tr>
-	<td>	Zachary Valdes	</td>
-  <td>	Zeena Karkaria	</td>
+	<td>	Yedalm Song	</td>
+  <td>	Zachary Valdes	</td>
+  <td>	Zeena Karkaria	</td><
   <td>	Zoe Gilliard	</td><!--
-  <td>	Zachary Valdes	</td><!--
   <td>	Zeena Karkaria	</td>
   <td>	Zoe Gilliard	</td>
 </tr>
