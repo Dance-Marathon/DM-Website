@@ -206,103 +206,103 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 <tr>
 	<td>	Joah Levine	</td>
 	<td>	Jordan Kier	</td>
-	<td>	Joah Levine	</td>
-	<td>	Jordan Kier	</td>
 	<td>	Jordyn Hannum	</td>
 	<td>	Joy Johnson	</td>
-</tr>
-<tr>
 	<td>	Juliana Martino	</td>
 	<td>	Kaden Powell	</td>
+</tr>
+<tr>
 	<td>	Kate Bass	</td>
 	<td>	Kate Caskey	</td>
 	<td>	Kate Ise	</td>
 	<td>	Katerina Karamanis	</td>
-</tr>
-<tr>
 	<td>	Katherine Nessa	</td>
 	<td>	Kayleigh Sullivan	</td>
+</tr>
+<tr>
 	<td>	Kendall Wilson	</td>
 	<td>	Kylie Warsaw	</td>
 	<td>	Laynee Plawa	</td>
 	<td>	Liam Berko	</td>
-</tr>
-<tr>
 	<td>	Liam Pattison	</td>
 	<td>	Lillian Ghozali	</td>
+</tr>
+<tr>
 	<td>	Lilliana  Remilliard	</td>
 	<td>	Lily Frank	</td>
 	<td>	Lindsey Davis	</td>
 	<td>	London Taylor	</td>
-</tr>
-<tr>
 	<td>	Lucy Lopate	</td>
 	<td>	Mackenzie Gale	</td>
+</tr>
+<tr>
 	<td>	Madylin Morse	</td>
 	<td>	Makenzie Cole	</td>
 	<td>	Mallorie Watson	</td>
 	<td>	Mallory Canavan	</td>
+	<td>	Marissa Zuppa	</td>
+	<td>	Max Leach	</td>
 </tr>
 <tr>
-	<td>	Marissa Zuppa	</td>
-  <td>	Max Leach	</td>
-  <td>	Maya Vaidya	</td>
+	<td>	Maya Vaidya	</td>
   <td>	Megan Sheehan	</td>
   <td>	Meredith Brown	</td>
   <td>	Mia Filoramo	</td>
+  <td>	Morgan Mayhann	</td>
+  <td>	Morgan Zvolska	</td>
 </tr>
 <tr>
-	<td>	Morgan Mayhann	</td>
-	<td>	Morgan Zvolska	</td>
 	<td>	Natalie Ehrenwerth	</td>
 	<td>	Natalija Grkovic	</td>
 	<td>	Nate Bilgoray	</td>
 	<td>	Nicholas Tayag	</td>
+	<td>	Nicolas Gonzalez	</td>
+	<td>	Nicole Hernalsteen	</td>
 </tr>
 <tr>
-	<td>	Nicolas Gonzalez	</td>
-  <td>	Nicole Hernalsteen	</td>
-  <td>	Noa Pogany	</td>
-  <td>	Noah Hollande	</td>
+	<td>	Noa Pogany	</td>
+  <td>	Noah Hollander	</td>
   <td>	Noah Spatz	</td>
   <td>	Olivia Erstling	</td>
+  <td>	Olivia Replogle	</td>
+  <td>	Rachael Friederich	</td>
 </tr>
 <tr>
-	<td>	Olivia Replogle	</td>
-	<td>	Rachael friederich	</td>
 	<td>	Rachel Talley	</td>
 	<td>	Rebecca Reich	</td>
 	<td>	Remi Sanchez	</td>
 	<td>	Rilee Spegar	</td>
-</tr>
-<tr>
-	<td>	Riley Hearn	</td>
 	<td>	Ryan Goldblum	</td>
 	<td>	Samantha Guerrero	</td>
-	<td>	Samantha Kinggardt</td>
+</tr>
+<tr>
+	<td>	Samantha Kinggard	</td>
 	<td>	Samuel Bennet	</td>
 	<td>	Sarah McCluskey	</td>
+	<td>	Sean Behling</td>
+	<td>	Sheryl Kim	</td>
+	<td>	Skylar Mac Calla	</td>
 </tr>
 <tr>
-	<td>	Sean Behling	</td>
-  <td>	Sheryl Kim	</td>
-  <td>	Skylar Mac Calla	</td>
-  <td>	Sophia Cuna	</td>
+	<td>	Sophia Cuna	</td>
   <td>	Sydney Corn	</td>
   <td>	Timothy Hodges	</td>
-</tr>
-<tr>
-	<td>	Trevor Shepherd	</td>
+  <td>	Trevor Shepherd	</td>
   <td>	Tyler Bonnoront	</td>
-  <td>	Tyler Sentz</td>
-  <td>	Vanessa Waskowski	</td>
-  <td>	Victoria Poliak	</td>
-  <td>	Victoria Shelford	</td>
+  <td>	Tyler Sentz	</td>
 </tr>
 <tr>
-	<td>	Whitney Dreyer	</td>
+	<td>	Vanessa Waskowski	</td>
+  <td>	Victoria Poliak	</td>
+  <td>	Victoria Shelford</td>
+  <td>	Whitney Dreyer	</td>
   <td>	William Lynfatt	</td>
   <td>	Yedalm Song	</td>
+</tr>
+<tr>
+	<td>	Zachary Valdes	</td>
+  <td>	Zeena Karkaria	</td>
+  <td>	Zoe Gilliard	</td><!--
   <td>	Zachary Valdes	</td><!--
   <td>	Zeena Karkaria	</td>
   <td>	Zoe Gilliard	</td>
