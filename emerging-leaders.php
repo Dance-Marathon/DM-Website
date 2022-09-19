@@ -104,24 +104,24 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 	 <td>	Alexandria Adler	</td>
 	 <td>	Alyssa Fennen	</td>
 	 <td>	Amina Mubarak	</td>
-	 <td>	Andrew Han !!! Angela Trinh	</td>
+	 <td>	Angela Trinh	</td>
 	 <td>	Angela Kara Hopkinson	</td>
 </tr>
 <tr>
 	<td>	Angelina Fentress </td>
-	<td>	Angelyn Castano Caicedo !!! Anna Adams	</td>
-	<td>	Ariana Martinez !!! Arianna Lowther !!! Ashley James	</td>
-	<td>	Ashlyn Sullivan !!! Ava Fore	</td>
-	<td>	Ava Jones !!! Ben Stone	</td>
+	<td>	Anna Adams	</td>
+	<td>	Ashley James	</td>
+	<td>	Ava Fore	</td>
+	<td>	Ben Stone	</td>
 	<td>	Boyd Nelson	</td>
 </tr>
 <tr>
 	<td>	Breanna Macumber</td>
-	<td>	Brielle Serovich !!! Brooke McQuilken	</td>
+	<td>	Brooke McQuilken	</td>
 	<td>	Brooke Morren	</td>
 	<td>	Caelan Brindise	</td>
-	<td>	Caitlin Gregory !!! Camden Nolde	</td>
-	<td>	Cameron Alvarez !!! Camila Mendoza	</td>
+	<td>	Camden Nolde	</td>
+	<td>	Camila Mendoza	</td>
 </tr>
 <tr>
 	<td>	Carly Miller	</td>
@@ -134,14 +134,14 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 <tr>
 	<td>	Cristyl Rodriguez	</td>
 	<td>	Daniela Villarreal	</td>
-	<td>	David Fernandez !!! Desrae Morris !!! Diana Nguyen	</td>
+	<td>	Diana Nguyen	</td>
 	<td>	Dylan McCarrick	</td>
 	<td>	Eleanor Amoriello	</td>
 	<td>	Ella Bray	</td>
 </tr>
 <tr>
 	<td>	Ellie Neal	</td>
-  <td>	Elly Rogers !!! Emily Brundage	</td>
+  <td>	Emily Brundage	</td>
   <td>	Emily Sanz	</td>
   <td>	Emma Helgeson	</td>
   <td>	Emma Sugarman	</td>
