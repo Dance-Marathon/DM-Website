@@ -65,8 +65,8 @@ Click <a href="Documents/2022 Overall Director Application.pdf" target="_blank">
 				<!--	 <p>The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_bDgyFaGUhIHfwDY" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>11:59 PM EST on Friday, September 2</b>.
 					<p>A PDF of all Captain Application questions can be found <a href="assets/PDFs/AppCaptainDescriptionsand.pdf" target="_blank">here</a>.</p>
 -->
-<b>Emerging Leaders Application</b> <!-- Now Closed -->
-					<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_3TNT3WCljhDOJLw" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Monday, September 12</b>.</p>
+<b>Emerging Leaders Application</b> Now Closed </p> -->
+					<!-- <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_3TNT3WCljhDOJLw" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Monday, September 12</b>.</p> -->
 <b>Ambassador Application</b> </p>
                     <p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_cHj3FXm5dpiGSAC" target="_blank">here</a>. This application will close at <b>8:00 PM EST</b> on <b>Monday, September 12</b>. </p>
                   <br></br>
