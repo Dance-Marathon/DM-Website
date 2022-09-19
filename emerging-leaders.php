@@ -88,7 +88,7 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_3TNT3WCljhDOJLw" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Monday, September 12</b>.</p>
 <table style="width:100%">
     <tbody class="emergingleaders"> </tbody>
-<!-- </table>
+ </table>
 <table style="width:100%">
 <tr>
 	<td>	Abhay Tak	</td>
