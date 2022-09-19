@@ -155,7 +155,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
           <table style="width:100%; table-layout: fixed">
             <tbody>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Chi Omega</b><br>Louisina Morancy<br></td>
+                <td style="vertical-align:top"><b>Alpha Chi Omega</b><br>Louisina Morancy<br>Hailey Hood</td></tr></td>
                 <td style="vertical-align:top"><b>Omega Phi Alpha</b><br>Rachel Farmer<br>Kristen Rifenberg</td>
                 <!--<td style="vertical-align:top"><b>Phi Delta Theta</b><br>Answer Langer <br></td>-->
                 <!--<td style="vertical-align:top"><b>UF Pre-Physician Assistant Association</b><br>Tayna Moreira</td></tr>-->
@@ -167,7 +167,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 <!--<td style="vertical-align:top"><b>Zeta Beta Tau</b><br>Brendan Kligerman<br>Coby Farhi</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Maggie Goldenberg<br></td>
+                <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Maggie Goldenberg<br><br>Sophie Gaer</td></tr></td>
                 <td style="vertical-align:top"><b>Phi Eta Sigma Honor Society</b><br>Cade Ferguson</td>
                 <!--<td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Conor Bowen <br>John Dunphy </td>-->
                 <!--<td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Jessica Halvorsen<br>Shira Isaak</td></tr>-->
