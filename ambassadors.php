@@ -155,7 +155,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
           <table style="width:100%; table-layout: fixed">
             <tbody>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Chi Omega</b><br>Louisina Morancy<br>Hailey Hood</tr></td>
+                <td style="vertical-align:top"><b>Alpha Chi Omega</b><br>Louisina Morancy<br>Hailey Hood</td>
                 <td style="vertical-align:top"><b>Omega Phi Alpha</b><br>Rachel Farmer<br>Kristen Rifenberg</td>
                 <!--<td style="vertical-align:top"><b>Phi Delta Theta</b><br>Answer Langer <br></td>-->
                 <!--<td style="vertical-align:top"><b>UF Pre-Physician Assistant Association</b><br>Tayna Moreira</td></tr>-->
