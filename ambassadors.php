@@ -238,7 +238,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Sigma Phi</b><br>Jack Ziegler<br>Elijah Bloyer</td>
-                <!--<td style="vertical-align:top"><b>Kappa Sigma</b><br>Nolan Hensley </td>-->
+                <td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Caitlin Gregoryi</td>
                 <!--<td style="vertical-align:top"><b>Tau Epsilon Phi</b><br>Teo Resnik</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
