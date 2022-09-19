@@ -167,7 +167,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 <!--<td style="vertical-align:top"><b>Zeta Beta Tau</b><br>Brendan Kligerman<br>Coby Farhi</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Maggie Goldenberg<br><br>Sophie Gaer</td></tr></td>
+                <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Maggie Goldenberg<br>Sophie Gaer</td></tr></td>
                 <td style="vertical-align:top"><b>Phi Eta Sigma Honor Society</b><br>Cade Ferguson</td>
                 <!--<td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Conor Bowen <br>John Dunphy </td>-->
                 <!--<td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Jessica Halvorsen<br>Shira Isaak</td></tr>-->
@@ -180,12 +180,12 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Gamma Rho</b><br>Cole Verano<br></td>
-                <td style="vertical-align:top"><b>Pi Lambda Phi</b><br>Daniel Chaiet<br>  </td>
+                <td style="vertical-align:top"><b>Pi Lambda Phi</b><br>Daniel Chaiet<br>Daniel Fernandez</td></tr>  </td>
                 <!--<td style="vertical-align:top"><b>Pi Lambda Phi</b><br>Daniel Chaiet<br>  </td>-->
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Phi</b><br>Casey Strauss<br></td>
+                <td style="vertical-align:top"><b>Alpha Phi</b><br>Casey Strauss<br>Kelsey Reader</td></tr></td>
                 <td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>
                 <!--<td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>-->
                 
@@ -203,14 +203,14 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Black Student Union</b><br>Louisina Morancy<br></td>
+                <td style="vertical-align:top"><b>Black Student Union</b><br>Louisina Morancy<br>Desrae Morris</td></tr></td>
                 <td style="vertical-align:top"><b>Sigma Nu</b><br>Zachary Terwilliger </td></tr>
                 <!--<td style="vertical-align:top"><b>Sigma Alpha Epsilon</b><br>Nick Miller<br>Paris Mihaj</td></tr>-->
                 
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Chi Phi</b><br>Jacob Bravo<br>Cole Carpinteri</td>
-                <td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Benjamin Lang</td></tr>
+                <td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Benjamin Lang<br>Liam Farrell</td></tr>
                 <!--<td style="vertical-align:top"><b>Sigma Chi</b><br>Brogen Tagman<br>William Galleher</td></tr>-->
                 
               <tr><td><br></td></tr>
@@ -221,7 +221,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Delta Gamma</b><br>Gabriela Torres de Navarra<br></td>
+                <td style="vertical-align:top"><b>Delta Gamma</b><br>Gabriela Torres de Navarra<br>Tyller Bauer</td></tr></td>
                 <td style="vertical-align:top"><b>Theta Chi</b><br>Sazzad Mabud</td></tr>
                 <!--<td style="vertical-align:top"><b>Sigma Nu</b><br>Zachary Terwilliger </td></tr>-->
               <tr><td><br></td></tr>
@@ -242,7 +242,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 <!--<td style="vertical-align:top"><b>Tau Epsilon Phi</b><br>Teo Resnik</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Alexis Pullos<br></td>
+                <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Alexis Pullos<br>Lauren Klein</td></tr></td>
                 <!--<td style="vertical-align:top"><b>Lambda Chi Alpha</b><br>Nickolas Powers<br>  </td>-->
                 <!--<td style="vertical-align:top"><b>Tau Kappa Epsilon</b><br>Jorge Valarezo</td></tr>-->
                 
@@ -254,12 +254,12 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Kappa Delta</b><br>Kshama Shetty <br></td>
+		      <td style="vertical-align:top"><b>Kappa Delta</b><br>Kshama Shetty<br>Madeline Browy</td></tr></td>
                 <!--<td style="vertical-align:top"><b>Omega Phi Alpha</b><br>Rachel Farmer<br>Kristen Rifenberg</td>-->
                 <!--<td style="vertical-align:top"><b>Theta Chi</b><br>Sazzad Mabud</td></tr> -->
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Kappa Phi Epsilon</b><br>Paul McKenzie<br></td>
+                <td style="vertical-align:top"><b>Kappa Phi Epsilon</b><br>Paul McKenzie<br>Aidan Hall</td></tr></td>
                 <!--<td style="vertical-align:top"><b>Theta Tau</b><br>Gabriela Rodrigo<br>Jaren Palmasani</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
