@@ -180,12 +180,20 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Alpha Gamma Rho</b><br>Cole Verano<br></td>
+		      <td style="vertical-align:top"><b>Phi Mu</b><br>Samantha Butler</td>
+		      !!!
                 <td style="vertical-align:top"><b>Pi Lambda Phi</b><br>Daniel Chaiet<br>Daniel Fernandez</td></tr>  </td>
                 <!--<td style="vertical-align:top"><b>Pi Lambda Phi</b><br>Daniel Chaiet<br>  </td>-->
                 
               <tr><td><br></td></tr>
               <tr>
+		      <td style="vertical-align:top"><b>Alpha Omicron Pi</b><br>Madison Baker<br>Nicole Gigliotti</td>
+		      !!!
                 <td style="vertical-align:top"><b>Alpha Phi</b><br>Casey Strauss<br>Kelsey Reader</td>
+		      <td style="vertical-align:top"><b>Pi Beta Phi</b><br>Elly Rogers<br>Ashlyn Sullivan</td>
+		      !!!
+		      <td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Noah Sastoque<br>Kruze Peacock</td>
+		      !!!
                 <td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>
                 <!--<td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>-->
                 
@@ -197,6 +205,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
                <tr>
+		       <td style="vertical-align:top"><b>Alpha Tau Omega</b><br>Cameron Alvarez<br>James Wachter</td>
+		       !!!
                 <td style="vertical-align:top"><b>Beta Theta Pi</b><br>Paul Kolsun<br></td>
                 <td style="vertical-align:top"><b>Sigma Kappa</b><br>Danielle DePaul</td></tr>
                 <!--<td style="vertical-align:top"><b>Sigma Alpha</b><br>Peyton Corbin </td></tr>-->
@@ -209,6 +219,8 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
+		      <td style="vertical-align:top"><b>Chi Omega</b><br>Riley Rhoden</td>
+		      !!!
                 <td style="vertical-align:top"><b>Chi Phi</b><br>Jacob Bravo<br>Cole Carpinteri</td>
                 <td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Benjamin Lang<br>Liam Farrell</td></tr>
                 <!--<td style="vertical-align:top"><b>Sigma Chi</b><br>Brogen Tagman<br>William Galleher</td></tr>-->
@@ -221,44 +233,72 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
+		      <td style="vertical-align:top"><b>Delta Delta Delta</b><br>Jennifer Berthy<br>Lainey Shapiro</td>
+		      !!!
                 <td style="vertical-align:top"><b>Delta Gamma</b><br>Gabriela Torres de Navarra<br>Tyller Bauer</td>
+		      <td style="vertical-align:top"><b>Tau Kappa Epsilon</b><br>Elijah Freedman</td>
+		      !!!
+		      <td style="vertical-align:top"><b>The Gator Aides</b><br>Arianna Lowther</td>
+		      !!!
+		      <td style="vertical-align:top"><b>Theta Alpha</b><br>Kyla Clewis </td>
+		      !!!
                 <td style="vertical-align:top"><b>Theta Chi</b><br>Sazzad Mabud</td></tr>
                 <!--<td style="vertical-align:top"><b>Sigma Nu</b><br>Zachary Terwilliger </td></tr>-->
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Nu Zeta</b><br>Kyra Kimball<br>Sparsha Padi</td>
+		      <td style="vertical-align:top"><b>Theta Tau</b><br>Rebecca Merwin<br>Katherine Walsh</td>
+		      !!!
                 <td style="vertical-align:top"><b>UF Honors Program</b><br>Claudia Elena Johnson Cuellar<br></td></tr> 
                 <!--<td style="vertical-align:top"><b>Sigma Phi Epsilon</b><br>Benjamin Lang</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Phi Epsilon</b><br>Emma Glech<br>Rachel Lerner </td>
+		      <td style="vertical-align:top"><b>UF Pre-Physician Assistant Association</b><br>Isabella Clem</td>
+		      !!!
                 <td style="vertical-align:top"><b>Zeta Beta Tau</b><br>Brendan Kligerman<br>Coby Farhi</td>
                 <!--<td style="vertical-align:top"><b>Society of Women Engineers</b><br>Elena Rollins<br>Alessandra Andreozzi</td></tr>-->
                 
               <tr><td><br></td></tr>
               <tr>
                 <td style="vertical-align:top"><b>Delta Sigma Phi</b><br>Jack Ziegler<br>Elijah Bloyer</td>
-                <td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Caitlin Gregoryi</td>
+                <td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Caitlin Gregory</td>
                 <!--<td style="vertical-align:top"><b>Tau Epsilon Phi</b><br>Teo Resnik</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
+		      <td style="vertical-align:top"><b>Delta Tau Delta</b><br>Michael Buzzeo</td>
+		      !!!
+		      <td style="vertical-align:top"><b>Delta Zeta </b><br>Brielle Serovich<br>Ariana Martinez</td>
+		      !!!
+		      <td style="vertical-align:top"><b>Gamma Eta</b><br>Angelyn Castano Caicedo</td>
+		      !!!
                 <td style="vertical-align:top"><b>Gamma Phi Beta</b><br>Alexis Pullos<br>Lauren Klein</td></tr></td>
                 <!--<td style="vertical-align:top"><b>Lambda Chi Alpha</b><br>Nickolas Powers<br>  </td>-->
                 <!--<td style="vertical-align:top"><b>Tau Kappa Epsilon</b><br>Jorge Valarezo</td></tr>-->
                 
               <tr><td><br></td></tr>
               <tr>
+		      <td style="vertical-align:top"><b>Gator Diplomats</b><br>Andrew Han</td>
+		      !!!
                 <td style="vertical-align:top"><b>Hispanic Student Association</b><br>Paula Gonzalez</td>
                <!-- <td style="vertical-align:top"><b>Nina Karlinsky Memorial Team</b><br>Ronald Rodriguez</td>-->
                 <!--<td style="vertical-align:top"><b>Theta Alpha</b><br>Claire Schreiber<br>Julia Quinones</td></tr>-->
                 
               <tr><td><br></td></tr>
               <tr>
+		      <td style="vertical-align:top"><b>Innovation Academy</b><br>Amelia Enciso-Mesa<br>Shreya Shah</td>
+		      !!!
+		      <td style="vertical-align:top"><b>Kappa Alpha Order</b><br>Nolan Carpenter<br>Robert Noble</td>
+		      !!!
+		      <td style="vertical-align:top"><b>Kappa Alpha Theta</b><br>Alexa Diamond</td>
+		      !!!
 		      <td style="vertical-align:top"><b>Kappa Delta</b><br>Kshama Shetty<br>Madeline Browy</td></tr></td>
                 <!--<td style="vertical-align:top"><b>Omega Phi Alpha</b><br>Rachel Farmer<br>Kristen Rifenberg</td>-->
                 <!--<td style="vertical-align:top"><b>Theta Chi</b><br>Sazzad Mabud</td></tr> -->
               <tr><td><br></td></tr>
               <tr>
+		      <td style="vertical-align:top"><b>Kappa Kappa Gamma</b><br>Ava Jones</td>
+		      !!!
                 <td style="vertical-align:top"><b>Kappa Phi Epsilon</b><br>Paul McKenzie<br>Aidan Hall</td></tr></td>
                 <!--<td style="vertical-align:top"><b>Theta Tau</b><br>Gabriela Rodrigo<br>Jaren Palmasani</td></tr>-->
               <tr><td><br></td></tr>
