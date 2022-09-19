@@ -95,8 +95,8 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 	<td>	Abhay Tak	</td>
 	<td>	Abhay Warren	</td>
 	<td>	Adam Crasnow	</td>
-	<td>	Aidan Hall !!! Aleah Henley	</td>
-	<td>	Alexa Diamond !!! Alexa Gottlieb	</td>
+	<td>	Aleah Henley	</td>
+	<td>	Alexa Gottlieb	</td>
 	<td>	Alexa Ziff	</td>
 </tr>
  <tr>
