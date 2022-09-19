@@ -167,7 +167,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 <!--<td style="vertical-align:top"><b>Zeta Beta Tau</b><br>Brendan Kligerman<br>Coby Farhi</td></tr>-->
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Maggie Goldenberg<br>Sophie Gaer</td></tr></td>
+                <td style="vertical-align:top"><b>Alpha Epsilon Phi</b><br>Maggie Goldenberg<br>Sophie Gaer</td>
                 <td style="vertical-align:top"><b>Phi Eta Sigma Honor Society</b><br>Cade Ferguson</td>
                 <!--<td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Conor Bowen <br>John Dunphy </td>-->
                 <!--<td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Jessica Halvorsen<br>Shira Isaak</td></tr>-->
@@ -185,7 +185,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Alpha Phi</b><br>Casey Strauss<br>Kelsey Reader</td></tr></td>
+                <td style="vertical-align:top"><b>Alpha Phi</b><br>Casey Strauss<br>Kelsey Reader</td>
                 <td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>
                 <!--<td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>-->
                 
@@ -203,7 +203,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Black Student Union</b><br>Louisina Morancy<br>Desrae Morris</td></tr></td>
+                <td style="vertical-align:top"><b>Black Student Union</b><br>Louisina Morancy<br>Desrae Morris</td>
                 <td style="vertical-align:top"><b>Sigma Nu</b><br>Zachary Terwilliger </td></tr>
                 <!--<td style="vertical-align:top"><b>Sigma Alpha Epsilon</b><br>Nick Miller<br>Paris Mihaj</td></tr>-->
                 
@@ -221,7 +221,7 @@ background-image: url("/assets/images/BannerPhotos21/TT_10-28-20_SDevine42.jpg")
                 
               <tr><td><br></td></tr>
               <tr>
-                <td style="vertical-align:top"><b>Delta Gamma</b><br>Gabriela Torres de Navarra<br>Tyller Bauer</td></tr></td>
+                <td style="vertical-align:top"><b>Delta Gamma</b><br>Gabriela Torres de Navarra<br>Tyller Bauer</td>
                 <td style="vertical-align:top"><b>Theta Chi</b><br>Sazzad Mabud</td></tr>
                 <!--<td style="vertical-align:top"><b>Sigma Nu</b><br>Zachary Terwilliger </td></tr>-->
               <tr><td><br></td></tr>
