@@ -23,11 +23,7 @@
 	          'image' => 'AnnabelleDykes',
 		        ),
 	    
-					<!--array(
-				    'name'  => 'Arden T.',
-						'description' => 'When Arden Thornbury was only 3 months old, doctors told her parents that she needed a heart transplant. She was sent to UF Health Shands Children’s Hospital where she was put on a ventilator to help keep her alive until her new heart was ready. That machine was purchased with funds from Children’s Miracle Network Hospitals. After Arden received her transplant, her doctors learned that she had a rare and progressive disease, Leigh syndrome, which is a mitochondrial disease. Because her condition is complex, Arden visits Shands Children’s Hospital and Arnold Palmer Hospital for Children quite often and has seen the Miracle Balloon sticker on the medical equipment CMN has helped purchase. When Arden is at the hospital for long periods of time, CMN Hospitals help make her hospital stays a little brighter by supplying toys to the Cardiovascular Intensive Care Unit.',
-			      'image' => 'ArdenThornbury',
-				     ),-->
+					
 	    
         array(
             'name' => 'Ayden M.',
