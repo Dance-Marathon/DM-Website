@@ -134,7 +134,7 @@ background-image: url("/assets/images/BannerPhotos21/Rachel_F-0710.jpg");
             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JI6rIsx2Ous" frameborder="0" allowfullscreen></iframe> -->
             &nbsp;<br/>
             <h3>Register to Dance</h3>
-            <p><a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4927" target="_blank">Click here to register to Dance!</a></p>
+            <p><a href="https://events.dancemarathon.com/event/floridadm" target="_blank">Click here to register to Dance!</a></p>
             <P>Follow the link and select “Buy Tickets!” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
             <p>Dancer Registration for Dance Marathon is open for two weeks in the Fall and two weeks in the Spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the Fall and in the Spring.</p>
