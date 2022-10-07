@@ -310,7 +310,7 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 <tr>
 	<td>	Yedalm Song	</td>
   <td>	Zachary Valdes	</td>
-  <td>	Zeena Karkaria	</td><
+  <td>	Zeena Karkaria	</td>
   <td>	Zoe Gilliard	</td><!--
   <td>	Zeena Karkaria	</td>
   <td>	Zoe Gilliard	</td>
