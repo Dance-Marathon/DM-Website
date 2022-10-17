@@ -1,9 +1,9 @@
 <?php
-	$status = "open";
-	$GLOBALS['page_title'] = 'About | Dance Marathon at UF';
-	$GLOBALS['parent'] = 'about';
-	include("includes/head.php");
-	include("includes/navbar.php");
+    $status = "open";
+    $GLOBALS['page_title'] = 'About | Dance Marathon at UF';
+    $GLOBALS['parent'] = 'about';
+    include("includes/head.php");
+    include("includes/navbar.php");
 ?>
 <script>
     function openCity(evt, cityName) {
@@ -185,18 +185,18 @@ function openSubTab(evt, storySub) {
 
 <div class="page-heading parallax about">
   <div class="inner-wrapper">
-	  <div class="container">
-    	<div class="row">
-	  		<div class="col-md-12">
-    			<h1>About Us</h1>
-	  		</div>
-    	</div>
-	  </div>
-	</div>
+      <div class="container">
+        <div class="row">
+              <div class="col-md-12">
+                <h1>About Us</h1>
+              </div>
+        </div>
+      </div>
+    </div>
 </div>
 
 <div class="page-content">
-	<div class="container">
+    <div class="container">
 
 <?php if ($status == "open") { ?>
             <p><span style="color: #000000">Dance Marathon at the University of Florida is an annual event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, students stay awake and on their feet, if able, to raise money and awareness for Children's Miracle Network Hospitals for the duration of the event. In the 26 years of Dance Marathon at UF's existence, we have </span><span style="color: #F79B63"><b> raised more than $24 million</b> </span><span style="color: #000000">, making it </span><span style="color: #014083"><b> the most successful student-run philanthropy in the southeastern United States </b></span><span style="color: #000000">. In 2021, DM at UF raised a grand total of </span><span style="color: #F79B63"><b>$2,270,311.40</b></span><span style="color: #000000"> for UF Health Shands Children's Hospital, our local Children’s Miracle Network hospital.</span></p>
@@ -394,14 +394,7 @@ function openSubTab(evt, storySub) {
  Today, she is 22 years old and eats what her parents eat - with a few modifications. Alyssa can hear with her cochlear implant but mainly relies on sign language to communicate. Walking is a challenge, but she does it with the help of a walker and many years of physical therapy. Once she gets to know them, her interaction with friends and family is outstanding. She has an awesome personality and loves to ride horses and swim. She also loves to watch movies, football, baseball, basketball and tennis. She also loves being an ambassador for the Children’s Miracle Network and Dance Marathon at UF.',
                          'image' => 'AlyssaMann',
              ),
-                 array(
-                 'name'  => 'Annabelle D.',
-                         'description' => 'In August of 2017, Annabelle Dykes was diagnosed with acute lymphoblastic leukemia at 15 months old. Annabelle’s family knew that having Down syndrome could increase her chances of having leukemia, but they never expected it to become their reality. The night that Annabelle was diagnosed, the doctors wanted to send her family to a different children’s hospital in Georgia, where her family is from. However, Annabelle’s family knew right away that UF Health Shands Children’s Hospital was where they needed to go and immediately demanded the doctors contact the oncologist there. Annabelle’s family wanted the best, so they chose the best. The best is what they were given.
- Just a few days after Annabelle’s family arrived at Shands Children’s Hospital, Annabelle had a port surgically placed in her chest. While she was in the operating room, the doctors did a bone marrow biopsy to confirm which type of leukemia she had, and they did a spinal tap, putting chemo in her spine. She went straight into her first round of treatment, getting IV and spinal chemo therapies weekly - making Shands her family’s home for 35 days. At the end of that first round of treatment, they performed another bone marrow biopsy and discovered that Annabelle had achieved remission. Being well enough to go home, she received her second round of treatment in an outpatient setting, getting IV and spinal chemo therapies weekly.
- Annabelle is now 4 years old and officially complete with treatment for cancer! Although she will need to be monitored with routine labs and checks and her immune system remains very weak as a result of the chemo she received, she is able to be home with her family and to enjoy school.
- The level of care available at Shands Children’s Hospital has kept Annabelle’s family close. Her family was provided with everything they needed to make the hospital their home away from home during the worst of times. They received resources for both Annabelle and the rest of her family, including mental health counseling for parents, toys and movies to keep Annabelle entertained, fun activities to help keep their mind off the hard times, volunteer help when they needed a break, and all of the therapies Annabelle requires to stay active and thriving. Without these services, Shands Children’s Hospital wouldn’t be the amazing place that it is.',
-               'image' => 'AnnabelleDykes',
-                 ),
+                 
                      array(
                      'name'  => 'Arden T.',
                          'description' => 'When Arden Thornbury was only 3 months old, doctors told her parents that she needed a heart transplant. She was sent to UF Health Shands Children’s Hospital where she was put on a ventilator to help keep her alive until her new heart was ready. That machine was purchased with funds from Children’s Miracle Network Hospitals. After Arden received her transplant, her doctors learned that she had a rare and progressive disease, Leigh syndrome, which is a mitochondrial disease. Because her condition is complex, Arden visits Shands Children’s Hospital and Arnold Palmer Hospital for Children quite often and has seen the Miracle Balloon sticker on the medical equipment CMN has helped purchase. When Arden is at the hospital for long periods of time, CMN Hospitals help make her hospital stays a little brighter by supplying toys to the Cardiovascular Intensive Care Unit.',
@@ -440,16 +433,7 @@ function openSubTab(evt, storySub) {
  For now, the Jefferson family tries their best to enjoy every day and not take anything for granted. Bennett just finished playing basketball last spring, which was his first time playing in a recreational league, and he started first grade this fall. He loves superheroes, and he especially loves spending time with his big brother Tre. They both enjoy swimming and playing on their electronics. We are so thankful for the work of Dance Marathon at UF and for the amazing medical team at UF Health Shands Children’s Hospital!',
                              'image' => 'BennettJefferson',
                          ),
-         array(
-             'name'  => 'Camden A.',
-             'description' => 'When Camden Ayres was born on Father’s Day in 2011, his family quickly learned that everything was not as they expected. Due to a severe congenital heart defect called Tetralogy of Fallot with pulmonary atresia, Camden was sent by air ambulance from Fort Walton Beach to the UF Health Shands Children’s Hospital.
- 
- After several weeks, his family learned that his heart defect was caused by a genetic syndrome called DiGeorge syndrome. Camden has since endured two major open-heart surgeries, two major abdominal surgeries, six heart catheterizations, and countless other procedures requiring anesthesia. After Camden suffered from complications from his second open-heart surgery, which led to right-sided heart failure, he spent five days on the most advanced and risky form of life support possible called ExtraCorporeal Membrane Oxygenation (ECMO). While on ECMO, Camden suffered a very severe and debilitating brain bleed, causing him to lose 95% of his motor skills.
- 
- One year later, Camden came down with RSV, and his heart failure became worse. At this point, Camden’s family was told that he would likely pass before he turned three. Camden clearly did not agree with that prognosis, and he is now eight years old and still going strong! Camden’s family is happy to report that Camden is regaining some of his mobility through extensive physical and occupational therapy, though he will likely never walk or talk. In addition to PT and OT, Camden works with speech and vision therapists to evaluate his progress and to help Camden acquire a communication device in the hopes that one day he will tell his own story at CMN events!
- ',
-             'image' => 'CamdenAyres',
-             ),
+         
                  array(
                          'name'  => 'Claire E.',
                          'description' => 'Claire Essex was born at UF Health Shands Children’s Hospital and stayed in the NICU for 64 days. During that time, her family met with the specialists in Pediatrics and really liked everyone. During her stay, the doctors helped Claire fight off methicillin-resistant staphylococcus aureus (MRSA) in her eye and gave her family confidence in their medical team.
@@ -515,36 +499,13 @@ function openSubTab(evt, storySub) {
  On March 20, 2013, after 469 days, Izabella left the hospital for the first time in her life. Doctors told her parents that she would only have a life expectancy of about 7 months, and UF Health Shands Children’s Hospital kept her alive for double her life expectancy until she received the heart and lungs she needed to survive. Many of the machines that kept Izabella alive while she was on life support would not have been there if not for the support the Children’s Miracle Network provides to UF Health. Today, Izabella is a thriving 8 year old who loves gymnastics, swimming, and playing with her three sisters. Doctors didn’t think she would live, walk, talk, or eat normally, but she has continued to amaze them every single step of the way. Her family is endlessly grateful for everything that Children’s Miracle Network and UF Health Shands Children’s Hospital did to save their daughter.',
              'image' => 'IzabellaNeira',
              ),
-                 array(
-             'name'  => 'Jack M.',
-             'description' => 'Jack Murray was born on June 2, 2001, in Tallahassee, Florida. He is one of five children, the only boy, with one older sister and three younger sisters. In May of 2012, when he was an 11 year old 6th grader, he was diagnosed with acute myeloid leukemia (AML). When Jack’s bloodwork came back not as leukemia, the pediatrician told the family to take him that very day to see Dr. Slayton at Shands Children’s Hospital.
- 
- Their first few days were a blur of tests and meetings as they worked to define exactly what type and subtype of leukemia Jack had. They learned that instead of the more common ALL, Jack had AML. They also learned that it was in his spinal fluid as well.
- 
- The treatment for Jack’s AML was four consecutive rounds of chemotherapy. The doctors told the Murray family that he would likely be at Shands for six months and that it would be unlikely that he could go home at all during that time. And so they became a family divided, with one parent at home with his sisters and one at the hospital from May until the end of October.
- 
- Jack celebrated his 12th birthday in the awesome game room in Shands in 42 Peds with visiting friends, pizza, cookie cake, and games. As the treatment continued, visits like that would become less possible as he suffered the side effects and other illnesses that come with so much chemo and such a fragile immune system. He was able to keep in touch with some of his friends through Xbox Live and several sets of headsets!
- 
- Through it all, Jack was amazing. He defied the odds, and he was able to return home for a couple of days in between some of the rounds! Hisfamily was extremely grateful to all be together and know that he was asleep in his own bed! He always told the doctors, nurses, and his parents exactly what was on his mind. He didn’t complain (much) - not nearly as much as he should have! His distinctive sense of humor and practical jokes were a joy, and his family is so proud of him for holding on to that during his treatment! Jack has now graduated high school and attends college at UCF.',
-             'image' => 'JackMurray',
-             ),
+                 
                     array(
                        'name' => 'Jada T.',
                          'description' =>'In August 2018, Jada Turner was diagnosed with acute myeloid leukemia. On November 17, 2018, she underwent treatment and chemotherapy at UF Health Shands Children’s Hospital. Jada later received a bone marrow transplant and was released from the hospital on December 7th. Jada is now doing well back home in Valdosta, Georgia.',
                          'image' => 'JadaTurner',
                    ),
-                     array(
-                     'name'  => 'Jenna R.',
-                             'description' => 'When Jenna Rogers was younger, she was very tiny and sick all of the time. Her doctor in Orlando discovered that she had a problem with her immune system. Jenna’s family came to UF Health Shands Children’s Hospital to see an immunologist and ended up needing a rheumatologist as well.
- 
- Jenna received a diagnosis of common variable immunodeficiency. She receives monthly sub-Q IgG infusions at home for 2 hours at a time. Without the level of care at Shands Children’s Hospital and the funds provided by CMN, Jenna would not still be with her family. The transport vehicle that brought Jenna to Gainesville and every single piece of diagnostic equipment and pump used to give her medicine was provided by funds from Children’s Miracle Network. Jenna’s family loves CMN and wants to thank you for all the hard work that you do to raise funds for our children.',
-                   'image' => 'JennaRogers',
-                     ),
-                     array(
-                           'name'  => 'Joel S.',
-                             'description' => 'In 2004, Joel Strickland was diagnosed with cystinosis, and Hannah Strcikland has since been diagnosed with cystinosis as well. Joel started his treatment at UF Health Shands Children’s Hospital when their family received the news that Joel’s underlying condition caused renal failure, and he would need a kidney transplant. There have been so many little blessings along Joel and Hannah’s recent journey amidst their trials. Child Life has been especially relevant to both Hannah and Joel. Their many specialists have genuinely touched Joel and Hannah’s family.',
-                       'image' => 'Joel',
-                          ),
+                     
                    array(
                        'name' => 'Jude and Oliver S.',
                          'description' => 'Jude and Oliver Sleeper were born on July 13, 2011, 14 weeks before their due date, at UF Health Shands Hospital.  Jude weighed 1 pound and 15 1/2 ounces, and Oliver weighed 2 pounds and 1 ounce. They were immediately taken to the NICU to receive critical care.
@@ -558,15 +519,7 @@ function openSubTab(evt, storySub) {
  On July 13, 2019, the boys will turn 8 years old. They are two incredibly energetic, bright boys. Oliver loves science, technology, animals, and sports.  Jude loves history and is very interested in medicine and has called himself Dr. Jude since he was a toddler.',
                          'image' => 'Jude_Oliver Sleeper',
                          ),
-                         array(
-             'name' => 'Kaitlynn G.',
-                         'description' => 'At Kaitlynn Gonzalez’s mother’s 24 week ultrasound appointment, her family learned that Kaitlynn had a congenital heart defect known as transposition of the great arteries or TGA. TGA is where the two main arteries are switched, so the correct blood flows are not going to the correct areas in her body. Kaitlynn was born at 35 weeks. Her mother had an emergency cesarean section, and she was brought into this world on April 30, 2015.
- 
- As soon as Kaitlynn was born, she stopped breathing, and she was taken away from her mother right away. Thankfully, a doctor that was present for a "just in case" scenario was there. He performed a balloon septostomy, which put a hole in Kaitlynn’s heart to keep all of the blood flow the same. As soon as she was as stabilized as she could be, the doctors took her into the NICU to do everything else they could do to stabilize her. At two days old, Kaitlynn’s mother received a phone call from her husband saying that Kaitlynn has a blood clot in her leg and that they had two options. The first option was to amputate her leg. The second option was to give her a medication that would solve the blood clot, but it could also send blood rushing to her head and cause neurological damage. This was devastating news for the family. The blood clot was caused by the balloon septostomy that was performed right after birth. The procedure was first performed on the right leg, which broke the blood vessel, so the doctors attempted the procedure on her left leg, which was successful. On the same day, Kaitlynn received a blood transfusion.
- 
- When their child was 3 days old, Kaitlynn’s parents got the news that on Monday the doctors were going to perform her surgery. She was not stabilizing the way that they were hoping. Kaitlynn had her arterial switch, which is the procedure to correct the transposition, at 5 days old. It was a complete success. She did very well during surgery and surprisingly, did not need extracorporeal membrane oxygenation (ECMO). A full 20 days after she was born, her mother was finally able to hold her daughter. After that, everything started to turn around. On March 27th, we got the news that she was able to go home soon. On June 1st, we were able to take our little 5-pound peanut home. Kaitlynn is now 5 years old and lights up any room with her bright smile and bubbly personality!',
-             'image' => 'KaitlynnGonzalez',
-             ),
+                         
              array(
              'name' => 'Kaliah E.',
              'description' => 'Kaliah Edwards was a healthy 8 year old who loved playing various sports such as soccer, volleyball, track, and cheerleading. However, in July 2015, Kaliah woke up with swelling in different parts of her body and had difficulty swallowing due to neck swelling. Kaliah was then diagnosed with nephrotic syndrome. Kaliah had a kidney biopsy and scheduled weekly infusions to help control her edema. In November 2017, Kaliah had her port removed and replaced with a catheter the same day she stated dialysis.
@@ -586,13 +539,7 @@ function openSubTab(evt, storySub) {
  Kendall is followed by 10 specialty teams at UF Health Shands. It has been Kendall’s family’s home away from home since day one. The Lewis family  loves the pediatric departments at UF Health Shands, and they are thankful for everything Shands  has done for their family.',
              'image' => 'KendallLewis',
              ),
-             array(
-             'name' => 'Keyin T.',
-             'description' => 'Due to his asthma, Keyin Thomas has had several ER visits and two hospitalizations. Keiyan’s asthma prevented him from participating in sports or outdoor activities that required running. He was referred by his pediatrician to UF Health Shands Children’s Hospital after several unsuccessful attempts to maintain his condition.
- 
- Keyin was diagnosed with asthma at a very young age, and later, he was diagnosed with severe asthma. He has taken steroids, nebulizer, and inhaler treatments. After finally finding the right medication and dosage, Keyin has been able to play sports, including football and running track. Shands Children’s Hospital has given Keyin a positive outlook on life. Since being a patient at Shands, he has not been back to the ER or have been hospitalized.',
-             'image' => 'KeyinThomas (middle)',
-             ),
+             
                          array(
                          'name'  => 'Kinsey B.',
                                  'description' => 'Kinsey Bogart was born premature and without complications on September 22, 2003. However, that would soon change. In March 2004, Kinsey\'s feet began to swell, and when her mother took her to the doctor, she had no idea that their world would change drastically. Blood work showed that her kidneys were not working properly. The doctor referred Kinsey’s family to UF Health Shands Children’s Hospital, and their journey began.
@@ -617,38 +564,7 @@ function openSubTab(evt, storySub) {
                                                              Kirstyn’s brother Cason now helps raise funds and awareness for CMN Hospitals through Dance Marathon at UF in honor of his sister.',
                          'image' => 'KirstynTripp',
              ),
-             array(
-             'name' => 'Lauren P.',
-             'description' => 'On August 29, 2013, 8 year old Lauren Price and her family received the heartbreaking news that a tumor found on Lauren\'s knee was cancer. Lauren was diagnosed with osteosarcoma and began chemotherapy immediately at UF Health Shands Children’s Hospital. Though Lauren and her family were devastated to learn of the cancer, they knew that the doctors and nurses at Shands Children’s Hospital would do everything to ensure Lauren received the best treatment.
- 
- The road for Lauren has not been easy. When the Price family discovered that the cancer went further down Lauren’s leg than originally anticipated, surgery was the only option. Lauren underwent rotoplasty surgery and was then fitted for a prosthesis for her right leg. The chemo treatment was brutal, but Lauren remained tough as always and proved that she was going to come out strong.
- 
- Shands became a second home for Lauren and her family. Today, Lauren is an unstoppable, cancer-free, 15 year old who loves everything sports and outdoors. The funds from Dance Marathon at UF and CMN have helped Lauren and her family with chemotherapy and treatment during their time at Shands. Every day, Lauren lives out her motto of “staying tomboy tough.”',
-             'image' => 'LaurenPrice',
-             ),
-             array(
-             'name' => 'Lauren R.',
-             'description' => 'On the morning of April 24th 2018, Lauren Rood’s mother found a really hard spot on Lauren’s belly. She didn’t know what to think of it, so she laid her daughter down on the couch and realized there was a huge difference on either side of her belly. Lauren’s mother made the decision to bring her to daycare that morning. Her plan was to make a doctor’s appointment in order to figure out what was going on, and she was very concerned. At 8 am, she called her doctor’s office. The lines were busy, so she left several voicemails for someone to contact her.
- 
- Unfortunately, no one called the mother back. Later that night when she got off of work, she showed Lauren’s father her belly. His first reaction was that they needed to bring her to the ER right away. They packed up the kids and drove straight to the hospital. An ultrasound revealed that Lauren had a large mass on her kidney.
- 
- Doctor Lee referred the Rood family to UF Health Shands Children Hospital to further diagnose Lauren. Lauren was diagnosed with stage two clear cell sarcoma of the kidney on May 1st  2018. She received radiation at the removal site of the tumor for seven days followed by an intense chemotherapy plan. The level of care available has made this whole experience for the family tolerable.
- 
- There is one program that has forever changed my daughter’s life through this. The Footprints program has allowed my toddler to interact with new and different people on a daily basis. She enjoys the volunteers’ company and loves to interact and to play. I do believe the pediatric research is what helped diagnose my daughter’s rare condition, for without that, we may not have got her the help that she needed. Child life services has really helped through all of the Rood family’s milestones. They really know what to do and what to say when going through this experience.',
-             'image' => 'LaurenRood',
-             ),
-                         array(
-                             'name' => 'Lilliana S.',
-                             'description' => 'In September 2018, Lilliana Schauer started to experience trouble walking. She went to numerous doctors, but they were unable to figure out what was wrong. Her balance was declining, and she completely stopped walking. Lilliana’s family was tired of no answers. They went to the pediatric ER at UF where they tested her and were still unable to figure out the issue.
- 
- The doctors admitted her to Unit 45 where they performed a lot of tests and ultrasounds. Their last option was an MRI, and it showed a mast throughout her entire body. In order to get a final answer, Lilliana had to go through a bone biopsy, which is when the family met Dr. Slayton. He was kind and gentle while explaining Lilliana’s condition to her family. Lilliana was diagnosed with B-cell acute lymphoblastic leukemia.',
-                             'image' => 'LillianaSchauer'
-                         ),
-             array(
-             'name' => 'Mateo H.',
-             'description' => 'On February 4 2014, Mateo Hernandez’s mother was at her 23 weeks of pregnancy regular checkup when the doctor noticed that something in Mateo’s heart wasn\'t right. After hours and hours, the doctor confirmed that Mateo had HLHS, hypoplastic left heart syndrome. On that day, the Hernandez family’s world fell apart. All the doctors they met told them that Mateo had no chance at all and that they should prepare themselves to say goodbye as soon as he was born. They refused to accept that. Mateo’s parents started researching and found UF Shands Congenital Heart Center. At their first meeting with Dr. Bleiweis’s team at the Congenital Heart Center, the doctors told them that Mateo had a chance - not an easy one but a chance nonetheless. Since that day, the team has become Mateo and his parents’ surrogate family. Everytime Mateo has hit a bump on the road or they’ve needed any kind of help or motivation, their team of doctors have been there - no questions asked! Mateo has received two very intense open heart surgeries to prepare his body to live with only half a heart. Today, Mateo is a very active, determined, stubborn, playful, and smart boy who loves soccer and playing with his older brother!',
-             'image' => 'MateoHernandez',
-             ),
+            
              array(
              'name' => 'Max W.',
              'description' => 'Max Williams was born in Ohio with a congenital heart defect known as hypoplastic left heart syndrome. After his first three surgeries, Max was brought to UF Health Shands Children’s Hospital. In 2002, Max had banding of his pulmonary arteries and PDA stent. In 2003, he had Norwood stage I and stage II procedures. In 2005, Max had an extracardiac Fontan procedure. In 2010, Max had an LPA stent placed and now he is healing great!',
@@ -690,15 +606,7 @@ function openSubTab(evt, storySub) {
                          'description' => 'Nate Ferrell was born with a genetic condition called mitochondrial disease, a multi-systemic disease resulting in organ dysfunction. Nate has been a patient of UF Health Shands Children\'s Hospital since his birth. His nine pediatric specialists at Shands ensure that Nate can live a fairly normal life, despite relying heavily on medical equipment and medications to keep his body functioning properly. Because of his amazing medical team and donations to Children\'s Miracle Network Hospitals, Nate is an energetic and joyful middle schooler who loves playing video games, watching YouTube videos, and playing the violin.',
              'image' => 'NateFerrell',
              ),
-             array(
-             'name' => 'Nick M.',
-             'description' => 'Nick Mullen was diagnosed with hypertrophic cardiomyopathy when he was 2 years old. Up until age 10, he simply took a daily medication to help his heart beat slowly and easily, and he lived life like any other kid. In the summer of 2012, Nick had an MRI of his heart, which showed that his heart size put him at risk for developing a sudden and potentially fatal heart rhythm. A few months later, Nick had an internal defibrillator placed, just in case a dangerous rhythm developed.
- 
- Fast forward to January 2017: one morning when Nick was hanging out with friends at school, his heart suddenly went into a dangerous, super fast rhythm. The defibrillator did just what it was designed to do: it shocked his heart back into a normal beat, saving Nick’s life. Nick had open-heart surgery in the summer of 2017 to decrease the size of his overly thickened heart muscle. Since that time, his heart function has been great!
- 
- Nick’s brain condition, agenesis of the corpus callosum, is stable, although learning at school can be hard at times. Nick graduated high school in spring 2020 and is looking forward to beginning college this year. Nick remains a very social and positive guy. Nick is proud to be a Children’s Miracle Network ambassador! He wants to help other kids and support the hospital that saved his life. Nick particularly enjoys being involved with Dance Marathon at the University of Florida. He has met so many amazing college students who dedicate their time and energy to raising money for the Children’s Miracle Network. These students serve as role models for Nick and all of the other Miracle Children.',
-             'image' => 'NickMullen',
-             ),
+             
              array(
              'name' => 'Owen M.',
              'description' => 'Owen Maier was born at Munroe Regional Medical Center in Ocala, Florida, on June 10th, 2013 with a congenital heart defect called transposition of the great arteries. In transposition of the great arteries, the aorta and pulmonary arteries are formed on the incorrect atriums, which does not allow for blood to get oxygenated and returned to the body.
@@ -715,29 +623,13 @@ function openSubTab(evt, storySub) {
          Powie is now 7 and just entered 2nd grade. We now have the correct supports in place, and she’s truly doing so well! She’s a very typical child who loves school, her siblings, and her puppies! Dance Marathon at UF has become one of her most favorite things in this world!',
                                  'image' => 'Hadley(Powie) Patterson',
                      ),
-                         array(
-                             'name'=> 'Reilly R.',
-                             'description' => 'Reilly Rodgers was diagnosed with hypoplastic left heart syndrome (HLHS) at his 20-week ultrasound. At 11 days old, he had his first open-heart surgery, and at 5 months, he had his second open-heart surgery. At the end of August 2019, Reilly had his third open-heart surgery. Reilly\'s congenital heart defect  is a lifelong battle and will result in a heart transplant in the next couple of years.',
-                             'image' => 'ReillyRogers_',
-                         ),
+                         
              array(
              'name' => 'Sage P.',
              'description' => 'Sage Pridemore was born with a congenital heart defect called hypoplastic left heart syndrome, which means he was born with half of a heart. The left side of his heart didn’t form properly.  Since birth, Sage has had three open-heart surgeries. These surgeries were to re-route his heart to make the right side do what the left side is supposed to do. This was done to help his heart last as long as possible because one day Sage will need a new heart. Sage is now 12 years old and Dance Marathon at UF 2021 will be Sage’s 11th year as a CMN ambassador!',
                          'image' => 'SagePridemore',
              ),
-             array(
-             'name' => 'Sam N.',
-             'description' => 'Samuel Negron’s parents knew he was a fighter long before his birth. After a very complex pregnancy, Samuel was delivered at full term and weighed 8 pounds, the picture of normal physical development… except he was not breathing. Life-saving efforts in the NICU stabilized him, but with the limited resources of his small local hospital, his parents had many questions on the mounting unexplained health issues.
- 
- He experienced an acute life-threatening event and was resuscitated only to be sent home on a monitor the next day, which led to a terrifying week. Samuel was transported by ambulance to the nearest children’s hospital for severe bradycardic episodes and respiratory distress. The months to follow were spent in and out of several hospital ICUs with extensive testing and numerous surgeries. Teams of physicians tried to discern the source of his multi-systemic health concerns: encephalopathy, global developmental delay, tracheomalacia, seizures, gastro- intestinal dysmotility and paresis, hypotonia, oromotor dysfunction, apnea, bradycardia, respiratory insufficiency, and failing to thrive on a GJ feeding tube.
- 
-  While being told to expect that he might never walk, talk, or live a normal life, his parents continued to fight for answers. One difficult surgical muscle biopsy result revealed what was threatening their son’s life. Samuel is fighting a mitochondrial disease. The mitochondria is the part of every cell responsible for creating 90% of the energy organs need to function. When his body is compromised by stress or illness, cell injury and cell death follow. This condition is considered degenerative and progressive, and he has fought through very difficult metabolic declines following typical stressors, such as a warm ride in the stroller or even a simple ear infection.
- 
- Samuel has this disease, but it does not have him. He has shown incredible strength and determination, defying all of the odds and reaching milestones with much effort, therapy, and support. He continues to amaze and inspire all of those around him. If it were not for the care, support, treatments, and interventions provided by UF Health Shands Children’s Hospital, Samuel might not be here today, showing us all how to manage challenging circumstances and appreciate life.
- 
- Thank you for making a difference in the life of a child through the Children’s Miracle Network Dance Marathon. The results of your heartfelt efforts are made tangible by the smiles that illuminate our children’s faces despite what they endure. Just like the dancing spirit on that gymnasium floor, your spirits fill their hearts with joy and appreciation. Thank you for sharing this dance with them.',
-             'image' => 'SamuelNegron',
-             ),
+             
              array(
              'name' => 'Wyatt T.',
              'description' => 'Wyatt Thomas was born with five heart defects. He had a stroke at 3 months old and a heart transplant at 9.5 months old. Wyatt is now a very happy 9 year old who took his second chance at life and ran with it!',
