@@ -85,10 +85,11 @@ function openSubTab(evt, storySub) {
     color: white;
     font-weight: 700;
     width: 200px;
+    height: 50px;
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 14px 16px;
+    padding: 2px 17px;
     transition: 0.2s;
 }
 
