@@ -104,7 +104,7 @@ function openSubTab(evt, storySub) {
 /* Style the tab content */
 .tabcontent {
     display: none;
-    padding: 0px 12px;
+    padding: 6px 12px;
     width: 80%;
     margin-left: 10%;
     margin-bottom: 3%;
