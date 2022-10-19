@@ -14,12 +14,9 @@
       </ol> -->
       <div class="carousel-inner">
         <div class="item active">
-<<<<<<< Updated upstream
           <img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">
-=======
           <!--<img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">-->
 <img class="img-responsive"  src="assets/images/Summer Campaign FINAL.mov">
->>>>>>> Stashed changes
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <!-- <div class="col-md-6">
@@ -218,13 +215,10 @@
 
      <!-- <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run <br> philanthropy in the southeastern United States. <br/> We just celebrated its 27th year by raising a historic <i style="color:#617ba6;"><b>$2,270,311.40!</b></i><br/>
 
-<<<<<<< Updated upstream
       <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated its 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
 
            <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
-=======
            <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year! -->
->>>>>>> Stashed changes
 </b></a>
 </i></p>
 
@@ -234,13 +228,13 @@
 <div class="education">
   <div class="container text-center">
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-3", style="width: 33%;">
         <i class="fa icon-foot"></i>
         <h3>Our Story</h3>
         <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $30 million for the Miracle Families being treated at UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
         <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3", style="width: 33%;">
         <i class="fa icon-balloon"></i>
         <h3>CMN Hospitals<br>& UF Health</h3>
         <p>UF Health Shands Children’s Hospital is the #1 Children’s Hospital in Florida, according to the 2022-23 U.S. News & World Report Rankings! Ranked in eight pediatric specialties, UF Health Shands provides the full spectrum of pediatric specialty services and is the top 5 children’s hospital in the Southeast. UF Health Shands and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
@@ -262,7 +256,7 @@
         <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
       </div>
 -->
-      <div class="col-md-3">
+      <div class="col-md-3", style="width: 33%;">
         <i class="fa fa-heart"></i>
         <h3>Miracle Families</h3>
         <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
@@ -289,7 +283,9 @@
         <br><br><br>
         <h3>Many Places, One Common Cause</h3>
         <p>Dance Marathon at the University of Florida is one piece of a larger international movement of students fighting for a future without childhood illness. Hundreds of Dance Marathon programs throughout North America raise funds and awareness for Children’s Miracle Network Hospitals. UF Health Shands Children’s Hospital receives support from three Dance Marathon programs in the region, allowing it to make more miracles each and every day.</p>
-        <!--
+        
+				
+				<!--
         <div class="container-fluid" style="padding-top:3em;">
           <div class="row">
             <div class="col-xs-4">
@@ -350,6 +346,46 @@
             </table>
             <br> -->
           </div>
+<div class="section">
+	<div class="container">
+		<div >
+   		<h2>Our 2022 Sponsors</h2>
+  		<div class="sponsor-section">
+		</div>
+
+	<div id="myCarousel" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
+  	<!-- Wrapper for slides -->
+  	<div class="carousel-inner">
+			<div class="active item">
+	 			<img src="assets/images/sponsors/sponsorImages/sponsor2.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
+			</div>	
+			<?php
+				$sponsor_imgs = range(3, 119); // the number of sponsor images we have in sponsorImages folder starting from 2 to 119. (2 is first active image)
+				$i = 3;
+				foreach($sponsor_imgs as $index)
+				{
+				?>
+    		<div class="item">
+        	<img src="assets/images/sponsors/sponsorImages/sponsor<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
+    		</div>
+			<?php   
+			$i++;
+			}
+			?>
+  	</div>
+
+  	<!-- Left and right controls -->
+  	<a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #f79b63;">
+    	<span class="glyphicon glyphicon-chevron-left"></span>
+    	<span class="sr-only">Previous</span>
+ 		</a>
+  	<a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #014083">
+    	<span class="glyphicon glyphicon-chevron-right"></span>
+    	<span class="sr-only">Next</span>
+  	</a>
+		</div>
+	</div>
+</div>
           <p></p>
       </div>
     </div>
