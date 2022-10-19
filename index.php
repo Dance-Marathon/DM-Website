@@ -14,7 +14,6 @@
       </ol> -->
       <div class="carousel-inner">
         <div class="item active">
-          <img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">
           <!--<img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">-->
 
          <!--<img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">-->
@@ -222,36 +221,36 @@
     </div>
   </div>
 </div>
-<div class="section"> 
-	<div class="education">
-		<div class="container", style="margin: auto;">
-  		<div class="container text-center">
-    		<div class="row">
-      		<div class="col-md-3", style="width: 33%;">
-        		<i class="fa icon-foot"></i>
-        		<h3>Our Story</h3>
-        		<p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $30 million for the Miracle Families being treated at UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
-        		<p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
-      		</div>
+<div class="section">
+    <div class="education">
+        <div class="container", style="margin: auto;">
+          <div class="container text-center">
+            <div class="row">
+              <div class="col-md-3", style="width: 33%;">
+<img class="fa icon" src="../assets\images\Logos\book 1.jpg" style="position:relative; left:20%"/>
+                <h3>Our Story</h3>
+                <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $28 million for the Miracle Families UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
+                <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
+              </div>
      
-					<div class="col-md-3", style="width: 33%;">
-        		<i class="fa icon-balloon"></i>
-        		<h3>CMN Hospitals<br>& UF Health</h3>
-        		<p>UF Health Shands Children’s Hospital is the #1 Children’s Hospital in Florida, according to the 2022-23 U.S. News & World Report Rankings! Ranked in eight pediatric specialties, UF Health Shands provides the full spectrum of pediatric specialty services and is the top 5 children’s hospital in the Southeast. UF Health Shands and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
-          	<!--Update this information, we are highter than when we made this website -->
-        		<p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
-      		</div>
+                    <div class="col-md-3", style="width: 33%;">
+                <i class="fa icon-balloon"></i>
+                <h3>CMN Hospitals<br>& UF Health</h3>
+                <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
+              <!--Update this information, we are highter than when we made this website -->
+                <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
+              </div>
 
-      		<div class="col-md-3", style="width: 33%;">
-       			<i class="fa fa-heart"></i>
-        		<h3>Miracle Families</h3>
-        		<p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
-        		<p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
-      		</div>
-    		</div>
-			</div>
-  	</div>
-	</div>
+              <div class="col-md-3", style="width: 33%;">
+                   <i class="fa fa-heart"></i>
+                <h3>Miracle Families</h3>
+                <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
+                <p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
+              </div>
+            </div>
+            </div>
+      </div>
+    </div>
 </div>
 <!--<div class="counter">
   <div class="container">
