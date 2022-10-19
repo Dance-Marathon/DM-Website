@@ -16,6 +16,8 @@
         <div class="item active">
           <img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">
           <!--<img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">-->
+
+         <!--<img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">-->
 <img class="img-responsive"  src="assets/images/Summer Campaign FINAL.mov">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
@@ -208,62 +210,48 @@
 
 	</div>
 
+    <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated its 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
+      <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
+<p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#617ba6;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 29th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
 
 
- <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#617ba6;"><b>UF Health Shands Children's Hospital</b></i>.<br/> We are going into our 29th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
-
-
-     <!-- <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run <br> philanthropy in the southeastern United States. <br/> We just celebrated its 27th year by raising a historic <i style="color:#617ba6;"><b>$2,270,311.40!</b></i><br/>
-
-      <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the most successful student-run philanthropy in the southeastern United States. <br/> We just celebrated its 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
-
-           <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
-           <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year! -->
+          <!-- <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year! -->
 </b></a>
 </i></p>
 
     </div>
   </div>
 </div>
-<div class="education">
-  <div class="container text-center">
-    <div class="row">
-      <div class="col-md-3", style="width: 33%;">
-        <i class="fa icon-foot"></i>
-        <h3>Our Story</h3>
-        <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $30 million for the Miracle Families being treated at UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
-        <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
-      </div>
-      <div class="col-md-3", style="width: 33%;">
-        <i class="fa icon-balloon"></i>
-        <h3>CMN Hospitals<br>& UF Health</h3>
-        <p>UF Health Shands Children’s Hospital is the #1 Children’s Hospital in Florida, according to the 2022-23 U.S. News & World Report Rankings! Ranked in eight pediatric specialties, UF Health Shands provides the full spectrum of pediatric specialty services and is the top 5 children’s hospital in the Southeast. UF Health Shands and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
-          <!--Update this information, we are highter than when we made this website -->
-        <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
-      </div>
-<!--
-      <div class="col-md-3">
-        <i class="fa icon-shirt"></i>
-        <h3>Silent Auction</h3>
-        <p>Check out the awesome items available in our silent auction! From exotic vacations to Tiffany's jewelry, we've got anything you could want.</p>
-        <p><a class="btn btn-default" href="https://www.winningcause.org/dancemarathonatuf/" role="button" target="_blank">Shop Now</a></p>
-      </div>
+<div class="section"> 
+	<div class="education">
+		<div class="container", style="margin: auto;">
+  		<div class="container text-center">
+    		<div class="row">
+      		<div class="col-md-3", style="width: 33%;">
+        		<i class="fa icon-foot"></i>
+        		<h3>Our Story</h3>
+        		<p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $30 million for the Miracle Families being treated at UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
+        		<p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
+      		</div>
+     
+					<div class="col-md-3", style="width: 33%;">
+        		<i class="fa icon-balloon"></i>
+        		<h3>CMN Hospitals<br>& UF Health</h3>
+        		<p>UF Health Shands Children’s Hospital is the #1 Children’s Hospital in Florida, according to the 2022-23 U.S. News & World Report Rankings! Ranked in eight pediatric specialties, UF Health Shands provides the full spectrum of pediatric specialty services and is the top 5 children’s hospital in the Southeast. UF Health Shands and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
+          	<!--Update this information, we are highter than when we made this website -->
+        		<p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
+      		</div>
 
-      <div class="col-md-3">
-        <i class="fa fa-mobile" style="font-size: 52px; line-height: 40px;"></i>
-        <h3>DM App</h3>
-        <p>Get the latest DM updates, learn about our cause, and more with our new DM app!</p>
-        <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
-      </div>
--->
-      <div class="col-md-3", style="width: 33%;">
-        <i class="fa fa-heart"></i>
-        <h3>Miracle Families</h3>
-        <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
-        <p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
-      </div>
-    </div>
-  </div>
+      		<div class="col-md-3", style="width: 33%;">
+       			<i class="fa fa-heart"></i>
+        		<h3>Miracle Families</h3>
+        		<p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
+        		<p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
+      		</div>
+    		</div>
+			</div>
+  	</div>
+	</div>
 </div>
 <!--<div class="counter">
   <div class="container">
@@ -273,7 +261,7 @@
     </div>
   </div>
 </div>-->
-<div class="section">
+<!-- <div class="section">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
@@ -282,10 +270,16 @@
       <div class="col-md-6">
         <br><br><br>
         <h3>Many Places, One Common Cause</h3>
+<<<<<<< HEAD
         <p>Dance Marathon at the University of Florida is one piece of a larger international movement of students fighting for a future without childhood illness. Hundreds of Dance Marathon programs throughout North America raise funds and awareness for Children’s Miracle Network Hospitals. UF Health Shands Children’s Hospital receives support from three Dance Marathon programs in the region, allowing it to make more miracles each and every day.</p>
         
 				
-				<!--
+
+=======
+<p>Dance Marathon at the University of Florida is one piece of a larger international movement of students fighting for a future without childhood illness. Hundreds of Dance Marathon programs throughout North America raise funds and awareness for Children’s Miracle Network Hospitals. UF Health Shands Children’s Hospital receives support from three Dance Marathon programs in the region, allowing it to make more miracles each and every day.</p> -->
+
+        <!--
+>>>>>>> 990c6a1c54931f0aa01aca6d48fa1454a987a411
         <div class="container-fluid" style="padding-top:3em;">
           <div class="row">
             <div class="col-xs-4">
