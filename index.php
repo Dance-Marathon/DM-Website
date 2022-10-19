@@ -14,12 +14,9 @@
       </ol> -->
       <div class="carousel-inner">
         <div class="item active">
-<<<<<<< Updated upstream
           <img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">
-=======
           <!--<img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">-->
-<img class="img-responsive"  src="assets/images/Summer Campaign FINAL.mov">
->>>>>>> Stashed changes
+					<img class="img-responsive" src="assets/images/Summer Campaign FINAL.mov">
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <!-- <div class="col-md-6">
@@ -224,29 +221,45 @@
            <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year!
 =======
            <a href="/blog" style="color:#617ba6;"> <b>Check out our blog to keep up with DM at UF throughout the year! -->
->>>>>>> Stashed changes
 </b></a>
 </i></p>
 
     </div>
   </div>
 </div>
-<div class="education">
-  <div class="container text-center">
-    <div class="row">
-      <div class="col-md-3">
-        <i class="fa icon-foot"></i>
-        <h3>Our Story</h3>
-        <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $30 million for the Miracle Families being treated at UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
-        <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
-      </div>
-      <div class="col-md-3">
-        <i class="fa icon-balloon"></i>
-        <h3>CMN Hospitals<br>& UF Health</h3>
-        <p>UF Health Shands Children’s Hospital is the #1 Children’s Hospital in Florida, according to the 2022-23 U.S. News & World Report Rankings! Ranked in eight pediatric specialties, UF Health Shands provides the full spectrum of pediatric specialty services and is the top 5 children’s hospital in the Southeast. UF Health Shands and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
-          <!--Update this information, we are highter than when we made this website -->
-        <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
-      </div>
+
+<div class="section"> 
+	<div class="education">
+		<div class="container", style="margin: auto;">
+  		<div class="container text-center">
+    		<div class="row">
+      		<div class="col-md-3", style="width: 33%;">
+        		<i class="fa icon-foot"></i>
+        		<h3>Our Story</h3>
+        		<p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $30 million for the Miracle Families being treated at UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
+        		<p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
+      		</div>
+     
+					<div class="col-md-3", style="width: 33%;">
+        		<i class="fa icon-balloon"></i>
+        		<h3>CMN Hospitals<br>& UF Health</h3>
+        		<p>UF Health Shands Children’s Hospital is the #1 Children’s Hospital in Florida, according to the 2022-23 U.S. News & World Report Rankings! Ranked in eight pediatric specialties, UF Health Shands provides the full spectrum of pediatric specialty services and is the top 5 children’s hospital in the Southeast. UF Health Shands and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
+          	<!--Update this information, we are highter than when we made this website -->
+        		<p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
+      		</div>
+
+      		<div class="col-md-3", style="width: 33%;">
+       			<i class="fa fa-heart"></i>
+        		<h3>Miracle Families</h3>
+        		<p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
+        		<p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
+      		</div>
+    		</div>
+			</div>
+  	</div>
+	</div>
+</div>
+
 <!--
       <div class="col-md-3">
         <i class="fa icon-shirt"></i>
@@ -262,15 +275,6 @@
         <p><a class="btn btn-default" id="download-app" href="itms://itunes.apple.com/us/app/dance-marathon-at-uf/id955595609" role="button">Download Now</a></p>
       </div>
 -->
-      <div class="col-md-3">
-        <i class="fa fa-heart"></i>
-        <h3>Miracle Families</h3>
-        <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
-        <p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
-      </div>
-    </div>
-  </div>
-</div>
 <!--<div class="counter">
   <div class="container">
     <div class="row">
@@ -349,6 +353,48 @@
               </tr>
             </table>
             <br> -->
+
+<div class="section">
+	<div class="container">
+		<div >
+   		<h2>Our 2022 Sponsors</h2>
+  		<div class="sponsor-section">
+		</div>
+
+	<div id="myCarousel" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
+  	<!-- Wrapper for slides -->
+  	<div class="carousel-inner">
+			<div class="active item">
+	 			<img src="assets/images/sponsors/sponsorImages/sponsor2.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
+			</div>	
+			<?php
+				$sponsor_imgs = range(3, 119); // the number of sponsor images we have in sponsorImages folder starting from 2 to 119. (2 is first active image)
+				$i = 3;
+				foreach($sponsor_imgs as $index)
+				{
+				?>
+    		<div class="item">
+        	<img src="assets/images/sponsors/sponsorImages/sponsor<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
+    		</div>
+			<?php   
+			$i++;
+			}
+			?>
+  	</div>
+
+  	<!-- Left and right controls -->
+  	<a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #f79b63;">
+    	<span class="glyphicon glyphicon-chevron-left"></span>
+    	<span class="sr-only">Previous</span>
+ 		</a>
+  	<a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #014083">
+    	<span class="glyphicon glyphicon-chevron-right"></span>
+    	<span class="sr-only">Next</span>
+  	</a>
+		</div>
+	</div>
+</div>
+
           </div>
           <p></p>
       </div>
