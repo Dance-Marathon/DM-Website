@@ -10,6 +10,7 @@
         'name'                  =>  'Alexandra "Zandy" Hernandez',
         'email'                 =>  '',
               'current_city'          =>  'Atlanta, GA',
+        'previous_involvement'  =>  '2015 Recruitment Captain, 2016 Recruitment Assistant Director, 2017 Outreach Overall Director, 2021 DMA Board Member, 2022 DMA President',
                 'fun_fact'                =>  'I ate pizza for dinner for a week straight because I was dedicated to going to the various hospitality nights that week.',
         'favorite_memory'       =>  'I will never forget standing with my fellow Recruitment Captains during closing ceremonies of Dance Marathon at UF 2015.  When we realized we had raised over $2 million for the first time, we burst into tears and a huge group hug. I would not have wanted to share that moment with anyone else.',
         'continued'             =>  'My involvement in Dance Marathon shaped me both professionally and personally.  It left such a profound impact on my life that I love sharing with others whenever given the chance.  My time on the DMA Board has provided me with a more hands on opportunity to continue my involvement with DM and raise awareness for the cause.',
