@@ -17,7 +17,9 @@
           <!--<img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">-->
 
          <!--<img class="img-responsive"  src="assets/images/sectionbg/2021/total22.jpeg">-->
-<img class="img-responsive"  src="assets/images/Summer Campaign FINAL.mov">
+<video width = "100%" loop autoplay muted>
+    <source type="video/mp4" src="/assets/images/Summer Campaign FINAL.mov"></source>
+</video>
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
               <!-- <div class="col-md-6">
