@@ -421,25 +421,21 @@ include("includes/navbar.php");
         $kids = array(
             array(
                 'name'  => 'Adrienne W.',
-                'description' => 'Adrienne Williams was born a healthy 8 pounds and 2 ounces in Ohio. She had been examined prior to birth because of her brother’s heart defect, and all seemed well. Little did her family know her issues would be completely different from her brother’s, but just as difficult. Adrienne was diagnosed with hydrocephalus and Arnold Chiari type 1. In 2007, she had a VP Shunt put in and in 2008, her first posterior fossa decompression. In 2010, Adrienne had her second posterior fossa decompression. In between her posterior fossa decompressions, she had a mic-key put in. Adrienne has always enjoyed life and is happy, stays active, and is gifted in academics.',
+                'description' => 'Adrienne was born a healthy 8 pounds and 2 ounces in Ohio. She had been examined prior to birth because of her brother’s heart defect, and all seemed well. Little did her family know her issues would be completely different from her brother’s, but just as difficult.
+                                  Adrienne was diagnosed with hydrocephalus and Arnold Chiari type 1. In 2007, she had a VP Shunt put in and in 2008, her first posterior fossa decompression. In 2010, Adrienne had her second posterior fossa decompression. In between her posterior fossa decompressions, she had a mic-key put in. Adrienne loves watching Stranger Things, making tik toks and doing cheer and gymnastics. Her favorite color is purple and she loves spending time with her brother Max.
+',
                 'image' => 'AdrienneWilliams',
             ),
             array(
                 'name'  => 'Alyssa M.',
                 'description' => 'Alyssa was born at 26 weeks, weighing 1 pound and 4 ounces. Her parents were told she would not live through the night, but she did. She continued to surprise the doctors by fighting to live. Next, her parents were told she would never walk, talk, eat, or interact with them. Due to her premature birth, she developed hydrocephalus, which means there was too much fluid in her brain. Because of this, she has a shunt, cerebral palsy, a cochlear implant, and other medical issues for which she needs continuous monitoring and treatment.
- Today, she is 22 years old and eats what her parents eat - with a few modifications. Alyssa can hear with her cochlear implant but mainly relies on sign language to communicate. Walking is a challenge, but she does it with the help of a walker and many years of physical therapy. Once she gets to know them, her interaction with friends and family is outstanding. She has an awesome personality and loves to ride horses and swim. She also loves to watch movies, football, baseball, basketball and tennis. She also loves being an ambassador for the Children’s Miracle Network and Dance Marathon at UF.',
-                'image' => 'AlyssaMann',
-            ),
-
-            array(
-                'name'  => 'Arden T.',
-                'description' => 'When Arden Thornbury was only 3 months old, doctors told her parents that she needed a heart transplant. She was sent to UF Health Shands Children’s Hospital where she was put on a ventilator to help keep her alive until her new heart was ready. That machine was purchased with funds from Children’s Miracle Network Hospitals. After Arden received her transplant, her doctors learned that she had a rare and progressive disease, Leigh syndrome, which is a mitochondrial disease. Because her condition is complex, Arden visits Shands Children’s Hospital and Arnold Palmer Hospital for Children quite often and has seen the Miracle Balloon sticker on the medical equipment CMN has helped purchase. When Arden is at the hospital for long periods of time, CMN Hospitals help make her hospital stays a little brighter by supplying toys to the Cardiovascular Intensive Care Unit.',
-                'image' => 'ArdenThornbury',
+                                  Today, she is 26 years old and eats what her parents eat - with a few modifications. Alyssa can hear with her cochlear implant but mainly relies on sign language to communicate. Walking is a challenge, but she does it with the help of a walker and many years of physical therapy. Once she gets to know them, her interaction with friends and family is outstanding. She has an awesome personality and loves to ride horses and swim. She also loves to watch movies, football, baseball, basketball and tennis. She also loves being an ambassador for the Children’s Miracle Network and Dance Marathon at UF.',
+                'image' => 'AlyssaM',
             ),
             array(
                 'name' => 'Ayden M.',
-                'description' => 'At 3 years old, Ayden Morgan was diagnosed with a rare inoperable brain tumor called pilocytic astrocytoma with glioma blast. He lost his vision at age 3 and had a total of 17 surgeries and many treatments within his first year at Shands. His family and he have traveled to St. Judes Hospital in Memphis, Tennessee, where they lived for eight months while Ayden received treatments along with two more surgeries. Upon returning from Memphis, Ayden now receives treatment at Arnold Palmer Hospital in Orlando, another CMN hospital. Ayden just underwent his 21st surgery. He is undergoing active chemotherapy treatment now and will continue that treatment for years and years to come. Unlike most kids, Ayden will receive treatment into his 30\'s or longer, and he will never be in remission or cancer-free unless a true miracle happens. Because of CMN hospitals, Ayden is alive today! The Morgan family is truly thankful for all CMN does for kids and that these hospitals always keep fighting to help the next one.',
-                'image' => 'AydenMorgan2',
+                'description' => 'At 3 years old, Ayden was diagnosed with a rare inoperable brain tumor called pilocytic astrocytoma with glioma blast. He lost his vision at age 3 and had a total of 17 surgeries and many treatments within his first year at Shands. His family and he have traveled to St. Judes Hospital in Memphis, Tennessee, where they lived for eight months while Ayden received treatments along with two more surgeries. Upon returning from Memphis, Ayden now receives treatment at Arnold Palmer Hospital in Orlando, another CMN hospital. He is undergoing active chemotherapy treatment now and will continue that treatment for years and years to come. Unlike most kids, Ayden will receive treatment into his 30\'s or longer, and he will never be in remission or cancer-free unless a true miracle happens. Because of CMN hospitals, Ayden is alive today! Ayden’s family is truly thankful for all CMN does for kids and that these hospitals always keep fighting to help the next one.',
+                'image' => 'AydenM',
             ),
             array(
                 'name' => 'Bailey A.',
@@ -448,46 +444,43 @@ include("includes/navbar.php");
  Bailey visits the UF Health Turner Syndrome Clinic every four months, where she is seen by many specialists, including endocrinologists to monitor her growth, cardiologists for an electrocardiogram and other tests and psychologists for education consults and dentists as needed. Because girls with Turner syndrome often have problems with short stature, Bailey started daily injections of growth hormones when she was 2 and will continue to receive them until puberty. Bailey was also born with only one kidney, which is monitored closely by her nephrology team at UF Health.
  When Bailey was born, her parents were stunned by the diagnosis, having never heard of Turner syndrome before, and could only find scant information on the internet. The family was referred to UF Health Shands Children’s Hospital because of the breadth of care available from the Turner syndrome specialists. Without the incredible care available at UF Health Shands Children’s Hospital, Bailey’s family says they do not know where they would be today.
  People quickly learn that Bailey is just an active 10 year old that is not defined by her diagnosis. She has a bright, bubbly personality that touches lives everywhere she goes. Bailey loves American Girl dolls, playing basketball and her kitten Gracie. Bailey’s family continues to spread awareness of Turner syndrome by hosting Bailey’s Butterflies for Turner Syndrome walks annually and reaching out to other families affected with Turner syndrome. Her family is forever grateful to Children’s Miracle Network Hospitals and UF Health Shands Children’s Hospital for the incredible care Bailey has been able to receive!',
-                'image' => 'BaileyAbbott',
-            ),
-            array(
-                'name' => 'Bailey W.',
-                'description' => 'Everything appeared normal when Bailey Winckler was born. She was kept in the hospital because she had jaundice. Five days into her hospital stay, she turned a little blueish during a feeding. The doctors took an X-ray, and the adventure began.
-          Over the years, Bailey has had around 20 surgeries for different issues. She had holes in her diaphragm, a hole in her heart, reflux that needed two surgeries to fix, ear surgeries, eye surgery, and more. Bailey also has learning disabilities. For 10 years, doctors tried to figure out how all of these things went together and could not. Then, a geneticist found it. Bailey has a rare genetic mutation called Kabuki syndrome.
-             Bailey functions on her own. She sings, dances, rides her motorized scooter, and plays drums. She also loves hockey and race cars, and she has been to several local race tracks and has attended baseball and hockey games in both Tampa and New York. Bailey is very outgoing and can take over an event in minutes. Bailey looks forward to Dance Marathon at UF every year. Bailey is the best thing to ever happen to her family, and they always wonder what\'s coming next.',
-                'image' => 'BaileyWinckler',
+                'image' => 'BaileyA',
             ),
             array(
                 'name'  => 'Beckett G.',
                 'description' => 'Beckett Genuardi was born on October 12, 2014. Once he came home, his parents always worried about his breathing. On December 22, 2014,  his parents brought him to the ER thinking he had a minor infection. Their local hospital quickly admitted him and soon after he went into respiratory distress. He was diagnosed with dilated cardiomyopathy. On Christmas Eve, he was transferred to UF Health Shands Children’s Hospital. Beckett received the Berlin heart on January 5, 2015 and received a heart transplant only 10 days later. Beckett is now a happy 5 year old and loves spending time with his sweet sister Harper.',
-                'image' => 'BeckettGenuardi',
+                'image' => 'BeckettG',
             ),
             array(
                 'name' => 'Bennett J.',
                 'description' => 'Bennett Jefferson is missing his right ventricle and tricuspid valve. The written diagnosis is a technical, wordy paragraph. Some doctors say tricuspid atresia and others say hypoplastic right heart syndrome. In short, he is a single ventricle patient, which means he only has half of a heart but twice the fight!
   In December 2013, Bennett had his first open-heart surgery at 3 months old. The doctors at UF Health Shands Children’s Hospital performed a bilateral bi-directional Glenn procedure, in which the doctors placed a band around his pulmonary artery and connected both of his inferior vena cavas to his pulmonary artery. The doctors believe that Bennett having the two inferior vena cavas is what kept him stable for three months, while most babies with his condition require surgery at around 7 days old. In July 2017, just before he turned 4 years old, Bennett had his second open-heart surgery. The procedure was called the Fontan procedure; the doctors connected his superior vena cava to his pulmonary artery. Since the pressure in Bennett’s heart changed with this procedure, they also removed the band around his pulmonary artery. This procedure is the final repair for his type of defect. If Bennett ever goes into heart failure, the only solution would be a heart transplant.
  For now, the Jefferson family tries their best to enjoy every day and not take anything for granted. Bennett just finished playing basketball last spring, which was his first time playing in a recreational league, and he started first grade this fall. He loves superheroes, and he especially loves spending time with his big brother Tre. They both enjoy swimming and playing on their electronics. We are so thankful for the work of Dance Marathon at UF and for the amazing medical team at UF Health Shands Children’s Hospital!',
-                'image' => 'BennettJefferson',
+                'image' => 'BennettJ',
             ),
-
+            array(
+                 'name' => 'Brooks & Broward R.',
+                 'description' => 'The bond between brothers is special. The link between Brooks and Broward Roberts is especially unique. Brooks, 3, and Broward, 4, do everything together. They ride four-wheelers and go on backyard adventures. They were also both diagnosed with a tethered spinal cord, a neurologic condition caused by the spinal cord attaching to tissue around the spine. This condition is not known to be genetic. In October 2020, Broward started suffering from back pain. His mother, Kristin, noticed a lump by his lower spine. As the week went on, her oldest son’s complaints grew more frequent. His symptoms culminated on Halloween night; Broward started dragging his toe while walking. Kristin said it was as though her son was tripping over his right foot. Fortunately, the Roberts family was familiar with UF Health’s pediatric neurosurgery team. Born with a sacral dimple, or a small bump on his lower back, Broward first visited Lance Governale, M.D., UF Health’s chief of pediatric neurosurgery, at 6 weeks old. Nearly three years after his first visit, Broward would need surgery. The surgery helped Broward get back to walking and running – as soon as nine days after the procedure. Two months later, Brooks, Broward’s younger brother, would have his successful surgery. Kristin noticed Brooks had begun to curl his toes and stack them on top of one another. Eventually, Brooks started to trip over his toes, resembling one of Broward’s symptoms. Both Brooks and Broward have since been released from Dr. Governale’s care. Visits with him are only “as needed,” Kristin said. Brooks still does check-ins with cardiology, pulmonology, audiology, ENT, urology, gastrointestinal and nutrition at UF Health. That’s only because Brooks was a micro-preemie and was born at 31 weeks. The boys are enjoying 2022. Brooks recently celebrated his third birthday party. The Roberts family brought in a traveling petting zoo, and Brooks was able to hold a baby kangaroo! Broward is competing in his second season of soccer. Even though Brooks is too young to join the soccer league, he’s always nearby cheering his older brother on!',
+                            'image' => 'Brooks&Broward1',
+             ),
             array(
                 'name'  => 'Claire E.',
                 'description' => 'Claire Essex was born at UF Health Shands Children’s Hospital and stayed in the NICU for 64 days. During that time, her family met with the specialists in Pediatrics and really liked everyone. During her stay, the doctors helped Claire fight off methicillin-resistant staphylococcus aureus (MRSA) in her eye and gave her family confidence in their medical team.
  
  Claire has been seen by and received care from many UF Health pediatric specialists, including genetics, GI/nutrition (G-tube fed), audiology (hearing aids), physical and occupational therapy, dentistry, ENT (ear, nose, and throat), and surgery. Shands Children’s Hospital is special to Claire’s family!',
-                'image' => 'ClaireEssex',
+                'image' => 'ClaireE',
             ),
             array(
                 'name'  => 'Courtney H.',
                 'description' => 'In February 2013, Courtney Holcomb  was diagnosed with stage 5 retinoblastoma in her right eye. After three rounds of chemotherapy treatments, her doctors decided it would be safest to remove her eye to make sure the cancer did not spread.
  
  She is now a healthy 8 year old who loves to dance and play soccer! Courtney continues to receive the best follow-up care and treatments at UF Health Shands Children’s Hospital to keep her healthy.',
-                'image' => 'CourtneyHolcomb',
+                'image' => 'CourtneyH',
             ),
             array(
                 'name'  => 'Dani-Lynn E.',
                 'description' => 'Dani-Lynn Early was born in May 2015 in Jacksonville, Florida. Dani-Lynn is diagnosed with congenital heart disease, with a combined 3 different defects. She has hypoplastic left heart syndrome (HLHS), ventricular septal defect, and partially anomalous pulmonary return. She has undergone two of the three HLHS surgeries. She is currently listed on the heart transplant list. Dani-Lynn enjoys Disney, pageants, and playing with her two older sisters.',
-                'image' => 'Dani-Lynn Early',
+                'image' => 'Dani-LynnE',
             ),
             array(
                 'name'  => 'Elizabeth C.',
@@ -505,18 +498,29 @@ include("includes/navbar.php");
  On March 23, 2017, Eli’s geneticist notified his parents that Eli had been diagnosed with a rare genetic syndrome, called coffin-siris syndrome (CSS). At the time of his diagnosis, his parents were told that there were only 140 documented cases of CSS worldwide and that his syndrome would cause him to have global developmental delays. Since receiving his CSS diagnosis, Eli’s team of medical specialists at UF Health Shands has continued to grow, and now he is additionally followed by a urologist, a pulmonologist, an audiologist, and an endocrinologist. Eli has also had surgeries at UF Health Shands performed by an otolaryngologist, a urologist, and a neurosurgeon, and he continues to be closely monitored by the team.
  
  Eli received outpatient occupational and physical therapy at UF Health Rehab Center for Kids from 1 month old through 29 months of age; he is currently receiving intensive applied behavior analysis therapy and will start preschool in the fall.  Eli’s family is thankful for CMN and DM at UF. During Eli’s hospital stays after surgeries and for overnight assessments, his parents have seen how the money raised is being utilized to access up-to-date equipment for his medical providers and to allow for toys, games, and specialists to keep the children happy and entertained. Eli’s family also loves attending all of the events hosted by CMN and DM, and some of their favorites are Moralloween and the big DM Event. Eli’s family wants to personally thank all of the volunteers and donors who make families like their’s feel loved and supported.',
-                'image' => 'ElijahGonzalez',
+                'image' => 'ElijahG',
             ),
             array(
                 'name'  => 'Emily M.',
                 'description' => 'Emily Monroe was born premature at 23 weeks and started life being blind in her right eye. Eventually, her family started to notice that she was having more trouble seeing and were concerned about the vision in her left eye. Doctors at UF Health Shands Children’s Hospital diagnosed her with uveitis. Despite her diagnosis, Emily  is full of energy and loves the movie Frozen!',
-                'image' => 'EmilyMonroe',
+                'image' => 'EmilyM',
             ),
-
             array(
-                'name'  => 'Hannah S.',
+                 'name'  => 'Fletcher H.',
+                 'description' => 'Fletcher was diagnosed with cancer at the end of February 2017.  We were experiencing all of the feelings and emotions you would expect someone in our situation would; we were simultaneously sad, angry, heartbroken, and had a feeling of being helpless.  The type of cancer that Fletcher was diagnosed with, Burkitt’s, is extremely aggressive. The cancer cells can double every 24 hours and they were doing a number on our boy. Fletcher went from being happy and running around with his sister and friends to being in the PICU on a breathing tube and dialysis in a span of one week.  To be honest when you are at that point, it’s hard to envision a positive outcome. Luckily we were at an amazing place, Shands, with an amazing team of nurses, doctors, and other support staff to help us get through that initial shock to both our minds and Fletcher’s fragile body. Thanks in part to fundraisers, like Dance Marathon, Shands was able to provide Fletcher with the innovative and comprehensive care that he needed.  Dance Marathon raises millions of dollars per year which allows Shands and other Network hospitals to purchase state-of-the-art medical equipment and provides many other enhancements for Fletcher and the more than 8,500 other pediatric patients at Shands. These enhancements not only make their stays in the hospital more comfortable, it also increases their chances of survival. Little by little, hour by hour, day by day, he began to get better. Once he was moved from the PICU to the regular Pediatric Cancer Unit he improved even more.  Despite going through an intense chemo regimen that was referred to as “the kitchen sink approach” Fletcher never flinched. He lost his hair, but simply said, “Mom it’s just hair, it will grow back, and I can’t even see my eyebrows or eyelashes anyway so I don’t care.” It truly is amazing the perspective that children with cancer have. Having spoken with other parents, it’s not something that’s unique to Fletcher, many children seem to have a sense of calm and wisdom about them that is well beyond their years. There were definitely some really hard days, like when Fletcher had seizures, but overall he was making progress and heading in the right direction. Fletcher was right, his hair is growing back.  He completed his last round of chemo on July 23rd and is set to have his central line removed August 30th.  Looking back on everything we went through it feels as though a lifetime of emotion has been compressed into six months and it will take time to process all we’ve been through.  But, Fletcher has a future now, he’ll be going to 1st grade, he’s playing with friends again, and, although those are very common things for a kid his age, it could have easily not happened for him.  We have learned to truly take advantage of and enjoy every day, because life is a gift, a very fragile one, and we are going to celebrate it as much as possible.',
+                 'image' => 'FletcherH',
+            ),
+            array(
+                  'name'  => 'Hadley P.',
+                  'description' => 'When Powie was 2 weeks old, she stopped breathing during her first family outing. She was hospitalized, and that was the first time we heard the words “mitochondrial disease.” The path to diagnosis was long and winding, as mito can be difficult to diagnose, and because there is no effective treatment, we focus on treating her symptoms.
+                                    Powie sees nine specialists at UF Health Shands Children’s Hospital and four specialists elsewhere. Mito is a systematic disease and impacts many of her organ systems. She relies on many medications and several medical interventions to function. The Patterson family is very fortunate that Shands Children’s Hospital has a pediatric gastric stimulator program that has allowed Powie to thrive!
+                                    Powie is now 7 and just entered 2nd grade. We now have the correct supports in place, and she’s truly doing so well! She’s a very typical child who loves school, her siblings, and her puppies! Dance Marathon at UF has become one of her most favorite things in this world!',
+                  'image' => 'HadleyP',
+            ),
+            array(
+                'name'  => 'Hannah & Joel S.',
                 'description' => 'In 2004, Joel Strickland was diagnosed with cystinosis, and Hannah Strickland has since been diagnosed with cystinosis as well. Joel started his treatment at UF Health Shands Children’s Hospital when their family received the news that Joel’s underlying condition caused renal failure, and he would need a kidney transplant. There have been so many little blessings along Joel and Hannah’s recent journey amidst their trials. Child Life has been especially relevant to both Hannah and Joel. Their many specialists have genuinely touched Joel and Hannah’s family.',
-                'image' => 'HannahStrickland',
+                'image' => 'Hannah&JoelS',
             ),
             array(
                 'name'  => 'Isaiah R.',
@@ -524,7 +528,7 @@ include("includes/navbar.php");
  The response was amazing. When the Richardson family arrived at the hospital, they were met by Dr. Sandra Sullivan who advised that Isaiah appeared to have a bacterial infection due to meconium aspiration. However, she believed he should be released within a day or so. Isaiah’s father was starting a new job the next day, and three other children were at home. They were overwhelmed.
  The next morning, a social worker came to visit Isaiah’s mother. The social worker provided her with loads of information regarding what to expect in the hospital and services available through Children\'s Miracle Network. By the second day, Isaiah\'s condition had worsened. While his parents had finally left the hospital to get some rest, Dr. Sullivan called to advise them that they needed to get to the hospital as soon as possible. This was the worst phone call Isaiah’s parents had ever received. When his parents arrived, they were told that Isaiah also had a hole in his heart. The combination of the cardiac and respiratory issues were preventing adequate exchange to sustain life. Doctors wanted to put Isaiah on an extracorporeal membrane oxygenation machine. This surgical procedure would place a tube in Isaiah\'s neck to his heart, which would remove blood that would be replaced by oxygenated blood, which would then be pumped back in.
  Isaiah stayed on the machine for six days. By this time, he had been in the hospital for two weeks, and his oxygen levels were finally improving. He was not able to be released until about two weeks later when Isaiah was able to breathe on his own, the oxygen level stayed consistent, and his blood pressure was controlled. At 5 weeks old, he was finally released. Today, Isaiah is a thriving 7 year old!',
-                'image' => 'IsaiahRichardson',
+                'image' => 'IsaiahR',
             ),
             array(
                 'name'  => 'Izabella N.',
@@ -533,13 +537,13 @@ include("includes/navbar.php");
  Doctors only gave Izabella a 7 month life expectancy. UF Health Shands Children’s Hospital was Izabella’s true savior. The UF Health Congenital Heart Center said that it did not need the risky procedure to put Izabella on the transplant list, and Izabella was transferred to UF Health Shands Children’s Hospital when she was 6 months old. Izabella remained in the PICU at UF Health Shands Children’s Hospital for 9 months until they got “the call.” Izabella received her transplant on January 27, 2013, 417 days after she was born. Izabella is the youngest patient in the Southeast to ever receive a double heart-lung transplant.
  
  On March 20, 2013, after 469 days, Izabella left the hospital for the first time in her life. Doctors told her parents that she would only have a life expectancy of about 7 months, and UF Health Shands Children’s Hospital kept her alive for double her life expectancy until she received the heart and lungs she needed to survive. Many of the machines that kept Izabella alive while she was on life support would not have been there if not for the support the Children’s Miracle Network provides to UF Health. Today, Izabella is a thriving 8 year old who loves gymnastics, swimming, and playing with her three sisters. Doctors didn’t think she would live, walk, talk, or eat normally, but she has continued to amaze them every single step of the way. Her family is endlessly grateful for everything that Children’s Miracle Network and UF Health Shands Children’s Hospital did to save their daughter.',
-                'image' => 'IzabellaNeira',
+                'image' => 'IzabellaN',
             ),
 
             array(
                 'name' => 'Jada T.',
                 'description' => 'In August 2018, Jada Turner was diagnosed with acute myeloid leukemia. On November 17, 2018, she underwent treatment and chemotherapy at UF Health Shands Children’s Hospital. Jada later received a bone marrow transplant and was released from the hospital on December 7th. Jada is now doing well back home in Valdosta, Georgia.',
-                'image' => 'JadaTurner',
+                'image' => 'JadaT',
             ),
 
             array(
@@ -553,14 +557,14 @@ include("includes/navbar.php");
  After getting through the first month of life, both boys were much less critical, though still tiny, and remained at the NICU for two more months.  Jude went home after 81 days, and Oliver went home on his 3 month birthday. Oliver’s PDA resulted in the diagnosis of early chronic lung disease, and he went home requiring supplemental oxygen for two more months. He has struggled with asthma since he was a toddler and had two short hospitalizations at 5 years old. Oliver is followed by pulmonary specialists at UF Health, and his asthma is well managed. Jude has had very little issues since he was a baby.
  
  On July 13, 2019, the boys will turn 8 years old. They are two incredibly energetic, bright boys. Oliver loves science, technology, animals, and sports.  Jude loves history and is very interested in medicine and has called himself Dr. Jude since he was a toddler.',
-                'image' => 'Jude_Oliver Sleeper',
+                'image' => 'Jude&OliverS',
             ),
 
             array(
                 'name' => 'Kaliah E.',
                 'description' => 'Kaliah Edwards was a healthy 8 year old who loved playing various sports such as soccer, volleyball, track, and cheerleading. However, in July 2015, Kaliah woke up with swelling in different parts of her body and had difficulty swallowing due to neck swelling. Kaliah was then diagnosed with nephrotic syndrome. Kaliah had a kidney biopsy and scheduled weekly infusions to help control her edema. In November 2017, Kaliah had her port removed and replaced with a catheter the same day she stated dialysis.
  Today, Kaliah is 13 years old and thriving. The level of care at UF Health Shands Children’s Hospital has exceeded her family’s expectations. Everyone on the staff is thoughtful, supportive, and all around fabulous.',
-                'image' => 'KaliahEdwards',
+                'image' => 'KaliahE',
             ),
             array(
                 'name' => 'Kendall L.',
@@ -573,7 +577,7 @@ include("includes/navbar.php");
   In the spring of 2015, Kendall had a cardiac catheterization done to help the narrowing in her conduit that was occurring due to her immune system not liking the donor tissue. She was placed on another type of Infusion to help stop her body from rejecting her new heart conduit. It didn’t help, but it bought Kendall some time while she had to have a second bowel reconstructive surgery done. In the summer of 2016, at the age of 5, Kendall had to have her third open-heart surgery - sooner than planned. However, as she grows, new things are found. In the spring of 2018, her family found out that Kendall likely had a small stroke after her second open-heart surgery. While the MRI was done to rule out anything serious, it was found that she also has hemiplegic cerebral palsy. It is very minor, and she functions very highly with it.
  
  Kendall is followed by 10 specialty teams at UF Health Shands. It has been Kendall’s family’s home away from home since day one. The Lewis family  loves the pediatric departments at UF Health Shands, and they are thankful for everything Shands  has done for their family.',
-                'image' => 'KendallLewis',
+                'image' => 'KendallL',
             ),
 
             array(
@@ -587,10 +591,10 @@ include("includes/navbar.php");
  On October 5, 2015, the Bogart family was called and told that Kinsey would be getting her kidney transplant. She had previously been on both the kidney and heart transplant list, but with the increased function of her heart, she was taken off of that list. She received her new kidneys on October 6, 2015, and a new journey began. One without the 10 hours of dialysis every day. Her family was hopeful and looking forward to trying to live a somewhat normal life. The kidneys started working immediately, but because her bladder hadn’t had urine in it for 11 years, they had to give Kinsey a vesicostomy.
  
  She did well with a few complications, but earlier this year, her transplanted kidneys began to fail. There was no rejection, but the kidney just started to fibrous. Kinsey is currently back on dialysis and goes to Shands three times a week for four hours for each treatment. She is currently waiting as live donors are being screened for donation. Doctors are also going through past testing to re-diagnose her. With the advancements and new research in the last 15 years, the doctors have decided she doesn\'t have AHUS but a different complement disorder yet to be identified. Kinsey’s family feels blessed to be part of Children’s Miracle Network and Dance Marathon. It has completely changed their lives and helped them deal with things no family should have to. Their story continues, and they rest in the fact that Jesus has already won their battle. When we believe anything is possible, miracles happen.',
-                'image' => 'KinseyBogart',
+                'image' => 'KinseyB',
             ),
             array(
-                'name' => 'Kirstyn T.',
+                'name' => 'Kirstyn & Cason T.',
                 'description' => 'In loving memory
                                                              August 17, 2004 to April 16, 2018
                                                              “Love is a remarkable superpower”
@@ -598,13 +602,31 @@ include("includes/navbar.php");
                                                              #KirstynStrong
  
                                                              Kirstyn’s brother Cason now helps raise funds and awareness for CMN Hospitals through Dance Marathon at UF in honor of his sister.',
-                'image' => 'KirstynTripp',
+                'image' => 'Kirstyn&CasonT',
             ),
+            array(
+                 'name' => 'Loxley S.',
+                 'description' => 'When Loxley was in 7th grade she went to an orthopedic physician for an exam on her knee that had been causing pain. Her doctor, Dr. Walter, then ordered an X-ray which showed the growth of a tumor. Images were then sent to Dr. Gibbs at UF Health Shands who ordered a biopsy, which came back positive for OSTEOSARCOMA, a rare form of bone cancer. Dr. Gibbs confirmed the tumor was malignant. She had to go through 10 preliminary weeks of chemotherapy, then had a major surgery, which consisted of a 19 centimeter femur replacement and a total knee replacement followed by 20 more weeks of chemotherapy. She had to undergo many months of physical therapy that turned into a whole year worth of therapy to work on her leg to get her back to normal activities, some of which at 18, she is still working toward. She had to have 30 total weeks of chemotherapy,  as well as the major surgery to complete her treatment before she was declared in remission.
 
+                                   She had to make sure she was eating, watching what she ate, take handfuls of medicine multiple times a day, make sure she was drinking a lot of liquids, which was difficult when she was constantly being pumped with fluids, feeling nauseous and sick all the time, and not wanting to drink, and even making sure she went to the bathroom. She had to be on a neutropenic diet, and ended up losing a lot of weight and almost had to get a feeding tube. She is now 18 years old, and it\'s been 6 years since her surgery and 5 years and 2 months since she was declared in remission.
+
+                                   Extra facts:
+                                   She was prom queen her senior year of high school
+                                   She went to nationals with the Future Business Leaders of America (FBLA)
+                                   She is in Kappa Delta at Georgia Southwestern State University
+                                   She is a freshman studying Nursing
+
+                                   CAUSE CONNECTED NUMBERS:
+                                   March 29th she rang the cancer free bell!!!!
+                                   October 20th was her major surgery
+                                   It has been 5 years since she rang the bell in 2017
+',
+                 'image' => 'LoxleyS',
+            ),
             array(
                 'name' => 'Max W.',
                 'description' => 'Max Williams was born in Ohio with a congenital heart defect known as hypoplastic left heart syndrome. After his first three surgeries, Max was brought to UF Health Shands Children’s Hospital. In 2002, Max had banding of his pulmonary arteries and PDA stent. In 2003, he had Norwood stage I and stage II procedures. In 2005, Max had an extracardiac Fontan procedure. In 2010, Max had an LPA stent placed and now he is healing great!',
-                'image' => 'MaxWilliams',
+                'image' => 'MaxW',
             ),
             array(
                 'name' => 'Mazzy J.',
@@ -613,18 +635,7 @@ include("includes/navbar.php");
  Mazzy was diagnosed with Hodgkin lymphoma. Her prognosis was good, but she would need to start chemotherapy right away. Mazzy was just starting middle school and was allowed to go to school for a few days before she was readmitted for a number of tests and surgeries, including getting a port in her heart where the chemo would be administered. She missed most of 6th grade in and out of the hospital going through chemotherapy and the aftermath. She responded well to the treatment but never liked the long stays in the hospital. Thankfully, the programs and volunteers always helped make the time go by.
  
  Today, Mazzy is a healthy 15 year old whose huge heart and beautiful smile reminds us what a miracle is every day!',
-                'image' => 'MazzyJester',
-            ),
-            array(
-                'name' => 'McKenna B.',
-                'description' => 'By just looking at her, you would never know that McKenna Brown was diagnosed in utero with multiple complex congenital heart defects. Mckenna’s family was told, at best, to expect the unexpected, and at worst, that McKenna might not live for very long. The doctors at UF Health Shands Children’s Hospital created a plan that would go into action the moment she arrived into this world to give her the very best chance to survive and thrive. When McKenna arrived in November 2008, she proved to be up to the challenge.
- 
- McKenna spent a significant portion of her first six months in the hospital. In Spring 2009, McKenna had her first open-heart surgery, and by late summer, she had recovered. Though McKenna had some initial challenges - such as chewing and speech, her life and her family’s life have only improved since 2009.
- 
- Today, McKenna is a happy, inquisitive, and active 11 year old who brightens the lives of all those around her. While she will likely need future interventions, which are likely to include a heart transplant, McKenna is living and loving life. Even with a baseline oxygen saturation level of about 85, she keeps up well with her classmates and is full of energy. She is courageous, kind and loves adventures.
- 
- Mckenna’s family thanks God everyday for blessing them with the world-class healthcare McKenna receives at Shands Children’s Hospital. The doctors, nurses and healthcare professionals that make up "Team McKenna" have become like an extension of their family. Mckenna’s family is grateful to them. They love them, and they thank God for them every day. In fact, Mckenna’s family moved to Gainesville in 2014 in part to be closer to our team at Shands.',
-                'image' => 'McKennaBrown 2',
+                'image' => 'MazzyJ',
             ),
             array(
                 'name' => 'Nakia F.',
@@ -635,14 +646,18 @@ include("includes/navbar.php");
  This past year Nakia has been experiencing some breathing issues and is now on a continuous positive airway pressure (CPAP) machine to help her breathe due to her tendency to take long pauses and stop breathing. This was yet another hard thing for Nakia’s family, but they have managed thus far. The only option left if this doesn’t work is a tracheotomy, which her family does not want, but they will do whatever is necessary.
  
  Nakia’s latest issue has been seizures, which she started having about two years ago. Her family constantly watches her to check on her health. The situation is scary, but the Farlin family knows God gave Nakia to them for a reason and He will take care of her. Nakia is now 21 years old!',
-                'image' => 'NakiaFarlin',
+                'image' => 'NakiaF',
             ),
             array(
                 'name' => 'Nathan F.',
                 'description' => 'Nate Ferrell was born with a genetic condition called mitochondrial disease, a multi-systemic disease resulting in organ dysfunction. Nate has been a patient of UF Health Shands Children\'s Hospital since his birth. His nine pediatric specialists at Shands ensure that Nate can live a fairly normal life, despite relying heavily on medical equipment and medications to keep his body functioning properly. Because of his amazing medical team and donations to Children\'s Miracle Network Hospitals, Nate is an energetic and joyful middle schooler who loves playing video games, watching YouTube videos, and playing the violin.',
-                'image' => 'NateFerrell',
+                'image' => 'NateF',
             ),
-
+            array(
+                 'name' => 'Nicole M.',
+                 'description' => 'Hello, my name is Nicole Myer and I am a brain cancer survivor! I was just starting my 6th grade year when my cancer was discovered. It all started out with bad and annoying headaches that never really went away. For the previous school year and the first few months of the current school year I was going to the clinic almost every class period of the day. Doing so led the nurses and teachers to believe that I was just trying to get out of class. The morning of September 29th, 2015 I endured the worst possible headache that I’ve ever known. I lost all balance and had to basically be carried to the school clinic. Tears ran down my face as I realized that this was NOT just a headache. My mom came in a few minutes later and wheelchaired me out of the clinic. Our first stop? The guidance office. My mom immediately unenrolled me from the band class I was taking that year, we believed that since I played the baritone, which is a huge instrument almost the size of a tube, it was taking all the air out of me and causing the headaches. We then went to the local doctor’s office where they told us that they wanted us to go over to the hospital and have a CAT scan of my brain. We then went over to the hospital for that scan. The whole time waiting I was in so much fear of what they might find. Moments later they returned with the results, telling my family and I that a tumor was shown on the scan that required immediate attention. They then set us up with an ambulance that took us to Shands Children’s Hospital in Gainesville Florida. They removed the tumor the next morning and my pastor was there with my family and I. After surgery, I awoke in a room full of sad people who told me of my diagnosis. My pastor then prayed with me and left so that I could have some time with my family. The doctor then came into my room and asked if I would like him to speak with my parents outside of the room or if I would like to be included in the conversation. From that moment on I’ve decided to be included in every conversation about my health. Over the next few days I had visitors from my town and school who brought things to comfort me. On the day of my release from the hospital I attended our local middle school football game! Since the discovery of my illness, I have undergone a total of 9-10 surgeries, 9 blood transfusions, and 1 platelet transfusion. I have had to learn how to walk and to use my hands all over again. I have had multiple days of time spent in the hospital, I have made new friends from all over the world, and I have gained a deeper appreciation for the world around me, family members, and friends. Near the end of my chemo treatments there was a discovery of ovarian cancer in my mother, which took us all by surprise. I learned how to be a caretaker. Most of all my mom has been the most important person to me. She not only stayed through all hospital admissions with me, but she never ceased to be the shoulder I had to cry on. She has been my biggest role model in life, and I hope to one day become half of the woman she is. My father has also been very supportive and was the man to help me shave my head when my hair started to fall out in clumps, I will never forget those Peachy O’s I had while sitting in that chair! My brother has stepped up and helped me in all the ways he could have too, he unfortunately had to step back and let me have the attention I needed daily. My oncologist, Doctor G., has been very helpful in the process of my health, being available 24/7 and helping in all ways he has possible. Dance Marathon has been the greatest support of not only me, but all kids like me. All the joy and support of this organization has given me a deeper love for this world, showing me that there is hope for everyone. I am proud to be a part of a great movement, and I can’t wait for what successes come in the future!',
+                 'image' => 'NicoleM',
+                 ),
             array(
                 'name' => 'Owen M.',
                 'description' => 'Owen Maier was born at Munroe Regional Medical Center in Ocala, Florida, on June 10th, 2013 with a congenital heart defect called transposition of the great arteries. In transposition of the great arteries, the aorta and pulmonary arteries are formed on the incorrect atriums, which does not allow for blood to get oxygenated and returned to the body.
@@ -650,26 +665,20 @@ include("includes/navbar.php");
  Owen was born blue. He was immediately placed on a ventilator and a ton of life saving IVs, pumps, and equipment. He was transported within minutes by ShandsCair to UF Health Shands Hospital. He had his first surgery at just 6 hours old, which was a septostomy performed by Dr. Fudge to help sustain Owen until he was stable enough for open-heart surgery to switch the aorta and pulmonary arteries. When Owen was just 2 weeks old, Dr. Bleiweis did open-heart surgery, an operation called the arterial switch. He came home for the first time when he was 2 months old.
  
   Today, Owen is an energetic 7 year old that loves playing with his big brother, Noah!',
-                'image' => 'OwenMaier',
+                'image' => 'OwenM',
             ),
-            array(
-                'name'  => 'Powie P.',
-                'description' => 'When Powie Patterson was 2 weeks old, she stopped breathing during her first family outing. She was hospitalized, and that was the first time we heard the words “mitochondrial disease.” The path to diagnosis was long and winding, as mito can be difficult to diagnose, and because there is no effective treatment, we focus on treating her symptoms.
-         Powie sees nine specialists at UF Health Shands Children’s Hospital and four specialists elsewhere. Mito is a systematic disease and impacts many of her organ systems. She relies on many medications and several medical interventions to function. The Patterson family is very fortunate that Shands Children’s Hospital has a pediatric gastric stimulator program that has allowed Powie to thrive!
-         Powie is now 7 and just entered 2nd grade. We now have the correct supports in place, and she’s truly doing so well! She’s a very typical child who loves school, her siblings, and her puppies! Dance Marathon at UF has become one of her most favorite things in this world!',
-                'image' => 'Hadley(Powie) Patterson',
-            ),
+
 
             array(
                 'name' => 'Sage P.',
                 'description' => 'Sage Pridemore was born with a congenital heart defect called hypoplastic left heart syndrome, which means he was born with half of a heart. The left side of his heart didn’t form properly.  Since birth, Sage has had three open-heart surgeries. These surgeries were to re-route his heart to make the right side do what the left side is supposed to do. This was done to help his heart last as long as possible because one day Sage will need a new heart. Sage is now 12 years old and Dance Marathon at UF 2021 will be Sage’s 11th year as a CMN ambassador!',
-                'image' => 'SagePridemore',
+                'image' => 'SageP',
             ),
 
             array(
                 'name' => 'Wyatt T.',
                 'description' => 'Wyatt Thomas was born with five heart defects. He had a stroke at 3 months old and a heart transplant at 9.5 months old. Wyatt is now a very happy 9 year old who took his second chance at life and ran with it!',
-                'image' => 'WyattThomas',
+                'image' => 'WyattT',
             )
         );
         for ($i = 0; $i < count($kids); $i++) {
