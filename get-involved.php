@@ -421,6 +421,11 @@
         for (i = 0; i < tabcontent.length; i++) {
           tabcontent[i].style.display = "none";
         }
+         // Get all elements with class="tabcontent" and hide them
+    tabcontentSub = document.getElementsByClassName("tabcontent-subtab");
+    for (i = 0; i < tabcontentSub.length; i++) {
+      tabcontentSub[i].style.display = "none";
+    }
        tablinksSub = document.getElementsByClassName("tablinks-subtab");
         for (i = 0; i < tablinksSub.length; i++) {
       tablinksSub[i].className = tablinksSub[i].className.replace(" active", "");
