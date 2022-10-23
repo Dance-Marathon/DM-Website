@@ -67,8 +67,8 @@
 				<li <?php echo ($parent == 'events') ? "class='open'" : ""; ?>>
 					<a href="/events" class="dropdown-toggle">Events</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/campus-events">Campus Events</a></li> -->
-						<!--<li><a href="/dance-marathon">Dance Marathon 2021 </a></li>
+						<li><a href="/campus-events">Campus Events</a></li>
+						<!--<li><a href="/dance-marathon">Dance Marathon 2021 </a></li>-->
 						<!--<li><a href="/dance-marathon-virtual">DM Virtual Event 2021 </a></li>-->
 						<!--<li><a href="/golf-tournament">Golf Tournament</a></li>-->
 						<li><a href="/mini-marathon">Mini-Marathons</a></li>
