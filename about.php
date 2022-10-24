@@ -228,8 +228,8 @@ include("includes/navbar.php");
     <div class="container">
 
         <?php if ($status == "open") { ?>
-            <p><span style="color: #000000">Dance Marathon at the University of Florida is an annual event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, students stay awake and on their feet, if able, to raise money and awareness for Children's Miracle Network Hospitals for the duration of the event. In the 26 years of Dance Marathon at UF's existence, we have </span><span style="color: #F79B63"><b> raised more than $24 million</b> </span><span style="color: #000000">, making it </span><span style="color: #014083"><b> the most successful student-run philanthropy in the southeastern United States </b></span><span style="color: #000000">. In 2021, DM at UF raised a grand total of </span><span style="color: #F79B63"><b>$2,270,311.40</b></span><span style="color: #000000"> for UF Health Shands Children's Hospital, our local Children’s Miracle Network hospital.</span></p>
-            <p><span style="color: #000000">Out of 150,000 yearly patients, UF Health Shands Children’s Hospital sees more than 8,500 pediatric cases each year. </span><span style="color: #014083"><b>All of the funds raised by DM at UF go directly to purchasing state-of-the-art medical equipment, enhancements to make the children’s stay at the hospital more enjoyable, and funding for research grants and educational programs.</b></span></p>
+            <p><span style="color: #000000">Dance Marathon at the University of Florida is a yearlong philanthropic effort benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, students stay awake and on their feet at our annual 26.2 hour event to raise funds and awareness for Children's Miracle Network Hospitals for the duration of the event. In the 29 years of Dance Marathon at UF's existence, we have </span><span style="color: #F79B63"><b> raised more than $28 million</b> </span><span style="color: #000000">, making it </span><span style="color: #014083"><b> the most successful student-run philanthropy in the Southeastern United States. </b></span><span style="color: #000000"> In 2022, DM at UF raised a grand total of </span><span style="color: #F79B63"><b>$2,334,217.21</b></span><span style="color: #000000"> for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital.</span></p>
+            <p><span style="color: #000000">In 2022, UF Health Shands Children's Hosptial treated children from 65 counties in Florida, 42 other states, and 5 other countries. There were 48,994 telehealth visits, 37,789 ER visits, and 277,646 clinic visits. </span><span style="color: #014083"><b>All of the funds raised by DM at UF go directly to purchasing state-of-the-art medical equipment, enhancements to make the children’s stay at the hospital more enjoyable, and funding for research grants and educational programs.</b></span></p>
             <p><span style="color: #000000">Patient care funding provides necessities such as bandages and patient gowns, as well as equipment and hospital improvements to make hospital stays more enjoyable for children and their families. Research funding helps our doctors find solutions for incurable diseases such as cystic fibrosis and cancer, and it allows them to develop life-saving technology and enhanced processes that improve the daily lives of pediatric patients. Education funding supports programs such as Child Life Diversion therapy and goes toward raising funds and awareness for the Children’s Miracle Network.</span></p>
             <p><span style="color: #014083"><b>As we head into our</span> <span style="color: #F79B63">29th year</span><span style="color: #014083">, Dance Marathon at UF is excited to make even more miracles!</b></span></p>
             <!-- Get updated numbers fro how many people visit UF Health-->
@@ -259,7 +259,7 @@ include("includes/navbar.php");
         <!-- <h3><b><span style="color: #000000">WHERE THE MONEY GOES</span></b></h3> -->
         <h3>Where The Money Goes</h3>
         <p>
-            <span style="color: #000000"><b>100%</b> of the funds raised by DM at UF go directly to UF Health Shands Children's Hospital, our local Children Miracle Network hospital. Of these funds, most recently, <b>48%</b> goes to research, <b>10%</b> to education and <b>42%</b> to patient care.</span>
+            <span style="color: #000000"><b>100%</b> of the funds raised by DM at UF go directly to UF Health Shands Children's Hospital, our local Children Miracle Network Hospital. Of these funds, most recently, <b>48%</b> goes to research, <b>10%</b> to education and <b>42%</b> to patient care.</span>
         </p>
         <p><span style="color: #000000">Patient care funding provides necessities such as bandages and patient gowns, as well as life-saving equipment and hospital improvements including the recent expansion of the Neonatal Intensive Care Unit. These funds also provide sleeper sofas for parents, playrooms for children, and Child Life programs, in an effort to make hospital stays more enjoyable for children and their families. Research funding helps our doctors find solutions for incurable diseases such as diabetes, cystic fibrosis, and cancer, and it allows them to develop new technology and enhanced processes that improve the daily lives of pediatric patients. Education funding supports programs such as Child Life Diversion therapy and goes toward raising funds and awareness for the Children’s Miracle Network.</span></p>
 
@@ -274,12 +274,11 @@ include("includes/navbar.php");
         <!--<h3><span style="color: #000000"><b>PARTICIPANTS</b></span></h3>-->
         <h3>Participants</h3>
         <p>
-            <li><span style="color: #000000">Number of Registered Dancers in 2021: <b>640 (maximum capacity with COVID 19)</b></span></li>
-            <li><span style="color: #000000">Number of Captains: <b>469</b></span></li>
-            <li><span style="color: #000000">Number of Emerging Leaders: <b>153</b></span></li>
-            <li><span style="color: #000000">Number of Kirstyn's Krew: <b>27</b></span></li>
-            <li><span style="color: #000000">Number of Participants (including Overall Directors, Captains, Emerging Leaders and Kirstyn's Krew): <b>255</b></span></li><!-- WHAT?! WHERE DID 4,653 COME FROM!!!!-->
-            <li><span style="color: #000000">Number of Miracle Families: <b>46</b></span></li>
+            <li><span style="color: #000000">Number of Registered Dancers in 2022: 1250 </b></span></li>
+            <li><span style="color: #000000">Number of Captains: 467</b></span></li>
+            <li><span style="color: #000000">Number of Emerging Leaders: <b>160</b></span></li>
+            <li><span style="color: #000000">Number of Kirstyn's Krew: <b>53</b></span></li>
+            <li><span style="color: #000000">Number of Miracle Families: <b>56</b></span></li>
             <li><span style="color: #000000">Number of Sponsors: <b>74</b></span></li>
             <li><span style="color: #000000">Most Years as a Dancer: <b>4 years</b></span></li>
             <!--change to exact-->
@@ -294,9 +293,9 @@ include("includes/navbar.php");
                 <b>2,715</b> fundraisers raised at least $1
                 <!--change to exact-->
                 <br />
-                Amount raised in 2021: <b>$2,270,311.40</b>
+                Amount raised in 2022: <b>$2,334,217.21</b>
                 <br />
-                Total amount raised in past 27 years: nearly <b>27 million dollars</b>
+                Total amount raised in past 28 years: over <b>28 million dollars</b>
                 <br />
                 Alumni Contribution: <b>$83,235.89</b>
                 <br />
