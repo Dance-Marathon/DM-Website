@@ -246,7 +246,7 @@ include("includes/navbar.php");
         <div class="subtab">
             <button class="tablinks-subtab" onclick="openSubTab(event, 'marathon')">MINI-MARATHON</button>
             <button class="tablinks-subtab" onclick="openSubTab(event, 'schools')">SCHOOLS</button>
-            <button class="tablinks-subtab" onclick="openSubTab(event, 'zone')">WHAT'S MY ZONE?</button>
+            <!-- <button class="tablinks-subtab" onclick="openSubTab(event, 'zone')">WHAT'S MY ZONE?</button> -->
         </div>
         <div id="marathon" class="tabcontent-subtab">
             <p>24 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of $551,525.33, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
@@ -291,10 +291,10 @@ include("includes/navbar.php");
             </ul>
         </div>
     </div>
-    <div id="zone" class="tabcontent-subtab zone">
+     <div id="zone" class="tabcontent-subtab zone">
         <img src="/assets/images/hsdm/zoningpg1.png" width="697" height="889" title="zoningpg1" alt="zoningpg1" />
 
-    </div>
+    </div> 
 </div>
 </div>
 </div>
