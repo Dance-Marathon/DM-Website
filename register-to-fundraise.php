@@ -422,7 +422,7 @@ Children's Miracle Network<br/>
 <div id="sponsors" class="tabcontent">
 <h2>Sponsor DM at UF</h2>
 <p>Dance Marathon at UF is so thankful for the support of our generous Sponsors! DM at UF offers many different ways to get involved as a Sponsor for our cause, each with various benefits to show our appreciation for your support. Our Sponsorships Team will connect your company with our Organization, along with access to an extensive network of supporters of all ages and demographics.</p>
-<p> For more information, view our sponsorship opportunities <a href="assets/PDFs/2021Sponsorship_Packet copy.pdf" target="_blank">here.</a>
+<p> For more information, view our sponsorship opportunities <a href="assets/PDFs/2023Sponsorship_Packet copy.pdf" target="_blank">here.</a>
 </p>
 <p>If you have any questions, please contact our Sponsorships Overall Director, Alexa Katz, at <a href="mailto:akatz@floridadm.org">akatz@floridadm.org</a></p>
 <div >
@@ -485,7 +485,7 @@ Children's Miracle Network<br/>
 <ul>
 <b><li>What is it?</b> - Soliciting loose change and small dollar donations outside of public places or businesses in order to benefit Dance Marathon at the University of Florida and UF Health Shands Children’s Hospital.</li>
 <b><li>How can I benefit?</b>- The money you raise via these efforts can be credited to your personal fundraising page as you look to raise more money and awareness!</li>
-<b><li>How to do it?</b> - First, obtain specially designed canning buckets from our Sponsorships Team (contact <a href="mailto:ehull@floridadm.org">ehull@floridadm.org</a> for further information). Email, call, or go inside a local business in your hometown and request to speak to the General Manager regarding canning donations. They will be sure and inform you of all the necessary regulations, and allow you to coordinate a time that works for both you and the business. Be sure and show up promptly and dressed in Dance Marathon at UF attire to help spread your message! From there, talk to customers as they leave the business about donating to your cause. No donation is too small and every amount helps make miracles! </li>
+<b><li>How to do it?</b> - First, obtain specially designed canning buckets from our Sponsorships Team (contact <a href="mailto:akatz@floridadm.org">akatz@floridadm.org</a> for further information). Email, call, or go inside a local business in your hometown and request to speak to the General Manager regarding canning donations. They will be sure and inform you of all the necessary regulations, and allow you to coordinate a time that works for both you and the business. Be sure and show up promptly and dressed in Dance Marathon at UF attire to help spread your message! From there, talk to customers as they leave the business about donating to your cause. No donation is too small and every amount helps make miracles! </li>
 </ul>
  
         </div>
