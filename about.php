@@ -252,7 +252,7 @@ include("includes/navbar.php");
         <button class="tablinks-subtab" onclick="openSubTab(event, 'nomen')">NOMENCLATURE</button>
     </div>
     <div id="story" class="tabcontent-subtab">
-        <p>Dance Marathon at UF is a yearlong effort involving community, hospitality and marketing events at local businesses that culminate in our Event each spring where students remain awake and on their feet for 26.2 hours to represent the hardships faced by children battling pediatric illness. DM at UF is one of the three founding Dance Marathon programs in the nation, and since our start we have raised more than $26 million for the miracle children at UF Health Shands Children’s Hospital, our local CMN hospital. Today, Dance Marathon at UF involves 21 Overall Directors, 526 Captains, 160 Emerging Leaders, 44 Sponsors, 5,926 Fundraisers, and over 54,348 total donations.</p>
+        <p>Dance Marathon at UF is a yearlong philanthropic effort that culminates in our Main Event each spring where students remain awake and on their feet for 26.2 hours to represent the hardships faced by children battling pediatric illness. DM at UF is one of the five founding Dance Marathon programs in the nation, and since our start we have raised more than $28 million for the Miracle Children at UF Health Shands Children’s Hospital, our local CMN Hospital. Today, Dance Marathon at UF involves hundreds of internal members and a variety of sponsors and community partners.</p>
     </div>
 
     <div id="fast-facts" class="tabcontent-subtab">
@@ -274,8 +274,8 @@ include("includes/navbar.php");
         <!--<h3><span style="color: #000000"><b>PARTICIPANTS</b></span></h3>-->
         <h3>Participants</h3>
         <p>
-            <li><span style="color: #000000">Number of Registered Dancers in 2022: 1250 </b></span></li>
-            <li><span style="color: #000000">Number of Captains: 467</b></span></li>
+            <li><span style="color: #000000">Number of Registered Dancers in 2022: <b>1250</b> </b></span></li>
+            <li><span style="color: #000000">Number of Captains: <b>467</b></span></li>
             <li><span style="color: #000000">Number of Emerging Leaders: <b>160</b></span></li>
             <li><span style="color: #000000">Number of Kirstyn's Krew: <b>53</b></span></li>
             <li><span style="color: #000000">Number of Miracle Families: <b>56</b></span></li>
