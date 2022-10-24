@@ -14,7 +14,7 @@
                 'fun_fact'                =>  '',
         'favorite_memory'       =>  '',
         'continued'             =>  '',
-        'image'                 =>  'andrew'
+        'image'                 =>  ''
       ),
       array(
         'name'                  =>  'Arie Hariton',
@@ -672,7 +672,7 @@ function openSubTab(evt, storySub) {
 <div id="alum" class="tabcontent">
 <div class="subtab">
     <button class="tablinks-subtab" onclick="openSubTab(event, 'alumni')">ABOUT THE DM ALUMNI</button>
-    <button class="tablinks-subtab" onclick="openSubTab(event, 'dma')">MEET THE DMA BOARD</button>
+<!--    <button class="tablinks-subtab" onclick="openSubTab(event, 'dma')">MEET THE DMA BOARD</button> -->
 </div>
 <div id="alumni" class="tabcontent-subtab">
 <h3>About</h3>
