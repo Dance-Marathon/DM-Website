@@ -357,6 +357,8 @@ include("includes/navbar.php");
     <p>Moralloween is an annual fall fundraiser put on by Dance Marathon at UF, a student-run philanthropy that raises funds and awareness year-round at UF Health Shands Children’s Hospital! Organizations across campus participate by creating booths with activities, candy, and ways to bond with attendees and Miracle Families. Moralloween has a DJ, great food, and is a great way for everyone to get in the Halloween spirit!</p>
     <p>For more information, please contact the Morale Overall Director, Victoria Leary, at <a href="mailto:vleary@floridadm.org">vleary@floridadm.org</a>.</p>
 
+<p> Purchase tickets to our 2022 Moralloween event <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5480" target="_blank">HERE!</a>
+
 </div>
 
 <!--<div id="madness" class="tabcontent"> -->
@@ -374,13 +376,13 @@ include("includes/navbar.php");
 <!-- </div> -->
 <div id="transform" class="tabcontent">
     <h3>Transform Today</h3>
-    Transform Today is our largest fall fundraising effort which lasts 26.2 hours and took place on October 26th-27th this year! Our movement spread throughout our organization, campus and community as our different teams’ colored polos flooded the University of Florida; our participants took the initiative to dedicate their day to raise funds and awareness for patients at UF Health Shands Children’s Hospital. <br></br>
+    Transform Today is our largest fall fundraising effort which lasts 26.2 hours and will take place on October 25th-26th this year! Our movement spread throughout our organization, campus and community as our different teams’ colored polos flooded the University of Florida; our participants took the initiative to dedicate their day to raise funds and awareness for patients at UF Health Shands Children’s Hospital. <br></br>
 
     In efforts to boost engagement and encourage fundraising, we hosted programming at the Reitz Student Union in the Grand Ballroom and North Lawn. Throughout the day, merchandise, fundraising activities and Miracle Stories engaged and connected our members to our cause. We would like to extend a huge thank you to our participants, Alumni and donors for your continuous support throughout the day!<br></br>
 
-    Our overall total, which was raised in just 26.2 hours for our hospital, was <b>$589,484.19! </b> <br></br>
+    Our 2021 total, which was raised in just 26.2 hours for our hospital, was <b>$589,484.19! </b> <br></br>
 
-    We are so eager to continue our efforts throughout this year and make miracles for the families who need it most! Please feel free to watch our Transform Today recap video <a href="https://www.youtube.com/watch?v=re8WypH-GlI&list=PLifN5hH-S4iQe14u-fHpP6cafBRGGPURj&index=7" target"_blank">here</a>.
+    We are so eager to continue our efforts throughout this year and make miracles for the families who need it most! Please feel free to watch our Transform Today recap video from last year <a href="https://www.youtube.com/watch?v=re8WypH-GlI&list=PLifN5hH-S4iQe14u-fHpP6cafBRGGPURj&index=7" target"_blank">here</a>.
     <br></br>
     <h4><i>Why</i></h4>
 
@@ -388,7 +390,7 @@ include("includes/navbar.php");
     <br></br>
     <h4><i>When</i></h2>
 
-        Transform Today 2022 was from 9:00 a.m. on October 26th until 11:12 a.m. on October 27th! </li>
+        Transform Today 2022 is from 9:00 a.m. on October 25th until 11:12 a.m. on October 26th! </li>
         <br></br>
         <h4><i>What</i></h4>
 
@@ -398,9 +400,8 @@ include("includes/navbar.php");
 
         Transform Today is Dance Marathon at the University of Florida’s largest fundraising campaign in the Fall semester. There are a variety of different ways to join our movement and help us transform the lives of our student body, the lives of the children at UF Health Shands Children’s Hospital, and the lives of each other. </br>
 
-        <br>If you are looking to make a financial contribution to support our cause, you can donate using our DonorDrive, linked <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donordrive.donate&EventID=4042" target="_blank">here.</a></br>
-        <br>If you are looking to register to Dance in our 2022 Main Event, you can register to Dance <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">here.</a> All registered Dancers must also create a DonorDrive page, you can do so <a href="https://events.dancemarathon.com/index.cfm?fuseaction=register.start&eventID=4042" target="_blank">here.</a> Dancer registration is only open for the duration of Transform Today. </br>
-        <br>If you are looking for additional resources to help with fundraising on Transform Today, click <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4327" target="_blank">here.</a>
+        <br>If you are looking to make a financial contribution to support our cause, you can donate using our DonorDrive, linked <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.donate&eventID=5233" target="_blank">here.</a></br>
+        <br>If you are looking to register to Dance in our 2023 Main Event, you can register to Dance <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5422" target="_blank">here.</a> All registered Dancers must also create a DonorDrive page, you can do so <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5233" target="_blank">here.</a> Dancer registration is only open for the duration of Transform Today. </br>
         <br></br>
         <h4><i>Hospitality Nights</i></h4>
 
