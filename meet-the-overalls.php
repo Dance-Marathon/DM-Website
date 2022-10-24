@@ -40,7 +40,7 @@
          'fun_fact' => 'This is going to be my 7th year of participating in DM, as I was a part of my high school\'s program for 4 years as well. Shout out VBHS!',
          'favorite_memory' => 'My last Dance Marathon as a high school student. That was the day that solidified my love and passion for this organization and it’s cause. I knew then that this was a movement I wanted to be a part of for the rest of my life. ',
          'motivation' => 'My biggest sources of motivation come from two different places. The first of these is drawn from the courageous Miracle Children and their families that we benefit through this organization. The second source of inspiration stems from the thousands of college students who could be doing a million other things with their time, but instead chose to dedicate their time and efforts to drastically impacting pediatric illness. ',
-         'image' => 'emily1.jpg',
+         'image' => 'emily1.JPG',
         ),
         array(
          'name' => 'Zachary Zelenak',
@@ -54,7 +54,7 @@
          'fun_fact' => 'I am ambidextrous! ',
          'favorite_memory' => 'My favorite Dance Marathon memory comes from two years ago. My fraternity was paired with Kendall \'Miss K\' Lewis and we had the pleasure of getting to know her over the year. One day when we had an ice cream fundraiser for her at Sweet Dreams, and she was complaining about doing her homework, I made her a bet that if she got good marks on her report card then she could \'pie\' me in the face at DM. She never let me live it down throughout the year and constantly reminded me of the bet. She got every perfect marks on her report card, so Kendall and her sister Taylor got to each \'pie\' me at DM with orange and blue pies. I may have been sticky for the rest of the event, but I know they loved every second of it! It\'s the little things that make a difference to these kids, and with that being said Kendall and the Lewis family have become great friends, even family to me! This tradition continues today as well, last year I took three pies from the sass master herself!',
          'motivation' => 'The Kids! What we accomplish for the kids and their families is truly remarkable! The Miracle Children year in and year out continue to be the inspiration for myself and the light upon on our organization. Every time that I hear a Miracle Story or when I get the chance to meet a new Miracle Family brings chills and aspirations for a greater tomorrow. The bravery and strength of the Miracle Children and their families truly inspire me to keep going and keep fighting because even when the odds were against them they didn\'t give up. These children and these families have taught me so many life lessons that I will carry on with for the rest of my life and for that I am forever grateful. Grateful For The Kids, grateful for the families, grateful for the smiles, and grateful for the memories. That\'s what motivates me!',
-         'image' => 'IMG_4889.jpg',
+         'image' => 'zach1.jpg',
         ),
 
         array(
@@ -166,7 +166,7 @@
        'fun_fact' => 'I used to live in New Orleans.',
        'favorite_memory' => 'FTKitchen',
        'motivation' => 'Good music and sunsets',
-       'image' => 'gwyn1.JPG',
+       'image' => 'Gwyn1.JPG',
           ),
          array(
         'name' => 'Amelia Williamson',
