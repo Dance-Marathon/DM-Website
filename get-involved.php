@@ -7,14 +7,14 @@
 
     $overalls = array(
       array(
-        'name'                  =>  'Alexandra "Zandy" Hernandez',
+        'name'                  =>  'Andrew Jensen',
         'email'                 =>  '',
-              'current_city'          =>  'Atlanta, GA',
-        'previous_involvement'  =>  '2015 Recruitment Captain, 2016 Recruitment Assistant Director, 2017 Outreach Overall Director, 2021 DMA Board Member, 2022 DMA President',
-                'fun_fact'                =>  'I ate pizza for dinner for a week straight because I was dedicated to going to the various hospitality nights that week.',
-        'favorite_memory'       =>  'I will never forget standing with my fellow Recruitment Captains during closing ceremonies of Dance Marathon at UF 2015.  When we realized we had raised over $2 million for the first time, we burst into tears and a huge group hug. I would not have wanted to share that moment with anyone else.',
-        'continued'             =>  'My involvement in Dance Marathon shaped me both professionally and personally.  It left such a profound impact on my life that I love sharing with others whenever given the chance.  My time on the DMA Board has provided me with a more hands on opportunity to continue my involvement with DM and raise awareness for the cause.',
-        'image'                 =>  'zandy'
+              'current_city'          =>  '',
+        'previous_involvement'  =>  '',
+                'fun_fact'                =>  '',
+        'favorite_memory'       =>  '',
+        'continued'             =>  '',
+        'image'                 =>  'andrew'
       ),
       array(
         'name'                  =>  'Arie Hariton',
@@ -37,14 +37,14 @@
         'image'                 =>  'kelsey'
       ),
       array(
-                'name'                  =>  'Jonathan Pereyra',
+                'name'                  =>  'Madison Grasty',
                 'email'                 =>  '',
-                'current_city'          =>  'Fort Lauderdale, FL',
-                'previous_involvement'  =>  '2017 Creative Development Captain, 2018 Creative Development Overall',
-                'fun_fact'              =>  'I bleached my hair for DM and my team called me Blondathon.',
-                'favorite_memory'       =>  'Standing behind the Tech booth and being able to watch the event unfold from the best seat in the house.',
-                'continued'             =>  'A little bit of Dance Marathon has been with me since graduation, whether it be continuing app development in my career, attending the event as an alumnus, or reaching out to the current members of Creative Development/Design & Technology and supporting them in whatever way I can.',
-        'image'                 =>  'jonathan'
+                'current_city'          =>  '',
+                'previous_involvement'  =>  '',
+                'fun_fact'              =>  '',
+                'favorite_memory'       =>  '',
+                'continued'             =>  'madison',
+        'image'                 =>  ''
       ),
       array(
                 'name'                  =>  'Jesse Sands',
@@ -651,7 +651,7 @@ function openSubTab(evt, storySub) {
      
      
                  </div>
-                             <p> <b>Want to know more about DM?</b> Submit your information<a href="https://docs.google.com/forms/d/e/1FAIpQLSc1mXWGc9rfL4GL6375p7HDqFhBrqa_GNQENMN9gS-l4tCwdw/viewform"> here</a> and we will reach out to you!</p>
+
 
         <?php } else { echo 'This page is currently closed.'; } ?>
     </div>
@@ -726,7 +726,6 @@ function openSubTab(evt, storySub) {
                     <li>Ability to receive fundraising incentives during the event</li>
                     <li>Access to the Family Room at the event</li>
                     <p><small>*DMA event t-shirt opt-in includes a direct mailing option for those members unable to attend the  event.</small></p>
-                    <p><small>**Dependent on COVID-19 protocols and regulations.</small></p>
                 </ul> <!--
         <h4><b><u><i>Please note:</i></u></b></h4>
         <p>1. As a <b style="color:#f79b63;">Miracle Member</b> of the DMA, you will have the benefit to maintain this status for life. You may elect to upgrade your membership to the new <b style="color:#617ba6;">Legacy Membership</b> as outlined below.</p>
@@ -2521,7 +2520,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
     <div id="orgs" class="tabcontent">
     <h3>Organizations</h3>
 		  <p>Over 100 Organizations at the University of Florida participate in Dance Marathon every year!</p>
-      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Olivia Humbard, at <a href=mailto:ohumbard@floridadm.org>ohumbard@floridadm.org</a></p>
+      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Brandon White, at <a href=mailto:bwhite@floridadm.org>bwhite@floridadm.org</a></p>
       <p>Below are the Organizations currently involved in Dance Marathon at UF 2021:</p>
 
       <table class="table table-bordered table-middle">
@@ -2584,7 +2583,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 </div>
 <div id="community" class="tabcontent-subtab">
 <h3>Meet our Community Partners:</h3>
-                          <p>Meet our Community Partners for the 2021- 2022 year! These non-profit and service organizations help better the lives of those who live in the Gainesville Community, the community which gives so much to Dance Marathon at UF. As an organization whose goal is to create change, we hope to uplift our Community Partners throughout the year.
+                          <p>Meet our Community Partners! These non-profit and service organizations help better the lives of those who live in the Gainesville Community, the community which gives so much to Dance Marathon at UF. As an organization whose goal is to create change, we hope to uplift our Community Partners throughout the year.
                         </p>
                         <div class="col-md-8">
                         </div>
