@@ -8,9 +8,7 @@
 
 
   $overalls = array(
-        array(
-      'image'                 =>  'Blank',
-      ),
+        
       array(
         'name'                  =>  'Amanda De La Vega',
         'position'              =>  'Executive Director',
@@ -25,9 +23,7 @@
         'motivation'            =>  'While my greatest motivation is all of our Miracle Children (obviously!), I am also motivated by every individual that stands and fights For The Kids. While that may seem cliché since there are over 7,000 students on campus fighting For The Kids, each individual truly does inspire me. It is amazing to see college students using their time, effort, and money to raise funds and awareness For The Kids at UF Health Shands Children&#39;s Hospital. The Miracle Children are the most deserving individuals I&#39;ve ever had the privilege to meet, and fighting for them means fighting for their opportunity to have a normal childhood, without weekly treatments, medications, and hospital stays. I believe it is our duty in life to give back to others, and participating in Dance Marathon at the University of Florida is the greatest way to do so.',
         'image'                 =>  'adlv1.JPG',
       ),
-      array(
-      'image'                 =>  'Blank',
-      ),
+      
           array(
          'name' => 'Emily Giles',
          'position' => 'Finance Manager',
@@ -312,12 +308,7 @@
            'image' => 'alexa1.JPG',
          ),
 
-        array(
-      'image'                 =>  'Blank',
-      ),
-        array(
-      'image'                 =>  'Blank',
-      ),
+        
 
 
   );
