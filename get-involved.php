@@ -677,7 +677,7 @@ function openSubTab(evt, storySub) {
 <div id="alumni" class="tabcontent-subtab">
 <h3>About</h3>
 
-<p>Since 1995, Dance Marathon at UF has raised over $26 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>
+<p>Since 1995, Dance Marathon at UF has raised over $28 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>
 <p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, Dance Marathon at UF Alumni gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $40 per year and offers a variety of benefits.</p>
 
             <h3>Get Involved!</h3>
@@ -896,7 +896,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 <li>Input your information and create a new Organization.</li>
 <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing Organization team.</li>
 </ol>
-<p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Clayton Gaulding, at <a href=mailto:cgaulding@floridadm.org>cgaulding@floridadm.org</a> to inform him you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email him to let him know you started a team.</p>
+<p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Kellyn Murphy, at <a href=mailto:kmurphy@floridadm.org>kmurphy@floridadm.org</a> to inform him you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email him to let him know you started a team.</p>
           </div>
     </div>
     <div id="22amb" class="tabcontent-subtab zone">
