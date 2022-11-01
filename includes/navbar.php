@@ -67,8 +67,8 @@
 				<li <?php echo ($parent == 'events') ? "class='open'" : ""; ?>>
 					<a href="/events" class="dropdown-toggle">Events</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/campus-events">Campus Events</a></li> -->
-						<!--<li><a href="/dance-marathon">Dance Marathon 2021 </a></li>
+						<li><a href="/campus-events">Campus Events</a></li>
+						<!--<li><a href="/dance-marathon">Dance Marathon 2021 </a></li>-->
 						<!--<li><a href="/dance-marathon-virtual">DM Virtual Event 2021 </a></li>-->
 						<!--<li><a href="/golf-tournament">Golf Tournament</a></li>-->
 						<li><a href="/mini-marathon">Mini-Marathons</a></li>
@@ -146,7 +146,9 @@
                   <li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fa fa-instagram"></i></a></li>
                   <li><a href="https://twitter.com/floridadm?lang=en"><i class="fa fa-twitter"></i></a></li>
                   <li><a href="https://www.facebook.com/floridaDM/"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="https://www.tiktok.com/t/ZTRF4aWW7/"><i class="fa fa-facebook"></i></a></li>
+				  <li><a href="https://www.tiktok.com/t/ZTRF4aWW7/"><img class="fa" src="../assets\images\Logos\tiktok-iconWhite.webp" style="width:2rem;"/></a></li>
+                  <!--<li><a href="https://www.tiktok.com/t/ZTRF4aWW7/"><i class="fa-brands fa-tiktok"></i></a></li> :: What the code should be provided we had an updated version of Font Awesome, which is where these come from-->
+
               </ul>
             </div><!--/.nav-collapse -->
           </div>

@@ -358,7 +358,7 @@ Children's Miracle Network<br/>
     Important - Please do not fill out any forms sent with checks; instead turn them in directly into the Finance Manager reachable at <a href="mailto:egiles@floridadm.org">egiles@floridadm.org</a>.
   </strong>
 </p>
-
+<!--
 <div id="guide" class="tabcontent">
 
 <div class="subtab">
@@ -405,7 +405,7 @@ Children's Miracle Network<br/>
 <img src="/assets/images/hsdm/zoningpg1.png" width="697" height="889" title="zoningpg1" alt="zoningpg1" />
  
         </div>
-</div>
+</div> -->
 </div>
 </div>
 </div>
@@ -465,10 +465,11 @@ Children's Miracle Network<br/>
      </li>
      <li>A great way to say thanks for becoming part of the DM family! </li>
  </ul>
+ </div>
  
 <div id="tips" class="tabcontent-subtab">
 <h4>Fundraising Tips</h4>
-<!--     <a href="assets/PDFs/Fundraisings.pdf" target="_blank">Fundraising Kit PDF </a><!--     Link this to PDF-->
+<!--     <a href="assets/PDFs/Fundraisings.pdf" target="_blank">Fundraising Kit PDF </a> -->    Link this to PDF-->
 
     <ul>
      <li>Showcase your passion for the cause</li>
@@ -477,6 +478,8 @@ Children's Miracle Network<br/>
      <li>Share videos and photos that help convey the incredible impact you help make</li>
      <li>Offline donations in the form of checks are accepted. Be sure to fill out your name in the memo and make the check out to Children’s Miracle Network.</li>
  </ul>
+ </div>
+
 <div id="canning" class="tabcontent-subtab canning">
 <h4>Canning</h4>
 <ul>
