@@ -66,24 +66,7 @@
 
 				<li <?php echo ($parent == 'events') ? "class='open'" : ""; ?>>
 					<a href="/events" class="dropdown-toggle">Events</a>
-					<ul class="dropdown-menu" role="menu">
-						<!--<li><a href="/campus-events">Campus Events</a></li> -->
-						<!--<li><a href="/dance-marathon">Dance Marathon 2021 </a></li>-->
-						<!--<li><a href="/dance-marathon-virtual">DM Virtual Event 2021 </a></li>-->
-						<!--<li><a href="/golf-tournament">Golf Tournament</a></li>-->
-						<!--<li><a href="/mini-marathon">Mini-Marathons</a></li>-->
-						<!--<li><a href="">Running Event (Coming Soon)</a></li>-->
-						<!--<li><a href="/miracle-gala">Miracle Gala</a></li>-->
-						<!--<li><a href="/Miracles-in-Color-5k">Miracles in Color 5K</a></li>-->
-						<!--<li><a href="/Moralloween">Moralloween</a></li>-->
-						<!--<li><a href="/Moral-Madness">Morale Madness</a></li>-->
-						<!--<li><a href="/transform-today">Transform Today</a></li>-->
-
-						<!-- <li><a href="/ftk-festival">FTK Festival</a></li> -->
-
-
-
-					</ul>
+					
 				</li>
 <!--<li <?php echo ($parent == 'partners') ? "class='open'" : ""; ?>>
                   <a href="/partners" class="dropdown-toggle">Sponsors</a>
