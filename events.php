@@ -332,7 +332,7 @@ include("includes/navbar.php");
 
     <h2>Race Day Info</h2>
 
-    <p>Please arrive 15 minutes before your scheduled run time to sign in. You must fill out the required <a href=https://ufl.qualtrics.com/jfe/form/SV_bj9Q0gkFuj4uKXA>Liability Waiver Form </a> prior to arriving at our 5k. We recommend you fill out this form at the same time as registration and save/screenshot your results. You will be required to show proof of completion when checking in the day of. </p>
+    <p>Please arrive 15 minutes before your scheduled run time to sign in. You must fill out the required <a href=https://ufl.qualtrics.com/jfe/form/SV_3mA8svPgLNm2xMy>Liability Waiver Form </a> prior to arriving at our 5k. We recommend you fill out this form at the same time as registration and save/screenshot your results. You will be required to show proof of completion when checking in the day of. </p>
 
     <p>There is parking available at Flavet Field, but please arrive early to ensure you have time to sign in before your scheduled race. </p>
 
