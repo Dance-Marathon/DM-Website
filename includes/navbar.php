@@ -78,20 +78,11 @@
 				</li>
 				<li <?php echo ($parent == 'fundraising') ? "class='open'" : ""; ?>>
 					<a href="/register-to-fundraise" class="dropdown-toggle">Fundraising</a>
-					<ul class="dropdown-menu" role="menu">
-						<!--<li><a href ="/donordrive">DonorDrive</a></li>-->
-						<!--<li><a href="/employee-matching">Employee Matching</a></li>-->
-						<!--<li><a href="/fundraising-guide">Fundraising Guide</a></li>-->
-						<!--<li><a href="/fundraising_brackets">Organization Impact Levels</a></li>-->
-						<!--<li><a href="/register-to-fundraise">Register to Fundraise</a></li>-->
-					</ul>
+					
 				</li>
 				<li <?php echo ($parent == 'service') ? "class='open'" : ""; ?>>
 					<a href="/service" class="dropdown-toggle">Service</a>
-					<ul class="dropdown-menu" role="menu">
-						<!--<li><a href ="/community-partners">Community Partners</a></li>-->
-						<!--<li><a href="/volunteer-dates">Volunteer Dates</a></li>-->
-					</ul>
+					
 				</li>
 	-->
 <li <?php echo ($parent == 'fundraising') ? "class='open'" : ""; ?>>
