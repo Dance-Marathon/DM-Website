@@ -48,18 +48,18 @@
 
 				<li <?php echo ($parent == 'get-involved') ? "class='open'" : ""; ?>>
 					<a href="/get-involved" class="dropdown-toggle">Get Involved</a>
-					<ul class="dropdown-menu" role="menu">
-						<li><a href="/alumni">Alumni</a></li>
-					  	<li><a href="/applications">Applications</a></li>
-						<li><a href="/ambassadors">Ambassadors</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
-						<li><a href="/organizations">Organizations</a></li>
+					<!--<ul class="dropdown-menu" role="menu">-->
+						<!--<li><a href="/alumni">Alumni</a></li>-->
+					  	<!--<li><a href="/applications">Applications</a></li>-->
+						<!--<li><a href="/ambassadors">Ambassadors</a></li>-->
+						<!--<li><a href="/captain-teams">Captain Teams</a></li>-->
+						<!--<li><a href="/emerging-leaders">Emerging Leaders</a></li>-->
+						<!--<li><a href="/dancers">Dancers</a></li>-->
+						<!--<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>-->
+						<!--<li><a href="/organizations">Organizations</a></li>-->
 
 						<!--	<li><a href="/overall-applications">Overall Applications</a></li>  -->
-					</ul>
+					<!--</ul>-->
 				</li>
 
 
