@@ -35,12 +35,12 @@
 					<a href="/about" class="dropdown-toggle">About</a>
 					<ul class="dropdown-menu" role="menu">
 						<!--<li><a href ="/blog">Blog</a></li>-->
-						<li><a href="/uf-health">CMNH & UF Health</a></li>
-						<li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li>
-						<li><a href="/faq">FAQ</a></li>
-						<li><a href="/meet-the-kids">Meet the Kids</a></li>
-						<li><a href="/our-story">Our Story</a></li>
-						<li><a href="/press-releases">Press Release</a></li>
+						<!--<li><a href="/uf-health">CMNH & UF Health</a></li>-->
+						<!--<li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li>-->
+						<!--<li><a href="/faq">FAQ</a></li>-->
+						<!--<li><a href="/meet-the-kids">Meet the Kids</a></li>-->
+						<!--<li><a href="/our-story">Our Story</a></li>-->
+						<!--<li><a href="/press-releases">Press Release</a></li>-->
 						<!--<li><a href="/dmaa">DMAA</a></li>-->
             			<!--<li><a href="/alumni">Alumni</a></li>-->
 					</ul>
