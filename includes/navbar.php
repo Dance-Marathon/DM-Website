@@ -35,12 +35,7 @@
 					<a href="/about" class="dropdown-toggle">About</a>
 					<ul class="dropdown-menu" role="menu">
 						<!--<li><a href ="/blog">Blog</a></li>-->
-						<li><a href="/uf-health">CMNH & UF Health</a></li>
-						<li><a href="/fastfacts-nomenclature">Fast Facts / Nomenclature</a></li>
-						<li><a href="/faq">FAQ</a></li>
-						<li><a href="/meet-the-kids">Meet the Kids</a></li>
-						<li><a href="/our-story">Our Story</a></li>
-						<li><a href="/press-releases">Press Release</a></li>
+						
 						<!--<li><a href="/dmaa">DMAA</a></li>-->
             			<!--<li><a href="/alumni">Alumni</a></li>-->
 					</ul>
@@ -49,14 +44,7 @@
 				<li <?php echo ($parent == 'get-involved') ? "class='open'" : ""; ?>>
 					<a href="/get-involved" class="dropdown-toggle">Get Involved</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/alumni">Alumni</a></li>
-					  	<li><a href="/applications">Applications</a></li>
-						<li><a href="/ambassadors">Ambassadors</a></li>
-						<li><a href="/captain-teams">Captain Teams</a></li>
-						<li><a href="/emerging-leaders">Emerging Leaders</a></li>
-						<li><a href="/dancers">Dancers</a></li>
-						<li><a href="/kirstynskrew">Kirstyn's Krew</a></li>
-						<li><a href="/organizations">Organizations</a></li>
+						
 
 						<!--	<li><a href="/overall-applications">Overall Applications</a></li>  -->
 					</ul>
@@ -67,17 +55,7 @@
 				<li <?php echo ($parent == 'events') ? "class='open'" : ""; ?>>
 					<a href="/events" class="dropdown-toggle">Events</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/campus-events">Campus Events</a></li>
-						<!--<li><a href="/dance-marathon">Dance Marathon 2021 </a></li>-->
-						<!--<li><a href="/dance-marathon-virtual">DM Virtual Event 2021 </a></li>-->
-						<!--<li><a href="/golf-tournament">Golf Tournament</a></li>-->
-						<li><a href="/mini-marathon">Mini-Marathons</a></li>
-						<!--<li><a href="">Running Event (Coming Soon)</a></li>-->
-						<li><a href="/miracle-gala">Miracle Gala</a></li>
-						<li><a href="/Miracles-in-Color-5k">Miracles in Color 5K</a></li>
-						<li><a href="/Moralloween">Moralloween</a></li>
-						<li><a href="/Moral-Madness">Morale Madness</a></li>
-						<li><a href="/transform-today">Transform Today</a></li>
+						
 
 						<!-- <li><a href="/ftk-festival">FTK Festival</a></li> -->
 
@@ -95,30 +73,17 @@
 				</li>
 				<li <?php echo ($parent == 'fundraising') ? "class='open'" : ""; ?>>
 					<a href="/register-to-fundraise" class="dropdown-toggle">Fundraising</a>
-					<ul class="dropdown-menu" role="menu">
-						<li><a href ="/donordrive">DonorDrive</a></li>
-						<li><a href="/employee-matching">Employee Matching</a></li>
-						<li><a href="/fundraising-guide">Fundraising Guide</a></li>
-						<li><a href="/fundraising_brackets">Organization Impact Levels</a></li>
-						<li><a href="/register-to-fundraise">Register to Fundraise</a></li>
-					</ul>
+					
 				</li>
 				<li <?php echo ($parent == 'service') ? "class='open'" : ""; ?>>
 					<a href="/service" class="dropdown-toggle">Service</a>
-					<ul class="dropdown-menu" role="menu">
-						<li><a href ="/community-partners">Community Partners</a></li>
-						<li><a href="/volunteer-dates">Volunteer Dates</a></li>
-					</ul>
+					
 				</li>
 	-->
 <li <?php echo ($parent == 'fundraising') ? "class='open'" : ""; ?>>
                     <a href="/register-to-fundraise" class="dropdown-toggle">Fundraising</a>
                     <ul class="dropdown-menu" role="menu">
-                        <li><a href ="/donordrive">DonorDrive</a></li>
-                        <li><a href="/employee-matching">Employee Matching</a></li> 
-
-                        <li><a href="/fundraising-guide">Fundraising Guide</a></li>
-<li><a href="/partners">Sponsors</a></li>
+                        
 <!--<li><a href="/fundraising_brackets">Organization Impact Levels</a></li> -->
                         <!--<li><a href="/register-to-fundraise">Register to Fundraise</a></li>-->
                     </ul>
