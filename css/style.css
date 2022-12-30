@@ -11,12 +11,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .slider_title h2, .heading
 	font-family: Oswald, arial, sans-serif;
 }
 .page-heading.parallax h1 {
-  font-family: Aveline, cursive, arial;
+  font-family: CasaPinada, cursive, arial;
 }
 
 @font-face {
-  font-family:"Aveline";
-  src: url("/assets/fonts/AvelineScript.ttf")
+  font-family:"CasaPinada";
+  src: url("/assets/fonts/CasaPinada.otf")
 }
 
 /*
