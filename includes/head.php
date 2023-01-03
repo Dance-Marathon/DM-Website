@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-    <meta name="google-site-verification" content="ki9RqqKjQMiVfq0m5B27mBr2RNGkw-LGnERH374Vd7Y" />
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
@@ -30,7 +29,7 @@
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
         <!-- injector:css -->
-        <link rel="stylesheet" href="/dist/1589383611532/css/DM-Website.min.css">
+        <link rel="stylesheet" href="/dist/1672365213618/css/DM-Website.min.css">
         <!-- endinjector -->
 
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -43,7 +42,7 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
     <!-- injector:js -->
-    <script src="/dist/1589383611532/js/DM-Website.min.js"></script>
+    <script src="/dist/1672365213618/js/DM-Website.min.js"></script>
     <!-- endinjector -->
 
     <script>
