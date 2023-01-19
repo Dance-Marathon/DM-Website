@@ -350,7 +350,7 @@ Children's Miracle Network<br/>
   </ul>
 <p>
   <strong>
-    PLEASE NOTE: Notify Emily Gilaes at <a href="mailto:egiles@floridadm.org">egiles@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
+    PLEASE NOTE: Notify Emily Giles at <a href="mailto:egiles@floridadm.org">egiles@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
   </strong>
 </p>
 <p>
