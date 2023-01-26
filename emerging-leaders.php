@@ -236,7 +236,7 @@ background-image: url("/assets/images/BannerPhotos21/Charles-H-31.jpg");
 	<td>	Lillian Ghozali	</td>
 </tr>
 <tr>
-	<td>	Lilliana  Remilliard	</td>
+	<td>	Liliana  Remillard	</td>
 	<td>	Lily Frank	</td>
 	<td>	Lindsey Davis	</td>
 	<td>	London Taylor	</td>
