@@ -303,10 +303,11 @@ include("includes/navbar.php");
     <h3>Miracle Gala</h3>
     <!-- <p><a href=https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5106>Purchase your tickets here!</a>
 -->
-    <p>Each year, Dance Marathon at UF hosts their Annual Miracle Gala the first night of the Main Event. This year, the Annual Miracle Gala will be held on April 1st, 2023. This year’s Miracle Gala theme is Change Their Future in tribute to our yearlong campaign to #ChooseChange. We hope you will join us to raise funds and awareness for the children at UF Health Shands Children’s Hospital and help Change Their Future.</p>
+    <p>Each year, Dance Marathon at UF hosts their Annual Miracle Gala the first night of the Main Event. This year, the Annual Miracle Gala will be held on April 1st, 2023. This year’s Miracle Gala theme is Imagine the Day in tribute to our yearlong campaign to #ImagineTheDay. We hope you will join us to raise funds and awareness for the children at UF Health Shands Children’s Hospital and help Change Their Future.</p>
     <p>This black-tie event is designed for the Dance Marathon at UF community to celebrate a year of achievements, meet other community members and our Miracle Families, experience fine dining, hear from guest speakers, receive exclusive tours of the Main Event, participate in our Silent Auction, and take part in our Raise the Paddle fundraiser which benefits a participant of the donor’s choice. </p>
     <p>The night will be filled with many Special Guests, including Miracle Families, UF Health Shands Staff, Community Partners, Sponsors, members of our High School Program, Keynote Speakers, an Alumni Spotlight, and more!</p>
-    <p>Ticket sales will be launched shortly! When they become available, they will be found here. </p>
+    <!--<p>Ticket sales will be launched shortly! When they become available, they will be found here. </p>-->
+    <p>Tickets can be purchased <a href=https://dance-marathon-at-uf-510104.square.site/product/general-miracle-gala-ticket/611?cs=true&cst=custom>here</a>.</p>
     <p>For more information or questions about sponsoring the event, please contact the Community Outreach Overall Director, Bridget Richer, at <a href=mailto:bricher@floridadm.org>bricher@floridadm.org</a>. We look forward to seeing you there! </p>
 
 </div>
