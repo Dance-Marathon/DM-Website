@@ -307,7 +307,6 @@ include("includes/navbar.php");
     <p>This semi-formal event is designed for the Dance Marathon at UF community to celebrate a year of achievements and will include a cocktail hour, live music, silent auction, buffet dinner, raise the paddle fundraiser, and programming during which you will hear from Miracle Families and cause-connected speakers.  </p>
     <p>The night will be filled with many Special Guests, including our Ambassador Families, DM at UF parents/families, UF Health Shands Staff, Dance Marathon Alumni, Community Partners, UF Faculty, Sponsors, members of our High School Program, Keynote Speakers, and more!</p>
     <p>Tickets can be purchased <a href=https://dance-marathon-at-uf-510104.square.site/miracle-gala>here</a>. For a limited time only, we are offering group deals for groups of 3 or more. If you purchase 3 tickets, use code ‘gala3’ for 5% off your ticket purchase. For purchases of 4 tickets, use code ‘gala4’ to receive 10% off your total. Lastly, for 5+ tickets, use code ‘gala5’ to receive 15% off your final total!
-    <p>Tickets can be purchased <a href=https://dance-marathon-at-uf-510104.square.site/product/general-miracle-gala-ticket/611?cs=true&cst=custom>here</a>.</p>
     <p>For more information or questions about sponsoring the event, please contact the Community Outreach Overall Director, Bridget Richer, at <a href=mailto:bricher@floridadm.org>bricher@floridadm.org</a>. We look forward to seeing you there! </p>
 
 </div>
