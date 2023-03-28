@@ -2,6 +2,24 @@
   $GLOBALS['page_title'] = 'Dance Marathon at UF';
   include("includes/head.php");
 ?>
+<!-- 
+<script language="JavaScript">
+TargetDate = "2023-04-02T15:05:00";
+BackColor = "FFFFFF";
+ForeColor = "navy";
+CountActive = true;
+CountStepper = -1;
+LeadingZero = true;
+DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds";
+FinishMessage = "Dance Marathon is here!";
+</script>
+<div style="text-align: center;padding: 18px 0;height: 90px">
+  <span style="font-family: CasaPinada;font-size: 40px">
+  <script language="JavaScript" src="https://rhashemian.github.io/js/countdown.js"></script>
+  </span>
+</div>
+-->
+
 <!-- intro -->
 <div class="top">
   <div class="intro">
@@ -22,6 +40,23 @@
 </video>
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
+              <div class="overlay">
+                <script language="JavaScript">
+                  TargetDate = "2023-04-02T15:05:00";
+                  BackColor = "FFFFFF";
+                  ForeColor = "white";
+                  CountActive = true;
+                  CountStepper = -1;
+                  LeadingZero = true;
+                  DisplayFormat = "Countdown to Total Reveal:<br>%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds";
+                  FinishMessage = "Dance Marathon is here!";
+                </script>
+                <div style="text-align: center; height: 510px">
+                  <span style="font-family: CasaPinada;font-size: 50px">
+                  <script language="JavaScript" src="https://rhashemian.github.io/js/countdown.js"></script>
+                  </span>
+                </div>  
+              </div>
               <!-- <div class="col-md-6">
                 <div class="logo">
                   <img src="assets/images/logo_ftk_homepage.png">
@@ -377,4 +412,3 @@
 </div>
 
 <?php include("includes/foot.php"); ?>
-
