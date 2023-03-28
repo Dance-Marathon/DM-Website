@@ -365,6 +365,46 @@ FinishMessage = "Dance Marathon is here!";
             </table>
             <br> -->
           </div>
+          <div class="section">
+    <div class="container">
+        <div >
+           <h2>Theme Hours</h2>
+          <div class="themeHours-section">
+        </div>
+
+    <div id="myCarousel2" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+            <div class="active item">
+                 <img src="assets/images/ThemeHours/themeHours1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
+            </div>
+            <?php
+                $theme_imgs = range(2, 5); // the number of sponsor images we have in sponsorImages folder starting from 2 to 119. (2 is first active image)
+                $i = 2;
+                foreach($theme_imgs as $index)
+                {
+                ?>
+            <div class="item">
+            <img src="assets/images/ThemeHours/themeHours<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
+            </div>
+            <?php
+            $i++;
+            }
+            ?>
+      </div>
+
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel2" data-slide="prev" style="background: none; color: #f79b63;">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+         </a>
+      <a class="right carousel-control" href="#myCarousel2" data-slide="next" style="background: none; color: #014083">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+      </a>
+        </div>
+    </div>
+</div>
 <div class="section">
     <div class="container">
         <div >
