@@ -377,15 +377,17 @@ FinishMessage = "Dance Marathon is here!";
       <div class="carousel-inner">
             <div class="active item">
                  <img src="assets/images/ThemeHours/themeHours1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
-            </div>
+                 <!-- <p style="text-align:center;">theme hour 1</p> -->
+                </div>
             <?php
-                $theme_imgs = range(2, 5); // the number of sponsor images we have in sponsorImages folder starting from 2 to 119. (2 is first active image)
+                $theme_imgs = range(2, 5); // the number of theme images we have in sponsorImages folder starting from 2 to 5. (2 is first active image)
                 $i = 2;
                 foreach($theme_imgs as $index)
                 {
                 ?>
             <div class="item">
             <img src="assets/images/ThemeHours/themeHours<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
+            <!-- <p style="text-align:center;">theme hour <?=$i?></p> -->
             </div>
             <?php
             $i++;
