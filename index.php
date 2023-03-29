@@ -390,7 +390,8 @@ FinishMessage = "Dance Marathon is here!";
           <div class="section">
     <div class="container">
         <div >
-           <h2>Theme Hours</h2>
+           <h2 style= text-align:center;">Main Event Programming</h2>
+           <p style="text-align:center;"></p>
           <div class="themeHours-section">
         </div>
 
@@ -399,8 +400,8 @@ FinishMessage = "Dance Marathon is here!";
       <div class="carousel-inner">
             <div class="active item">
                  <img src="assets/images/ThemeHours/themeHours1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
-                 <p style="text-align:center;">DJ Ben Korn</p>
-                 <p style="text-align:center;">9:30 AM</p>
+                 <p style="text-align:center;"></p>
+                 <p style="font-size: 24px; text-align:center;">DJ Ben Korn <br>9:30 AM</p>
                 </div>
             <?php
                 $theme_imgs = range(1, 17); // the number of theme images we have in sponsorImages folder starting from 2 to 5. (2 is first active image)
@@ -411,9 +412,8 @@ FinishMessage = "Dance Marathon is here!";
                 ?>
             <div class="item">
             <img src="assets/images/ThemeHours/themeHours<?=$j?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
-            <p style="text-align:center;"><?=$events[$i][0]?> </p>
-            <p style="text-align:center;"><?=$events[$i][2]?> </p>
-            <p style="text-align:center;"><?=$events[$i][3]?> </p>
+            <p style="text-align:center;"></p>
+            <p style="font-size: 24px; text-align:center;"><?=$events[$i][0]?> <br><?=$events[$i][2]?> <br><?=$events[$i][3]?> </p>
             </div>
             <?php
             $i++;
@@ -437,7 +437,7 @@ FinishMessage = "Dance Marathon is here!";
 <div class="section">
     <div class="container">
         <div >
-           <h2>Our 2022 Sponsors</h2>
+           <h2 style="text-align:center;">Our 2022 Sponsors</h2>
           <div class="sponsor-section">
         </div>
 
