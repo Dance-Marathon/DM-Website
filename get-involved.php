@@ -631,7 +631,7 @@ function openSubTab(evt, storySub) {
                                     <h4>Get Involved with the Dance Marathon Family</h4>
                                     <p>If you would like to get involved with our organization, check out the list of positions below!</p>
      
-                                           <ul><a><b>Organization:</b></a>     Student Organizations work year-round to support our cause.</ul>
+                                           <ul><b style="color: #014083">Organization:</b>     Student Organizations work year-round to support our cause.</ul>
                          <ul><b>Dancer:</b> Dancers stand on their feet if able for the duration of our Main Event in April to raise funds and awareness for UF Health Shands Children’s Hospital.</ul>
                                              <ul><b>Emerging Leader:</b> Members of our Emerging Leaders Program work alongside the Recruitment Team, providing support to Captain Teams and brainstorming new ideas to ensure a successful future for our organization.</ul>
                          <ul><b>Captain:</b> Captains belong to 1 of 16 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
