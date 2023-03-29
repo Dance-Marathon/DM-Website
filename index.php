@@ -3,22 +3,24 @@
   include("includes/head.php");
 
   $events = array (
-    array("DJ Ben Korn","4-1","9:30 AM", ""),
-    array("NintenDM","4-1","1:45 PM", "Transform the O'Dome into a fantasy world and bring your favorite video game to life!"),
-    array("Jugglers","4-1","4:45 PM", ""),
-    array("PrankeDM","4-1","5:00 PM", "Take April Fools Day to a new level!"),
-    array("Hypnotist","4-1","10:20 PM", ""),
-    array("Apollo","4-1","10:30 PM", "We are over the moon for our third theme hour!"),
-    array("Late Night Losers","4-2","12:00 AM", ""),
-    array("Rave, DJ Briggs","4-2","1:30 AM", ""),
-    array("DJ Gram, Silent Disco","4-2","4:45 AM", ""),
-    array("Yoga Pod","4-2","6:15 AM", ""),
-    array("Gator Band","4-2","7:00 AM", ""),
-    array("Floridance","4-2","7:15 AM", ""),
-    array("Swamp v. Swamp","4-2","7:15 AM", "Choose your team!"),
-    array("Heavy Pedal Band","4-2","10:00 AM", ""),
-    array("FooDM","4-2","10:45 AM", "We hope you're hungry for our final Main Event Theme Hour!"),
-    array("South Bound 441","4-2","12:05 PM", "")
+    array("DJ Ben Korn","4-1","9:30 AM", "", "assets\\images\\ThemeHours\\themeHours1.png"),
+    array("NintenDM","4-1","1:45 PM", "Transform the O'Dome into a fantasy world and bring your favorite video game to life!", "assets\\images\\ThemeHours\\themeHours2.png"),
+    array("DJ Delgado", "4-1", "4:40 PM", "", "assets\\images\\ThemeHours\\themeHours3.png"),
+    array("Jugglers","4-1","4:45 PM", "", "assets\\images\\ThemeHours\\themeHours4.png"),
+    array("PrankeDM","4-1","5:00 PM", "Take April Fools Day to a new level!", "assets\\images\\ThemeHours\\themeHours5.png"),
+    array("Truth Value", "4-1", "9:10 PM", "", "assets\\images\\ThemeHours\\themeHours6.png"),
+    array("Hypnotist","4-1","10:20 PM", "", "assets\\images\\ThemeHours\\themeHours7.png"),
+    array("Apollo","4-1","10:30 PM", "We are over the moon for our third theme hour!", "assets\\images\\ThemeHours\\themeHours8.png"),
+    array("Late Night Losers","4-2","12:00 AM", "", "assets\\images\\ThemeHours\\themeHours9.png"),
+    array("Rave, DJ Briggs","4-2","1:30 AM", "", "assets\\images\\ThemeHours\\themeHours10.png"),
+    array("DJ Gram, Silent Disco","4-2","4:45 AM", "", "assets\\images\\ThemeHours\\themeHours11.png"),
+    array("Yoga Pod","4-2","6:15 AM", "", "assets\\images\\ThemeHours\\themeHours12.png"),
+    array("Gator Band","4-2","7:00 AM", "", "assets\\images\\ThemeHours\\themeHours13.png"),
+    array("Floridance","4-2","7:15 AM", "", "assets\\images\\ThemeHours\\themeHours14.png"),
+    array("Swamp v. Swamp","4-2","7:15 AM", "Choose your team!", "assets\\images\\ThemeHours\themeHours15.png"),
+    array("Heavy Pedal Band","4-2","10:00 AM", "", "assets\\images\\ThemeHours\\themeHours16.png"),
+    array("FooDM","4-2","10:45 AM", "We hope you're hungry for our final Main Event Theme Hour!", "assets\\images\\ThemeHours\\themeHours27png"),
+    array("South Bound 441","4-2","12:05 PM", "", "assets\\images\\ThemeHours\\themeHours18.png")
   );
 ?>
 <!-- 
@@ -401,19 +403,21 @@ FinishMessage = "Dance Marathon is here!";
                  <p style="text-align:center;">9:30 AM</p>
                 </div>
             <?php
-                $theme_imgs = range(2, 5); // the number of theme images we have in sponsorImages folder starting from 2 to 5. (2 is first active image)
-                $i = 2;
+                $theme_imgs = range(1, 17); // the number of theme images we have in sponsorImages folder starting from 2 to 5. (2 is first active image)
+                $i = 1;
+                $j = 2;
                 foreach($theme_imgs as $index)
                 {
                 ?>
             <div class="item">
-            <img src="assets/images/ThemeHours/themeHours<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
+            <img src="assets/images/ThemeHours/themeHours<?=$j?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
             <p style="text-align:center;"><?=$events[$i][0]?> </p>
             <p style="text-align:center;"><?=$events[$i][2]?> </p>
             <p style="text-align:center;"><?=$events[$i][3]?> </p>
             </div>
             <?php
             $i++;
+            $j++;
             }
             ?>
       </div>
