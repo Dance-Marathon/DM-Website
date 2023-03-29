@@ -395,11 +395,11 @@ FinishMessage = "Dance Marathon is here!";
           <div class="themeHours-section">
         </div>
 
-    <div id="myCarousel2" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
+    <div id="eventCarousel" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
             <div class="active item">
-                 <img src="assets/images/ThemeHours/themeHours1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
+                 <img src="assets/images/ThemeHours/themeHours1.png" alt="Event Logo" style = "margin: auto; max-height: 400px; display: block;">
                  <p style="text-align:center;"></p>
                  <p style="font-size: 24px; text-align:center;">DJ Ben Korn <br>9:30 AM</p>
                 </div>
@@ -411,7 +411,7 @@ FinishMessage = "Dance Marathon is here!";
                 {
                 ?>
             <div class="item">
-            <img src="assets/images/ThemeHours/themeHours<?=$j?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
+            <img src="assets/images/ThemeHours/themeHours<?=$j?>.png" alt="Event Logos" style = "margin: auto; max-height: 400px; display: block;">
             <p style="text-align:center;"></p>
             <p style="font-size: 24px; text-align:center;"><?=$events[$i][0]?> <br><?=$events[$i][2]?> <br><?=$events[$i][3]?> </p>
             </div>
@@ -423,11 +423,11 @@ FinishMessage = "Dance Marathon is here!";
       </div>
 
       <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel2" data-slide="prev" style="background: none; color: #f79b63;">
+      <a class="left carousel-control" href="#eventCarousel" data-slide="prev" style="background: none; color: #f79b63;">
         <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Previous</span>
          </a>
-      <a class="right carousel-control" href="#myCarousel2" data-slide="next" style="background: none; color: #014083">
+      <a class="right carousel-control" href="#eventCarousel" data-slide="next" style="background: none; color: #014083">
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
       </a>
@@ -441,7 +441,7 @@ FinishMessage = "Dance Marathon is here!";
           <div class="sponsor-section">
         </div>
 
-    <div id="myCarousel" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
+    <div id="sponsorCarousel" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
             <div class="active item">
@@ -463,11 +463,11 @@ FinishMessage = "Dance Marathon is here!";
       </div>
 
       <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #f79b63;">
+      <a class="left carousel-control" href="#sponsorCarousel" data-slide="prev" style="background: none; color: #f79b63;">
         <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Previous</span>
          </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #014083">
+      <a class="right carousel-control" href="#sponsorCarousel" data-slide="next" style="background: none; color: #014083">
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
       </a>
