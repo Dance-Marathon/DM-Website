@@ -397,7 +397,8 @@ FinishMessage = "Dance Marathon is here!";
       <div class="carousel-inner">
             <div class="active item">
                  <img src="assets/images/ThemeHours/themeHours1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
-                 <!-- <p style="text-align:center;">theme hour 1</p> -->
+                 <p style="text-align:center;">DJ Ben Korn</p>
+                 <p style="text-align:center;">9:30 AM</p>
                 </div>
             <?php
                 $theme_imgs = range(2, 5); // the number of theme images we have in sponsorImages folder starting from 2 to 5. (2 is first active image)
@@ -407,7 +408,9 @@ FinishMessage = "Dance Marathon is here!";
                 ?>
             <div class="item">
             <img src="assets/images/ThemeHours/themeHours<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
-            <!-- <p style="text-align:center;">theme hour <?=$i?></p> -->
+            <p style="text-align:center;"><?=$events[$i][0]?> </p>
+            <p style="text-align:center;"><?=$events[$i][2]?> </p>
+            <p style="text-align:center;"><?=$events[$i][3]?> </p>
             </div>
             <?php
             $i++;
