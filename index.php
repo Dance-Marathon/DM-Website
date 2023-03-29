@@ -1,6 +1,25 @@
 <?php
   $GLOBALS['page_title'] = 'Dance Marathon at UF';
   include("includes/head.php");
+
+  $events = array (
+    array("DJ Ben Korn","4-1","9:30 AM", ""),
+    array("NintenDM","4-1","1:45 PM", "Transform the O'Dome into a fantasy world and bring your favorite video game to life!"),
+    array("Jugglers","4-1","4:45 PM", ""),
+    array("PrankeDM","4-1","5:00 PM", "Take April Fools Day to a new level!"),
+    array("Hypnotist","4-1","10:20 PM", ""),
+    array("Apollo","4-1","10:30 PM", "We are over the moon for our third theme hour!"),
+    array("Late Night Losers","4-2","12:00 AM", ""),
+    array("Rave, DJ Briggs","4-2","1:30 AM", ""),
+    array("DJ Gram, Silent Disco","4-2","4:45 AM", ""),
+    array("Yoga Pod","4-2","6:15 AM", ""),
+    array("Gator Band","4-2","7:00 AM", ""),
+    array("Floridance","4-2","7:15 AM", ""),
+    array("Swamp v. Swamp","4-2","7:15 AM", "Choose your team!"),
+    array("Heavy Pedal Band","4-2","10:00 AM", ""),
+    array("FooDM","4-2","10:45 AM", "We hope you're hungry for our final Main Event Theme Hour!"),
+    array("South Bound 441","4-2","12:05 PM", "")
+  );
 ?>
 <!-- 
 <script language="JavaScript">
@@ -332,6 +351,7 @@ FinishMessage = "Dance Marathon is here!";
     </div>
   </div>
 </div>
+
 <!--
 <div class="education">
   <div class="container text-center">
@@ -377,7 +397,8 @@ FinishMessage = "Dance Marathon is here!";
       <div class="carousel-inner">
             <div class="active item">
                  <img src="assets/images/ThemeHours/themeHours1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
-                 <!-- <p style="text-align:center;">theme hour 1</p> -->
+                 <p style="text-align:center;">DJ Ben Korn</p>
+                 <p style="text-align:center;">9:30 AM</p>
                 </div>
             <?php
                 $theme_imgs = range(2, 5); // the number of theme images we have in sponsorImages folder starting from 2 to 5. (2 is first active image)
@@ -387,7 +408,9 @@ FinishMessage = "Dance Marathon is here!";
                 ?>
             <div class="item">
             <img src="assets/images/ThemeHours/themeHours<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
-            <!-- <p style="text-align:center;">theme hour <?=$i?></p> -->
+            <p style="text-align:center;"><?=$events[$i][0]?> </p>
+            <p style="text-align:center;"><?=$events[$i][2]?> </p>
+            <p style="text-align:center;"><?=$events[$i][3]?> </p>
             </div>
             <?php
             $i++;
