@@ -12,7 +12,7 @@
     array("Hypnotist","4-1","10:20 PM", "", "assets\\images\\ThemeHours\\themeHours7.png"),
     array("Apollo","4-1","10:30 PM", "We are over the moon for our third theme hour!", "assets\\images\\ThemeHours\\themeHours8.png"),
     array("Late Night Losers","4-2","12:00 AM", "", "assets\\images\\ThemeHours\\themeHours9.png"),
-    array("Rave, DJ Briggs","4-2","1:30 AM", "", "assets\\images\\ThemeHours\\themeHours10.PNG"),
+    array("Rave, DJ Briggs","4-2","1:30 AM", "", "assets\\images\\ThemeHours\\themeHours10.png"),
     array("DJ Gram, Silent Disco","4-2","4:45 AM", "", "assets\\images\\ThemeHours\\themeHours11.png"),
     array("Yoga Pod","4-2","6:15 AM", "", "assets\\images\\ThemeHours\\themeHours12.png"),
     array("Gator Band","4-2","7:00 AM", "", "assets\\images\\ThemeHours\\themeHours13.png"),
