@@ -1,46 +1,7 @@
 <?php
   $GLOBALS['page_title'] = 'Dance Marathon at UF';
   include("includes/head.php");
-
-  $events = array (
-    array("DJ Ben Korn","4-1","9:30 AM", "", "assets\\images\\ThemeHours\\themeHours1.png"),
-    array("NintenDM","4-1","1:45 PM", "Transform the O'Dome into a fantasy world and bring your favorite video game to life!", "assets\\images\\ThemeHours\\themeHours2.png"),
-    array("DJ Delgado", "4-1", "4:40 PM", "", "assets\\images\\ThemeHours\\themeHours3.png"),
-    array("Jugglers","4-1","4:45 PM", "", "assets\\images\\ThemeHours\\themeHours4.png"),
-    array("PrankeDM","4-1","5:00 PM", "Take April Fools Day to a new level!", "assets\\images\\ThemeHours\\themeHours5.png"),
-    array("Truth Value", "4-1", "9:10 PM", "", "assets\\images\\ThemeHours\\themeHours6.png"),
-    array("Hypnotist","4-1","10:20 PM", "", "assets\\images\\ThemeHours\\themeHours7.png"),
-    array("Apollo","4-1","10:30 PM", "We are over the moon for our third theme hour!", "assets\\images\\ThemeHours\\themeHours8.png"),
-    array("Late Night Losers","4-2","12:00 AM", "", "assets\\images\\ThemeHours\\themeHours9.png"),
-    array("Rave, DJ Briggs","4-2","1:30 AM", "", "assets\\images\\ThemeHours\\themeHours10.png"),
-    array("DJ Gram, Silent Disco","4-2","4:45 AM", "", "assets\\images\\ThemeHours\\themeHours11.png"),
-    array("Yoga Pod","4-2","6:15 AM", "", "assets\\images\\ThemeHours\\themeHours12.png"),
-    array("Gator Band","4-2","7:00 AM", "", "assets\\images\\ThemeHours\\themeHours13.png"),
-    array("Floridance","4-2","7:15 AM", "", "assets\\images\\ThemeHours\\themeHours14.png"),
-    array("Swamp v. Swamp","4-2","7:15 AM", "Choose your team!", "assets\\images\\ThemeHours\themeHours15.png"),
-    array("Heavy Pedal Band","4-2","10:00 AM", "", "assets\\images\\ThemeHours\\themeHours16.png"),
-    array("FooDM","4-2","10:45 AM", "We hope you're hungry for our final Main Event Theme Hour!", "assets\\images\\ThemeHours\\themeHours27png"),
-    array("South Bound 441","4-2","12:05 PM", "", "assets\\images\\ThemeHours\\themeHours18.png")
-  );
 ?>
-<!-- 
-<script language="JavaScript">
-TargetDate = "2023-04-02T15:05:00";
-BackColor = "FFFFFF";
-ForeColor = "navy";
-CountActive = true;
-CountStepper = -1;
-LeadingZero = true;
-DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds";
-FinishMessage = "Dance Marathon is here!";
-</script>
-<div style="text-align: center;padding: 18px 0;height: 90px">
-  <span style="font-family: CasaPinada;font-size: 40px">
-  <script language="JavaScript" src="https://rhashemian.github.io/js/countdown.js"></script>
-  </span>
-</div>
--->
-
 <!-- intro -->
 <div class="top">
   <div class="intro">
@@ -61,23 +22,6 @@ FinishMessage = "Dance Marathon is here!";
 </video>
           <div class="carousel-caption text-center">
             <div class="row animate_fade_in">
-              <div class="overlay">
-                <script language="JavaScript">
-                  TargetDate = "2023-04-02T15:05:00";
-                  BackColor = "FFFFFF";
-                  ForeColor = "white";
-                  CountActive = true;
-                  CountStepper = -1;
-                  LeadingZero = true;
-                  DisplayFormat = "Countdown to Total Reveal:<br>%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds";
-                  FinishMessage = "Dance Marathon is here!";
-                </script>
-                <div style="text-align: center; height: 510px">
-                  <span style="font-family: CasaPinada;font-size: 50px">
-                  <script language="JavaScript" src="https://rhashemian.github.io/js/countdown.js"></script>
-                  </span>
-                </div>  
-              </div>
               <!-- <div class="col-md-6">
                 <div class="logo">
                   <img src="assets/images/logo_ftk_homepage.png">
@@ -262,7 +206,7 @@ FinishMessage = "Dance Marathon is here!";
 
     </div>
 
-    <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeastern United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#617ba6;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 29th year of Dance Marathon at UF, having fundraised over $28,000,000 thus far. This past year, we celebrated our 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
+    <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#617ba6;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 29th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
 </b></a>
 </i></p>
 
@@ -278,7 +222,7 @@ FinishMessage = "Dance Marathon is here!";
 <img class="fa icon" src="../assets\images\Logos\book 1.jpg" style="position:relative; left:45%"/>
                 <h3>Our Story</h3>
                 <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $28 million for the Miracle Families UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
-                <!--<p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>-->
+                <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
               </div>
      
                     <div class="col-md-3", style="width: 33%;">
@@ -286,14 +230,14 @@ FinishMessage = "Dance Marathon is here!";
                 <h3>CMN Hospitals<br>& UF Health</h3>
                 <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
               <!--Update this information, we are highter than when we made this website -->
-                <!--<p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>-->
+                <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
               </div>
 
               <div class="col-md-3", style="width: 33%;">
                    <i class="fa fa-heart"></i>
                 <h3>Miracle Families</h3>
                 <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
-                <!--<p><a class="btn btn-default" href="family" role="button">Learn More</a></p>-->
+                <p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
               </div>
             </div>
             </div>
@@ -353,7 +297,6 @@ FinishMessage = "Dance Marathon is here!";
     </div>
   </div>
 </div>
-
 <!--
 <div class="education">
   <div class="container text-center">
@@ -387,61 +330,14 @@ FinishMessage = "Dance Marathon is here!";
             </table>
             <br> -->
           </div>
-          <div class="section">
-    <div class="container">
-        <div >
-           <h2 style= text-align:center;">Main Event Programming</h2>
-           <p style="text-align:center;"></p>
-          <div class="themeHours-section">
-        </div>
-
-    <div id="eventCarousel" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
-      <!-- Wrapper for slides -->
-      <div class="carousel-inner">
-            <div class="active item">
-                 <img src="assets/images/ThemeHours/themeHours1.png" alt="Event Logo" style = "margin: auto; max-height: 400px; display: block;">
-                 <p style="text-align:center;"></p>
-                 <p style="font-size: 24px; text-align:center;">DJ Ben Korn <br>9:30 AM</p>
-                </div>
-            <?php
-                $theme_imgs = range(1, 17); // the number of theme images we have in sponsorImages folder starting from 2 to 5. (2 is first active image)
-                $i = 1;
-                $j = 2;
-                foreach($theme_imgs as $index)
-                {
-                ?>
-            <div class="item">
-            <img src="assets/images/ThemeHours/themeHours<?=$j?>.png" alt="Event Logos" style = "margin: auto; max-height: 400px; display: block;">
-            <p style="text-align:center;"></p>
-            <p style="font-size: 24px; text-align:center;"><?=$events[$i][0]?> <br><?=$events[$i][2]?> <br><?=$events[$i][3]?> </p>
-            </div>
-            <?php
-            $i++;
-            $j++;
-            }
-            ?>
-      </div>
-
-      <!-- Left and right controls -->
-      <a class="left carousel-control" href="#eventCarousel" data-slide="prev" style="background: none; color: #f79b63;">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        <span class="sr-only">Previous</span>
-         </a>
-      <a class="right carousel-control" href="#eventCarousel" data-slide="next" style="background: none; color: #014083">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
-      </a>
-        </div>
-    </div>
-</div>
 <div class="section">
     <div class="container">
         <div >
-           <h2 style="text-align:center;">Our 2022 Sponsors</h2>
+           <h2>Our 2022 Sponsors</h2>
           <div class="sponsor-section">
         </div>
 
-    <div id="sponsorCarousel" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" style = "width: 700px, margin: auto">
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
             <div class="active item">
@@ -463,11 +359,11 @@ FinishMessage = "Dance Marathon is here!";
       </div>
 
       <!-- Left and right controls -->
-      <a class="left carousel-control" href="#sponsorCarousel" data-slide="prev" style="background: none; color: #f79b63;">
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #f79b63;">
         <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Previous</span>
          </a>
-      <a class="right carousel-control" href="#sponsorCarousel" data-slide="next" style="background: none; color: #014083">
+      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #014083">
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
       </a>
