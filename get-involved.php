@@ -821,7 +821,7 @@ for($i = 0; $i < count($overalls); $i++) {
 <div id="apps" class="tabcontent">
 <h3>Applications </h3>
 <br>Thank you for your interest in Dance Marathon at the University of Florida 2023.</br>
-<br>The online application forms are linked below. In order to be considered for a a Captain, ELP, or Ambassador position, you must:,</br>
+<br>The online application forms are linked below. In order to be considered for an Assistant Director, Captain, ELP, or Ambassador position, you must:,</br>
 <ul>
    <li>Complete the online application form</li>
    <li>Create a DonorDrive personal fundraising page</li>
