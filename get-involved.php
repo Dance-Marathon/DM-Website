@@ -1225,7 +1225,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 		<h4><b>Assistant Director of External Design</b></h4>
               Jordan Corina
               <h4><b>Assistant Director of Technology</b></h4>
-              Hailey Paek
+              poopie
               <h4><b>Assistant Director of Internal Affairs</b></h4>
               Anderson Allen
               <h4>  <b> Captains</b></h4> 
