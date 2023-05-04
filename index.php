@@ -229,7 +229,7 @@
                 <i class="fa icon-balloon"></i>
                 <h3>CMN Hospitals<br>& UF Health</h3>
                 <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
-              <!--Update this information, we are highter than when we made this website -->
+              <!--Update this information, we are higher than when we made this website -->
                 <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
               </div>
 
