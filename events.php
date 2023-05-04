@@ -235,7 +235,7 @@ include("includes/navbar.php");
     <div id="dance" class="tabcontent">
         <h3>Main Event</h3>
         <p>Our Main Event is a 26.2-hour event held in the Stephen O’Connell Center, or as we like to call it, the O’Dome! During the Main Event, we celebrate all of our members and miracles made throughout the year. It is jam-packed full of entertainment, fundraising pushes, stories from Miracle Families, ceremonies, theme hours, a rave, and of course, the Linedance! Our Dancers will stand for the entire duration to symbolize our cause and the impact that we are making on the lives of children with pediatric illnesses at UF Health Shands Children’s Hospital. At the end of our event we will get to witness the reveal of the total amount raised by Dance Marathon over the whole year.</p>
-        <p>We are so excited to announce that the main event this year will be April 1-2, 2023!</p>
+        <!--<p><We are so excited to announce that the main event this year will be April 1-2, 2023!</p>-->
 
         <p>Follow us on social media for event updates!</p>
         <p>For additional questions, email <a href=mailto:mainevent@floridadm.org>mainevent@floridadm.org</a>.</p>
