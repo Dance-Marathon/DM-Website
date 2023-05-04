@@ -80,7 +80,7 @@ function openSubTab(evt, storySub) {
     }
     /* Create an active/current tablink class */
     .tab button.active {
-        background-color: #4070A2;
+        background-color: #233563;
         margin-bottom: 0%;
     }
     /* Style the tab content */
