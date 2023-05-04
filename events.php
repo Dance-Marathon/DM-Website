@@ -269,7 +269,6 @@ include("includes/navbar.php");
                 <li>North Marion High School</li>
                 <li>Oak Hall High School</li>
                 <li>Olympic Heights Community High School</li>
-                <li>Palm Beach Central High School</li>
                 <li>Park Vista Community High School</li>
                 <li>Saint Andrew's High School</li>
                 <li>Seminole Ridge Community High School</li>
