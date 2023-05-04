@@ -668,7 +668,7 @@ function openSubTab(evt, storySub) {
         <button class="tablinks" onclick="openCity(event, 'orgs')">ORGANIZATIONS</button>
         <button class="tablinks" onclick="openCity(event, 'service')">SERVICE</button>
     </div>
-    
+    <div id="alum" class="tabcontent">
 <h3>About</h3>
 
 <p>Since 1995, Dance Marathon at UF has raised over $30 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>
