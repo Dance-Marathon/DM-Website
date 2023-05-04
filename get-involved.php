@@ -2496,7 +2496,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
             <p></p>
             <p>You have the option to register to Dance as an individual. When registering to Dance, it will ask you which Organization you are participating with, and there will be an option that says “Participating as an Individual.” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
             <p>Individual Dancers are placed on a team called Gator Aides. Being a part of Gator Aides will allow you to make connections with other individual Dancers as well as our Miracle Children. Gator Aides have additional opportunities, meetings, and events throughout the year you can choose to attend that will allow you to become even more involved in our cause. </p>
-            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Mary Kate Arbuckle, at <a href="mailto:marbuckle@floridadm.org">marbuckle@floridadm.org</a> .</p>
+            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Mary Kate Arbuckle, at <a href="mailto:marbuckle@floridadm.org">marbuckle@floridadm.org</a>.</p>
           </div>
 
 </div>
@@ -2509,7 +2509,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                     <p>Kirstyn’s Krew is a program that honors Kirstyn Tripp, our Miracle Child who lost her battle to childhood illness in 2018. Kirstyn's Krew allows students to experience Dance Marathon at the University of Florida from a different perspective and learn more about our fight to end pediatric illness. </p>
                     <p>As a member of Kirstyn’s Krew, throughout the year, participants will experience all that Dance Marathon at UF has to offer and celebrate the Miracles we make together for the children at UF Health Shands Children's Hospital. You will have the opportunity to participate in all DM at UF events, as well as events only open to Kirstyn's Krew, such as bonding events with the Tripp Family.</p>
                     <p>At the Main Event, you will be permitted to attend a 6-hour shift on either March 26th or March 27th. The shift will consist of a private teaching of the Linedance by our Morale team, various activities around the O’Dome, and an opportunity to hear from and get to know Kirstyn’s family. Kirstyn’s Krew will have a rolling application that requires a $13 minimum fundraising amount on your personal fundraising page. The $13 is raised in honor of her life and the amazing impact she made on our Organization and everyone in her life.</p>
-                    <p> Please email Brandon White, Recruitment Overall Director, at <a href=mailto:bwhite@floridadm.org>bwhite@floridadm.org</a> with any questions! </p>
+                    <p> Please email Mary Kate Arbuckle, Recruitment Overall Director, at <a href=mailto:marbuckle@floridadm.org>marbuckle@floridadm.org</a> with any questions! </p>
                     
                     <p><i> *Note: You cannot be on Kirstyn’s Krew and a Dance Marathon Captain Team. </i></p>
                     <!-- This is the Just copy and paste the 2018 link here with updating the words -->
@@ -2521,7 +2521,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
     <div id="orgs" class="tabcontent">
     <h3>Organizations</h3>
 		  <p>Over 100 Organizations at the University of Florida participate in Dance Marathon every year!</p>
-      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Brandon White, at <a href=mailto:bwhite@floridadm.org>bwhite@floridadm.org</a></p>
+      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Mary Kate Arbuckle, at <a href=mailto:marbuckle@floridadm.org>marbuckle@floridadm.org</a>.</p>
       <p>Below are the Organizations currently involved in Dance Marathon at UF 2021:</p>
 
       <table class="table table-bordered table-middle">
@@ -2566,8 +2566,8 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 <div id="serve" class="tabcontent-subtab">
 <h3>Service</h3>
                         <p>Dance Marathon at UF aims to support the community which gives so much to our cause by uplifting local non-profits and service organizations, our Community Partners,  throughout the year! DM at UF offers service opportunities for our members to engage with these Community Partners year round and earn spirit points. </p>
-                        <p>If you are interested in becoming a Community Partner or have any questions, please contact our Community Outreach Overall Director, Bridget Richer at
-                        <a href="mailto:bricher@floridadm.org">bricher@floridadm.org</a>.</p>
+                        <p>If you are interested in becoming a Community Partner or have any questions, please contact our Community Outreach Overall Director, Aria Patel at
+                        <a href="mailto:apatel@floridadm.org">apatel@floridadm.org</a>.</p>
   </div>
 </div>
 
