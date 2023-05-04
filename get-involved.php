@@ -634,9 +634,9 @@ function openSubTab(evt, storySub) {
                                            <ul><b style="color: #014083">Organization:</b>     Student Organizations work year-round to support our cause.</ul>
                          <ul><b style="color: #014083">Dancer:</b> Dancers stand on their feet if able for the duration of our Main Event in April to raise funds and awareness for UF Health Shands Children’s Hospital.</ul>
                                              <ul><b style="color: #014083">Emerging Leader:</b> Members of our Emerging Leaders Program work alongside the Recruitment Team, providing support to Captain Teams and brainstorming new ideas to ensure a successful future for our organization.</ul>
-                         <ul><b style="color: #014083">Captain:</b> Captains belong to 1 of 16 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
+                         <ul><b style="color: #014083">Captain:</b> Captains belong to 1 of 15 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
                          <ul><b style="color: #014083">Assistant Directors:</b> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain Teams.</ul>
-                         <ul><b style="color: #014083">Overall Directors:</b> The 21 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain Teams to oversee, expand, and promote our organization.</ul>
+                         <ul><b style="color: #014083">Overall Directors:</b> The 20 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain Teams to oversee, expand, and promote our organization.</ul>
      
                                  <table style="width:100%">
                                         <tr>
@@ -677,7 +677,7 @@ function openSubTab(evt, storySub) {
 <div id="alumni" class="tabcontent-subtab">
 <h3>About</h3>
 
-<p>Since 1995, Dance Marathon at UF has raised over $28 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>
+<p>Since 1995, Dance Marathon at UF has raised over $30 million for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital. Thanks to your dedication and support throughout your college years, we have become the most successful student-run philanthropy in the southeastern United States.</p>
 <p>Dance Marathon at UF knows that the Gator Nation is everywhere. Formed in 2013, Dance Marathon at UF Alumni gives alumni across the country the opportunity to continue to give back and stay involved with their alma mater. Membership is only $40 per year and offers a variety of benefits.</p>
 
             <h3>Get Involved!</h3>
@@ -896,7 +896,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 <li>Input your information and create a new Organization.</li>
 <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing Organization team.</li>
 </ol>
-<p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Kellyn Murphy, at <a href=mailto:kmurphy@floridadm.org>kmurphy@floridadm.org</a> to inform him you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email him to let him know you started a team.</p>
+<p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Dilon Bruncaj, at <a href=mailto:dbruncaj@floridadm.org>dbruncaj@floridadm.org</a> to inform them you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email them to let him know you started a team.</p>
           </div>
     </div>
     <div id="22amb" class="tabcontent-subtab zone">
@@ -2325,7 +2325,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p>In addition to standing, if able, for the duration of the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
             <p><a href="https://events.dancemarathon.com/event/floridadm" target="_blank">Click Here to Register to Dance</a></p>
-            <p>Please email Lily Batley, Dancer Relations Overall Director, at <a href="mailto:lbatley@floridadm.org">lbatley@floridadm.org </a> with any questions!</p>
+            <p>Please email Ashleigh Churchill, Dancer Relations Overall Director, at <a href="mailto:achurchill@floridadm.org">achurchill@floridadm.org </a> with any questions!</p>
           </div>
 </div>
 
@@ -2496,7 +2496,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
             <p></p>
             <p>You have the option to register to Dance as an individual. When registering to Dance, it will ask you which Organization you are participating with, and there will be an option that says “Participating as an Individual.” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
             <p>Individual Dancers are placed on a team called Gator Aides. Being a part of Gator Aides will allow you to make connections with other individual Dancers as well as our Miracle Children. Gator Aides have additional opportunities, meetings, and events throughout the year you can choose to attend that will allow you to become even more involved in our cause. </p>
-            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Brandon White, at <a href="mailto:bwhite@floridadm.org">bwhite@floridadm.org</a></p>
+            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Mary Kate Arbuckle, at <a href="mailto:marbuckle@floridadm.org">marbuckle@floridadm.org</a> .</p>
           </div>
 
 </div>
