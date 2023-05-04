@@ -206,7 +206,7 @@
 
     </div>
 
-    <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#617ba6;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 29th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 28th year by raising a historic <i style="color:#617ba6;"><b>$2,334,217.21</b></i>!<br/>
+    <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#617ba6;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#617ba6;"><b>$2,007,079.05</b></i>!<br/>
 </b></a>
 </i></p>
 
@@ -221,7 +221,7 @@
               <div class="col-md-3", style="width: 33%;">
 <img class="fa icon" src="../assets\images\Logos\book 1.jpg" style="position:relative; left:45%"/>
                 <h3>Our Story</h3>
-                <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $28 million for the Miracle Families UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
+                <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $30 million for the Miracle Families UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
                 <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
               </div>
      
