@@ -354,7 +354,7 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 						<div></div>
 					<!--	<p>Within the Lifetime DMA Membership, there are <b><u>two</u></b> membership options:</p>
 						<div></div>
-					  <h4><i style="color:#f79b63;"><b>(1) Miracle Membership</b></i></h4>
+					  <h4><i style="color:#e2883c;"><b>(1) Miracle Membership</b></i></h4>
 						<p>This <b>general membership</b> provides new DMA members with benefits outlined below, through a one-time fee of </b>$40</b>. The Miracle Membership, as it stands today, includes those registered members from the inception of the DMA (2015) to all current members (2021). This membership will automatically grandfather returning members, and new members to the DMA, into the Miracle Membership. </p>
 						<p><b><i>Membership Benefits Include:</i></b></p>
 							<ul>
@@ -365,7 +365,7 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 								<li>Inclusion and invites to regionally hosted DMA events</li>
 								<p><small>*DMA Dancer registration fees apply.</small></p>
 							</ul>
-					<h4><i style="color:#617ba6;"><b>(2) Legacy Membership</b></i></h4>
+					<h4><i style="color:#233563;"><b>(2) Legacy Membership</b></i></h4>
 						<p>This <b>upgraded membership</b> unlocks all membership benefits, plus the bonus membership benefits outlined below, through an annual fee of <b>$40</b>. This membership is ideal for those who plan to attend Dance Marathon at UF in person and over multiple years. If this is your first year signing up for the DMA, your one-time fee of <b>$40</b> will grant you this exclusive Legacy Membership.</p> -->
 						<p><b><i>Membership Benefits Include:</i></b></p>
 							<ul>
@@ -377,10 +377,10 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
                                 <li>First year members get a complimentary Event Package</li>
                                 <p><small>*DMA Dancer registration fees apply.</small></p>
 							</ul>
-							<p><b style="color:#f79b63;">Event Package:</b></p>
+							<p><b style="color:#e2883c;">Event Package:</b></p>
 							<ul>
                                 <p>DMA members can purchase an exclusive event package to enhance their experience during the Dance Marathon weekend in spring. This package is ideal for those who plan to attend Dance Marathon at UF and can be purchased for $40 up to one month before the event. If this is your first year signing up for the DMA, you will automatically receive a complimentary Event Package included in your Lifetime Miracle Membership. Purchase the DMA Event Package <a href=https://dance-marathon-at-uf-510104.square.site/product/2022-dance-marathon-alumni-lifetime-membership/1?cs=true&cst=custom> here</a>.</p>
-                                <p><b style="color:#f79b63;">The Event Package includes:</b></p>
+                                <p><b style="color:#e2883c;">The Event Package includes:</b></p>
 								<li>Opportunity to participate in a behind-the-scenes hospital tour</li>
 								<li>Opt-in to receive the DMA event t-shirt**</li>
 								<li>Discounted Miracle Gala tickets</li>
@@ -391,8 +391,8 @@ background-image: url("/assets/images/BannerPhotos21/Ben_G-5.jpg");
 								<p><small>**Dependent on COVID-19 protocols and regulations.</small></p>
 							</ul> <!--
 					<h4><b><u><i>Please note:</i></u></b></h4>
-					<p>1. As a <b style="color:#f79b63;">Miracle Member</b> of the DMA, you will have the benefit to maintain this status for life. You may elect to upgrade your membership to the new <b style="color:#617ba6;">Legacy Membership</b> as outlined below.</p>
-					<p>2. Any returning member, whose current membership lapses, will automatically move into the <b style="color:#f79b63;">Miracle Membership</b> status. These members may upgrade to the new <b style="color:#617ba6;">Legacy Membership</b> at any time throughout the year, up until one month before Dance Marathon weekend. </p>
+					<p>1. As a <b style="color:#e2883c;">Miracle Member</b> of the DMA, you will have the benefit to maintain this status for life. You may elect to upgrade your membership to the new <b style="color:#233563;">Legacy Membership</b> as outlined below.</p>
+					<p>2. Any returning member, whose current membership lapses, will automatically move into the <b style="color:#e2883c;">Miracle Membership</b> status. These members may upgrade to the new <b style="color:#233563;">Legacy Membership</b> at any time throughout the year, up until one month before Dance Marathon weekend. </p>
 -->
 
 					  <h4><b><u>FAQs</u></b></h4>

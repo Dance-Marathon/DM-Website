@@ -72,7 +72,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #f79b63; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #e2883c; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="org-leaderboard"></div>
         </div>
     </div>
@@ -80,7 +80,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #014083; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #233563; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="dancer-leaderboard"></div>
         </div>
       </div>
@@ -88,7 +88,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #f79b63; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #e2883c; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="captain-leaderboard"></div>
         </div>
       </div>
@@ -96,7 +96,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #014083; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #233563; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="elp-leaderboard"></div>
         </div>
       </div>
@@ -197,7 +197,7 @@
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
 
 
-      <!--<p style="margin:0"><a href="/dance-marathon" style="color:#617ba6"><b>Check out our 2018 Livestream</b></a></p>-->
+      <!--<p style="margin:0"><a href="/dance-marathon" style="color:#233563"><b>Check out our 2018 Livestream</b></a></p>-->
 
 
 <div id="event_banner">
@@ -206,7 +206,7 @@
 
     </div>
 
-    <p style="padding-top:0;"><i style="color:#f79b63;"><b>Dance Marathon</b></i> at the <i style="color:#f79b63;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#617ba6;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#617ba6;"><b>$2,007,079.05</b></i>!<br/>
+    <p style="padding-top:0;"><i style="color:#e2883c;"><b>Dance Marathon</b></i> at the <i style="color:#e2883c;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#233563;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#233563;"><b>$2,007,079.05</b></i>!<br/>
 </b></a>
 </i></p>
 
@@ -359,11 +359,11 @@
       </div>
 
       <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #f79b63;">
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #e2883c;">
         <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Previous</span>
          </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #014083">
+      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #233563">
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
       </a>

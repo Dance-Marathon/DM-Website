@@ -77,9 +77,9 @@ a, a:focus, :focus {
           box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
 }
 .btn-default {
-  color: #f79b63;
+  color: #e2883c;
   background-color: #ffffff;
-  border-color: #f79b63;
+  border-color: #e2883c;
   font-size: 14px;
   border: 2px solid;
   border-radius: 4px;
@@ -91,8 +91,8 @@ a, a:focus, :focus {
 .btn-default.active,
 .open .dropdown-toggle.btn-default {
   color: #fff;
-  background-color: #f79b63;
-  border-color: #f79b63;
+  background-color: #e2883c;
+  border-color: #e2883c;
   outline: none;
 }
 .panel {
@@ -249,7 +249,7 @@ NAVIGATION MENU
 	border: none;
 	border-radius: 0;
   margin-bottom: 0;
-	border-bottom:4px solid #f79b63;
+	border-bottom:4px solid #e2883c;
 	z-index: 999;
 }
 .navbar-brand {
@@ -282,7 +282,7 @@ ul.social-icons > li > a {
   text-align: center;
 }
 ul.social-icons > li > a:hover, ul.social-icons > li > a:focus {
-  background-color: #f79b63;
+  background-color: #e2883c;
 }
 .navbar-right{
   margin: 0;
@@ -325,7 +325,7 @@ INTRO / SLIDER
 .top_btn:hover, .top_btn:focus{
   color: #fff;
 	text-decoration:none;
-	background:#f79b63;
+	background:#e2883c;
 }
 
 /*
@@ -358,7 +358,7 @@ HOMEPAGE STYLES
   font-weight:700;
   color:#fff;
   padding:5px 10px;
-  background-color: #f79b63;
+  background-color: #e2883c;
 }
 .education .col-md-3 {
   padding: 30px 15px;
@@ -367,7 +367,7 @@ HOMEPAGE STYLES
   padding-bottom: 60px;
 }
 .education h3 {
-  color:#f79b63
+  color:#e2883c
 }
 .education p {
   font-size: 14px;
@@ -376,10 +376,10 @@ HOMEPAGE STYLES
   display: block;
   height: 40px;
 	font-size: 42px;
-	color: #f79b63;
+	color: #e2883c;
 }
 .counter{
-  background: #014083;
+  background: #233563;
   padding: 60px 0 110px;
 }
 .counter .heading{
@@ -416,7 +416,7 @@ HOMEPAGE STYLES
   font-weight: 400;
 }
 .flip-clock-wrapper ul li a div div.inn {
-  color: #014083;
+  color: #233563;
   text-shadow: none;
   background-color: #fff;
 }
@@ -567,7 +567,7 @@ SPONSOR LEVELS PAGE
   position: absolute;
   width: 120px;
   height: 120px;
-  background-color: #014083;
+  background-color: #233563;
   top: 30px;
   border-radius: 50%;
   left: 50%;
@@ -670,7 +670,7 @@ DEFAULT TEMPLATE STYLES
 }
 .page-heading.parallax {
   margin: 0 0 60px;
-  border-bottom: 4px solid #f79b63;
+  border-bottom: 4px solid #e2883c;
 }
 .page-heading.parallax.e404 {
   margin: 0;
@@ -926,7 +926,7 @@ background-image: url("/assets/images/sectionbg/2021/Ambassadors.jpg");
   padding-bottom: 2em;
 }
 .table-pricing .sponsor-level {
-  background-color: #014083;
+  background-color: #233563;
   border-radius: 50%;
   color: #fff;
   text-align: center;
@@ -974,7 +974,7 @@ FOOTER STYLES
 */
 .footer {
   color: #fff;
-	background:#f79b63;
+	background:#e2883c;
 }
 .footer p {
   color: #fff;
@@ -1176,7 +1176,7 @@ a:hover .img-thumbnail{
 	margin-right: auto;
 	margin-top: 20px;
 	padding: 20px;
-	/*background: #014083;*/
+	/*background: #233563;*/
 	/*border: 5px;
 	border-color: black;
 	border-radius: 5px;*/
@@ -1185,7 +1185,7 @@ a:hover .img-thumbnail{
 .event_banner_title {
 	margin-top: 0px;
 	font-weight: 800;
-	color: #014083;
+	color: #233563;
 	text-transform: uppercase;
 }
 
@@ -1194,7 +1194,7 @@ a:hover .img-thumbnail{
 	width: 100%;
 	font-size: 24px;
 	font-weight: 800;
-	background-color: #F79B63;
+	background-color: #e2883c;
 	color: white;
 }
 
@@ -1215,7 +1215,7 @@ a:hover .img-thumbnail{
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #014083;
+  background: #233563;
   height: 4px;
   -webkit-transition-property: left, right;
   transition-property: left, right;
