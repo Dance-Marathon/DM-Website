@@ -350,13 +350,12 @@ include("includes/navbar.php");
                 <li><span style="color: #000000">Finance Manager</li></span>
                 <li><span style="color: #000000">Community Outreach</li></span>
                 <li><span style="color: #000000">Dancer Relations</li></span>
-                <li><span style="color: #000000">Design and Technology</li></span>
+                <li><span style="color: #000000">Digital Marketing</li></span>
                 <li><span style="color: #000000">Family Relations</li></span>
                 <li><span style="color: #000000">Fundraising and Organization Development</li></span>
                 <li><span style="color: #000000">Hospitality</li></span>
                 <li><span style="color: #000000">Leadership Development</li></span>
-                <li><span style="color: #000000">Marathon Relations North</li></span>
-                <li><span style="color: #000000">Marathon Relations South</li></span>
+                <li><span style="color: #000000">Marathon Relations</li></span>
                 <li><span style="color: #000000">Merchandise</li></span>
                 <li><span style="color: #000000">Morale</li></span>
                 <li><span style="color: #000000">Multimedia</li></span>
@@ -370,13 +369,12 @@ include("includes/navbar.php");
             <ul>
                 <li><span style="color: #000000">Community Outreach</li></span>
                 <li><span style="color: #000000">Dancer Relations</li></span>
-                <li><span style="color: #000000">Design and Technology</li></span>
+                <li><span style="color: #000000">Digital Marketing</li></span>
                 <li><span style="color: #000000">Family Relations</li></span>
                 <li><span style="color: #000000">Fundraising and Orginization Development</li></span>
                 <li><span style="color: #000000">Hospitality</li></span>
                 <li><span style="color: #000000">Leadership Development</li></span>
-                <li><span style="color: #000000">Marathon Relations North</li></span>
-                <li><span style="color: #000000">Marathon Relations South</li></span>
+                <li><span style="color: #000000">Marathon Relations</li></span>
                 <li><span style="color: #000000">Merchandise</li></span>
                 <li><span style="color: #000000">Morale</li></span>
                 <li><span style="color: #000000">Multimedia</li></span>
