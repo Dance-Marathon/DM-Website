@@ -894,8 +894,8 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
           </div>
     </div>
     <div id="22amb" class="tabcontent-subtab zone">
-<p></p>
-<p></p>
+<br></br>
+
 <h3>2023 Ambassadors</h3>
            <p>    </p>
                 
@@ -1009,7 +1009,6 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 <td style="vertical-align:top"><b>Delta Chi </b><br>Tor Moncrieff<br></td>
                 <td style="vertical-align:top"><b>Phi Delta Theta</b><br>Answer Langer <br></td>
              <td style="vertical-align:top"><b>Zeta Tau Alpha</b><br>Caitlin Gregory</td>
-
               
               
                 
@@ -1047,28 +1046,20 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 <tr><td><br></td></tr>
               <tr>
 <td style="vertical-align:top"><b>Delta Tau Delta</b><br>Michael Buzzeo</td>
-        <td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Noah Sastoque<br>Kruze Peacock</td>
-                    
-
-               
-                
-                
+        <td style="vertical-align:top"><b>Pi Kappa Alpha</b><br>Noah Sastoque<br>Kruze Peacock</td>             
               
-              
+            
 <tr><td><br></td></tr>
               <tr>
 <td style="vertical-align:top"><b>Delta Zeta </b><br>Brielle Serovich<br>Ariana Martinez</td>
              <td style="vertical-align:top"><b>Pre-Legal Honor Society</b><br>Freedom Scholes</td>
 
                  </td>
-                
-
-
-                
-
+                           
 
             </tbody>
         </table>
+        <br></br>
 </div>
 </div>
             </div>
