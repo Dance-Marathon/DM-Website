@@ -379,7 +379,7 @@ include("includes/navbar.php");
 
     In efforts to boost engagement and encourage fundraising, we hosted programming at the Reitz Student Union in the Grand Ballroom and North Lawn. Throughout the day, merchandise, fundraising activities and Miracle Stories engaged and connected our members to our cause. We would like to extend a huge thank you to our participants, Alumni and donors for your continuous support throughout the day!<br></br>
 
-    Our 2021 total, which was raised in just 26.2 hours for our hospital, was <b>$589,484.19! </b> <br></br>
+    Our 2022 total, which was raised in just 26.2 hours for our hospital, was <b>$526,292.90! </b> <br></br>
 
     We are so eager to continue our efforts throughout this year and make miracles for the families who need it most! Please feel free to watch our Transform Today recap video from last year <a href="https://www.youtube.com/watch?v=re8WypH-GlI&list=PLifN5hH-S4iQe14u-fHpP6cafBRGGPURj&index=7" target"_blank">here</a>.
     <br></br>
