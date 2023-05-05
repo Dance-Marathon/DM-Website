@@ -850,7 +850,7 @@ for($i = 0; $i < count($overalls); $i++) {
     <div class="subtab">
         <button class="tablinks-subtab" onclick="openSubTab(event, 'become')">BECOME AN AMBASSADOR</button>
         <button class="tablinks-subtab" onclick="openSubTab(event, 'start')">STARTING A TEAM</button>
-        <button class="tablinks-subtab" onclick="openSubTab(event, '22amb')">2022 AMBASSADORS</button>
+        <button class="tablinks-subtab" onclick="openSubTab(event, '22amb')">2023 AMBASSADORS</button>
     </div>
     <div id="become" class="tabcontent-subtab">
 <h3>What is an Ambassador?</h3>
