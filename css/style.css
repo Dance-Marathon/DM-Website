@@ -126,8 +126,8 @@ a, a:focus, :focus {
   border-radius: 0;
   color: #696969;
 }
-.nav-tabs > li > a:hover, .nav-tabs > li > a:focus, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-}
+/*.nav-tabs > li > a:hover, .nav-tabs > li > a:focus, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+} */
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
   background: #5a5a5a;
   color: #fff;
