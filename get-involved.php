@@ -2473,7 +2473,8 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the Fall and in the Spring.</p>
             <p>You may register to dance with an Organization team or as an individual. If you are a member of an Organization that does not currently participate in Dance Marathon, you may start a team by registering on DonorDrive.</p>
             <p><em>Please note: registration does not guarantee Dancer spots. Dancer spots are allocated in the Spring based off of Organizational or individual achievements.</em></p>
-</div>
+<br></br>
+          </div>
 </div>
 </div>
 <div id="individual" class="tabcontent-subtab">
@@ -2482,6 +2483,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
             <p>You have the option to register to Dance as an individual. When registering to Dance, it will ask you which Organization you are participating with, and there will be an option that says “Participating as an Individual.” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
             <p>Individual Dancers are placed on a team called Gator Aides. Being a part of Gator Aides will allow you to make connections with other individual Dancers as well as our Miracle Children. Gator Aides have additional opportunities, meetings, and events throughout the year you can choose to attend that will allow you to become even more involved in our cause. </p>
             <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Mary Kate Arbuckle, at <a href="mailto:marbuckle@floridadm.org">marbuckle@floridadm.org</a>.</p>
+            <br></br>
           </div>
 
 </div>
