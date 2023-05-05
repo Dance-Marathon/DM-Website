@@ -1108,7 +1108,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                  Aria Patel
                  <h4><b>Assistant Director of Event Logistics</b></h4>
                  Katherine Borland
-               <h4>  <b>Captains</b></h4> 
+               <!--<h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
 			Alyssa Ali |
@@ -1133,7 +1133,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Gabriella Williams |
 			David Zaibert
           </tbody>
-              </table>
+              </table>-->
                </div>
              </div>
            </div>
@@ -1159,7 +1159,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               Emily Lupo
 	      <h4><b>Assistant Director of External Relations</b></h4>
               Abbey Ladd
-              <h4><b>Captains</b></h4> 
+              <!--<h4><b>Captains</b></h4> 
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
@@ -1202,7 +1202,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Amanda Veltri |
 			Chloe Wai
                     </tbody>
-              </table>
+              </table>-->
 
             </div>
           </div>
@@ -1210,12 +1210,12 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q2">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Design & Technology</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Digital Marketing</a>
             </h4>
           </div>
           <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
             <div class="panel-body">
-               <b>The Design & Technology Team</b> is composed of graphic designers and software developers responsible for making the Dance Marathon at UF brand come to life. Technology Captains are responsible for either the development/maintenance of the website or mobile iOS/Android applications and Design Captains are responsible for the creation of all print/web design needs (merchandise, social media graphics, newsletters, calendars, etc.). Throughout the year, Captains work together to create high-tech, portfolio-quality materials that showcase Dance Marathon as a professional student-run movement. During the Main Event, Captains run the tech booth, which includes managing multiple screens inside the O’Dome, sending app notifications, coordinating audio/visual feeds, and creating in-event graphics.
+               <b>The Digital Marketing Team</b> is composed of graphic designers and software developers responsible for making the Dance Marathon at UF brand come to life. Technology Captains are responsible for either the development/maintenance of the website or mobile iOS/Android applications and Design Captains are responsible for the creation of all print/web design needs (merchandise, social media graphics, newsletters, calendars, etc.). Throughout the year, Captains work together to create high-tech, portfolio-quality materials that showcase Dance Marathon as a professional student-run movement. During the Main Event, Captains run the tech booth, which includes managing multiple screens inside the O’Dome, sending app notifications, coordinating audio/visual feeds, and creating in-event graphics.
 		    <br>
               <h4><b>Overall Director</b></h4>
               Brianna Barron
@@ -1228,10 +1228,10 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               poopie
               <h4><b>Assistant Director of Internal Affairs</b></h4>
               Anderson Allen
-              <h4>  <b> Captains</b></h4> 
+            <!--  <h4>  <b> Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="designandtech">
-			Rachel Bernstein |
+			 Rachel Bernstein |
 			Lexy Cohen |
 			Camille Eyman |
 			Jessica Freeman |
@@ -1244,9 +1244,9 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Sami Sepehri |
 			Emsley Thornton |
 			Aaron Upchurch |
-			Sydney Wall
+			Sydney Wall 
                    </tbody>
-              </table>
+              </table>-->
             </div>
           </div>
         </div>
@@ -1272,7 +1272,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               <h4><b>Assistant Director of Community</b></h4>
               Michael Muhlbach
 
-    <h4>      <b>Captains</b></h4> 
+    <!--<h4>      <b>Captains</b></h4> 
 		     <table style="width:100%">
                 <tbody class="familyrelations">
 		        Nolan Anschuetz |
@@ -1316,7 +1316,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Alexis Waltzer |
 			Anne-Charles Zimmer
                   </tbody>
-              </table>
+              </table>-->
 
             </div>
           </div>
@@ -1342,7 +1342,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               Dilon Bruncaj
               <h4><b>Assistant Director of External Operations</b></h4>
               Janel Hernandez
-   <h4>  <b> Captains</b></h4> 
+   <!--<h4>  <b> Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="fundraising">
 			Mya Arong |
@@ -1373,7 +1373,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Lara Symons |
 			Jack Watkins
                 </tbody>
-              </table>
+              </table>-->
             </div>
           </div>
         </div>
@@ -1399,7 +1399,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               Ava Peiser
               <h4><b>Assistant Director of Internal Relations</b></h4>
               Allison Burns
-  <h4>  <b>Captains</b></h4> 
+  <!--<h4>  <b>Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="hospitality">
 			Adam Birnbaum |
@@ -1423,7 +1423,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Rhyan Tappan |
 			Mackendrick Zavitz
                   </tbody>
-              </table>
+              </table>-->
 
 
             </div>
@@ -1450,7 +1450,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               Emma Kate Joiner
               <h4><b>Assistant Director of Tracking</b></h4>
               Corinna Kuschnitzky
-     <h4>  <b> Captains</b></h4> 
+     <!--<h4>  <b> Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="leadershipdevelopment">
 			Emma Ackerman |
@@ -1486,7 +1486,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Samantha Tedesco |
 			Alana Toby
                   </tbody>
-              </table>
+              </table>-->
 
 
             </div>
@@ -1495,12 +1495,12 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q9">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">Marathon Relations North</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">Marathon Relations</a>
             </h4>
           </div>
           <div id="a9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q9">
             <div class="panel-body">
-              <b>The Marathon Relations North Team</b> Captains are responsible for advising and growing Dance Marathon at UF’s high school programs, Mini Marathons. Marathon Relations is composed of two teams: Marathon Relations North and Marathon Relations South. They energize and support our “Minis” by educating students on Children’s Miracle Network and Dance Marathon at UF’s history and culture, as well as guiding them through fundraising and community involvement events throughout their school year. They do this by holding weekly meetings with the High Schoolers and communicating with Student Overalls and Advisors on a consistent basis, as well as updating the rest of the team with their progress at weekly Captain meetings. Marathon Relations North Captains focus on strengthening relationships with high schools in Gainesville and Ocala area, by helping them plan and implement their own Mini Marathons. Most importantly, the Marathon Relations North team attends all of our North Mini Marathons, as well as hosts our partnering high school programs during Dance Marathon at the University of Florida. Captains will be responsible for at least one school which they will work closely with all year in order to ensure that school’s success.
+              <b>The Marathon Relations Team</b> Captains are responsible for advising and growing Dance Marathon at UF’s high school programs, Mini Marathons. Marathon Relations is composed of two teams: Marathon Relations North and Marathon Relations South. They energize and support our “Minis” by educating students on Children’s Miracle Network and Dance Marathon at UF’s history and culture, as well as guiding them through fundraising and community involvement events throughout their school year. They do this by holding weekly meetings with the High Schoolers and communicating with Student Overalls and Advisors on a consistent basis, as well as updating the rest of the team with their progress at weekly Captain meetings. Marathon Relations North Captains focus on strengthening relationships with high schools in Gainesville and Ocala area, by helping them plan and implement their own Mini Marathons. Most importantly, the Marathon Relations North team attends all of our North Mini Marathons, as well as hosts our partnering high school programs during Dance Marathon at the University of Florida. Captains will be responsible for at least one school which they will work closely with all year in order to ensure that school’s success.
 		    <br>
                 <h4><b>Overall Director</b></h4>
                 Harper Grabenhorst
@@ -1515,7 +1515,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                 Kayla Zweben
 
 
-       <h4>  <b>Captains </b></h4> 
+       <!--<h4>  <b>Captains </b></h4> 
        <table style="width:100%">
                 <tbody class="marathonrelationsnorth">
 			Adel Acs |
@@ -1543,12 +1543,12 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Natalie Work |
 			Ivey Young
                   </tbody>
-              </table>
+              </table>-->
 
             </div>
           </div>
         </div>
-        <div class="panel panel-default">
+        <!--<div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q10">
             <h4 class="panel-title">
               <a data-toggle="collapse" data-parent="#accordion" href="#a10" aria-expanded="false" aria-controls="a10">Marathon Relations South</a>
@@ -1601,7 +1601,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 
             </div>
           </div>
-        </div>
+        </div>-->
         <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q11">
             <h4 class="panel-title">
@@ -1624,7 +1624,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               <h4><b>Assistant Director of Stores</b></h4>
               Emily Gill
 
-        <h4>  <b>Captains</b></h4> 
+        <!--<h4>  <b>Captains</b></h4> 
        <table style="width:100%">
                 <tbody class="merch">
 			Isabel Acosta |
@@ -1651,7 +1651,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Macy Thompson |
 			Jazlyn Yarbrough
                   </tbody>
-              </table>
+              </table>-->
 
 
             </div>
@@ -1678,7 +1678,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               Julia Cesare
               <h4><b>	Assistant Director of Event Planning</b></h4>
               Kat Polaski
-     <h4>  <b> Captains</b></h4> 
+     <!--<h4>  <b> Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="morale">
 			Bronson Allemand |
@@ -1728,7 +1728,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Joshua Waters |
 			Mistie Webb
                     </tbody>
-              </table>
+              </table>-->
 
 
             </div>
@@ -1755,7 +1755,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
               Anna Glass
               <h4><b>Assistant Director of Videography</b></h4>
               Braden Romano
-     <h4>  <b>Captains</b></h4> 
+    <!-- <h4>  <b>Captains</b></h4> 
     <table style="width:100%">
                 <tbody class="multimedia">
 			Alessandra Ayala |
@@ -1784,7 +1784,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Evan Stice |
 			Kaiyu Zhou
                     </tbody>
-              </table>
+              </table>-->
 
 
             </div>
@@ -1810,7 +1810,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                 Dylan Goodelle
                 <h4><b>Assistant Director of Talent Relations </b></h4>
                 Samantha Flyer
-             <h4>   <b>Captains</b></h4> 
+             <!--<h4>   <b>Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="productions">
 			Bianca Arocha |
@@ -1839,7 +1839,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Georgette Suarez |
 			Riley Towbin
                         </tbody>
-              </table>
+              </table>-->
 
 
               </div>
@@ -1866,7 +1866,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                 Jamie Knox
 <h4><b>Assistant Director of Media Outreach </b></h4>
                 Karina Wilson
-     <h4>  <b> Captains</b></h4> 
+     <!--<h4>  <b> Captains</b></h4> 
      <table style="width:100%">
                 <tbody class="pr">
 			Hope Barrist |
@@ -1890,7 +1890,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Ryan Tweeddale |
 			Haley Wade
                         </tbody>
-              </table>
+              </table>-->
 
 
               </div>
@@ -1915,7 +1915,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                 Taryn Smith
                 <h4><b>Assistant Director of Tracking</b></h4>
                 Anna-Sophia "Sophie" Hadley
-           <h4>  <b>Captains</b></h4> 
+          <!-- <h4>  <b>Captains</b></h4> 
            <table style="width:100%">
                 <tbody class="recruitment"> 
 			Ariel Banfalvy |
@@ -1945,7 +1945,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Sophia Villaverde |
 			Julia Zager
                         </tbody>
-              </table>
+              </table>-->
 
               </div>
             </div>
@@ -1969,7 +1969,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                 Alexandra Patrascoiu
                 <h4><b>Assistant Director of Stewardship</b></h4>
                 Kate Gaucher
-         <h4>  <b>Captains</b></h4> 
+         <!--<h4>  <b>Captains</b></h4> 
           <table style="width:100%">
                 <tbody class="sponsorships">
 			Zachary Abrams |
@@ -1995,7 +1995,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Jenna Stevens |
 			Manuel Uribe
                     </tbody>
-              </table>
+              </table>-->
 
               </div>
             </div>
