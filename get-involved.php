@@ -791,7 +791,6 @@ for($i = 0; $i < count($overalls); $i++) {
 </div>
 <!--<div id="ambassadors" class="tabcontent-subtab zone">
 <img src="/assets/images/hsdm/zoningpg1.png" width="697" height="889" title="zoningpg1" alt="zoningpg1" />
-
         </div>-->
 </div>
 </div>
@@ -1560,7 +1559,6 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                 Abigail Crawford
                 <h4><b>	Assistant Director of Projects and Communications</b></h4>
                 Chloe Cornett
-
               <br>
         <h4>  <b>Captains </b></h4> 
        <table style="width:100%">
@@ -1589,7 +1587,6 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
 			Jessica Winograd
                       </tbody>
               </table>
-
             </div>
           </div>
         </div>-->
