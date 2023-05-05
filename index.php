@@ -222,7 +222,7 @@
 <img class="fa icon" src="../assets\images\Logos\Book.png" style="position:relative; left:45%"/>
                 <h3>Our Story</h3>
                 <p>DM at UF is one of the five founding Dance Marathon programs in the nation. Since our start, we have raised more than $30 million for the Miracle Families UF Health Shands Children’s Hospital, our local Children’s Miracle Network hospital.</p>
-                <p><a class="btn btn-default" href="our-story" role="button">Learn More</a></p>
+                <p><a class="btn btn-default" href="about" role="button">Learn More</a></p>
               </div>
      
                     <div class="col-md-3", style="width: 33%;">
@@ -230,14 +230,14 @@
                 <h3>CMN Hospitals<br>& UF Health</h3>
                 <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
               <!--Update this information, we are higher than when we made this website -->
-                <p><a class="btn btn-default" href="uf-health" role="button">Learn More</a></p>
+                <p><a class="btn btn-default" href="about" role="button">Learn More</a></p>
               </div>
 
               <div class="col-md-3", style="width: 33%;">
                    <i class="fa fa-heart"></i>
                 <h3>Miracle Families</h3>
                 <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
-                <p><a class="btn btn-default" href="family" role="button">Learn More</a></p>
+                <p><a class="btn btn-default" href="about" role="button">Learn More</a></p>
               </div>
             </div>
             </div>

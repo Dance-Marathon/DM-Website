@@ -188,7 +188,7 @@ include("includes/navbar.php");
             margin-left: 0%;
         }
     }
-    }
+
 </style>
 <div class="page-heading parallax events">
     <div class="inner-wrapper">
