@@ -253,8 +253,7 @@ include("includes/navbar.php");
     </div>
     <div id="story" class="tabcontent-subtab">
         <p>Dance Marathon at UF is a yearlong philanthropic effort that culminates in our Main Event each spring where students remain awake and on their feet for 26.2 hours to represent the hardships faced by children battling pediatric illness. DM at UF is one of the five founding Dance Marathon programs in the nation, and since our start we have raised more than $30 million for the Miracle Children at UF Health Shands Children’s Hospital, our local CMN Hospital. Today, Dance Marathon at UF involves hundreds of internal members and a variety of sponsors and community partners.</p>
-    </div>
-    <table class="table table-striped">
+        <table class="table table-striped">
           <thead>
             <tr>
               <th class="col-sm-6">Year</th>
@@ -374,6 +373,8 @@ include("includes/navbar.php");
            <td>$2,334,217.21</td>
           </tbody>
         </table>
+    </div>
+    
 
     <div id="fast-facts" class="tabcontent-subtab">
         <!-- <h3><b><span style="color: #000000">WHERE THE MONEY GOES</span></b></h3> -->
