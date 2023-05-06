@@ -257,7 +257,7 @@ include("includes/navbar.php");
     </div>
 
     <div id="kickoff" class="tabcontent active">
-        <h3>Fall33 Kickoff</h3>
+        <h3>Fall Kickoff</h3>
         <p>DM at UF hosted its first annual Kickoff Event in 2021! We are excited to continue this event for many years to come. It is the first event of the year for all of our internal and external members, Miracle Families, and more to enjoy. The event is held at Flavet Field including music, fun games, Miracle Stories, food, merchandise, and more! </p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/fTElQSBr9bU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
