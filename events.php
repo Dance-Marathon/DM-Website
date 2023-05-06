@@ -6,10 +6,28 @@ include("includes/head.php");
 include("includes/navbar.php");
 ?>
 <script>
+
+    function openTabFromUrl() {
+      // Get the URL parameters
+      const urlParams = new URLSearchParams(window.location.search);
+      // Get the value of the "tab" parameter
+      const tabParam = urlParams.get('tab');
+      // If the "tab" parameter is present, activate the corresponding tab
+      if (tabParam) {
+        const tabButtons = document.getElementsByClassName('tab-button');
+        for (let i = 0; i < tabButtons.length; i++) {
+          if (tabButtons[i].getAttribute('onclick').includes(tabParam)) {
+            tabButtons[i].click();
+            break;
+          }
+        }
+      }
+    }  
+
     function openCity(evt, cityName) {
         // Declare all variables
         var i, tabcontent, tablinks;
-
+        
         // Get all elements with class="tabcontent" and hide them
         tabcontent = document.getElementsByClassName("tabcontent");
         for (i = 0; i < tabcontent.length; i++) {
@@ -34,6 +52,8 @@ include("includes/navbar.php");
         // Show the current tab, and add an "active" class to the button that opened the tab
         document.getElementById(cityName).style.display = "block";
         evt.currentTarget.className += " active";
+        document.getElementById(tabName).classList.add('active');
+        event.currentTarget.classList.add('active');
     }
 
     function openSubTab(evt, storySub) {
@@ -72,6 +92,10 @@ include("includes/navbar.php");
         margin-bottom: 2%;
     }
 
+    .tab.active {
+        display: block;
+    }
+
     /* Style the buttons that are used to open the tab content */
     .tab button {
         background-color: #C4C4C4;
@@ -104,6 +128,10 @@ include("includes/navbar.php");
         margin-bottom: 3%;
         width: 80%;
         margin-left: 10%;
+    }
+
+    .tabcontent.active {
+        display: block;
     }
 
     .tabcontent-subtab {
@@ -214,8 +242,9 @@ include("includes/navbar.php");
             echo 'This page is currently closed.';
         } ?>
     </div>
+    <body onload="openTabFromUrl()">
     <div class="tab">
-        <button class="tablinks" onclick="openCity(event, 'kickoff')">FALL KICKOFF</button>
+        <button class="tablinks active" onclick="openCity(event, 'kickoff')">FALL KICKOFF</button>
         <button class="tablinks" onclick="openCity(event, 'dance')">MAIN EVENT</button>
         <button class="tablinks" onclick="openCity(event, 'mini')">MINI-MARATHONS</button>
         <button class="tablinks" onclick="openCity(event, 'miricle')">MIRACLE GALA</button>
@@ -227,8 +256,8 @@ include("includes/navbar.php");
         <button class="tablinks" onclick="openCity(event, 'transform')">TRANSFORM TODAY</button>
     </div>
 
-    <div id="kickoff" class="tabcontent">
-        <h3>Fall Kickoff</h3>
+    <div id="kickoff" class="tabcontent active">
+        <h3>Fall33 Kickoff</h3>
         <p>DM at UF hosted its first annual Kickoff Event in 2021! We are excited to continue this event for many years to come. It is the first event of the year for all of our internal and external members, Miracle Families, and more to enjoy. The event is held at Flavet Field including music, fun games, Miracle Stories, food, merchandise, and more! </p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/fTElQSBr9bU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
@@ -400,5 +429,6 @@ include("includes/navbar.php");
 
 </div>
 </div>
+        </body>
 
 <?php include("includes/foot.php"); ?>
