@@ -6,23 +6,6 @@
     include("includes/navbar.php");
 ?>
 <script>
-    function openTabFromUrl() {
-      // Get the URL parameters
-      const urlParams = new URLSearchParams(window.location.search);
-      // Get the value of the "tab" parameter
-      const tabParam = urlParams.get('tab');
-      // If the "tab" parameter is present, activate the corresponding tab
-      if (tabParam) {
-        const tabButtons = document.getElementsByClassName('tab-button');
-        for (let i = 0; i < tabButtons.length; i++) {
-          if (tabButtons[i].getAttribute('onclick').includes(tabParam)) {
-            tabButtons[i].click();
-            break;
-          }
-        }
-      }
-    }
-
     function openCity(evt, cityName) {
         // Declare all variables
         var i, tabcontent, tablinks;
@@ -42,9 +25,7 @@
         // Show the current tab, and add an "active" class to the button that opened the tab
         document.getElementById(cityName).style.display = "block";
         evt.currentTarget.className += " active";
-        document.getElementById(tabName).classList.add('active');
-        event.currentTarget.classList.add('active');
-    }
+      }
 function openSubTab(evt, storySub) {
     // Declare all variables
     var i, tabcontentSub, tablinksSub;
@@ -80,10 +61,6 @@ function openSubTab(evt, storySub) {
         margin-bottom: 2%;
     }
 
-    .tab.active {
-        display: block;
-    }
-
     /* Style the buttons that are used to open the tab content */
     .tab button {
         background-color: #C4C4C4;
@@ -114,10 +91,6 @@ function openSubTab(evt, storySub) {
         margin-bottom: 3%;
         width: 80%;
         margin-left: 10%;
-    }
-
-    .tabcontent.active {
-        display: block;
     }
 
 .tabcontent-subtab {
@@ -238,17 +211,16 @@ function openSubTab(evt, storySub) {
                         </div>
                     </div>
                     <?php } else { echo 'This page is currently closed.'; } ?>
-        </div>
-<body onload="openTabFromUrl()">    
+        </div>   
     <div class="tab">
-        <button class="tablinks active" onclick="openCity(event, 'donordrive')">DONORDRIVE</button>
+        <button class="tablinks " onclick="openCity(event, 'donordrive')">DONORDRIVE</button>
         <button class="tablinks" onclick="openCity(event, 'match')">EMPLOYEE MATCHING</button>
         <!--<button class="tablinks" onclick="openCity(event, 'guide')">FUNDRAISING GUIDE</button>-->
         <button class="tablinks" onclick="openCity(event, 'hello')">FUNDRAISING GUIDE</button>
         <button class="tablinks" onclick="openCity(event, 'sponsors')">SPONSORS</button>
     </div>
     
-<div id="donordrive" class="tabcontent active">
+<div id="donordrive" class="tabcontent">
 <h3>DonorDrive</h3>
 <p>UF Health Shands Children’s Hospital is continuing to use DonorDrive, an online fundraising platform used widely by Children’s Miracle Network Hospitals, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will be creating DonorDrive accounts to begin fundraising for DM at UF 2022. DonorDrive is safe and easy to use, and was utilized by UF Health Shands Children’s Hospital this past year. To create a fundraising page, register using the link below:</p>
 <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4669" target="_blank">Register To Fundraise</a>
@@ -531,6 +503,6 @@ Children's Miracle Network<br/>
 
 </div>
 </div>
-        </body>
+       
 <?php include("includes/foot.php"); ?>
 
