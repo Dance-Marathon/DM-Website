@@ -249,36 +249,24 @@ include("includes/navbar.php");
             <!-- <button class="tablinks-subtab" onclick="openSubTab(event, 'zone')">WHAT'S MY ZONE?</button> -->
         </div>
         <div id="marathon" class="tabcontent-subtab">
-            <p>24 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of $600,310.82, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
+            <p>10 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of $600,310.82, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
             <!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/-qCnFuEPZOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/KssHKNyDVhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/etQj32bVzlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>We are always looking for more high schools to join our Dance Marathon family. If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall Director, Jackie Aloumanis, at <a href="jaloumanis@floridadm.org ">jaloumanis@floridadm.org </a>.</p>
         </div>
 
         <div id="schools" class="tabcontent-subtab">
             <ul>
                 <li>Belleview High School</li>
-                <li>Boca Raton Community High School</li>
-                <li>Buchholz High School</li>
                 <li>East Ridge High School</li>
                 <li>Forest High School</li>
+                <li>F.W. Buchholz High School</li>
                 <li>Gainesville High School</li>
-                <li>Jupiter Community High School</li>
                 <li>Leesburg High School</li>
                 <li>Newberry High School</li>
-                <li>North Marion High School</li>
                 <li>Oak Hall High School</li>
-                <li>Olympic Heights Community High School</li>
-                <li>Park Vista Community High School</li>
-                <li>Saint Andrew's High School</li>
-                <li>Seminole Ridge Community High School</li>
-                <li>Suncoast Community High School</li>
-                <li>The Rock High School</li>
                 <li>Vanguard High School</li>
-                <li>Vero Beach High School</li>
-                <li>Villages High School</li>
-                <li>Wellington High School</li>
-                <li>West Boca Community High School</li>
+                <li>Villages Charter School</li>
                 <!-- <li>Palm Beach Gardens Community High School</li>
 <li>Eastside High School</li>
 <li>Kanapaha Middle School</li>
@@ -381,7 +369,8 @@ include("includes/navbar.php");
 
     Our 2022 total, which was raised in just 26.2 hours for our hospital, was <b>$526,292.90! </b> <br></br>
 
-    We are so eager to continue our efforts throughout this year and make miracles for the families who need it most! Please feel free to watch our Transform Today recap video from last year <a href="https://www.youtube.com/watch?v=re8WypH-GlI&list=PLifN5hH-S4iQe14u-fHpP6cafBRGGPURj&index=7" target"_blank">here</a>.
+    We are so eager to continue our efforts throughout this year and make miracles for the families who need it most! Please feel free to watch our Transform Today recap video from last year <!--<a href="https://www.youtube.com/watch?v=re8WypH-GlI&list=PLifN5hH-S4iQe14u-fHpP6cafBRGGPURj&index=7" target"_blank"> -->here</a>.
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/k-LhKKJ-yyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br></br>
     <h4><i>Why</i></h4>
 
