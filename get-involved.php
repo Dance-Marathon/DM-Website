@@ -88,21 +88,21 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Alpha Phi Omega',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Alpha Tau Omega',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'AMSA',
         'link'          =>  ''
         ),
       array(
         'organization'  =>  'Beta Theta Pi',
         'link'          =>  ''
         ),
+      array(
+        'organization'  =>  'Black Student Union',
+        'link'          =>  ''
+        ), 
+      array(
+        'organization'  =>  'Brazilian Student Association (BRASA)',
+        'link'          =>  ''
+        ),                 
       array(
         'organization'  =>  'Catholic Gators',
         'link'          =>  ''
@@ -116,31 +116,7 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'CHSC',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'College of Education',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'College of Medicine',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'College of Nursing',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'College of Pharmacy',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Cupcakes for a Cure',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Dancin&#39; Gators',
         'link'          =>  ''
         ),
       array(
@@ -168,23 +144,11 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Delta Upsilon',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Delta Zeta',
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Doctors Without Borders Student Chapter',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Dream Team',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Epsilon Sigma Alpha',
+        'organization'  =>  'Florida Cicerones',
         'link'          =>  ''
         ),
       array(
@@ -200,13 +164,17 @@
         'link'          =>  '',
         ),
       array(
-        'organization'  =>  'Gator Band',
+        'organization'  =>  'Gator E Sports',
         'link'          =>  ''
         ),
       array(
         'organization'  =>  'Hispanic Student Association',
         'link'          =>  ''
         ),
+      array(
+        'organization'  =>  'Innovation Academy',
+        'link'          =>  ''
+        ),  
       array(
         'organization'  =>  'Kappa Alpha Order',
         'link'          =>  ''
@@ -236,14 +204,6 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'National Society of Collegiate Scholars',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Nina Karlinsky Memorial Team',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Omega Phi Alpha',
         'link'          =>  ''
         ),
@@ -252,15 +212,7 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Phi Epsilon Kappa',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Phi Eta Sigma Honor Society',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Phi Gamma Delta (FIJI)',
         'link'          =>  ''
         ),
       array(
@@ -272,23 +224,11 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Phi Sigma Pi',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Pi Beta Phi',
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Pi Delta Psi',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Pi Kappa Alpha',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Pi Kappa Phi',
         'link'          =>  ''
         ),
       array(
@@ -297,26 +237,6 @@
         ),
       array(
         'organization'  =>  'Pre-Legal Honor Society',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Preview Staff',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Public Health and Health Professions',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'SHPE',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Sigma Alpha',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'Sigma Alpha Epsilon',
         'link'          =>  ''
         ),
       array(
@@ -336,23 +256,19 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Sigma Phi Lamda',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Society of Women Engineers',
         'link'          =>  ''
         ),
+      array(
+        'organization'  =>  'Tau Epsilon Phi',
+        'link'          =>  ''
+        ),  
       array(
         'organization'  =>  'Tau Kappa Epsilon',
         'link'          =>  ''
         ),
       array(
         'organization'  =>  'The Gator Aides',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'The Navigators',
         'link'          =>  ''
         ),
       array(
@@ -368,31 +284,11 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Tone Def A Cappella',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'UF Honors Program',
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'UF Innovation Academy',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'UF MBA',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'UF MEDLIFE',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'UF Signing Gators',
-        'link'          =>  ''
-        ),
-      array(
-        'organization'  =>  'UFAA: Florida Cicerones',
+        'organization'  =>  'UF Pre-Physician Assistant Association',
         'link'          =>  ''
         ),
       array(
@@ -2507,7 +2403,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
     <h3>Organizations</h3>
 		  <p>Over 100 Organizations at the University of Florida participate in Dance Marathon every year!</p>
       <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Mary Kate Arbuckle, at <a href=mailto:marbuckle@floridadm.org>marbuckle@floridadm.org</a>.</p>
-      <p>Below are the Organizations currently involved in Dance Marathon at UF 2021:</p>
+      <p>Below are the Organizations currently involved in Dance Marathon at UF 2023:</p>
 
       <table class="table table-bordered table-middle">
         <tbody>
