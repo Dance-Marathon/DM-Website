@@ -369,8 +369,10 @@ include("includes/navbar.php");
 
     Our 2022 total, which was raised in just 26.2 hours for our hospital, was <b>$526,292.90! </b> <br></br>
 
-    We are so eager to continue our efforts throughout this year and make miracles for the families who need it most! Please feel free to watch our Transform Today recap video from last year <a href="https://www.youtube.com/watch?v=k-LhKKJ-yyk" target"_blank"> here</a>.
-    <!--    <iframe width="560" height="315" src="https://www.youtube.com/embed/k-LhKKJ-yyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+    We are so eager to continue our efforts throughout this year and make miracles for the families who need it most! Please feel free to watch our Transform Today recap video from last year here. 
+    <br></br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/k-LhKKJ-yyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <!--    <iframe width="560" height="315" src="https://www.youtube.com/embed/k-LhKKJ-yyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
     <br></br>
     <h4><i>Why</i></h4>
 
