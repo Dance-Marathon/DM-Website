@@ -249,7 +249,7 @@ NAVIGATION MENU
 	border: none;
 	border-radius: 0;
   margin-bottom: 0;
-	border-bottom:4px solid #e1ff00;
+	border-bottom:4px solid #e2883c;
 	z-index: 999;
 }
 .navbar-brand {
@@ -282,7 +282,7 @@ ul.social-icons > li > a {
   text-align: center;
 }
 ul.social-icons > li > a:hover, ul.social-icons > li > a:focus {
-  background-color: #e1ff00;
+  background-color: #e2883c;
 }
 .navbar-right{
   margin: 0;
@@ -319,13 +319,13 @@ INTRO / SLIDER
 	border:none;
 	border-radius:3px;
 	transition: all 0.2s;
-	background:#e1ff00;
+	background:#e2883c;
 	text-shadow: none;
 }
 .top_btn:hover, .top_btn:focus{
   color: #fff;
 	text-decoration:none;
-	background:#e1ff00;
+	background:#e2883c;
 }
 
 /*
@@ -358,7 +358,7 @@ HOMEPAGE STYLES
   font-weight:700;
   color:#fff;
   padding:5px 10px;
-  background-color: #e1ff00;
+  background-color: #e2883c;
 }
 .education .col-md-3 {
   padding: 30px 15px;
@@ -367,7 +367,7 @@ HOMEPAGE STYLES
   padding-bottom: 60px;
 }
 .education h3 {
-  color:#e1ff00
+  color:#e2883c
 }
 .education p {
   font-size: 14px;
@@ -376,7 +376,7 @@ HOMEPAGE STYLES
   display: block;
   height: 40px;
 	font-size: 42px;
-	color: #e1ff00;
+	color: #e2883c;
 }
 .counter{
   background: #233563;
@@ -670,7 +670,7 @@ DEFAULT TEMPLATE STYLES
 }
 .page-heading.parallax {
   margin: 0 0 60px;
-  border-bottom: 4px solid #e2883c;
+  border-bottom: 4px solid #e1ff00;
 }
 .page-heading.parallax.e404 {
   margin: 0;
