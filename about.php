@@ -360,17 +360,23 @@ include("includes/navbar.php");
             <tr>
               <td>2019</td>
               <td>$3,230,025.23</td>
-						</tr>
-						<tr>
-							<td>2020</td>
-							<td>$2,526,418.24</td>
+            </tr>
+            <tr>
+                <td>2020</td>
+                <td>$2,526,418.24</td>
             </tr>
            <tr>
                <td>2021</td>
                <td>$2,270,311.40</td>
-</tr>
+            </tr>
+            <tr> 
             <td>2022</td>
            <td>$2,334,217.21</td>
+           </tr>
+           <tr>
+            <td>2023</td>
+            <td>$2,007,079.05</td>
+</tr>
           </tbody>
         </table>
     </div>
