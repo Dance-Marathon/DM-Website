@@ -2576,7 +2576,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
                             <div style="height: 35px;"></div>
                             <div class="row">
                             <div class="col-sm-7">
-                                <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\2023CommunityPartners.png" width="865" height="1080"/></a>
+                                <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2018\2023CommunityPartners.jpg" width="865" height="1080"/></a>
 
 
                 </div>
