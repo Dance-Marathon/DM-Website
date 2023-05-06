@@ -96,10 +96,6 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'AMSA',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Beta Theta Pi',
         'link'          =>  ''
         ),
