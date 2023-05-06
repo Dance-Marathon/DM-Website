@@ -88,10 +88,6 @@
         'link'          =>  ''
         ),
       array(
-        'organization'  =>  'Alpha Phi Omega',
-        'link'          =>  ''
-        ),
-      array(
         'organization'  =>  'Alpha Tau Omega',
         'link'          =>  ''
         ),
@@ -99,6 +95,10 @@
         'organization'  =>  'Beta Theta Pi',
         'link'          =>  ''
         ),
+      array(
+        'organization'  =>  'Black Student Union',
+        'link'          =>  ''
+        ),        
       array(
         'organization'  =>  'Catholic Gators',
         'link'          =>  ''
