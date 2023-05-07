@@ -428,10 +428,10 @@ Children's Miracle Network<br/>
 </p>
 <p>If you have any questions, please contact our Sponsorships Overall Director, Ryan Athay, at <a href="mailto:rathay@floridadm.org">rathay@floridadm.org</a>.</p>
 <div >
-<h2>Our 2022 Sponsors</h2>
+<h2>Our 2023 Sponsors</h2>
 <div class="sponsor-section">
   <div class="row sponsors-block">
-      <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2021\sponsorspt2.jpg"/></a>
+      <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2023\2023SponsorsList.png"/></a>
 
 </div>
 </div>
