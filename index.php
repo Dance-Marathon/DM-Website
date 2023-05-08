@@ -345,7 +345,7 @@
             </div>
             <?php
                 $sponsor_imgs = range(2, 79); // the number of sponsor images we have in 2023 folder starting from 1 to 79. (1 is first active image)
-                $i = 3;
+                $i = 2;
                 foreach($sponsor_imgs as $index)
                 {
                 ?>
