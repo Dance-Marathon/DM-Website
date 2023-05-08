@@ -333,7 +333,7 @@
 <div class="section">
     <div class="container">
         <div >
-           <h2>Our 2022 Sponsors</h2>
+           <h2>Our 2023 Sponsors</h2>
           <div class="sponsor-section">
         </div>
 
@@ -341,7 +341,7 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
             <div class="active item">
-                 <img src="assets/images/sponsors/2023/Sponsor1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
+                 <img src="assets/images/sponsors/2023/Carousel/Sponsor1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
             </div>
             <?php
                 $sponsor_imgs = range(2, 79); // the number of sponsor images we have in sponsorImages folder starting from 2 to 119. (2 is first active image)
@@ -350,7 +350,7 @@
                 {
                 ?>
             <div class="item">
-            <img src="assets/images/sponsors/2023/Sponsor<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
+            <img src="assets/images/sponsors/2023/Carousel/Sponsor<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
             </div>
             <?php
             $i++;
