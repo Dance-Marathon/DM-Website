@@ -12,7 +12,7 @@
       array(
         'name'                  =>  'Harper Grabenhorst',
         'position'              =>  'Executive Director',
-        'email'                 =>  'adelavega@floridadm.org',
+        'email'                 =>  'hgrabenhorst@floridadm.org',
         'previous_involvement'  =>  'Dancer, Recruitment Captain, Assistant Director of Campus Relations, Internal Communications Manager',
         'major'                 =>  'Information Systems & Operations Management',
         'hometown'              =>  'Orlando, FL',
