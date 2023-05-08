@@ -344,7 +344,7 @@
                  <img src="assets/images/sponsors/2023/Sponsor1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
             </div>
             <?php
-                $sponsor_imgs = range(2, 79); // the number of sponsor images we have in sponsorImages folder starting from 2 to 119. (2 is first active image)
+                $sponsor_imgs = range(2, 79); // the number of sponsor images we have in 2023 folder starting from 1 to 79. (1 is first active image)
                 $i = 3;
                 foreach($sponsor_imgs as $index)
                 {
