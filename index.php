@@ -341,16 +341,16 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
             <div class="active item">
-                 <img src="assets/images/sponsors/sponsorImages/sponsor2.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
+                 <img src="assets/images/sponsors/2023/Sponsor1.png" alt="Sponsor Logo" style = "margin: auto; max-height: 400px; display: block;">
             </div>
             <?php
-                $sponsor_imgs = range(3, 119); // the number of sponsor images we have in sponsorImages folder starting from 2 to 119. (2 is first active image)
+                $sponsor_imgs = range(2, 79); // the number of sponsor images we have in sponsorImages folder starting from 2 to 119. (2 is first active image)
                 $i = 3;
                 foreach($sponsor_imgs as $index)
                 {
                 ?>
             <div class="item">
-            <img src="assets/images/sponsors/sponsorImages/sponsor<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
+            <img src="assets/images/sponsors/2023/Sponsor<?=$i?>.png" alt="Sponsor Logos" style = "margin: auto; max-height: 400px; display: block;">
             </div>
             <?php
             $i++;
