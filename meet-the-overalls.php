@@ -25,9 +25,9 @@
       ),
       
           array(
-         'name' => 'Emily Giles',
+         'name' => 'Clara Flint',
          'position' => 'Finance Manager',
-         'email' => 'egiles@floridadm.org',
+         'email' => 'cflint@floridadm.org',
          'previous_involvement' => 'ELP, Assistant Director of Organization Relations for Recruitment',
          'major' => 'Economics and Public Relations',
          'hometown' => 'Vero Beach, FL',
@@ -36,7 +36,7 @@
          'fun_fact' => 'This is going to be my 7th year of participating in DM, as I was a part of my high school\'s program for 4 years as well. Shout out VBHS!',
          'favorite_memory' => 'My last Dance Marathon as a high school student. That was the day that solidified my love and passion for this organization and it’s cause. I knew then that this was a movement I wanted to be a part of for the rest of my life. ',
          'motivation' => 'My biggest sources of motivation come from two different places. The first of these is drawn from the courageous Miracle Children and their families that we benefit through this organization. The second source of inspiration stems from the thousands of college students who could be doing a million other things with their time, but instead chose to dedicate their time and efforts to drastically impacting pediatric illness. ',
-         'image' => 'emily1.JPG',
+         'image' => 'CF.JPG',
         ),
         array(
          'name' => 'Zachary Zelenak',
