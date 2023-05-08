@@ -121,7 +121,7 @@
         'fun_fact' => 'I am a pretty avid Yoyo-er!',
         'favorite_memory' => 'My favorite DM Memory is my first year dancing. It was my first exposure to the Dance Marathon community, and the passion and energy I felt walking into the O\'Dome that Saturday morning, seeing all of these college students so driven by this cause resonated with me greatly. ',
         'motivation' => 'The Miracle Children and their families motivate me. The children and their families go through the most challenging times anyone could imagine with a smile on their face. Their perseverance and positivity inspires me to live life to the fullest. ',
-        'image' => 'CA.jpeg',
+        'image' => 'CA.jpg',
        ),
         array(
          'name' => 'Anne-Charles Zimmer',
