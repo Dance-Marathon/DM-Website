@@ -290,10 +290,10 @@ include("includes/navbar.php");
     <h3>Miracle Gala</h3>
     <!-- <p><a href=https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5106>Purchase your tickets here!</a>
 -->
-    <p>Each year, Dance Marathon at UF hosts their Annual Miracle Gala the first night of the Main Event. This year, our 7th Annual Miracle Gala will be held on April 1st, 2023 in Evans Champions Club at Ben Hill Griffin Stadium. This year’s Miracle Gala theme is Imagine the Day in tribute to our year long campaign to #ImagineTheDay no child faces pediatric illness. We hope you will join us to raise funds and awareness for the children at UF Health Shands Children’s Hospital and help Change Their Future.</p>
-    <p>This semi-formal event is designed for the Dance Marathon at UF community to celebrate a year of achievements and will include a cocktail hour, live music, silent auction, buffet dinner, raise the paddle fundraiser, and programming during which you will hear from Miracle Families and cause-connected speakers.  </p>
+    <p>Each year, Dance Marathon at UF hosts their Annual Miracle Gala the first night of the Main Event. <!--This year, our 7th Annual Miracle Gala will be held on April 1st, 2023 in Evans Champions Club at Ben Hill Griffin Stadium. This year’s Miracle Gala theme is Imagine the Day in tribute to our year long campaign to #ImagineTheDay no child faces pediatric illness. We hope you will join us to raise funds and awareness for the children at UF Health Shands Children’s Hospital and help Change Their Future.</p>
+    <p> -->This semi-formal event is designed for the Dance Marathon at UF community to celebrate a year of achievements and will include a cocktail hour, live music, silent auction, buffet dinner, raise the paddle fundraiser, and programming during which you will hear from Miracle Families and cause-connected speakers.  </p>
     <p>The night will be filled with many Special Guests, including our Ambassador Families, DM at UF parents/families, UF Health Shands Staff, Dance Marathon Alumni, Community Partners, UF Faculty, Sponsors, members of our High School Program, Keynote Speakers, and more!</p>
-    <p>Tickets can be purchased <a href=https://dance-marathon-at-uf-510104.square.site/miracle-gala>here</a>. For a limited time only, we are offering group deals on general tickets for groups of 3 or more. If you purchase 3 tickets, use code ‘gala3’ for 5% off your ticket purchase. For purchases of 4 tickets, use code ‘gala4’ to receive 10% off your total. Lastly, for 5+ tickets, use code ‘gala5’ to receive 15% off your final total!
+   <!-- <p>Tickets can be purchased <a href=https://dance-marathon-at-uf-510104.square.site/miracle-gala>here</a>. For a limited time only, we are offering group deals on general tickets for groups of 3 or more. If you purchase 3 tickets, use code ‘gala3’ for 5% off your ticket purchase. For purchases of 4 tickets, use code ‘gala4’ to receive 10% off your total. Lastly, for 5+ tickets, use code ‘gala5’ to receive 15% off your final total! -->
     <p>For more information or questions about sponsoring the event, please contact the Community Outreach Overall Director, Aria Patel, at <a href=mailto:apatel@floridadm.org>apatel@floridadm.org</a>. We look forward to seeing you there! </p>
 
 </div>
@@ -301,10 +301,10 @@ include("includes/navbar.php");
     <h3>Miracles in Color 5K</h3>
     <!-- <p>Tickets are no longer available.</p> -->
 
-    Welcome to the Miracles in Color 5K benefiting UF Health Shands Children's Hospital!
-    <b>Miracles in Color will be taking place on February 5th, 2023 at Flavet Field. </b> It is open to anyone who wants to support our cause and have a great time. We couldn't think of a better way for you to spend your Sunday morning than with paint and by supporting a hospital that is so prominent in our community!
+    Welcome to the Miracles in Color 5K benefiting UF Health Shands Children's Hospital! 
+   <!-- <b>Miracles in Color will be taking place on February 5th, 2023 at Flavet Field. </b> -->It is open to anyone who wants to support our cause and have a great time. We couldn't think of a better way for you to spend your Sunday morning than with paint and by supporting a hospital that is so prominent in our community!
     </p>
-    <p> Purchase <a href=https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5533>Miracles in Color 5k Tickets here!</a>* </p>
+  <!--  <p> Purchase <a href=https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5533>Miracles in Color 5k Tickets here!</a>* </p> -->
               
              <!-- <p><i> *Tickets purchased after January 31 will not include a complimentary 5K shirt </i></p> -->
     <p> The course runs through the University of Florida campus and will have color stations throughout the course as well as at the finish line. At each color station, runners will be doused in color.* <u>All participants will be provided with a Miracles In Color 5k white shirt with registration.</u> </p>
@@ -363,7 +363,7 @@ include("includes/navbar.php");
 <!-- </div> -->
 <div id="transform" class="tabcontent">
     <h3>Transform Today</h3>
-    Transform Today is our largest fall fundraising effort which lasts 26.2 hours and will take place on October 25th-26th this year! Our movement spread throughout our organization, campus and community as our different teams’ colored polos flooded the University of Florida; our participants took the initiative to dedicate their day to raise funds and awareness for patients at UF Health Shands Children’s Hospital. <br></br>
+    Transform Today is our largest fall fundraising effort which lasts 26.2 hours and will take place during the fall this year! Our movement spread throughout our organization, campus and community as our different teams’ colored polos flooded the University of Florida; our participants took the initiative to dedicate their day to raise funds and awareness for patients at UF Health Shands Children’s Hospital. <br></br>
 
     In efforts to boost engagement and encourage fundraising, we hosted programming at the Reitz Student Union in the Grand Ballroom and North Lawn. Throughout the day, merchandise, fundraising activities and Miracle Stories engaged and connected our members to our cause. We would like to extend a huge thank you to our participants, Alumni and donors for your continuous support throughout the day!<br></br>
 
@@ -391,8 +391,8 @@ include("includes/navbar.php");
         Transform Today is Dance Marathon at the University of Florida’s largest fundraising campaign in the Fall semester. There are a variety of different ways to join our movement and help us transform the lives of our student body, the lives of the children at UF Health Shands Children’s Hospital, and the lives of each other. </br>
 
         <br>If you are looking to make a financial contribution to support our cause, you can donate using our DonorDrive, linked <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.donate&eventID=5233" target="_blank">here.</a></br>
-        <br>If you are looking to register to Dance in our 2023 Main Event, you can register to Dance <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5422" target="_blank">here.</a> All registered Dancers must also create a DonorDrive page, you can do so <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5233" target="_blank">here.</a> Dancer registration is only open for the duration of Transform Today. </br>
-        <br></br>
+       <!-- <br>If you are looking to register to Dance in our 2023 Main Event, you can register to Dance <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5422" target="_blank">here.</a> All registered Dancers must also create a DonorDrive page, you can do so <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5233" target="_blank">here.</a> Dancer registration is only open for the duration of Transform Today. </br>
+        <br></br> -->
         <h4><i>Hospitality Nights</i></h4>
 
         Hospitality Nights serve as an opportunity for the local Gainesville community can support Dance Marathon at UF’s fundraising efforts. On Transform Today, hospitality nights will be occurring in select locations. Make sure to mention Dance Marathon at UF at check out and a portion of the proceeds will benefit the patients at UF Health Shands Children’s Hospital!

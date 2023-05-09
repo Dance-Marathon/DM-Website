@@ -397,7 +397,7 @@ background-image: url("/assets/images/BannerPhotos21/KVO-1615.jpg");
 			<div class="col-md-8 col-md-push-1">
   		<?php if ($status == "open") { ?>
      <h3>Organizations</h3>
-		  <p>Over 100 Organizations at the University of Florida participate in Dance Marathon every year!</p>
+		  <p>A variety of University of Florida affeliated participate in Dance Marathon every year!</p>
       <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Brandon White, at <a href=mailto:bwhite@floridadm.org>bwhite@floridadm.org</a></p>
       <p>Below are the Organizations currently involved in Dance Marathon at UF 2021:</p>
 
