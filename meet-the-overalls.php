@@ -36,7 +36,7 @@
          'fun_fact' => 'This is going to be my 7th year of participating in DM, as I was a part of my high school\'s program for 4 years as well. Shout out VBHS!',
          'favorite_memory' => 'My last Dance Marathon as a high school student. That was the day that solidified my love and passion for this organization and it’s cause. I knew then that this was a movement I wanted to be a part of for the rest of my life. ',
          'motivation' => 'My biggest sources of motivation come from two different places. The first of these is drawn from the courageous Miracle Children and their families that we benefit through this organization. The second source of inspiration stems from the thousands of college students who could be doing a million other things with their time, but instead chose to dedicate their time and efforts to drastically impacting pediatric illness. ',
-         'image' => 'CF.JPG',
+         'image' => 'CF.jpg',
         ),
         array(
          'name' => 'Gwyneth Bishara',
@@ -79,7 +79,7 @@
         'fun_fact'              =>  'I was named after the young girl in the book To Kill a Mockingbird.',
         'favorite_memory'       =>  'Every year, Dance Marathon is my favorite weekend of the year. The entire weekend and feeling that Dance Marathon gives me is hands down my favorite part of college. However, if I had to pick a specific moment, it would be the last Line Dance from Dance Marathon 2017. Morale teaches the Line Dance throughout the event, and it is amazing to watch from the side stage as over 800 dancers learn it. By the end of the event everyone is so full of emotion and watching everyone do the Line Dance teary-eyed and in unison is amazing.',
         'motivation'            =>  'Every time that I see one of the Miracle Children smile, it motivates me and reminds me why we do what we do. The fact that we are able to come together as a community and put smiles on these childrens&#39; faces is constant motivation. I feel so lucky that I am surrounded by an organization, children, and friends that never cease to inspire and motivate me. Dance Marathon has provided me with a lifelong goal to help others and fight for an end to childhood illness in Gainesville and all over the world.',
-        'image'                 =>  'TJ.JPG',
+        'image'                 =>  'TJ.jpg',
       ),
              array(
         'name' => 'Aria Patel',
@@ -93,7 +93,7 @@
         'fun_fact' => 'One time I got 2nd degree burns from Ramen noodles.',
         'favorite_memory' => 'My favorite DM memory was watching my little brother Jack rock out on the guitar during the kid\'s talent show!',
         'motivation' => 'Every time one of our Miracle Children laughs or smiles it reminds me how important it is that we do what we do. Their unwavering strength inspires me every day to do all that I can to keep them laughing and smiling. ',
-        'image' => 'Aria.JPG',
+        'image' => 'Aria.jpg',
        ),
        array(
         'name' => 'Ashleigh Churchill',
@@ -107,7 +107,7 @@
         'fun_fact' => 'I drink roughly 8 shots of espresso a day.',
         'favorite_memory' => 'My Favorite DM Memory is from Belleview High School in Ocala. Ayden came to a pep rally to sing and get the students excited about their upcoming Mini Marathon. Ayden stood at half court and sang Taylor Swift and the entire gym stood and sang with him, making him feel like a rockstar. It\'s moments like this that remind me how special this organization is, and how it can bring anyone together. ',
         'motivation' => 'I am motivated by every Miracle Child that defines strength, passion, and love, and I am also motivated by every individual who commits to standing for those who can\'t. While it is easy to get caught up in the little things in college, it constantly amazes me that over 7,000 students can come together to fight for children they may never meet, and stand for something so much bigger than themselves. ',
-        'image' => 'AC.JPG',
+        'image' => 'AC.jpg',
        ),
        array(
         'name' => 'Cameron Appel',
@@ -149,7 +149,7 @@
         'fun_fact' => 'I used to do competitive horseback riding!',
         'favorite_memory' => 'Meeting some of my best friends and people that have inspired me in ways I never imagined. ',
         'motivation' => 'Being able to create happy memories for others. I believe that everyone deserves to look back on a childhood filled with happy thoughts, unclouded by the memories of hospital visits, medication, and needles. DM at UF helps provide positive experiences for children and their families so that they can make amazing memories that will last a lifetime. Being a part of a movement that does this is truly incredible. ',
-        'image' => 'DB.JPG',
+        'image' => 'DB.jpg',
        ),
         array(
        'name' => 'Ava Peiser',
@@ -162,7 +162,7 @@
        'fun_fact' => 'I used to live in New Orleans.',
        'favorite_memory' => 'FTKitchen',
        'motivation' => 'Good music and sunsets',
-       'image' => 'AP.JPG',
+       'image' => 'AP.jpg',
           ),
          array(
         'name' => 'Emma Kate Joiner',
@@ -176,7 +176,7 @@
         'fun_fact' => 'I lived in Costa Rica for 2 years!',
         'favorite_memory' => 'My favorite DM memory comes from this past year. When the closing ceremonies video played, I was reminded of how much my team and I had accomplished over the past year. This experience with them and seeing DM at UF make 3 million miracles was such an unforgettable moment.',
         'motivation' => 'The tangible differences Dance Marathon at UF and Children\'s Miracle Network makes on the lives of children and families who need it most. ',
-        'image' => 'EKJ.JPG',
+        'image' => 'EKJ.jpg',
          ),
           array(
            'name' => 'Jackie Aloumanis',
@@ -190,7 +190,7 @@
            'fun_fact' => 'I dressed as a banana and danced on the side of the road for two years to advertise for the Wellington Green Market. ',
            'favorite_memory' => 'At DM18, I had the awesome honor to be selected as the \'Assistant Director of the Year\' and accept the award on stage during the Closing Ceremonies. While receiving the award was incredible, my favorite memory was my walk to the stage. Haley, Rachel and both Declan and Ayden\'s family, wrapped me in a hug, crying, telling me how proud they were of me. That\'s a feeling I will hold onto forever, and the feeling I remember anytime I need to smile. ',
            'motivation' => 'Every day I\'m lucky to talk to the most passionate, dedicated high school and college students that have ever existed. I\'m motivated by these students, the pride they feel when their events come together, their abilities to overcome any roadblock in their path, and their passion For The Kids. I\'m motivated by one generation, fighting for the next!',
-           'image' => 'JA.JPG',
+           'image' => 'JA.jpg',
           ),
          array(
         'name' => 'Kalie Wright',
@@ -204,7 +204,7 @@
         'fun_fact' => 'I broke Google not once, but twice.',
         'favorite_memory' => 'My favorite DM memory this year was listening to Nick Mullen tell his Miracle Story. This was so special to me because when I first met him in the beginning of the year, he did not like to tell his story in front of even a small group of Merchandise Captains, but at the event he stood up in front of 800 people and nailed it! This was such an eye opening moment for me where I realized that not only are we raising funds for this cause, but we are also offering love and support to each of these children. ',
         'motivation' => 'Each story I hear and each family I meet drives my passion for this organization! ',
-        'image' => 'KW.JPG',
+        'image' => 'KW.jpg',
        ),
        array(
         'name' => 'Filomena Selvanik',
@@ -218,7 +218,7 @@
         'fun_fact' => 'I\'ve owned venus fly traps, a hermit crab, and a dwarf hamster, and 2 crocs all in college.',
         'favorite_memory' => 'My favorite DM memory was sitting at the top of the O\'Dome watching over a thousand people do the Linedance and how it brought them all together and made everyone so happy! ',
         'motivation' => 'The kids. Their love for life under the hardest circumstances pushes me every single day to do everything that I can for them.  They deserve the world and the fact that DM at UF brings together so many students who all fight for something bigger than themselves is so inspring.',
-        'image' => 'FS.JPG',
+        'image' => 'FS.jpg',
         ),
          array(
         'name' => 'Braden Romano',
@@ -247,7 +247,7 @@
             'fun_fact' => 'I have been playing the piano since I was six years old! ',
             'favorite_memory' => 'It is so difficult to choose just one, but my favorite DM memory would have to be the moment immediately following the total reveal at DM at UF 2018. Truthfully, the number had almost nothing to do with it. I looked at the number for a second and was filled with pride, but then I turned my attention to everyone\'s faces. I noticed everyone in the room was overcome with emotion. I watched friends embrace and Miracle Children jump into our arms, tears streaming down their faces. There wasn\'t a dry eye in the house. Watching hundreds upon hundreds of people realizing the magnitude of their efforts was absolutely incredible. The moment after the total reveal is so much more than seeing a number. It is hope, joy and knowledge that our efforts and goals have come to fruition. We made a tangible, real impact on the lives of these kids we treasure so much. I will never forget that moment. ',
             'motivation' => 'Our Miracle Children and their families! They are some of the most wonderful people I have ever met, and I am forever grateful to be a part of their lives. They make me want to be a better person. Additionally, I am motivated by everyone involved in Dance Marathon at UF. Seeing hundreds of students work tirelessly and selflessly to help the kids is truly inspiring. It is a privilege to work alongside them to fight for our Miracle Children to have the healthy lives and futures they deserve. ',
-            'image' => 'DG.JPG',
+            'image' => 'DG.jpg',
          ),
           array(
         'name' => 'Averie Engel',
@@ -261,7 +261,7 @@
         'fun_fact' => 'I am a Justin Timberlake enthusiast!',
         'favorite_memory' => 'Every year during the event I always find 20 minutes to go sit up in the bleachers of the O\'Dome and let everything soak in. As I step away from the craziness and give myself time to reflect on the year, I always find myself overwhelmed with gratitude for DM at UF. I will always hold those special moments close to my heart!',
         'motivation' => 'Every time I see the colorful windows of UF Shands Children\'s Hospital, I am reminded of the unimaginable battles that take place within those walls. The brave children who persevere through the hardest of times will forever motivate me and inspire me to continue our fight FTK.',
-        'image' => 'AE.JPG',
+        'image' => 'AE.jpg',
         ),
 
          array(
@@ -276,7 +276,7 @@
         'fun_fact' => 'If there was one place I’d want to spend the rest of my life it would be Disney World!',
         'favorite_memory' => 'My favorite DM memory was seeing the Miracle kids become emotional when we hit $3 million last year. It showed that they appreciate all that we do and that they are just as proud of us as we are of them! ',
         'motivation' => 'The Miracle Children motivate me everyday to live life to the fullest. They remind me that life is too short to be anything less than happy and that everyday can and should be a good day. They are true warriors that inspire me every single day! ',
-        'image' => 'MKA.JPG',
+        'image' => 'MKA.jpg',
          ),
 
           array(
@@ -291,7 +291,7 @@
            'fun_fact' => 'I used to be Tumblr famous in 2012. ',
            'favorite_memory' => 'Getting my hospital band cut off by Elie at closing ceremonies last year was definitely a powerful moment. It really bought together everything we had worked so hard for and reminded me why we do what we do.',
            'motivation' => 'I\'ve always loved working with and helping kids. After graduation, I hope to go to medical school to pursue my dream of becoming a pediatrician.',
-           'image' => 'RA.JPG',
+           'image' => 'RA.jpg',
          ),
 
         
