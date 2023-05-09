@@ -380,7 +380,7 @@ include("includes/navbar.php");
     <br></br>
     <h4><i>When</i></h2>
 
-        Transform Today 2022 is from 9:00 a.m. on October 25th until 11:12 a.m. on October 26th! </li>
+        TBD <!--Transform Today 2022 is from 9:00 a.m. on October 25th until 11:12 a.m. on October 26th! </li> -->
         <br></br>
         <h4><i>What</i></h4>
 
