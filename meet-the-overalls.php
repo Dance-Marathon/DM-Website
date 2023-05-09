@@ -135,7 +135,7 @@
          'fun_fact' => 'I have been SCUBA certified since I was 8 years old. I was headbutted by a shark during my first "open water" dive.',
          'favorite_memory' => 'On-stage selfie with Camden and the entire O\'Connell center during DM2018',
          'motivation' => 'A quote describes my motivation; \'To the world you may be one person, but to one person you may be the world\'. I want to make a lasting positive impact on every single person I meet.',
-         'image' => 'ACZ.JPG',
+         'image' => 'ACZ.jpg',
          ),
         array(
         'name' => 'Dilon Bruncaj',
@@ -232,7 +232,7 @@
         'fun_fact' => 'I was born in Guayaquil, Ecuador and I am bilingual.',
         'favorite_memory' => 'My favorite DM memory was near the end of this year\'s Opening Ceremony. I was in charge of making the Opening Ceremonies video and this year we decided to incorporate the moment that the Dancers stood up into the video. My favorite memory was this moment in which the Dancers realized it was time for their 26.2 hour journey to begin. This was my favorite memory because it meant our video was successful in sending our message across without necessarily telling the Dancers they had to stand up.',
         'motivation' => 'What motivates me is my passion for filmmaking and helping others.',
-        'image' => 'BR.JPG',
+        'image' => 'BR.jpg',
        ),
 
          array(
