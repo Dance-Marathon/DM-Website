@@ -714,7 +714,7 @@ for($i = 0; $i < count($overalls); $i++) {
 <ul>
    <li>Complete the online application form.</li>
    <li>Create a DonorDrive personal fundraising page.</li>
-   <li>Pay the $25 application fee. You only need to pay the application fee <b>once</b> even if you are applying for more than one position. Instructions on how to complete both of these items can be found on the front page of either application.</li>
+   <li>Pay the $20 application fee. You only need to pay the application fee <b>once</b> even if you are applying for more than one position. Instructions on how to complete both of these items can be found on the front page of either application.</li>
 </ul>
 <br> You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. To be eligible to be an Ambassador, you <b>can not</b> hold another position as well. </br>
    
