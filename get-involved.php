@@ -988,7 +988,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
           <br><br>
                  <h4><b>Assistant Director of Community Engagement</b></h4>
                  Sonali Vijay
-                 <h4><b>	Assistant Director of Universal Relations</b></h4>
+                 <h4><b>	Assistant Director of University Relations</b></h4>
                  Bella Fogarty
                  <h4><b>Assistant Director of Logistics</b></h4>
                  Gabby Williams
