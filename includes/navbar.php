@@ -32,7 +32,7 @@
 						<a href="/meet-the-overalls" class="dropdown-toggle">Contact Us</a>
 					</li>
 				<li <?php echo ($parent == 'about') ? "class='open'" : ""; ?>>
-					<a href="/about" class="dropdown-toggle">Abo22ut</a>
+					<a href="/about" class="dropdown-toggle">About</a>
 					<!--<ul class="dropdown-menu" role="menu">-->
 						<!--<li><a href ="/blog">Blog</a></li>-->
 						<!--<li><a href="/uf-health">CMNH & UF Health</a></li>-->
@@ -122,7 +122,7 @@
                   <li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fa fa-instagram"></i></a></li>
                   <li><a href="https://twitter.com/floridadm?lang=en"><i class="fa fa-twitter"></i></a></li>
                   <li><a href="https://www.facebook.com/floridaDM/"><i class="fa fa-facebook"></i></a></li>
-				  <li><a href="https://www.tiktok.com/@dmatuf?_t=8YGROtwu7Eg&_r=1"><img class="fa" src="../assets\images\Logos\tiktok-iconWhite-larger.webp" style="width:1.4rem;"/></a></li>
+				  <li><a href="https://www.tiktok.com/@dmatuf?_t=8YGROtwu7Eg&_r=1"><img class="fa" src="../assets\images\Logos\tiktok-iconWhite-larger.webp" style="width:1.7rem;"/></a></li>
                   <!--<li><a href="https://www.tiktok.com/t/ZTRF4aWW7/"><i class="fa-brands fa-tiktok"></i></a></li> :: What the code should be provided we had an updated version of Font Awesome, which is where these come from-->
 
               </ul>
