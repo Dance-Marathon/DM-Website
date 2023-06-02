@@ -726,7 +726,7 @@ for($i = 0; $i < count($overalls); $i++) {
 <b>Overall Director Application</b> Now Closed </p>
 <!--Click <a href="Documents/2022 Overall Director Application.pdf" target="_blank">here</a> to view the 2022 Overall Director Application</p>-->
 <!-- You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. You can apply to be an Ambassador even if you hold another position, and you will be able to do both.</p> -->
-<b>Assistant Director Applications</b> The Assistant Director Application can be found <a href="assets/PDFs/AD Application 2024.pdf" target="_blank">here</a>. This application will close at <b/>5:00 PM EST on Wednesday, May 10</b>. </p>
+<b>Assistant Director Applications</b> Now Closed <!--The Assistant Director Application can be found <a href="assets/PDFs/AD Application 2024.pdf" target="_blank">here</a>. This application will close at <b/>5:00 PM EST on Wednesday, May 10</b>. --> </p>
 
 <b>Captain Application</b> Now Closed </p>
 <!--    The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_ey6G1kOFYWmcrTo" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>11:59 PM EST on Friday, September 3</b>.
@@ -753,7 +753,7 @@ for($i = 0; $i < count($overalls); $i++) {
 
 <p>Organization Ambassadors will attend weekly meetings to receive information to relay to their Organizations and to work on professional and personal development. These meetings will allow Ambassadors to think creatively and brainstorm together to create new ways to incentivize and engage their members in Dance Marathon. Each Organization will be assigned a Fundraising & Organization Development Captain to work with on Organization involvement and fundraising throughout the year.<P>
 
-Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here</a> to view the 2022 Ambassador Guidelines</p>
+Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here</a> to view the 2024 Ambassador Guidelines</p>
 
   <h3>Responsibilities:</h3>
   <ul>
@@ -988,7 +988,7 @@ Click <a href="assets/PDFs/Ambassador Guidelines 2021.pdf" target="_blank">here<
           <br><br>
                  <h4><b>Assistant Director of Community Engagement</b></h4>
                  Sonali Vijay
-                 <h4><b>	Assistant Director of Universal Relations</b></h4>
+                 <h4><b>	Assistant Director of University Relations</b></h4>
                  Bella Fogarty
                  <h4><b>Assistant Director of Logistics</b></h4>
                  Gabby Williams
