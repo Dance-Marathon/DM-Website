@@ -390,7 +390,7 @@ function openSubTab(evt, storySub) {
     }
     /* Create an active/current tablink class */
     .tab button.active {
-        background-color: #233563;
+        background-color: #f3839c;
         margin-bottom: 0%;
     }
     /* Style the tab content */
@@ -430,8 +430,8 @@ function openSubTab(evt, storySub) {
     transition: 0.1s;
 }
 .subtab button.active {
-    color: #e2883c;
-    border-bottom: 2px solid #e2883c;
+    color: #fff89f;
+    border-bottom: 2px solid #fff89f;
     height: 50px;
 }
 .zone {
@@ -527,12 +527,12 @@ function openSubTab(evt, storySub) {
                                     <h4>Get Involved with the Dance Marathon Family</h4>
                                     <p>If you would like to get involved with our organization, check out the list of positions below!</p>
      
-                                           <ul><b style="color: #233563">Organization:</b>     Student Organizations work year-round to support our cause.</ul>
-                         <ul><b style="color: #233563">Dancer:</b> Dancers stand on their feet if able for the duration of our Main Event in April to raise funds and awareness for UF Health Shands Children’s Hospital.</ul>
-                                             <ul><b style="color: #233563">Emerging Leader:</b> Members of our Emerging Leaders Program work alongside the Recruitment Team, providing support to Captain Teams and brainstorming new ideas to ensure a successful future for our organization.</ul>
-                         <ul><b style="color: #233563">Captain:</b> Captains belong to 1 of 15 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
-                         <ul><b style="color: #233563">Assistant Directors:</b> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain Teams.</ul>
-                         <ul><b style="color: #233563">Overall Directors:</b> The 20 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain Teams to oversee, expand, and promote our organization.</ul>
+                                           <ul><b style="color: #f3839c">Organization:</b>     Student Organizations work year-round to support our cause.</ul>
+                         <ul><b style="color: #f3839c">Dancer:</b> Dancers stand on their feet if able for the duration of our Main Event in April to raise funds and awareness for UF Health Shands Children’s Hospital.</ul>
+                                             <ul><b style="color: #f3839c">Emerging Leader:</b> Members of our Emerging Leaders Program work alongside the Recruitment Team, providing support to Captain Teams and brainstorming new ideas to ensure a successful future for our organization.</ul>
+                         <ul><b style="color: #f3839c">Captain:</b> Captains belong to 1 of 15 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
+                         <ul><b style="color: #f3839c">Assistant Directors:</b> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain Teams.</ul>
+                         <ul><b style="color: #f3839c">Overall Directors:</b> The 20 individuals who lead Dance Marathon efforts throughout the year. They are responsible for leading their respective Captain Teams to oversee, expand, and promote our organization.</ul>
      
                                  <table style="width:100%">
                                         <tr>
@@ -556,11 +556,12 @@ function openSubTab(evt, storySub) {
         <button class="tablinks" onclick="openCity(event, 'apps')">APPLICATIONS</button>
         <button class="tablinks" onclick="openCity(event, 'ambassadors')">AMBASSADORS</button>
         <button class="tablinks" onclick="openCity(event, 'captain-teams')">CAPTAIN TEAMS</button>
-        <button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>
+        <!--<button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>-->
     </div>
     <div class="tab">
-        <button class="tablinks" onclick="openCity(event, 'dancers')">DANCERS</button>
-        <button class="tablinks" onclick="openCity(event, 'kirstyn')">KIRSTYN'S KREW</button>
+    <button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>    
+    <button class="tablinks" onclick="openCity(event, 'dancers')">DANCERS</button>
+        <!--<button class="tablinks" onclick="openCity(event, 'kirstyn')">KIRSTYN'S KREW</button>-->
         <button class="tablinks" onclick="openCity(event, 'orgs')">ORGANIZATIONS</button>
         <button class="tablinks" onclick="openCity(event, 'service')">SERVICE</button>
     </div>
@@ -582,7 +583,7 @@ function openSubTab(evt, storySub) {
             <div></div>
         <!--    <p>Within the Lifetime DMA Membership, there are <b><u>two</u></b> membership options:</p>
             <div></div>
-          <h4><i style="color:#e2883c;"><b>(1) Miracle Membership</b></i></h4>
+          <h4><i style="color:#fff89f;"><b>(1) Miracle Membership</b></i></h4>
             <p>This <b>general membership</b> provides new DMA members with benefits outlined below, through a one-time fee of </b>$40</b>. The Miracle Membership, as it stands today, includes those registered members from the inception of the DMA (2015) to all current members (2021). This membership will automatically grandfather returning members, and new members to the DMA, into the Miracle Membership. </p>
             <p><b><i>Membership Benefits Include:</i></b></p>
                 <ul>
@@ -593,7 +594,7 @@ function openSubTab(evt, storySub) {
                     <li>Inclusion and invites to regionally hosted DMA events</li>
                     <p><small>*DMA Dancer registration fees apply.</small></p>
                 </ul>
-        <h4><i style="color:#233563;"><b>(2) Legacy Membership</b></i></h4>
+        <h4><i style="color:#f3839c;"><b>(2) Legacy Membership</b></i></h4>
             <p>This <b>upgraded membership</b> unlocks all membership benefits, plus the bonus membership benefits outlined below, through an annual fee of <b>$40</b>. This membership is ideal for those who plan to attend Dance Marathon at UF in person and over multiple years. If this is your first year signing up for the DMA, your one-time fee of <b>$40</b> will grant you this exclusive Legacy Membership.</p> -->
             <p><b><i>Membership Benefits Include:</i></b></p>
                 <ul>
@@ -605,10 +606,10 @@ function openSubTab(evt, storySub) {
                     <li>First year members get a complimentary Event Package</li>
                     <p><small>*DMA Dancer registration fees apply.</small></p>
                 </ul>
-                <p><b style="color:#e2883c;">Event Package:</b></p>
+                <p><b style="color:#fff89f;">Event Package:</b></p>
                 <ul>
                     <p>DMA members can purchase an exclusive event package to enhance their experience during the Dance Marathon weekend in spring. This package is ideal for those who plan to attend Dance Marathon at UF and can be purchased for $40 up to one month before the event. If this is your first year signing up for the DMA, you will automatically receive a complimentary Event Package included in your Lifetime Miracle Membership. Purchase the DMA Event Package <a href=https://dance-marathon-at-uf-510104.square.site/product/2022-dance-marathon-alumni-lifetime-membership/1?cs=true&cst=custom> here</a>.</p>
-                    <p><b style="color:#e2883c;">The Event Package includes:</b></p>
+                    <p><b style="color:#fff89f;">The Event Package includes:</b></p>
                     <li>Opportunity to participate in a behind-the-scenes hospital tour</li>
                     <li>Opt-in to receive the DMA event t-shirt**</li>
                     <li>Discounted Miracle Gala tickets</li>
@@ -618,8 +619,8 @@ function openSubTab(evt, storySub) {
                     <p><small>*DMA event t-shirt opt-in includes a direct mailing option for those members unable to attend the  event.</small></p>
                 </ul> <!--
         <h4><b><u><i>Please note:</i></u></b></h4>
-        <p>1. As a <b style="color:#e2883c;">Miracle Member</b> of the DMA, you will have the benefit to maintain this status for life. You may elect to upgrade your membership to the new <b style="color:#233563;">Legacy Membership</b> as outlined below.</p>
-        <p>2. Any returning member, whose current membership lapses, will automatically move into the <b style="color:#e2883c;">Miracle Membership</b> status. These members may upgrade to the new <b style="color:#233563;">Legacy Membership</b> at any time throughout the year, up until one month before Dance Marathon weekend. </p>
+        <p>1. As a <b style="color:#fff89f;">Miracle Member</b> of the DMA, you will have the benefit to maintain this status for life. You may elect to upgrade your membership to the new <b style="color:#f3839c;">Legacy Membership</b> as outlined below.</p>
+        <p>2. Any returning member, whose current membership lapses, will automatically move into the <b style="color:#fff89f;">Miracle Membership</b> status. These members may upgrade to the new <b style="color:#f3839c;">Legacy Membership</b> at any time throughout the year, up until one month before Dance Marathon weekend. </p>
 -->
 
           <h4><b><u>FAQs</u></b></h4>

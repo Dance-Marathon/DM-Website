@@ -119,10 +119,13 @@
 
               </ul>
               <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
-                  <li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fa fa-instagram"></i></a></li>
-                  <li><a href="https://twitter.com/floridadm?lang=en"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="https://www.facebook.com/floridaDM/"><i class="fa fa-facebook"></i></a></li>
-				  <li><a href="https://www.tiktok.com/@dmatuf?_t=8YGROtwu7Eg&_r=1"><img class="fa" src="../assets\images\Logos\tiktok-iconWhite-larger.webp" style="width:1.7rem;"/></a></li>
+			  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+                  <li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fab fa-instagram fa-sm"></i></a></li>
+                  <li><a href="https://twitter.com/floridadm?lang=en"><i class="fab fa-twitter fa-sm"></i></a></li>
+                  <li><a href="https://www.facebook.com/floridaDM/"><i class="fab fa-facebook fa-sm"></i></a></li>
+				  <!--<li><a href="https://www.tiktok.com/@dmatuf?_t=8YGROtwu7Eg&_r=1"><img class="fa" src="../assets\images\Logos\tiktok-iconWhite-larger.webp" style="width:1.7rem;"/></a></li>-->
+				  <li><a href="https://www.facebook.com/floridaDM/"><i class="fab fa-tiktok fa-sm"></i></a></li>
+
                   <!--<li><a href="https://www.tiktok.com/t/ZTRF4aWW7/"><i class="fa-brands fa-tiktok"></i></a></li> :: What the code should be provided we had an updated version of Font Awesome, which is where these come from-->
 
               </ul>
