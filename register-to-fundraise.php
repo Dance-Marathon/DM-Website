@@ -187,7 +187,7 @@ function openSubTab(evt, storySub) {
      
                     <p>Just follow the steps below:</p>
                     <ol>
-                        <li>Follow this <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5233" target="_blank">Link </a> to register now!
+                        <li>Follow this <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5803" target="_blank">Link </a> to register now!
                             <li> Select <b>'Register Now' </b>
                                 <ul>
                                       <li> If you have a DonorDrive account from DM at UF 2022, select <b>‘Login to your account’</b>. </li>
