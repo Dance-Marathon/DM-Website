@@ -190,7 +190,7 @@ function openSubTab(evt, storySub) {
                         <li>Follow this <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5803" target="_blank">Link </a> to register now!
                             <li> Select <b>'Register Now' </b>
                                 <ul>
-                                      <li> If you have a DonorDrive account from DM at UF 2022, select <b>‘Login to your account’</b>. </li>
+                                      <li> If you have a DonorDrive account from DM at UF 2023, select <b>‘Login to your account’</b>. </li>
                                       <li> If you do not have a DonorDrive account, then create an account now.  </li>
                                     </ul> </ul>
                           <li> Next, select your role.
@@ -222,7 +222,7 @@ function openSubTab(evt, storySub) {
     
 <div id="donordrive" class="tabcontent">
 <h3>DonorDrive</h3>
-<p>UF Health Shands Children’s Hospital is continuing to use DonorDrive, an online fundraising platform used widely by Children’s Miracle Network Hospitals, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will be creating DonorDrive accounts to begin fundraising for DM at UF 2022. DonorDrive is safe and easy to use, and was utilized by UF Health Shands Children’s Hospital this past year. To create a fundraising page, register using the link below:</p>
+<p>UF Health Shands Children’s Hospital is continuing to use DonorDrive, an online fundraising platform used widely by Children’s Miracle Network Hospitals, for its Dance Marathon programs. Dance Marathon at the University of Florida’s Fundraisers will be creating DonorDrive accounts to begin fundraising for DM at UF 2024. DonorDrive is safe and easy to use, and was utilized by UF Health Shands Children’s Hospital this past year. To create a fundraising page, register using the link below:</p>
 <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=4669" target="_blank">Register To Fundraise</a>
 <p></p>
  
