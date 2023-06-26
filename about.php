@@ -586,7 +586,7 @@ include("includes/navbar.php");
                                     'name'  => 'Cason T.',
                                     'description' => 'In loving memory of Kirstyn Tripp: August 17, 2004 to April 16, 2018 
                                     <br>Cason Tripp helps raise funds and awareness for Children’s Miracle Network through Dance Marathon at UF in honor of his sister, Kirstyn Tripp, who passed away from a rare metabolic disorder. “Love is a remarkable superpower,” she always said. #KirstynStrong',
-                                    'image' => 'Cason',
+                                    'image' => 'cason',
                                 ),
                                   array(
                                       'name'  => 'Claire E.',
