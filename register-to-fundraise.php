@@ -122,8 +122,8 @@ function openSubTab(evt, storySub) {
     transition: 0.1s;
 }
 .subtab button.active {
-    color: #fff89f;
-    border-bottom: 2px solid #fff89f;
+    color: #ffe249;
+    border-bottom: 2px solid #ffe249;
     height: 50px;
 }
 .zone {

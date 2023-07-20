@@ -77,9 +77,9 @@ a, a:focus, :focus {
           box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
 }
 .btn-default {
-  color: #fff89f;
+  color: #ffe249;
   background-color: #ffffff;
-  border-color: #fff89f;
+  border-color: #ffe249;
   font-size: 14px;
   border: 2px solid;
   border-radius: 4px;
@@ -91,8 +91,8 @@ a, a:focus, :focus {
 .btn-default.active,
 .open .dropdown-toggle.btn-default {
   color: #fff;
-  background-color: #fff89f;
-  border-color: #fff89f;
+  background-color: #ffe249;
+  border-color: #ffe249;
   outline: none;
 }
 .panel {
@@ -249,7 +249,7 @@ NAVIGATION MENU
 	border: none;
 	border-radius: 0;
   margin-bottom: 0;
-	border-bottom:4px solid #fff89f;
+	border-bottom:4px solid #ffe249;
 	z-index: 999;
 }
 .navbar-brand {
@@ -282,7 +282,7 @@ ul.social-icons > li > a {
   text-align: center;
 }
 ul.social-icons > li > a:hover, ul.social-icons > li > a:focus {
-  background-color: #fff89f;
+  background-color: #ffe249;
 }
 .navbar-right{
   margin: 0;
@@ -319,13 +319,13 @@ INTRO / SLIDER
 	border:none;
 	border-radius:3px;
 	transition: all 0.2s;
-	background:#fff89f;
+	background:#ffe249;
 	text-shadow: none;
 }
 .top_btn:hover, .top_btn:focus{
   color: #fff;
 	text-decoration:none;
-	background:#fff89f;
+	background:#ffe249;
 }
 
 /*
@@ -358,7 +358,7 @@ HOMEPAGE STYLES
   font-weight:700;
   color:#fff;
   padding:5px 10px;
-  background-color: #fff89f;
+  background-color: #ffe249;
 }
 .education .col-md-3 {
   padding: 30px 15px;
@@ -367,7 +367,7 @@ HOMEPAGE STYLES
   padding-bottom: 60px;
 }
 .education h3 {
-  color:#fff89f
+  color:#ffe249
 }
 .education p {
   font-size: 14px;
@@ -376,7 +376,7 @@ HOMEPAGE STYLES
   display: block;
   height: 40px;
 	font-size: 42px;
-	color: #fff89f;
+	color: #ffe249;
 }
 .counter{
   background: #f3839c;
@@ -670,7 +670,7 @@ DEFAULT TEMPLATE STYLES
 }
 .page-heading.parallax {
   margin: 0 0 60px;
-  border-bottom: 4px solid #fff89f;
+  border-bottom: 4px solid #ffe249;
 }
 .page-heading.parallax.e404 {
   margin: 0;
@@ -1194,7 +1194,7 @@ a:hover .img-thumbnail{
 	width: 100%;
 	font-size: 24px;
 	font-weight: 800;
-	background-color: #fff89f;
+	background-color: #ffe249;
 	color: white;
 }
 

@@ -72,7 +72,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #fff89f; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #ffe249; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="org-leaderboard"></div>
         </div>
     </div>
@@ -88,7 +88,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #fff89f; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #ffe249; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="captain-leaderboard"></div>
         </div>
       </div>
@@ -210,9 +210,9 @@
 <p style="padding-top:0;"><i style="color:#f3839c;"><b>Above all else</b></i>, we <i style="color:#f3839c;"><b>dedicate</b></i> ourselves to the children who spend their summers being treated at 
 <br><i style="color:#f3839c;"><b>UF Health Shands Children’s Hospital</b></i>.<br/>
 
-<p style="padding-top:0;"><i style="color:#fff89f;"><b>This summer</b></i>, we <i style="color:#f3839c;"><b>stand tall</b></i> in our commitment to Change Kids’ Health, because with <i style="color:#f3839c;"><b>every step</b></i> we take and every beat we <i style="color:#f3839c;"><b><i>feel</i></b></i>, we can make an <i style="color:#f3839c;"><b>everlasting</b></i> impact towards <i style="color:#f3839c;"><b><u>beating</u></b></i> pediatric illness. <i style="color:#fff89f;"><b>This summer</b></i>, let the <i style="color:#f3839c;"><b>rhythm</b></i> of our collective efforts <i style="color:#f3839c;"><b>transcend</b></i> the halls of our beloved academic spaces. 
-<br><i style="color:#fff89f;"><b>This summer</b></i>, let the <i style="color:#f3839c;"><b>army of students</b></i> which makes up Dance Marathon at the University of Florida <i style="color:#f3839c;"><b>unite</b></i>, <i style="color:#f3839c;"><b>#AboveAllElse</b></i>, to make a <i style="color:#f3839c;"><b>profound</b></i> difference and introduce <i style="color:#f3839c;"><b>real, unfathomable change.</b></i><br/>
-    <p style="padding-top:0;"><i style="color:#fff89f;"><b>Dance Marathon</b></i> at the <i style="color:#fff89f;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#f3839c;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#f3839c;"><b>$2,007,079.05</b></i>!<br/>
+<p style="padding-top:0;"><i style="color:#ffe249;"><b>This summer</b></i>, we <i style="color:#f3839c;"><b>stand tall</b></i> in our commitment to Change Kids’ Health, because with <i style="color:#f3839c;"><b>every step</b></i> we take and every beat we <i style="color:#f3839c;"><b><i>feel</i></b></i>, we can make an <i style="color:#f3839c;"><b>everlasting</b></i> impact towards <i style="color:#f3839c;"><b><u>beating</u></b></i> pediatric illness. <i style="color:#ffe249;"><b>This summer</b></i>, let the <i style="color:#f3839c;"><b>rhythm</b></i> of our collective efforts <i style="color:#f3839c;"><b>transcend</b></i> the halls of our beloved academic spaces. 
+<br><i style="color:#ffe249;"><b>This summer</b></i>, let the <i style="color:#f3839c;"><b>army of students</b></i> which makes up Dance Marathon at the University of Florida <i style="color:#f3839c;"><b>unite</b></i>, <i style="color:#f3839c;"><b>#AboveAllElse</b></i>, to make a <i style="color:#f3839c;"><b>profound</b></i> difference and introduce <i style="color:#f3839c;"><b>real, unfathomable change.</b></i><br/>
+    <p style="padding-top:0;"><i style="color:#ffe249;"><b>Dance Marathon</b></i> at the <i style="color:#ffe249;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#f3839c;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#f3839c;"><b>$2,007,079.05</b></i>!<br/>
 </b></a>
 </i></p>
 
@@ -234,8 +234,9 @@
               </div>
      
                     <div class="col-md-3", style="width: 33%;">
-                <!--<i class="fa icon-balloon"></i>-->
-                <img class="fa icon" src="../assets\images\Logos\Asset 2.png" style="position:relative; left:45%"/>
+                    <!--<i class="fas fa-hospital"></i>-->
+                    <i class="fa fa-hospital-o" aria-hidden="true"></i>
+                <!--<img class="fa icon" src="../assets\images\Logos\Asset 2.png" style="position:relative; left:45%"/>-->
                 <h3>CMN Hospitals<br>& UF Health</h3>
                 <p>Ranked one of the top 50 pediatric hospitals in the nation in seven categories, UF Health Shands Children’s Hospital and Children’s Miracle Network have created one of the greatest facilities of care for children and young adults.</p>
               <!--Update this information, we are higher than when we made this website -->
@@ -243,7 +244,8 @@
               </div>
 
               <div class="col-md-3", style="width: 33%;">
-                   <i class="fa fa-heart"></i>
+              <!--<i class="fa-solid fa-family" aria-hidden="true"></i>-->
+              <i class="fa fa-heart"></i>
                 <h3>Miracle Families</h3>
                 <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
                 <p><a class="btn btn-default" href="about" role="button">Learn More</a></p>
@@ -368,7 +370,7 @@
       </div>
 
       <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #fff89f;">
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #ffe249;">
         <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Previous</span>
          </a>
