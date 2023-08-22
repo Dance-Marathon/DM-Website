@@ -72,7 +72,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #ffe249; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #f4bcd7; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="org-leaderboard"></div>
         </div>
     </div>
@@ -80,7 +80,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #f3839c; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #5debba; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="dancer-leaderboard"></div>
         </div>
       </div>
@@ -88,7 +88,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #ffe249; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #f4bcd7; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="captain-leaderboard"></div>
         </div>
       </div>
@@ -96,7 +96,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #f3839c; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #5debba; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="elp-leaderboard"></div>
         </div>
       </div>
@@ -197,7 +197,7 @@
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
 
 
-      <!--<p style="margin:0"><a href="/dance-marathon" style="color:#f3839c"><b>Check out our 2018 Livestream</b></a></p>-->
+      <!--<p style="margin:0"><a href="/dance-marathon" style="color:#5debba"><b>Check out our 2018 Livestream</b></a></p>-->
 
 
 <div id="event_banner">
@@ -205,14 +205,7 @@
     </div>
 
     </div>
-    <p style="padding-top:0;"><i style="color:#f3839c;"><b>No matter</b></i> the season, the <i style="color:#f3839c;"><b>power</b></i> of unity and compassion knows <i style="color:#f3839c;"><b>no</b></i> boundaries. As a <i style="color:#f3839c;"><b>student-led</b></i> organization, the public looks to us during the school year. However, illness does <i style="color:#f3839c;"><b>not stop</b></i> for summer vacation, so <i style="color:#f3839c;"><b>neither do we</b></i>.  Wherever we all may be, <i style="color:#f3839c;"><b>our commitment to making a difference remains unwavering</b></i>. When we come <i style="color:#f3839c;"><b>together</b></i>, we can ensure that the unimaginable challenges of the everyday know <i style="color:#f3839c;"><b>no pause</b></i>; dreams are <i style="color:#f3839c;"><b>nurtured</b></i>, and families are provided with the strength and resources they need. Despite the absence of classrooms, <i style="color:#f3839c;"><b>our hearts remain open</b></i>, ready to extend compassion and support <i style="color:#f3839c;"><b><i>regardless</i></b></i> of what our summer plans have in store.<br/>
-
-<p style="padding-top:0;"><i style="color:#f3839c;"><b>Above all else</b></i>, we <i style="color:#f3839c;"><b>dedicate</b></i> ourselves to the children who spend their summers being treated at 
-<br><i style="color:#f3839c;"><b>UF Health Shands Children’s Hospital</b></i>.<br/>
-
-<p style="padding-top:0;"><i style="color:#ffe249;"><b>This summer</b></i>, we <i style="color:#f3839c;"><b>stand tall</b></i> in our commitment to Change Kids’ Health, because with <i style="color:#f3839c;"><b>every step</b></i> we take and every beat we <i style="color:#f3839c;"><b><i>feel</i></b></i>, we can make an <i style="color:#f3839c;"><b>everlasting</b></i> impact towards <i style="color:#f3839c;"><b><u>beating</u></b></i> pediatric illness. <i style="color:#ffe249;"><b>This summer</b></i>, let the <i style="color:#f3839c;"><b>rhythm</b></i> of our collective efforts <i style="color:#f3839c;"><b>transcend</b></i> the halls of our beloved academic spaces. 
-<br><i style="color:#ffe249;"><b>This summer</b></i>, let the <i style="color:#f3839c;"><b>army of students</b></i> which makes up Dance Marathon at the University of Florida <i style="color:#f3839c;"><b>unite</b></i>, <i style="color:#f3839c;"><b>#AboveAllElse</b></i>, to make a <i style="color:#f3839c;"><b>profound</b></i> difference and introduce <i style="color:#f3839c;"><b>real, unfathomable change.</b></i><br/>
-    <p style="padding-top:0;"><i style="color:#ffe249;"><b>Dance Marathon</b></i> at the <i style="color:#ffe249;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#f3839c;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#f3839c;"><b>$2,007,079.05</b></i>!<br/>
+    <p style="padding-top:0;"><i style="color:#f4bcd7;"><b>Dance Marathon</b></i> at the <i style="color:#f4bcd7;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#5debba;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#5debba;"><b>$2,007,079.05</b></i>!<br/>
 </b></a>
 </i></p>
 
@@ -370,11 +363,11 @@
       </div>
 
       <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #ffe249;">
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #f4bcd7;">
         <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Previous</span>
          </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #f3839c">
+      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #5debba">
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
       </a>
