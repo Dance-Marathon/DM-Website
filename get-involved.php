@@ -711,11 +711,11 @@ for($i = 0; $i < count($overalls); $i++) {
 <div id="apps" class="tabcontent">
 <h3>Applications </h3>
 <br>Thank you for your interest in Dance Marathon at the University of Florida 2023.</br>
-<br>The online application forms are linked below. In order to be considered for an Assistant Director, Captain, ELP, or Ambassador position, you must:</br>
+<br>The online application forms are linked below. In order to be considered for a Captain, the Emerging Leaders Program, or Ambassador position, you must:</br>
 <ul>
    <li>Complete the online application form.</li>
    <li>Create a DonorDrive personal fundraising page.</li>
-   <li>Pay the $20 application fee. You only need to pay the application fee <b>once</b> even if you are applying for more than one position. Instructions on how to complete both of these items can be found on the front page of either application.</li>
+   <li>Pay the $25 application fee. You only need to pay the application fee <b>once</b> even if you are applying for more than one position. Instructions on how to complete both of these items can be found on the front page of either application.</li>
 </ul>
 <br> You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. To be eligible to be an Ambassador, you <b>can not</b> hold another position as well. </br>
    
@@ -729,14 +729,14 @@ for($i = 0; $i < count($overalls); $i++) {
 <!-- You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. You can apply to be an Ambassador even if you hold another position, and you will be able to do both.</p> -->
 <b>Assistant Director Applications</b> Now Closed <!--The Assistant Director Application can be found <a href="assets/PDFs/AD Application 2024.pdf" target="_blank">here</a>. This application will close at <b/>5:00 PM EST on Wednesday, May 10</b>. --> </p>
 
-<b>Captain Application</b> Now Closed </p>
-<!--    The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_ey6G1kOFYWmcrTo" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>11:59 PM EST on Friday, September 3</b>.
-<p>A PDF of all Captain Application questions can be found <a href="assets/PDFs/ApplicationQuestions.pdf" target="_blank">here</a>.</p>
--->
-<b>Emerging Leaders Application</b> Now Closed </p>
-<!--    <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_0vzpwH8jOnh0YRw" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Thursday, September 9</b>.</p> -->
-<b>Ambassador Application</b> Now Closed </p>
-<p></p>
+<b>Captain Application</b> <!--Now Closed </p>-->
+    The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_9YoO63ERV8HTK3s" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>11:59 PM EST on Sunday, September 3</b>.
+<b>A PDF of all Captain Application questions can be found <a href="assets/PDFs/Captain Descriptions and Application Questions.pdf" target="_blank">here</a>.</b>
+
+<b>Emerging Leaders Application</b> <!--Now Closed </p> -->
+    <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_2066pLrEw4x6P0q" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Sunday, September 10</b>.</p> 
+<b>Ambassador Application</b> <!--Now Closed </p>-->
+<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_6VuidCdXZjlefEq" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Tuesday, September 12</b>.</p>
 <p>If you have any questions regarding applications, please reach out to our Membership Manager, Toni JeBailey, at <a href="mailto:tjebailey@floridadm.org">tjebailey@floridadm.org</a>.</p>
                     
 </div>
