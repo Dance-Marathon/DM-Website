@@ -710,7 +710,7 @@ for($i = 0; $i < count($overalls); $i++) {
 </div>
 <div id="apps" class="tabcontent">
 <h3>Applications </h3>
-<br>Thank you for your interest in Dance Marathon at the University of Florida 2023.</br>
+<br>Thank you for your interest in Dance Marathon at the University of Florida 2024.</br>
 <br>The online application forms are linked below. In order to be considered for a Captain, the Emerging Leaders Program, or Ambassador position, you must:</br>
 <ul>
    <li>Complete the online application form.</li>
@@ -737,7 +737,7 @@ for($i = 0; $i < count($overalls); $i++) {
 <b>Emerging Leaders Application</b> <!--Now Closed </p> -->
     <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_2066pLrEw4x6P0q" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Sunday, September 10</b>.</p> 
 <b>Ambassador Application</b> <!--Now Closed </p>-->
-<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_6VuidCdXZjlefEq" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Tuesday, September 12</b>.</p>
+<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_6VuidCdXZjlefEq" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Tuesday, September 12</b>.</p>
 <p>If you have any questions regarding applications, please reach out to our Membership Manager, Toni JeBailey, at <a href="mailto:tjebailey@floridadm.org">tjebailey@floridadm.org</a>.</p>
                     
 </div>
