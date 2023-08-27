@@ -731,7 +731,8 @@ for($i = 0; $i < count($overalls); $i++) {
 
 <b>Captain Application</b> <!--Now Closed </p>-->
     The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_9YoO63ERV8HTK3s" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>11:59 PM EST on Sunday, September 3</b>.
-<b>A PDF of all Captain Application questions can be found <a href="assets/PDFs/Captain Descriptions and Application Questions.pdf" target="_blank">here</a>.</b>
+
+<p>A PDF of all Captain Application questions can be found <a href="assets/PDFs/Captain Descriptions and Application Questions.pdf" target="_blank">here</a>.</p>
 
 <b>Emerging Leaders Application</b> <!--Now Closed </p> -->
     <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_2066pLrEw4x6P0q" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Sunday, September 10</b>.</p> 
