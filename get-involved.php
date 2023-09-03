@@ -730,7 +730,7 @@ for($i = 0; $i < count($overalls); $i++) {
 <b>Assistant Director Applications</b> Now Closed <!--The Assistant Director Application can be found <a href="assets/PDFs/AD Application 2024.pdf" target="_blank">here</a>. This application will close at <b/>5:00 PM EST on Wednesday, May 10</b>. --> </p>
 
 <b>Captain Application</b> <!--Now Closed </p>-->
-    The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_9YoO63ERV8HTK3s" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>11:59 PM EST on Sunday, September 3</b>.
+    The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_9YoO63ERV8HTK3s" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>5:00 PM EST on Monday, September 4</b>.
 
 <p>A PDF of all Captain Team descriptions and Application questions can be found <a href="assets/PDFs/Captain Descriptions and Application Questions1.pdf" target="_blank">here</a>.</p>
 
