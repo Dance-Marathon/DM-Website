@@ -1045,7 +1045,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
               Sabrina Kresse
 	      <h4><b>Assistant Director of External Relations</b></h4>
               Abbey Ladd
-              <!--<h4><b>Captains</b></h4> 
+              <h4><b>Captains</b></h4> 
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
@@ -1088,7 +1088,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
 			Amanda Veltri |
 			Chloe Wai
                     </tbody>
-              </table>-->
+              </table>
 
             </div>
           </div>
