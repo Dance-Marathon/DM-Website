@@ -994,54 +994,33 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                  Bella Fogarty
                  <h4><b>Assistant Director of Logistics</b></h4>
                  Gabby Williams
-               <!--<h4>  <b>Captains</b></h4> 
+               <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
-			Alyssa Ali |
-			Regan Bellantoni |
-			Miranda Benjamin |
-			Caitlin Casady |
-			Emily Chattin |
-			Adele Dorion |
-			Abigail Dugas |
-			Aadil Farid |
-			Isabella Fogarty |
-			Gabi Goldenberg |
-			Maya Hershkowitz |
-			Miles Jeffares |
-			Maggie Mcguane |
-			Nataly Montenegro |
-			Sarina Parikh |
-			Zoe Primack |
-			Heather Sley |
-			Lani Tudor-Dodd |
-			Sonali Vijay |
-			Gabriella Williams |
-			David Zaibert
-      Adele Dorion
-      Alexandra Polo
-      Campbell Crews
-      Catherine Hardy
-      Chiara Bell
-      Danielle Work
-      David Zaibert
-      Elizabeth Holcomb
-      Gabriella Caito
-      Gabrielle Proulx
-      Grace Carreno
-      Jenna Hentrich
-      Kylie Katims
-      Lani Tudor-Dodd
-      Maggie McGuane
-      Maya Hershkowitz
-      Miles Jeffares
-      Miranda Benjamin
-      Neal Desai
-      Nicolas Gonzalez
-      Ryan Brosnahan
+      Adele Dorion |
+      Alexandra Polo |
+      Campbell Crews |
+      Catherine Hardy |
+      Chiara Bell |
+      Danielle Work |
+      David Zaibert |
+      Elizabeth Holcombe |
+      Gabriella Caito |
+      Gabrielle Proulx |
+      Grace Carreno |
+      Jenna Hentrich |
+      Kylie Katims |
+      Lani Tudor-Dodd |
+      Maggie McGuane |
+      Maya Hershkowitz |
+      Miles Jeffares |
+      Miranda Benjamin |
+      Neal Desai |
+      Nicolas Gonzalez |
+      Ryan Brosnahan |
       Serena Thomas
           </tbody>
-              </table>-->
+              </table>
                </div>
              </div>
            </div>
@@ -1067,50 +1046,50 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
               Sabrina Kresse
 	      <h4><b>Assistant Director of External Relations</b></h4>
               Abbey Ladd
-              <!--<h4><b>Captains</b></h4> 
+              <h4><b>Captains</b></h4> 
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
-			Aline Capuano |
-			Ashleigh Churchill |
-			Bianca Ciancio |
-			Abigail Cohen |
-			Mai-Brie Conklin |
-			Bayley Edwards |
-			Maisie Farrell |
-			Andie Galpern |
-			Garrett Gerard |
-			Marielle Goldschlag |
-			Natalie Good |
-			Michael Hampton |
-			Annika Holmstrom |
-			Payton Kadivar |
-			Alex Katsotis |
-			Emily Kelly |
-			Nicole Klein |
-			Sabrina Kresse |
-			Kellie Kulp |
-			Caroline Lee |
-			Kaleigh Lentine |
-			Daniel Lewis |
-			Morgan Liotta |
-			Lauren Maya |
-			Carley Mccammon |
-			Mary Pahides |
-			Alejandro Ramirez |
-			Lauren Rugh |
-			Carly Salk |
-			Kristin Santaniello |
-			Samantha Sawka |
-			Alli Schwartz |
-			Rachael Siegel |
-			Samantha Smith |
-			Gianna Spadavecchia |
-			Sara Sugerman |
-			Amanda Veltri |
-			Chloe Wai
+                Abby Cohen |
+Abigail Warren |
+Alejandro Vela |
+Alex Glazer |
+Alice Bachman |
+Andrew Lenneberg |
+Ariana Feldman |
+Bayley Edwards |
+Bianca Ciancio |
+Caitlyn McCoy |
+Cameron Rosenthal |
+Carley McCammon |
+Carly Miller |
+Carly Salk |
+Claire Lebron |
+Emily Kelly |
+Gianna Spadavecchia |
+Grace Press |
+Holly Kaplan |
+Julia Glacer |
+Ka'Rena Burke |
+Kate Hannah |
+Kellie Kulp |
+Kelsey Kettel |
+Liam Farrell |
+Liam Miller |
+Lydia Kamp |
+Madelyn Avergonzado |
+Marielle  Goldschlag |
+Morgan Liotta |
+Natalia Romano |
+Rebecca Borissova |
+Samantha Kormanyos |
+Shaila Spritzer |
+Taylor Mullen |
+Tyler Bonnoront |
+Whitney Dreyer |
+Zoe Sakellarios
                     </tbody>
-              </table>-->
+              </table>
 
             </div>
           </div>
@@ -1136,25 +1115,34 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
               Hailey Paek
               <h4><b>Assistant Director of Internal Affairs</b></h4>
               Sophie Gaer
-            <!--  <h4>  <b> Captains</b></h4> 
+              <h4>  <b> Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="designandtech">
-			 Rachel Bernstein |
-			Lexy Cohen |
-			Camille Eyman |
-			Jessica Freeman |
-			Gabrielle Friedman |
-			Natalie Kwak |
-			Joshua Lamb |
-			Katie Mcdonnell |
-			Lauren Nigri |
-			Rachel Peterson |
-			Sami Sepehri |
-			Emsley Thornton |
-			Aaron Upchurch |
-			Sydney Wall 
+                Alicia Grant |
+Ansley Goldstein |
+Carolina Aranguiz Dias |
+Chloe Greene |
+Daniela Iturres |
+Eric Hengber |
+Heather Casto |
+Ilise Hyams |
+Jasmine Byrd |
+Jayden Spitulnik |
+Jennifer Purington |
+Joshua Chin-You |
+Julia Shafizadeh |
+Katelyn King |
+Katrina Ise |
+Lily Cabrera |
+Max Martin |
+Natalie Kwak |
+Paige Hamilton |
+Rachel Glew |
+Riley Shapiro |
+Sade Whitcomb |
+Zachary Grosswirth
                    </tbody>
-              </table>-->
+              </table>
             </div>
           </div>
         </div>
