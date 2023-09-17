@@ -1752,31 +1752,35 @@ Tor Moncrieff
                 Ashley Hearn 
                 <h4><b>Assistant Director of Media Outreach </b></h4>
                 Alexis Gershuny 
-     <!--<h4>  <b> Captains</b></h4> 
+     <h4>  <b> Captains</b></h4> 
      <table style="width:100%">
                 <tbody class="pr">
-			Hope Barrist |
-			Cole Buffa |
-			Brennan Dampier |
-			Averie Engel |
-			Aliyah Formont |
-			Alexis Gershuny |
-			Leah Grobman |
-			Trevor Isakson |
-			Olivia Leeper |
-			Veronica Nobles |
-			Sydney Pappas |
-			Romy Peretz |
-			Jesse Pickel |
-			Olivia Romano |
-			Ellie Simkhai |
-			Gabby Spitz |
-			Hannah Stefan |
-			Gaby Tryzmel |
-			Ryan Tweeddale |
-			Haley Wade
+                Alexa Gingold |
+Ally Jewell |
+Anabella Fernandez |
+Benjamin Stone |
+Cole Buffa |
+Ellie Simkhai |
+Gavin Ostrow |
+Grace McClung |
+Grey Chapin |
+Haley Wade |
+Hannah Stefan |
+Jack Buffa |
+Jessica Perez |
+Lainey Shapiro |
+Lauren Lodowski |
+Madison Schioppo |
+Nicole DeSilva |
+Nicole Gigliotti |
+Riley Highfield |
+Romy Peretz |
+Rylie Pryor |
+Samantha Green |
+Trevor Shepherd |
+Veronica Nobles
                         </tbody>
-              </table>-->
+              </table>
 
 
               </div>
@@ -1801,38 +1805,31 @@ Tor Moncrieff
                 Raelin Terrell
                 <h4><b>Assistant Director of Tracking</b></h4>
                 Madison St. Pierre
-          <!-- <h4>  <b>Captains</b></h4> 
+           <h4>  <b>Captains</b></h4> 
            <table style="width:100%">
                 <tbody class="recruitment"> 
-			Ariel Banfalvy |
-			Isabella Delrosario |
-			Raegan Direnzo |
-			Tomas Gayoso |
-			Isabella Gray |
-			Kacey Hamlin |
-			Mary Hanania |
-			Allie Harbaruk |
-			Jordan Hartman |
-			Ashley Kiker |
-			Lauren Kuller |
-			Leamarie Mattia |
-			Victoria Moltzan |
-			Bryanne Parks |
-			Erin Partlow |
-			Kasey Permenter |
-			Katie Piskun |
-			Sukhman Sidhu |
-			Madison St. Pierre |
-			Anna Kate Stoner |
-			Raelin Terrell |
-			Victoria Theiss |
-			Nicole Turner |
-			Evelyn Vaughan |
-			Sophia Villaverde |
-			Julia Zager
+                Addison Wooley |
+Alexandra Longa |
+Ariel Banfalvy |
+Ava Orlando |
+Daniela Velasquez |
+Francesca Abarno |
+Frankie Provenzano |
+Isabella Duarte |
+Isabella Duncan |
+Isabella Gray |
+Jordan Hartman |
+Katherine McKeon |
+Katie Piskun |
+Lauren Kuller |
+Lea Mattia |
+Madison  Daire |
+Mia Filoramo |
+Sam Jacobi |
+Savannah Woods |
+Sukhman Sidhu
                         </tbody>
-              </table>-->
-
+              </table>
               </div>
             </div>
           </div>
@@ -1855,39 +1852,31 @@ Tor Moncrieff
                 Spencer Gary
                 <h4><b>Assistant Director of Stewardship</b></h4>
                 Jessica Winograd
-         <!--<h4>  <b>Captains</b></h4> 
+         <h4>  <b>Captains</b></h4> 
           <table style="width:100%">
                 <tbody class="sponsorships">
-			Zachary Abrams |
-			Ansley Angulo |
-			Austin Armbruster |
-			Emily Bernstein |
-			Elizabeth Bond |
-			Griffin Boyd |
-			Ryan Blume |
-			Paul Czerniak |
-			Dominique Dimeglio |
-			Alli Dronsick |
-			Spencer Gary |
-			Eliza Greenwald |
-			Christopher Keeble |
-			Alexandra Longa |
-			Sarah Mcpherson |
-			Caitlin Moran |
-			Ravi Patel |
-			Preston Serra |
-			Matthew Shake |
-			William Steed |
-			Jenna Stevens |
-			Manuel Uribe
+                Caleb Dandeneau |
+Chloe Rubin |
+Dylan Lyons |
+Elle Lentz |
+Hallie Miller |
+Jaiden Lopes |
+Joey Jung |
+Joshua Brandt |
+Kristina Guerra |
+Liam Pattison |
+Matthew Hill |
+Remi Sanchez IV |
+Ryan Blume |
+Timothy Hodges |
+Tyller Bauer |
+Zachary Abrams
                     </tbody>
-              </table>-->
-
+              </table>
               </div>
             </div>
           </div>
         </div>
-        
       </div>
     </div>
   </div>
