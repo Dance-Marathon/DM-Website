@@ -1344,43 +1344,43 @@ Sarah Klein
               Sophia Linale
               <h4><b>Assistant Director of Tracking</b></h4>
               Madelyn Debski
-     <!--<h4>  <b> Captains</b></h4> 
+     <h4>  <b> Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="leadershipdevelopment">
-			Emma Ackerman |
-			Marcella Almgren |
-			Andrew Bass |
-			Michael Behling |
-			Taylor Benson |
-			Megan Blankenship |
-			Camryn Boyette |
-			Ryan Boyle |
-			Ally Bravo |
-			Coleman Brown |
-			Amanda Carroll |
-			Ava Carter |
-			Brooke Collins |
-			Logan Crawford |
-			Madelyn Debski |
-			Mandy Eastwood |
-			Christian Hunter |
-			William Jarrett |
-			Chloe Jezerinac |
-			Sophia Linale |
-			Haley Mainwaring |
-			Sophia Matthews |
-			Maggie Mcmahan |
-			Willow Oblin |
-			Rhea Patel |
-			Aoife Redmond |
-			Joey Sheiner |
-			Hensley Smith |
-			Abigail Strzempka |
-			Reece Tappan |
-			Samantha Tedesco |
-			Alana Toby
+                Alyssa Fennen |
+Ashley James |
+Ava Carter |
+Cristyl Rodriguez |
+Daniela Villarreal |
+Emily Brundage |
+Emma Ackerman |
+Gabriela Verez |
+Grace Anderson |
+Grace Krantzberg |
+Haley Jones |
+Isabella Kabacinski |
+Isabella Spagnolo |
+Jadelyn Daniels |
+Joey Sheiner |
+Joshua Song |
+Kaden Powell |
+Kylie Davison |
+Laynee Plawa |
+Mackenzie Gale |
+Madylin Morse |
+Mandy Eastwood |
+Margaret McMahan |
+Maya Vaidya |
+Morgan Zvolska |
+Natalie Ehrenwerth |
+Rachel Talley |
+Rebecca Reich |
+Ryan Boyle |
+Sean Behling |
+Sophia Cuna |
+William Lynfatt
                   </tbody>
-              </table>-->
+              </table>
 
 
             </div>
@@ -1411,35 +1411,33 @@ Sarah Klein
                 Isabella Smedley
 
 
-       <!--<h4>  <b>Captains </b></h4> 
+       <h4>  <b>Captains </b></h4> 
        <table style="width:100%">
                 <tbody class="marathonrelationsnorth">
-			Adel Acs |
-			Emma Bissell |
-			Elizabeth Calabro |
-			Taylor Callaway |
-			Sean Campbell |
-			Lexi Devescovi |
-			Abby Ferrell |
-			Kayleigh Gallo |
-			Jt Girman |
-			Grace Grier |
-			Laurel Guffey |
-			Kaley Hildebrand |
-			Reagan Jones |
-			Katie Kovar |
-			Ashley Liddell |
-			Adriana Ortega |
-			Valeria Ortega |
-			Chloe Rubin |
-			Isabella Smedley |
-			Sophia Spata |
-			Lauren Still |
-			Ansley Williams |
-			Natalie Work |
-			Ivey Young
+                Alexa Katz |
+Allison Pace |
+Amina Mubarak |
+Ava Iuliani |
+Berkeley Brown |
+Efthymia Copulos |
+Emma Bissell |
+Faith Giambalvo |
+Grace Grier |
+Grace Nelson |
+Jordyn Smith |
+Kayleigh Gallo |
+Leandro Rodriguez |
+Lindsay Hersh |
+Madelyn Scaringe |
+Madison Elman |
+Matthew Lehman |
+Molly Taylor |
+Shannon Manning |
+Sophia Spata |
+Taylor Callaway |
+Tiffany Cain
                   </tbody>
-              </table>-->
+              </table>
 
             </div>
           </div>
@@ -1518,34 +1516,33 @@ Sarah Klein
               <h4><b>Assistant Director of Stores and Mini Marathons</b></h4>
               Isabel Acosta
 
-        <!--<h4>  <b>Captains</b></h4> 
+        <h4>  <b>Captains</b></h4> 
        <table style="width:100%">
                 <tbody class="merch">
-			Isabel Acosta |
-			Jamie Ambos |
-			Sophia Clemmensen |
-			Amira Creason |
-			Anabel De La Hoz |
-			Nicole Desilva |
-			Grace Gordish |
-			Patrick Grey |
-			Hailey Hartle |
-			Mackenzie Hunt |
-			Sofia Isayev |
-			Perri Kisha |
-			Olivia Knier |
-			Ashlyn Kyser |
-			Alexandra Levine |
-			Emma Maclaren |
-			Grant Meece |
-			Lindsey Meiner |
-			Sam Roth |
-			Sarah Roth |
-			Maya Rodrig |
-			Macy Thompson |
-			Jazlyn Yarbrough
+                Abby Thibodeau |
+Abigayle Watson |
+Alexandra Kaye |
+Alexandra Levine |
+Ashlyn Kyser |
+Camille Robinson |
+Chloe Lindow |
+Elise Christensen |
+Emma Arigo |
+Ezequiel Serrano |
+Hailey Hartle |
+Julia Scarton |
+Katherine Snediker |
+Kenya Jarrett |
+Kenzie Hunt |
+Lauren Klein |
+Melody Alonso |
+Morgan Mayhann |
+Olivia Knier |
+Perri Kisha |
+Sarah Roth |
+Sydney Corn
                   </tbody>
-              </table>-->
+              </table>
 
 
             </div>
