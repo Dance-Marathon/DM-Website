@@ -1569,57 +1569,54 @@ Sydney Corn
               Ryan Beany
               <h4><b>	Assistant Director of Mini Marathon Coordination</b></h4>
               Bronson Allemand
-     <!--<h4>  <b> Captains</b></h4> 
+     <h4>  <b> Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="morale">
-			Bronson Allemand |
-			Juliette Andrews |
-			Ryan Beany |
-			Olivia Caldara |
-			Isabel Chris |
-			Jordan Cohan |
-			Liz Delegal |
-			Lexi Dovale |
-			Madelon Enneking |
-			Casey Farrell |
-			Gina Fimiano |
-			Logan Foster |
-			Anna Garst |
-			Brandon Gerardi |
-			Elise Heidlebaugh |
-			Peyten Hernandez |
-			Kayla Kaufman |
-			Mary Grace Kelly |
-			Elisabeth Kern |
-			Elizabeth Kern |
-			Sydney Kollas |
-			Isabella Leandri |
-			Joshua Levin |
-			Ryan Linthorst |
-			Sara Liss |
-			Drew Mcnally |
-			Brooke Micallef |
-			Caroline Murray |
-			Lauren Nau |
-			Liz Noonan |
-			Dante Prado |
-			Halle Prilik |
-			Natalie Saliwanchik |
-			Amit Sapir |
-			Filomena Selvanik |
-			Katherine Signori |
-			Dylan Siegel |
-			Casey Siner |
-			Jacob Smith |
-            Kristina Smith |
-			Katie Swartzlander |
-			Courtney Thomas |
-			Eileen Vara |
-			Haley Wadsworth |
-			Joshua Waters |
-			Mistie Webb
+                Amanda Fernandez |
+Amit Sapir |
+Anna Garst |
+Annalee Watts |
+Becca Harkins |
+Brianna Ponce |
+Casey Siner |
+Cecilia Coleman |
+Daniel Trethewey |
+Delaney Kennedy |
+Dylan Siegel |
+Eileen Vara |
+Emily Sanz |
+Gina Fimiano |
+Halle Prilik |
+Hollyn O'Brien |
+Josh Levin |
+Joshua Waters |
+Julia Mortensen |
+Julia Zager |
+Juliette Andrews |
+Katie East |
+Kylie Finkelstein |
+Lauren Price |
+Liliana Remillard |
+Madelon Enneking |
+Makenzie Cole |
+Mary Grace Kelly |
+Maxwell Schwartz |
+Mistie Webb |
+Natalie Saliwanchik |
+Nina Rico |
+Noa Pogany |
+Olivia Caldara |
+Peyten Hernandez |
+Raina Khanna |
+Samantha Guerrero |
+Sean Campbell |
+Shannon O'Neil |
+Sophie Fakhouri |
+Sydney Fialkow |
+Sydney Kollas |
+Zoe Donohoe
                     </tbody>
-              </table>-->
+              </table>
 
 
             </div>
@@ -1646,38 +1643,35 @@ Sydney Corn
               Ava Dinow
               <h4><b>Assistant Director of Videography</b></h4>
               Isabel Crist
-    <!-- <h4>  <b>Captains</b></h4> 
+     <h4>  <b>Captains</b></h4> 
     <table style="width:100%">
                 <tbody class="multimedia">
-			Alessandra Ayala |
-			Arnav Barpujari |
-			Jennifer Blardonis |
-			Lauren Bonet |
-			Sydney Calle |
-			Isabel Crist |
-			Ashley Dankese |
-			Alexis (Lexi) Deboer |
-			Ava Dinow |
-			Grayson Eastman |
-			Emyle Garcia |
-			Mary Beth Garrison |
-			Sophia Gonzalez |
-			Shelby Hatcher |
-			Logan Henley |
-			Brooke Johnson |
-			Jessica Kuehler |
-			Noah Morrow |
-			Rebecca Salamon |
-			Maura Schaeffer |
-			Luke Scheper |
-			Sarena Seeger |
-			Kaavya Sethumadhavan |
-			Evan Stice |
-			Kaiyu Zhou
+                Anais Ramentol |
+Andrea Colon |
+Anna Romanenko |
+Ariel Rademeyer |
+Ashley Dankese |
+Caleb Harris |
+Gabriella Aulisio |
+Hailey Hurst |
+Hayli Balgobin |
+Jennifer Blardonis |
+Jessica Kuehler |
+Madilyn Gemme |
+Madison Murray |
+Marlee Wittner |
+Meghan Wilbrett |
+Mia Posada |
+Noah Morrow |
+Rachel Bernstein |
+Rafael Pere |
+Rebecca Salamon |
+Riley Blair |
+Sky Augusta |
+Sydney Crenshaw |
+Xiaotong Yu
                     </tbody>
-              </table>-->
-
-
+              </table>
             </div>
           </div>
         </div>
@@ -1703,36 +1697,35 @@ Sydney Corn
                 Caroline Eaton
                 <h4><b>Assistant Director of Fundraising </b></h4>
                 Nicole Molina
-             <!--<h4>   <b>Captains</b></h4> 
+             <h4>   <b>Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="productions">
-			Bianca Arocha |
-			Sophia Baird |
-			Matthew Barrett |
-			William Berry |
-			Daniel Buonadonna |
-			Caroline Eaton |
-			Zachary Elowitch |
-			Emily Guerra |
-			Tyler Hersch |
-			Leah Johnson |
-			Corey Loss |
-			Ryan Maze |
-			Bradley Miller |
-			Nicole Molina |
-			Reagan Pomp |
-			Mackenzie Potts |
-			Uma Raja |
-			Aubree Robinson |
-			Joshua Rosenblatt |
-			Andrew Salk |
-			Sydney Savage |
-			Brian Schildt |
-			Logan Spiegelman |
-			Georgette Suarez |
-			Riley Towbin
+                Adam Crasnow |
+Andrew Salk |
+Andrew Previte |
+Angela Trinh |
+Ashley Paek |
+Aubree Robinson |
+Ava Scammell |
+Becca Michaels |
+Bianca Arocha |
+Dani Primerano |
+Elizabeth Insuasti |
+Georgette Suarez |
+Inaya Siddiqui |
+Jessica Borowski |
+Josh Rosenblatt |
+Katelyn Bates |
+Leah Johnson |
+Lillian Ghozali |
+Madelyne Wirbel |
+Meagan Long |
+Ravi Patel |
+RyLee Haugh |
+Samantha Rees |
+Tor Moncrieff
                         </tbody>
-              </table>-->
+              </table>
 
 
               </div>
