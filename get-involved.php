@@ -1168,51 +1168,58 @@ Zachary Grosswirth
               <h4><b>Assistant Director of Community</b></h4>
               Mary Bennett
 
-    <!--<h4>      <b>Captains</b></h4> 
+    <h4>      <b>Captains</b></h4> 
 		     <table style="width:100%">
                 <tbody class="familyrelations">
-		        Nolan Anschuetz |
-		        Samara Becker |
-		        Rachel Beer |
-			Mary Bennett |
-		        Logan Black |
-		        Jackson Bond |
-			Brooke Christopher |
-			Olivia Daniel |
-			Ethan Davis |
-			Jamsiyn Derks |
-			Taylor Doering |
-			Piper Dowdell |
-			Lily Dvorchik |
-			Faith Freeman |
-			Grace Freeman |
-			Dawson Geller |
-			Hannah Kairab |
-			Patrick Kline |
-			Abbey Lantinberg |
-			Samantha Litman |
-			Ryan Magee |
-			Abby Mcdade |
-			Alexa Miller |
-			Gabrielle Monk |
-			Macy Monsour |
-			Hollen Parsons |
-			Connor Pitisci |
-			Faith Ramirez |
-			Kristen Russo |
-			Ally Salzberg |
-			Molly Sankey |
-			Halle Silver |
-			Amelia Tayag |
-			Paola Toro |
-			Ali Torregrosa |
-			Noah Towbin |
-			Gabby Vogel |
-			Rachel Vogin |
-			Alexis Waltzer |
-			Anne-Charles Zimmer
+                Abbey Lantinberg |
+Abby McDade |
+Alexa Diamond |
+Alexa Miller |
+Ally Salzberg |
+Antonio Ponte |
+Arie Y Eitani |
+Ava Rechter |
+Brooke Christopher |
+Chloe Claxton |
+Claire Weitz |
+Emma Sugarman |
+Gabriella Vogel |
+Gabrielle Monk |
+Grace Freeman |
+Hadassah Sternfeld |
+Halle Silver |
+Hannah Kairab |
+Jackie Bernstein |
+Jackson Bond |
+Jake Rattner |
+Janelle Sumbeling |
+Kaya Hall |
+Kristen Russo |
+Lilly Smith |
+Lily Dvorchik |
+Logan Black |
+London Taylor |
+Macy Monsour |
+Matthew Strogach |
+Nolan Anschuetz |
+Olivia Daniel |
+Paola Toro |
+Parker Brown |
+Patrick Kline |
+Piper Dowdel |
+Rachel Beer |
+Riley Hearn |
+Ryan Magee |
+Samantha Litman |
+Samara Becker |
+Sazzad Mabud |
+Shreya Shah |
+Stella Hurwitz |
+Taylor Doering |
+Victoria Poliak |
+Zoe Leitner
                   </tbody>
-              </table>-->
+              </table>
 
             </div>
           </div>
@@ -1238,38 +1245,29 @@ Zachary Grosswirth
               Daniel Dvorak
               <h4><b>Assistant Director of External Operations</b></h4>
               Andrew Kistner
-   <!--<h4>  <b> Captains</b></h4> 
+   <h4>  <b> Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="fundraising">
-			Mya Arong |
-			Elijah Bloyer |
-			Aine Booth |
-			Alexander Briones |
-			Savannah Chalmers |
-			Grey Chapin |
-			Abby Coleman |
-			Jessie Cramer |
-			Olivia Delevan |
-			Daniel Dvorak |
-			Morgan Emmi |
-			Clara Flint |
-			Irina Frangos |
-			Andrew Kistner |
-			Zackary Kroyer |
-			Madalyn Lueken |
-			Victoria Lutz |
-			Vaia Mavilla |
-			Alexa Mazloff |
-			Kara Motsch |
-			Andrew Neclerio |
-			Nolan Sanchez |
-			Ellie Saunders |
-			Morgan Simpson |
-			Nick Soviero |
-			Lara Symons |
-			Jack Watkins
+                Alexa Mazloff |
+Alexis Pullos |
+Ariana Martinez |
+Ashley Alex |
+Benjamin Lang |
+Brooke Hollander |
+Elijah Bloyer |
+Elijah Freedman |
+Gabriela Cruz |
+Gabriella Peburn |
+Jessica Cramer |
+Mackenzie Kozlowski |
+Morgan Emmi |
+Nick Soviero |
+Peter Koltis |
+Ragavi Mahadevan |
+Sean Doherty |
+Zosia Czigany
                 </tbody>
-              </table>-->
+              </table>
             </div>
           </div>
         </div>
@@ -1295,31 +1293,31 @@ Zachary Grosswirth
               Natalya Escobar
               <h4><b>Assistant Director of Internal Relations</b></h4>
               Maddy Schain
-  <!--<h4>  <b>Captains</b></h4> 
+  <h4>  <b>Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="hospitality">
-			Adam Birnbaum |
-			Natalya Escobar |
-			Reese Harper |
-			Parker Hershkowitz |
-			Alex Licht |
-			Ethan Morandi |
-			Abby Nussbaum |
-			Liam O'Brien |
-			Adam Paroff |
-			Caroline Patterson |
-			Leah Rison |
-			Julia Saltzstein |
-			Madison Schain |
-			Ava Sheppard |
-			Jessica Squadrito |
-			Haley Strauch |
-			Samantha Strobel |
-			Ian Tajalli |
-			Rhyan Tappan |
-			Mackendrick Zavitz
+                Adam Paroff |
+Alex Licht |
+Annie Ross |
+Brianna Upson |
+Caroline Patterson |
+Catherine Morris |
+Christian Jubran |
+Courtney  Carter |
+Ella Russo |
+Hadley Miller |
+Haley Strauch |
+Ian Tajalli |
+Jessie Squadrito |
+Julia Saltzstein |
+Leah Rison |
+Mackendrick Zavitz |
+Morgan Page |
+Parker Hershkowitz |
+Reagan Doucette |
+Sarah Klein
                   </tbody>
-              </table>-->
+              </table>
 
 
             </div>
