@@ -734,10 +734,10 @@ for($i = 0; $i < count($overalls); $i++) {
 
 <p>A PDF of all Captain Team descriptions and Application questions can be found <a href="assets/PDFs/Captain Descriptions and Application Questions1.pdf" target="_blank">here</a>.</p> -->
 
-<b>Emerging Leaders Application</b> <!--Now Closed </p> -->
-    <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_2066pLrEw4x6P0q" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Monday, September 11</b>.</p> 
-<b>Ambassador Application</b> <!--Now Closed </p>-->
-<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_6VuidCdXZjlefEq" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Tuesday, September 12</b>.</p>
+<b>Emerging Leaders Application</b> Now Closed </p> 
+    <!--<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_2066pLrEw4x6P0q" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Monday, September 11</b>.</p> -->
+<b>Ambassador Application</b> Now Closed </p>
+<!--<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_6VuidCdXZjlefEq" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Tuesday, September 12</b>.</p> -->
 <p>If you have any questions regarding applications, please reach out to our Membership Manager, Toni JeBailey, at <a href="mailto:tjebailey@floridadm.org">tjebailey@floridadm.org</a>.</p>
                     
 </div>
@@ -994,32 +994,32 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                  Bella Fogarty
                  <h4><b>Assistant Director of Logistics</b></h4>
                  Gabby Williams
-               <!--<h4>  <b>Captains</b></h4> 
+               <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
-			Alyssa Ali |
-			Regan Bellantoni |
-			Miranda Benjamin |
-			Caitlin Casady |
-			Emily Chattin |
-			Adele Dorion |
-			Abigail Dugas |
-			Aadil Farid |
-			Isabella Fogarty |
-			Gabi Goldenberg |
-			Maya Hershkowitz |
-			Miles Jeffares |
-			Maggie Mcguane |
-			Nataly Montenegro |
-			Sarina Parikh |
-			Zoe Primack |
-			Heather Sley |
-			Lani Tudor-Dodd |
-			Sonali Vijay |
-			Gabriella Williams |
-			David Zaibert
+      Alexandra Polo
+      Campbell Crews
+      Catherine Hardy
+      Chiara Bell
+      Danielle Work
+      David Zaibert
+      Elizabeth Holcomb
+      Gabriella Caito
+      Gabrielle Proulx
+      Grace Carreno
+      Jenna Hentrich
+      Kylie Katims
+      Lani Tudor-Dodd
+      Maggie McGuane
+      Maya Hershkowitz
+      Miles Jeffares
+      Miranda Benjamin
+      Neal Desai
+      Nicolas Gonzalez
+      Ryan Brosnahan
+      Serena Thomas
           </tbody>
-              </table>-->
+              </table>
                </div>
              </div>
            </div>
