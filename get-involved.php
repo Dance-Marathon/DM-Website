@@ -994,32 +994,54 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                  Bella Fogarty
                  <h4><b>Assistant Director of Logistics</b></h4>
                  Gabby Williams
-               <h4>  <b>Captains</b></h4> 
+               <!--<h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
-Alexandra Polo	|
-Campbell Crews	|
-Catherine Hardy	|
-Chiara Bell	|
-Danielle Work	|
-David Zaibert	|
-Elizabeth Holcomb	|
-Gabriella Caito	|
-Gabrielle Proulx	|
-Grace Carreno	|
-Jenna Hentrich	|
-Kylie Katims	|
-Lani Tudor-Dodd	|
-Maggie McGuane	|
-Maya Hershkowitz	|
-Miles Jeffares	|
-Miranda Benjamin	|
-Neal Desai	|
-Nicolas Gonzalez	|
-Ryan Brosnahan	|
-Serena Thomas	
+			Alyssa Ali |
+			Regan Bellantoni |
+			Miranda Benjamin |
+			Caitlin Casady |
+			Emily Chattin |
+			Adele Dorion |
+			Abigail Dugas |
+			Aadil Farid |
+			Isabella Fogarty |
+			Gabi Goldenberg |
+			Maya Hershkowitz |
+			Miles Jeffares |
+			Maggie Mcguane |
+			Nataly Montenegro |
+			Sarina Parikh |
+			Zoe Primack |
+			Heather Sley |
+			Lani Tudor-Dodd |
+			Sonali Vijay |
+			Gabriella Williams |
+			David Zaibert
+      Adele Dorion
+      Alexandra Polo
+      Campbell Crews
+      Catherine Hardy
+      Chiara Bell
+      Danielle Work
+      David Zaibert
+      Elizabeth Holcomb
+      Gabriella Caito
+      Gabrielle Proulx
+      Grace Carreno
+      Jenna Hentrich
+      Kylie Katims
+      Lani Tudor-Dodd
+      Maggie McGuane
+      Maya Hershkowitz
+      Miles Jeffares
+      Miranda Benjamin
+      Neal Desai
+      Nicolas Gonzalez
+      Ryan Brosnahan
+      Serena Thomas
           </tbody>
-              </table>
+              </table>-->
                </div>
              </div>
            </div>
@@ -1045,7 +1067,7 @@ Serena Thomas
               Sabrina Kresse
 	      <h4><b>Assistant Director of External Relations</b></h4>
               Abbey Ladd
-              <h4><b>Captains</b></h4> 
+              <!--<h4><b>Captains</b></h4> 
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
@@ -1088,7 +1110,7 @@ Serena Thomas
 			Amanda Veltri |
 			Chloe Wai
                     </tbody>
-              </table>
+              </table>-->
 
             </div>
           </div>
