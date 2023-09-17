@@ -997,27 +997,27 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
-      Alexandra Polo
-      Campbell Crews
-      Catherine Hardy
-      Chiara Bell
-      Danielle Work
-      David Zaibert
-      Elizabeth Holcomb
-      Gabriella Caito
-      Gabrielle Proulx
-      Grace Carreno
-      Jenna Hentrich
-      Kylie Katims
-      Lani Tudor-Dodd
-      Maggie McGuane
-      Maya Hershkowitz
-      Miles Jeffares
-      Miranda Benjamin
-      Neal Desai
-      Nicolas Gonzalez
-      Ryan Brosnahan
-      Serena Thomas
+Alexandra Polo	|
+Campbell Crews	|
+Catherine Hardy	|
+Chiara Bell	|
+Danielle Work	|
+David Zaibert	|
+Elizabeth Holcomb	|
+Gabriella Caito	|
+Gabrielle Proulx	|
+Grace Carreno	|
+Jenna Hentrich	|
+Kylie Katims	|
+Lani Tudor-Dodd	|
+Maggie McGuane	|
+Maya Hershkowitz	|
+Miles Jeffares	|
+Miranda Benjamin	|
+Neal Desai	|
+Nicolas Gonzalez	|
+Ryan Brosnahan	|
+Serena Thomas	
           </tbody>
               </table>
                </div>
