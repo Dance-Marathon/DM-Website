@@ -1924,42 +1924,42 @@ Zachary Abrams
 <tr>
     <td>    Ava Mariani</td>
     <td>    Ava Eckstein-Schoemann    </td>
-    <td>    Ava Wood    </td>
     <td>    Avery Collada    </td>
     <td>    Avery Thieman    </td>
     <td>    Bianca Filippone    </td>
+    <td>    Bruna Pereira    </td>
 </tr>
 <tr>
-    <td>    Bruna Pereira    </td>
     <td>    Catlin Neumann    </td>
     <td>    Caitlyn Galvez    </td>
     <td>    Camden Crews    </td>
     <td>    Carli Fitzpatrick    </td>
     <td>    Carolina Paz    </td>
+    <td>    Caroline Fuss    </td>
 </tr>
 <tr>
-    <td>    Caroline Fuss    </td>
     <td>    Caroline Morris    </td>
     <td>    Catherine Hanania    </td>
     <td>    Charlee Childers    </td>
     <td>    Chase LaGrande    </td>
     <td>    Chloe Hutt    </td>
+    <td>    Christopher Hays    </td>
 </tr>
 <tr>
-    <td>    Christopher Hays    </td>
   <td>    Claire Dean    </td>
   <td>    Dakota Moss    </td>
   <td>    Daniela Frank-Fernandez    </td>
   <td>    Daniela San Martin    </td>
   <td>    Elisa Perez-Mena    </td>
+  <td>    Elise Chapman    </td>
 </tr>
 <tr>
-    <td>    Elise Chapman    </td>
     <td>    Elizabeth Mallard    </td>
     <td>    Elizaveta Ivanova    </td>
     <td>    Ella Fedewa    </td>
     <td>    Ella Hartle    </td>
     <td>    Ella Zucchero    </td>
+    <td>    Ellen Cocurull    </td>
 </tr>
 <!--<tr>
     <td>    Elise Heidlebaugh    </td>
@@ -1970,175 +1970,174 @@ Zachary Abrams
     <td>    Emma Silverman    </td>
 </tr>-->
 <tr>
-    <td>    Ellen Cocurull    </td>
   <td>    Ellie Alvis    </td>
   <td>    Elysse Sanchez    </td>
   <td>    Emely Almendarez    </td>
   <td>    Emilee Hass    </td>
   <td>    Emily Celestrin    </td>
+  <td>    Emma Fetter    </td>
 </tr>
 <tr>
-    <td>    Emma Fetter    </td>
   <td>    Emma Joyner    </td>
   <td>    Emma Michalski    </td>
   <td>    Emma Shellard    </td>
   <td>    Erin Mooney    </td>
   <td>    Eryn Klaus    </td>
+  <td>    Eva Sutton    </td>
 </tr>
 <tr>
-    <td>    Eva Sutton    </td>
     <td>    Evelyn McDaniel    </td>
     <td>    Fernando Santiago Balsalobre    </td>
     <td>    Gabriel Sengelmann    </td>
     <td>    Gabriela Castro    </td>
     <td>    Gabriela Wisz    </td>
+    <td>    Gabriella Paredes    </td>
 </tr>
 <tr>
-    <td>    Gabriella Paredes    </td>
     <td>    Gavin Winkler    </td>
     <td>    Genesis Rodriguez    </td>
     <td>    Genevieve Lujan    </td>
     <td>    Georgia Little    </td>
     <td>    Grace Nesbit    </td>
+    <td>    Haley Black    </td>
 </tr>
 <tr>
-    <td>    Haley Black    </td>
   <td>    Haley Hinkle    </td>
   <td>    Haley Randolph    </td>
   <td>    Halsey Fore    </td>
   <td>    Haven Copeland    </td>
   <td>    Heather Thomas    </td>
+  <td>    Hudson Fry    </td>
 </tr>
 <tr>
-    <td>    Hudson Fry    </td>
     <td>    Illeana West    </td>
     <td>    Isabella Gomes    </td>
     <td>    Isabella Ward    </td>
     <td>    Isabelle Azambuja    </td>
     <td>    Isabelle Rosado    </td>
+    <td>    Izzy Garcia    </td>
 </tr>
 <tr>
-    <td>    Izzy Garcia    </td>
     <td>    Jackson Ferlan    </td>
     <td>    Jacob Bousky    </td>
     <td>    Jenna Bell    </td>
     <td>    Jennifer Lynfatt    </td>
     <td>    Jesse Zelahy    </td>
+    <td>    Jessie Haller    </td>
 </tr>
     <tr>
-    <td>    Jessie Haller    </td>
     <td>    Jillian Jones    </td>
     <td>    Jocelyn Riley    </td>
     <td>    Jocelyn Salpeter    </td>
     <td>    Jordyn Klein    </td>
     <td>    Julia Cherwony    </td>
+    <td>    Julianna Tran    </td>
 </tr>
 <tr>
-    <td>    Julianna Tran    </td>
     <td>    Julianne Jane    </td>
     <td>    Justien Nguyen    </td>
     <td>    Karishma Advani    </td>
     <td>    Katelyn Uzila    </td>
     <td>    Katherine Anderson    </td>
+    <td>    Katherine Timmins    </td>
 </tr>
 <tr>
-    <td>    Katherine Timmins    </td>
     <td>    Katrina Langer    </td>
     <td>    Kayla Flores    </td>
     <td>    Kendall O'Connor    </td>
     <td>    Kiersten Grimes    </td>
     <td>    Kristina Vela    </td>
+    <td>    Kyle Kuhn    </td>
 </tr>
 <tr>
-    <td>    Kyle Kuhn    </td>
     <td>    Kyle Silverstain    </td>
     <td>    Kyra Jones    </td>
     <td>    Lauren Woodhouse    </td>
     <td>    Layna Hood    </td>
     <td>    Liam Knowles    </td>
+    <td>    Lilah Edwards    </td>
 </tr>
 <tr>
-    <td>    Lilah Edwards    </td>
   <td>    Lindsay Nattis    </td>
   <td>    Lindsey Perry    </td>
   <td>    Luisa Peralta    </td>
   <td>    Macey Warring    </td>
   <td>    Madeline Walsh    </td>
+  <td>    Madisyn Moore     </td>
 </tr>
 <tr>
-    <td>    Madisyn Moore     </td>
     <td>    Mallory Loge    </td>
     <td>    Marianna Mendoza    </td>
     <td>    Marisa Fabian    </td>
     <td>    Marisa Ricks    </td>
     <td>    Mary Chase Germain    </td>
+    <td>    Matthew Anderson     </td>
 </tr>
 <tr>
-    <td>    Matthew Anderson     </td>
   <td>    Meg Orie     </td>
   <td>    Meghan Dunlap     </td>
   <td>    Mia Corigliano    </td>
   <td>    Mollie Kron     </td>
   <td>    Morgan Kronlage    </td>
+  <td>    Naseh Sukhera     </td>
 </tr>
 <tr>
-    <td>    Naseh Sukhera     </td>
     <td>    Natalie Mann     </td>
     <td>    Naydelin Trejo    </td>
     <td>    Nicole Barroso    </td>
     <td>    Olivia Book    </td>
     <td>    Olivia Martinez    </td>
+    <td>    Olivia Rodriguez    </td>
 </tr>
 <tr>
-    <td>    Olivia Rodriguez    </td>
     <td>    Raaghuv Nandur    </td>
     <td>    Rachel Leiter    </td>
     <td>    Rachel Yavner</td>
     <td>    Rebecca Beer    </td>
     <td>    Rebekah Zuckerman    </td>
+    <td>    Riley Taylor    </td>
 </tr>
 <tr>
-    <td>    Riley Taylor    </td>
   <td>    Rylee Brown    </td>
   <td>    Ryleigh Gray    </td>
   <td>    Sabrina Gomez    </td>
   <td>    Samantha Mirer    </td>
   <td>    Samantha Puma    </td>
+  <td>    Samantha Santo    </td>
 </tr>
 <tr>
-    <td>    Samantha Santo    </td>
   <td>    Samantha Squires    </td>
   <td>    Samuel Mento</td>
   <td>    Sarah Broe    </td>
   <td>    Sarah Eisenberg    </td>
   <td>    Sarah Thomas    </td>
+  <td>    Shannon Detert    </td>
 </tr>
 <tr>
-    <td>    Shannon Detert    </td>
   <td>    Skylar Bons    </td>
   <td>    Sofia Amoroso    </td>
   <td>    Sofia Bostic    </td>
   <td>    Sophia Monsalve   </td>
   <td>    Sophia Ode    </td>
+  <td>    Spencer Sturman    </td>
 </tr>
 <tr>
-    <td>    Spencer Sturman    </td>
   <td>    Stella Monforte    </td>
   <td>    Surleen Sahni    </td>
   <td>    Sydney Holderman    </td>
   <td>    Sydney Ohs    </td>
   <td>    Sydney Sever    </td>
+  <td>    Sydney Shapiro    </td>
 </tr>
 <tr>
-    <td>    Sydney Shapiro    </td>
   <td>    Sydney Stresen-Reuter    </td>
   <td>    Sydney Yee    </td>
   <td>    Tamille Hutson    </td>
   <td>    Thomas Chicles    </td>
   <td>    Victoria Hurles    </td>
+  <td>    Victoria Rios    </td>
 </tr>
 <tr>
-    <td>    Victoria Rios    </td>
     <td>    Vladimir Handjiev    </td>
     <td>    William Cioffi    </td><!--
     <td>    Skye Dougan    </td>
