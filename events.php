@@ -215,7 +215,7 @@ include("includes/navbar.php");
         } ?>
     </div>
     <div class="tab">
-        <button class="tablinks" onclick="openCity(event, 'kickoff')">FALL KICKOFF</button>
+        <button id="defaultTab" class="tablinks" onclick="openCity(event, 'kickoff')">FALL KICKOFF</button>
         <button class="tablinks" onclick="openCity(event, 'dance')">MAIN EVENT</button>
         <button class="tablinks" onclick="openCity(event, 'mini')">MINI-MARATHONS</button>
         <button class="tablinks" onclick="openCity(event, 'miricle')">MIRACLE GALA</button>
@@ -400,5 +400,11 @@ include("includes/navbar.php");
 
 </div>
 </div>
+
+<script>
+    window.addEventListener('load', function() {
+        document.getElementById('defaultTab').click();
+    });
+</script>
 
 <?php include("includes/foot.php"); ?>

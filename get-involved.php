@@ -552,7 +552,7 @@ function openSubTab(evt, storySub) {
         <?php } else { echo 'This page is currently closed.'; } ?>
     </div>
     <div class="tab">
-        <button class="tablinks" onclick="openCity(event, 'alum')">ALUMNI</button>
+        <button id="defaultTab" class="tablinks" onclick="openCity(event, 'alum')">ALUMNI</button>
         <button class="tablinks" onclick="openCity(event, 'apps')">APPLICATIONS</button>
         <button class="tablinks" onclick="openCity(event, 'ambassadors')">AMBASSADORS</button>
         <button class="tablinks" onclick="openCity(event, 'captain-teams')">CAPTAIN TEAMS</button>
@@ -2469,5 +2469,11 @@ Zachary Abrams
                 </div>
                 
 </div>
+
+<script>
+    window.addEventListener('load', function() {
+        document.getElementById('defaultTab').click();
+    });
+</script>
 
 <?php include("includes/foot.php"); ?>

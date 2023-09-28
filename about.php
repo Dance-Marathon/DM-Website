@@ -239,7 +239,7 @@ include("includes/navbar.php");
     </div>
 </div>
 <div class="tab">
-    <button class="tablinks" onclick="openCity(event, 'our-story')">OUR STORY</button>
+    <button id="defaultTab" class="tablinks" onclick="openCity(event, 'our-story')">OUR STORY</button>
     <button class="tablinks" onclick="openCity(event, 'cmn')">CMN & UF HEALTH</button>
     <button class="tablinks" onclick="openCity(event, 'meet-kids')">MEET OUR MIRACLE FAMILIES</button>
     <!--<button class="tablinks" onclick="openCity(event, 'faq')">FAQ</button>-->
@@ -247,7 +247,7 @@ include("includes/navbar.php");
 <!-- Tab content -->
 <div id="our-story" class="tabcontent">
     <div class="subtab">
-        <button class="tablinks-subtab" onclick="openSubTab(event, 'story')">OUR STORY</button>
+        <button id="defaultSubTab" class="tablinks-subtab" onclick="openSubTab(event, 'story')">OUR STORY</button>
         <button class="tablinks-subtab" onclick="openSubTab(event, 'fast-facts')">FAST FACTS</button>
         <button class="tablinks-subtab" onclick="openSubTab(event, 'nomen')">NOMENCLATURE</button>
     </div>
@@ -809,6 +809,16 @@ include("includes/navbar.php");
         </div>
     </div>
 </div>
+
+<script>
+    window.addEventListener('load', function() {
+        document.getElementById('defaultTab').click();
+    });
+
+    window.addEventListener('load', function() {
+        document.getElementById('defaultSubTab').click();
+    });
+</script>
 
 
 <?php include("includes/foot.php"); ?>

@@ -213,7 +213,7 @@ function openSubTab(evt, storySub) {
                     <?php } else { echo 'This page is currently closed.'; } ?>
         </div>   
     <div class="tab">
-        <button class="tablinks " onclick="openCity(event, 'donordrive')">DONORDRIVE</button>
+        <button id="defaultTab" class="tablinks " onclick="openCity(event, 'donordrive')">DONORDRIVE</button>
         <button class="tablinks" onclick="openCity(event, 'match')">EMPLOYEE MATCHING</button>
         <!--<button class="tablinks" onclick="openCity(event, 'guide')">FUNDRAISING GUIDE</button>-->
         <button class="tablinks" onclick="openCity(event, 'hello')">FUNDRAISING GUIDE</button>
@@ -503,6 +503,12 @@ Children's Miracle Network<br/>
 
 </div>
 </div>
+
+<script>
+    window.addEventListener('load', function() {
+        document.getElementById('defaultTab').click();
+    });
+</script>
        
 <?php include("includes/foot.php"); ?>
 
