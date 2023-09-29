@@ -205,8 +205,9 @@
     </div>
 
     </div>
-    <p style="padding-top:0;"><i style="color:#e2883c;"><b>Dance Marathon</b></i> at the <i style="color:#e2883c;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#233563;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#233563;"><b>$2,007,079.05</b></i>!<br/>
-</b></a>
+    <p style="padding-top:0;"><i style="color:#e2883c;"><b>Dance Marathon</b></i> at the <i style="color:#e2883c;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#233563;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#233563;"><b>$2,007,079.05</b></i>!
+    <p style="padding-top:0;"><i style="color:#e2883c;"><b>30 years ago</b></i>, it was the resilience, the drive, the fight, in a group of students with a dedicated purpose, that has long since inspired thousands of members, partners, and donors to continue our battle. <i style="color:#233563;"><b>#FightForMore</b></i> encapsulates our determination to carry on the legacy of <i style="color:#e2883c;"><b>DM at UF</b></i> and all those who came before us. Our Miracle Children and Families are all fighting illnesses they did not choose to fight. They never stop fighting, so neither should we.  We all have the ability to fight; to create a world where children facing pediatric illness are not defined by their conditions, but rather their courage and determination to <i style="color:#233563;"><b>#FightForMore</b></i>.<br/>
+  </b></a>
 </i></p>
 
     </div>
