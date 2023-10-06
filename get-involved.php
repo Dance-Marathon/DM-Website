@@ -559,8 +559,8 @@ function openSubTab(evt, storySub) {
         <!--<button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>-->
     </div>
     <div class="tab">
-    <button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>    
     <button class="tablinks" onclick="openCity(event, 'dancers')">DANCERS</button>
+    <button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>    
         <!--<button class="tablinks" onclick="openCity(event, 'kirstyn')">KIRSTYN'S KREW</button>-->
         <button class="tablinks" onclick="openCity(event, 'orgs')">ORGANIZATIONS</button>
         <button class="tablinks" onclick="openCity(event, 'service')">SERVICE</button>
@@ -2193,7 +2193,7 @@ Zachary Abrams
 <p>Dance Marathon at the University of Florida is an annual event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, students stay awake and on their feet, if able, to raise money and awareness for Children's Miracle Network Hospitals.</p>
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p>In addition to standing, if able, for the duration of the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
-            <p><a href="https://events.dancemarathon.com/event/floridadm" target="_blank">Click Here to Register to Dance</a></p>
+            <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click Here to Register to Dance</a></p>
             <p>Please email Ashleigh Churchill, Dancer Relations Overall Director, at <a href="mailto:achurchill@floridadm.org">achurchill@floridadm.org </a> with any questions!</p>
           </div>
 </div>
@@ -2351,7 +2351,7 @@ Zachary Abrams
 </div>
 <div id="resources" class="tabcontent-subtab">
 <h3>Register to Dance</h3>
-            <p><a href="https://events.dancemarathon.com/event/floridadm" target="_blank">Click here to register to Dance!</a></p>
+            <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click here to register to Dance!</a></p>
             <P>Follow the link and select “Buy Tickets!” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
             <p>Dancer Registration for Dance Marathon is open for two weeks in the Fall and two weeks in the Spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the Fall and in the Spring.</p>
