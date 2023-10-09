@@ -21,7 +21,7 @@
         'fun_fact'              =>  'I can&#39;t go a single day without making my bed at school, but when I come home - all bets are off.',
         'favorite_memory'       =>  'While I can&#39;t choose one specific year, my favorite Dance Marathon memory usually takes place right after the total number is revealed. While everyone is in complete shock, I take the time to look around and watch the Miracle Families. They&#39;re hugging, crying, and talking with one another - as they are in shock of the number that was just raised. Then, moments later, once that initial shock has worn off - students begin to surround them, squeezing them as tight as possible and crying in shock alongside them. Each year, I am amazed by this outpouring of love and support that is shown by both UF students and Miracle Families. It is a reminder that what we do truly does matter, and that what we do truly does make millions of miracles in these children&#39;s lives.',
         'motivation'            =>  'While my greatest motivation is all of our Miracle Children (obviously!), I am also motivated by every individual that stands and fights For The Kids. While that may seem cliché since there are over 7,000 students on campus fighting For The Kids, each individual truly does inspire me. It is amazing to see college students using their time, effort, and money to raise funds and awareness For The Kids at UF Health Shands Children&#39;s Hospital. The Miracle Children are the most deserving individuals I&#39;ve ever had the privilege to meet, and fighting for them means fighting for their opportunity to have a normal childhood, without weekly treatments, medications, and hospital stays. I believe it is our duty in life to give back to others, and participating in Dance Marathon at the University of Florida is the greatest way to do so.',
-        'image'                 =>  'harper1.JPG',
+        'image'                 =>  'harper1.jpg',
       ),
       
           array(
@@ -50,7 +50,7 @@
          'fun_fact' => 'I am ambidextrous! ',
          'favorite_memory' => 'My favorite Dance Marathon memory comes from two years ago. My fraternity was paired with Kendall \'Miss K\' Lewis and we had the pleasure of getting to know her over the year. One day when we had an ice cream fundraiser for her at Sweet Dreams, and she was complaining about doing her homework, I made her a bet that if she got good marks on her report card then she could \'pie\' me in the face at DM. She never let me live it down throughout the year and constantly reminded me of the bet. She got every perfect marks on her report card, so Kendall and her sister Taylor got to each \'pie\' me at DM with orange and blue pies. I may have been sticky for the rest of the event, but I know they loved every second of it! It\'s the little things that make a difference to these kids, and with that being said Kendall and the Lewis family have become great friends, even family to me! This tradition continues today as well, last year I took three pies from the sass master herself!',
          'motivation' => 'The Kids! What we accomplish for the kids and their families is truly remarkable! The Miracle Children year in and year out continue to be the inspiration for myself and the light upon on our organization. Every time that I hear a Miracle Story or when I get the chance to meet a new Miracle Family brings chills and aspirations for a greater tomorrow. The bravery and strength of the Miracle Children and their families truly inspire me to keep going and keep fighting because even when the odds were against them they didn\'t give up. These children and these families have taught me so many life lessons that I will carry on with for the rest of my life and for that I am forever grateful. Grateful For The Kids, grateful for the families, grateful for the smiles, and grateful for the memories. That\'s what motivates me!',
-         'image' => 'Gwyn1.JPG',
+         'image' => 'Gwyn1.jpg',
         ),
 
         array(
@@ -176,7 +176,7 @@
         'fun_fact' => 'I lived in Costa Rica for 2 years!',
         'favorite_memory' => 'My favorite DM memory comes from this past year. When the closing ceremonies video played, I was reminded of how much my team and I had accomplished over the past year. This experience with them and seeing DM at UF make 3 million miracles was such an unforgettable moment.',
         'motivation' => 'The tangible differences Dance Marathon at UF and Children\'s Miracle Network makes on the lives of children and families who need it most. ',
-        'image' => 'EKJ.jpg',
+        'image' => 'EK.jpg',
          ),
           array(
            'name' => 'Jackie Aloumanis',
