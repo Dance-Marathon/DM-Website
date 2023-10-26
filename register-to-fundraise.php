@@ -81,7 +81,7 @@ function openSubTab(evt, storySub) {
     }
     /* Create an active/current tablink class */
     .tab button.active {
-        background-color: #2E1B4F;
+        background-color: #233563;
         margin-bottom: 0%;
     }
     /* Style the tab content */
@@ -122,8 +122,8 @@ function openSubTab(evt, storySub) {
     transition: 0.1s;
 }
 .subtab button.active {
-    color: #A37AB6;
-    border-bottom: 2px solid #A37AB6;
+    color: #e2883c;
+    border-bottom: 2px solid #e2883c;
     height: 50px;
 }
 .zone {
