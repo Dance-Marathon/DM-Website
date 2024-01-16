@@ -24,7 +24,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			  </button>
-			  <a class="navbar-brand" href="/"><img src="/assets/images/spring_logo.png" alt="logo" height="40" width="42"></a>
+			  <a class="navbar-brand" href="/"><img src="/assets/images/spring logo.png" alt="logo" height="40" width="42"></a>
 			</div>
 			<div class="navbar-collapse collapse">
 			  <ul class="sf-menu navbar-nav navbar-left">
