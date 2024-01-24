@@ -2199,7 +2199,25 @@ Zachary Abrams
 </div>
 
 <div id="dfaq" class="tabcontent-subtab">
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="q1">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="false" aria-controls="a1">I already registered to fundraise, do I need to register to dance?</a>
+              </h4>
+            </div>
+            <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
+              <div class="panel-body">
+              Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.
+                 
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+<!--<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
               <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="q1">
                   <h4 class="panel-title">
@@ -2348,7 +2366,7 @@ Zachary Abrams
         </div>
       </div>
 </div>
-</div>
+</div>-->
 <div id="resources" class="tabcontent-subtab">
 <h3>Register to Dance</h3>
             <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click here to register to Dance!</a></p>
