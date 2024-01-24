@@ -2200,18 +2200,18 @@ Zachary Abrams
 
 <div id="dfaq" class="tabcontent-subtab">
 <div class="panel panel-default">
-            <div class="panel-heading" role="tab" id="q1">
-              <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="false" aria-controls="a1">I already registered to fundraise, do I need to register to dance?</a>
-              </h4>
-            </div>
-            <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
-              <div class="panel-body">
-              Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.
-                 
-              </div>
-            </div>
-          </div>
+  <div class="panel-heading" role="tab" id="q1">
+    <h4 class="panel-title">
+      <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="false" aria-controls="a1">I already registered to fundraise, do I need to register to dance?</a>
+    </h4>
+  </div>
+  <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
+    <div class="panel-body">
+      Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.   
+    </div>
+  </div>
+</div>
+            
 
 
 
