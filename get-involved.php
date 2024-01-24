@@ -2200,17 +2200,52 @@ Zachary Abrams
 
 <div id="dfaq" class="tabcontent-subtab">
 <div class="panel panel-default">
-  <div class="panel-heading" role="tab" id="q1">
-    <h4 class="panel-title">
-      <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="false" aria-controls="a1">I already registered to fundraise, do I need to register to dance?</a>
-    </h4>
-  </div>
-  <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
-    <div class="panel-body">
-      Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.   
-    </div>
-  </div>
-</div>
+            <div class="panel-heading" role="tab" id="q17">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#a17" aria-expanded="false" aria-controls="a17">Recruitment</a>
+              </h4>
+            </div>
+            <div id="a17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q17">
+              <div class="panel-body">
+                    <b>The Recruitment Team</b> is responsible for the recruitment of Dancers, Kirstyn’s Krew, Captains, Emerging Leaders, and Organizations to participate in Dance Marathon at UF. Throughout the year, Captains will work with and give presentations to various external organizations, including those who are not currently a part of Dance Marathon, in order to expand our campus involvement. One of the main goals is to find new ways to support other organizations the way they support us. Captains will also utilize flyers about our cause across campus, working to convey the Miracles that Dance Marathon at UF creates and how each student can give back to their local Children’s Miracle Network Hospital. During the Main Event, Captains will lead tours for visitors of various organizations and families to show the culmination of hard work from the year. Each Recruitment Captain will additionally connect our Faculty and Staff  to our year long engagement opportunities and organize events such as Faculty Appreciation Week. Recruitment Captains are integral parts of the movement as they inspire and create leaders in our community, all while raising awareness about Dance Marathon at UF and its purpose.
+		      <br>
+                <h4><b>Overall Director</b></h4>
+                Mary Kate Arbuckle 
+                <br><br>
+                <h4><b>Assistant Director of Internal Operations</b></h4>
+                Raegan DiRenzo
+                <h4><b>Assistant Director of External Operations</b></h4>
+                Raelin Terrell
+                <h4><b>Assistant Director of Tracking</b></h4>
+                Madison St. Pierre
+           <h4>  <b>Captains</b></h4> 
+           <table style="width:100%">
+                <tbody class="recruitment"> 
+                Addison Wooley |
+Alexandra Longa |
+Ariel Banfalvy |
+Ava Orlando |
+Daniela Velasquez |
+Francesca Abarno |
+Frankie Provenzano |
+Isabella Duarte |
+Isabella Duncan |
+Isabella Gray |
+Jordan Hartman |
+Katherine McKeon |
+Katie Piskun |
+Lauren Kuller |
+Lea Mattia |
+Madison  Daire |
+Mia Filoramo |
+Sam Jacobi |
+Savannah Woods |
+Sukhman Sidhu
+                        </tbody>
+              </table>
+              </div>
+            </div>
+          </div>
             
 
 
