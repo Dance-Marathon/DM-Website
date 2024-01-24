@@ -2204,7 +2204,7 @@ Zachary Abrams
                 <div class="panel-heading" role="tab" id="q17">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a17" aria-expanded="false" aria-controls="a17">
-                      I already registered to fundraise, do I need to register to dance?
+                    If I register to dance, am I guaranteed a Dancer spot at DM?
                     </a>
                   </h4>
                 </div>
