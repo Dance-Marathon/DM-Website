@@ -2204,13 +2204,13 @@ Zachary Abrams
                 <div class="panel-heading" role="tab" id="q1">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="false" aria-controls="a1">
-                      If I register to dance, am I guaranteed a Dancer spot at DM?
+                      I already registered to fundraise, do I need to register to dance?
                     </a>
                   </h4>
                 </div>
                 <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
                   <div class="panel-body">
-                    Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.
+                  Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.
                   </div>
                 </div>
               </div>
@@ -2218,13 +2218,13 @@ Zachary Abrams
                 <div class="panel-heading" role="tab" id="q2">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">
-                      I already registered to fundraise, do I need to register to dance?
+                    I already registered to fundraise, do I need to register to dance?
                     </a>
                   </h4>
                 </div>
                 <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
                   <div class="panel-body">
-                    Yes, registering to fundraise and registering to dance are two separate things.
+                  Yes, registering to fundraise and registering to dance are two separate things.
                   </div>
                 </div>
               </div>
@@ -2232,27 +2232,13 @@ Zachary Abrams
                 <div class="panel-heading" role="tab" id="q3">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a3" aria-expanded="false" aria-controls="a3">
-                      Do I have to be a UF student to dance?
+                    Do I have to be a UF student to dance?
                     </a>
                   </h4>
                 </div>
                 <div id="a3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q3">
                   <div class="panel-body">
                   Yes, you must be enrolled as a student during the Spring semester in which Dance Marathon takes place. This also applies to those registered with UF who are doing an internship in place of classes.
-                  </div>
-                </div>
-              </div>
-              <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q4">
-                  <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a4" aria-expanded="false" aria-controls="a4">
-                      I don’t have my DM shirt, can I still check in for spirit points?
-                    </a>
-                  </h4>
-                </div>
-                <div id="a4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q4">
-                  <div class="panel-body">
-                    You must be wearing a DM shirt to check in for spirit points. The purpose of wearing the shirt is to spread awareness around campus.
                   </div>
                 </div>
               </div> 
