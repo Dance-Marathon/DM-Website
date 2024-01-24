@@ -2201,112 +2201,112 @@ Zachary Abrams
 <div id="dfaq" class="tabcontent-subtab">
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q1">
+                <div class="panel-heading" role="tab" id="q17">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="false" aria-controls="a1">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a17" aria-expanded="false" aria-controls="a17">
                       I already registered to fundraise, do I need to register to dance?
                     </a>
                   </h4>
                 </div>
-                <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
+                <div id="a17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q17">
                   <div class="panel-body">
                   Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.
                   </div>
                 </div>
               </div>
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q2">
+                <div class="panel-heading" role="tab" id="q18">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a18" aria-expanded="false" aria-controls="a18">
                     I already registered to fundraise, do I need to register to dance?
                     </a>
                   </h4>
                 </div>
-                <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
+                <div id="a18" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q18">
                   <div class="panel-body">
                   Yes, registering to fundraise and registering to dance are two separate things.
                   </div>
                 </div>
               </div>
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q3">
+                <div class="panel-heading" role="tab" id="q19">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a3" aria-expanded="false" aria-controls="a3">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a19" aria-expanded="false" aria-controls="a19">
                     Do I have to be a UF student to dance?
                     </a>
                   </h4>
                 </div>
-                <div id="a3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q3">
+                <div id="a19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q19">
                   <div class="panel-body">
                   Yes, you must be enrolled as a student during the Spring semester in which Dance Marathon takes place. This also applies to those registered with UF who are doing an internship in place of classes.
                   </div>
                 </div>
               </div> 
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q4">
+                <div class="panel-heading" role="tab" id="q20">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a4" aria-expanded="false" aria-controls="a4">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a20" aria-expanded="false" aria-controls="a20">
                       I don’t have my DM shirt, can I still check in for spirit points?
                     </a>
                   </h4>
                 </div>
-                <div id="a4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q4">
+                <div id="a20" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q20">
                   <div class="panel-body">
                     You must be wearing a DM shirt to check in for spirit points. The purpose of wearing the shirt is to spread awareness around campus.
                   </div>
                 </div>
               </div>
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q5">
+                <div class="panel-heading" role="tab" id="q21">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a5" aria-expanded="false" aria-controls="a5">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a21" aria-expanded="false" aria-controls="a21">
                       How do I register to dance?
                     </a>
                   </h4>
                 </div>
-                <div id="a5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q5">
+                <div id="a21" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q21">
                   <div class="panel-body">
                     Click the Dancer Resources tab above for instructions.
                   </div>
                 </div>
               </div>
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q6">
+                <div class="panel-heading" role="tab" id="q22">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a6" aria-expanded="false" aria-controls="a6">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a22" aria-expanded="false" aria-controls="a22">
                       How do I register to fundraise?
                     </a>
                   </h4>
                 </div>
-                <div id="a6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q6">
+                <div id="a22" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q22">
                   <div class="panel-body">
                     See <a href="https://floridadm.org/register-to-fundraise">Register to Fundraise</a> for instructions.
                   </div>
                 </div>
               </div>
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q7">
+                <div class="panel-heading" role="tab" id="q23">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a7" aria-expanded="false" aria-controls="a7">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a23" aria-expanded="false" aria-controls="a23">
                       Can I still dance if I am the Ambassador for my Organization’s team?
                     </a>
                   </h4>
                 </div>
-                <div id="a7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q7">
+                <div id="a23" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q23">
                   <div class="panel-body">
                     Yes!
                   </div>
                 </div>
               </div>
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q9">
+                <div class="panel-heading" role="tab" id="q24">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a9" aria-expanded="false" aria-controls="a9">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a24" aria-expanded="false" aria-controls="a24">
                       Who can come to the Event?
                     </a>
                   </h4>
                 </div>
-                <div id="a9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q9">
+                <div id="a24" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q24">
                   <div class="panel-body">
                     Anyone!
                   </div>
@@ -2314,14 +2314,14 @@ Zachary Abrams
               </div>
 
               <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q13">
+                <div class="panel-heading" role="tab" id="q25">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a13" aria-expanded="false" aria-controls="a13">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a25" aria-expanded="false" aria-controls="a25">
                       What happens when someone registers to dance and isn’t given a spot?
                     </a>
                   </h4>
                 </div>
-                <div id="a13" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q13">
+                <div id="a25" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q25">
                   <div class="panel-body">
                     The money paid for the registration fee goes toward their Organization’s total amount raised.
                   </div>
@@ -2329,14 +2329,14 @@ Zachary Abrams
               </div>
 
             <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="q14">
+                <div class="panel-heading" role="tab" id="q26">
                   <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#a14" aria-expanded="false" aria-controls="a13">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a26" aria-expanded="false" aria-controls="a26">
                       What if I am not in an Organization and want to register as an individual?
                     </a>
                   </h4>
                 </div>
-                <div id="a14" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q14">
+                <div id="a26" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q26">
                   <div class="panel-body">
                     You do not have to be in an Organization to register to Dance. You can register as an individual using the link under Dancer Resources; individual Dancers will be placed onto the Gator Aides team. Gator Aides is a team that allows individual Dancers to participate in Dance Marathon at UF with a group although they are not registered with an Organization.
                   </div>
