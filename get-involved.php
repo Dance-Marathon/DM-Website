@@ -2255,6 +2255,20 @@ Zachary Abrams
                     You must be wearing a DM shirt to check in for spirit points. The purpose of wearing the shirt is to spread awareness around campus.
                   </div>
                 </div>
+              </div> 
+              <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="q4">
+                  <h4 class="panel-title">
+                    <a data-toggle="collapse" data-parent="#accordion" href="#a4" aria-expanded="false" aria-controls="a4">
+                      I don’t have my DM shirt, can I still check in for spirit points?
+                    </a>
+                  </h4>
+                </div>
+                <div id="a4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q4">
+                  <div class="panel-body">
+                    You must be wearing a DM shirt to check in for spirit points. The purpose of wearing the shirt is to spread awareness around campus.
+                  </div>
+                </div>
               </div>
               <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="q5">
