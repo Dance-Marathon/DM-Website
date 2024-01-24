@@ -976,12 +976,12 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
       <p>Click each tab below to learn more about each team and its responsibilities.</p>
       <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
        <div class="panel panel-default">
-          <div class="panel-heading" role="tab" id="q1">
+          <div class="panel-heading" role="tab" id="q16">
            <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#a1" aria-expanded="false" aria-controls="a1">Community Outreach</a>
+            <a data-toggle="collapse" data-parent="#accordion" href="#a16" aria-expanded="false" aria-controls="a16">Community Outreach</a>
           </h4>
         </div>
-        <div id="a1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q1">
+        <div id="a16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q16">
          <div class="panel-body">
            <b>The Community Outreach Team</b> seeks to grow the Dance Marathon community beyond our student body by sharing our passion and mission to Faculty and Staff, Members’ Families, Dance Marathon Alumni (DMA), and the broader Gainesville community. The servant leaders of this team focus on creating lasting relationships with our Community Partners by engaging in regular volunteering events and planning organization-wide service days, including but not limited to Giving Tuesday. The members of this team connect our Faculty and Staff, Members’ Families, and Dance Marathon Alumni to our yearlong engagements and organize events such as Faculty Appreciation Week, Family Weekend, and DMA Weekend. This team brings together this entire community by planning the annual Miracle Gala, a formal occasion during the main event where we honor outstanding members of the DM community and hold Raise The Paddle.
           <br>
