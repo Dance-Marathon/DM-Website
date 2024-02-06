@@ -72,7 +72,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #C1CB7F; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #CF1F41; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="org-leaderboard"></div>
         </div>
     </div>
@@ -80,7 +80,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #e3e9c8; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #F27BAB; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="dancer-leaderboard"></div>
         </div>
       </div>
@@ -88,7 +88,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #C1CB7F; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #CF1F41; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="captain-leaderboard"></div>
         </div>
       </div>
@@ -96,7 +96,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #e3e9c8; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #F27BAB; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="elp-leaderboard"></div>
         </div>
       </div>
@@ -197,7 +197,7 @@
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
 
 
-      <!--<p style="margin:0"><a href="/dance-marathon" style="color:#e3e9c8"><b>Check out our 2018 Livestream</b></a></p>-->
+      <!--<p style="margin:0"><a href="/dance-marathon" style="color:#F27BAB"><b>Check out our 2018 Livestream</b></a></p>-->
 
 
 <div id="event_banner">
@@ -205,9 +205,9 @@
     </div>
 
     </div>
-    <!--<p style="padding-top:0;">The holiday season is one of the most anticipated and exciting times of the year. While we all grow up celebrating our favorite traditions and spending time with family, each year, children spend their holidays less traditionally at <i style="color:#e3e9c8;"><b>UF Health Shands Children’s Hospital</b></i>, surrounded by doctors, machines, and monitors. As we enter the month of December, the students of Dance Marathon at UF strive to continue to <i style="color:#e3e9c8;"><b>#FightForMore</b></i> through our <i style="color:#C1CB7F;"><b>Season of Miracles</b></i> campaign. While we all have the opportunity to step away from campus during winter break, together, we continue to raise funds and awareness for our <i style="color:#C1CB7F;"><b>Miracle Children and Families</b></i>, reminding them of our support and dedication to our cause.--> 
-    <p style="padding-top:0;"><i style="color:#C1CB7F;"><b>Dance Marathon</b></i> at the <i style="color:#C1CB7F;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#e3e9c8;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#e3e9c8;"><b>$2,007,079.05</b></i>!
-    <p style="padding-top:0;"><i style="color:#C1CB7F;"><b>30 years ago</b></i>, it was the resilience, the drive, the fight, in a group of students with a dedicated purpose, that has long since inspired thousands of members, partners, and donors to continue our battle. <i style="color:#e3e9c8;"><b>#FightForMore</b></i> encapsulates our determination to carry on the legacy of <i style="color:#C1CB7F;"><b>DM at UF</b></i> and all those who came before us. Our Miracle Children and Families are all fighting illnesses they did not choose to fight. They never stop fighting, so neither should we.  We all have the ability to fight; to create a world where children facing pediatric illness are not defined by their conditions, but rather their courage and determination to <i style="color:#e3e9c8;"><b>#FightForMore</b></i>.<br/>
+    <p style="padding-top:0;">This February, we are focused on <i style="color:#CF1F41;"><b>Our Fight</b></i>. Over the next month, we will be taking a deeper look into where the funds we raise throughout the year go! All funds raised locally, stay local</b></i>, and <i style="color:#F27BAB;"><b>100%</b></i> go directly to UF Health Shands Children’s Hospital. The money we raised is divided <i style="color:#F27BAB;"><b>50-50</b></i> between UF College of Medicine, Department of Pediatrics, and UF Health Shands Children’s Hospital. The Department of Pediatrics invests funds heavily in research to move funds forward, and UF Health Shands Children’s Hospital uses funds where there is <i style="color:#F27BAB;"><b>the greatest need</b></i>. Some areas our funds support include programs for patients, hospital renovations, updated equipment, and new research initiatives! 
+    <p style="padding-top:0;"><i style="color:#CF1F41;"><b>Dance Marathon</b></i> at the <i style="color:#CF1F41;"><b>University of Florida</b></i>  is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#F27BAB;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 30th year of Dance Marathon at UF, having fundraised over $30,000,000 thus far. This past year, we celebrated our 29th year by raising a historic <i style="color:#F27BAB;"><b>$2,007,079.05</b></i>!
+    <p style="padding-top:0;"><i style="color:#CF1F41;"><b>30 years ago</b></i>, it was the resilience, the drive, the fight, in a group of students with a dedicated purpose, that has long since inspired thousands of members, partners, and donors to continue our battle. <i style="color:#F27BAB;"><b>#FightForMore</b></i> encapsulates our determination to carry on the legacy of <i style="color:#CF1F41;"><b>DM at UF</b></i> and all those who came before us. Our Miracle Children and Families are all fighting illnesses they did not choose to fight. They never stop fighting, so neither should we.  We all have the ability to fight; to create a world where children facing pediatric illness are not defined by their conditions, but rather their courage and determination to <i style="color:#F27BAB;"><b>#FightForMore</b></i>.<br/>
   </b></a>
 </i></p>
 
@@ -365,11 +365,11 @@
       </div>
 
       <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #C1CB7F;">
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #CF1F41;">
         <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Previous</span>
          </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #e3e9c8">
+      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #F27BAB">
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
       </a>

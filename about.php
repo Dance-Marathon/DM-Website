@@ -71,7 +71,7 @@ include("includes/navbar.php");
     }
 
     .check-out-button {
-        background-color: #C1CB7F;
+        background-color: #CF1F41;
         color: white;
         font-weight: 700;
         width: fit-content;
@@ -114,7 +114,7 @@ include("includes/navbar.php");
 
     /* Create an active/current tablink class */
     .tab button.active {
-        background-color: #e3e9c8;
+        background-color: #F27BAB;
         margin-bottom: 0%;
     }
 
@@ -159,8 +159,8 @@ include("includes/navbar.php");
     }
 
     .subtab button.active {
-        color: #C1CB7F;
-        border-bottom: 2px solid #C1CB7F;
+        color: #CF1F41;
+        border-bottom: 2px solid #CF1F41;
         height: 50px;
     }
 
@@ -228,10 +228,10 @@ include("includes/navbar.php");
     <div class="container">
 
         <?php if ($status == "open") { ?>
-            <p><span style="color: #000000">Dance Marathon at the University of Florida is a yearlong philanthropic effort benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, students stay awake and on their feet at our annual 26.2 hour event to raise funds and awareness for Children's Miracle Network Hospitals for the duration of the event. In the 29 years of Dance Marathon at UF's existence, we have </span><span style="color: #C1CB7F"><b> raised more than $30 million</b> </span><span style="color: #000000">, making it </span><span style="color: #e3e9c8"><b> the most successful student-run philanthropy in the Southeastern United States. </b></span><span style="color: #000000"> In 2023, DM at UF raised a grand total of </span><span style="color: #C1CB7F"><b>$2,007,079.05</b></span><span style="color: #000000"> for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital.</span></p>
-            <p><span style="color: #000000">In 2022, UF Health Shands Children's Hosptial treated children from 65 counties in Florida, 42 other states, and 5 other countries. There were 48,994 telehealth visits, 37,789 ER visits, and 277,646 clinic visits. </span><span style="color: #e3e9c8"><b>All of the funds raised by DM at UF go directly to purchasing state-of-the-art medical equipment, enhancements to make the children’s stay at the hospital more enjoyable, and funding for research grants and educational programs.</b></span></p>
+            <p><span style="color: #000000">Dance Marathon at the University of Florida is a yearlong philanthropic effort benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, students stay awake and on their feet at our annual 26.2 hour event to raise funds and awareness for Children's Miracle Network Hospitals for the duration of the event. In the 29 years of Dance Marathon at UF's existence, we have </span><span style="color: #CF1F41"><b> raised more than $30 million</b> </span><span style="color: #000000">, making it </span><span style="color: #F27BAB"><b> the most successful student-run philanthropy in the Southeastern United States. </b></span><span style="color: #000000"> In 2023, DM at UF raised a grand total of </span><span style="color: #CF1F41"><b>$2,007,079.05</b></span><span style="color: #000000"> for UF Health Shands Children's Hospital, our local Children’s Miracle Network Hospital.</span></p>
+            <p><span style="color: #000000">In 2022, UF Health Shands Children's Hosptial treated children from 65 counties in Florida, 42 other states, and 5 other countries. There were 48,994 telehealth visits, 37,789 ER visits, and 277,646 clinic visits. </span><span style="color: #F27BAB"><b>All of the funds raised by DM at UF go directly to purchasing state-of-the-art medical equipment, enhancements to make the children’s stay at the hospital more enjoyable, and funding for research grants and educational programs.</b></span></p>
             <p><span style="color: #000000">Patient care funding provides necessities such as bandages and patient gowns, as well as equipment and hospital improvements to make hospital stays more enjoyable for children and their families. Research funding helps our doctors find solutions for incurable diseases such as cystic fibrosis and cancer, and it allows them to develop life-saving technology and enhanced processes that improve the daily lives of pediatric patients. Education funding supports programs such as Child Life Diversion therapy and goes toward raising funds and awareness for the Children’s Miracle Network.</span></p>
-            <p><span style="color: #e3e9c8"><b>As we head into our</span> <span style="color: #C1CB7F">30th year</span><span style="color: #e3e9c8">, Dance Marathon at UF is excited to make even more miracles!</b></span></p>
+            <p><span style="color: #F27BAB"><b>As we head into our</span> <span style="color: #CF1F41">30th year</span><span style="color: #F27BAB">, Dance Marathon at UF is excited to make even more miracles!</b></span></p>
             <!-- Get updated numbers fro how many people visit UF Health-->
         <?php } else {
             echo 'This page is currently closed.';

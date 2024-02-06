@@ -73,14 +73,14 @@
 }
 .sf-menu li:hover,
 .sf-menu li.sfHover {
-	background: #C1CB7F;
+	background: #CF1F41;
 	/* only transition out, not in */
 	-webkit-transition: none;
 	transition: none;
 }
 .sf-menu li ul {
   display: none; /* prevents menu from showing for a split-second on page load */
-	background: #C1CB7F;
+	background: #CF1F41;
   border: none;
   border-radius: 0px;
   padding-top: 4px;
@@ -112,7 +112,7 @@
 .sf-menu .open > a,
 .sf-menu .open > a:hover,
 .sf-menu .open > a:focus {
-  background-color: #C1CB7F;
+  background-color: #CF1F41;
 }
 
 /*
