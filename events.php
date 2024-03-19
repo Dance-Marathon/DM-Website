@@ -265,6 +265,7 @@ include("includes/navbar.php");
                 <li>Leesburg High School</li>
                 <li>Newberry High School</li>
                 <li>Oak Hall High School</li>
+                <li>Tavares High School</li>
                 <li>Vanguard High School</li>
                 <li>Villages Charter School</li>
                 <!-- <li>Palm Beach Gardens Community High School</li>
