@@ -241,7 +241,7 @@
               <div class="col-md-3", style="width: 33%;">
               <!--<i class="fa-solid fa-family" aria-hidden="true"></i>-->
               <i class="fa fa-heart"></i>
-                <h3>Miracle Famileies</h3>
+                <h3>Miracle Families</h3>
                 <p>Take a moment to meet the heart and soul of our movement. Our Miracle Families are the inspiration for every student who is part of DM at UF.</p>
                 <p><a class="btn btn-default" href="about" role="button">Learn More</a></p>
               </div>
