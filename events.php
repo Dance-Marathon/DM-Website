@@ -93,7 +93,7 @@ include("includes/navbar.php");
 
     /* Create an active/current tablink class */
     .tab button.active {
-        background-color: #e2883c;
+        background-color: #233563;
         margin-bottom: 0%;
     }
 
@@ -138,8 +138,8 @@ include("includes/navbar.php");
     }
 
     .subtab button.active {
-        color: #233563;
-        border-bottom: 2px solid #233563;
+        color: #e2883c;
+        border-bottom: 2px solid #e2883c;
         height: 50px;
     }
 
@@ -208,8 +208,8 @@ include("includes/navbar.php");
         <?php if ($status == "open") { ?>
             <!--<h3><b><span style="color: black">A YEARLONG PHILANTHROPY</span></b></h3>-->
             <h2>A Yearlong Philanthropy</h2>
-            <p>Dance Marathon is a <b><span style="color: #233563">yearlong commitment</span></b> that includes many fundraising events aimed at reaching University students, businesses, and Gainesville residents. These events help us create a fun and exciting atmosphere while raising awareness about DM, whether it is through social media or inspirational stories from our Miracle Children who speak at the events. DM at UF's community events are all highly anticipated as they build up throughout the year toward the main Event in the spring.</p>
-            <p><b><span style="color: #e2883c">Your involvement in these events is what makes them successful!</span></b> Reaching out for the support of the entire community is vital for the continued success of Gainesville's local Children's Miracle Network Hospital. For more information about how to get involved in these events, please contact us at <a href="floridadm@floridadm.org">floridadm@floridadm.org</a>.</p>
+            <p>Dance Marathon is a <b><span style="color: #e2883c">yearlong commitment</span></b> that includes many fundraising events aimed at reaching University students, businesses, and Gainesville residents. These events help us create a fun and exciting atmosphere while raising awareness about DM, whether it is through social media or inspirational stories from our Miracle Children who speak at the events. DM at UF's community events are all highly anticipated as they build up throughout the year toward the main Event in the spring.</p>
+            <p><b><span style="color: #233563">Your involvement in these events is what makes them successful!</span></b> Reaching out for the support of the entire community is vital for the continued success of Gainesville's local Children's Miracle Network Hospital. For more information about how to get involved in these events, please contact us at <a href="floridadm@floridadm.org">floridadm@floridadm.org</a>.</p>
         <?php } else {
             echo 'This page is currently closed.';
         } ?>
