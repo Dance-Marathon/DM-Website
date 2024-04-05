@@ -240,14 +240,14 @@ include("includes/navbar.php");
         <h3>FAQ:</h3>
  
     <b>1. When are visiting hours for the Main Event?</b>
-    <ul><li>Saturday, April 13th from 10:00am-12:00am (doors close for Opening Ceremonies at 10:45am and reopen at 12:20pm) </li></ul>
+    <ul><li>Saturday, April 13th from 10:00am-12:00am (doors close for Opening Ceremonies at 10:45am and reopen at 12:20pm) </li>
     <li>Sunday, April 14th from 6:00am-12:45pm</li></ul>
     <b>2. Where is Dance Marathon?</b>
     <ul><li>Dance Marathon will be taking place in the Stephen O’Connell Center on UF’s Campus, you can enter our event through Gate 1. </li>
     <b>3. Did you know it’s Orange and Blue Weekend?</b>
     <ul><li>Get the ultimate UF Experience with our annual Orange and Blue scrimmage and attending Dance Marathon. Parking will be busier than normal in the O’Connell Center Parking Garage and Lot. </li>
     <b>4. Where do I park if visiting?</b>
-    <ul><li>Parking will be available in the O’Connell Center Parking Lot and Garage. </li></ul>
+    <ul><li>Parking will be available in the O’Connell Center Parking Lot and Garage. </li>
     <li>Parking will be limited during the Orange and Blue Game, so we recommend arriving early if you plan on attending Opening Ceremonies.</li></ul>
     <b>5. Who is allowed to be a visitor at the Main Event?</b>
     <ul><li>Anyone! Just make sure to Check In at Gate 1 and get a wristband to visit our event! </li>
