@@ -237,6 +237,31 @@ include("includes/navbar.php");
         <p>Our Main Event is a 26.2-hour event held in the Stephen O’Connell Center, or as we like to call it, the O’Dome! During the Main Event, we celebrate all of our members and miracles made throughout the year. It is jam-packed full of entertainment, fundraising pushes, stories from Miracle Families, ceremonies, theme hours, a rave, and of course, the Linedance! Our Dancers will stand for the entire duration to symbolize our cause and the impact that we are making on the lives of children with pediatric illnesses at UF Health Shands Children’s Hospital. At the end of our event we will get to witness the reveal of the total amount raised by Dance Marathon over the whole year.</p>
         <!--<p><We are so excited to announce that the main event this year will be April 1-2, 2023!</p>-->
 
+        <h3>FAQ:</h3>
+ 
+    <b>1. When are visiting hours for the Main Event?</b>
+    <ul><li>Saturday, April 13th from 10:00am-12:00am (doors close for Opening Ceremonies at 10:45am and reopen at 12:20pm) </li></ul>
+    <li>Sunday, April 14th from 6:00am-12:45pm</li></ul>
+    <b>2. Where is Dance Marathon?</b>
+    <ul><li>Dance Marathon will be taking place in the Stephen O’Connell Center on UF’s Campus, you can enter our event through Gate 1. </li>
+    <b>3. Did you know it’s Orange and Blue Weekend?</b>
+    <ul><li>Get the ultimate UF Experience with our annual Orange and Blue scrimmage and attending Dance Marathon. Parking will be busier than normal in the O’Connell Center Parking Garage and Lot. </li>
+    <b>4. Where do I park if visiting?</b>
+    <ul><li>Parking will be available in the O’Connell Center Parking Lot and Garage. </li></ul>
+    <li>Parking will be limited during the Orange and Blue Game, so we recommend arriving early if you plan on attending Opening Ceremonies.</li></ul>
+    <b>5. Who is allowed to be a visitor at the Main Event?</b>
+    <ul><li>Anyone! Just make sure to Check In at Gate 1 and get a wristband to visit our event! </li>
+    <b>6. What can I do as a visitor?</b>
+    <ul><li>You can receive a tour of our event from our Recruitment Team and explore our Main Floor Engagement! </li>
+    <b>7. Can I visit outside of visitor hours?</b>
+    <ul><li>You can pay to attend our Rave from 1:30am-2:30am, but that is the only time outside of visiting hours that outside guests are allowed in. </li>
+    <b>8. I cannot attend the Main Event in person, how can I still be a supporter?</b>
+    <ul><li>You can follow our Instagram, @dmatuf, for real time updates on our Main Event, you can also support us using the link to our <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5803" target="_blank">DonorDrive</a>.</li>
+    <b>9. What is the Miracle Gala?</b>
+    <ul><li>The Miracle Gala is an opportunity for Alumni, Parents, and friends of Dance Marathon to join us for a celebratory evening with dinner and drinks. The Miracle Gala will be hosted Saturday, April 13th from 6-9pm in the Center Court Club of the Stephen O’Connell Center, tickets can be purchased <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=6176" target="_blank">HERE</a>!</li>
+    <b>10. What is the Rave?</b>
+    <ul><li>The Rave will take place in the O’Dome from 1:30am-2:30am, with doors opening at 1:00am. This is an opportunity to come into the O’Dome and rave with DM at UF and our amazing guest DJ’s. Tickets are $10 in advance and $15 at the door! You can purchase <a href="https://dance-marathon-at-uf-510104.square.site/product/raveticket/752" target="_blank">here</a>!</li>
+
         <p>Follow us on social media for event updates!</p>
         <p>For additional questions, email <a href=mailto:mainevent@floridadm.org>mainevent@floridadm.org</a>.</p>
     </div>
