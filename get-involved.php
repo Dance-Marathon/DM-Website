@@ -311,53 +311,81 @@
     function openCity(evt, cityName) {
         // Declare all variables
         var i, tabcontent, tablinks;
-      
+
         // Get all elements with class="tabcontent" and hide them
         tabcontent = document.getElementsByClassName("tabcontent");
         for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
+            tabcontent[i].style.display = "none";
         }
-         // Get all elements with class="tabcontent" and hide them
-    tabcontentSub = document.getElementsByClassName("tabcontent-subtab");
-    for (i = 0; i < tabcontentSub.length; i++) {
-      tabcontentSub[i].style.display = "none";
-    }
-       tablinksSub = document.getElementsByClassName("tablinks-subtab");
-        for (i = 0; i < tablinksSub.length; i++) {
-      tablinksSub[i].className = tablinksSub[i].className.replace(" active", "");
-        }
+
         // Get all elements with class="tablinks" and remove the class "active"
         tablinks = document.getElementsByClassName("tablinks");
         for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
         }
-      
+        tabcontentSub = document.getElementsByClassName("tabcontent-subtab");
+        for (i = 0; i < tabcontentSub.length; i++) {
+            tabcontentSub[i].style.display = "none";
+        }
+        tablinksSub = document.getElementsByClassName("tablinks-subtab");
+        for (i = 0; i < tablinksSub.length; i++) {
+            tablinksSub[i].className = tablinksSub[i].className.replace(" active", "");
+        }
         // Show the current tab, and add an "active" class to the button that opened the tab
         document.getElementById(cityName).style.display = "block";
         evt.currentTarget.className += " active";
-    }
-function openSubTab(evt, storySub) {
-    // Declare all variables
-    var i, tabcontentSub, tablinksSub;
-  
-    // Get all elements with class="tabcontent" and hide them
-    tabcontentSub = document.getElementsByClassName("tabcontent-subtab");
-    for (i = 0; i < tabcontentSub.length; i++) {
-      tabcontentSub[i].style.display = "none";
-    }
-  
-    // Get all elements with class="tablinks" and remove the class "active"
-    tablinksSub = document.getElementsByClassName("tablinks-subtab");
-    for (i = 0; i < tablinksSub.length; i++) {
-      tablinksSub[i].className = tablinksSub[i].className.replace(" active", "");
-    }
-  
-    // Show the current tab, and add an "active" class to the button that opened the tab
 
-    document.getElementById(storySub).style.display = "block";
-    evt.currentTarget.className += " active";
-}
+    }
+
+    function openSubTab(evt, storySub) {
+        // Declare all variables
+        var i, tabcontentSub, tablinksSub;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontentSub = document.getElementsByClassName("tabcontent-subtab");
+        for (i = 0; i < tabcontentSub.length; i++) {
+            tabcontentSub[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinksSub = document.getElementsByClassName("tablinks-subtab");
+        for (i = 0; i < tablinksSub.length; i++) {
+            tablinksSub[i].className = tablinksSub[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+
+        document.getElementById(storySub).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+  function openCityAndSubTab(evt, cityName, storySub) {
+    openCity(evt, cityName);
+    openDefaultSubTab(evt, storySub);
+  }
+
+  function openDefaultSubTab(evt, storySub) {
+        // Declare all variables
+        var i, tabcontentSub, tablinksSub;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontentSub = document.getElementsByClassName("tabcontent-subtab");
+        for (i = 0; i < tabcontentSub.length; i++) {
+            tabcontentSub[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinksSub = document.getElementsByClassName("tablinks-subtab");
+        for (i = 0; i < tablinksSub.length; i++) {
+            tablinksSub[i].className = tablinksSub[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+
+        document.getElementById(storySub).style.display = "block";
+        document.getElementById(storySub + "Button").className += " active";
+    }
 </script>
+
 <style>
     .page-heading.parallax.events {
         background-image: url("/assets/images/BannerPhotos21/Get involed (1).jpg");
@@ -554,7 +582,7 @@ function openSubTab(evt, storySub) {
     <div class="tab">
         <button id="defaultTab" class="tablinks" onclick="openCity(event, 'alum')">ALUMNI</button>
         <button class="tablinks" onclick="openCity(event, 'apps')">APPLICATIONS</button>
-        <button class="tablinks" onclick="openCity(event, 'ambassadors')">AMBASSADORS</button>
+        <button class="tablinks" onclick="openCityAndSubTab(event, 'ambassadors', 'become')" >AMBASSADORS</button>
         <button class="tablinks" onclick="openCity(event, 'captain-teams')">CAPTAIN TEAMS</button>
         <!--<button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>-->
     </div>
@@ -742,12 +770,14 @@ for($i = 0; $i < count($overalls); $i++) {
                     
 </div>
 
-    <div id="ambassadors" class="tabcontent">
+    <div id="ambassadors" class="tabcontent" >
 
     <div class="subtab">
-        <button class="tablinks-subtab" onclick="openSubTab(event, 'become')">BECOME AN AMBASSADOR</button>
+        <button id="becomeButton" class="tablinks-subtab" onclick="openSubTab(event, 'become')">BECOME AN AMBASSADOR</button>
         <button class="tablinks-subtab" onclick="openSubTab(event, 'start')">STARTING A TEAM</button>
         <button class="tablinks-subtab" onclick="openSubTab(event, '22amb')">2023 AMBASSADORS</button>
+
+       
     </div>
     <div id="become" class="tabcontent-subtab">
 <h3>What is an Ambassador?</h3>
@@ -2474,6 +2504,10 @@ Zachary Abrams
     window.addEventListener('load', function() {
         document.getElementById('defaultTab').click();
     });
+
+    
 </script>
+
+
 
 <?php include("includes/foot.php"); ?>
