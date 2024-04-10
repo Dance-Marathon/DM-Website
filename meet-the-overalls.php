@@ -304,6 +304,11 @@
 .page-heading.parallax.meet-the-overalls {
 background-image: url("/assets/images/BannerPhotos21/contact us copy.jpg");
 }
+
+.last-images-container {
+    display: flex;
+    justify-content: center;
+}
 </style>
 
 <div class="page-heading parallax meet-the-overalls">
@@ -325,9 +330,16 @@ background-image: url("/assets/images/BannerPhotos21/contact us copy.jpg");
       <?php if ($status == "open") { ?>
         <?php
         for($i = 0; $i < count($overalls); $i++) {
+
           if($i % 3 == 0) {
             echo '<div class="row">';
-          } ?>
+          }
+          
+          if($i == count($overalls) - 2) {
+            echo '</div><div class="last-images-container">';
+          }
+
+          ?>
           <div class="col-sm-4">
             <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
               <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT24 Headshots/'.$overalls[$i]['image']); ?>" alt="..."><br>
