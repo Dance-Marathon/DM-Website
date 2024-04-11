@@ -47,6 +47,32 @@ function openSubTab(evt, storySub) {
     document.getElementById(storySub).style.display = "block";
     evt.currentTarget.className += " active";
 }
+function openCityAndSubTab(evt, cityName, storySub) {
+    openCity(evt, cityName);
+    openDefaultSubTab(evt, storySub);
+  }
+
+  function openDefaultSubTab(evt, storySub) {
+        // Declare all variables
+        var i, tabcontentSub, tablinksSub;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontentSub = document.getElementsByClassName("tabcontent-subtab");
+        for (i = 0; i < tabcontentSub.length; i++) {
+            tabcontentSub[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinksSub = document.getElementsByClassName("tablinks-subtab");
+        for (i = 0; i < tablinksSub.length; i++) {
+            tablinksSub[i].className = tablinksSub[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+
+        document.getElementById(storySub).style.display = "block";
+        document.getElementById(storySub + "Button").className += " active";
+    }
 </script>
 <style>
     .page-heading.parallax.fundraising {
@@ -216,7 +242,7 @@ function openSubTab(evt, storySub) {
         <button id="defaultTab" class="tablinks " onclick="openCity(event, 'donordrive')">DONORDRIVE</button>
         <button class="tablinks" onclick="openCity(event, 'match')">EMPLOYEE MATCHING</button>
         <!--<button class="tablinks" onclick="openCity(event, 'guide')">FUNDRAISING GUIDE</button>-->
-        <button class="tablinks" onclick="openCity(event, 'hello')">FUNDRAISING GUIDE</button>
+        <button class="tablinks" onclick="openCityAndSubTab(event, 'hello', 'reaching')">FUNDRAISING GUIDE</button>
         <button class="tablinks" onclick="openCity(event, 'sponsors')">SPONSORS</button>
     </div>
     
@@ -454,7 +480,7 @@ Children's Miracle Network<br/>
 <p>Take a look at all the different ways you can fundraise with Dance Marathon at UF! Whether you ask friends and family to support you, showcase your passion on social media, participate in canning, or volunteer your time for donations, there are so many ways to fundraise for DM at UF. Read more about all of these options below!</p>
 <!-- <p> Check out our fundraising guide <a href="assets/PDFs/FundraisingKit2022.pdf" target="_blank"> here.</a> -->
 <div class="subtab">
-    <button class="tablinks-subtab" onclick="openSubTab(event, 'reaching')">REACHING OUT</button>
+    <button id="reachingButton" class="tablinks-subtab" onclick="openSubTab(event, 'reaching')">REACHING OUT</button>
     <button class="tablinks-subtab" onclick="openSubTab(event, 'tips')">FUNDRAISING TIPS</button>
     <button class="tablinks-subtab" onclick="openSubTab(event, 'canning')">CANNING</button>
 </div>

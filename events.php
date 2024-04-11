@@ -57,6 +57,32 @@ include("includes/navbar.php");
         document.getElementById(storySub).style.display = "block";
         evt.currentTarget.className += " active";
     }
+    function openCityAndSubTab(evt, cityName, storySub) {
+    openCity(evt, cityName);
+    openDefaultSubTab(evt, storySub);
+  }
+
+  function openDefaultSubTab(evt, storySub) {
+        // Declare all variables
+        var i, tabcontentSub, tablinksSub;
+
+        // Get all elements with class="tabcontent" and hide them
+        tabcontentSub = document.getElementsByClassName("tabcontent-subtab");
+        for (i = 0; i < tabcontentSub.length; i++) {
+            tabcontentSub[i].style.display = "none";
+        }
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinksSub = document.getElementsByClassName("tablinks-subtab");
+        for (i = 0; i < tablinksSub.length; i++) {
+            tablinksSub[i].className = tablinksSub[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+
+        document.getElementById(storySub).style.display = "block";
+        document.getElementById(storySub + "Button").className += " active";
+    }
 </script>
 <style>
     .page-heading.parallax.events {
@@ -217,7 +243,7 @@ include("includes/navbar.php");
     <div class="tab">
         <button id="defaultTab" class="tablinks" onclick="openCity(event, 'kickoff')">FALL KICKOFF</button>
         <button class="tablinks" onclick="openCity(event, 'dance')">MAIN EVENT</button>
-        <button class="tablinks" onclick="openCity(event, 'mini')">MINI-MARATHONS</button>
+        <button class="tablinks" onclick="openCityAndSubTab(event, 'mini', 'marathon')">MINI-MARATHONS</button>
         <button class="tablinks" onclick="openCity(event, 'miricle')">MIRACLE GALA</button>
     </div>
     <div class="tab">
@@ -269,7 +295,7 @@ include("includes/navbar.php");
     <div id="mini" class="tabcontent">
 
         <div class="subtab">
-            <button class="tablinks-subtab" onclick="openSubTab(event, 'marathon')">MINI-MARATHON</button>
+            <button id="marathonButton" class="tablinks-subtab" onclick="openSubTab(event, 'marathon')">MINI-MARATHON</button>
             <button class="tablinks-subtab" onclick="openSubTab(event, 'schools')">SCHOOLS</button>
             <!-- <button class="tablinks-subtab" onclick="openSubTab(event, 'zone')">WHAT'S MY ZONE?</button> -->
         </div>

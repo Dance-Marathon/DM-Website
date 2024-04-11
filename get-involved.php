@@ -587,11 +587,11 @@
         <!--<button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>-->
     </div>
     <div class="tab">
-    <button class="tablinks" onclick="openCity(event, 'dancers')">DANCERS</button>
+    <button class="tablinks" onclick="openCityAndSubTab(event, 'dancers', 'what')">DANCERS</button>
     <button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>    
         <!--<button class="tablinks" onclick="openCity(event, 'kirstyn')">KIRSTYN'S KREW</button>-->
         <button class="tablinks" onclick="openCity(event, 'orgs')">ORGANIZATIONS</button>
-        <button class="tablinks" onclick="openCity(event, 'service')">SERVICE</button>
+        <button class="tablinks" onclick="openCityAndSubTab(event, 'service', 'serve')">SERVICE</button>
     </div>
     <div id="alum" class="tabcontent">
 <h3>About</h3>
@@ -2212,7 +2212,7 @@ Zachary Abrams
 </div>
     <div id="dancers" class="tabcontent">
 <div class="subtab">
-    <button class="tablinks-subtab" onclick="openSubTab(event, 'what')">WHAT IS DANCING?</button>
+    <button id="whatButton" class="tablinks-subtab" onclick="openSubTab(event, 'what')">WHAT IS DANCING?</button>
     <button class="tablinks-subtab" onclick="openSubTab(event, 'dfaq')">DANCER FAQS</button>
     <button class="tablinks-subtab" onclick="openSubTab(event, 'resources')">DANCER RESOURCES</button>
     <button class="tablinks-subtab" onclick="openSubTab(event, 'individual')">DANCING AS AN INDIVIDUAL</button>
@@ -2460,7 +2460,7 @@ Zachary Abrams
         
 <div id="service" class="tabcontent">
 <div class="subtab">
-    <button class="tablinks-subtab" onclick="openSubTab(event, 'serve')">SERVICE</button>
+    <button id="serveButton" class="tablinks-subtab" onclick="openSubTab(event, 'serve')">SERVICE</button>
     <button class="tablinks-subtab" onclick="openSubTab(event, 'vol')">VOLUNTEER DATES</button>
     <button class="tablinks-subtab" onclick="openSubTab(event, 'community')">COMMUNITY PARTNERS</button>
 </div>
