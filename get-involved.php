@@ -821,12 +821,9 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
           </div>
     </div>
     <div id="22amb" class="tabcontent-subtab zone">
-<br></br>
 
-<h3>2023 Ambassadors</h3>
-           <p>    </p>
-                
-                
+
+<h3 style="padding-top: 4.5%;">2023 Ambassadors</h3>
           <table style="width:100%; table-layout: fixed">
             <tbody>
               <tr>
