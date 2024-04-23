@@ -457,7 +457,7 @@ Children's Miracle Network<br/>
 <h2>Our 2023 Sponsors</h2>
 <div class="sponsor-section">
   <div class="row sponsors-block">
-      <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\2023\2023SponsorsList.png"/></a>
+      <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\Artboard 1.png"/></a>
 
 </div>
 </div>
