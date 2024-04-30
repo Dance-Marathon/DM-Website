@@ -10,9 +10,9 @@
   $overalls = array(
         
       array(
-        'name'                  =>  'Harper Grabenhorst',
+        'name'                  =>  'Ryan Athay',
         'position'              =>  'Executive Director',
-        'email'                 =>  'hgrabenhorst@floridadm.org',
+        'email'                 =>  'rathay@floridadm.org',
         'previous_involvement'  =>  'Dancer, Recruitment Captain, Assistant Director of Campus Relations, Internal Communications Manager',
         'major'                 =>  'Information Systems & Operations Management',
         'hometown'              =>  'Orlando, FL',
@@ -342,7 +342,7 @@ background-image: url("/assets/images/BannerPhotos21/contact us copy.jpg");
           ?>
           <div class="col-sm-4">
             <a href="#" style="display: block;" class="text-center" data-toggle="modal" data-target="#myModal<?php echo $i; ?>">
-              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT24 Headshots/'.$overalls[$i]['image']); ?>" alt="..."><br>
+              <img style="border: none;" class="img-circle img-thumbnail" src="<?php echo ('/assets/images/OT25 Headshots/'.$overalls[$i]['image']); ?>" alt="..."><br>
               <h3><?php echo $overalls[$i]['name']; ?></h3>
             </a>
             <p style="text-align: center;">
