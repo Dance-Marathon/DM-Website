@@ -449,10 +449,10 @@ Children's Miracle Network<br/>
 
 <div id="sponsors" class="tabcontent">
 <h2>Sponsor DM at UF</h2>
-<p>Dance Marathon at UF is so thankful for the support of our generous Sponsors! DM at UF offers many different ways to get involved as a Sponsor for our cause, each with various benefits to show our appreciation for your support. Our Sponsorships Team will connect your company with our Organization, along with access to an extensive network of supporters of all ages and demographics.</p>
+<p>Dance Marathon at UF is so thankful for the support of our generous Sponsors! DM at UF offers many different ways to get involved as a Sponsor for our cause, each with various benefits to show our appreciation for your support. Our Partnership Team will connect your company with our Organization, along with access to an extensive network of supporters of all ages and demographics.</p>
 <p> For more information, view our sponsorship opportunities <a href="assets/PDFs/2023Sponsorship_Packet copy.pdf" target="_blank">here.</a>
 </p>
-<p>If you have any questions, please contact our Sponsorships Overall Director, Ryan Athay, at <a href="mailto:rathay@floridadm.org">rathay@floridadm.org</a>.</p>
+<p>If you have any questions, please contact our Partnership Overall Director, Jessica Winograd, at <a href="mailto:jwinograd@floridadm.org">jwinograd@floridadm.org</a>.</p>
 <div >
 <h2>Our 2023 Sponsors</h2>
 <div class="sponsor-section">
