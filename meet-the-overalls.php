@@ -23,126 +23,139 @@
         'image'      =>  'SF.jpg',
       ),
 
-        array(
-         'name' => 'Macy Thompson',
-         'position' => 'Operations Manager',
-         'email' => 'mthompson@floridadm.org',
-         'image' => 'MT.jpg',
-        ),
-
-        array(
-        'name'                  =>  'Sydney Wall',
-        'position'              =>  'Marketing Manager',
-        'email'                 =>  'swall@floridadm.org',
-        'image'                 =>  'SW.jpg',
-      ),
       array(
-        'name'                  =>  'Abby Ferrell',
-        'position'              =>  'Membership Manager',
-        'email'                 =>  'aferrell@floridadm.org',
-        'image'                 =>  'AF.jpg',
+        'name'       =>  'Macy Thompson',
+        'position'   =>  'Operations Manager',
+        'email'      =>  'mthompson@floridadm.org',
+        'image'      =>  'MT.jpg',
       ),
-             array(
-        'name' => 'Cameron Appel',
-        'position' => 'Digital Marketing Overall',
-        'email' => 'cappel@floridadm.org',
-        'image' => 'CA.jpg',
-       ),
-       array(
-        'name' => 'Raegan Direnzo',
-        'position' => 'Dancer Engagement Overall',
-        'email' => 'rdirenzo@floridadm.org',
-        'image' => 'RD.jpg',
-       ),
-       array(
-        'name' => 'Dawson Geller',
-        'position' => 'Family Relations Overall',
-        'email' => 'dgeller@floridadm.org',
-        'image' => 'DG.jpg',
-       ),
-        array(
-         'name' => 'Ryan Beany',
-         'position' => 'Finance Overall',
-         'email' => 'rbeany@floridadm.org',
-         'image' => 'BEANY.png',
-         ),
-        array(
-        'name' => 'Sophie Linale',
-        'position' => 'Leadership Development Overall',
-        'email' => 'slinale@floridadm.org',
-        'image' => 'SL.jpg',
-       ),
-        array(
-       'name' => 'Lexi Devescovi',
-         'position' => 'Marathon Relations Overall',
-         'email' => 'ldevescovi@floridadm.org',
-       'image' => 'LD.jpg',
-          ),
-         array(
-        'name' => 'Olivia Knier',
-        'position' => 'Merchandise Overall',
-        'email' => 'oknier@floridadm.org',
-        'image' => 'OK.jpg',
-         ),
-          array(
-           'name' => 'Dylan Siegel',
-           'position' => 'Morale Overall',
-           'email' => 'dsiegel@floridadm.org',
-           'image' => 'DS.png',
-          ),
-         array(
-        'name' => 'Ava Dinow',
-        'position' => 'Multimedia Overall',
-        'email' => 'adinow@floridadm.org',
-        'image' => 'AD.jpg',
-       ),
-       array(
-        'name' => 'Caroline Lee',
-        'position' => 'Organization Relations Overall',
-        'email' => 'clee@floridadm.org',
-        'image' => 'CL.jpeg',
-        ),
-         array(
-        'name' => 'Averie Engel',
-        'position' => 'Outreach Overall',
-        'email' => 'aengel@floridadm.org',
-        'image' => 'AE.jpg',
-       ),
 
-         array(
-            'name' => 'Jessica Winograd',
-            'position' => 'Partnerships Overall',
-            'email' => 'jwinograd@floridadm.org',
-            'image' => 'JW.jpg',
-         ),
-          array(
-        'name' => 'Caroline Eaton',
-        'position' => 'Productions Overall',
-        'email' => 'ceaton@floridadm.org',
-        'image' => 'CE.jpg',
-        ),
+      array(
+        'name'       =>  'Sydney Wall',
+        'position'   =>  'Marketing Manager',
+        'email'      =>  'swall@floridadm.org',
+        'image'      =>  'SW.jpg',
+      ),
 
-         array(
-        'name' => 'Grey Chapin',
-        'position' => 'Public Relations Overall',
-        'email' => 'gchapin@floridadm.org',
-        'image' => 'GC.jpg',
-         ),
+      array(
+        'name'       =>  'Abby Ferrell',
+        'position'   =>  'Membership Manager',
+        'email'      =>  'aferrell@floridadm.org',
+        'image'      =>  'AF.jpg',
+      ),
 
-          array(
-           'name' => 'Ava Orlando',
-           'position' => 'Recruitment Overall',
-           'email' => 'aorlando@floridadm.org',
-           'previous_involvement' => 'Sponsorships Captain',
-           'major' => 'Biology and Spanish',
-           'hometown' => 'Fort Lauderdale, FL',
-           'outside_involvement' => 'Gift of Life Bone Marrow Registry Campus Ambassador, Member of Best Buddies, Research Assistant in the College of Medicine',
-           'free_time' => 'I enjoy hanging out with friends, eating (preferably Mexican), and shopping.',
-           'fun_fact' => 'I used to be Tumblr famous in 2012. ',
-           'favorite_memory' => 'Getting my hospital band cut off by Elie at closing ceremonies last year was definitely a powerful moment. It really bought together everything we had worked so hard for and reminded me why we do what we do.',
-           'motivation' => 'I\'ve always loved working with and helping kids. After graduation, I hope to go to medical school to pursue my dream of becoming a pediatrician.',
-           'image' => 'AO.jpg',
-         ),
+      array(
+        'name'       =>  'Cameron Appel',
+        'position'   =>  'Digital Marketing Overall',
+        'email'      =>  'cappel@floridadm.org',
+        'image'      =>  'CA.jpg',
+      ),
+
+      array(
+        'name'       =>  'Raegan Direnzo',
+        'position'   =>  'Dancer Engagement Overall',
+        'email'      =>  'rdirenzo@floridadm.org',
+        'image'      =>  'RD.jpg',
+      ),
+
+      array(
+        'name'       =>  'Dawson Geller',
+        'position'   =>  'Family Relations Overall',
+        'email'      =>  'dgeller@floridadm.org',
+        'image'      =>  'DG.jpg',
+      ),
+
+      array(
+        'name'       =>  'Ryan Beany',
+        'position'   =>  'Finance Overall',
+        'email'      =>  'rbeany@floridadm.org',
+        'image'      =>  'BEANY.png',
+      ),
+
+      array(
+        'name'       =>  'Sophie Linale',
+        'position'   =>  'Leadership Development Overall',
+        'email'      =>  'slinale@floridadm.org',
+        'image'      =>  'SL.jpg',
+      ),
+
+      array(
+        'name'       =>  'Lexi Devescovi',
+        'position'   =>  'Marathon Relations Overall',
+        'email'      =>  'ldevescovi@floridadm.org',
+        'image'      =>  'LD.jpg',
+      ),
+
+      array(
+        'name'       =>  'Olivia Knier',
+        'position'   =>  'Merchandise Overall',
+        'email'      =>  'oknier@floridadm.org',
+        'image'      =>  'OK.jpg',
+      ),
+
+      array(
+        'name'       =>  'Dylan Siegel',
+        'position'   =>  'Morale Overall',
+        'email'      =>  'dsiegel@floridadm.org',
+        'image'      =>  'DS.png',
+      ),
+
+      array(
+        'name'       =>  'Ava Dinow',
+        'position'   =>  'Multimedia Overall',
+        'email'      =>  'adinow@floridadm.org',
+        'image'      =>  'AD.jpg',
+      ),
+
+      array(
+        'name'       =>  'Caroline Lee',
+        'position'   =>  'Organization Relations Overall',
+        'email'      =>  'clee@floridadm.org',
+        'image'      =>  'CL.jpeg',
+      ),
+
+      array(
+        'name'       =>  'Averie Engel',
+        'position'   =>  'Outreach Overall',
+        'email'      =>  'aengel@floridadm.org',
+        'image'      =>  'AE.jpg',
+      ),
+
+      array(
+        'name'       =>  'Jessica Winograd',
+        'position'   =>  'Partnerships Overall',
+        'email'      =>  'jwinograd@floridadm.org',
+        'image'      =>  'JW.jpg',
+      ),
+
+      array(
+        'name'       =>  'Caroline Eaton',
+        'position'   =>  'Productions Overall',
+        'email'      =>  'ceaton@floridadm.org',
+        'image'      =>  'CE.jpg',
+      ),
+
+      array(
+        'name'       =>  'Grey Chapin',
+        'position'   =>  'Public Relations Overall',
+        'email'      =>  'gchapin@floridadm.org',
+        'image'      =>  'GC.jpg',
+      ),
+
+      array(
+        'name'                  =>  'Ava Orlando',
+        'position'              =>  'Recruitment Overall',
+        'email'                 =>  'aorlando@floridadm.org',
+        'previous_involvement'  =>  'Sponsorships Captain',
+        'major'                 =>  'Biology and Spanish',
+        'hometown'              =>  'Fort Lauderdale, FL',
+        'outside_involvement'   =>  'Gift of Life Bone Marrow Registry Campus Ambassador, Member of Best Buddies, Research Assistant in the College of Medicine',
+        'free_time'             =>  'I enjoy hanging out with friends, eating (preferably Mexican), and shopping.',
+        'fun_fact'              =>  'I used to be Tumblr famous in 2012. ',
+        'favorite_memory'       =>  'Getting my hospital band cut off by Elie at closing ceremonies last year was definitely a powerful moment. It really bought together everything we had worked so hard for and reminded me why we do what we do.',
+        'motivation'            =>  'I\'ve always loved working with and helping kids. After graduation, I hope to go to medical school to pursue my dream of becoming a pediatrician.',
+        'image'                 => 'AO.jpg',
+      ),
 
         
 
