@@ -230,7 +230,7 @@ function openCityAndSubTab(evt, cityName, storySub) {
                             <li> From here, you can use the tools on DonorDrive to send emails from a template, track your fundraising, and share your fundraising link with others! </li>
                                 </ol>
      
-                                <p>If you have any questions about DonorDrive contact the Fundraising & Organization Development Overall Director, Dilon Bruncaj, at <a href="mailto:dbruncaj@floridadm.org">dbruncaj@floridadm.org</a>.</p>
+                                <p>If you have any questions about DonorDrive contact the Finance Overall Director, Ryan Beany, at <a href="mailto:rbeany@floridadm.org">rbeany@floridadm.org</a>.</p>
      
                                </div>
                             </div>
@@ -260,7 +260,7 @@ function openCityAndSubTab(evt, cityName, storySub) {
 <ul><li>Children's Miracle Network</li>
 <li>Location: Salt Lake City, UT</li></ul>
  
-<p>If you have any further questions, please contact our Finance Manager, Clara Flint, at <a href="cflint@floridadm.org">cflint@floridadm.org</a>.</p>
+<p>If you have any further questions, please contact our Finance Manager, Sylar Finkel, at <a href="sfinkel@floridadm.org">sfinkel@floridadm.org</a>.</p>
 
 
 
@@ -329,7 +329,7 @@ function openCityAndSubTab(evt, cityName, storySub) {
     If your company uses an online platform for gift matching, submit an online gift matching verification form through your company’s portal and use the information listed below as the destination for your contribution. To be appropriately matched in the most efficient manner, we encourage matching through our preferred donation location listed below. Shands Teaching Hospital and Clinics, Inc. is our local Children’s Miracle Network Hospital and it is easiest to complete your employee match through this local option.
   </li>
   <li>
-  Obtain a matching gift verification form from your Human Resources Department.  Complete the form and list our organization name below.  If you directed your donation to Children’s Miracle Network, please email our Executive Director, Harper Grabenhorst, at <a href="mailto:hgrabenhorst@floridadm.org">hgrabenhorst@floridadm.org</a> with a copy of the matching gift verification form.
+  Obtain a matching gift verification form from your Human Resources Department.  Complete the form and list our organization name below.  If you directed your donation to Children’s Miracle Network, please email our Executive Director, Ryan Athay, at <a href="mailto:rathay@floridadm.org">rathay@floridadm.org</a> with a copy of the matching gift verification form.
   </li>
 </ol>
  
@@ -378,12 +378,12 @@ Children's Miracle Network<br/>
   </ul>
 <p>
   <strong>
-    PLEASE NOTE: Notify our Finance Manager, Clara Flint, at <a href="mailto:cflint@floridadm.org">cflint@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
+    PLEASE NOTE: Notify our Finance Manager, Sklay Finkel, at <a href="mailto:sfinkel@floridadm.org">sfinkel@floridadm.org</a> whenever a matching gift request has been submitted. The matching gift will be attributed to the individual who received the original donation. Please allow 60 days for the Office of Development to process your donor match before further inquiry as it can often be a lengthy process. Thank you for multiplying your miracles!
   </strong>
 </p>
 <p>
   <strong>
-    Important - Please do not fill out any forms sent with checks; instead turn them in directly into the Finance Manager, reachable at <a href="mailto:cflint@floridadm.org">cflint@floridadm.org</a>.
+    Important - Please do not fill out any forms sent with checks; instead turn them in directly into the Finance Manager, reachable at <a href="mailto:sfinkel@floridadm.org">sfinkel@floridadm.org</a>.
   </strong>
 </p>
 <!--
@@ -513,7 +513,7 @@ Children's Miracle Network<br/>
 <ul>
 <b><li>What is it?</b> - Soliciting loose change and small dollar donations outside of public places or businesses in order to benefit Dance Marathon at the University of Florida and UF Health Shands Children’s Hospital.</li>
 <b><li>How can I benefit?</b>- The money you raise via these efforts can be credited to your personal fundraising page as you look to raise more money and awareness!</li>
-<b><li>How to do it?</b> - First, obtain specially designed canning buckets from our Sponsorships Team (contact <a href="mailto:rathay@floridadm.org">rathay@floridadm.org</a> for further information). Email, call, or go inside a local business in your hometown and request to speak to the General Manager regarding canning donations. They will be sure and inform you of all the necessary regulations, and allow you to coordinate a time that works for both you and the business. Be sure and show up promptly and dressed in Dance Marathon at UF attire to help spread your message! From there, talk to customers as they leave the business about donating to your cause. No donation is too small and every amount helps make miracles! </li>
+<b><li>How to do it?</b> - First, obtain specially designed canning buckets from our Partnerships Team (contact <a href="mailto:jwinograd@floridadm.org">jwinograd@floridadm.org</a> for further information). Email, call, or go inside a local business in your hometown and request to speak to the General Manager regarding canning donations. They will be sure and inform you of all the necessary regulations, and allow you to coordinate a time that works for both you and the business. Be sure and show up promptly and dressed in Dance Marathon at UF attire to help spread your message! From there, talk to customers as they leave the business about donating to your cause. No donation is too small and every amount helps make miracles! </li>
 </ul>
  
         </div>

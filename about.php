@@ -537,7 +537,7 @@ include("includes/navbar.php");
     <?php if ($status == "open") { ?>
         <h3>For The Families</h3>
         <p>Dance Marathon at the University of Florida is very fortunate to have 35 Miracle Families who are true inspirations to everyone involved in the organization and are the pinnacle for what we stand for. The birthday parties, end-of-chemotherapy parties, and play dates that we have with the children constantly remind us of the true meaning behind “For All The Right Reasons.” The entire team at Dance Marathon is honored and privileged to have these amazing families attend Dance Marathon every year and support our students.</p>
-        <p>If you have any questions about the Family Relations program, or would like to become a Dance Marathon Miracle Family, please contact the Family Relations Overall Director, Anne-Charles Zimmer, at <a href="mailto:azimmer@floridadm.org">azimmer@floridadm.org</a></p>
+        <p>If you have any questions about the Family Relations program, or would like to become a Dance Marathon Miracle Family, please contact the Family Relations Overall Director, Dawson Geller, at <a href="mailto:dgeller@floridadm.org">dgeller@floridadm.org</a></p>
 
         <h3>Meet Our Miracle Families</h3>
         <p>Take a moment to meet the heart and soul of our philanthropy. Our Miracle Children are the inspiration for every student who is part of DM at UF.</p>

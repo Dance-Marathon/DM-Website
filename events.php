@@ -303,7 +303,7 @@ include("includes/navbar.php");
             <p>10 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of $600,310.82, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
             <!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/-qCnFuEPZOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
             <iframe width="560" height="315" src="https://www.youtube.com/embed/etQj32bVzlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <p>We are always looking for more high schools to join our Dance Marathon family. If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall Director, Jackie Aloumanis, at <a href="jaloumanis@floridadm.org ">jaloumanis@floridadm.org </a>.</p>
+            <p>We are always looking for more high schools to join our Dance Marathon family. If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall Director, Lexi Devescovi, at <a href="ldevescovi@floridadm.org ">ldevescovi@floridadm.org </a>.</p>
         </div>
 
         <div id="schools" class="tabcontent-subtab">
@@ -346,7 +346,7 @@ include("includes/navbar.php");
     <p> -->This semi-formal event is designed for the Dance Marathon at UF community to celebrate a year of achievements and will include a cocktail hour, live music, silent auction, buffet dinner, raise the paddle fundraiser, and programming during which you will hear from Miracle Families and cause-connected speakers.  </p>
     <p>The night will be filled with many Special Guests, including our Ambassador Families, DM at UF parents/families, UF Health Shands Staff, Dance Marathon Alumni, Community Partners, UF Faculty, Sponsors, members of our High School Program, Keynote Speakers, and more!</p>
    <!-- <p>Tickets can be purchased <a href=https://dance-marathon-at-uf-510104.square.site/miracle-gala>here</a>. For a limited time only, we are offering group deals on general tickets for groups of 3 or more. If you purchase 3 tickets, use code ‘gala3’ for 5% off your ticket purchase. For purchases of 4 tickets, use code ‘gala4’ to receive 10% off your total. Lastly, for 5+ tickets, use code ‘gala5’ to receive 15% off your final total! -->
-    <p>For more information or questions about sponsoring the event, please contact the Community Outreach Overall Director, Aria Patel, at <a href=mailto:apatel@floridadm.org>apatel@floridadm.org</a>. We look forward to seeing you there! </p>
+    <p>For more information or questions about sponsoring the event, please contact the Partnerships Overall Director, Jessica Winograd, at <a href=mailto:jwinograd@floridadm.org>jwinograd@floridadm.org</a>. We look forward to seeing you there! </p>
 
 </div>
 <div id="in-color" class="tabcontent">
@@ -367,7 +367,7 @@ include("includes/navbar.php");
 
     <p>*Don't want to be colored with powder? We will give you something to indicate to our color team that you want to stay clean. </p>
 
-    <p>For more information, please contact the Operations Manager, Gwyneth Bishara, at <a href=mailto:gbishara@floridadm.org>gbishara@floridadm.org</a>.</p>
+    <p>For more information, please contact the Operations Manager, Macy Thompson, at <a href=mailto:mthompson@floridadm.org>mthompson@floridadm.org</a>.</p>
 
     <h2>Race Day Info</h2>
 
@@ -375,7 +375,7 @@ include("includes/navbar.php");
 
     <p>There is parking available at Flavet Field, but please arrive early to ensure you have time to sign in before your scheduled race. </p>
 
-    <p>Check your email for more information, and email <a href=mailto:gbishara@floridadm.org>gbishara@floridadm.org</a> with any questions. </p>
+    <p>Check your email for more information, and email <a href=mailto:mthompson@floridadm.org>mthompson@floridadm.org</a> with any questions. </p>
 
     <h2>FAQs</h2>
     <h3>What is a Color Run? </h3>
@@ -394,7 +394,7 @@ include("includes/navbar.php");
     <h3>Moralloween</h3>
 
     <p>Moralloween is an annual fall fundraiser put on by Dance Marathon at UF, a student-run philanthropy that raises funds and awareness year-round at UF Health Shands Children’s Hospital! Organizations across campus participate by creating booths with activities, candy, and ways to bond with attendees and Miracle Families. Moralloween has a DJ, great food, and is a great way for everyone to get in the Halloween spirit!</p>
-    <p>For more information, please contact the Morale Overall Director, Filomena Selvanik, at <a href="mailto:fselvanik@floridadm.org">fselvanik@floridadm.org</a>.</p>
+    <p>For more information, please contact the Morale Overall Director, Dylan Siegel, at <a href="mailto:dsiegel@floridadm.org">dsiegel@floridadm.org</a>.</p>
 
 <p> Purchase tickets to our 2023 Moralloween event <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=6035" target="_blank">HERE!</a>
 

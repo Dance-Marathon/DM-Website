@@ -766,7 +766,7 @@ for($i = 0; $i < count($overalls); $i++) {
     <!--<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_2066pLrEw4x6P0q" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Monday, September 11</b>.</p> -->
 <b>Ambassador Application</b> Rolling Applications </p>
 <p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_6VuidCdXZjlefEq" target="_blank">here</a>. <!--This application will close at <b>5:00 PM EST on Tuesday, September 12</b>.</p> -->
-<p>If you have any questions regarding applications, please reach out to our Membership Manager, Toni JeBailey, at <a href="mailto:tjebailey@floridadm.org">tjebailey@floridadm.org</a>.</p>
+<p>If you have any questions regarding applications, please reach out to our Membership Manager, Abby Ferrell, at <a href="mailto:aferrell@floridadm.org">aferrell@floridadm.org</a>.</p>
                     
 </div>
 
@@ -817,7 +817,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
 <li>Input your information and create a new Organization.</li>
 <li>Fill out the proceeding information for your team and once your team has been registered, your members can join your team by following the steps and joining your existing Organization team.</li>
 </ol>
-<p>Each team will need an Ambassador to represent them. Please email the Fundraising & Organizational Development Overall, Dilon Bruncaj, at <a href=mailto:dbruncaj@floridadm.org>dbruncaj@floridadm.org</a> to inform them you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Fundraising & Organizational Development Overall will not be able to get in contact with you unless you email them to let him know you started a team.</p>
+<p>Each team will need an Ambassador to represent them. Please email the Organization Relations Overall, Caroline Lee, at <a href=mailto:clee@floridadm.org>clee@floridadm.org</a> to inform them you have created a team and will be serving as the Ambassador or have plans of selecting an Ambassador in the near future. The Organization Relations Overall will not be able to get in contact with you unless you email them to let them know you started a team.</p>
           </div>
     </div>
     <div id="22amb" class="tabcontent-subtab zone">
@@ -2221,7 +2221,7 @@ Zachary Abrams
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p>In addition to standing, if able, for the duration of the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
             <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click Here to Register to Dance</a></p>
-            <p>Please email Ashleigh Churchill, Dancer Relations Overall Director, at <a href="mailto:achurchill@floridadm.org">achurchill@floridadm.org </a> with any questions!</p>
+            <p>Please email Raegan Direnzo, Dancer Engagement Overall Director, at <a href="mailto:rdirenzo@floridadm.org">rdirenzo@floridadm.org </a> with any questions!</p>
           </div>
 </div>
 
@@ -2393,7 +2393,7 @@ Zachary Abrams
             <p></p>
             <p>You have the option to register to Dance as an individual. When registering to Dance, it will ask you which Organization you are participating with, and there will be an option that says “Participating as an Individual.” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
             <p>Individual Dancers are placed on a team called Gator Aides. Being a part of Gator Aides will allow you to make connections with other individual Dancers as well as our Miracle Children. Gator Aides have additional opportunities, meetings, and events throughout the year you can choose to attend that will allow you to become even more involved in our cause. </p>
-            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Mary Kate Arbuckle, at <a href="mailto:marbuckle@floridadm.org">marbuckle@floridadm.org</a>.</p>
+            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Ava Orlando, at <a href="mailto:aorlando@floridadm.org">aorlando@floridadm.org</a>.</p>
             <br></br>
           </div>
 
@@ -2419,7 +2419,7 @@ Zachary Abrams
     <div id="orgs" class="tabcontent">
     <h3>Organizations</h3>
 		  <p>A variety of University of Florida affeliated Organizations participate in Dance Marathon every year!</p>
-      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Mary Kate Arbuckle, at <a href=mailto:marbuckle@floridadm.org>marbuckle@floridadm.org</a>.</p>
+      <p>Organizations are the backbone of our philanthropy, and we are always looking for more people to join our family! If you would like to get your organization involved with Dance Marathon, please contact the Recruitment Overall, Ava Orlando, at <a href=mailto:aorlando@floridadm.org>aorlando@floridadm.org</a>.</p>
       <p>Below are the Organizations currently involved in Dance Marathon at UF 2023:</p>
 
       <table class="table table-bordered table-middle">
