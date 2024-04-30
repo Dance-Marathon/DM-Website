@@ -2221,7 +2221,7 @@ Zachary Abrams
             <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
             <p>In addition to standing, if able, for the duration of the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
             <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click Here to Register to Dance</a></p>
-            <p>Please email Raegan Direnzo, Dancer Engagement Overall Director, at <a href="mailto:rdirenzo@floridadm.org">rdirenzo@floridadm.org </a> with any questions!</p>
+            <p>Please email Raegan DiRenzo, Dancer Engagement Overall Director, at <a href="mailto:rdirenzo@floridadm.org">rdirenzo@floridadm.org </a> with any questions!</p>
           </div>
 </div>
 

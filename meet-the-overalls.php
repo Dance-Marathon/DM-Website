@@ -52,7 +52,7 @@
       ),
 
       array(
-        'name'       =>  'Raegan Direnzo',
+        'name'       =>  'Raegan DiRenzo',
         'position'   =>  'Dancer Engagement Overall',
         'email'      =>  'rdirenzo@floridadm.org',
         'image'      =>  'RD.jpg',
