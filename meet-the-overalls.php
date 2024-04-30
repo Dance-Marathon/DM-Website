@@ -99,7 +99,7 @@
         'name' => 'Caroline Lee',
         'position' => 'Organization Relations Overall',
         'email' => 'clee@floridadm.org',
-        'image' => 'CL.jpg',
+        'image' => 'CL.jpeg',
         ),
          array(
         'name' => 'Averie Engel',
