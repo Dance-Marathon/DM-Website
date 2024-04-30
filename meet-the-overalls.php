@@ -10,18 +10,19 @@
   $overalls = array(
         
       array(
-        'name'                  =>  'Ryan Athay',
-        'position'              =>  'Executive Director',
-        'email'                 =>  'rathay@floridadm.org',
-        'image'                 =>  'RA.jpg',
+        'name'       =>  'Ryan Athay',
+        'position'   =>  'Executive Director',
+        'email'      =>  'rathay@floridadm.org',
+        'image'      =>  'RA.jpg',
       ),
       
-          array(
-         'name' => 'Skylar Finkel',
-         'position' => 'Finance Manager',
-         'email' => 'sfinkel@floridadm.org',
-         'image' => 'SF.jpg',
-        ),
+      array(
+        'name'       =>  'Skylar Finkel',
+        'position'   =>  'Finance Manager',
+        'email'      =>  'sfinkel@floridadm.org',
+        'image'      =>  'SF.jpg',
+      ),
+
         array(
          'name' => 'Macy Thompson',
          'position' => 'Operations Manager',
