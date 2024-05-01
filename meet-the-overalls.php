@@ -82,7 +82,7 @@
       array(
         'name'       =>  'Lexi Devescovi',
         'position'   =>  'Marathon Relations Overall',
-        'email'      =>  'ldevescovi@floridadm.org',
+        'email'      =>  'adevescovi@floridadm.org',
         'image'      =>  'LD.jpg',
       ),
 
