@@ -1011,7 +1011,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
         </div>
         <div id="a16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q16">
          <div class="panel-body">
-           <b>The Dancer Engagement Team</b> 
+           <b>The Dancer Engagement Team</b> is responsible for welcoming and communicating with Dancers by hosting Check-Ins, tracking Dancer involvement and providing a year long experience for Dancers through events and other engagement throughout the year. DE Captains work alongside the Recruitment Team to help register Dancers during registration pushes. Captains will be responsible for a group of Dancers that they will communicate with to promote all DM at UF and Dancer events or opportunities. Captains are expected to attend Check-Ins on Wednesdays in Turlington, where they will Check in Dancers, log their Spirit Points, help with the Check-Ins activity, and spread the word about DM at UF on campus. Dancer Engagement also plans events and other engagement specifically for Dancers, which Captains will help execute! At the Main Event, their job is to Check in Dancers, encourage and support them throughout the 26.2 hours, and run swim/shower overnight. As a DE Captain, you are also expected to be a support system for your Dancers and be a resource to them throughout their entire DM at UF experience! 
           <br><br>
           <h4><b>Overall Director</b></h4>
           Raegan DiRenzo
