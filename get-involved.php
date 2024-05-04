@@ -1597,7 +1597,7 @@ Zoe Donohoe-->
           </div>
           <div id="a11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q11">
             <div class="panel-body">
-            <b>The Outreach Team</b> 
+            <b>The Outreach Team</b> seeks to grow the Dance Marathon community beyond our student body by sharing our passion and mission to Faculty and Staff, Members’ Families, and the broader Gainesville community. The servant leaders of this team focus on creating and fostering lasting relationships through segmented communication to our external partners. This team serves to connect to Faculty and Staff, Members’ Families, and the external community to our year long engagements and organize events such as Faculty Appreciation Week, Family Weekend, and extending invitations to DM at UF events including but not limited to Moralloween, the Miracles in Color 5k, and the Main Event. The team will plan and engage in various volunteer opportunities with UF Health Shands Children’s Hospital on Giving Tuesday and throughout the duration of the school year. These efforts will culminate into an interactive experience during the Main Event to honor the entire community for their continued support of our cause.
           <br><br>
           <h4><b>Overall Director</b></h4>
           Averie Engel
