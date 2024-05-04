@@ -1006,7 +1006,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
        <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q16">
            <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#a16" aria-expanded="false" aria-controls="a16">Community Outreach</a>
+            <a data-toggle="collapse" data-parent="#accordion" href="#a16" aria-expanded="false" aria-controls="a16">Digital Marketing</a>
           </h4>
         </div>
         <div id="a16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q16">
