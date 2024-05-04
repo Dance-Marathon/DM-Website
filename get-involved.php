@@ -1016,16 +1016,16 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
           <h4><b>Overall Director</b></h4>
           Raegan DiRenzo
           <br><br>
-                 <h4><b>Assistant Director of Community Engagement</b></h4>
+                 <h4><b>Assistant Director of External Relations</b></h4>
                  
-                 <h4><b>	Assistant Director of University Relations</b></h4>
+                 <h4><b>	Assistant Director of Internal Relations</b></h4>
                  
-                 <h4><b>Assistant Director of Logistics</b></h4>
+                 <h4><b>Assistant Director of Stewardship</b></h4>
                  
                <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
-      Adele Dorion |
+      <!--Adele Dorion |
       Alexandra Polo |
       Campbell Crews |
       Catherine Hardy |
@@ -1046,7 +1046,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
       Neal Desai |
       Nicolas Gonzalez |
       Ryan Brosnahan |
-      Serena Thomas
+      Serena Thomas-->
           </tbody>
               </table>
                </div>
