@@ -1012,16 +1012,17 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
         <div id="a16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q16">
          <div class="panel-body">
            <b>The Dancer Engagement Team</b> is composed of graphic designers and software developers responsible for making the Dance Marathon at UF brand come to life. Technology Captains are responsible for either the development/maintenance of the website or mobile iOS/Android applications and Design Captains are responsible for the creation of all print/web design needs (merchandise, social media graphics, newsletters, calendars, etc.). Throughout the year, Captains work together to create high-tech, portfolio-quality materials that showcase Dance Marathon as a professional student-run movement. During the Main Event, Captains run the tech booth, which includes managing multiple screens inside the O’Dome, sending app notifications, coordinating audio/visual feeds, and creating in-event graphics.
-          <br>
+          <br><br>
           <h4><b>Overall Director</b></h4>
           Raegan DiRenzo
-          <br><br>
+          <br>
                  <h4><b>Assistant Director of External Relations</b></h4>
                  
                  <h4><b>	Assistant Director of Internal Relations</b></h4>
                  
                  <h4><b>Assistant Director of Stewardship</b></h4>
                  
+                 <br>
                <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
