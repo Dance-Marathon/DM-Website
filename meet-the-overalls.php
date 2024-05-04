@@ -45,17 +45,17 @@
       ),
 
       array(
-        'name'       =>  'Cameron Appel',
-        'position'   =>  'Digital Marketing Overall',
-        'email'      =>  'cappel@floridadm.org',
-        'image'      =>  'CA.jpg',
-      ),
-
-      array(
         'name'       =>  'Raegan DiRenzo',
         'position'   =>  'Dancer Engagement Overall',
         'email'      =>  'rdirenzo@floridadm.org',
         'image'      =>  'RD.jpg',
+      ),
+
+      array(
+        'name'       =>  'Cameron Appel',
+        'position'   =>  'Digital Marketing Overall',
+        'email'      =>  'cappel@floridadm.org',
+        'image'      =>  'CA.jpg',
       ),
 
       array(
