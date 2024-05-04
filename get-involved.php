@@ -1011,16 +1011,16 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
         </div>
         <div id="a16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q16">
          <div class="panel-body">
-           <b>The Dancer Engagement Team</b> is composed of graphic designers and software developers responsible for making the Dance Marathon at UF brand come to life. Technology Captains are responsible for either the development/maintenance of the website or mobile iOS/Android applications and Design Captains are responsible for the creation of all print/web design needs (merchandise, social media graphics, newsletters, calendars, etc.). Throughout the year, Captains work together to create high-tech, portfolio-quality materials that showcase Dance Marathon as a professional student-run movement. During the Main Event, Captains run the tech booth, which includes managing multiple screens inside the O’Dome, sending app notifications, coordinating audio/visual feeds, and creating in-event graphics.
+           <b>The Dancer Engagement Team</b> 
           <br><br>
           <h4><b>Overall Director</b></h4>
           Raegan DiRenzo
           <br><br>
-                 <h4><b>Assistant Director of External Relations</b></h4>
+                 <h4><b>Assistant Director of Stewardship</b></h4>
                  <br>
                  <h4><b>	Assistant Director of Internal Relations</b></h4>
                  <br>
-                 <h4><b>Assistant Director of Stewardship</b></h4>
+                 <h4><b>Assistant Director of External Relations</b></h4>
                  <br>
                <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
@@ -1056,66 +1056,68 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
           <div class="panel panel-default">
           <div class="panel-heading" role="tab" id="q2">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Dancer Relations</a>
+              <a data-toggle="collapse" data-parent="#accordion" href="#a2" aria-expanded="false" aria-controls="a2">Digital Marketing</a>
             </h4>
           </div>
           <div id="a2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q2">
             <div class="panel-body">
-                <b>The Dancer Relations Team</b> is responsible for welcoming and communicating with Dancers by hosting Check-Ins, tracking Dancer involvement and providing a year long experience for Dancers through events and other engagement throughout the year. DR Captains work alongside the Recruitment Team to help register Dancers during registration pushes. Captains will be responsible for a group of Dancers that they will communicate with to promote all DM at UF and Dancer events or opportunities. Captains are expected to attend Check-Ins on Wednesdays in Turlington, where they will Check in Dancers, log their Spirit Points, help with the Check-Ins activity, and spread the word about DM at UF on campus. Dancer Relations also plans events and other engagement specifically for Dancers, which Captains will help execute! At the Main Event, their job is to Check in Dancers, encourage and support them throughout the 26.2 hours, and run swim/shower overnight. As a DR Captain, you are also expected to be a support system for your Dancers and be a resource to them throughout their entire DM at UF experience!
-		    <br>
-              <h4><b>Overall Director</b></h4>
-              Ashleigh Churchill
-              <br><br>
-              <h4><b>Assistant Director of Check-Ins</b></h4>
-              Lauren Maya
-              <h4><b>Assistant Director of Dancer Engagement</b></h4>
-              Caroline Lee
-              <h4><b>Assistant Director of Internal Relations</b></h4>
-              Sabrina Kresse
-	      <h4><b>Assistant Director of External Relations</b></h4>
-              Abbey Ladd
-              <h4><b>Captains</b></h4> 
+            <b>The Dancer Engagement Team</b> is composed of graphic designers and software developers responsible for making the Dance Marathon at UF brand come to life. Technology Captains are responsible for either the development/maintenance of the website or mobile iOS/Android applications and Design Captains are responsible for the creation of all print/web design needs (merchandise, social media graphics, newsletters, calendars, etc.). Throughout the year, Captains work together to create high-tech, portfolio-quality materials that showcase Dance Marathon as a professional student-run movement. During the Main Event, Captains run the tech booth, which includes managing multiple screens inside the O’Dome, sending app notifications, coordinating audio/visual feeds, and creating in-event graphics.
+          <br><br>
+          <h4><b>Overall Director</b></h4>
+          Cameron Appel
+          <br><br>
+                 <h4><b>Assistant Director of Internal Design</b></h4>
+                 <br>
+                 <h4><b>	Assistant Director of External Design</b></h4>
+                 <br>
+                 <h4><b>Assistant Director of Internal Technology</b></h4>
+                 <br>
+                 <h4><b>	Assistant Director of External Technology</b></h4>
+                 <br>
+                 <h4><b>Assistant Director of Internal Affairs</b></h4>
+                 <br>
+               <h4>  <b>Captains</b></h4> 
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
-                Abby Cohen |
-Abigail Warren |
-Alejandro Vela |
-Alex Glazer |
-Alice Bachman |
-Andrew Lenneberg |
-Ariana Feldman |
-Bayley Edwards |
-Bianca Ciancio |
-Caitlyn McCoy |
-Cameron Rosenthal |
-Carley McCammon |
-Carly Miller |
-Carly Salk |
-Claire Lebron |
-Emily Kelly |
-Gianna Spadavecchia |
-Grace Press |
-Holly Kaplan |
-Julia Glacer |
-Ka'Rena Burke |
-Kate Hannah |
-Kellie Kulp |
-Kelsey Kettel |
-Liam Farrell |
-Liam Miller |
-Lydia Kamp |
-Madelyn Avergonzado |
-Marielle  Goldschlag |
-Morgan Liotta |
-Natalia Romano |
-Rebecca Borissova |
-Samantha Kormanyos |
-Shaila Spritzer |
-Taylor Mullen |
-Tyler Bonnoront |
-Whitney Dreyer |
-Zoe Sakellarios
+                <!--Abby Cohen |
+                Abigail Warren |
+                Alejandro Vela |
+                Alex Glazer |
+                Alice Bachman |
+                Andrew Lenneberg |
+                Ariana Feldman |
+                Bayley Edwards |
+                Bianca Ciancio |
+                Caitlyn McCoy |
+                Cameron Rosenthal |
+                Carley McCammon |
+                Carly Miller |
+                Carly Salk |
+                Claire Lebron |
+                Emily Kelly |
+                Gianna Spadavecchia |
+                Grace Press |
+                Holly Kaplan |
+                Julia Glacer |
+                Ka'Rena Burke |
+                Kate Hannah |
+                Kellie Kulp |
+                Kelsey Kettel |
+                Liam Farrell |
+                Liam Miller |
+                Lydia Kamp |
+                Madelyn Avergonzado |
+                Marielle  Goldschlag |
+                Morgan Liotta |
+                Natalia Romano |
+                Rebecca Borissova |
+                Samantha Kormanyos |
+                Shaila Spritzer |
+                Taylor Mullen |
+                Tyler Bonnoront |
+                Whitney Dreyer |
+                Zoe Sakellarios-->
                     </tbody>
               </table>
 
