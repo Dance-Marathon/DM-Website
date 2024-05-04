@@ -454,7 +454,7 @@ Children's Miracle Network<br/>
 </p>
 <p>If you have any questions, please contact our Partnership Overall Director, Jessica Winograd, at <a href="mailto:jwinograd@floridadm.org">jwinograd@floridadm.org</a>.</p>
 <div >
-<h2>Our 2023 Sponsors</h2>
+<h2>Our 2024 Sponsors</h2>
 <div class="sponsor-section">
   <div class="row sponsors-block">
       <img class="img-responsive" style="display: block; margin: auto;" src="assets\images\sponsors\Artboard 1.png"/></a>
