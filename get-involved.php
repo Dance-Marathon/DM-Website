@@ -1184,7 +1184,7 @@ Zachary Grosswirth-->
           </div>
           <div id="a4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q4">
             <div class="panel-body">
-            <b>The Finance Team</b> 
+            <b>The Finance Team</b> is responsible for the financial oversight of Dance Marathon at UF. This is achieved through the creative planning and strategic tracking of fundraising campaigns throughout the year. Captains will actively participate in discussions and spearhead special projects involving the creation of fundraising campaigns, incentives, and templates used by all members of Dance Marathon at UF. Through collaborating with the Merchandise, Digital Marketing, and Organization Relations Teams, Finance Captains will have the opportunity to directly impact fundraising initiatives. The Finance Team tracks and projects year-long fundraising efforts while providing adept insight into program development and application by engaging members, increasing involvement, and coordinating ways to improve the fundraising capabilities of the Organization as a whole. Additionally, Finance Captains have the unique opportunity to apply matching and offline funds through Donor Drive, fostering a deeper connection to the success of Dance Marathon at UF.
           <br><br>
           <h4><b>Overall Director</b></h4>
           Ryan Beany
