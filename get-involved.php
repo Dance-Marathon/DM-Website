@@ -1435,7 +1435,7 @@ William Lynfatt-->
                <h4>  <b>Captains</b></h4> 
        <table style="width:100%">
                 <tbody class="marathonrelationsnorth">
-                Alexa Katz |
+                <!--Alexa Katz |
 Allison Pace |
 Amina Mubarak |
 Ava Iuliani |
@@ -1456,7 +1456,7 @@ Molly Taylor |
 Shannon Manning |
 Sophia Spata |
 Taylor Callaway |
-Tiffany Cain
+Tiffany Cain-->
                       </tbody>
               </table>
             </div>
