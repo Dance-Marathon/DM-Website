@@ -1523,7 +1523,7 @@ Sydney Corn-->
           </div>
           <div id="a10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q10">
             <div class="panel-body">
-            <b>The Organization Relations Team</b> 
+            <b>The Organization Relations Team</b> facilitates communication and maintains strong relationships between Dance Marathon (DM) and UF student organizations. This team empowers student groups to get more involved with DM by building connections through dedicated student representatives called Ambassadors. Led by Captains, the Ambassador Program involves weekly meetings to keep Ambassadors informed, engaged, and equipped to involve their organizations in both programming and fundraising. Organization Relations Captains also collaborate with other Family Relations and Dancer Engagement Captains to ensure team alignment. In essence, they act as a liaison, fostering enthusiastic participation from our organizations and maximizing the collective impact of Dance Marathon.
           <br><br>
           <h4><b>Overall Director</b></h4>
           Caroline Lee
