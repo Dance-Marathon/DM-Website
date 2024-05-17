@@ -1022,7 +1022,6 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                  Katie McKeon
                  <h4><b>Assistant Director of External Relations</b></h4>
                  Kate Hannah
-          <br><br>
                <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
@@ -1068,15 +1067,15 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
           Cameron Appel
           <br><br>
                  <h4><b>Assistant Director of Internal Design</b></h4>
-                 <br>
+                 Katrina Isé
                  <h4><b>	Assistant Director of External Design</b></h4>
-                 <br>
+                 Ansley Goldstein
                  <h4><b>Assistant Director of Internal Technology</b></h4>
-                 <br>
+                 Zachary Grosswirth
                  <h4><b>	Assistant Director of External Technology</b></h4>
-                 <br>
+                 Eric Hengber
                  <h4><b>Assistant Director of Internal Affairs</b></h4>
-                 <br>
+                 Hailey Paek
                <h4>  <b>Captains</b></h4> 
                     
               <table style="width:100%">
@@ -1139,13 +1138,13 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
           Dawson Geller
           <br><br>
                  <h4><b>Assistant Director of Family Events</b></h4>
-                 <br>
+                 Chloe Claxton
                  <h4><b>	Assistant Director of Tracking</b></h4>
-                 <br>
+                 Mary Bennett
                  <h4><b>Assistant Director of Internal Outreach</b></h4>
-                 <br>
+                 Jackson Bond
                  <h4><b>	Assistant Director of External Outreach</b></h4>
-                 <br>
+                 Kristen Russo
                <h4>  <b>Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="designandtech">
@@ -1191,9 +1190,9 @@ Zachary Grosswirth-->
           Ryan Beany
           <br><br>
                  <h4><b>Assistant Director of Fundraising Development</b></h4>
-                 <br>
+                 Aaron Niazi
                  <h4><b>	Assistant Director of Finance Tracking</b></h4>
-                 <br>
+                 Tyler Bonnoront
                <h4>  <b>Captains</b></h4> 
 		     <table style="width:100%">
                 <tbody class="familyrelations">
@@ -1264,13 +1263,13 @@ Zoe Leitner-->
           Sophie Linale
           <br><br>
                  <h4><b>Assistant Director of Development</b></h4>
-                 <br>
+                 Alyssa Fennen
                  <h4><b>	Assistant Director of Engagement</b></h4>
-                 <br>
+                 Maya Vaidya
                  <h4><b>Assistant Director of Outreach</b></h4>
-                 <br>
+                 Emily Brundage
                  <h4><b>	Assistant Director of Tracking</b></h4>
-                 <br>
+                 Sophia Cuna
                <h4>  <b>Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="fundraising">
@@ -1312,13 +1311,13 @@ Zosia Czigany-->
           Lexi Devescovi
           <br><br>
                  <h4><b>Assistant Director of Established Programs</b></h4>
-                 <br>
+                 Madelyn Scaringe
                  <h4><b>	Assistant Director of Evolving Programs</b></h4>
-                 <br>
+                 Gabriella Petillo
                  <h4><b>Assistant Director of New Programs</b></h4>
-                 <br>
+                 Grace Nelson
                  <h4><b>	Assistant Director of Operations</b></h4>
-                 <br>
+                 Isabella Smedley
                <h4>  <b>Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="hospitality">
@@ -1363,13 +1362,13 @@ Sarah Klein-->
           Olivia Knier
           <br><br>
                  <h4><b>Assistant Director of Incentives and Inventory</b></h4>
-                 <br>
+                 Alexandra Kaye
                  <h4><b>	Assistant Director of Fundraising</b></h4>
-                 <br>
+                 Abby Thibodeau 
                  <h4><b>Assistant Director of Internal Operations</b></h4>
-                 <br>
+                 Lauren Klein
                  <h4><b>	Assistant Director of Stores and Mini Marathons</b></h4>
-                 <br>
+                 Chloe Lindow
                <h4>  <b>Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="leadershipdevelopment">
@@ -1426,13 +1425,13 @@ William Lynfatt-->
           Dylan Siegel
           <br><br>
                  <h4><b>Assistant Director of Captain Relations</b></h4>
-                 <br>
+                 Nina Rico
                  <h4><b>	Assistant Director of Event Planning</b></h4>
-                 <br>
+                 Lilliana Remillard
                  <h4><b>Assistant Director of Fundraising</b></h4>
-                 <br>
+                 Sam Gurrerro 
                  <h4><b>	Assistant Director of Mini Marathon Coordination</b></h4>
-                 <br>
+                 Raina Khanna
                <h4>  <b>Captains</b></h4> 
        <table style="width:100%">
                 <tbody class="marathonrelationsnorth">
@@ -1477,13 +1476,13 @@ Tiffany Cain-->
           Ava Dinow
           <br><br>
                  <h4><b>Assistant Director of Logistics</b></h4>
-                 <br>
+                 Rebecca Salamon
                  <h4><b>	Assistant Director of Photography</b></h4>
-                 <br>
+                 Sky Augusta
                  <h4><b>Assistant Director of Social Media</b></h4>
-                 <br>
+                 Sydney Crenshaw
                  <h4><b>	Assistant Director of Videography</b></h4>
-                 <br>
+                 Braden Romano <!-- love u sm pookie -->
                <h4>  <b>Captains</b></h4> 
        <table style="width:100%">
                 <tbody class="merch">
@@ -1530,13 +1529,13 @@ Sydney Corn-->
           Caroline Lee
           <br><br>
                  <h4><b>Assistant Director of IFC Relations</b></h4>
-                 <br>
+                 Peter Koltis
                  <h4><b>	Assistant Director of Panhellenic Relations</b></h4>
-                 <br>
+                 Ariana Martinez
                  <h4><b>Assistant Director of Student Relations</b></h4>
-                 <br>
+                 Zosia Czigany
                  <h4><b>	Assistant Director of Operations</b></h4>
-                 <br>
+                 Kelsey Reader 
                <h4>  <b>Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="morale">
@@ -1604,11 +1603,11 @@ Zoe Donohoe-->
           Averie Engel
           <br><br>
                  <h4><b>Assistant Director of Community Engagement</b></h4>
-                 <br>
+                 Maya Hershkowitz
                  <h4><b>	Assistant Director of University Relations</b></h4>
-                 <br>
+                 Lani Tudor-Dodd
                  <h4><b>Assistant Director of Logistics</b></h4>
-                 <br>
+                 Alexandra Polo
                <h4>  <b>Captains</b></h4> 
     <table style="width:100%">
                 <tbody class="multimedia">
@@ -1656,15 +1655,15 @@ Xiaotong Yu-->
           Jessica Winograd
           <br><br>
                  <h4><b>Assistant Director of Monetary Donations</b></h4>
-                 <br>
+                 Natalie Mann
                  <h4><b>	Assistant Director of In-Kind Donations</b></h4>
-                 <br>
+                 Jaiden Lopes
                  <h4><b>Assistant Director of Stewardship</b></h4>
-                 <br>
+                 Elle Lentz
                  <h4><b>	Assistant Director of Events</b></h4>
-                 <br>
+                 Chris Keeble
                  <h4><b>	Assistant Director of Logistics</b></h4>
-                 <br>
+                 Annie Ross
                <h4>  <b>Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="productions">
@@ -1713,13 +1712,13 @@ Tor Moncrieff-->
           Caroline Eaton
           <br><br>
                  <h4><b>Assistant Director of Talent Relations</b></h4>
-                 <br>
+                 Ashley Paek <!-- so proud of u bb -->
                  <h4><b>	Assistant Director of External Logistics</b></h4>
-                 <br>
+                 Joshua Rosenblatt
                  <h4><b>Assistant Director of Internal Logistics</b></h4>
-                 <br>
+                 Lillian Ghozali
                  <h4><b>	Assistant Director of Fundraising</b></h4>
-                 <br>
+                 Leah Johnson
                <h4>  <b>Captains</b></h4> 
      <table style="width:100%">
                 <tbody class="pr">
@@ -1768,11 +1767,11 @@ Veronica Nobles-->
           Grey Chapin
           <br><br>
                  <h4><b>Assistant Director of Internal Communications</b></h4>
-                 <br>
+                 Anabella Fernandez
                  <h4><b>	Assistant Director of External Communications</b></h4>
-                 <br>
+                 Rylie Pryor 
                  <h4><b>Assistant Director of Social Media</b></h4>
-                 <br>
+                 Lainey Shapiro
                <h4>  <b>Captains</b></h4> 
            <table style="width:100%">
                 <tbody class="recruitment"> 
@@ -1815,11 +1814,11 @@ Sukhman Sidhu-->
           Ava Orlando
           <br><br>
                  <h4><b>Assistant Director of Stewardship</b></h4>
-                 <br>
+                 Suki Sidhu
                  <h4><b>	Assistant Director of Tracking</b></h4>
-                 <br>
+                 Gabriella Proulx
                  <h4><b>Assistant Director of External Engagement</b></h4>
-                 <br>
+                 Isabella Duarte 
                <h4>  <b>Captains</b></h4> 
           <table style="width:100%">
                 <tbody class="sponsorships">
