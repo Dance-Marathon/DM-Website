@@ -1017,11 +1017,11 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
           Raegan DiRenzo
           <br><br>
                  <h4><b>Assistant Director of Stewardship</b></h4>
-                 <br>
+                 Frankie Provenzano
                  <h4><b>	Assistant Director of Internal Relations</b></h4>
-                 <br>
+                 Katie McKeon
                  <h4><b>Assistant Director of External Relations</b></h4>
-                 <br>
+                 Kate Hannah
                <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
