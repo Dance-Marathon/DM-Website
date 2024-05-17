@@ -1476,13 +1476,13 @@ Tiffany Cain-->
           Ava Dinow
           <br><br>
                  <h4><b>Assistant Director of Logistics</b></h4>
-                 Rebecca Salamon
-                 <h4><b>	Assistant Director of Photography</b></h4>
-                 Sky Augusta
-                 <h4><b>Assistant Director of Social Media</b></h4>
-                 Sydney Crenshaw
-                 <h4><b>	Assistant Director of Videography</b></h4>
                  Braden Romano <!-- love u sm pookie -->
+                 <h4><b>	Assistant Director of Photography</b></h4>
+                 Sydney Crenshaw
+                 <h4><b>Assistant Director of Social Media</b></h4>
+                 Sky Augusta
+                 <h4><b>	Assistant Director of Videography</b></h4>
+                 Rebecca Salamon
                <h4>  <b>Captains</b></h4> 
        <table style="width:100%">
                 <tbody class="merch">
