@@ -263,7 +263,7 @@ include("includes/navbar.php");
         <p>Our Main Event is a 26.2-hour event held in the Stephen O’Connell Center, or as we like to call it, the O’Dome! During the Main Event, we celebrate all of our members and miracles made throughout the year. It is jam-packed full of entertainment, fundraising pushes, stories from Miracle Families, ceremonies, theme hours, a rave, and of course, the Linedance! Our Dancers will stand for the entire duration to symbolize our cause and the impact that we are making on the lives of children with pediatric illnesses at UF Health Shands Children’s Hospital. At the end of our event we will get to witness the reveal of the total amount raised by Dance Marathon over the whole year.</p>
         <!--<p><We are so excited to announce that the main event this year will be April 1-2, 2023!</p>-->
 
-        <h3>FAQ:</h3>
+    <!--    <h3>FAQ:</h3>
  
     <b>1. When are visiting hours for the Main Event?</b>
     <ul><li>Saturday, April 13th from 10:00am-12:00am (doors close for Opening Ceremonies at 10:45am and reopen at 12:20pm) </li>
@@ -286,7 +286,7 @@ include("includes/navbar.php");
     <b>9. What is the Miracle Gala?</b>
     <ul><li>The Miracle Gala is an opportunity for Alumni, Parents, and friends of Dance Marathon to join us for a celebratory evening with dinner and drinks. The Miracle Gala will be hosted Saturday, April 13th from 6-9pm in the Center Court Club of the Stephen O’Connell Center, tickets can be purchased <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=6176" target="_blank">HERE</a>!</li></ul>
     <b>10. What is the Rave?</b>
-    <ul><li>The Rave will take place in the O’Dome from 1:30am-2:30am, with doors opening at 1:00am. This is an opportunity to come into the O’Dome and rave with DM at UF and our amazing guest DJ’s. Tickets are $10 in advance and $15 at the door! You can purchase <a href="https://dance-marathon-at-uf-510104.square.site/product/raveticket/752" target="_blank">here</a>!</li></ul>
+    <ul><li>The Rave will take place in the O’Dome from 1:30am-2:30am, with doors opening at 1:00am. This is an opportunity to come into the O’Dome and rave with DM at UF and our amazing guest DJ’s. Tickets are $10 in advance and $15 at the door! You can purchase <a href="https://dance-marathon-at-uf-510104.square.site/product/raveticket/752" target="_blank">here</a>!</li></ul> -->
 
         <p>Follow us on social media for event updates!</p>
         <p>For additional questions, email <a href=mailto:mainevent@floridadm.org>mainevent@floridadm.org</a>.</p>
