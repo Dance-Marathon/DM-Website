@@ -2317,9 +2317,9 @@ Zachary Abrams-->
 </div>
 <div id="resources" class="tabcontent-subtab">
 <h3>Register to Dance</h3>
-            <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click here to register to Dance!</a></p>
+           <!-- <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click here to register to Dance!</a></p> -->
             <P>Follow the link and select “Buy Tickets!” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
-            <p>Dancer Registration for Dance Marathon is open for two weeks in the Fall and two weeks in the Spring. To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
+            <p>To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
             <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the Fall and in the Spring.</p>
             <p>You may register to dance with an Organization team or as an individual. If you are a member of an Organization that does not currently participate in Dance Marathon, you may start a team by registering on DonorDrive.</p>
             <p><em>Please note: registration does not guarantee Dancer spots. Dancer spots are allocated in the Spring based off of Organizational or individual achievements.</em></p>
