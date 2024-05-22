@@ -300,7 +300,7 @@ include("includes/navbar.php");
             <!-- <button class="tablinks-subtab" onclick="openSubTab(event, 'zone')">WHAT'S MY ZONE?</button> -->
         </div>
         <div id="marathon" class="tabcontent-subtab">
-            <p>10 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of $600,310.82, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
+            <p>10 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of $205,897.99, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
             <!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/-qCnFuEPZOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
             <iframe width="560" height="315" src="https://www.youtube.com/embed/etQj32bVzlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>We are always looking for more high schools to join our Dance Marathon family. If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall Director, Lexi Devescovi, at <a href="adevescovi@floridadm.org ">adevescovi@floridadm.org </a>.</p>
@@ -396,7 +396,7 @@ include("includes/navbar.php");
     <p>Moralloween is an annual fall fundraiser put on by Dance Marathon at UF, a student-run philanthropy that raises funds and awareness year-round at UF Health Shands Children’s Hospital! Organizations across campus participate by creating booths with activities, candy, and ways to bond with attendees and Miracle Families. Moralloween has a DJ, great food, and is a great way for everyone to get in the Halloween spirit!</p>
     <p>For more information, please contact the Morale Overall Director, Dylan Siegel, at <a href="mailto:dsiegel@floridadm.org">dsiegel@floridadm.org</a>.</p>
 
-<p> Purchase tickets to our 2023 Moralloween event <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=6035" target="_blank">HERE!</a>
+<!--<p> Purchase tickets to our 2023 Moralloween event <a href="https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=6035" target="_blank">HERE!</a> -->
 
 </div>
 
@@ -419,11 +419,11 @@ include("includes/navbar.php");
 
     In efforts to boost engagement and encourage fundraising, we hosted programming at the Reitz Student Union in the Grand Ballroom and North Lawn. Throughout the day, merchandise, fundraising activities and Miracle Stories engaged and connected our members to our cause. We would like to extend a huge thank you to our participants, Alumni and donors for your continuous support throughout the day!<br></br>
 
-    Our 2022 total, which was raised in just 26.2 hours for our hospital, was <b>$526,292.90! </b> <br></br>
+    Our 2023 total, which was raised in just 26.2 hours for our hospital, was <b>$409,733.63! </b> <br></br>
 
     We are so eager to continue our efforts throughout this year and make miracles for the families who need it most! Please feel free to watch our Transform Today recap video from last year here. 
     <br></br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/k-LhKKJ-yyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oI5xXmr9hDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <!--    <iframe width="560" height="315" src="https://www.youtube.com/embed/k-LhKKJ-yyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
     <br></br>
     <h4><i>Why</i></h4>
