@@ -249,7 +249,7 @@ include("includes/navbar.php");
     <div class="subtab">
         <button id="defaultSubTab" class="tablinks-subtab" onclick="openSubTab(event, 'story')">OUR STORY</button>
         <button class="tablinks-subtab" onclick="openSubTab(event, 'fast-facts')">FAST FACTS</button>
-        <button class="tablinks-subtab" onclick="openSubTab(event, 'nomen')">NOMENCLATURE</button>
+        <!-- <button class="tablinks-subtab" onclick="openSubTab(event, 'nomen')">NOMENCLATURE</button> -->
     </div>
     <div id="story" class="tabcontent-subtab">
         <p>Dance Marathon at UF is a yearlong philanthropic effort that culminates in our Main Event each spring where students remain awake and on their feet for 26.2 hours to represent the hardships faced by children battling pediatric illness. DM at UF is one of the five founding Dance Marathon programs in the nation, and since our start we have raised more than $31 million for the Miracle Children at UF Health Shands Children’s Hospital, our local CMN Hospital. Today, Dance Marathon at UF involves hundreds of internal members and a variety of sponsors and community partners.</p>
@@ -408,7 +408,6 @@ include("includes/navbar.php");
             <li><span style="color: #000000">Number of Registered Dancers in 2022: <b>1250</b> </b></span></li>
             <li><span style="color: #000000">Number of Captains: <b>467</b></span></li>
             <li><span style="color: #000000">Number of Emerging Leaders: <b>160</b></span></li>
-            <li><span style="color: #000000">Number of Kirstyn's Krew: <b>53</b></span></li>
             <li><span style="color: #000000">Number of Miracle Families: <b>56</b></span></li>
             <li><span style="color: #000000">Number of Sponsors: <b>74</b></span></li>
             <li><span style="color: #000000">Most Years as a Dancer: <b>4 years</b></span></li>

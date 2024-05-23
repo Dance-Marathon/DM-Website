@@ -244,7 +244,7 @@ include("includes/navbar.php");
         <button id="defaultTab" class="tablinks" onclick="openCity(event, 'kickoff')">FALL KICKOFF</button>
         <button class="tablinks" onclick="openCity(event, 'dance')">MAIN EVENT</button>
         <button class="tablinks" onclick="openCityAndSubTab(event, 'mini', 'marathon')">MINI-MARATHONS</button>
-        <button class="tablinks" onclick="openCity(event, 'miricle')">MIRACLE GALA</button>
+        <!-- <button class="tablinks" onclick="openCity(event, 'miricle')">MIRACLE GALA</button> -->
     </div>
     <div class="tab">
         <button class="tablinks" onclick="openCity(event, 'in-color')">MIRACLES IN COLOR 5K</button>
@@ -300,7 +300,7 @@ include("includes/navbar.php");
             <!-- <button class="tablinks-subtab" onclick="openSubTab(event, 'zone')">WHAT'S MY ZONE?</button> -->
         </div>
         <div id="marathon" class="tabcontent-subtab">
-            <p>10 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of $205,897.99, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
+            <p>10 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of <i style="color:#233563;"><b>$205,897.99</b></i>, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
             <!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/-qCnFuEPZOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
             <iframe width="560" height="315" src="https://www.youtube.com/embed/wDD1GzDla3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>We are always looking for more high schools to join our Dance Marathon family. If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall Director, Lexi Devescovi, at <a href="adevescovi@floridadm.org ">adevescovi@floridadm.org </a>.</p>

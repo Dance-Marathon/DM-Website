@@ -15,10 +15,10 @@
         <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/apple-touch-icon-152x152.png">
         <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon-180x180.png">
         <link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
-        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-192x192.png" sizes="192x192">
+<!--         <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-192x192.png" sizes="192x192">
         <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-160x160.png" sizes="160x160">
         <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-96x96.png" sizes="96x96">
-        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16"> -->
         <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/assets/images/favicons/mstile-144x144.png">

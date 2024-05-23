@@ -591,7 +591,7 @@
     <button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>    
         <!--<button class="tablinks" onclick="openCity(event, 'kirstyn')">KIRSTYN'S KREW</button>-->
         <button class="tablinks" onclick="openCity(event, 'orgs')">ORGANIZATIONS</button>
-        <button class="tablinks" onclick="openCityAndSubTab(event, 'service', 'serve')">SERVICE</button>
+        <!-- <button class="tablinks" onclick="openCityAndSubTab(event, 'service', 'serve')">SERVICE</button> -->
     </div>
     <div id="alum" class="tabcontent">
 <h3>About</h3>
@@ -1856,7 +1856,7 @@ Zachary Abrams-->
 <p>Members of the Emerging Leaders Program will attend weekly small group meetings and monthly general body meetings. Throughout their small group meetings, Emerging Leaders will focus on completing diverse projects that inspire the Dance Marathon community, expanding their knowledge, leadership, and personal fundraising efforts, and participating in bonding with like-minded peers. At general body meetings, Emerging Leaders will have the opportunity to learn more about the goals and efforts of Dance Marathon, hear inspiring stories from our Miracle Families, and gain exposure to prominent speakers from the University of Florida and the Gainesville community.
 <p>During the Main Event, Emerging Leaders will have the ability to use the skills they’ve learned throughout the year to participate in various leadership opportunities as well as enjoy the Main Event from different perspectives.
 <!-- <p>All in all, the Emerging Leaders Program aspires to provide students wanting to join the Dance Marathon movement with a unique and immersive learning opportunity that allows students to instill positive change within the organization while also learning about the Dance Marathon community as a whole.</p> -->
-<h3>2023 Emerging Leaders</h3>
+<h3>2024 Emerging Leaders</h3>
 <!-- <p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_3TNT3WCljhDOJLw" target="_blank">here</a>. This application will close at <b>5:00 PM EST on Monday, September 12</b>.</p> -->
              
 <table style="width:100%">
@@ -2394,7 +2394,7 @@ Zachary Abrams-->
       </table>
         </div>
         
-<div id="service" class="tabcontent">
+<!-- <div id="service" class="tabcontent">
 <div class="subtab">
     <button id="serveButton" class="tablinks-subtab" onclick="openSubTab(event, 'serve')">SERVICE</button>
     <button class="tablinks-subtab" onclick="openSubTab(event, 'vol')">VOLUNTEER DATES</button>
@@ -2409,14 +2409,14 @@ Zachary Abrams-->
 </div>
 
 <div id="vol" class="tabcontent-subtab">
-<h3>Volunteer Dates</h3>
+<h3>Volunteer Dates</h3> -->
                           <!--<p>Dance Marathon at University of Florida is an organization led by servant leaders that strive to spread their passion for giving and creating change beyond our immediate campus. Members will receive one spirit point for engaging in a service event. </p>
                         <p> Giving Tuesday - November 30th, 2021 </p>
                           <p> This is an organization-wide service day where all members will be able to dedicate the day to giving back to our community by volunteering with our Community Partners.
                           Please register to volunteer for this event by clicking
                           <a href="https://docs.google.com/spreadsheets/d/17hRc6pJBqxHhnI-4G_Rkv9ikcnVg46HqPKTsaPnY9bc/edit">here</a>. </p>
                           <p> If you are unable to volunteer, please participate in the Canned Food Drive with Hitchcock Field and Fork Food Pantry between 11/8 - 11/18 by bringing a canned food to your meetings or check-ins for an extra spirit point.</p>-->
-                        <p> Check back soon! </p>
+                        <!-- <p> Check back soon! </p>
       </div>
 </div>
 <div id="community" class="tabcontent-subtab">
@@ -2434,7 +2434,7 @@ Zachary Abrams-->
                 </div>
                 </div>
                 
-</div>
+</div> -->
 
 <script>
     window.addEventListener('load', function() {
