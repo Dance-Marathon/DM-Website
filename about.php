@@ -249,7 +249,7 @@ include("includes/navbar.php");
     <div class="subtab">
         <button id="defaultSubTab" class="tablinks-subtab" onclick="openSubTab(event, 'story')">OUR STORY</button>
         <button class="tablinks-subtab" onclick="openSubTab(event, 'fast-facts')">FAST FACTS</button>
-        <!-- <button class="tablinks-subtab" onclick="openSubTab(event, 'nomen')">NOMENCLATURE</button> -->
+        <button class="tablinks-subtab" onclick="openSubTab(event, 'nomen')">NOMENCLATURE</button>
     </div>
     <div id="story" class="tabcontent-subtab">
         <p>Dance Marathon at UF is a yearlong philanthropic effort that culminates in our Main Event each spring where students remain awake and on their feet for 26.2 hours to represent the hardships faced by children battling pediatric illness. DM at UF is one of the five founding Dance Marathon programs in the nation, and since our start we have raised more than $31 million for the Miracle Children at UF Health Shands Children’s Hospital, our local CMN Hospital. Today, Dance Marathon at UF involves hundreds of internal members and a variety of sponsors and community partners.</p>
@@ -478,44 +478,43 @@ include("includes/navbar.php");
                 <li><span style="color: #000000">Marketing Manager</li></span>
                 <li><span style="color: #000000">Membership Manager</li></span>
                 <li><span style="color: #000000">Finance Manager</li></span>
-                <li><span style="color: #000000">Community Outreach</li></span>
-                <li><span style="color: #000000">Dancer Relations</li></span>
+                <li><span style="color: #000000">Dancer Engagement</li></span>
                 <li><span style="color: #000000">Digital Marketing</li></span>
                 <li><span style="color: #000000">Family Relations</li></span>
-                <li><span style="color: #000000">Fundraising and Organization Development</li></span>
-                <li><span style="color: #000000">Hospitality</li></span>
+                <li><span style="color: #000000">Finance</li></span>
                 <li><span style="color: #000000">Leadership Development</li></span>
                 <li><span style="color: #000000">Marathon Relations</li></span>
                 <li><span style="color: #000000">Merchandise</li></span>
                 <li><span style="color: #000000">Morale</li></span>
                 <li><span style="color: #000000">Multimedia</li></span>
+                <li><span style="color: #000000">Organization Relations</li></span>
+                <li><span style="color: #000000">Outreach</li></span>
+                <li><span style="color: #000000">Partnerships</li></span>
                 <li><span style="color: #000000">Productions</li></span>
                 <li><span style="color: #000000">Public Relations</li></span>
                 <li><span style="color: #000000">Recruitment</li></span>
-                <li><span style="color: #000000">Sponsorships</li></span>
             </ul>
         </li>
         <li><span style="color: #000000">Assistant Directors & Captains</span>
             <ul>
-                <li><span style="color: #000000">Community Outreach</li></span>
-                <li><span style="color: #000000">Dancer Relations</li></span>
+                <li><span style="color: #000000">Dancer Engagement</li></span>
                 <li><span style="color: #000000">Digital Marketing</li></span>
                 <li><span style="color: #000000">Family Relations</li></span>
-                <li><span style="color: #000000">Fundraising and Orginization Development</li></span>
-                <li><span style="color: #000000">Hospitality</li></span>
+                <li><span style="color: #000000">Finance</li></span>
                 <li><span style="color: #000000">Leadership Development</li></span>
                 <li><span style="color: #000000">Marathon Relations</li></span>
                 <li><span style="color: #000000">Merchandise</li></span>
                 <li><span style="color: #000000">Morale</li></span>
                 <li><span style="color: #000000">Multimedia</li></span>
+                <li><span style="color: #000000">Organization Relations</li></span>
+                <li><span style="color: #000000">Outreach</li></span>
+                <li><span style="color: #000000">Partnerships</li></span>
                 <li><span style="color: #000000">Productions</li></span>
                 <li><span style="color: #000000">Public Relations</li></span>
                 <li><span style="color: #000000">Recruitment</li></span>
-                <li><span style="color: #000000">Sponsorships</li></span>
             </ul>
         </li>
         <li><span style="color: #000000">Emerging Leaders</li></span>
-        <li><span style="color: #000000">Kirstyn's Krew</li></span>
         <li><span style="color: #000000">Ambassadors</li></span>
         <li><span style="color: #000000">Dancers</li></span>
         <li><span style="color: #000000">Fundraisers</li></span>
