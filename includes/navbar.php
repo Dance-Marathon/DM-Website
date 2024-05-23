@@ -24,7 +24,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			  </button>
-			  <a class="navbar-brand" href="/"><img src="/assets/images/logo30.png" alt="logo" height="40" width="42"></a>
+			  <a class="navbar-brand" href="/"><img src="/assets/images/logos/LogoForWebsite.png" alt="logo" height="40" width="40"></a>
 			</div>
 			<div class="navbar-collapse collapse">
 			  <ul class="sf-menu navbar-nav navbar-left">
@@ -119,13 +119,12 @@
 
               </ul>
               <ul class="nav navbar-nav navbar-right social-icons hidden-sm">
-			  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+			  <script src="https://kit.fontawesome.com/6d3007d5fe.js" crossorigin="anonymous"></script>
                   <li><a href="https://www.instagram.com/dmatuf/?hl=en"><i class="fab fa-instagram fa-sm"></i></a></li>
-                  <li><a href="https://twitter.com/floridadm?lang=en"><i class="fab fa-twitter fa-sm"></i></a></li>
+                  <li><a href="https://x.com/floridadm?lang=en"><i class="fab fa-x-twitter fa-sm"></i></a></li>
                   <li><a href="https://www.facebook.com/floridaDM/"><i class="fab fa-facebook fa-sm"></i></a></li>
 				  <!--<li><a href="https://www.tiktok.com/@dmatuf?_t=8YGROtwu7Eg&_r=1"><img class="fa" src="../assets\images\Logos\tiktok-iconWhite-larger.webp" style="width:1.7rem;"/></a></li>-->
-				  <li><a href="https://www.tiktok.com/@dmatuf?_t=8YGROtwu7Eg&_r=1"><i class="fab fa-tiktok fa-sm"></i></a></li>
-
+				  <!--<li><a href="https://www.tiktok.com/@dmatuf?_t=8YGROtwu7Eg&_r=1"><i class="fab fa-tiktok fa-sm"></i></a></li>-->
                   <!--<li><a href="https://www.tiktok.com/t/ZTRF4aWW7/"><i class="fa-brands fa-tiktok"></i></a></li> :: What the code should be provided we had an updated version of Font Awesome, which is where these come from-->
 
               </ul>
