@@ -24,7 +24,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			  </button>
-			  <a class="navbar-brand" href="/"><img src="/assets/images/logo2024.PNG" alt="logo" height="40" width="40"></a>
+			  <a class="navbar-brand" href="/"><img src="/assets/images/logo2024.png" alt="logo" height="40" width="40"></a>
 			</div>
 			<div class="navbar-collapse collapse">
 			  <ul class="sf-menu navbar-nav navbar-left">
