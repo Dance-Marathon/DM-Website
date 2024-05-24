@@ -408,6 +408,7 @@ include("includes/navbar.php");
             <li><span style="color: #000000">Number of Registered Dancers in 2022: <b>1250</b> </b></span></li>
             <li><span style="color: #000000">Number of Captains: <b>467</b></span></li>
             <li><span style="color: #000000">Number of Emerging Leaders: <b>160</b></span></li>
+            <li><span style="color: #000000">Number of Kirstyn's Krew: <b>53</b></span></li>
             <li><span style="color: #000000">Number of Miracle Families: <b>56</b></span></li>
             <li><span style="color: #000000">Number of Sponsors: <b>74</b></span></li>
             <li><span style="color: #000000">Most Years as a Dancer: <b>4 years</b></span></li>
@@ -515,6 +516,7 @@ include("includes/navbar.php");
             </ul>
         </li>
         <li><span style="color: #000000">Emerging Leaders</li></span>
+        <li><span style="color: #000000">Kirstyn's Krew</li></span>
         <li><span style="color: #000000">Ambassadors</li></span>
         <li><span style="color: #000000">Dancers</li></span>
         <li><span style="color: #000000">Fundraisers</li></span>
