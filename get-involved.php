@@ -755,7 +755,7 @@ for($i = 0; $i < count($overalls); $i++) {
 <b>Overall Director Application</b> Now Closed </p>
 <!--Click <a href="Documents/2022 Overall Director Application.pdf" target="_blank">here</a> to view the 2022 Overall Director Application</p>-->
 <!-- You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. You can apply to be an Ambassador even if you hold another position, and you will be able to do both.</p> -->
-<b>Assistant Director Applications</b> Now Closed </p>
+<b>Assistant Director Application</b> Now Closed </p>
 <!--The Assistant Director Application can be found <a href="assets/PDFs/Assistant Director Application 2025.pdf" target="_blank">here</a>. This application will close at <b/>5:00 PM EST on Saturday, May 11</b>. </p> -->
 <b>Captain Application</b> Now Closed </p>
     <!--The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_9YoO63ERV8HTK3s" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>5:00 PM EST on Monday, September 4</b>. 
@@ -764,8 +764,8 @@ for($i = 0; $i < count($overalls); $i++) {
 
 <b>Emerging Leaders Application</b> Now Closed </p> 
     <!--<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_2066pLrEw4x6P0q" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Monday, September 11</b>.</p> -->
-<b>Ambassador Application</b> Now Closed </p>
-<!--<p>The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_6VuidCdXZjlefEq" target="_blank">here</a>. <!--This application will close at <b>5:00 PM EST on Tuesday, September 12</b>.</p> -->
+<b>Ambassador Application</b> Now Open! </p> <p style="color:#233563;">The Ambassador Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_eG7brijBCrJ8mk6" target="_blank">here</a>. 
+ This application will close at <b>5:00 PM EST on June 21st</b>.</p>
 <p>If you have any questions regarding applications, please reach out to our Membership Manager, Abby Ferrell, at <a href="mailto:aferrell@floridadm.org">aferrell@floridadm.org</a>.</p>
                     
 </div>
