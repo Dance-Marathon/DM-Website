@@ -107,7 +107,7 @@ function openCityAndSubTab(evt, cityName, storySub) {
     }
     /* Create an active/current tablink class */
     .tab button.active {
-        background-color: #233563;
+        background-color: #017799;
         margin-bottom: 0%;
     }
     /* Style the tab content */
@@ -148,8 +148,8 @@ function openCityAndSubTab(evt, cityName, storySub) {
     transition: 0.1s;
 }
 .subtab button.active {
-    color: #e2883c;
-    border-bottom: 2px solid #e2883c;
+    color: #FCD13A;
+    border-bottom: 2px solid #FCD13A;
     height: 50px;
 }
 .zone {

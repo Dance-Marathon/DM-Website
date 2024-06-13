@@ -13,7 +13,11 @@
 			}
 		</style>
 
-    <!-- Fixed navbar -->
+	<!-- To Edit NavBar Colors for Campaign:
+			Find and Replace Hex Codes In Explorer
+			Blue: #233563
+			Orange: #e2883c			-->
+
 	<div id="nav" class="navbar navbar-fixed-top">
 
 
