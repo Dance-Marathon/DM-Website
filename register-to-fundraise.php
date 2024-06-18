@@ -222,6 +222,7 @@ function openCityAndSubTab(evt, cityName, storySub) {
                           <li> Next, select your role.
                                 <ul>
                                        <li> Select ‘Participant’ then ‘Individual’ or join the team of your choosing!
+                                </ul>
                             <li> After, you will finalize your registration by answering the questions presented.
                             <li> Once you have registered on DonorDrive, you can customize your fundraising page by adding a profile picture, editing your story, and updating your fundraising goal. Use this <a href="assets/PDFs/how-to-guide.pdf" target="_blank">How-To Guide</a> for step by step instructions.
                             <li> From here, you can use the tools on DonorDrive to send emails from a template, track your fundraising, and share your fundraising link with others! </li>
