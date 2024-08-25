@@ -19,7 +19,7 @@
         <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-160x160.png" sizes="160x160">
         <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-96x96.png" sizes="96x96">
         <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16"> -->
-        <link rel="icon" type="image/png" href="/assets/images/favicons/favicon.png">
+        <link rel="icon" type="image/png" href="/assets/images/favicons/logo2024.png">
 
 		<title><?php echo $page_title ?></title>
 		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
