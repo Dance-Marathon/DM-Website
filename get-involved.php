@@ -518,7 +518,7 @@
     <div class="container">
         
 <?php if ($status == "open") { ?>
-    <p>Take a look at all of the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Dancer, Emerging Leader, Ambassador, Fundraiser, or member of Kirstyn’s Krew, this page is your path to getting involved! There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and help us make miracles.</p>
+    <p>Take a look at all of the different ways you can get involved with Dance Marathon at UF. Whether you are interested in becoming a Captain, Miracle Maker, Emerging Leader, Ambassador, Fundraiser, or member of Kirstyn’s Krew, this page is your path to getting involved! There are so many ways to give back through DM at UF, and we would love for you to join our Dance Marathon family and help us make miracles.</p>
                     <!-- <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="q1">
@@ -556,7 +556,7 @@
                                     <p>If you would like to get involved with our organization, check out the list of positions below!</p>
      
                                            <ul><b style="color: #017799">Organization:</b>     Student Organizations work year-round to support our cause.</ul>
-                         <ul><b style="color: #017799">Dancer:</b> Dancers stand on their feet if able for the duration of our Main Event in April to raise funds and awareness for UF Health Shands Children’s Hospital.</ul>
+                         <ul><b style="color: #017799">Miracle Maker:</b> Miracle Makers stand on their feet if able for the duration of our Main Event in April to raise funds and awareness for UF Health Shands Children’s Hospital.</ul>
                                              <ul><b style="color: #017799">Emerging Leader:</b> Members of our Emerging Leaders Program work alongside the Recruitment Team, providing support to Captain Teams and brainstorming new ideas to ensure a successful future for our organization.</ul>
                          <ul><b style="color: #017799">Captain:</b> Captains belong to 1 of 15 teams and take on yearlong responsibilities specific to their respective teams, with the goal of supporting and promoting our organization.</ul>
                          <ul><b style="color: #017799">Assistant Directors:</b> Individuals who work all year with their respective Overall Directors to ensure steady growth and management within their Captain Teams.</ul>
@@ -587,7 +587,7 @@
         <!--<button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>-->
     </div>
     <div class="tab">
-    <button class="tablinks" onclick="openCityAndSubTab(event, 'dancers', 'what')">DANCERS</button>
+    <button class="tablinks" onclick="openCityAndSubTab(event, 'miracle-makers', 'what')">MIRACLE MAKERS</button>
     <button class="tablinks" onclick="openCity(event, 'elp')">EMERGING LEADERS</button>    
         <!--<button class="tablinks" onclick="openCity(event, 'kirstyn')">KIRSTYN'S KREW</button>-->
         <button class="tablinks" onclick="openCity(event, 'orgs')">ORGANIZATIONS</button>
@@ -806,13 +806,13 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
 
   <h3>Responsibilities during the Main Event:</h3>
   <ul>
-    <li>Help assign Dancer buddies prior to the Event for each Dancer</li>
-    <li>Work with their Fundraising and Organization Development Captain to encourage and help Dancers fundraise at the Event</li>
-    <li>Relay important information to Dancers throughout the Event</li>
-    <li>Be available for Dancers in case of emergency</li>
+    <li>Help assign Miracle Maker buddies prior to the Event for each Miracle Maker</li>
+    <li>Work with their Fundraising and Organization Development Captain to encourage and help Miracle Makers fundraise at the Event</li>
+    <li>Relay important information to Miracle Makers throughout the Event</li>
+    <li>Be available for Miracle Makers in case of emergency</li>
   </ul>
 
-  <p class="alert alert-info">Ambassadors are also encouraged to be Dancers if they choose and are eligible for free Dancer Registration upon meeting expectations of the program.</p>
+  <p class="alert alert-info">Ambassadors are also encouraged to be Miracle Makers if they choose and are eligible for free Miracle Maker Registration upon meeting expectations of the program.</p>
     </div>
 
     <div id="start" class="tabcontent-subtab">
@@ -1016,7 +1016,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
         </div>
         <div id="a16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q16">
          <div class="panel-body">
-           <b>The Dancer Engagement Team</b> is responsible for welcoming and communicating with Dancers by hosting Check-Ins, tracking Dancer involvement and providing a year long experience for Dancers through events and other engagement throughout the year. DE Captains work alongside the Recruitment Team to help register Dancers during registration pushes. Captains will be responsible for a group of Dancers that they will communicate with to promote all DM at UF and Dancer events or opportunities. Captains are expected to attend Check-Ins on Wednesdays in Turlington, where they will Check in Dancers, log their Spirit Points, help with the Check-Ins activity, and spread the word about DM at UF on campus. Dancer Engagement also plans events and other engagement specifically for Dancers, which Captains will help execute! At the Main Event, their job is to Check in Dancers, encourage and support them throughout the 26.2 hours, and run swim/shower overnight. As a DE Captain, you are also expected to be a support system for your Dancers and be a resource to them throughout their entire DM at UF experience! 
+           <b>The Dancer Engagement Team</b> is responsible for welcoming and communicating with Miracle Makers by hosting Check-Ins, tracking Miracle Maker involvement and providing a year long experience for Miracle Makers through events and other engagement throughout the year. DE Captains work alongside the Recruitment Team to help register Miracle Makers during registration pushes. Captains will be responsible for a group of Miracle Makers that they will communicate with to promote all DM at UF and Miracle Maker events or opportunities. Captains are expected to attend Check-Ins on Wednesdays in Turlington, where they will Check in Miracle Makers, log their Spirit Points, help with the Check-Ins activity, and spread the word about DM at UF on campus. Dancer Engagement also plans events and other engagement specifically for Miracle Makers, which Captains will help execute! At the Main Event, their job is to Check in Miracle Makers, encourage and support them throughout the 26.2 hours, and run swim/shower overnight. As a DE Captain, you are also expected to be a support system for your Miracle Makers and be a resource to them throughout their entire DM at UF experience! 
           <br><br>
           <h4><b>Overall Director</b></h4>
           Raegan DiRenzo
@@ -1137,7 +1137,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
           </div>
           <div id="a3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q3">
             <div class="panel-body">
-            <b>The Family Relations Team</b> is composed of Captains that serve as liaisons between the Dance Marathon at UF community and the Miracle Families. Captains are paired with at least one Miracle Family and their responsibilities include maintaining consistent contact with their paired Miracle Family, facilitating cause-connection between their Family and the community, and organizing events between the Miracle Families and participating Organizations. Captains will attend monthly Family Fun Days, design and build the Family Room for the 26.2-hour Main Event, and facilitate activities and entertainment for the Miracle Families throughout the entirety of the year. Captains will build cause-connection with the entire Dance Marathon at UF community through fostering relationships between Miracle Families, Captains, Ambassadors, Emerging Leaders, Dancers, and the rest of the community.
+            <b>The Family Relations Team</b> is composed of Captains that serve as liaisons between the Dance Marathon at UF community and the Miracle Families. Captains are paired with at least one Miracle Family and their responsibilities include maintaining consistent contact with their paired Miracle Family, facilitating cause-connection between their Family and the community, and organizing events between the Miracle Families and participating Organizations. Captains will attend monthly Family Fun Days, design and build the Family Room for the 26.2-hour Main Event, and facilitate activities and entertainment for the Miracle Families throughout the entirety of the year. Captains will build cause-connection with the entire Dance Marathon at UF community through fostering relationships between Miracle Families, Captains, Ambassadors, Emerging Leaders, Miracle Makers, and the rest of the community.
           <br><br>
           <h4><b>Overall Director</b></h4>
           Dawson Geller
@@ -1424,7 +1424,7 @@ William Lynfatt-->
           </div>
           <div id="a8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q8">
             <div class="panel-body">
-            <b>The Morale Team</b> is responsible for keeping the spirit of Dance Marathon energetic, positive, and meaningful throughout the entire year, prior to and during the 26.2-hour Main Event. Captains do this by engaging with students and the UF community at both Dance Marathon and UF-related events, hosting fall and spring fundraisers, interacting with high school students at Mini Marathons, and much more. Morale Captains bring the Dance Marathon spirit to campus all year. They constantly work to uplift, inspire, and encourage every member of the DM at UF community. In addition, Morale is in charge of creating, planning, and executing “Theme Hours,” which are unique hours during the Main Event that include costumes and activities to entertain the Dancers. Finally, Morale Captains create the Linedance, which connects every person at the 26.2-hour Main Event. Morale then teaches and demonstrates the Linedance at the Main Event and throughout the year.
+            <b>The Morale Team</b> is responsible for keeping the spirit of Dance Marathon energetic, positive, and meaningful throughout the entire year, prior to and during the 26.2-hour Main Event. Captains do this by engaging with students and the UF community at both Dance Marathon and UF-related events, hosting fall and spring fundraisers, interacting with high school students at Mini Marathons, and much more. Morale Captains bring the Dance Marathon spirit to campus all year. They constantly work to uplift, inspire, and encourage every member of the DM at UF community. In addition, Morale is in charge of creating, planning, and executing “Theme Hours,” which are unique hours during the Main Event that include costumes and activities to entertain the Miracle Makers. Finally, Morale Captains create the Linedance, which connects every person at the 26.2-hour Main Event. Morale then teaches and demonstrates the Linedance at the Main Event and throughout the year.
           <br><br>
           <h4><b>Overall Director</b></h4>
           Dylan Siegel
@@ -1813,7 +1813,7 @@ Sukhman Sidhu-->
             </div>
             <div id="a15" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q15">
               <div class="panel-body">
-              <b>The Recruitment Team</b> is responsible for the recruitment of Dancers, Kirstyn’s Krew, Captains, Emerging Leaders, and Organizations to participate in Dance Marathon at UF. Throughout the year, Captains will work with and give presentations to various external organizations, including those who are not currently a part of Dance Marathon, in order to expand our campus involvement. One of the main goals is to find new ways to support other organizations the way they support us. Captains will also utilize flyers about our cause across campus, working to convey the Miracles that Dance Marathon at UF creates and how each student can give back to their local Children’s Miracle Network Hospital. During the Main Event, Captains will lead tours for visitors of various organizations and families to show the culmination of hard work from the year. Each Recruitment Captain will additionally connect our Faculty and Staff to our year long engagement opportunities and organize events such as Faculty Appreciation Week. Recruitment Captains are integral parts of the movement as they inspire and create leaders in our community, all while raising awareness about Dance Marathon at UF and its purpose.
+              <b>The Recruitment Team</b> is responsible for the recruitment of Miracle Makers, Kirstyn’s Krew, Captains, Emerging Leaders, and Organizations to participate in Dance Marathon at UF. Throughout the year, Captains will work with and give presentations to various external organizations, including those who are not currently a part of Dance Marathon, in order to expand our campus involvement. One of the main goals is to find new ways to support other organizations the way they support us. Captains will also utilize flyers about our cause across campus, working to convey the Miracles that Dance Marathon at UF creates and how each student can give back to their local Children’s Miracle Network Hospital. During the Main Event, Captains will lead tours for visitors of various organizations and families to show the culmination of hard work from the year. Each Recruitment Captain will additionally connect our Faculty and Staff to our year long engagement opportunities and organize events such as Faculty Appreciation Week. Recruitment Captains are integral parts of the movement as they inspire and create leaders in our community, all while raising awareness about Dance Marathon at UF and its purpose.
           <br><br>
           <h4><b>Overall Director</b></h4>
           Ava Orlando
@@ -2152,19 +2152,19 @@ Zachary Abrams-->
 </div>
 </div>
 </div>
-    <div id="dancers" class="tabcontent">
+    <div id="miracle-makers" class="tabcontent">
 <div class="subtab">
-    <button id="whatButton" class="tablinks-subtab" onclick="openSubTab(event, 'what')">WHAT IS DANCING?</button>
-    <button class="tablinks-subtab" onclick="openSubTab(event, 'dfaq')">DANCER FAQS</button>
-    <button class="tablinks-subtab" onclick="openSubTab(event, 'resources')">DANCER RESOURCES</button>
-    <button class="tablinks-subtab" onclick="openSubTab(event, 'individual')">DANCING AS AN INDIVIDUAL</button>
+    <button id="whatButton" class="tablinks-subtab" onclick="openSubTab(event, 'what')">WHAT IS A MIRACLE MAKER?</button>
+    <button class="tablinks-subtab" onclick="openSubTab(event, 'dfaq')">MIRACLE MAKER FAQS</button>
+    <button class="tablinks-subtab" onclick="openSubTab(event, 'resources')">MIRACLE MAKER RESOURCES</button>
+    <button class="tablinks-subtab" onclick="openSubTab(event, 'individual')">MIRACLE MAKING AS AN INDIVIDUAL</button>
 
 </div>
 <div id="what" class="tabcontent-subtab">
-<h3>What Is Dancing?</h3>
+<h3>What Is A Miracle Maker?</h3>
 <p>Dance Marathon at the University of Florida is an annual event benefiting the patients of UF Health Shands Children's Hospital in Gainesville, Florida. Each year, students stay awake and on their feet, if able, to raise money and awareness for Children's Miracle Network Hospitals.</p>
-            <p>As a Dancer, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
-            <p>In addition to standing, if able, for the duration of the Main Event, Dancers will have year-long activities to take part in such as a Dancer Retreat, Registered Dancer Workshops, bonding with their internal Organization and more!</p>
+            <p>As a Miracle Maker, you will experience one of UF’s most adored traditions. Throughout the duration of the Main Event, you will learn our Linedance, enjoy live entertainment, eat delicious food from our local Sponsors, and hear inspiring stories from our Miracle Families.</p>
+            <p>In addition to standing, if able, for the duration of the Main Event, Miracle Makers will have year-long activities to take part in such as a Miracle Maker Retreat, Registered Miracle Maker Workshops, bonding with their internal Organization and more!</p>
         <!--    <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click Here to Register to Dance</a></p> -->
             <p>Please email Raegan DiRenzo, Dancer Engagement Overall Director, at <a href="mailto:rdirenzo@floridadm.org">rdirenzo@floridadm.org </a> with any questions!</p>
           </div>
@@ -2176,13 +2176,13 @@ Zachary Abrams-->
                 <div class="panel-heading" role="tab" id="q17">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a17" aria-expanded="false" aria-controls="a17">
-                    If I register to dance, am I guaranteed a Dancer spot at DM?
+                    If I register to be a Miracle Maker, am I guaranteed a Miracle Maker spot at DM?
                     </a>
                   </h4>
                 </div>
                 <div id="a17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q17">
                   <div class="panel-body">
-                  Not necessarily. Dancer spots are allocated based off of participation and fundraising goals set for each Organization and individual.
+                  Not necessarily. Miracle Maker spots are allocated based off of participation and fundraising goals set for each Organization and individual.
                   </div>
                 </div>
               </div>
@@ -2190,13 +2190,13 @@ Zachary Abrams-->
                 <div class="panel-heading" role="tab" id="q18">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a18" aria-expanded="false" aria-controls="a18">
-                    I already registered to fundraise, do I need to register to dance?
+                    I already registered to fundraise, do I need to register to be a Miracle Maker?
                     </a>
                   </h4>
                 </div>
                 <div id="a18" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q18">
                   <div class="panel-body">
-                  Yes, registering to fundraise and registering to dance are two separate things.
+                  Yes, registering to fundraise and registering to be a Miracle Maker are two separate things.
                   </div>
                 </div>
               </div>
@@ -2204,7 +2204,7 @@ Zachary Abrams-->
                 <div class="panel-heading" role="tab" id="q19">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a19" aria-expanded="false" aria-controls="a19">
-                    Do I have to be a UF student to dance?
+                    Do I have to be a UF student to be a Miracle Maker?
                     </a>
                   </h4>
                 </div>
@@ -2232,13 +2232,13 @@ Zachary Abrams-->
                 <div class="panel-heading" role="tab" id="q21">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a21" aria-expanded="false" aria-controls="a21">
-                      How do I register to dance?
+                      How do I register to be a Miracle Maker?
                     </a>
                   </h4>
                 </div>
                 <div id="a21" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q21">
                   <div class="panel-body">
-                    Click the Dancer Resources tab above for instructions.
+                    Click the Miracle Maker Resources tab above for instructions.
                   </div>
                 </div>
               </div>
@@ -2260,7 +2260,7 @@ Zachary Abrams-->
                 <div class="panel-heading" role="tab" id="q23">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a23" aria-expanded="false" aria-controls="a23">
-                      Can I still dance if I am the Ambassador for my Organization’s team?
+                      Can I still be a Miracle Maker if I am the Ambassador for my Organization’s team?
                     </a>
                   </h4>
                 </div>
@@ -2289,7 +2289,7 @@ Zachary Abrams-->
                 <div class="panel-heading" role="tab" id="q25">
                   <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#a25" aria-expanded="false" aria-controls="a25">
-                      What happens when someone registers to dance and isn’t given a spot?
+                      What happens when someone registers to be a Miracle Maker and isn’t given a spot?
                     </a>
                   </h4>
                 </div>
@@ -2310,7 +2310,7 @@ Zachary Abrams-->
                 </div>
                 <div id="a26" class="panel-collapse collapse" role="tabpanel" aria-labelledby="q26">
                   <div class="panel-body">
-                    You do not have to be in an Organization to register to Dance. You can register as an individual using the link under Dancer Resources; individual Dancers will be placed onto the Gator Aides team. Gator Aides is a team that allows individual Dancers to participate in Dance Marathon at UF with a group although they are not registered with an Organization.
+                    You do not have to be in an Organization to register to be a Miracle Maker. You can register as an individual using the link under Miracle Maker Resources; individual Miracle Makers will be placed onto the Gator Aides team. Gator Aides is a team that allows individual Miracle Makers to participate in Dance Marathon at UF with a group although they are not registered with an Organization.
                   </div>
                 </div>
               </div>
@@ -2322,23 +2322,23 @@ Zachary Abrams-->
 </div>
 </div>
 <div id="resources" class="tabcontent-subtab">
-<h3>Register to Dance</h3>
+<h3>Register to be a Miracle Maker</h3>
            <!-- <p><a href="https://events.dancemarathon.com/event/dmatufdr24" target="_blank">Click here to register to Dance!</a></p> -->
             <P>Follow the link and select “Buy Tickets!” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
-            <p>To be a Dancer, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
-            <p>Registering to <em>dance</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Dancer Registration is only open for the two-week period in the Fall and in the Spring.</p>
-            <p>You may register to dance with an Organization team or as an individual. If you are a member of an Organization that does not currently participate in Dance Marathon, you may start a team by registering on DonorDrive.</p>
-            <p><em>Please note: registration does not guarantee Dancer spots. Dancer spots are allocated in the Spring based off of Organizational or individual achievements.</em></p>
+            <p>To be a Miracle Maker, participants must be enrolled as students at the University of Florida during the spring semester. This includes students who are enrolled but may have an internship in place of classes.</p>
+            <p>Registering to be a<em>Miracle Maker</em> is <u>not</u> the same thing as registering to <em>fundraise</em>. Anyone may register to fundraise at any time throughout the year, but Miracle Maker Registration is only open for the two-week period in the Fall and in the Spring.</p>
+            <p>You may register to be a Miracle Maker with an Organization team or as an individual. If you are a member of an Organization that does not currently participate in Dance Marathon, you may start a team by registering on DonorDrive.</p>
+            <p><em>Please note: registration does not guarantee Miracle Maker spots. Miracle Maker spots are allocated in the Spring based off of Organizational or individual achievements.</em></p>
 <br></br>
           </div>
 </div>
 </div>
 <div id="individual" class="tabcontent-subtab">
-<h3>Dancing as an Individual</h3>
+<h3>Miracle Making as an Individual</h3>
             <p></p>
-            <p>You have the option to register to Dance as an individual. When registering to Dance, it will ask you which Organization you are participating with, and there will be an option that says “Participating as an Individual.” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
-            <p>Individual Dancers are placed on a team called Gator Aides. Being a part of Gator Aides will allow you to make connections with other individual Dancers as well as our Miracle Children. Gator Aides have additional opportunities, meetings, and events throughout the year you can choose to attend that will allow you to become even more involved in our cause. </p>
-            <p>If you have any questions about dancing as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Ava Orlando, at <a href="mailto:aorlando@floridadm.org">aorlando@floridadm.org</a>.</p>
+            <p>You have the option to register to be a Miracle Maker as an individual. When registering to be a Miracle Maker, it will ask you which Organization you are participating with, and there will be an option that says “Participating as an Individual.” Once you complete your registration, a Dance Marathon Captain will reach out to you with further details.</p>
+            <p>Individual Miracle Makers are placed on a team called Gator Aides. Being a part of Gator Aides will allow you to make connections with other individual Miracle Makers as well as our Miracle Children. Gator Aides have additional opportunities, meetings, and events throughout the year you can choose to attend that will allow you to become even more involved in our cause. </p>
+            <p>If you have any questions about Miracle Making as an individual or the Gator Aides team, please contact the Recruitment Overall Director, Ava Orlando, at <a href="mailto:aorlando@floridadm.org">aorlando@floridadm.org</a>.</p>
             <br></br>
           </div>
 
