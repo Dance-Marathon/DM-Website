@@ -1030,28 +1030,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                <h4>  <b>Captains</b></h4> 
                <table style="width:100%">
                 <tbody class="outreach">
-      <!--Adele Dorion |
-      Alexandra Polo |
-      Campbell Crews |
-      Catherine Hardy |
-      Chiara Bell |
-      Danielle Work |
-      David Zaibert |
-      Elizabeth Holcombe |
-      Gabriella Caito |
-      Gabrielle Proulx |
-      Grace Carreno |
-      Jenna Hentrich |
-      Kylie Katims |
-      Lani Tudor-Dodd |
-      Maggie McGuane |
-      Maya Hershkowitz |
-      Miles Jeffares |
-      Miranda Benjamin |
-      Neal Desai |
-      Nicolas Gonzalez |
-      Ryan Brosnahan |
-      Serena Thomas-->
+                Natalia Romano | Kendall Mehlenbacher | Colby Bottger | Daniella Escobar | River Koile | Morgan Schneider | Avery McCormack | Gabby London | Cooper Neel | Cami Rubin | Summer Kauffman | Davi Fishman
           </tbody>
               </table>
                </div>
@@ -1085,44 +1064,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
-                <!--Abby Cohen |
-                Abigail Warren |
-                Alejandro Vela |
-                Alex Glazer |
-                Alice Bachman |
-                Andrew Lenneberg |
-                Ariana Feldman |
-                Bayley Edwards |
-                Bianca Ciancio |
-                Caitlyn McCoy |
-                Cameron Rosenthal |
-                Carley McCammon |
-                Carly Miller |
-                Carly Salk |
-                Claire Lebron |
-                Emily Kelly |
-                Gianna Spadavecchia |
-                Grace Press |
-                Holly Kaplan |
-                Julia Glacer |
-                Ka'Rena Burke |
-                Kate Hannah |
-                Kellie Kulp |
-                Kelsey Kettel |
-                Liam Farrell |
-                Liam Miller |
-                Lydia Kamp |
-                Madelyn Avergonzado |
-                Marielle  Goldschlag |
-                Morgan Liotta |
-                Natalia Romano |
-                Rebecca Borissova |
-                Samantha Kormanyos |
-                Shaila Spritzer |
-                Taylor Mullen |
-                Tyler Bonnoront |
-                Whitney Dreyer |
-                Zoe Sakellarios-->
+                Kate Negron | Chloe Greene | Sean Cheema | Katelyn King | Jayden Spitulnik | Sydney Barnett | Jennifer Gardner | Marina Cheema | Mia Tunon | Casey Vargas | Rachel Glew | Phillip-Dylan Ndwiga | Alicia Grant | Riley Shapiiro | Jamie Knox
                     </tbody>
               </table>
 
@@ -1153,29 +1095,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                <h4>  <b>Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="designandtech">
-                <!--Alicia Grant |
-Ansley Goldstein |
-Carolina Aranguiz Dias |
-Chloe Greene |
-Daniela Iturres |
-Eric Hengber |
-Heather Casto |
-Ilise Hyams |
-Jasmine Byrd |
-Jayden Spitulnik |
-Jennifer Purington |
-Joshua Chin-You |
-Julia Shafizadeh |
-Katelyn King |
-Katrina Ise |
-Lily Cabrera |
-Max Martin |
-Natalie Kwak |
-Paige Hamilton |
-Rachel Glew |
-Riley Shapiro |
-Sade Whitcomb |
-Zachary Grosswirth-->
+                Stella Hurwitz | Emma Shellard | Parker Brown | Samara Becker | Hadassah Sternfeld | Riley Hearn | Emma Sugarman | Logan Black | Lilly Smith | Aaron Fintz | Sophia Diaz | Jackie Bernstein | Piper Dowdell | Gabriella Paredes | Rachel Beer | Victoria Poliak | Gabriella Vogel | Alexa Diamond | Mollie Kron | Gabrielle Monk | Ashleigh Churchill | London Taylor | Jake Rattner | Catherine Hanania | Kaya Hall | Matthew Strogach | Ava Rechter | Shreya Shah | Ryan Magee | Janelle Sumbeling | Abhay Thungathurthi | Ashlin Cannella | Angela Trinh | Rebecca Beer | Haven Copeland | Jasmine Davis | Maddie Avergonzado | Arie Eitani | Joshua Brandt | Madison Daire
                    </tbody>
               </table>
             </div>
@@ -1201,53 +1121,7 @@ Zachary Grosswirth-->
                <h4>  <b>Captains</b></h4> 
 		     <table style="width:100%">
                 <tbody class="familyrelations">
-                <!--Abbey Lantinberg |
-Abby McDade |
-Alexa Diamond |
-Alexa Miller |
-Ally Salzberg |
-Antonio Ponte |
-Arie Y Eitani |
-Ava Rechter |
-Brooke Christopher |
-Chloe Claxton |
-Claire Weitz |
-Emma Sugarman |
-Gabriella Vogel |
-Gabrielle Monk |
-Grace Freeman |
-Hadassah Sternfeld |
-Halle Silver |
-Hannah Kairab |
-Jackie Bernstein |
-Jackson Bond |
-Jake Rattner |
-Janelle Sumbeling |
-Kaya Hall |
-Kristen Russo |
-Lilly Smith |
-Lily Dvorchik |
-Logan Black |
-London Taylor |
-Macy Monsour |
-Matthew Strogach |
-Nolan Anschuetz |
-Olivia Daniel |
-Paola Toro |
-Parker Brown |
-Patrick Kline |
-Piper Dowdel |
-Rachel Beer |
-Riley Hearn |
-Ryan Magee |
-Samantha Litman |
-Samara Becker |
-Sazzad Mabud |
-Shreya Shah |
-Stella Hurwitz |
-Taylor Doering |
-Victoria Poliak |
-Zoe Leitner-->
+                Alejandra Gomez-Pina | Karas Silver | Justien Nguyen | Abby Scapillato | Isabella Ebaugh-Santos | Miray Eser Eser | Jaxen Ranson | Jacob Bousky | Ava Fisher | Chloe Field | Grace Chukwu | Daniel Mateu
                   </tbody>
               </table>
 
@@ -1278,24 +1152,7 @@ Zoe Leitner-->
                <h4>  <b>Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="fundraising">
-                <!--Alexa Mazloff |
-Alexis Pullos |
-Ariana Martinez |
-Ashley Alex |
-Benjamin Lang |
-Brooke Hollander |
-Elijah Bloyer |
-Elijah Freedman |
-Gabriela Cruz |
-Gabriella Peburn |
-Jessica Cramer |
-Mackenzie Kozlowski |
-Morgan Emmi |
-Nick Soviero |
-Peter Koltis |
-Ragavi Mahadevan |
-Sean Doherty |
-Zosia Czigany-->
+                Cristyl Rodriguez | William Lynfatt | Samantha Mirer | Sabrina Gomez | Bruna Pereira | Isabella Garcia | Julianne Jane | Laynee Plawa | Emma Michalski | Emma Ackerman | Madylin Morse | Grace Nesbit | Shannon Detert | Lindsay Nattis | Jillian Jones | Caitlyn Galvez | Gabriela Verez | Alexia Bello | Mackenzie Gale | Haley Jones | Isabelle Rosado | Joshua Song | Becca Reich | Rebekah Zuckerman | Gabriel Sengelmann | Mia Corigliano | Haley Black | Victoria Rios | Ally McGill | Stella Monforte | Ana Luiza Queiroz Damo | Surleen Sahni
                 </tbody>
               </table>
             </div>
@@ -1326,26 +1183,7 @@ Zosia Czigany-->
                <h4>  <b>Captains</b></h4> 
    <table style="width:100%">
                 <tbody class="hospitality">
-                <!--Adam Paroff |
-Alex Licht |
-Annie Ross |
-Brianna Upson |
-Caroline Patterson |
-Catherine Morris |
-Christian Jubran |
-Courtney  Carter |
-Ella Russo |
-Hadley Miller |
-Haley Strauch |
-Ian Tajalli |
-Jessie Squadrito |
-Julia Saltzstein |
-Leah Rison |
-Mackendrick Zavitz |
-Morgan Page |
-Parker Hershkowitz |
-Reagan Doucette |
-Sarah Klein-->
+                Inara Drainville | Alexa Katz | Allison Pace | Eva Sutton | Kyley Holder | Faith Giambalvo | Haven Wilson | Tiffany Cain | Matthew Lehman | Kendyll Campi | Marisa Ricks | Grace Grier | Maria Sacchi | Sara Hassler | Julia Paulsen | Lucy Eichler | Kaylin Djoko | Amina Mubarak | Lindsay Hersh | Priya Kalaria | Kenley Robinson | Reagan Parker
                   </tbody>
               </table>
 
@@ -1377,38 +1215,7 @@ Sarah Klein-->
                <h4>  <b>Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="leadershipdevelopment">
-                <!--Alyssa Fennen |
-Ashley James |
-Ava Carter |
-Cristyl Rodriguez |
-Daniela Villarreal |
-Emily Brundage |
-Emma Ackerman |
-Gabriela Verez |
-Grace Anderson |
-Grace Krantzberg |
-Haley Jones |
-Isabella Kabacinski |
-Isabella Spagnolo |
-Jadelyn Daniels |
-Joey Sheiner |
-Joshua Song |
-Kaden Powell |
-Kylie Davison |
-Laynee Plawa |
-Mackenzie Gale |
-Madylin Morse |
-Mandy Eastwood |
-Margaret McMahan |
-Maya Vaidya |
-Morgan Zvolska |
-Natalie Ehrenwerth |
-Rachel Talley |
-Rebecca Reich |
-Ryan Boyle |
-Sean Behling |
-Sophia Cuna |
-William Lynfatt-->
+                Morgan Mayhann | Camille Robinson | Lindsey Perry | Kenya Jarrett | Isabel Acosta | Abigayle Watson | Kiersten Grimes | Melody Alonso | Alexis Pullos | Joshua Yaciuk | Emily Celestrin | Taylor Barrett | Elana Gabbay | Adi Saigal | Alexandra Saclayan
                   </tbody>
               </table>
 
@@ -1440,28 +1247,7 @@ William Lynfatt-->
                <h4>  <b>Captains</b></h4> 
        <table style="width:100%">
                 <tbody class="marathonrelationsnorth">
-                <!--Alexa Katz |
-Allison Pace |
-Amina Mubarak |
-Ava Iuliani |
-Berkeley Brown |
-Efthymia Copulos |
-Emma Bissell |
-Faith Giambalvo |
-Grace Grier |
-Grace Nelson |
-Jordyn Smith |
-Kayleigh Gallo |
-Leandro Rodriguez |
-Lindsay Hersh |
-Madelyn Scaringe |
-Madison Elman |
-Matthew Lehman |
-Molly Taylor |
-Shannon Manning |
-Sophia Spata |
-Taylor Callaway |
-Tiffany Cain-->
+                Sean Campbell | Emily Sanz | DeLaney Brosen | Kylie Finkelstein | Carson Duke | Daniel Trethewey | Julia Zager | Annalee Watts | Lily Galkin | Sophie Fakhouri | Genesis Rodriguez | Ally Salzberg | Becca Harkins | Makenzie Cole | Zoe Donohoe | Candalyn Thompson | Jessica Perez | Cecilia Coleman | Hollyn O'Brien | Jordan Cohan | Casey Siner | Julia Mortensen | Lauren Maya | Cassandra Musca | Lily Darnell | Olivia Caldara | Kelsey Kettel | Anna Garst | Nika Forouzannia | Katie East | Lauren Price | Delaney Kennedy | Mary Grace Kelly | Olivia Martinez | Kayla Flores | Joshua Waters | Meghan Wilbrett | Sydney Kollas
                       </tbody>
               </table>
             </div>
@@ -1491,28 +1277,7 @@ Tiffany Cain-->
                <h4>  <b>Captains</b></h4> 
        <table style="width:100%">
                 <tbody class="merch">
-                <!--Abby Thibodeau |
-Abigayle Watson |
-Alexandra Kaye |
-Alexandra Levine |
-Ashlyn Kyser |
-Camille Robinson |
-Chloe Lindow |
-Elise Christensen |
-Emma Arigo |
-Ezequiel Serrano |
-Hailey Hartle |
-Julia Scarton |
-Katherine Snediker |
-Kenya Jarrett |
-Kenzie Hunt |
-Lauren Klein |
-Melody Alonso |
-Morgan Mayhann |
-Olivia Knier |
-Perri Kisha |
-Sarah Roth |
-Sydney Corn-->
+                Anais Ramentol | Kyle DiDonato | Jennifer Blardonis | Alexa Freedman | Marissa Haberlin | Vanessa Garcia | Katie Apolo | Kathryn Burke | Briana Boyd | Maddox Forman | Kieran McAteer | Mallory Schumann | Libby Clifton | Lucy Tadlock | Delaney Craig | Abby Brady | Bayden Armstrong | Sophia Gonzalez
                   </tbody>
               </table>
 
@@ -1544,49 +1309,7 @@ Sydney Corn-->
                <h4>  <b>Captains</b></h4> 
       <table style="width:100%">
                 <tbody class="morale">
-                <!--Amanda Fernandez |
-Amit Sapir |
-Anna Garst |
-Annalee Watts |
-Becca Harkins |
-Brianna Ponce |
-Casey Siner |
-Cecilia Coleman |
-Daniel Trethewey |
-Delaney Kennedy |
-Dylan Siegel |
-Eileen Vara |
-Emily Sanz |
-Gina Fimiano |
-Halle Prilik |
-Hollyn O'Brien |
-Josh Levin |
-Joshua Waters |
-Julia Mortensen |
-Julia Zager |
-Juliette Andrews |
-Katie East |
-Kylie Finkelstein |
-Lauren Price |
-Liliana Remillard |
-Madelon Enneking |
-Makenzie Cole |
-Mary Grace Kelly |
-Maxwell Schwartz |
-Mistie Webb |
-Natalie Saliwanchik |
-Nina Rico |
-Noa Pogany |
-Olivia Caldara |
-Peyten Hernandez |
-Raina Khanna |
-Samantha Guerrero |
-Sean Campbell |
-Shannon O'Neil |
-Sophie Fakhouri |
-Sydney Fialkow |
-Sydney Kollas |
-Zoe Donohoe-->
+                Cami Rosenthal | Avery Collada | Kaylee Wesner | Harmon Klein | Zoe Sakellarios | Shaila Spritzer | Holly Kaplan | Ariana Feldman | Julia Glacer | Carly Salk | Ryan LaLiberty | Chloe Megginson | Ashley Alex | Samantha Santo | Julianne Robinson | Corey Schwartz | Zach Wolsonovich | Liam Miller
                     </tbody>
               </table>
 
@@ -1616,30 +1339,7 @@ Zoe Donohoe-->
                <h4>  <b>Captains</b></h4> 
     <table style="width:100%">
                 <tbody class="multimedia">
-                <!--Anais Ramentol |
-Andrea Colon |
-Anna Romanenko |
-Ariel Rademeyer |
-Ashley Dankese |
-Caleb Harris |
-Gabriella Aulisio |
-Hailey Hurst |
-Hayli Balgobin |
-Jennifer Blardonis |
-Jessica Kuehler |
-Madilyn Gemme |
-Madison Murray |
-Marlee Wittner |
-Meghan Wilbrett |
-Mia Posada |
-Noah Morrow |
-Rachel Bernstein |
-Rafael Pere |
-Rebecca Salamon |
-Riley Blair |
-Sky Augusta |
-Sydney Crenshaw |
-Xiaotong Yu-->
+                Catherine Hardy | Jordan Hentrich | Tori Kitchens | Danielle Work | Jenna Hentrich | Mila Mullin | Sonali Vijay | Gabriella Williams | Eden Zausner | Kylie Katims | Grace Carreno | Abhilasha Kadel
                     </tbody>
               </table>
             </div>
@@ -1672,30 +1372,7 @@ Xiaotong Yu-->
                <h4>  <b>Captains</b></h4> 
               <table style="width:100%">
                 <tbody class="productions">
-                <!--Adam Crasnow |
-Andrew Salk |
-Andrew Previte |
-Angela Trinh |
-Ashley Paek |
-Aubree Robinson |
-Ava Scammell |
-Becca Michaels |
-Bianca Arocha |
-Dani Primerano |
-Elizabeth Insuasti |
-Georgette Suarez |
-Inaya Siddiqui |
-Jessica Borowski |
-Josh Rosenblatt |
-Katelyn Bates |
-Leah Johnson |
-Lillian Ghozali |
-Madelyne Wirbel |
-Meagan Long |
-Ravi Patel |
-RyLee Haugh |
-Samantha Rees |
-Tor Moncrieff-->
+                Reagan Doucette | Courtney Carter | Annette Concepcion | Erin Mooney | Gabriela Wisz | Jessie Squadrito | Hadley Miller | Alex Licht | Sarah Klein | Marcus Khanna | Isabelle Azambuja | Kayla Bigelman | Emma Golub | Katie Glennon | Matthew Hill | Renee Zaiss
                         </tbody>
               </table>
 
@@ -1727,30 +1404,7 @@ Tor Moncrieff-->
                <h4>  <b>Captains</b></h4> 
      <table style="width:100%">
                 <tbody class="pr">
-                <!--Alexa Gingold |
-Ally Jewell |
-Anabella Fernandez |
-Benjamin Stone |
-Cole Buffa |
-Ellie Simkhai |
-Gavin Ostrow |
-Grace McClung |
-Grey Chapin |
-Haley Wade |
-Hannah Stefan |
-Jack Buffa |
-Jessica Perez |
-Lainey Shapiro |
-Lauren Lodowski |
-Madison Schioppo |
-Nicole DeSilva |
-Nicole Gigliotti |
-Riley Highfield |
-Romy Peretz |
-Rylie Pryor |
-Samantha Green |
-Trevor Shepherd |
-Veronica Nobles-->
+                Addison Dodd | RyLee Haugh | Sarah Broe | Meagan Long | Claire Dinh | Layna Hood | Isabella Ward | Rebecca Weigle | Olivia Rodriguez | Dani Primerano | Kristina Guerra | Ava Scammell | Vivian Lopez | Meryn Rubenstein | Daniela San Martin | Elisa Crivelli
                         </tbody>
               </table>
 
@@ -1780,26 +1434,7 @@ Veronica Nobles-->
                <h4>  <b>Captains</b></h4> 
            <table style="width:100%">
                 <tbody class="recruitment"> 
-               <!-- Addison Wooley |
-Alexandra Longa |
-Ariel Banfalvy |
-Ava Orlando |
-Daniela Velasquez |
-Francesca Abarno |
-Frankie Provenzano |
-Isabella Duarte |
-Isabella Duncan |
-Isabella Gray |
-Jordan Hartman |
-Katherine McKeon |
-Katie Piskun |
-Lauren Kuller |
-Lea Mattia |
-Madison  Daire |
-Mia Filoramo |
-Sam Jacobi |
-Savannah Woods |
-Sukhman Sidhu-->
+                Brooke Backof | Sofia Amoroso | Sofia Castaneda-Castellanos | Elizabeth Mallard | Taylor Dean | Sarah Abisror | Alexa Gingold | Alyza Dooley | Skylar Bons | Logan Feldman | Lexie Tantleff | Kaylee McCarthy | Lily Waldshan
                         </tbody>
               </table>
               </div>
@@ -1827,22 +1462,8 @@ Sukhman Sidhu-->
                <h4>  <b>Captains</b></h4> 
           <table style="width:100%">
                 <tbody class="sponsorships">
-                <!--Caleb Dandeneau |
-Chloe Rubin |
-Dylan Lyons |
-Elle Lentz |
-Hallie Miller |
-Jaiden Lopes |
-Joey Jung |
-Joshua Brandt |
-Kristina Guerra |
-Liam Pattison |
-Matthew Hill |
-Remi Sanchez IV |
-Ryan Blume |
-Timothy Hodges |
-Tyller Bauer |
-Zachary Abrams-->
+                Jordan Hartman | Ariel Banfalvy | Abigail Elliott | Casey Strauss | Francesca Abarno | Daniela Velasquez | Amaana Quadir | Lea Mattia | Olivia Kaplan | Isabella Diaz Figueroa | Presley Berman | Kaitlyn Koviack | Prithika Bose | Rae Weinstein
+
                     </tbody>
               </table>
               </div>
