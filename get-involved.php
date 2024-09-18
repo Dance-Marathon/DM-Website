@@ -1064,7 +1064,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
-                Kate Negron | Chloe Greene | Sean Cheema | Katelyn King | Jayden Spitulnik | Sydney Barnett | Jennifer Gardner | Marina Cheema | Mia Tunon | Casey Vargas | Rachel Glew | Phillip-Dylan Ndwiga | Alicia Grant | Riley Shapiiro | Jamie Knox
+                Kate Negron | Chloe Greene | Sean Cheema | Katelyn King | Jayden Spitulnik | Sydney Barnett | Jennifer Gardner | Marina Cheema | Mia Tunon | Casey Vargas | Rachel Glew | Phillip-Dylan Ndwiga | Alicia Grant | Riley Shapiro | Jamie Knox
                     </tbody>
               </table>
 
