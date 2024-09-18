@@ -119,7 +119,7 @@ include("includes/navbar.php");
 
     /* Create an active/current tablink class */
     .tab button.active {
-        background-color: #017799;
+        background-color: #233563;
         margin-bottom: 0%;
     }
 
@@ -164,8 +164,8 @@ include("includes/navbar.php");
     }
 
     .subtab button.active {
-        color: #FCD13A;
-        border-bottom: 2px solid #FCD13A;
+        color: #e2883c;
+        border-bottom: 2px solid #e2883c;
         height: 50px;
     }
 
@@ -234,8 +234,8 @@ include("includes/navbar.php");
         <?php if ($status == "open") { ?>
             <!--<h3><b><span style="color: black">A YEARLONG PHILANTHROPY</span></b></h3>-->
             <h2>A Yearlong Philanthropy</h2>
-            <p>Dance Marathon is a <b><span style="color: #FCD13A">yearlong commitment</span></b> that includes many fundraising events aimed at reaching University students, businesses, and Gainesville residents. These events help us create a fun and exciting atmosphere while raising awareness about DM, whether it is through social media or inspirational stories from our Miracle Children who speak at the events. DM at UF's community events are all highly anticipated as they build up throughout the year toward the main Event in the spring.</p>
-            <p><b><span style="color: #017799">Your involvement in these events is what makes them successful!</span></b> Reaching out for the support of the entire community is vital for the continued success of Gainesville's local Children's Miracle Network Hospital. For more information about how to get involved in these events, please contact us at <a href="floridadm@floridadm.org">floridadm@floridadm.org</a>.</p>
+            <p>Dance Marathon is a <b><span style="color: #e2883c">yearlong commitment</span></b> that includes many fundraising events aimed at reaching University students, businesses, and Gainesville residents. These events help us create a fun and exciting atmosphere while raising awareness about DM, whether it is through social media or inspirational stories from our Miracle Children who speak at the events. DM at UF's community events are all highly anticipated as they build up throughout the year toward the main Event in the spring.</p>
+            <p><b><span style="color: #233563">Your involvement in these events is what makes them successful!</span></b> Reaching out for the support of the entire community is vital for the continued success of Gainesville's local Children's Miracle Network Hospital. For more information about how to get involved in these events, please contact us at <a href="floridadm@floridadm.org">floridadm@floridadm.org</a>.</p>
         <?php } else {
             echo 'This page is currently closed.';
         } ?>
@@ -300,7 +300,7 @@ include("includes/navbar.php");
             <!-- <button class="tablinks-subtab" onclick="openSubTab(event, 'zone')">WHAT'S MY ZONE?</button> -->
         </div>
         <div id="marathon" class="tabcontent-subtab">
-            <p>10 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of <i style="color:#017799;"><b>$205,897.99</b></i>, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
+            <p>10 high schools around the state of Florida participate each year in our Mini Marathon program. High school students at these schools show an enthusiastic passion for Dance Marathon even before their college years begin and play a vital role in our movement. This past year, our Mini Marathon programs raised a total of <i style="color:#233563;"><b>$205,897.99</b></i>, proving that these students are truly one generation fighting for the next. All money raised by Mini Marathons goes toward DM at UF’s total amount raised, which directly benefits the children at UF Health Shands Children’s Hospital.</p>
             <!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/-qCnFuEPZOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
             <iframe width="560" height="315" src="https://www.youtube.com/embed/wDD1GzDla3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>We are always looking for more high schools to join our Dance Marathon family. If you would like to learn more about our Mini-Marathon Programs or would like to get involved, please contact our Marathon Relations Overall Director, Lexi Devescovi, at <a href="adevescovi@floridadm.org ">adevescovi@floridadm.org </a>.</p>

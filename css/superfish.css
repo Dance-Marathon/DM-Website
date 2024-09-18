@@ -47,7 +47,7 @@
 /*** SKIN ***/
 .sf-menu ul {
 	min-width: 12em; /* allow long menu items to determine submenu width */
-	*width: 12em; /* no auto sub width for IE7, see white-space comment below */
+	width: 12em; /* no auto sub width for IE7, see white-space comment below */
 }
 .sf-menu a {
 	text-decoration: none;
@@ -59,7 +59,7 @@
 	line-height: 26px;
 	letter-spacing: 0.05em;
 	white-space: nowrap; /* no need for Supersubs plugin */
-	*white-space: normal; /* ...unless you support IE7 (let it wrap) */
+	white-space: normal; /* ...unless you support IE7 (let it wrap) */
 }
 .sf-menu li a {
 	color:#fff;
@@ -73,14 +73,14 @@
 }
 .sf-menu li:hover,
 .sf-menu li.sfHover {
-	background: #FCD13A;
+	background: #e2883c;
 	/* only transition out, not in */
 	-webkit-transition: none;
 	transition: none;
 }
 .sf-menu li ul {
   display: none; /* prevents menu from showing for a split-second on page load */
-	background: #FCD13A;
+	background: #e2883c;
   border: none;
   border-radius: 0px;
   padding-top: 4px;
@@ -112,7 +112,7 @@
 .sf-menu .open > a,
 .sf-menu .open > a:hover,
 .sf-menu .open > a:focus {
-  background-color: #FCD13A;
+  background-color: #e2883c;
 }
 
 /*
