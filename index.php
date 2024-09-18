@@ -72,7 +72,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #FCD13A; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #e2883c; font-weight: 700;">ORGANIZATION</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="org-leaderboard"></div>
         </div>
     </div>
@@ -80,7 +80,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #017799; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #233563; font-weight: 700;">DANCER</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="dancer-leaderboard"></div>
         </div>
       </div>
@@ -88,7 +88,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #FCD13A; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #e2883c; font-weight: 700;">CAPTAIN</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="captain-leaderboard"></div>
         </div>
       </div>
@@ -96,7 +96,7 @@
   <div style="margin: 45px 0;">
       <div class="col-md-3">
         <div class="text-center">
-          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #017799; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
+          <h2 style="margin: 45px 0; font-weight: 400; text-transform: uppercase;"> <span style="font-size:0.75em;">Transform Today</br></span> <span style="color: #233563; font-weight: 700;">ELP</br></span><span style="font-size:0.75em;">Leaderboard</span> </h2>
           <div class="elp-leaderboard"></div>
         </div>
       </div>
@@ -197,7 +197,7 @@
 <!--       <p><a class="btn btn-default huge-button" href="dm2015">Follow the event live here!</a></p> -->
 
 
-      <!--<p style="margin:0"><a href="/dance-marathon" style="color:#017799"><b>Check out our 2018 Livestream</b></a></p>-->
+      <!--<p style="margin:0"><a href="/dance-marathon" style="color:#233563"><b>Check out our 2018 Livestream</b></a></p>-->
 
 
 <div id="event_banner">
@@ -205,10 +205,10 @@
     </div>
 
     </div>
-   <!-- <p style="padding-top:0;"><i style="color:#FCD13A;"><b>Dance Marathon</b></i> at the <i style="color:#FCD13A;"><b>University of Florida</b></i> is gearing up for our 30th annual Main Event on April 13th-14th, 2024! Together, we continue our <i style="color:#017799;"><b>#FightForMore</b></i> for 26.2 hours in the Stephen C. O’Connell Center. We have so many things in store to celebrate our year long efforts including fan favorites such as the Linedance, Theme Hours, the Rave, talent performances, and so much more! Participants will have the opportunity to hear from our Miracle Families as they share their stories, and the impact that <i style="color:#FCD13A;"><b>DM at UF</b></i> has had on their lives. Tune in to help us continue our fight against childhood illness and reach the day that no child has to wear a hospital band. -->
-    <p style="padding-top:0;"><i style="color:#FCD13A;"><b>Dance Marathon</b></i> at the <i style="color:#FCD13A;"><b>University of Florida</b></i> is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#017799;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 31st year of <i style="color:#FCD13A;"><b>Dance Marathon</b></i> at <i style="color:#FCD13A;"><b>UF</b></i>, having fundraised over $31,000,000 thus far. This past year, we celebrated our 30th year by raising a historic <i style="color:#017799;"><b>$1,531,518.24!</b></i>
-    <p style="padding-top:0;">This year, our summer campaign signals both a reflection of the past and our <i style="color:#FCD13A;"><b>vision for the future</b></i>. We had a monumental year celebrating the <i style="color:#FCD13A;"><b>30th anniversary</b></i> of DM at UF’s founding, but it poses the question of “What’s next?” <i style="color:#017799;"><b>#BeyondThisMoment</b></i> represents our commitment to continue making an <i style="color:#FCD13A;"><b>impact</b></i> beyond this year and beyond this generation. This summer, carry your passion wherever you go and always keep this cause in your heart. While many college students are living “in the moment,” we have the opportunity to think <i style="color:#017799;"><b>#BeyondThisMoment</b></i> and be a part of something <i style="color:#FCD13A;"><b>bigger than ourselves</b></i>. No matter the season, our dedication to ending pediatric illness remains. We hope you find inspiration in this year’s summer campaign and we can’t wait to see the many ways you make an impact <i style="color:#017799;"><b>#BeyondThisMoment</b></i></i>
-    <!-- <p style="padding-top:0;"><i style="color:#FCD13A;"><b>30 years ago</b></i>, it was the resilience, the drive, the fight, in a group of students with a dedicated purpose, that has long since inspired thousands of members, partners, and donors to continue our battle. <i style="color:#017799;"><b>#FightForMore</b></i> encapsulates our determination to carry on the legacy of <i style="color:#FCD13A;"><b>DM at UF</b></i> and all those who came before us. Our Miracle Children and Families are all fighting illnesses they did not choose to fight. They never stop fighting, so neither should we.  We all have the ability to fight; to create a world where children facing pediatric illness are not defined by their conditions, but rather their courage and determination to <i style="color:#017799;"><b>#FightForMore</b></i>.<br/> -->
+   <!-- <p style="padding-top:0;"><i style="color:#e2883c;"><b>Dance Marathon</b></i> at the <i style="color:#e2883c;"><b>University of Florida</b></i> is gearing up for our 30th annual Main Event on April 13th-14th, 2024! Together, we continue our <i style="color:#233563;"><b>#FightForMore</b></i> for 26.2 hours in the Stephen C. O’Connell Center. We have so many things in store to celebrate our year long efforts including fan favorites such as the Linedance, Theme Hours, the Rave, talent performances, and so much more! Participants will have the opportunity to hear from our Miracle Families as they share their stories, and the impact that <i style="color:#e2883c;"><b>DM at UF</b></i> has had on their lives. Tune in to help us continue our fight against childhood illness and reach the day that no child has to wear a hospital band. -->
+    <p style="padding-top:0;"><i style="color:#e2883c;"><b>Dance Marathon</b></i> at the <i style="color:#e2883c;"><b>University of Florida</b></i> is the largest student-run and highest fundraising philanthropy in the Southeast United States. Our mission is to strive to bring together the campus and community to raise funds and awareness for our local Children's Miracle Network Hospital, <i style="color:#233563;"><b>UF Health Shands Children's Hospital</b></i>. We are going into our 31st year of <i style="color:#e2883c;"><b>Dance Marathon</b></i> at <i style="color:#e2883c;"><b>UF</b></i>, having fundraised over $31,000,000 thus far. This past year, we celebrated our 30th year by raising a historic <i style="color:#233563;"><b>$1,531,518.24!</b></i>
+    <p style="padding-top:0;">This year, our summer campaign signals both a reflection of the past and our <i style="color:#e2883c;"><b>vision for the future</b></i>. We had a monumental year celebrating the <i style="color:#e2883c;"><b>30th anniversary</b></i> of DM at UF’s founding, but it poses the question of “What’s next?” <i style="color:#233563;"><b>#BeyondThisMoment</b></i> represents our commitment to continue making an <i style="color:#e2883c;"><b>impact</b></i> beyond this year and beyond this generation. This summer, carry your passion wherever you go and always keep this cause in your heart. While many college students are living “in the moment,” we have the opportunity to think <i style="color:#233563;"><b>#BeyondThisMoment</b></i> and be a part of something <i style="color:#e2883c;"><b>bigger than ourselves</b></i>. No matter the season, our dedication to ending pediatric illness remains. We hope you find inspiration in this year’s summer campaign and we can’t wait to see the many ways you make an impact <i style="color:#233563;"><b>#BeyondThisMoment</b></i></i>
+    <!-- <p style="padding-top:0;"><i style="color:#e2883c;"><b>30 years ago</b></i>, it was the resilience, the drive, the fight, in a group of students with a dedicated purpose, that has long since inspired thousands of members, partners, and donors to continue our battle. <i style="color:#233563;"><b>#FightForMore</b></i> encapsulates our determination to carry on the legacy of <i style="color:#e2883c;"><b>DM at UF</b></i> and all those who came before us. Our Miracle Children and Families are all fighting illnesses they did not choose to fight. They never stop fighting, so neither should we.  We all have the ability to fight; to create a world where children facing pediatric illness are not defined by their conditions, but rather their courage and determination to <i style="color:#233563;"><b>#FightForMore</b></i>.<br/> -->
   </b></a>
 </i></p>
 
@@ -360,11 +360,11 @@
       </div>
 
       <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #FCD13A;">
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev" style="background: none; color: #e2883c;">
         <span class="glyphicon glyphicon-chevron-left"></span>
         <span class="sr-only">Previous</span>
          </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #017799">
+      <a class="right carousel-control" href="#myCarousel" data-slide="next" style="background: none; color: #233563">
         <span class="glyphicon glyphicon-chevron-right"></span>
         <span class="sr-only">Next</span>
       </a>
