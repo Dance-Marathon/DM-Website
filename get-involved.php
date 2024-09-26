@@ -757,21 +757,21 @@ for($i = 0; $i < count($overalls); $i++) {
 <!-- You can apply for both the Emerging Leaders Program and for Captain Teams. However, your Captain Application will take priority over your Emerging Leader Application. You can apply to be an Ambassador even if you hold another position, and you will be able to do both.</p> -->
 <b>Assistant Director Application</b> Now Closed </p>
 <!--The Assistant Director Application can be found <a href="assets/PDFs/Assistant Director Application 2025.pdf" target="_blank">here</a>. This application will close at <b/>5:00 PM EST on Saturday, May 11</b>. </p> -->
-<b>Captain Application</b> Now Open! </p>
+<b>Captain Application</b> Now Closed </p>
     <!--The Captain Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_9YoO63ERV8HTK3s" target="_blank">here</a>. We highly recommend completing your Application in a document and transferring it to Qualtrics when you’re ready to submit. This application will close at <b/>5:00 PM EST on Monday, September 4</b>. 
 
 <p>A PDF of all Captain Team descriptions and Application questions can be found <a href="assets/PDFs/Captain Descriptions and Application Questions1.pdf" target="_blank">here</a>.</p> -->
 
-<b>Emerging Leaders Application</b> Now Open! </p> 
+<b>Emerging Leaders Application</b> Now Closed </p> 
     <!--<p>The Emerging Leaders Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_2066pLrEw4x6P0q" target="_blank">here</a>. This application will close at <b>11:59 PM EST on Monday, September 11</b>.</p> -->
-<b>Ambassador Application</b> Now Open! </p> 
-<p style="color:#233563;">The <b>Ambassador</b> Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_eG7brijBCrJ8mk6" target="_blank">here</a>. 
+<b>Ambassador Application</b> Now Closed </p> 
+<!-- <p style="color:#233563;">The <b>Ambassador</b> Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_eG7brijBCrJ8mk6" target="_blank">here</a>. 
  This application will close at <b>11:59 PM EST on Sunday, September 8th</b>.</p>
  <p style="color:#233563;">The <b>Captain</b> Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_3pWD8fdMeJfRUKW" target="_blank">here</a>. 
  This application will close at <b> 5:00 p.m EST on Sunday, September 1</b>.</p>
  Click <a href="assets/PDFs/Captain Application Info Doc 2025.pdf" target="_blank">here</a> to view the 2025 Captain Application</p>
  <p style="color:#233563;">The <b>Emerging Leaders</b> Application can be found <a href="https://ufl.qualtrics.com/jfe/form/SV_7TKhEyx59QxT8zQ" target="_blank">here</a>. 
- This application will close at <b> 11:59 p.m EST on Sunday, September 8</b>.</p>
+ This application will close at <b> 11:59 p.m EST on Sunday, September 8</b>.</p> -->
 <p>If you have any questions regarding applications, please reach out to our Membership Manager, Abby Ferrell, at <a href="mailto:aferrell@floridadm.org">aferrell@floridadm.org</a>.</p>
                     
 </div>
@@ -1064,7 +1064,7 @@ Click <a href="assets/PDFs/2024 Ambassador Guidelines.pdf" target="_blank">here<
                     
               <table style="width:100%">
                 <tbody class="dancerrelations">
-                Kate Negron | Chloe Greene | Sean Cheema | Katelyn King | Jayden Spitulnik | Sydney Barnett | Jennifer Gardner | Marina Cheema | Mia Tunon | Casey Vargas | Rachel Glew | Phillip-Dylan Ndwiga | Alicia Grant | Riley Shapiiro | Jamie Knox
+                Kate Negron | Chloe Greene | Sean Cheema | Katelyn King | Jayden Spitulnik | Sydney Barnett | Jennifer Gardner | Marina Cheema | Mia Tunon | Casey Vargas | Rachel Glew | Phillip-Dylan Ndwiga | Alicia Grant | Riley Shapiro | Jamie Knox
                     </tbody>
               </table>
 
