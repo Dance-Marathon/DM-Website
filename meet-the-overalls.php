@@ -69,7 +69,7 @@
         'name'       =>  'Ryan Beany',
         'position'   =>  'Finance Overall',
         'email'      =>  'rbeany@floridadm.org',
-        'image'      =>  'BEANY.png',
+        'image'      =>  'BEANY.jpg',
       ),
 
       array(
@@ -97,7 +97,7 @@
         'name'       =>  'Dylan Siegel',
         'position'   =>  'Morale Overall',
         'email'      =>  'dsiegel@floridadm.org',
-        'image'      =>  'DS.png',
+        'image'      =>  'DS.jpg',
       ),
 
       array(
@@ -111,7 +111,7 @@
         'name'       =>  'Caroline Lee',
         'position'   =>  'Organization Relations Overall',
         'email'      =>  'clee@floridadm.org',
-        'image'      =>  'CL.jpeg',
+        'image'      =>  'CL.jpg',
       ),
 
       array(
